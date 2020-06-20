@@ -1,0 +1,1115 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001884,C0087130,DIAGNOSES,Airway Resistance Test,Uncertainty,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0001884,C0150312,DIAGNOSES,Airway Resistance Test,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0002978,C0150312,DIAGNOSES,angiogram,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0002978,C0424830,DIAGNOSES,angiogram,Dilated blood vessel,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0002978,C2029943,DIAGNOSES,angiogram,Transplanted heart present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0002978,C3827002,DIAGNOSES,angiogram,Ground Glass Opacity,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0002979,C0150312,DIAGNOSES,"Angiography, Digital Subtraction",Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0003811,DIAGNOSES,Auscultation,Cardiac Arrhythmia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0013798,DIAGNOSES,Auscultation,Electrocardiogram,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0018808,DIAGNOSES,Auscultation,Heart murmur,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0034642,DIAGNOSES,Auscultation,Rales,diap,fndg,7,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0035508,DIAGNOSES,Auscultation,Rhonchi,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0039231,DIAGNOSES,Auscultation,Tachycardia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0184511,DIAGNOSES,Auscultation,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0231856,DIAGNOSES,Auscultation,Abnormal breath sounds,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0232257,DIAGNOSES,Auscultation,Systolic Murmurs,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0238844,DIAGNOSES,Auscultation,Decreased breath sounds,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0238845,DIAGNOSES,Auscultation,Increased breath sounds,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0277858,DIAGNOSES,Auscultation,Absent breath sounds,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0425543,DIAGNOSES,Auscultation,Coarse respiratory crackles,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0425544,DIAGNOSES,Auscultation,Fine respiratory crackles,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0425623,DIAGNOSES,Auscultation,Soft systolic murmur,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0577822,DIAGNOSES,Auscultation,Heart sounds abnormal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C0577961,DIAGNOSES,Auscultation,Inspiratory crackles,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C1704258,DIAGNOSES,Auscultation,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004339,C3827002,DIAGNOSES,Auscultation,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0003962,DIAGNOSES,Autopsy,Ascites,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0019209,DIAGNOSES,Autopsy,Hepatomegaly,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0030232,DIAGNOSES,Autopsy,Pallor,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0035648,DIAGNOSES,Autopsy,risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0038002,DIAGNOSES,Autopsy,Splenomegaly,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0150312,DIAGNOSES,Autopsy,Present,diap,fndg,25,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0205400,DIAGNOSES,Autopsy,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0221198,DIAGNOSES,Autopsy,Lesion,diap,fndg,15,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0241052,DIAGNOSES,Autopsy,skeletal deformity,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0264939,DIAGNOSES,Autopsy,Systemic Vasculitis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0332148,DIAGNOSES,Autopsy,Probable diagnosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0332441,DIAGNOSES,Autopsy,Normal tissue morphology,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0332572,DIAGNOSES,Autopsy,Abnormal color,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0392209,DIAGNOSES,Autopsy,Nutritional status,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0442726,DIAGNOSES,Autopsy,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0449411,DIAGNOSES,Autopsy,Causative_agents,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0520806,DIAGNOSES,Autopsy,Unexplained sudden death,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0542518,DIAGNOSES,Autopsy,Enlarged kidney,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0595939,DIAGNOSES,Autopsy,Stillbirth,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0679250,DIAGNOSES,Autopsy,Disease Outcome,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0744827,DIAGNOSES,Autopsy,hepatitis active,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C0750484,DIAGNOSES,Autopsy,Confirmation,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1262477,DIAGNOSES,Autopsy,Weight decreased,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1299448,DIAGNOSES,Autopsy,Patient ventilated,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1334016,DIAGNOSES,Autopsy,High Grade Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1334929,DIAGNOSES,Autopsy,Necrotic Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1334962,DIAGNOSES,Autopsy,Polymorphonuclear Cell Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1510886,DIAGNOSES,Autopsy,Angioinvasion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1517029,DIAGNOSES,Autopsy,Extensive Necrosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1518340,DIAGNOSES,Autopsy,No Evidence of Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1519789,DIAGNOSES,Autopsy,Unexpected Adverse Event,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1704258,DIAGNOSES,Autopsy,Abnormality,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1707743,DIAGNOSES,Autopsy,Diffuse Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1709157,DIAGNOSES,Autopsy,Negative Surgical Margin,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1836348,DIAGNOSES,Autopsy,Severe disorder,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1849578,DIAGNOSES,Autopsy,Reduced muscle mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1850415,DIAGNOSES,Autopsy,Microvesicular steatosis (disorder),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C1854494,DIAGNOSES,Autopsy,Slow progression,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C2985294,DIAGNOSES,Autopsy,Fourth Stage of Labor,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3540840,DIAGNOSES,Autopsy,Sign or Symptom,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3671964,DIAGNOSES,Autopsy,Infiltration of peribronchiolar tissue,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3687252,DIAGNOSES,Autopsy,Eosinophilic inflammation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3687360,DIAGNOSES,Autopsy,Poor body condition,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3687361,DIAGNOSES,Autopsy,Body condition,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3842676,DIAGNOSES,Autopsy,Day 2,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C3872830,DIAGNOSES,Autopsy,Inflammatory lesion,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4012240,DIAGNOSES,Autopsy,Atelectatic lungs,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4048267,DIAGNOSES,Autopsy,Cytoplasmic vacuolation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4055506,DIAGNOSES,Autopsy,Accumulation,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4289767,DIAGNOSES,Autopsy,Colonization,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4313225,DIAGNOSES,Autopsy,Interstitial infiltrates,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4313322,DIAGNOSES,Autopsy,Alveolar damage,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0004398,C4321237,DIAGNOSES,Autopsy,High Level,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0035648,DIAGNOSES,Biopsy,risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0150312,DIAGNOSES,Biopsy,Present,diap,fndg,13,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0154270,DIAGNOSES,Biopsy,Localized adiposity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0205160,DIAGNOSES,Biopsy,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0205400,DIAGNOSES,Biopsy,Thickened,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0221198,DIAGNOSES,Biopsy,Lesion,diap,fndg,10,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0262361,DIAGNOSES,Biopsy,Growth abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0333361,DIAGNOSES,Biopsy,Acute inflammation,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0424576,DIAGNOSES,Biopsy,Fit and well,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0442751,DIAGNOSES,Biopsy,Distance vision 6/9,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0442797,DIAGNOSES,Biopsy,Decreasing,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0449575,DIAGNOSES,Biopsy,Histological finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0683314,DIAGNOSES,Biopsy,personal health,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0683321,DIAGNOSES,Biopsy,poor health,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0744827,DIAGNOSES,Biopsy,hepatitis active,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0750484,DIAGNOSES,Biopsy,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C0860194,DIAGNOSES,Biopsy,copper high,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1290922,DIAGNOSES,Biopsy,Baseline state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1299448,DIAGNOSES,Biopsy,Patient ventilated,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1334068,DIAGNOSES,Biopsy,Hypercellular bone marrow,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1446409,DIAGNOSES,Biopsy,Positive,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1518340,DIAGNOSES,Biopsy,No Evidence of Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1704258,DIAGNOSES,Biopsy,Abnormality,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1707743,DIAGNOSES,Biopsy,Diffuse Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1837496,DIAGNOSES,Biopsy,Axonal degeneration,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1859867,DIAGNOSES,Biopsy,Hepatocyte dropout,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C1883047,DIAGNOSES,Biopsy,Small Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C2750118,DIAGNOSES,Biopsy,Type II pneumocyte hyperplasia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3151487,DIAGNOSES,Biopsy,Vacuolar degeneration,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3273245,DIAGNOSES,Biopsy,Acute Rejection,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3278584,DIAGNOSES,Biopsy,Mononuclear cell infiltrates,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3686588,DIAGNOSES,Biopsy,Crush artifact,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3687252,DIAGNOSES,Biopsy,Eosinophilic inflammation,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3806166,DIAGNOSES,Biopsy,Poor outcome,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3842674,DIAGNOSES,Biopsy,Day 5,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C3887644,DIAGNOSES,Biopsy,Inflammatory infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C4013899,DIAGNOSES,Biopsy,Villous blunting,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C4069284,DIAGNOSES,Biopsy,Frothy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C4313322,DIAGNOSES,Biopsy,Alveolar damage,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0005558,C4321237,DIAGNOSES,Biopsy,High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005558,C4329354,DIAGNOSES,Biopsy,Apoptosis and Necrosis,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0005558,C4479769,DIAGNOSES,Biopsy,Ductal proliferation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005560,C0150312,DIAGNOSES,Needle biopsy procedure,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005893,C0009488,DIAGNOSES,Body mass index procedure,Comorbidity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005893,C0497406,DIAGNOSES,Body mass index procedure,Overweight,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0005954,C4054467,DIAGNOSES,Bone marrow biopsy,Morphologic Complete Response,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006153,C0150312,DIAGNOSES,Breath Tests,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0006282,C0221198,DIAGNOSES,Contrast bronchogram,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006282,C0235896,DIAGNOSES,Contrast bronchogram,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006282,C1519414,DIAGNOSES,Contrast bronchogram,Solitary Nodule,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006282,C1855228,DIAGNOSES,Contrast bronchogram,Tracheobronchial malacia,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0006282,C3827002,DIAGNOSES,Contrast bronchogram,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0085393,DIAGNOSES,Bronchoscopy,Immunocompromised Host,diap,fndg,9,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0150312,DIAGNOSES,Bronchoscopy,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0221198,DIAGNOSES,Bronchoscopy,Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0235195,DIAGNOSES,Bronchoscopy,Sedated state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0240391,DIAGNOSES,Bronchoscopy,Mucous membrane erythema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0332441,DIAGNOSES,Bronchoscopy,Normal tissue morphology,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0521481,DIAGNOSES,Bronchoscopy,Mucous membrane edema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C0702119,DIAGNOSES,Bronchoscopy,Specimen unsatisfactory for diagnosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C1299448,DIAGNOSES,Bronchoscopy,Patient ventilated,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0006290,C1855228,DIAGNOSES,Bronchoscopy,Tracheobronchial malacia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C3272283,DIAGNOSES,Bronchoscopy,American College of Cardiology/American Heart Association Lesion Complexity Score C,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0006290,C3273245,DIAGNOSES,Bronchoscopy,Acute Rejection,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0009378,C0150312,DIAGNOSES,colonoscopy,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0009378,C0333361,DIAGNOSES,colonoscopy,Acute inflammation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0009378,C0423791,DIAGNOSES,colonoscopy,Maculopapular eruption,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0009378,C0521481,DIAGNOSES,colonoscopy,Mucous membrane edema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0009378,C0677946,DIAGNOSES,colonoscopy,Stable Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0009378,C1514815,DIAGNOSES,colonoscopy,Refractory Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0009417,C3843708,DIAGNOSES,Colposcopy,29+,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0010702,C0150312,DIAGNOSES,Cystoscopy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0010702,C1446409,DIAGNOSES,Cystoscopy,Positive,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0010840,DIAGNOSES,Differential Diagnosis,Vacuolation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0085393,DIAGNOSES,Differential Diagnosis,Immunocompromised Host,diap,fndg,7,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0221198,DIAGNOSES,Differential Diagnosis,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0235896,DIAGNOSES,Differential Diagnosis,Pulmonary Infiltrate,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0278060,DIAGNOSES,Differential Diagnosis,Mental state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0449970,DIAGNOSES,Differential Diagnosis,Presence of infection,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0518609,DIAGNOSES,Differential Diagnosis,consideration,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0522224,DIAGNOSES,Differential Diagnosis,Paralysed,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0578757,DIAGNOSES,Differential Diagnosis,Good neonatal condition at birth,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C0582147,DIAGNOSES,Differential Diagnosis,At risk of infection,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C3540840,DIAGNOSES,Differential Diagnosis,Sign or Symptom,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0011906,C3827002,DIAGNOSES,Differential Diagnosis,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011906,C3830376,DIAGNOSES,Differential Diagnosis,Ductopenia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011911,C0150312,DIAGNOSES,Laboratory Diagnosis,Present,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0011911,C0948288,DIAGNOSES,Laboratory Diagnosis,Conjunctival discharge,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011923,C0150637,DIAGNOSES,Diagnostic Imaging,assessment.initial,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0011923,C0221198,DIAGNOSES,Diagnostic Imaging,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0012249,C0029053,DIAGNOSES,Digital Radiography,Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0013798,DIAGNOSES,Echocardiography,Electrocardiogram,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0018800,DIAGNOSES,Echocardiography,Cardiomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0086439,DIAGNOSES,Echocardiography,Hypokinesia,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0150312,DIAGNOSES,Echocardiography,Present,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0205400,DIAGNOSES,Echocardiography,Thickened,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0232202,DIAGNOSES,Echocardiography,Normal sinus rhythm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0232341,DIAGNOSES,Echocardiography,Increased vascular flow,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0233315,DIAGNOSES,Echocardiography,Premature birth of newborn,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0456261,DIAGNOSES,Echocardiography,Pulmonary Vascular Resistance,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0489642,DIAGNOSES,Echocardiography,Intrapulmonary shunt,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0516868,DIAGNOSES,Echocardiography,heart size normal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0546884,DIAGNOSES,Echocardiography,Hypovolemia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0553982,DIAGNOSES,Echocardiography,Impaired left ventricular function,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0743400,DIAGNOSES,Echocardiography,Ejection fraction decreased,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0748427,DIAGNOSES,Echocardiography,Right atrial enlargement,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C1442858,DIAGNOSES,Echocardiography,Surgical fistula,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C1535947,DIAGNOSES,Echocardiography,Normal Ventricular Ejection Fraction,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C1846086,DIAGNOSES,Echocardiography,Decreased contractility,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C1969581,DIAGNOSES,Echocardiography,"Hypertension, moderate",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C2751808,DIAGNOSES,Echocardiography,Mild diastolic dysfunction,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C3266756,DIAGNOSES,Echocardiography,Normal left ventricular systolic function,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C3274777,DIAGNOSES,Echocardiography,Severely Abnormal Ventricular Ejection Fraction,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C3276924,DIAGNOSES,Echocardiography,"Aortic regurgitation, moderate",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C3278923,DIAGNOSES,Echocardiography,Dilated ventricles (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C3551535,DIAGNOSES,Echocardiography,"Mitral regurgitation, mild",diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C3805917,DIAGNOSES,Echocardiography,Elevated pulmonary artery pressure,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C4013784,DIAGNOSES,Echocardiography,"Hypertension, severe",diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013516,C4296962,DIAGNOSES,Echocardiography,Normal function,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0013518,C1442858,DIAGNOSES,Contrast echocardiography procedure,Surgical fistula,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013524,C4015487,DIAGNOSES,2D Echocardiography,Left atrial dilation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013799,C0003811,DIAGNOSES,"Electrocardiography, Ambulatory",Cardiac Arrhythmia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C0150312,DIAGNOSES,Electroencephalography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C0221198,DIAGNOSES,Electroencephalography,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C0429320,DIAGNOSES,Electroencephalography,Periodic lateralized epileptiform discharges,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C0474721,DIAGNOSES,Electroencephalography,Generalized epileptiform discharges,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C0746866,DIAGNOSES,Electroencephalography,Neurological status,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013819,C0858603,DIAGNOSES,Electroencephalography,wave slowing,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0013819,C1148454,DIAGNOSES,Electroencephalography,seizure activity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C1320408,DIAGNOSES,Electroencephalography,Urinary elimination status,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C1336825,DIAGNOSES,Electroencephalography,Triphasic Pattern,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C1704258,DIAGNOSES,Electroencephalography,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C1720436,DIAGNOSES,Electroencephalography,Under anesthesia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C2675896,DIAGNOSES,Electroencephalography,Mild dysmorphism,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C3278194,DIAGNOSES,Electroencephalography,Generalized slowing,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0013819,C3553206,DIAGNOSES,Electroencephalography,Diffuse slowing,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0013819,C4014190,DIAGNOSES,Electroencephalography,Focal discharges,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013819,C4296883,DIAGNOSES,Electroencephalography,Non-focal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013839,C0442726,DIAGNOSES,Electromyography,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0015260,C0750558,DIAGNOSES,Exercise stress test,Unlikely,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0015260,C1295656,DIAGNOSES,Exercise stress test,Decreased cortisol level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0015260,C3640764,DIAGNOSES,Exercise stress test,Intermediate Risk,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0016356,C0150312,DIAGNOSES,Fluoroscopy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0016356,C0231819,DIAGNOSES,Fluoroscopy,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0016356,C1883047,DIAGNOSES,Fluoroscopy,Small Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0016356,C3687337,DIAGNOSES,Fluoroscopy,Sternal recumbency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0017195,C0221198,DIAGNOSES,Endoscopy of stomach,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0017195,C1881358,DIAGNOSES,Endoscopy of stomach,Large Mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0018793,C0232257,DIAGNOSES,Heart Auscultation,Systolic Murmurs,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0018793,C0871269,DIAGNOSES,Heart Auscultation,Rhythm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0018793,C2826293,DIAGNOSES,Heart Auscultation,Clinical Significance,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0150312,DIAGNOSES,Immunohistochemistry,Present,diap,fndg,51,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0205160,DIAGNOSES,Immunohistochemistry,Negative,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0221198,DIAGNOSES,Immunohistochemistry,Lesion,diap,fndg,13,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0332575,DIAGNOSES,Immunohistochemistry,Redness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0333361,DIAGNOSES,Immunohistochemistry,Acute inflammation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0439663,DIAGNOSES,Immunohistochemistry,Infected,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0442726,DIAGNOSES,Immunohistochemistry,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0577059,DIAGNOSES,Immunohistochemistry,Liver normal,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0021044,C0750484,DIAGNOSES,Immunohistochemistry,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C1879646,DIAGNOSES,Immunohistochemistry,Affected Area,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C3272283,DIAGNOSES,Immunohistochemistry,American College of Cardiology/American Heart Association Lesion Complexity Score C,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C3540840,DIAGNOSES,Immunohistochemistry,Sign or Symptom,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C3840892,DIAGNOSES,Immunohistochemistry,Day 4,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C3869884,DIAGNOSES,Immunohistochemistry,Male fetus,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C3872830,DIAGNOSES,Immunohistochemistry,Inflammatory lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C3887644,DIAGNOSES,Immunohistochemistry,Inflammatory infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C4055506,DIAGNOSES,Immunohistochemistry,Accumulation,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0021044,C4321237,DIAGNOSES,Immunohistochemistry,High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0021044,C4479222,DIAGNOSES,Immunohistochemistry,Increased apoptosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0040509,DIAGNOSES,Pulmonary function tests,Total Lung Capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0150312,DIAGNOSES,Pulmonary function tests,Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0231221,DIAGNOSES,Pulmonary function tests,Asymptomatic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0231819,DIAGNOSES,Pulmonary function tests,Air trapping,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0239026,DIAGNOSES,Pulmonary function tests,Standard chest X-ray normal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0428679,DIAGNOSES,Pulmonary function tests,Minute volume,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0429706,DIAGNOSES,Pulmonary function tests,Forced expiratory volume in 1 second finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0439663,DIAGNOSES,Pulmonary function tests,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0476408,DIAGNOSES,Pulmonary function tests,Reduced vital capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0520833,DIAGNOSES,Pulmonary function tests,Increased functional residual capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0520837,DIAGNOSES,Pulmonary function tests,Decreased forced expiratory volume,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0562577,DIAGNOSES,Pulmonary function tests,Mocking,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0700292,DIAGNOSES,Pulmonary function tests,Hypoxemia,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0024119,C1280474,DIAGNOSES,Pulmonary function tests,Transfer factor - respiratory measure,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0024119,C1856532,DIAGNOSES,Pulmonary function tests,Restrictive impairment,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0024119,C3277226,DIAGNOSES,Pulmonary function tests,Restrictive ventilatory defect,diap,fndg,8,DIAGNOSES_DIAPdiagFNDG
+C0024119,C3806331,DIAGNOSES,Pulmonary function tests,Decreased carbon monoxide diffusion capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C3806899,DIAGNOSES,Pulmonary function tests,Progressive breathing difficulty,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C4073174,DIAGNOSES,Pulmonary function tests,Increased DLCO,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0085393,DIAGNOSES,Magnetic Resonance Imaging,Immunocompromised Host,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0150312,DIAGNOSES,Magnetic Resonance Imaging,Present,diap,fndg,17,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0205400,DIAGNOSES,Magnetic Resonance Imaging,Thickened,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0221198,DIAGNOSES,Magnetic Resonance Imaging,Lesion,diap,fndg,32,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0241224,DIAGNOSES,Magnetic Resonance Imaging,Spinal cord lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0332575,DIAGNOSES,Magnetic Resonance Imaging,Redness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0422837,DIAGNOSES,Magnetic Resonance Imaging,Neurological observations,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0442726,DIAGNOSES,Magnetic Resonance Imaging,Detected (finding),diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0577305,DIAGNOSES,Magnetic Resonance Imaging,Multiple lesions,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0748024,DIAGNOSES,Magnetic Resonance Imaging,protein elevated,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0945985,DIAGNOSES,Magnetic Resonance Imaging,Cognition.status,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C1299586,DIAGNOSES,Magnetic Resonance Imaging,Has difficulty doing (qualifier value),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C1301624,DIAGNOSES,Magnetic Resonance Imaging,Medical contraindication,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C1707653,DIAGNOSES,Magnetic Resonance Imaging,Deep Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C1883047,DIAGNOSES,Magnetic Resonance Imaging,Small Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C2751845,DIAGNOSES,Magnetic Resonance Imaging,Multifocal white matter lesions,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0024485,C2752009,DIAGNOSES,Magnetic Resonance Imaging,White matter lesions,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0024485,C2825502,DIAGNOSES,Magnetic Resonance Imaging,Vasogenic Edema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C2826279,DIAGNOSES,Magnetic Resonance Imaging,Abnormal Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C3278495,DIAGNOSES,Magnetic Resonance Imaging,Thalamic lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C3278923,DIAGNOSES,Magnetic Resonance Imaging,Dilated ventricles (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C3686502,DIAGNOSES,Magnetic Resonance Imaging,Mucosal thickening,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C3687337,DIAGNOSES,Magnetic Resonance Imaging,Sternal recumbency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C3687378,DIAGNOSES,Magnetic Resonance Imaging,Dorsal recumbency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C3830314,DIAGNOSES,Magnetic Resonance Imaging,Enhancing Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0024485,C4054125,DIAGNOSES,Magnetic Resonance Imaging,Radiologic Response,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C4086268,DIAGNOSES,Magnetic Resonance Imaging,Exacerbation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C4086564,DIAGNOSES,Magnetic Resonance Imaging,Mass Effect,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C4476561,DIAGNOSES,Magnetic Resonance Imaging,Thalamic calcification,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024671,C0024103,DIAGNOSES,Mammography,Mass in breast,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024671,C0221198,DIAGNOSES,Mammography,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024671,C0439662,DIAGNOSES,Mammography,Immune,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024671,C1821461,DIAGNOSES,Mammography,Close Relationship,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024671,C4055506,DIAGNOSES,Mammography,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0026995,C0221198,DIAGNOSES,Myelography,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0026995,C0853698,DIAGNOSES,Myelography,Lymphocyte count increased,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027431,C0429208,DIAGNOSES,Nasal Provocation Tests,Nasal resistance,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0016928,DIAGNOSES,Neurologic Examination,Gait,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0021294,DIAGNOSES,Neurologic Examination,"Infant, Premature",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0151889,DIAGNOSES,Neurologic Examination,Hyperreflexia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0278060,DIAGNOSES,Neurologic Examination,Mental state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0332516,DIAGNOSES,Neurologic Examination,Symmetrical,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0424578,DIAGNOSES,Neurologic Examination,Psychological Well Being,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0457433,DIAGNOSES,Neurologic Examination,Right hemiplegia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0521654,DIAGNOSES,Neurologic Examination,Neurologic Deficits,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0522224,DIAGNOSES,Neurologic Examination,Paralysed,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0576690,DIAGNOSES,Neurologic Examination,Impaired body position sense,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0679837,DIAGNOSES,Neurologic Examination,underdiagnosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0742724,DIAGNOSES,Neurologic Examination,Complication of procedure,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C0856863,DIAGNOSES,Neurologic Examination,Broad-based gait,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C1262869,DIAGNOSES,Neurologic Examination,Body position,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C1704258,DIAGNOSES,Neurologic Examination,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C1836296,DIAGNOSES,Neurologic Examination,Weakness of lower limb,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C2735147,DIAGNOSES,Neurologic Examination,Brain stem reflexes,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C3266627,DIAGNOSES,Neurologic Examination,Normal cranial nerves,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C3278191,DIAGNOSES,Neurologic Examination,"Ataxia, mild",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0027853,C4086268,DIAGNOSES,Neurologic Examination,Exacerbation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0029090,C0221198,DIAGNOSES,Ophthalmoscopy,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0029090,C0423364,DIAGNOSES,Ophthalmoscopy,Vitreous cells,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0029090,C0577304,DIAGNOSES,Ophthalmoscopy,Single lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0000734,DIAGNOSES,Palpation,Abdominal mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0003962,DIAGNOSES,Palpation,Ascites,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0005687,DIAGNOSES,Palpation,Bladder distention,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0019209,DIAGNOSES,Palpation,Hepatomegaly,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0150312,DIAGNOSES,Palpation,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0231303,DIAGNOSES,Palpation,Distress,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0542518,DIAGNOSES,Palpation,Enlarged kidney,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C0702118,DIAGNOSES,Palpation,Abnormally hard consistency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C1517926,DIAGNOSES,Palpation,Localized Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C4055047,DIAGNOSES,Palpation,Extramedullary Involvement,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030247,C4055506,DIAGNOSES,Palpation,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030646,C0205160,DIAGNOSES,Patch Tests,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030987,C0019209,DIAGNOSES,Percussion,Hepatomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030987,C0541911,DIAGNOSES,Percussion,Dullness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030987,C1299448,DIAGNOSES,Percussion,Patient ventilated,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0030987,C1704258,DIAGNOSES,Percussion,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0032221,C0235195,DIAGNOSES,Plethysmography,Sedated state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0032743,C0436343,DIAGNOSES,Positron-Emission Tomography,Symptom mild,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0032743,C4476563,DIAGNOSES,Positron-Emission Tomography,Enlarged mesenteric lymph node,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0033053,C0231221,DIAGNOSES,Prenatal Diagnosis,Asymptomatic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034108,C0700292,DIAGNOSES,"Oximetry, Pulse",Hypoxemia,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0034573,C0000734,DIAGNOSES,"Radiography, Abdominal",Abdominal mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034573,C0005687,DIAGNOSES,"Radiography, Abdominal",Bladder distention,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0034573,C0018800,DIAGNOSES,"Radiography, Abdominal",Cardiomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034573,C0019209,DIAGNOSES,"Radiography, Abdominal",Hepatomegaly,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0034573,C0038002,DIAGNOSES,"Radiography, Abdominal",Splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034573,C0150312,DIAGNOSES,"Radiography, Abdominal",Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034573,C4055506,DIAGNOSES,"Radiography, Abdominal",Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034575,C0221198,DIAGNOSES,"Radiography, Dental",Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0034579,C0150312,DIAGNOSES,Panoramic Radiography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0015663,DIAGNOSES,Radionuclide Imaging,Fasting,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0029053,DIAGNOSES,Radionuclide Imaging,Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0038002,DIAGNOSES,Radionuclide Imaging,Splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0085393,DIAGNOSES,Radionuclide Imaging,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0149726,DIAGNOSES,Radionuclide Imaging,Lung mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0150312,DIAGNOSES,Radionuclide Imaging,Present,diap,fndg,8,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0184511,DIAGNOSES,Radionuclide Imaging,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0205160,DIAGNOSES,Radionuclide Imaging,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0205400,DIAGNOSES,Radionuclide Imaging,Thickened,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0221198,DIAGNOSES,Radionuclide Imaging,Lesion,diap,fndg,12,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0231819,DIAGNOSES,Radionuclide Imaging,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0233238,DIAGNOSES,Radionuclide Imaging,Normal fetal growth,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0235896,DIAGNOSES,Radionuclide Imaging,Pulmonary Infiltrate,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0278060,DIAGNOSES,Radionuclide Imaging,Mental state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0332516,DIAGNOSES,Radionuclide Imaging,Symmetrical,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0333361,DIAGNOSES,Radionuclide Imaging,Acute inflammation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0337664,DIAGNOSES,Radionuclide Imaging,Smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0337672,DIAGNOSES,Radionuclide Imaging,Non-smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0456132,DIAGNOSES,Radionuclide Imaging,Large fontanelle,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0456240,DIAGNOSES,Radionuclide Imaging,Core body temperature,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0577304,DIAGNOSES,Radionuclide Imaging,Single lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0577305,DIAGNOSES,Radionuclide Imaging,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C0750484,DIAGNOSES,Radionuclide Imaging,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C1563135,DIAGNOSES,Radionuclide Imaging,Suspected pulmonary embolism,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C1704212,DIAGNOSES,Radionuclide Imaging,Embolus,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C1962916,DIAGNOSES,Radionuclide Imaging,Low grade (lymphoma grade) (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C2985294,DIAGNOSES,Radionuclide Imaging,Fourth Stage of Labor,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C3553115,DIAGNOSES,Radionuclide Imaging,Normal scarring,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C3671964,DIAGNOSES,Radionuclide Imaging,Infiltration of peribronchiolar tissue,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C3827002,DIAGNOSES,Radionuclide Imaging,Ground Glass Opacity,diap,fndg,14,DIAGNOSES_DIAPdiagFNDG
+C0034606,C3830314,DIAGNOSES,Radionuclide Imaging,Enhancing Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C4055506,DIAGNOSES,Radionuclide Imaging,Accumulation,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0034606,C4086623,DIAGNOSES,Radionuclide Imaging,Nodular Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0034606,C4531104,DIAGNOSES,Radionuclide Imaging,Pulmonary opacity,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0037981,C0150637,DIAGNOSES,Spirometry,assessment.initial,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0037981,C0277814,DIAGNOSES,Spirometry,Sitting position,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0037981,C0677946,DIAGNOSES,Spirometry,Stable Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0037981,C0848894,DIAGNOSES,Spirometry,normal patient,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0037981,C1704258,DIAGNOSES,Spirometry,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039451,C0855329,DIAGNOSES,Telemetry,Electrocardiographic changes,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039810,C0150312,DIAGNOSES,thermography,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039810,C1262477,DIAGNOSES,thermography,Weight decreased,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039810,C1704258,DIAGNOSES,thermography,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0009940,DIAGNOSES,Plain chest X-ray,Convalescence,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0018800,DIAGNOSES,Plain chest X-ray,Cardiomegaly,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0029053,DIAGNOSES,Plain chest X-ray,Decreased translucency,diap,fndg,28,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0034079,DIAGNOSES,Plain chest X-ray,small mass of the lung,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0149726,DIAGNOSES,Plain chest X-ray,Lung mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0150312,DIAGNOSES,Plain chest X-ray,Present,diap,fndg,14,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0150637,DIAGNOSES,Plain chest X-ray,assessment.initial,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0221198,DIAGNOSES,Plain chest X-ray,Lesion,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0231221,DIAGNOSES,Plain chest X-ray,Asymptomatic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0235896,DIAGNOSES,Plain chest X-ray,Pulmonary Infiltrate,diap,fndg,25,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0240318,DIAGNOSES,Plain chest X-ray,Mediastinal mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0264576,DIAGNOSES,Plain chest X-ray,Mediastinal shift,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0277854,DIAGNOSES,Plain chest X-ray,dyspneic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0302133,DIAGNOSES,Plain chest X-ray,Mottling,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0332552,DIAGNOSES,Plain chest X-ray,Increased markings,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0442726,DIAGNOSES,Plain chest X-ray,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0476367,DIAGNOSES,Plain chest X-ray,Shadow of lung,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0546333,DIAGNOSES,Plain chest X-ray,Right pneumothorax,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0546334,DIAGNOSES,Plain chest X-ray,Left pneumothorax,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0683314,DIAGNOSES,Plain chest X-ray,personal health,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0686744,DIAGNOSES,Plain chest X-ray,Well child,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0686750,DIAGNOSES,Plain chest X-ray,Well adult,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0700124,DIAGNOSES,Plain chest X-ray,Dilated,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0700292,DIAGNOSES,Plain chest X-ray,Hypoxemia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0743051,DIAGNOSES,Plain chest X-ray,Multiple dental caries,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0746094,DIAGNOSES,Plain chest X-ray,lung density,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C0746459,DIAGNOSES,Plain chest X-ray,Widened mediastinum,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1333299,DIAGNOSES,Plain chest X-ray,Diffuse Pattern,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1334278,DIAGNOSES,Plain chest X-ray,Invasive Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1334819,DIAGNOSES,Plain chest X-ray,Multifocal Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1334972,DIAGNOSES,Plain chest X-ray,Nodular Pattern,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1457868,DIAGNOSES,Plain chest X-ray,Worse,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1511113,DIAGNOSES,Plain chest X-ray,Bilateral Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1513916,DIAGNOSES,Plain chest X-ray,Negative Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1518345,DIAGNOSES,Plain chest X-ray,Nodular lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1704258,DIAGNOSES,Plain chest X-ray,Abnormality,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1838681,DIAGNOSES,Plain chest X-ray,Rapidly progressive,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C1858272,DIAGNOSES,Plain chest X-ray,Bilateral bronchiectasis,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0039985,C2675896,DIAGNOSES,Plain chest X-ray,Mild dysmorphism,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C2826279,DIAGNOSES,Plain chest X-ray,Abnormal Finding,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0039985,C3670565,DIAGNOSES,Plain chest X-ray,Sternal lymphadenopathy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C3827002,DIAGNOSES,Plain chest X-ray,Ground Glass Opacity,diap,fndg,11,DIAGNOSES_DIAPdiagFNDG
+C0039985,C4084859,DIAGNOSES,Plain chest X-ray,Peribronchial Cuffing,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0039985,C4086623,DIAGNOSES,Plain chest X-ray,Nodular Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0039985,C4313225,DIAGNOSES,Plain chest X-ray,Interstitial infiltrates,diap,fndg,9,DIAGNOSES_DIAPdiagFNDG
+C0039985,C4531104,DIAGNOSES,Plain chest X-ray,Pulmonary opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0003962,DIAGNOSES,tomography,Ascites,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0015663,DIAGNOSES,tomography,Fasting,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0019209,DIAGNOSES,tomography,Hepatomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0029053,DIAGNOSES,tomography,Decreased translucency,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0085393,DIAGNOSES,tomography,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0150312,DIAGNOSES,tomography,Present,diap,fndg,6,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0150637,DIAGNOSES,tomography,assessment.initial,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0205400,DIAGNOSES,tomography,Thickened,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0221198,DIAGNOSES,tomography,Lesion,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0235896,DIAGNOSES,tomography,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0240341,DIAGNOSES,tomography,Micrographia,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0546333,DIAGNOSES,tomography,Right pneumothorax,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0577305,DIAGNOSES,tomography,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0587052,DIAGNOSES,tomography,Hilar mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C0700292,DIAGNOSES,tomography,Hypoxemia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C1865190,DIAGNOSES,tomography,Mild splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C1881358,DIAGNOSES,tomography,Large Mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C1883047,DIAGNOSES,tomography,Small Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040395,C3827002,DIAGNOSES,tomography,Ground Glass Opacity,diap,fndg,8,DIAGNOSES_DIAPdiagFNDG
+C0040395,C4068804,DIAGNOSES,tomography,Coherent,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040395,C4086623,DIAGNOSES,tomography,Nodular Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040398,C1290916,DIAGNOSES,"Tomography, Emission-Computed",Radiologic finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040399,C0221198,DIAGNOSES,"Tomography, Emission-Computed, Single-Photon",Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040399,C0342952,DIAGNOSES,"Tomography, Emission-Computed, Single-Photon",Hypermetabolism,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040404,C0683521,DIAGNOSES,"Tomography, X-Ray",patient condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0029053,DIAGNOSES,X-Ray Computed Tomography,Decreased translucency,diap,fndg,7,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0038002,DIAGNOSES,X-Ray Computed Tomography,Splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0150312,DIAGNOSES,X-Ray Computed Tomography,Present,diap,fndg,11,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0205161,DIAGNOSES,X-Ray Computed Tomography,Abnormal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0205400,DIAGNOSES,X-Ray Computed Tomography,Thickened,diap,fndg,7,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0221198,DIAGNOSES,X-Ray Computed Tomography,Lesion,diap,fndg,21,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0231221,DIAGNOSES,X-Ray Computed Tomography,Asymptomatic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0235896,DIAGNOSES,X-Ray Computed Tomography,Pulmonary Infiltrate,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0238815,DIAGNOSES,X-Ray Computed Tomography,brazilian,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0278060,DIAGNOSES,X-Ray Computed Tomography,Mental state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0302133,DIAGNOSES,X-Ray Computed Tomography,Mottling,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0332155,DIAGNOSES,X-Ray Computed Tomography,Did not receive therapy or drug for,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0342499,DIAGNOSES,X-Ray Computed Tomography,Enlarged adrenal gland,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0425452,DIAGNOSES,X-Ray Computed Tomography,No obstruction of airway,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0428642,DIAGNOSES,X-Ray Computed Tomography,Pulmonary artery pressure,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0439662,DIAGNOSES,X-Ray Computed Tomography,Immune,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0442726,DIAGNOSES,X-Ray Computed Tomography,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0459424,DIAGNOSES,X-Ray Computed Tomography,Abnormal result,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0544726,DIAGNOSES,X-Ray Computed Tomography,Hole Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0567489,DIAGNOSES,X-Ray Computed Tomography,Lesion of breast,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0577305,DIAGNOSES,X-Ray Computed Tomography,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0683521,DIAGNOSES,X-Ray Computed Tomography,patient condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0746866,DIAGNOSES,X-Ray Computed Tomography,Neurological status,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0748164,DIAGNOSES,X-Ray Computed Tomography,Multiple Pulmonary Nodules,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1265608,DIAGNOSES,X-Ray Computed Tomography,Decreased density,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1268722,DIAGNOSES,X-Ray Computed Tomography,Mammographic difference in size (finding),diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1313921,DIAGNOSES,X-Ray Computed Tomography,Urinoma,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1334929,DIAGNOSES,X-Ray Computed Tomography,Necrotic Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1457868,DIAGNOSES,X-Ray Computed Tomography,Worse,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1513916,DIAGNOSES,X-Ray Computed Tomography,Negative Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1704258,DIAGNOSES,X-Ray Computed Tomography,Abnormality,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1858272,DIAGNOSES,X-Ray Computed Tomography,Bilateral bronchiectasis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1879646,DIAGNOSES,X-Ray Computed Tomography,Affected Area,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1881358,DIAGNOSES,X-Ray Computed Tomography,Large Mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C1883047,DIAGNOSES,X-Ray Computed Tomography,Small Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C2072932,DIAGNOSES,X-Ray Computed Tomography,Dilated pulmonary arteries,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C2750120,DIAGNOSES,X-Ray Computed Tomography,Interstitial thickening,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C2752009,DIAGNOSES,X-Ray Computed Tomography,White matter lesions,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040405,C2825493,DIAGNOSES,X-Ray Computed Tomography,Non-Enhancing Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C2825502,DIAGNOSES,X-Ray Computed Tomography,Vasogenic Edema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C3280118,DIAGNOSES,X-Ray Computed Tomography,Mild disorder,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C3827002,DIAGNOSES,X-Ray Computed Tomography,Ground Glass Opacity,diap,fndg,41,DIAGNOSES_DIAPdiagFNDG
+C0040405,C3830314,DIAGNOSES,X-Ray Computed Tomography,Enhancing Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040405,C4055506,DIAGNOSES,X-Ray Computed Tomography,Accumulation,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040405,C4084859,DIAGNOSES,X-Ray Computed Tomography,Peribronchial Cuffing,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C4086268,DIAGNOSES,X-Ray Computed Tomography,Exacerbation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C4086580,DIAGNOSES,X-Ray Computed Tomography,Midline Shift,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C4086623,DIAGNOSES,X-Ray Computed Tomography,Nodular Opacity,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0040405,C4476561,DIAGNOSES,X-Ray Computed Tomography,Thalamic calcification,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0040706,C0029053,DIAGNOSES,Transillumination,Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041290,C0085393,DIAGNOSES,Tuberculin Test,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041290,C0205160,DIAGNOSES,Tuberculin Test,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041290,C2186379,DIAGNOSES,Tuberculin Test,immunocompromised condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0000734,DIAGNOSES,Ultrasonography,Abdominal mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0019209,DIAGNOSES,Ultrasonography,Hepatomegaly,diap,fndg,9,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0038002,DIAGNOSES,Ultrasonography,Splenomegaly,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0043084,DIAGNOSES,Ultrasonography,Weaning,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0150312,DIAGNOSES,Ultrasonography,Present,diap,fndg,9,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0152150,DIAGNOSES,Ultrasonography,"Pregnancy, Twin",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0205400,DIAGNOSES,Ultrasonography,Thickened,diap,fndg,6,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0221198,DIAGNOSES,Ultrasonography,Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0235896,DIAGNOSES,Ultrasonography,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0241158,DIAGNOSES,Ultrasonography,Scar Tissue,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0342499,DIAGNOSES,Ultrasonography,Enlarged adrenal gland,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0392039,DIAGNOSES,Ultrasonography,Ovarian enlargement,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0424677,DIAGNOSES,Ultrasonography,Total body fat,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0426732,DIAGNOSES,Ultrasonography,Large prostate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0442797,DIAGNOSES,Ultrasonography,Decreasing,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0443168,DIAGNOSES,Ultrasonography,Cardiac activity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0522224,DIAGNOSES,Ultrasonography,Paralysed,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0542518,DIAGNOSES,Ultrasonography,Enlarged kidney,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0566879,DIAGNOSES,Ultrasonography,Fetus normal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0577053,DIAGNOSES,Ultrasonography,Lesion of liver,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C0683521,DIAGNOSES,Ultrasonography,patient condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1442858,DIAGNOSES,Ultrasonography,Surgical fistula,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1518681,DIAGNOSES,Ultrasonography,Outcome of Therapy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1704258,DIAGNOSES,Ultrasonography,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1836141,DIAGNOSES,Ultrasonography,Respiratory muscle weakness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1849402,DIAGNOSES,Ultrasonography,Increased echogenicity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1864785,DIAGNOSES,Ultrasonography,Normal kidneys,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1865189,DIAGNOSES,Ultrasonography,"Hepatomegaly, mild",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C1883047,DIAGNOSES,Ultrasonography,Small Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C3278923,DIAGNOSES,Ultrasonography,Dilated ventricles (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C3540840,DIAGNOSES,Ultrasonography,Sign or Symptom,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C3549567,DIAGNOSES,Ultrasonography,Echogenic kidneys,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C3827002,DIAGNOSES,Ultrasonography,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C4055506,DIAGNOSES,Ultrasonography,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C4296962,DIAGNOSES,Ultrasonography,Normal function,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0041618,C4479512,DIAGNOSES,Ultrasonography,Atrophic ovaries,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0042815,C0035648,DIAGNOSES,Visual Analog Pain Scale,risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0042815,C0235195,DIAGNOSES,Visual Analog Pain Scale,Sedated state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0042815,C1457868,DIAGNOSES,Visual Analog Pain Scale,Worse,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0042815,C1709157,DIAGNOSES,Visual Analog Pain Scale,Negative Surgical Margin,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0043299,C0029053,DIAGNOSES,Diagnostic radiologic examination,Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0043299,C0150312,DIAGNOSES,Diagnostic radiologic examination,Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0043299,C0221198,DIAGNOSES,Diagnostic radiologic examination,Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0043299,C0235896,DIAGNOSES,Diagnostic radiologic examination,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0043299,C0549649,DIAGNOSES,Diagnostic radiologic examination,MISUSE,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0043299,C0683521,DIAGNOSES,Diagnostic radiologic examination,patient condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0043299,C3845594,DIAGNOSES,Diagnostic radiologic examination,Slight change,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0043299,C4313225,DIAGNOSES,Diagnostic radiologic examination,Interstitial infiltrates,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0079104,C0085393,DIAGNOSES,Pap smear,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079104,C0221198,DIAGNOSES,Pap smear,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079304,C0221198,DIAGNOSES,Esophagogastroduodenoscopy,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0079304,C0260860,DIAGNOSES,Esophagogastroduodenoscopy,Encounter due to Unspecified general medical examination,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079304,C3714745,DIAGNOSES,Esophagogastroduodenoscopy,Malabsorption,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079595,C0221198,DIAGNOSES,Imaging Techniques,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079595,C0240341,DIAGNOSES,Imaging Techniques,Micrographia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079595,C3827002,DIAGNOSES,Imaging Techniques,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0079835,C0150312,DIAGNOSES,"Microscopy, Immunoelectron",Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0079835,C2221199,DIAGNOSES,"Microscopy, Immunoelectron",Numerous vesicles,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0085105,C0231224,DIAGNOSES,Breast Self-Examination,Crisis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0085532,C0221198,DIAGNOSES,Coronary angiography,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0085532,C0332441,DIAGNOSES,Coronary angiography,Normal tissue morphology,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0085532,C1299335,DIAGNOSES,Coronary angiography,Normal coronary arteries,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0085704,C0150312,DIAGNOSES,Exploratory laparotomy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0085853,C0150312,DIAGNOSES,Tympanometry,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0085853,C0456498,DIAGNOSES,Tympanometry,Fluid level behind tympanic membrane,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0033213,DIAGNOSES,Diagnostic tests,Problem,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0035232,DIAGNOSES,Diagnostic tests,Respiratory Paralysis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0035648,DIAGNOSES,Diagnostic tests,risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0085393,DIAGNOSES,Diagnostic tests,Immunocompromised Host,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0150312,DIAGNOSES,Diagnostic tests,Present,diap,fndg,9,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0184511,DIAGNOSES,Diagnostic tests,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0205160,DIAGNOSES,Diagnostic tests,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0231224,DIAGNOSES,Diagnostic tests,Crisis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0436343,DIAGNOSES,Diagnostic tests,Symptom mild,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0436345,DIAGNOSES,Diagnostic tests,Symptom severe,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0439663,DIAGNOSES,Diagnostic tests,Infected,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0686750,DIAGNOSES,Diagnostic tests,Well adult,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0750484,DIAGNOSES,Diagnostic tests,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C0808270,DIAGNOSES,Diagnostic tests,Time 2,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C1879646,DIAGNOSES,Diagnostic tests,Affected Area,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C3843057,DIAGNOSES,Diagnostic tests,Second half,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C4023452,DIAGNOSES,Diagnostic tests,Elevated C-reactive protein level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C4313307,DIAGNOSES,Diagnostic tests,Ectopic left kidney,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0086143,C4534506,DIAGNOSES,Diagnostic tests,One reactive,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0150496,C0039231,DIAGNOSES,Cardiac monitoring,Tachycardia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0150866,C0150312,DIAGNOSES,Biopsy of skin procedure,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0150866,C0221198,DIAGNOSES,Biopsy of skin procedure,Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0150866,C0221270,DIAGNOSES,Biopsy of skin procedure,Acanthosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0150866,C4055506,DIAGNOSES,Biopsy of skin procedure,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0162701,C1545588,DIAGNOSES,Polysomnography,Protection,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0162734,C0150312,DIAGNOSES,Echo-Planar Imaging,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0162734,C4036467,DIAGNOSES,Echo-Planar Imaging,Gray-zone,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0177803,C0221198,DIAGNOSES,Magnetic Resonance Imaging (MRI) of Spine,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0177803,C0746890,DIAGNOSES,Magnetic Resonance Imaging (MRI) of Spine,new onset,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0184899,C0231287,DIAGNOSES,Exploratory incision,Postoperative state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0184921,C0085393,DIAGNOSES,Excision biopsy,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0184921,C1313947,DIAGNOSES,Excision biopsy,Uncertain diagnosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0184922,C0221198,DIAGNOSES,Incisional biopsy - action,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0184922,C0337664,DIAGNOSES,Incisional biopsy - action,Smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0184922,C0428642,DIAGNOSES,Incisional biopsy - action,Pulmonary artery pressure,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0184922,C1517029,DIAGNOSES,Incisional biopsy - action,Extensive Necrosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0185283,C0150312,DIAGNOSES,Muscle biopsy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0185283,C0221198,DIAGNOSES,Muscle biopsy,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0185283,C0333574,DIAGNOSES,Muscle biopsy,Fatty deposition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0185283,C1843469,DIAGNOSES,Muscle biopsy,Epidermal spongiosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0185283,C1864580,DIAGNOSES,Muscle biopsy,Type 2 muscle fiber atrophy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0185283,C4055506,DIAGNOSES,Muscle biopsy,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0189024,C0521481,DIAGNOSES,Endoscopy of nose,Mucous membrane edema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0189024,C4035394,DIAGNOSES,Endoscopy of nose,Unilateral disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0189391,C0085393,DIAGNOSES,Fiberoptic bronchoscopy,Immunocompromised Host,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0189391,C0743630,DIAGNOSES,Fiberoptic bronchoscopy,exacerbation acute,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0189391,C1299448,DIAGNOSES,Fiberoptic bronchoscopy,Patient ventilated,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0189391,C1446409,DIAGNOSES,Fiberoptic bronchoscopy,Positive,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0189896,C3805917,DIAGNOSES,Catheterization of right heart,Elevated pulmonary artery pressure,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0190979,C0424576,DIAGNOSES,Venous blood sampling,Fit and well,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0193388,C0029053,DIAGNOSES,Biopsy of liver (procedure),Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0193388,C0522568,DIAGNOSES,Biopsy of liver (procedure),Moderate inflammation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0193504,C1979933,DIAGNOSES,Endoscopic retrograde cholangiography,Motile,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0193606,C0278252,DIAGNOSES,Biopsy of pancreas,Prognosis bad,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0194073,C0010840,DIAGNOSES,Kidney biopsy,Vacuolation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0194073,C0205400,DIAGNOSES,Kidney biopsy,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0194073,C0221198,DIAGNOSES,Kidney biopsy,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0194073,C4086268,DIAGNOSES,Kidney biopsy,Exacerbation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0199221,C0221198,DIAGNOSES,Bimanual examination,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0199850,C0425470,DIAGNOSES,Examination of breast,Intercostal Retractions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200000,C0429807,DIAGNOSES,Cystometrogram,Bladder capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200048,C0150312,DIAGNOSES,Vaginal Examination,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200125,C0442726,DIAGNOSES,Nerve conduction study,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200125,C0457381,DIAGNOSES,Nerve conduction study,Muscle action potential amplitude,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200152,C3842089,DIAGNOSES,Schirmer tear test procedure,2 mm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200778,C0205400,DIAGNOSES,"Necropsy (autopsy), gross examination only; without CNS",Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0200778,C0221198,DIAGNOSES,"Necropsy (autopsy), gross examination only; without CNS",Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202616,C0221198,DIAGNOSES,"Radiologic examination, osseous survey, complete",Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202691,C0221198,DIAGNOSES,CAT scan of head,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202691,C2825502,DIAGNOSES,CAT scan of head,Vasogenic Edema,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202757,C0205400,DIAGNOSES,Radiographic procedure on neck,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202757,C0239281,DIAGNOSES,Radiographic procedure on neck,EPIGLOTTIC EDEMA,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0202757,C4042775,DIAGNOSES,Radiographic procedure on neck,Seated Position,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202784,C0746291,DIAGNOSES,Routine chest X-ray,Right upper lobe NODULE,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0015663,DIAGNOSES,Chest CT,Fasting,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0029053,DIAGNOSES,Chest CT,Decreased translucency,diap,fndg,10,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0150312,DIAGNOSES,Chest CT,Present,diap,fndg,7,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0184511,DIAGNOSES,Chest CT,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0205400,DIAGNOSES,Chest CT,Thickened,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0221198,DIAGNOSES,Chest CT,Lesion,diap,fndg,12,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0231819,DIAGNOSES,Chest CT,Air trapping,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0235896,DIAGNOSES,Chest CT,Pulmonary Infiltrate,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0302133,DIAGNOSES,Chest CT,Mottling,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0332461,DIAGNOSES,Chest CT,Plaque (lesion),diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0332552,DIAGNOSES,Chest CT,Increased markings,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0442726,DIAGNOSES,Chest CT,Detected (finding),diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0544704,DIAGNOSES,Chest CT,Abnormal density,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0579132,DIAGNOSES,Chest CT,Arterial diameter,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0748164,DIAGNOSES,Chest CT,Multiple Pulmonary Nodules,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C0750484,DIAGNOSES,Chest CT,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1446409,DIAGNOSES,Chest CT,Positive,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1457868,DIAGNOSES,Chest CT,Worse,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1511113,DIAGNOSES,Chest CT,Bilateral Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1518345,DIAGNOSES,Chest CT,Nodular lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1535947,DIAGNOSES,Chest CT,Normal Ventricular Ejection Fraction,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1704212,DIAGNOSES,Chest CT,Embolus,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C1704258,DIAGNOSES,Chest CT,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C2826279,DIAGNOSES,Chest CT,Abnormal Finding,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0202823,C3827002,DIAGNOSES,Chest CT,Ground Glass Opacity,diap,fndg,67,DIAGNOSES_DIAPdiagFNDG
+C0202823,C3842672,DIAGNOSES,Chest CT,Day 7,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0202823,C4086623,DIAGNOSES,Chest CT,Nodular Opacity,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0202823,C4531104,DIAGNOSES,Chest CT,Pulmonary opacity,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0202930,C0232997,DIAGNOSES,Renal arteriography (procedure),Previous pregnancies 2,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203408,C0542518,DIAGNOSES,Echography of kidney,Enlarged kidney,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0203408,C1864785,DIAGNOSES,Echography of kidney,Normal kidneys,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203634,C0150312,DIAGNOSES,Nuclear medicine procedure,Present,diap,fndg,17,DIAGNOSES_DIAPdiagFNDG
+C0203634,C0686744,DIAGNOSES,Nuclear medicine procedure,Well child,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203634,C4321237,DIAGNOSES,Nuclear medicine procedure,High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203683,C0231819,DIAGNOSES,Radioisotope scan of lung,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203683,C0332461,DIAGNOSES,Radioisotope scan of lung,Plaque (lesion),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203683,C3272281,DIAGNOSES,Radioisotope scan of lung,American College of Cardiology/American Heart Association Lesion Complexity Score A,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0203683,C3827002,DIAGNOSES,Radioisotope scan of lung,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0206065,C0150312,DIAGNOSES,Karnofsky Performance Status,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0206065,C0728725,DIAGNOSES,Karnofsky Performance Status,Low pH,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0206077,C0150312,DIAGNOSES,"Ultrasonography, Doppler, Transcranial",Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0206520,C0205400,DIAGNOSES,"Ultrasonography, Intravascular",Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0242844,C0029053,DIAGNOSES,"Ultrasonography, Doppler, Color",Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0242882,C0855329,DIAGNOSES,"Monitoring, Ambulatory",Electrocardiographic changes,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0242890,C0150312,DIAGNOSES,Toxicity Tests,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0260180,C0423302,DIAGNOSES,Pupillometry,Pupil Reaction Absent,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0260180,C1838871,DIAGNOSES,Pupillometry,Sluggish pupils,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0262485,C0150312,DIAGNOSES,Flash,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0278247,C0020580,DIAGNOSES,Weber's test,Hypesthesia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0278260,C0150312,DIAGNOSES,scopy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0278372,C0150312,DIAGNOSES,Functional assessment,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0302357,C3533236,DIAGNOSES,Test of Visual Evoked Responses in Children,Mean score,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0332140,C0150312,DIAGNOSES,"Diagnosis, clinical",Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0332140,C0750484,DIAGNOSES,"Diagnosis, clinical",Confirmation,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0332140,C0857465,DIAGNOSES,"Diagnosis, clinical",peak flow,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0332140,C1299448,DIAGNOSES,"Diagnosis, clinical",Patient ventilated,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0332140,C3540840,DIAGNOSES,"Diagnosis, clinical",Sign or Symptom,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0332140,C3842672,DIAGNOSES,"Diagnosis, clinical",Day 7,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0332140,C4321237,DIAGNOSES,"Diagnosis, clinical",High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0373345,C0860096,DIAGNOSES,transrectal ultrasound,Primigravida,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0376335,C0439663,DIAGNOSES,fMRI,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0376529,C0233315,DIAGNOSES,Capnography,Premature birth of newborn,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0396473,C0150312,DIAGNOSES,Bronchoscopic irrigation,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0396473,C3280118,DIAGNOSES,Bronchoscopic irrigation,Mild disorder,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0398523,C1836721,DIAGNOSES,Bone marrow aspiration procedure,"MALARIA, MILD, SUSCEPTIBILITY TO",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0398523,C3687379,DIAGNOSES,Bone marrow aspiration procedure,Lateral recumbency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0399805,C0554100,DIAGNOSES,Biopsy of duodenum,Partial villous atrophy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0399943,C1704258,DIAGNOSES,Biopsy of small intestine,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412159,C0150312,DIAGNOSES,Retrograde urethrogram,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412585,C0577305,DIAGNOSES,CAT scan of brain,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412585,C1265608,DIAGNOSES,CAT scan of brain,Decreased density,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412620,C0577215,DIAGNOSES,CT of abdomen,Lesion of testis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412669,C0221198,DIAGNOSES,"Computerized tomography, bone density study",Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412669,C0442726,DIAGNOSES,"Computerized tomography, bone density study",Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412675,C0221198,DIAGNOSES,MRI brain procedure,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0412675,C0577305,DIAGNOSES,MRI brain procedure,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412675,C0598275,DIAGNOSES,MRI brain procedure,Diffuse cerebral atrophy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412675,C1704258,DIAGNOSES,MRI brain procedure,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412675,C1850352,DIAGNOSES,MRI brain procedure,"Microcephaly, severe",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412675,C2752009,DIAGNOSES,MRI brain procedure,White matter lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0412675,C3830314,DIAGNOSES,MRI brain procedure,Enhancing Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0412675,C4315780,DIAGNOSES,MRI brain procedure,"Ventricular dilatation, mild-moderate",diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0412692,C4296962,DIAGNOSES,Magnetic Resonance Imaging (MRI) of Heart,Normal function,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0419358,C0150312,DIAGNOSES,Exploration with a probe,Present,diap,fndg,8,DIAGNOSES_DIAPdiagFNDG
+C0419358,C0332149,DIAGNOSES,Exploration with a probe,Possible,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0419358,C1549114,DIAGNOSES,Exploration with a probe,Unreported,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0419358,C1709157,DIAGNOSES,Exploration with a probe,Negative Surgical Margin,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0419358,C4288557,DIAGNOSES,Exploration with a probe,One Activity Hour,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0015663,DIAGNOSES,diagnostic procedure,Fasting,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0035648,DIAGNOSES,diagnostic procedure,risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0043084,DIAGNOSES,diagnostic procedure,Weaning,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0085393,DIAGNOSES,diagnostic procedure,Immunocompromised Host,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0150312,DIAGNOSES,diagnostic procedure,Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0442726,DIAGNOSES,diagnostic procedure,Detected (finding),diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0430022,C0449411,DIAGNOSES,diagnostic procedure,Causative_agents,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430456,C0232201,DIAGNOSES,12 lead ECG,Sinus rhythm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430456,C0232202,DIAGNOSES,12 lead ECG,Normal sinus rhythm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430462,C0516868,DIAGNOSES,Transthoracic echocardiography,heart size normal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430462,C4296962,DIAGNOSES,Transthoracic echocardiography,Normal function,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430568,C0746949,DIAGNOSES,Oral provocation test,nsaid allergy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430801,C3553206,DIAGNOSES,Video EEG,Diffuse slowing,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0430824,C0429354,DIAGNOSES,Motor unit analysis,Motor unit duration,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0431080,C0085393,DIAGNOSES,Diagnostic assessment,Immunocompromised Host,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0431080,C0150312,DIAGNOSES,Diagnostic assessment,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0431080,C0449411,DIAGNOSES,Diagnostic assessment,Causative_agents,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0431080,C0746961,DIAGNOSES,Diagnostic assessment,Oxygen saturation below reference range,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0431080,C1280474,DIAGNOSES,Diagnostic assessment,Transfer factor - respiratory measure,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0438653,C0029053,DIAGNOSES,Portable X-ray,Decreased translucency,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0444186,C0150312,DIAGNOSES,Smear test,Present,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0449900,C0679250,DIAGNOSES,Contrast used,Disease Outcome,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0451111,C0205160,DIAGNOSES,Rapid screening test,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0457462,C0150312,DIAGNOSES,Acoustic reflectometry,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0457462,C0686744,DIAGNOSES,Acoustic reflectometry,Well child,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0474789,C4015600,DIAGNOSES,Single fiber EMG,Jitter,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0497093,C0150312,DIAGNOSES,Sensitivity test,Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C0497093,C0439663,DIAGNOSES,Sensitivity test,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0497093,C1709157,DIAGNOSES,Sensitivity test,Negative Surgical Margin,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0497093,C4321237,DIAGNOSES,Sensitivity test,High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0549075,C1299448,DIAGNOSES,Assessment: Respiration,Patient ventilated,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0580663,C1704258,DIAGNOSES,Tomography - chest,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0580663,C3827002,DIAGNOSES,Tomography - chest,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0581647,C0221198,DIAGNOSES,Lung X-ray,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596217,C1334819,DIAGNOSES,Brain scan,Multifocal Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0085393,DIAGNOSES,Early Diagnosis,Immunocompromised Host,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0150312,DIAGNOSES,Early Diagnosis,Present,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0184511,DIAGNOSES,Early Diagnosis,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0221198,DIAGNOSES,Early Diagnosis,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0425710,DIAGNOSES,Early Diagnosis,Peripheral perfusion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0439662,DIAGNOSES,Early Diagnosis,Immune,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0439663,DIAGNOSES,Early Diagnosis,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0449411,DIAGNOSES,Early Diagnosis,Causative_agents,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C0459847,DIAGNOSES,Early Diagnosis,Heavy cigarette smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C1457868,DIAGNOSES,Early Diagnosis,Worse,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C1836348,DIAGNOSES,Early Diagnosis,Severe disorder,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C2029943,DIAGNOSES,Early Diagnosis,Transplanted heart present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596473,C3272283,DIAGNOSES,Early Diagnosis,American College of Cardiology/American Heart Association Lesion Complexity Score C,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0596473,C3816499,DIAGNOSES,Early Diagnosis,Pathogenic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0596608,C0150312,DIAGNOSES,gel mobility shift assay,Present,diap,fndg,7,DIAGNOSES_DIAPdiagFNDG
+C0597356,C0085393,DIAGNOSES,rapid diagnosis,Immunocompromised Host,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0597356,C0184511,DIAGNOSES,rapid diagnosis,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0597356,C0449411,DIAGNOSES,rapid diagnosis,Causative_agents,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0597356,C2676468,DIAGNOSES,rapid diagnosis,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0597774,C3806166,DIAGNOSES,AIDS diagnosis,Poor outcome,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0598801,C0221198,DIAGNOSES,Diffusion weighted imaging,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0599863,C0150312,DIAGNOSES,cosy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0599864,C0150312,DIAGNOSES,NOESY,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0600224,C0007294,DIAGNOSES,"Testing, Genetic Predisposition",Genetic Carriers,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0600224,C0231303,DIAGNOSES,"Testing, Genetic Predisposition",Distress,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0677490,C1704212,DIAGNOSES,Pulmonary angiogram,Embolus,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0679557,C3843708,DIAGNOSES,histological diagnosis,29+,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0679575,C0221198,DIAGNOSES,Neuroimaging,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0679575,C0577305,DIAGNOSES,Neuroimaging,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0683441,C0085393,DIAGNOSES,serologic diagnosis,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0683441,C0150312,DIAGNOSES,serologic diagnosis,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0683454,C0150312,DIAGNOSES,internal-external locus of control scale,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0729707,C0221198,DIAGNOSES,"Computerized tomography, 3 dimensional reconstruction",Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0740294,C0150312,DIAGNOSES,brain biopsy,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0740463,C0439663,DIAGNOSES,Biopsy of bronchus,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0740463,C0743630,DIAGNOSES,Biopsy of bronchus,exacerbation acute,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0740463,C4321237,DIAGNOSES,Biopsy of bronchus,High Level,diap,fndg,29,DIAGNOSES_DIAPdiagFNDG
+C0742919,C0241657,DIAGNOSES,ct scan contrast,Abnormality of the vasculature,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0742919,C1334819,DIAGNOSES,ct scan contrast,Multifocal Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0742919,C1704258,DIAGNOSES,ct scan contrast,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0742919,C2825493,DIAGNOSES,ct scan contrast,Non-Enhancing Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0742919,C4086504,DIAGNOSES,ct scan contrast,Hypoattenuation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C0034079,DIAGNOSES,work up,small mass of the lung,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C0150312,DIAGNOSES,work up,Present,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0750430,C0205400,DIAGNOSES,work up,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C0746765,DIAGNOSES,work up,Mass of nose,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C1836348,DIAGNOSES,work up,Severe disorder,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C3827002,DIAGNOSES,work up,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C3845748,DIAGNOSES,work up,Hematologic complication,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0750430,C4289767,DIAGNOSES,work up,Colonization,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0807679,C0235896,DIAGNOSES,Radiology studies,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0809776,C0241657,DIAGNOSES,Cardiac echo study,Abnormality of the vasculature,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0813145,C0332575,DIAGNOSES,Genetic Screening (procedure),Redness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0841536,C0740852,DIAGNOSES,physiological assessment,Upper airway obstruction,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0848630,C0302313,DIAGNOSES,Radiographic imaging of bone (procedure),Osteolytic lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0852695,C0085393,DIAGNOSES,Biopsy of Mucosa,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0860888,C0019209,DIAGNOSES,"Tomography, Spiral Computed",Hepatomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0860888,C0035648,DIAGNOSES,"Tomography, Spiral Computed",risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0860888,C0150312,DIAGNOSES,"Tomography, Spiral Computed",Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0860888,C0221198,DIAGNOSES,"Tomography, Spiral Computed",Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C0860888,C0235896,DIAGNOSES,"Tomography, Spiral Computed",Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0863477,C0205400,DIAGNOSES,transbronchial lung biopsy,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0863477,C1299448,DIAGNOSES,transbronchial lung biopsy,Patient ventilated,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0863477,C1883047,DIAGNOSES,transbronchial lung biopsy,Small Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0863477,C2674297,DIAGNOSES,transbronchial lung biopsy,Lymphocytic inflammatory infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872169,C0221198,DIAGNOSES,fdg pet,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872169,C0342952,DIAGNOSES,fdg pet,Hypermetabolism,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872186,C0150312,DIAGNOSES,high throughput analysis,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872187,C0332149,DIAGNOSES,high throughput screening,Possible,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872187,C0596020,DIAGNOSES,high throughput screening,Does hit (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872187,C4055506,DIAGNOSES,high throughput screening,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0872257,C1281905,DIAGNOSES,rapid technique,At risk of disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0877853,C0033213,DIAGNOSES,"Spectroscopy, Nuclear Magnetic Resonance",Problem,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0877853,C0150312,DIAGNOSES,"Spectroscopy, Nuclear Magnetic Resonance",Present,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C0877853,C0332149,DIAGNOSES,"Spectroscopy, Nuclear Magnetic Resonance",Possible,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0877853,C4321237,DIAGNOSES,"Spectroscopy, Nuclear Magnetic Resonance",High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0883613,C0221198,DIAGNOSES,ultrasound chest,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0919612,C3278953,DIAGNOSES,electroneurography,Axonal polyneuropathy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0946326,C1545588,DIAGNOSES,pulmonary studies,Protection,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0948501,C0033213,DIAGNOSES,Ultrasound examination,Problem,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0948501,C0205400,DIAGNOSES,Ultrasound examination,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0948501,C0221198,DIAGNOSES,Ultrasound examination,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0948955,C1299448,DIAGNOSES,cardiovascular evaluation,Patient ventilated,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0994163,C0205400,DIAGNOSES,"Cholangiopancreatography, Magnetic Resonance",Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0994163,C1704258,DIAGNOSES,"Cholangiopancreatography, Magnetic Resonance",Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1134630,C0150312,DIAGNOSES,long-term screening,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1134632,C0743169,DIAGNOSES,breast imaging studies,diaphragm flattened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1134632,C4313225,DIAGNOSES,breast imaging studies,Interstitial infiltrates,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1167856,C0150312,DIAGNOSES,blood smear test,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1168098,C0456261,DIAGNOSES,pulmonary arterial pressure,Pulmonary Vascular Resistance,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1168098,C1335151,DIAGNOSES,pulmonary arterial pressure,Other Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1282548,C0743630,DIAGNOSES,Examination by method,exacerbation acute,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1282548,C1998827,DIAGNOSES,Examination by method,Respiratory Status,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1301055,C1517926,DIAGNOSES,Transthoracic needle biopsy,Localized Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306036,C1862763,DIAGNOSES,Forced expiratory volume procedure,Small airways,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0000734,DIAGNOSES,Plain x-ray,Abdominal mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0003962,DIAGNOSES,Plain x-ray,Ascites,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0018800,DIAGNOSES,Plain x-ray,Cardiomegaly,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0029053,DIAGNOSES,Plain x-ray,Decreased translucency,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0038002,DIAGNOSES,Plain x-ray,Splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0150312,DIAGNOSES,Plain x-ray,Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0205400,DIAGNOSES,Plain x-ray,Thickened,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0221198,DIAGNOSES,Plain x-ray,Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0235896,DIAGNOSES,Plain x-ray,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0277755,DIAGNOSES,Plain x-ray,Decomposed body,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0302313,DIAGNOSES,Plain x-ray,Osteolytic lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0541911,DIAGNOSES,Plain x-ray,Dullness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0542518,DIAGNOSES,Plain x-ray,Enlarged kidney,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0544452,DIAGNOSES,Plain x-ray,Disease remission,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0740852,DIAGNOSES,Plain x-ray,Upper airway obstruction,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C0746216,DIAGNOSES,Plain x-ray,lung opacification,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1306645,C1268681,DIAGNOSES,Plain x-ray,Round shaped calcification,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C1333299,DIAGNOSES,Plain x-ray,Diffuse Pattern,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C1334278,DIAGNOSES,Plain x-ray,Invasive Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C1446409,DIAGNOSES,Plain x-ray,Positive,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C2072932,DIAGNOSES,Plain x-ray,Dilated pulmonary arteries,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C2750120,DIAGNOSES,Plain x-ray,Interstitial thickening,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C3277934,DIAGNOSES,Plain x-ray,Anomalous,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C3686502,DIAGNOSES,Plain x-ray,Mucosal thickening,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1306645,C3687361,DIAGNOSES,Plain x-ray,Body condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1306645,C3827002,DIAGNOSES,Plain x-ray,Ground Glass Opacity,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1306645,C4313225,DIAGNOSES,Plain x-ray,Interstitial infiltrates,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1318309,C0567489,DIAGNOSES,Core needle biopsy,Lesion of breast,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1327806,C0150312,DIAGNOSES,Surface Enhanced Laser Desorption Ionization Mass Spectrometry,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1444581,C3808249,DIAGNOSES,Direct Ophthalmoscopy,Abnormality of the optic disc,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1510483,C0221198,DIAGNOSES,Fine needle aspiration biopsy,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1510483,C0750484,DIAGNOSES,Fine needle aspiration biopsy,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0009940,DIAGNOSES,High Resolution Computed Tomography,Convalescence,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0029053,DIAGNOSES,High Resolution Computed Tomography,Decreased translucency,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0085393,DIAGNOSES,High Resolution Computed Tomography,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0150312,DIAGNOSES,High Resolution Computed Tomography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0205400,DIAGNOSES,High Resolution Computed Tomography,Thickened,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0231819,DIAGNOSES,High Resolution Computed Tomography,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C0235896,DIAGNOSES,High Resolution Computed Tomography,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C3827002,DIAGNOSES,High Resolution Computed Tomography,Ground Glass Opacity,diap,fndg,14,DIAGNOSES_DIAPdiagFNDG
+C1512457,C4476636,DIAGNOSES,High Resolution Computed Tomography,Intralobular interstitial thickening,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1512457,C4531104,DIAGNOSES,High Resolution Computed Tomography,Pulmonary opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1517324,C0221198,DIAGNOSES,Functional Imaging,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1517324,C4038402,DIAGNOSES,Functional Imaging,Low resolution,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1518156,C0150312,DIAGNOSES,Magnetic Resonance Elastography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1536105,C0150312,DIAGNOSES,Computed Tomography Angiography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1537007,C0449575,DIAGNOSES,Diffusion Tensor Imaging,Histological finding,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1543708,C0235896,DIAGNOSES,Breast scan,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1547107,C0552617,DIAGNOSES,Digital microscopy,Study observation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0003811,DIAGNOSES,Electrocardiography,Cardiac Arrhythmia,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0039231,DIAGNOSES,Electrocardiography,Tachycardia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0150312,DIAGNOSES,Electrocardiography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0231221,DIAGNOSES,Electrocardiography,Asymptomatic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0232201,DIAGNOSES,Electrocardiography,Sinus rhythm,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0429029,DIAGNOSES,Electrocardiography,ST segment,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0520888,DIAGNOSES,Electrocardiography,Inverted T wave,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0855333,DIAGNOSES,Electrocardiography,Corrected Prolonged QT Interval by ECG Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C0871269,DIAGNOSES,Electrocardiography,Rhythm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C1721096,DIAGNOSES,Electrocardiography,Brugada ECG Pattern,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C3536991,DIAGNOSES,Electrocardiography,Acute Inferior Myocardial Infarction by ECG Finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1623258,C3687337,DIAGNOSES,Electrocardiography,Sternal recumbency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1655737,C1704258,DIAGNOSES,cardiac ultrasound,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C0029053,DIAGNOSES,PET/CT scan,Decreased translucency,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1699633,C0150312,DIAGNOSES,PET/CT scan,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C0205400,DIAGNOSES,PET/CT scan,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C0235896,DIAGNOSES,PET/CT scan,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C1517068,DIAGNOSES,PET/CT scan,Extranodal Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C1704258,DIAGNOSES,PET/CT scan,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C3687378,DIAGNOSES,PET/CT scan,Dorsal recumbency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1699633,C3827002,DIAGNOSES,PET/CT scan,Ground Glass Opacity,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1699633,C4321237,DIAGNOSES,PET/CT scan,High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1831737,C0439663,DIAGNOSES,infrared thermography,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1831737,C0522570,DIAGNOSES,infrared thermography,Focal inflammation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1831759,C0439662,DIAGNOSES,pharmacological studies,Immune,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1880637,C0205400,DIAGNOSES,Exploratory Surgery,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C0003962,DIAGNOSES,Image Study,Ascites,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C0150312,DIAGNOSES,Image Study,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1881134,C0150637,DIAGNOSES,Image Study,assessment.initial,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C0577305,DIAGNOSES,Image Study,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C0686750,DIAGNOSES,Image Study,Well adult,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C0746765,DIAGNOSES,Image Study,Mass of nose,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C1511113,DIAGNOSES,Image Study,Bilateral Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C3827002,DIAGNOSES,Image Study,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1881134,C4228156,DIAGNOSES,Image Study,"White matter abnormalities, nonspecific",diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1882082,C0750484,DIAGNOSES,New Diagnosis Procedure,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1962945,C0221198,DIAGNOSES,Radiographic imaging procedure,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1962945,C3272283,DIAGNOSES,Radiographic imaging procedure,American College of Cardiology/American Heart Association Lesion Complexity Score C,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1962945,C3827002,DIAGNOSES,Radiographic imaging procedure,Ground Glass Opacity,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0015663,DIAGNOSES,Observation - diagnostic procedure,Fasting,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0016815,DIAGNOSES,Observation - diagnostic procedure,Functional Residual Capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0021294,DIAGNOSES,Observation - diagnostic procedure,"Infant, Premature",diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0035648,DIAGNOSES,Observation - diagnostic procedure,risk factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0041674,DIAGNOSES,Observation - diagnostic procedure,Unemployment,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0085393,DIAGNOSES,Observation - diagnostic procedure,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0149610,DIAGNOSES,Observation - diagnostic procedure,ABNORMAL PHYSICAL FINDING,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0150312,DIAGNOSES,Observation - diagnostic procedure,Present,diap,fndg,30,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0156543,DIAGNOSES,Observation - diagnostic procedure,Unspecified Abortion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0184511,DIAGNOSES,Observation - diagnostic procedure,Improved,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0184512,DIAGNOSES,Observation - diagnostic procedure,Stabilized (qualifier value),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0205160,DIAGNOSES,Observation - diagnostic procedure,Negative,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0221198,DIAGNOSES,Observation - diagnostic procedure,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0231337,DIAGNOSES,Observation - diagnostic procedure,Senility,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0237677,DIAGNOSES,Observation - diagnostic procedure,insensitivity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0240341,DIAGNOSES,Observation - diagnostic procedure,Micrographia,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0241863,DIAGNOSES,Observation - diagnostic procedure,diabetic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0332149,DIAGNOSES,Observation - diagnostic procedure,Possible,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0332155,DIAGNOSES,Observation - diagnostic procedure,Did not receive therapy or drug for,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0332516,DIAGNOSES,Observation - diagnostic procedure,Symmetrical,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0337664,DIAGNOSES,Observation - diagnostic procedure,Smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0337672,DIAGNOSES,Observation - diagnostic procedure,Non-smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0422837,DIAGNOSES,Observation - diagnostic procedure,Neurological observations,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0425946,DIAGNOSES,Observation - diagnostic procedure,Short menstrual periods,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0428642,DIAGNOSES,Observation - diagnostic procedure,Pulmonary artery pressure,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0439662,DIAGNOSES,Observation - diagnostic procedure,Immune,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0439663,DIAGNOSES,Observation - diagnostic procedure,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0442797,DIAGNOSES,Observation - diagnostic procedure,Decreasing,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0542518,DIAGNOSES,Observation - diagnostic procedure,Enlarged kidney,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0577305,DIAGNOSES,Observation - diagnostic procedure,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0595998,DIAGNOSES,Observation - diagnostic procedure,Household composition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0596020,DIAGNOSES,Observation - diagnostic procedure,Does hit (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0683314,DIAGNOSES,Observation - diagnostic procedure,personal health,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0683521,DIAGNOSES,Observation - diagnostic procedure,patient condition,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0686744,DIAGNOSES,Observation - diagnostic procedure,Well child,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0686750,DIAGNOSES,Observation - diagnostic procedure,Well adult,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0749647,DIAGNOSES,Observation - diagnostic procedure,treatment empiric,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0750484,DIAGNOSES,Observation - diagnostic procedure,Confirmation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0858309,DIAGNOSES,Observation - diagnostic procedure,Normal total cholesterol,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0860096,DIAGNOSES,Observation - diagnostic procedure,Primigravida,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C1318963,DIAGNOSES,Observation - diagnostic procedure,Readiness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C1516998,DIAGNOSES,Observation - diagnostic procedure,Exogenous Factors,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C1821461,DIAGNOSES,Observation - diagnostic procedure,Close Relationship,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C1879646,DIAGNOSES,Observation - diagnostic procedure,Affected Area,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C2597943,DIAGNOSES,Observation - diagnostic procedure,Index case,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C3540840,DIAGNOSES,Observation - diagnostic procedure,Sign or Symptom,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C3714745,DIAGNOSES,Observation - diagnostic procedure,Malabsorption,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C3816499,DIAGNOSES,Observation - diagnostic procedure,Pathogenic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C3842674,DIAGNOSES,Observation - diagnostic procedure,Day 5,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C3845288,DIAGNOSES,Observation - diagnostic procedure,Strong positive,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C3890735,DIAGNOSES,Observation - diagnostic procedure,Complete Response with Incomplete Platelet Recovery,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C4048267,DIAGNOSES,Observation - diagnostic procedure,Cytoplasmic vacuolation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C4055506,DIAGNOSES,Observation - diagnostic procedure,Accumulation,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C1964257,C4086268,DIAGNOSES,Observation - diagnostic procedure,Exacerbation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C4289767,DIAGNOSES,Observation - diagnostic procedure,Colonization,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C4321237,DIAGNOSES,Observation - diagnostic procedure,High Level,diap,fndg,6,DIAGNOSES_DIAPdiagFNDG
+C1964257,C4545296,DIAGNOSES,Observation - diagnostic procedure,Bone marrow transplant present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2315751,C4055506,DIAGNOSES,Endorectal ultrasonography,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2318026,C0231819,DIAGNOSES,high resolution chest ct scans,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2321625,C0221198,DIAGNOSES,Total body CT scan,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2321625,C3827002,DIAGNOSES,Total body CT scan,Ground Glass Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C0003962,DIAGNOSES,Transabdominal Ultrasound,Ascites,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C0033213,DIAGNOSES,Transabdominal Ultrasound,Problem,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C0038002,DIAGNOSES,Transabdominal Ultrasound,Splenomegaly,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C2348813,C0150312,DIAGNOSES,Transabdominal Ultrasound,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C2348813,C0205400,DIAGNOSES,Transabdominal Ultrasound,Thickened,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C2348813,C0577059,DIAGNOSES,Transabdominal Ultrasound,Liver normal,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C1854929,DIAGNOSES,Transabdominal Ultrasound,Minimal splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C1864785,DIAGNOSES,Transabdominal Ultrasound,Normal kidneys,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C1881358,DIAGNOSES,Transabdominal Ultrasound,Large Mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2348813,C3280831,DIAGNOSES,Transabdominal Ultrasound,Dilated bowel,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C2348813,C4054315,DIAGNOSES,Transabdominal Ultrasound,Organomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2350281,C0699812,DIAGNOSES,X-Ray Microtomography,Increased bone formation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2370811,C4321237,DIAGNOSES,Bronchial brush biopsy,High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2457024,C0019209,DIAGNOSES,Plain Radiography of Abdomen,Hepatomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2457024,C0205400,DIAGNOSES,Plain Radiography of Abdomen,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2826145,C0221198,DIAGNOSES,Fluid Attenuated Inversion Recovery,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2959886,C0424589,DIAGNOSES,Cardiopulmonary Exercise Test,Vitality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C2959886,C0428776,DIAGNOSES,Cardiopulmonary Exercise Test,Cardiac index,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3272922,C0018800,DIAGNOSES,Total Body Radiography,Cardiomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3272922,C0029053,DIAGNOSES,Total Body Radiography,Decreased translucency,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3272922,C0038002,DIAGNOSES,Total Body Radiography,Splenomegaly,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3272922,C0150312,DIAGNOSES,Total Body Radiography,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3272922,C0542518,DIAGNOSES,Total Body Radiography,Enlarged kidney,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3472245,C4055506,DIAGNOSES,Single Photon Emission Computed Tomography Computed Tomography,Accumulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3494253,C4086268,DIAGNOSES,Narrow Band Imaging,Exacerbation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3526105,C0277599,DIAGNOSES,Autopsy procedure,Postoperative death,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3640037,C1704258,DIAGNOSES,Retinal Examination,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3661505,C1846821,DIAGNOSES,Thromboelastometry,Abnormality of coagulation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3697007,C0439663,DIAGNOSES,Epifluorescence illumination,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0018800,DIAGNOSES,Chest radiograph,Cardiomegaly,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0029053,DIAGNOSES,Chest radiograph,Decreased translucency,diap,fndg,32,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0034079,DIAGNOSES,Chest radiograph,small mass of the lung,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0085393,DIAGNOSES,Chest radiograph,Immunocompromised Host,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0150312,DIAGNOSES,Chest radiograph,Present,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0150637,DIAGNOSES,Chest radiograph,assessment.initial,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0205400,DIAGNOSES,Chest radiograph,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0221198,DIAGNOSES,Chest radiograph,Lesion,diap,fndg,6,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0231819,DIAGNOSES,Chest radiograph,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0235896,DIAGNOSES,Chest radiograph,Pulmonary Infiltrate,diap,fndg,6,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0302133,DIAGNOSES,Chest radiograph,Mottling,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0459424,DIAGNOSES,Chest radiograph,Abnormal result,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0546333,DIAGNOSES,Chest radiograph,Right pneumothorax,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0546334,DIAGNOSES,Chest radiograph,Left pneumothorax,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0577305,DIAGNOSES,Chest radiograph,Multiple lesions,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0686750,DIAGNOSES,Chest radiograph,Well adult,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0743169,DIAGNOSES,Chest radiograph,diaphragm flattened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0746923,DIAGNOSES,Chest radiograph,nodular density,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0748144,DIAGNOSES,Chest radiograph,Infiltrate of lung interstitium,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0748164,DIAGNOSES,Chest radiograph,Multiple Pulmonary Nodules,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C3842377,C0871269,DIAGNOSES,Chest radiograph,Rhythm,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1268661,DIAGNOSES,Chest radiograph,Round shaped lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1333299,DIAGNOSES,Chest radiograph,Diffuse Pattern,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1334278,DIAGNOSES,Chest radiograph,Invasive Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1518340,DIAGNOSES,Chest radiograph,No Evidence of Disease,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1519414,DIAGNOSES,Chest radiograph,Solitary Nodule,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1704258,DIAGNOSES,Chest radiograph,Abnormality,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
+C3842377,C1998827,DIAGNOSES,Chest radiograph,Respiratory Status,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C3827002,DIAGNOSES,Chest radiograph,Ground Glass Opacity,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C3842377,C4055223,DIAGNOSES,Chest radiograph,Clinical Response,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C4084859,DIAGNOSES,Chest radiograph,Peribronchial Cuffing,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C4086623,DIAGNOSES,Chest radiograph,Nodular Opacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C3842377,C4313225,DIAGNOSES,Chest radiograph,Interstitial infiltrates,diap,fndg,5,DIAGNOSES_DIAPdiagFNDG
+C3842377,C4531104,DIAGNOSES,Chest radiograph,Pulmonary opacity,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
+C4050256,C0034059,DIAGNOSES,Impulse Oscillometry,Pulmonary Diffusing Capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4054003,C3272283,DIAGNOSES,Specific Airway Resistance,American College of Cardiology/American Heart Association Lesion Complexity Score C,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4071827,C0150312,DIAGNOSES,Angio,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4075962,C0150637,DIAGNOSES,Low dose computed tomography of thorax,assessment.initial,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4075962,C0221198,DIAGNOSES,Low dose computed tomography of thorax,Lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
+C4075962,C0235896,DIAGNOSES,Low dose computed tomography of thorax,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4075962,C0442726,DIAGNOSES,Low dose computed tomography of thorax,Detected (finding),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4075962,C0459423,DIAGNOSES,Low dose computed tomography of thorax,Equivocal result,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4085351,C0150312,DIAGNOSES,Tubingen electric campimetry,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4086729,C0010840,DIAGNOSES,Pathologic Examination,Vacuolation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4086729,C0205400,DIAGNOSES,Pathologic Examination,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4086729,C0221198,DIAGNOSES,Pathologic Examination,Lesion,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4086729,C0332148,DIAGNOSES,Pathologic Examination,Probable diagnosis,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4086729,C0333582,DIAGNOSES,Pathologic Examination,Dystrophic calcification,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4086729,C4313322,DIAGNOSES,Pathologic Examination,Alveolar damage,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4304110,C0205400,DIAGNOSES,Expiratory CT,Thickened,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4304110,C0231819,DIAGNOSES,Expiratory CT,Air trapping,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4521453,C0518609,DIAGNOSES,FDG-Positron Emission Tomography and Computed Tomography Scan,consideration,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4521453,C1704258,DIAGNOSES,FDG-Positron Emission Tomography and Computed Tomography Scan,Abnormality,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C4525830,C0231974,DIAGNOSES,Elastance,Anatomical dead space,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG

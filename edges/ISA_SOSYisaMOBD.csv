@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011991,C0008073,ISA,Diarrhea,Developmental Disabilities,sosy,mobd,1,ISA_SOSYisaMOBD
+C0018681,C0004936,ISA,Headache,Mental disorders,sosy,mobd,1,ISA_SOSYisaMOBD
+C0020429,C0391976,ISA,Hyperalgesia,Pain Disorder,sosy,mobd,1,ISA_SOSYisaMOBD
+C0023380,C0233514,ISA,Lethargy,Abnormal behavior,sosy,mobd,1,ISA_SOSYisaMOBD
+C0027769,C0003467,ISA,Nervousness,Anxiety,sosy,mobd,2,ISA_SOSYisaMOBD
+C0027769,C0233514,ISA,Nervousness,Abnormal behavior,sosy,mobd,1,ISA_SOSYisaMOBD
+C0036572,C0004936,ISA,Seizures,Mental disorders,sosy,mobd,1,ISA_SOSYisaMOBD
+C0039070,C0278061,ISA,Syncope,Abnormal mental state,sosy,mobd,1,ISA_SOSYisaMOBD
+C0085620,C0004936,ISA,Flaccid paralysis,Mental disorders,sosy,mobd,1,ISA_SOSYisaMOBD
+C0085631,C0003467,ISA,Agitation,Anxiety,sosy,mobd,4,ISA_SOSYisaMOBD
+C0085631,C0004936,ISA,Agitation,Mental disorders,sosy,mobd,2,ISA_SOSYisaMOBD
+C0085631,C0424295,ISA,Agitation,Hyperactive behavior,sosy,mobd,1,ISA_SOSYisaMOBD
+C0086132,C0003469,ISA,Depressive Symptoms,Anxiety Disorders,sosy,mobd,1,ISA_SOSYisaMOBD
+C0086132,C0004936,ISA,Depressive Symptoms,Mental disorders,sosy,mobd,1,ISA_SOSYisaMOBD
+C0086132,C0011581,ISA,Depressive Symptoms,Depressive disorder,sosy,mobd,1,ISA_SOSYisaMOBD
+C0233401,C0004936,ISA,Psychiatric symptom,Mental disorders,sosy,mobd,1,ISA_SOSYisaMOBD
+C0917801,C0233514,ISA,Sleeplessness,Abnormal behavior,sosy,mobd,1,ISA_SOSYisaMOBD

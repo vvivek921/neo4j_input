@@ -1,0 +1,80 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013216,C1749881,AFFECTS,Pharmacotherapy,genetic exchange,topp,genf,1,AFFECTS_TOPPafctGENF
+C0015252,C0034865,AFFECTS,removal technique,"Recombination, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0015252,C2610186,AFFECTS,removal technique,"nuclear mRNA cis splicing, via spliceosome",topp,genf,1,AFFECTS_TOPPafctGENF
+C0017296,C0017260,AFFECTS,gene therapy,Gene Deletion,topp,genf,1,AFFECTS_TOPPafctGENF
+C0017296,C0017262,AFFECTS,gene therapy,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0017296,C0026882,AFFECTS,gene therapy,Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0017296,C0597360,AFFECTS,gene therapy,receptor expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0017296,C0887912,AFFECTS,gene therapy,"Gene Transfer, Horizontal",topp,genf,1,AFFECTS_TOPPafctGENF
+C0020944,C0020202,AFFECTS,Immobilization,Crossbreeding,topp,genf,1,AFFECTS_TOPPafctGENF
+C0020971,C1158730,AFFECTS,Immunization,mRNA modification,topp,genf,1,AFFECTS_TOPPafctGENF
+C0021107,C0017262,AFFECTS,Implantation procedure,Gene Expression,topp,genf,2,AFFECTS_TOPPafctGENF
+C0021107,C0026882,AFFECTS,Implantation procedure,Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0021107,C0599773,AFFECTS,Implantation procedure,Homologous Recombination,topp,genf,1,AFFECTS_TOPPafctGENF
+C0021107,C1136031,AFFECTS,Implantation procedure,RNA Interference,topp,genf,1,AFFECTS_TOPPafctGENF
+C0021107,C1519516,AFFECTS,Implantation procedure,Tissue-Specific Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0021107,C2610186,AFFECTS,Implantation procedure,"nuclear mRNA cis splicing, via spliceosome",topp,genf,1,AFFECTS_TOPPafctGENF
+C0021493,C0017262,AFFECTS,"Injections, Intraperitoneal",Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0023690,C0040649,AFFECTS,Ligation,"Transcription, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0035139,C0026882,AFFECTS,Surgical Replantation,Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0035139,C0034865,AFFECTS,Surgical Replantation,"Recombination, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0035139,C2752607,AFFECTS,Surgical Replantation,G-quadruplex RNA binding,topp,genf,2,AFFECTS_TOPPafctGENF
+C0040861,C1257759,AFFECTS,Triage,mRNA Degradation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0042196,C0017262,AFFECTS,Vaccination,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0042196,C0917892,AFFECTS,Vaccination,Genetic Drift,topp,genf,1,AFFECTS_TOPPafctGENF
+C0052712,C0017262,AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0056633,C0002345,AFFECTS,cyclophosphamide/prednisone/vincristine protocol,Alternative Splicing,topp,genf,1,AFFECTS_TOPPafctGENF
+C0056633,C1328949,AFFECTS,cyclophosphamide/prednisone/vincristine protocol,RNA replication,topp,genf,1,AFFECTS_TOPPafctGENF
+C0056633,C2610186,AFFECTS,cyclophosphamide/prednisone/vincristine protocol,"nuclear mRNA cis splicing, via spliceosome",topp,genf,8,AFFECTS_TOPPafctGENF
+C0072634,C1512167,AFFECTS,bleomycin/cisplatin/vinblastine protocol,Ectopic Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0079613,C0282572,AFFECTS,Adoptive Immunotherapy,"Frameshifting, Ribosomal",topp,genf,1,AFFECTS_TOPPafctGENF
+C0079613,C1158817,AFFECTS,Adoptive Immunotherapy,viral transcription,topp,genf,1,AFFECTS_TOPPafctGENF
+C0152060,C1328949,AFFECTS,Transection (procedure),RNA replication,topp,genf,2,AFFECTS_TOPPafctGENF
+C0185026,C0040649,AFFECTS,Plication,"Transcription, Genetic",topp,genf,2,AFFECTS_TOPPafctGENF
+C0185026,C1157562,AFFECTS,Plication,translational elongation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0185026,C1171362,AFFECTS,Plication,protein expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0185026,C2611689,AFFECTS,Plication,mRNA methylation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0185027,C1519614,AFFECTS,Imbrication (procedure),Genetic Translation Process,topp,genf,1,AFFECTS_TOPPafctGENF
+C0185111,C0035380,AFFECTS,Surgical Manipulation,Reverse Transcription,topp,genf,1,AFFECTS_TOPPafctGENF
+C0185115,C0040649,AFFECTS,Extraction,"Transcription, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0185115,C1171362,AFFECTS,Extraction,protein expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0185115,C1328949,AFFECTS,Extraction,RNA replication,topp,genf,2,AFFECTS_TOPPafctGENF
+C0185117,C0040649,AFFECTS,Expression procedure,"Transcription, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0193959,C0020202,AFFECTS,Tonsillectomy and adenoidectomy,Crossbreeding,topp,genf,1,AFFECTS_TOPPafctGENF
+C0204727,C0026882,AFFECTS,Isolation procedure,Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0204727,C1158013,AFFECTS,Isolation procedure,Nonsense Mediated mRNA Decay,topp,genf,1,AFFECTS_TOPPafctGENF
+C0242297,C2613365,AFFECTS,Dietary Supplementation,DNA hypermethylation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0279470,C0017262,AFFECTS,altretamine/cyclophosphamide/doxorubicin,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0279470,C0206071,AFFECTS,altretamine/cyclophosphamide/doxorubicin,Immunoglobulin Class Switching,topp,genf,1,AFFECTS_TOPPafctGENF
+C0280090,C0017263,AFFECTS,aminoglutethimide/danazol/hydrocortisone/tamoxifen,Gene Expression Regulation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0280274,C0034865,AFFECTS,Antiviral Therapy,"Recombination, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0280603,C1519614,AFFECTS,fluorouracil/methotrexate protocol,Genetic Translation Process,topp,genf,1,AFFECTS_TOPPafctGENF
+C0508431,C1148846,AFFECTS,answer questions,RNA Binding,topp,genf,1,AFFECTS_TOPPafctGENF
+C0556030,C0017287,AFFECTS,Repositioning (procedure),Gene Rearrangement,topp,genf,1,AFFECTS_TOPPafctGENF
+C0581602,C0026882,AFFECTS,Structural modification,Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0600080,C0002345,AFFECTS,Stretching exercises,Alternative Splicing,topp,genf,1,AFFECTS_TOPPafctGENF
+C0678812,C0017262,AFFECTS,systemic administration,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C0695584,C1328949,AFFECTS,functional activities,RNA replication,topp,genf,1,AFFECTS_TOPPafctGENF
+C0741847,C0596611,AFFECTS,Bypass,Gene Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0813207,C1519613,AFFECTS,Creation of shunt,Translation Initiation,topp,genf,1,AFFECTS_TOPPafctGENF
+C0872178,C0034865,AFFECTS,gene replacement,"Recombination, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C0920425,C0032529,AFFECTS,cancer therapy,Genetic Polymorphism,topp,genf,1,AFFECTS_TOPPafctGENF
+C0920467,C0017262,AFFECTS,disorder control (procedure),Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C1280903,C1515669,AFFECTS,Exploration procedure,mRNA Export,topp,genf,1,AFFECTS_TOPPafctGENF
+C1283075,C0026882,AFFECTS,Fusion - action,Mutation,topp,genf,1,AFFECTS_TOPPafctGENF
+C1293116,C1158726,AFFECTS,Introduction procedure,mRNA cleavage,topp,genf,1,AFFECTS_TOPPafctGENF
+C1293116,C1171362,AFFECTS,Introduction procedure,protein expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C1293130,C0017262,AFFECTS,Stabilization,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C1293130,C1512167,AFFECTS,Stabilization,Ectopic Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C1293132,C1511695,AFFECTS,Anchoring procedure,DNA Sequence Rearrangement,topp,genf,1,AFFECTS_TOPPafctGENF
+C1511790,C0017262,AFFECTS,Detection,Gene Expression,topp,genf,2,AFFECTS_TOPPafctGENF
+C1511790,C0020202,AFFECTS,Detection,Crossbreeding,topp,genf,1,AFFECTS_TOPPafctGENF
+C1511790,C0026882,AFFECTS,Detection,Mutation,topp,genf,3,AFFECTS_TOPPafctGENF
+C1511790,C1148901,AFFECTS,Detection,tRNA binding,topp,genf,1,AFFECTS_TOPPafctGENF
+C1563149,C0040649,AFFECTS,Balanced ligamentous tension technique (procedure),"Transcription, Genetic",topp,genf,1,AFFECTS_TOPPafctGENF
+C2985566,C0017262,AFFECTS,Targeted Therapy,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C4042855,C0017262,AFFECTS,RNAi Therapeutics,Gene Expression,topp,genf,1,AFFECTS_TOPPafctGENF
+C4042855,C1136031,AFFECTS,RNAi Therapeutics,RNA Interference,topp,genf,1,AFFECTS_TOPPafctGENF
+C4319935,C1152412,AFFECTS,Irreversible Electroporation,RNA-directed RNA polymerase activity,topp,genf,1,AFFECTS_TOPPafctGENF
+C4319935,C2610186,AFFECTS,Irreversible Electroporation,"nuclear mRNA cis splicing, via spliceosome",topp,genf,1,AFFECTS_TOPPafctGENF

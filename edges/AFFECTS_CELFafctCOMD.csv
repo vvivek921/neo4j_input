@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0012860,AFFECTS,Autophagy,DNA Damage,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C0027746,AFFECTS,Autophagy,Nerve Degeneration,celf,comd,2,AFFECTS_CELFafctCOMD
+C0004391,C0242606,AFFECTS,Autophagy,Oxidative Stress,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C0541642,AFFECTS,Autophagy,Membrane Alteration,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C0596402,AFFECTS,Autophagy,cytotoxicity,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C1257806,AFFECTS,Autophagy,Chromosomal Instability,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C1265901,AFFECTS,Autophagy,Abnormal cell structure,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C1516373,AFFECTS,Autophagy,Cellular Stress,celf,comd,1,AFFECTS_CELFafctCOMD
+C0004391,C3178870,AFFECTS,Autophagy,Endoplasmic Reticulum Stress,celf,comd,2,AFFECTS_CELFafctCOMD
+C0007587,C0596402,AFFECTS,Cell Death,cytotoxicity,celf,comd,2,AFFECTS_CELFafctCOMD
+C0014139,C0596402,AFFECTS,Endocytosis,cytotoxicity,celf,comd,1,AFFECTS_CELFafctCOMD
+C0037083,C0242606,AFFECTS,Signal Transduction,Oxidative Stress,celf,comd,1,AFFECTS_CELFafctCOMD
+C0042774,C0027746,AFFECTS,Virus Replication,Nerve Degeneration,celf,comd,1,AFFECTS_CELFafctCOMD
+C0042774,C0242606,AFFECTS,Virus Replication,Oxidative Stress,celf,comd,1,AFFECTS_CELFafctCOMD
+C0042774,C0282632,AFFECTS,Virus Replication,Antibody-Dependent Enhancement,celf,comd,1,AFFECTS_CELFafctCOMD
+C0042774,C0541642,AFFECTS,Virus Replication,Membrane Alteration,celf,comd,1,AFFECTS_CELFafctCOMD
+C0042774,C0544910,AFFECTS,Virus Replication,Nuclear accumulation,celf,comd,1,AFFECTS_CELFafctCOMD
+C0042774,C0599732,AFFECTS,Virus Replication,cell injury,celf,comd,2,AFFECTS_CELFafctCOMD
+C0042774,C0920672,AFFECTS,Virus Replication,virus pathogenesis,celf,comd,4,AFFECTS_CELFafctCOMD
+C0042774,C1512032,AFFECTS,Virus Replication,Dominant-Negative Mutation,celf,comd,1,AFFECTS_CELFafctCOMD
+C0162638,C0012860,AFFECTS,Apoptosis,DNA Damage,celf,comd,1,AFFECTS_CELFafctCOMD
+C0162638,C0242606,AFFECTS,Apoptosis,Oxidative Stress,celf,comd,2,AFFECTS_CELFafctCOMD
+C0162638,C0596402,AFFECTS,Apoptosis,cytotoxicity,celf,comd,4,AFFECTS_CELFafctCOMD
+C0162638,C0599732,AFFECTS,Apoptosis,cell injury,celf,comd,1,AFFECTS_CELFafctCOMD
+C0162638,C0919532,AFFECTS,Apoptosis,Genomic Instability,celf,comd,1,AFFECTS_CELFafctCOMD
+C0162638,C0920672,AFFECTS,Apoptosis,virus pathogenesis,celf,comd,2,AFFECTS_CELFafctCOMD
+C0162638,C1511667,AFFECTS,Apoptosis,"DNA Breaks, Double-Stranded",celf,comd,1,AFFECTS_CELFafctCOMD
+C0162638,C1516373,AFFECTS,Apoptosis,Cellular Stress,celf,comd,1,AFFECTS_CELFafctCOMD
+C0162638,C3178870,AFFECTS,Apoptosis,Endoplasmic Reticulum Stress,celf,comd,2,AFFECTS_CELFafctCOMD
+C0282636,C0012860,AFFECTS,Cell Respiration,DNA Damage,celf,comd,1,AFFECTS_CELFafctCOMD
+C0596290,C0598309,AFFECTS,Cell Proliferation,genotoxicity,celf,comd,1,AFFECTS_CELFafctCOMD
+C0598958,C0027746,AFFECTS,Neuroprotection,Nerve Degeneration,celf,comd,1,AFFECTS_CELFafctCOMD
+C0887840,C0544910,AFFECTS,Nuclear Export,Nuclear accumulation,celf,comd,1,AFFECTS_CELFafctCOMD
+C1155064,C0596402,AFFECTS,NK Cell Activation,cytotoxicity,celf,comd,1,AFFECTS_CELFafctCOMD
+C1155229,C0282632,AFFECTS,Humoral immune response,Antibody-Dependent Enhancement,celf,comd,1,AFFECTS_CELFafctCOMD
+C1155342,C0242606,AFFECTS,cellular response to unfolded protein,Oxidative Stress,celf,comd,1,AFFECTS_CELFafctCOMD
+C1155873,C0010827,AFFECTS,Cell Cycle Arrest,"Cytopathogenic Effect, Viral",celf,comd,1,AFFECTS_CELFafctCOMD
+C1159455,C0596402,AFFECTS,syncytium formation,cytotoxicity,celf,comd,1,AFFECTS_CELFafctCOMD
+C1326169,C0027746,AFFECTS,microglial cell activation,Nerve Degeneration,celf,comd,1,AFFECTS_CELFafctCOMD
+C1371607,C0025568,AFFECTS,Increased Extracellular Communication [PE],Metaplasia,celf,comd,1,AFFECTS_CELFafctCOMD
+C1622858,C0599732,AFFECTS,apoptosis signaling,cell injury,celf,comd,1,AFFECTS_CELFafctCOMD
+C2610960,C0599732,AFFECTS,Pyroptosis,cell injury,celf,comd,1,AFFECTS_CELFafctCOMD
+C3158983,C0026244,AFFECTS,mitochondrial permeability transition,Mitochondrial Swelling,celf,comd,1,AFFECTS_CELFafctCOMD
+C3178828,C0012860,AFFECTS,M Phase Cell Cycle Checkpoints,DNA Damage,celf,comd,1,AFFECTS_CELFafctCOMD
+C4329131,C0544955,AFFECTS,cilium assembly,Microtubule alteration,celf,comd,1,AFFECTS_CELFafctCOMD

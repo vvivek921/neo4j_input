@@ -1,0 +1,184 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0019193,CAUSES,Acetaminophen,"Hepatitis, Toxic",orch,inpo,1,CAUSES_ORCHcausINPO
+C0000970,C0160390,CAUSES,Acetaminophen,Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0000970,C0235378,CAUSES,Acetaminophen,Hepatotoxicity,orch,inpo,10,CAUSES_ORCHcausINPO
+C0000970,C0599918,CAUSES,Acetaminophen,nephrotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0000970,C0600688,CAUSES,Acetaminophen,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0001159,C0876994,CAUSES,Aconitine,Cardiotoxicity,orch,inpo,8,CAUSES_ORCHcausINPO
+C0001962,C0010957,CAUSES,Ethanol,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0001962,C0160390,CAUSES,Ethanol,Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0001962,C0434063,CAUSES,Ethanol,Injury of stomach,orch,inpo,1,CAUSES_ORCHcausINPO
+C0001962,C0600688,CAUSES,Ethanol,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0002062,C0876994,CAUSES,Alkaloids,Cardiotoxicity,orch,inpo,8,CAUSES_ORCHcausINPO
+C0002556,C0235280,CAUSES,Aminoglycosides,Ototoxicity,orch,inpo,3,CAUSES_ORCHcausINPO
+C0002556,C0599918,CAUSES,Aminoglycosides,nephrotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0002556,C0600688,CAUSES,Aminoglycosides,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0002598,C0273115,CAUSES,Amiodarone,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0002598,C0600688,CAUSES,Amiodarone,Toxic effect,orch,inpo,5,CAUSES_ORCHcausINPO
+C0002641,C0235378,CAUSES,Amodiaquine,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0002686,C0600688,CAUSES,Amprolium,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0003392,C0273115,CAUSES,Antineoplastic Agents,Lung Injury,orch,inpo,4,CAUSES_ORCHcausINPO
+C0003392,C0600688,CAUSES,Antineoplastic Agents,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0003392,C0876994,CAUSES,Antineoplastic Agents,Cardiotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0003663,C1710055,CAUSES,Aquacobalamin,Serious Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0003695,C0273115,CAUSES,Arachidonic Acid,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0004504,C0600688,CAUSES,Azoles,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0005026,C0600688,CAUSES,Benzalkonium Chloride,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0005802,C0010957,CAUSES,Blood Glucose,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0005802,C0270611,CAUSES,Blood Glucose,Brain Injuries,orch,inpo,1,CAUSES_ORCHcausINPO
+C0006405,C0600688,CAUSES,Buprenorphine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0006507,C0600688,CAUSES,Butylated Hydroxytoluene,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0006812,C3544285,CAUSES,Camptothecin,Bladder toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0006931,C0600467,CAUSES,Capsaicin,Neurogenic Inflammation,orch,inpo,4,CAUSES_ORCHcausINPO
+C0008269,C0876994,CAUSES,Chloroquine,Cardiotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0008318,C0010957,CAUSES,Cholecalciferol,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0008857,C0600688,CAUSES,Citrates,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0010583,C0235378,CAUSES,Cyclophosphamide,Hepatotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0010583,C0273115,CAUSES,Cyclophosphamide,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0010583,C0600688,CAUSES,Cyclophosphamide,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0010583,C3544285,CAUSES,Cyclophosphamide,Bladder toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0011777,C0600688,CAUSES,Dexamethasone,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0011806,C0341336,CAUSES,Dextrans,Drug-induced colitis,orch,inpo,1,CAUSES_ORCHcausINPO
+C0012091,C0235378,CAUSES,Diclofenac,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0013618,C0000921,CAUSES,Edetic Acid,Accidental Falls,orch,inpo,1,CAUSES_ORCHcausINPO
+C0013725,C0273115,CAUSES,Eicosanoids,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0014964,C1262036,CAUSES,Ethambutol,ocular toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0014994,C0273115,CAUSES,ethyl ether,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0015133,C0600688,CAUSES,Etoposide,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0015688,C0441713,CAUSES,Nonesterified Fatty Acids,Chemical injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0016410,C0273115,CAUSES,Folic Acid,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0016967,C0600688,CAUSES,Galantamine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0017082,C0600688,CAUSES,Gangliosides,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0017986,C0235378,CAUSES,Glycyrrhetinic acid,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0020336,C0013221,CAUSES,Hydroxychloroquine,Drug toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0020336,C0600688,CAUSES,Hydroxychloroquine,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0020336,C0876994,CAUSES,Hydroxychloroquine,Cardiotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0020823,C3544285,CAUSES,Ifosfamide,Bladder toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0021246,C0434063,CAUSES,Indomethacin,Injury of stomach,orch,inpo,1,CAUSES_ORCHcausINPO
+C0022179,C0600688,CAUSES,Isoflavones,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0022209,C0235378,CAUSES,isoniazid,Hepatotoxicity,orch,inpo,4,CAUSES_ORCHcausINPO
+C0022245,C0018805,CAUSES,Isoproterenol,Heart Injuries,orch,inpo,1,CAUSES_ORCHcausINPO
+C0022245,C0746730,CAUSES,Isoproterenol,myocardial injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0022245,C0876994,CAUSES,Isoproterenol,Cardiotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023776,C0600688,CAUSES,Lipid Peroxides,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023779,C0010957,CAUSES,Lipids,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023779,C0242488,CAUSES,Lipids,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023779,C0600688,CAUSES,Lipids,Toxic effect,orch,inpo,4,CAUSES_ORCHcausINPO
+C0023810,C0010957,CAUSES,Lipopolysaccharides,Tissue damage,orch,inpo,3,CAUSES_ORCHcausINPO
+C0023810,C0160390,CAUSES,Lipopolysaccharides,Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023810,C0242488,CAUSES,Lipopolysaccharides,Acute Lung Injury,orch,inpo,81,CAUSES_ORCHcausINPO
+C0023810,C0273115,CAUSES,Lipopolysaccharides,Lung Injury,orch,inpo,142,CAUSES_ORCHcausINPO
+C0023810,C0341336,CAUSES,Lipopolysaccharides,Drug-induced colitis,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023810,C0600688,CAUSES,Lipopolysaccharides,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0023810,C2905612,CAUSES,Lipopolysaccharides,Storm NOS,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023828,C0010957,CAUSES,Liposomes,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023828,C2362502,CAUSES,Liposomes,Safety Issues,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023828,C3203359,CAUSES,Liposomes,Rupture,orch,inpo,1,CAUSES_ORCHcausINPO
+C0024360,C0273115,CAUSES,Lysophosphatidylcholines,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0024808,C0004760,CAUSES,Marihuana,Dysbarism,orch,inpo,1,CAUSES_ORCHcausINPO
+C0025677,C0273115,CAUSES,Methotrexate,Lung Injury,orch,inpo,4,CAUSES_ORCHcausINPO
+C0025677,C0441718,CAUSES,Methotrexate,Direct trauma,orch,inpo,1,CAUSES_ORCHcausINPO
+C0025677,C0600688,CAUSES,Methotrexate,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0025872,C0600688,CAUSES,Metronidazole,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0027358,C0242488,CAUSES,Naloxone,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0027375,C0273115,CAUSES,Naphthalene,Lung Injury,orch,inpo,2,CAUSES_ORCHcausINPO
+C0028210,C0600688,CAUSES,Nitrosourea Compounds,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0028910,C0160390,CAUSES,"Oils, Volatile",Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0028910,C0235378,CAUSES,"Oils, Volatile",Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0028928,C0242488,CAUSES,Oleic Acid,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0028928,C0273115,CAUSES,Oleic Acid,Lung Injury,orch,inpo,6,CAUSES_ORCHcausINPO
+C0031412,C0160390,CAUSES,Phenobarbital,Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0031412,C0235378,CAUSES,Phenobarbital,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0031507,C0600688,CAUSES,Phenytoin,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0031692,C0600688,CAUSES,Phosphoramide Mustards,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0031849,C0274702,CAUSES,Physostigmine,Poisoning by parasympathomimetic drug,orch,inpo,1,CAUSES_ORCHcausINPO
+C0032458,C0520759,CAUSES,"Polycyclic Hydrocarbons, Aromatic",Carcinogen effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0032594,C0010957,CAUSES,Polysaccharides,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0032837,C0032343,CAUSES,Potassium Oxalate,Poisoning,orch,inpo,1,CAUSES_ORCHcausINPO
+C0034428,C3203359,CAUSES,Quinolones,Rupture,orch,inpo,1,CAUSES_ORCHcausINPO
+C0034435,C0235378,CAUSES,Quinones,Hepatotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0034435,C0599918,CAUSES,Quinones,nephrotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0034435,C0600688,CAUSES,Quinones,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0035839,C0235032,CAUSES,Ronidazole,Neurotoxicity Syndromes,orch,inpo,1,CAUSES_ORCHcausINPO
+C0036077,C0160390,CAUSES,Salicylates,Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0038317,C0600688,CAUSES,Steroids,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0038771,C0599918,CAUSES,Sulfoxides,nephrotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0039245,C0600688,CAUSES,Tacrine,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0039663,C1302810,CAUSES,Tetrahydrocannabinol,Mechanical irritation,orch,inpo,1,CAUSES_ORCHcausINPO
+C0040875,C0600688,CAUSES,Triazenes,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0040958,C0600688,CAUSES,Triclosan,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0042291,C0235378,CAUSES,Valproic Acid,Hepatotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0042291,C1960448,CAUSES,Valproic Acid,Hyperammonemic encephalopathy,orch,inpo,1,CAUSES_ORCHcausINPO
+C0048297,C0600688,CAUSES,4-hydroxy-2-nonenal,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0052432,C0600688,CAUSES,artesunate,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0052934,C0235378,CAUSES,bakuchiol,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0058031,C0010957,CAUSES,Dihematoporphyrin Ether,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0061751,C0600688,CAUSES,Glycyrrhizic Acid,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0062637,C0600688,CAUSES,Hexamethonium,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0063476,C0273115,CAUSES,indium-bleomycin,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0064113,C0235378,CAUSES,Itraconazole,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0069717,C0161479,CAUSES,oxaliplatin,Nerve injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0070895,C0599918,CAUSES,Foscarnet,nephrotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0070895,C0600688,CAUSES,Foscarnet,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0072836,C0600688,CAUSES,quercitrin,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0073177,C0235378,CAUSES,rhein,Hepatotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0073177,C0599918,CAUSES,rhein,nephrotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0073177,C0600688,CAUSES,rhein,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0073903,C0600688,CAUSES,"S-pentachlorobuta-1,3-dien-yl-cysteine",Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0074992,C0412877,CAUSES,sphingosine 1-phosphate,Poisoning by cardiotonic glycoside,orch,inpo,1,CAUSES_ORCHcausINPO
+C0074992,C0600688,CAUSES,sphingosine 1-phosphate,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0074992,C0679360,CAUSES,sphingosine 1-phosphate,Foodborne Disease,orch,inpo,2,CAUSES_ORCHcausINPO
+C0075193,C0600688,CAUSES,Staurosporine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0077608,C0560617,CAUSES,U 18666A,knocked out,orch,inpo,1,CAUSES_ORCHcausINPO
+C0077938,C0270611,CAUSES,ursolic acid,Brain Injuries,orch,inpo,1,CAUSES_ORCHcausINPO
+C0079083,C0600688,CAUSES,Carboplatin,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0079225,C0010957,CAUSES,Dextran Sulfate Sodium,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0080356,C0235378,CAUSES,Valproate,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0085149,C0160420,CAUSES,Tacrolimus,Injury of kidney,orch,inpo,1,CAUSES_ORCHcausINPO
+C0085196,C0600688,CAUSES,Oxidopamine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0085752,C0160420,CAUSES,Adriamycin,Injury of kidney,orch,inpo,1,CAUSES_ORCHcausINPO
+C0085752,C0600688,CAUSES,Adriamycin,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0113293,C0161479,CAUSES,Dexmedetomidine,Nerve injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0165032,C0281980,CAUSES,imiquimod,Injury of integument,orch,inpo,1,CAUSES_ORCHcausINPO
+C0172217,C0010957,CAUSES,arsenal,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0209227,C0600688,CAUSES,famciclovir,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0215136,C0600688,CAUSES,taxane,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0216660,C0600688,CAUSES,Zanamivir,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0225326,C0600688,CAUSES,Fiber,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0246415,C0600688,CAUSES,docetaxel,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0283828,C0273115,CAUSES,didecyldimethylammonium chloride,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0520481,C0600688,CAUSES,Saponin,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0525678,C0160420,CAUSES,rasagiline,Injury of kidney,orch,inpo,1,CAUSES_ORCHcausINPO
+C0525678,C0242488,CAUSES,rasagiline,Acute Lung Injury,orch,inpo,3,CAUSES_ORCHcausINPO
+C0525678,C0273115,CAUSES,rasagiline,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0595490,C0600688,CAUSES,Malarone,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0596332,C0178324,CAUSES,cholesterol oxide,Vascular System Injuries,orch,inpo,1,CAUSES_ORCHcausINPO
+C0596577,C0242488,CAUSES,Flavonoids,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0605507,C0600688,CAUSES,grandisol,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0637804,C0600688,CAUSES,hinokiflavone,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0647210,C0274869,CAUSES,monooxyethylene trimethylolpropane tristearate,Toxic effect of heavy metal,orch,inpo,1,CAUSES_ORCHcausINPO
+C0699680,C0600688,CAUSES,Metric,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0699680,C0848373,CAUSES,Metric,chemical toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0721362,C0600688,CAUSES,lidocaine viscous,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0909820,C0600688,CAUSES,salvicine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0950301,C0600688,CAUSES,Baker's Antifol,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0971025,C2362502,CAUSES,NanoGel,Safety Issues,orch,inpo,1,CAUSES_ORCHcausINPO
+C1175112,C0242488,CAUSES,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C1175112,C0273115,CAUSES,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,Lung Injury,orch,inpo,2,CAUSES_ORCHcausINPO
+C1176309,C0876994,CAUSES,bortezomib,Cardiotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C1328819,C3203359,CAUSES,Small Molecule,Rupture,orch,inpo,1,CAUSES_ORCHcausINPO
+C1455147,C0273115,CAUSES,dasatinib,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C1455147,C0600688,CAUSES,dasatinib,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C1566588,C0600688,CAUSES,SL0101,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C1609342,C0242488,CAUSES,PAMAM dendrimer,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C1609342,C0273115,CAUSES,PAMAM dendrimer,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C2728259,C0010957,CAUSES,Program,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C2728259,C0560617,CAUSES,Program,knocked out,orch,inpo,1,CAUSES_ORCHcausINPO
+C2728259,C0679360,CAUSES,Program,Foodborne Disease,orch,inpo,1,CAUSES_ORCHcausINPO
+C2926735,C0016658,CAUSES,Duration,Fracture,orch,inpo,1,CAUSES_ORCHcausINPO
+C2926735,C0160420,CAUSES,Duration,Injury of kidney,orch,inpo,1,CAUSES_ORCHcausINPO
+C2926735,C0600688,CAUSES,Duration,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C2926735,C0850107,CAUSES,Duration,antibiotic side-effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C3501358,C0600688,CAUSES,Ibrutinib,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C4044209,C0600688,CAUSES,diplacone,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C4044621,C0235378,CAUSES,ABX196,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO

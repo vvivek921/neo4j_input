@@ -1,0 +1,111 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002422,C0180717,ISA,Ambulances,emergency vehicles,medd,medd,1,ISA_MEDDisaMEDD
+C0004726,C0013119,ISA,Bandage,Medical dressing,medd,medd,1,ISA_MEDDisaMEDD
+C0005971,C1139930,ISA,Bone plates,Device Plate,medd,medd,10,ISA_MEDDisaMEDD
+C0006856,C0036605,ISA,"CANE, INCLUDES CANES OF ALL MATERIALS, ADJUSTABLE OR FIXED, WITH TIP",Self-Help Devices,medd,medd,1,ISA_MEDDisaMEDD
+C0006856,C0557834,ISA,"CANE, INCLUDES CANES OF ALL MATERIALS, ADJUSTABLE OR FIXED, WITH TIP",Walking aid,medd,medd,1,ISA_MEDDisaMEDD
+C0008034,C0175730,ISA,Chest Tubes,biomedical tube device,medd,medd,1,ISA_MEDDisaMEDD
+C0016533,C0038928,ISA,Forceps,Surgical Instruments,medd,medd,1,ISA_MEDDisaMEDD
+C0016533,C0348000,ISA,Forceps,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0018825,C0175649,ISA,Heart Valve Prosthesis,Prosthesis,medd,medd,1,ISA_MEDDisaMEDD
+C0018829,C0021102,ISA,"Heart, Artificial",Implants,medd,medd,1,ISA_MEDDisaMEDD
+C0021102,C0175649,ISA,Implants,Prosthesis,medd,medd,2,ISA_MEDDisaMEDD
+C0024861,C0457169,ISA,Masks,Respiratory equipment,medd,medd,2,ISA_MEDDisaMEDD
+C0025973,C0013812,ISA,Microelectrodes,electrode,medd,medd,3,ISA_MEDDisaMEDD
+C0027524,C0457169,ISA,Nebulizers,Respiratory equipment,medd,medd,2,ISA_MEDDisaMEDD
+C0027551,C0348000,ISA,Needle device,Instrument - device,medd,medd,3,ISA_MEDDisaMEDD
+C0035208,C0024861,ISA,"Respirators, Air-Purifying",Masks,medd,medd,1,ISA_MEDDisaMEDD
+C0035208,C0457169,ISA,"Respirators, Air-Purifying",Respiratory equipment,medd,medd,2,ISA_MEDDisaMEDD
+C0036405,C0348000,ISA,Scintillation Counters,Instrument - device,medd,medd,2,ISA_MEDDisaMEDD
+C0042497,C0336568,ISA,Mechanical Ventilator,Therapeutic Device,medd,medd,1,ISA_MEDDisaMEDD
+C0042497,C0457169,ISA,Mechanical Ventilator,Respiratory equipment,medd,medd,3,ISA_MEDDisaMEDD
+C0085590,C0336568,ISA,catheter device,Therapeutic Device,medd,medd,1,ISA_MEDDisaMEDD
+C0085678,C2945625,ISA,Nasogastric tube,Feeding tube,medd,medd,1,ISA_MEDDisaMEDD
+C0085842,C0182537,ISA,Artificial Ventricle,pump (device),medd,medd,1,ISA_MEDDisaMEDD
+C0086337,C2945625,ISA,Gastric Feeding Tubes,Feeding tube,medd,medd,1,ISA_MEDDisaMEDD
+C0087153,C0457169,ISA,Ventilator - respiratory equipment,Respiratory equipment,medd,medd,3,ISA_MEDDisaMEDD
+C0150694,C0178987,ISA,"Artificial Airways, Oropharyngeal",Artificial Airways,medd,medd,1,ISA_MEDDisaMEDD
+C0162645,C0178987,ISA,Laryngeal Masks,Artificial Airways,medd,medd,1,ISA_MEDDisaMEDD
+C0179432,C0014243,ISA,Bronchoscopes,Endoscopes,medd,medd,2,ISA_MEDDisaMEDD
+C0179740,C0085590,ISA,Peripherally inserted central catheter (physical object),catheter device,medd,medd,3,ISA_MEDDisaMEDD
+C0179740,C1145640,ISA,Peripherally inserted central catheter (physical object),"Central venous catheter, device",medd,medd,1,ISA_MEDDisaMEDD
+C0179760,C0348000,ISA,Hemodialysis catheter,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0179768,C0085590,ISA,Peripheral intravenous catheter,catheter device,medd,medd,1,ISA_MEDDisaMEDD
+C0179790,C0441127,ISA,"Swan-Ganz catheter, device",Balloon dilatation catheter,medd,medd,1,ISA_MEDDisaMEDD
+C0179802,C0085590,ISA,Urinary catheter,catheter device,medd,medd,3,ISA_MEDDisaMEDD
+C0179891,C0179038,ISA,"Analyzers, Laboratory, Immunoassay, Chemiluminescent","Analyzer, device",medd,medd,1,ISA_MEDDisaMEDD
+C0180022,C0014243,ISA,Colonoscopes,Endoscopes,medd,medd,1,ISA_MEDDisaMEDD
+C0180170,C0180153,ISA,Shoe cover,Covers (device),medd,medd,1,ISA_MEDDisaMEDD
+C0180279,C0179038,ISA,automated flow cytometers,"Analyzer, device",medd,medd,3,ISA_MEDDisaMEDD
+C0180453,C0014243,ISA,Laryngoscopes,Endoscopes,medd,medd,1,ISA_MEDDisaMEDD
+C0180565,C0014243,ISA,Duodenoscopes,Endoscopes,medd,medd,2,ISA_MEDDisaMEDD
+C0180919,C0348000,ISA,"FLUOROMETER, FOR CLINICAL USE",Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0181066,C0181064,ISA,Surgical Gowns,Gown,medd,medd,2,ISA_MEDDisaMEDD
+C0181222,C0184165,ISA,Hoses,Tubing,medd,medd,3,ISA_MEDDisaMEDD
+C0181264,C0302693,ISA,Ice Bags,gel packs,medd,medd,1,ISA_MEDDisaMEDD
+C0181332,C0182537,ISA,Syringe pump,pump (device),medd,medd,1,ISA_MEDDisaMEDD
+C0181467,C0348000,ISA,knife,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0181598,C0021102,ISA,Left ventricular assist device,Implants,medd,medd,1,ISA_MEDDisaMEDD
+C0181758,C0024861,ISA,Surgical face mask,Masks,medd,medd,40,ISA_MEDDisaMEDD
+C0181758,C0457169,ISA,Surgical face mask,Respiratory equipment,medd,medd,1,ISA_MEDDisaMEDD
+C0181967,C0013812,ISA,"ELECTRODE, NEEDLE",electrode,medd,medd,1,ISA_MEDDisaMEDD
+C0181985,C0348000,ISA,Suture needle,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0181994,C0179038,ISA,Nephelometer,"Analyzer, device",medd,medd,1,ISA_MEDDisaMEDD
+C0182258,C0348000,ISA,Microplate Reader,Instrument - device,medd,medd,28,ISA_MEDDisaMEDD
+C0182400,C0348000,ISA,Probes,Instrument - device,medd,medd,2,ISA_MEDDisaMEDD
+C0183014,C0038928,ISA,"Retractor, device",Surgical Instruments,medd,medd,1,ISA_MEDDisaMEDD
+C0183396,C0348000,ISA,Mass Spectrometers (device),Instrument - device,medd,medd,4,ISA_MEDDisaMEDD
+C0183400,C0348000,ISA,spectrophotometer,Instrument - device,medd,medd,20,ISA_MEDDisaMEDD
+C0183518,C0038257,ISA,Ureteric stent,"Stent, device",medd,medd,1,ISA_MEDDisaMEDD
+C0183521,C0021102,ISA,Vascular stent,Implants,medd,medd,1,ISA_MEDDisaMEDD
+C0183521,C0175649,ISA,Vascular stent,Prosthesis,medd,medd,1,ISA_MEDDisaMEDD
+C0183559,C0348000,ISA,Stethoscopes,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0184104,C0175730,ISA,blood collection tubes,biomedical tube device,medd,medd,1,ISA_MEDDisaMEDD
+C0184112,C0175730,ISA,Culture tube,biomedical tube device,medd,medd,1,ISA_MEDDisaMEDD
+C0184159,C0178987,ISA,Tracheostomy tube,Artificial Airways,medd,medd,1,ISA_MEDDisaMEDD
+C0184187,C0348000,ISA,Tweezer,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0184269,C0085590,ISA,Vascular Access Devices,catheter device,medd,medd,1,ISA_MEDDisaMEDD
+C0184283,C0087153,ISA,Intensive-care ventilator,Ventilator - respiratory equipment,medd,medd,1,ISA_MEDDisaMEDD
+C0184284,C0087153,ISA,High-frequency ventilator,Ventilator - respiratory equipment,medd,medd,1,ISA_MEDDisaMEDD
+C0184284,C0184286,ISA,High-frequency ventilator,jet ventilators,medd,medd,1,ISA_MEDDisaMEDD
+C0221872,C0348000,ISA,Sizer,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C0262880,C0181845,ISA,Transmission Electron Microscopes,Electron microscope,medd,medd,1,ISA_MEDDisaMEDD
+C0301559,C0175649,ISA,Screw,Prosthesis,medd,medd,1,ISA_MEDDisaMEDD
+C0336630,C0178987,ISA,Endotracheal tube,Artificial Airways,medd,medd,1,ISA_MEDDisaMEDD
+C0347998,C0030067,ISA,Hollow fiber oxygenator,Oxygenators,medd,medd,1,ISA_MEDDisaMEDD
+C0392220,C0179323,ISA,scalpel,Blades (device),medd,medd,1,ISA_MEDDisaMEDD
+C0392220,C0181467,ISA,scalpel,knife,medd,medd,1,ISA_MEDDisaMEDD
+C0441084,C0182400,ISA,Single probe,Probes,medd,medd,1,ISA_MEDDisaMEDD
+C0441087,C0182400,ISA,Double probe,Probes,medd,medd,2,ISA_MEDDisaMEDD
+C0441088,C0182400,ISA,Gene probe,Probes,medd,medd,2,ISA_MEDDisaMEDD
+C0441254,C0021102,ISA,Fixation device,Implants,medd,medd,1,ISA_MEDDisaMEDD
+C0441255,C1139930,ISA,Standard plate,Device Plate,medd,medd,1,ISA_MEDDisaMEDD
+C0441289,C0038257,ISA,Plastic stent,"Stent, device",medd,medd,1,ISA_MEDDisaMEDD
+C0441290,C0038257,ISA,Metal stent,"Stent, device",medd,medd,1,ISA_MEDDisaMEDD
+C0491970,C0181839,ISA,Light microscope,Microscopes,medd,medd,2,ISA_MEDDisaMEDD
+C0581447,C0085590,ISA,Arterial catheter,catheter device,medd,medd,1,ISA_MEDDisaMEDD
+C0590323,C0004726,ISA,Gauzes,Bandage,medd,medd,2,ISA_MEDDisaMEDD
+C0593058,C0021461,ISA,Diskhaler,Inhaler,medd,medd,1,ISA_MEDDisaMEDD
+C0597256,C0013812,ISA,platinum electrode,electrode,medd,medd,1,ISA_MEDDisaMEDD
+C0677048,C0181168,ISA,Manual Cytometers,HEMOCYTOMETER,medd,medd,1,ISA_MEDDisaMEDD
+C0687394,C0181839,ISA,"MICROSCOPE, PHASE CONTRAST",Microscopes,medd,medd,1,ISA_MEDDisaMEDD
+C0687607,C0039818,ISA,"Thermometers, Electronic, Infrared, Ear","Thermometer, device",medd,medd,2,ISA_MEDDisaMEDD
+C0770788,C0013119,ISA,Transparent dressing,Medical dressing,medd,medd,2,ISA_MEDDisaMEDD
+C0878969,C0085590,ISA,tunneled catheters,catheter device,medd,medd,1,ISA_MEDDisaMEDD
+C0936234,C0183115,ISA,Computed Tomography Scanning Systems,Scanning Systems,medd,medd,6,ISA_MEDDisaMEDD
+C0993596,C0021461,ISA,Metered Dose Inhaler,Inhaler,medd,medd,2,ISA_MEDDisaMEDD
+C1140609,C0021102,ISA,Insulin pump,Implants,medd,medd,3,ISA_MEDDisaMEDD
+C1145640,C0085590,ISA,"Central venous catheter, device",catheter device,medd,medd,2,ISA_MEDDisaMEDD
+C1301823,C0181982,ISA,Quincke spinal needle,Spinal needle,medd,medd,1,ISA_MEDDisaMEDD
+C1553430,C0175730,ISA,Serum Separator Tube,biomedical tube device,medd,medd,5,ISA_MEDDisaMEDD
+C1608928,C0348000,ISA,Refractometer,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C1611676,C0348000,ISA,Thermal Cycler,Instrument - device,medd,medd,3,ISA_MEDDisaMEDD
+C1827740,C0085590,ISA,Peripheral catheter,catheter device,medd,medd,1,ISA_MEDDisaMEDD
+C1883522,C0175730,ISA,Vacutainer,biomedical tube device,medd,medd,76,ISA_MEDDisaMEDD
+C1883522,C0184104,ISA,Vacutainer,blood collection tubes,medd,medd,3,ISA_MEDDisaMEDD
+C1961768,C0348000,ISA,Pedicle Screws,Instrument - device,medd,medd,1,ISA_MEDDisaMEDD
+C2700202,C0181839,ISA,Focused Ion Beam-Scanning Electron Microscope,Microscopes,medd,medd,1,ISA_MEDDisaMEDD
+C2711254,C0024861,ISA,Nasal mask,Masks,medd,medd,1,ISA_MEDDisaMEDD
+C3875626,C0013812,ISA,Oxygen electrode,electrode,medd,medd,1,ISA_MEDDisaMEDD
+C3877136,C0179533,ISA,Thermographic camera,"Camera, device",medd,medd,1,ISA_MEDDisaMEDD
+C3881660,C0182109,ISA,Pulse Co-oximeter,Pulse oximeter,medd,medd,1,ISA_MEDDisaMEDD

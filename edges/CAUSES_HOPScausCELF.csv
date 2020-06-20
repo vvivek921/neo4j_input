@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000097,C0037083,CAUSES,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",Signal Transduction,hops,celf,2,CAUSES_HOPScausCELF
+C0000097,C0162638,CAUSES,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",Apoptosis,hops,celf,3,CAUSES_HOPScausCELF
+C0000097,C2610958,CAUSES,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",necroptotic process,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C0007587,CAUSES,1-Methyl-4-phenylpyridinium,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C0007620,CAUSES,1-Methyl-4-phenylpyridinium,Cell Survival,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C0162638,CAUSES,1-Methyl-4-phenylpyridinium,Apoptosis,hops,celf,5,CAUSES_HOPScausCELF
+C0000098,C1155229,CAUSES,1-Methyl-4-phenylpyridinium,Humoral immune response,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C1720920,CAUSES,1-Methyl-4-phenylpyridinium,"Membrane Potential, Mitochondrial",hops,celf,1,CAUSES_HOPScausCELF
+C0000379,C2755608,CAUSES,"3,4-Methylenedioxyamphetamine",chemokine secretion,hops,celf,1,CAUSES_HOPScausCELF
+C0002073,C0007587,CAUSES,Alkylating Agents,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0002073,C0162638,CAUSES,Alkylating Agents,Apoptosis,hops,celf,2,CAUSES_HOPScausCELF
+C0004482,C0004391,CAUSES,Azathioprine,Autophagy,hops,celf,2,CAUSES_HOPScausCELF
+C0004482,C0007587,CAUSES,Azathioprine,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0012200,C0162638,CAUSES,Diethylnitrosamine,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0012411,C0031308,CAUSES,p-Dimethylaminoazobenzene,Phagocytosis,hops,celf,1,CAUSES_HOPScausCELF
+C0012411,C0301896,CAUSES,p-Dimethylaminoazobenzene,Cell-Mediated Cytolysis,hops,celf,1,CAUSES_HOPScausCELF
+C0014264,C0007587,CAUSES,Endotoxins,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0014264,C0014139,CAUSES,Endotoxins,Endocytosis,hops,celf,1,CAUSES_HOPScausCELF
+C0014264,C0162638,CAUSES,Endotoxins,Apoptosis,hops,celf,4,CAUSES_HOPScausCELF
+C0014264,C3156633,CAUSES,Endotoxins,hepatocyte proliferation,hops,celf,1,CAUSES_HOPScausCELF
+C0015082,C0162638,CAUSES,Ethylene Dichlorides,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0017641,C0162638,CAUSES,Gliotoxin,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C0004391,CAUSES,Methamphetamine,Autophagy,hops,celf,16,CAUSES_HOPScausCELF
+C0025611,C0007587,CAUSES,Methamphetamine,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C0162638,CAUSES,Methamphetamine,Apoptosis,hops,celf,4,CAUSES_HOPScausCELF
+C0025611,C1326207,CAUSES,Methamphetamine,"Programmed Cell Death, Type II",hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C1660771,CAUSES,Methamphetamine,Apoptosis of neurons,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C3544385,CAUSES,Methamphetamine,pro-survival,hops,celf,1,CAUSES_HOPScausCELF
+C0026955,C1156247,CAUSES,Mycotoxins,hyphal growth,hops,celf,1,CAUSES_HOPScausCELF
+C0030493,C1327415,CAUSES,Paraquat,interleukin-1 secretion,hops,celf,1,CAUSES_HOPScausCELF
+C0032447,C0007587,CAUSES,Polychlorinated Biphenyls,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0035871,C0162638,CAUSES,Rotenone,Apoptosis,hops,celf,3,CAUSES_HOPScausCELF
+C0039635,C0010813,CAUSES,Tetrachlorodibenzodioxin,Cytokinesis,hops,celf,1,CAUSES_HOPScausCELF
+C0039635,C0042774,CAUSES,Tetrachlorodibenzodioxin,Virus Replication,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C0007586,CAUSES,Tetradecanoylphorbol Acetate,Cell Cycle,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C0007613,CAUSES,Tetradecanoylphorbol Acetate,Cell physiology,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C0024426,CAUSES,Tetradecanoylphorbol Acetate,Macrophage Activation,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C1155065,CAUSES,Tetradecanoylphorbol Acetate,T-Cell Activation,hops,celf,2,CAUSES_HOPScausCELF
+C0039736,C4328725,CAUSES,Thalidomide,vascular endothelial cell proliferation,hops,celf,1,CAUSES_HOPScausCELF
+C0040329,C0037864,CAUSES,Tobacco,Spermatogenesis,hops,celf,1,CAUSES_HOPScausCELF
+C0040845,C0007587,CAUSES,Tretinoin,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0040845,C1326082,CAUSES,Tretinoin,Granulocyte differentiation,hops,celf,3,CAUSES_HOPScausCELF
+C0040845,C1622499,CAUSES,Tretinoin,Myeloid Cell Differentiation,hops,celf,1,CAUSES_HOPScausCELF
+C0040845,C3158384,CAUSES,Tretinoin,neurite outgrowth,hops,celf,1,CAUSES_HOPScausCELF
+C0057445,C0010813,CAUSES,deoxynivalenol,Cytokinesis,hops,celf,1,CAUSES_HOPScausCELF
+C0057445,C0162638,CAUSES,deoxynivalenol,Apoptosis,hops,celf,2,CAUSES_HOPScausCELF
+C0057454,C0004391,CAUSES,deoxypodophyllotoxin,Autophagy,hops,celf,1,CAUSES_HOPScausCELF
+C0057454,C0162638,CAUSES,deoxypodophyllotoxin,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0069299,C0004391,CAUSES,ochratoxin A,Autophagy,hops,celf,11,CAUSES_HOPScausCELF
+C0069299,C0162638,CAUSES,ochratoxin A,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0074447,C0162638,CAUSES,Shiga Toxin,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0140858,C0007587,CAUSES,Roundup,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0949307,C1155263,CAUSES,Formalin,T-helper 2 type immune response,hops,celf,1,CAUSES_HOPScausCELF

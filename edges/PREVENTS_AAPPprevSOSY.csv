@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003779,C0015967,PREVENTS,Argipressin,Fever,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0007332,C0011991,PREVENTS,Caseins,Diarrhea,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0014822,C0015672,PREVENTS,Erythropoietin,Fatigue,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0020960,C0013604,PREVENTS,Immune Sera,Edema,aapp,sosy,2,PREVENTS_AAPPprevSOSY
+C0050461,C0011991,PREVENTS,racecadotril,Diarrhea,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0079883,C0036572,PREVENTS,N-Methylaspartate,Seizures,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0085297,C0015967,PREVENTS,"Immunoglobulins, Intravenous",Fever,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0085297,C0349410,PREVENTS,"Immunoglobulins, Intravenous",Single organ dysfunction,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0245109,C0476273,PREVENTS,anakinra,Respiratory distress,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0597418,C1443924,PREVENTS,Rotavirus Vaccines,Severe diarrhea,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0666743,C0015967,PREVENTS,infliximab,Fever,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0666743,C0086132,PREVENTS,infliximab,Depressive Symptoms,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C0672596,C0043144,PREVENTS,palivizumab,Wheezing,aapp,sosy,7,PREVENTS_AAPPprevSOSY
+C1609165,C0476273,PREVENTS,tocilizumab,Respiratory distress,aapp,sosy,1,PREVENTS_AAPPprevSOSY
+C1609165,C1517205,PREVENTS,tocilizumab,Flare,aapp,sosy,2,PREVENTS_AAPPprevSOSY

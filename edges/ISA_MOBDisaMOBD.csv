@@ -1,0 +1,111 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001956,C0004936,ISA,Alcohol Use Disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0001956,C0038586,ISA,Alcohol Use Disorder,Substance Use Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0001973,C0004936,ISA,"Alcoholic Intoxication, Chronic",Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0001973,C0013146,ISA,"Alcoholic Intoxication, Chronic",Drug abuse,mobd,mobd,1,ISA_MOBDisaMOBD
+C0001973,C0029221,ISA,"Alcoholic Intoxication, Chronic",Organic brain syndrome,mobd,mobd,1,ISA_MOBDisaMOBD
+C0001973,C0740858,ISA,"Alcoholic Intoxication, Chronic",Substance abuse problem,mobd,mobd,1,ISA_MOBDisaMOBD
+C0002622,C0004936,ISA,Amnesia,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0002622,C0338656,ISA,Amnesia,Impaired cognition,mobd,mobd,2,ISA_MOBDisaMOBD
+C0003125,C0013473,ISA,Anorexia Nervosa,Eating Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0003431,C0004936,ISA,Antisocial Personality Disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0003467,C0004936,ISA,Anxiety,Mental disorders,mobd,mobd,17,ISA_MOBDisaMOBD
+C0003467,C0233514,ISA,Anxiety,Abnormal behavior,mobd,mobd,2,ISA_MOBDisaMOBD
+C0003467,C0525045,ISA,Anxiety,Mood Disorders,mobd,mobd,3,ISA_MOBDisaMOBD
+C0003467,C0700613,ISA,Anxiety,Anxiety state,mobd,mobd,1,ISA_MOBDisaMOBD
+C0003469,C0004936,ISA,Anxiety Disorders,Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0004352,C0004936,ISA,Autistic Disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0004352,C1510586,ISA,Autistic Disorder,Autism Spectrum Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0004352,C1535926,ISA,Autistic Disorder,Neurodevelopmental Disorders,mobd,mobd,4,ISA_MOBDisaMOBD
+C0005586,C0004936,ISA,Bipolar Disorder,Mental disorders,mobd,mobd,9,ISA_MOBDisaMOBD
+C0005586,C0011581,ISA,Bipolar Disorder,Depressive disorder,mobd,mobd,1,ISA_MOBDisaMOBD
+C0005586,C0033975,ISA,Bipolar Disorder,Psychotic Disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0005586,C0525045,ISA,Bipolar Disorder,Mood Disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0006370,C0013473,ISA,Bulimia,Eating Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0009595,C0233514,ISA,Obsessive-Compulsive Personality,Abnormal behavior,mobd,mobd,1,ISA_MOBDisaMOBD
+C0009676,C0338656,ISA,Confusion,Impaired cognition,mobd,mobd,1,ISA_MOBDisaMOBD
+C0011206,C0004936,ISA,Delirium,Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0011206,C0009676,ISA,Delirium,Confusion,mobd,mobd,5,ISA_MOBDisaMOBD
+C0011206,C0033975,ISA,Delirium,Psychotic Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0011206,C0233514,ISA,Delirium,Abnormal behavior,mobd,mobd,2,ISA_MOBDisaMOBD
+C0011206,C0278061,ISA,Delirium,Abnormal mental state,mobd,mobd,1,ISA_MOBDisaMOBD
+C0011206,C0338656,ISA,Delirium,Impaired cognition,mobd,mobd,7,ISA_MOBDisaMOBD
+C0011206,C4041080,ISA,Delirium,Neurocognitive Disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0011570,C0004936,ISA,Mental Depression,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0011581,C0003469,ISA,Depressive disorder,Anxiety Disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0011581,C0004936,ISA,Depressive disorder,Mental disorders,mobd,mobd,37,ISA_MOBDisaMOBD
+C0011581,C0233514,ISA,Depressive disorder,Abnormal behavior,mobd,mobd,3,ISA_MOBDisaMOBD
+C0011581,C0525045,ISA,Depressive disorder,Mood Disorders,mobd,mobd,3,ISA_MOBDisaMOBD
+C0011581,C1306597,ISA,Depressive disorder,Psychiatric problem,mobd,mobd,1,ISA_MOBDisaMOBD
+C0013473,C0004936,ISA,Eating Disorders,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0018524,C0011253,ISA,Hallucinations,Delusions,mobd,mobd,2,ISA_MOBDisaMOBD
+C0018524,C0233514,ISA,Hallucinations,Abnormal behavior,mobd,mobd,2,ISA_MOBDisaMOBD
+C0020594,C0549622,ISA,Hypoactive Sexual Desire Disorder,Sexual Dysfunction,mobd,mobd,1,ISA_MOBDisaMOBD
+C0020604,C0004936,ISA,Hypochondriasis,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0025362,C0004936,ISA,Mental Retardation,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0028768,C0003469,ISA,Obsessive-Compulsive Disorder,Anxiety Disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0028768,C0004936,ISA,Obsessive-Compulsive Disorder,Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0030319,C0003469,ISA,Panic Disorder,Anxiety Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0030319,C0525045,ISA,Panic Disorder,Mood Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0030662,C0004936,ISA,"Gambling, Pathological",Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0030662,C0021122,ISA,"Gambling, Pathological","Disruptive, Impulse Control, and Conduct Disorders",mobd,mobd,1,ISA_MOBDisaMOBD
+C0030662,C0236969,ISA,"Gambling, Pathological",Substance-Related Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0031212,C0004936,ISA,Personality Disorders,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0033038,C0549622,ISA,Premature Ejaculation,Sexual Dysfunction,mobd,mobd,1,ISA_MOBDisaMOBD
+C0033975,C0004936,ISA,Psychotic Disorders,Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0033975,C0233514,ISA,Psychotic Disorders,Abnormal behavior,mobd,mobd,1,ISA_MOBDisaMOBD
+C0036337,C0036341,ISA,Schizoaffective Disorder,Schizophrenia,mobd,mobd,1,ISA_MOBDisaMOBD
+C0036341,C0004936,ISA,Schizophrenia,Mental disorders,mobd,mobd,17,ISA_MOBDisaMOBD
+C0036341,C0033975,ISA,Schizophrenia,Psychotic Disorders,mobd,mobd,5,ISA_MOBDisaMOBD
+C0036341,C4046029,ISA,Schizophrenia,"Mental Disorders, Severe",mobd,mobd,1,ISA_MOBDisaMOBD
+C0036939,C0233514,ISA,Shared Paranoid Disorder,Abnormal behavior,mobd,mobd,1,ISA_MOBDisaMOBD
+C0038436,C0003469,ISA,Post-Traumatic Stress Disorder,Anxiety Disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0038436,C0004936,ISA,Post-Traumatic Stress Disorder,Mental disorders,mobd,mobd,22,ISA_MOBDisaMOBD
+C0038436,C0236816,ISA,Post-Traumatic Stress Disorder,"Stress Disorders, Traumatic, Acute",mobd,mobd,1,ISA_MOBDisaMOBD
+C0038436,C0525045,ISA,Post-Traumatic Stress Disorder,Mood Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0038443,C0004936,ISA,"Stress, Psychological",Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0038586,C0004936,ISA,Substance Use Disorders,Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0040336,C0740858,ISA,Tobacco Use Disorder,Substance abuse problem,mobd,mobd,1,ISA_MOBDisaMOBD
+C0041671,C0004936,ISA,Attention Deficit Disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0041696,C0003469,ISA,Unipolar Depression,Anxiety Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0041696,C0004936,ISA,Unipolar Depression,Mental disorders,mobd,mobd,4,ISA_MOBDisaMOBD
+C0041696,C0525045,ISA,Unipolar Depression,Mood Disorders,mobd,mobd,4,ISA_MOBDisaMOBD
+C0085281,C0004930,ISA,Addictive Behavior,Behavior Disorders,mobd,mobd,3,ISA_MOBDisaMOBD
+C0085281,C0004936,ISA,Addictive Behavior,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0085281,C0013146,ISA,Addictive Behavior,Drug abuse,mobd,mobd,1,ISA_MOBDisaMOBD
+C0085281,C0242510,ISA,Addictive Behavior,Drug usage,mobd,mobd,3,ISA_MOBDisaMOBD
+C0085281,C0600104,ISA,Addictive Behavior,Obsessive compulsive behavior,mobd,mobd,1,ISA_MOBDisaMOBD
+C0085628,C0233514,ISA,Stupor,Abnormal behavior,mobd,mobd,1,ISA_MOBDisaMOBD
+C0085632,C0011581,ISA,Apathy,Depressive disorder,mobd,mobd,4,ISA_MOBDisaMOBD
+C0085633,C0004930,ISA,Mood swings,Behavior Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0085762,C0013146,ISA,Alcohol abuse,Drug abuse,mobd,mobd,1,ISA_MOBDisaMOBD
+C0085762,C0740858,ISA,Alcohol abuse,Substance abuse problem,mobd,mobd,1,ISA_MOBDisaMOBD
+C0086769,C0003467,ISA,Panic Attacks,Anxiety,mobd,mobd,3,ISA_MOBDisaMOBD
+C0086769,C0030319,ISA,Panic Attacks,Panic Disorder,mobd,mobd,1,ISA_MOBDisaMOBD
+C0086769,C0525045,ISA,Panic Attacks,Mood Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0206073,C0004936,ISA,Domestic Violence,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0206073,C0042693,ISA,Domestic Violence,Violence,mobd,mobd,2,ISA_MOBDisaMOBD
+C0232480,C0013473,ISA,Geophagia,Eating Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0233459,C0004936,ISA,Emotional disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0236801,C0004936,ISA,"Phobia, Specific",Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0270549,C0003469,ISA,Generalized Anxiety Disorder,Anxiety Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0270549,C0525045,ISA,Generalized Anxiety Disorder,Mood Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0281902,C0004936,ISA,maladjustment,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0338656,C0278061,ISA,Impaired cognition,Abnormal mental state,mobd,mobd,1,ISA_MOBDisaMOBD
+C0338831,C0004936,ISA,Manic,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0349208,C0005587,ISA,manic episode,"Depression, Bipolar",mobd,mobd,1,ISA_MOBDisaMOBD
+C0349231,C0003469,ISA,Phobic anxiety disorder,Anxiety Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0497327,C0004936,ISA,Dementia,Mental disorders,mobd,mobd,6,ISA_MOBDisaMOBD
+C0497327,C0033975,ISA,Dementia,Psychotic Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0497327,C0233514,ISA,Dementia,Abnormal behavior,mobd,mobd,2,ISA_MOBDisaMOBD
+C0520665,C0011581,ISA,Menopausal depression,Depressive disorder,mobd,mobd,1,ISA_MOBDisaMOBD
+C0525045,C0004936,ISA,Mood Disorders,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0549622,C0004936,ISA,Sexual Dysfunction,Mental disorders,mobd,mobd,2,ISA_MOBDisaMOBD
+C0581391,C0011581,ISA,Chronic depression,Depressive disorder,mobd,mobd,1,ISA_MOBDisaMOBD
+C0588008,C0004936,ISA,Severe depression,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0740858,C0004936,ISA,Substance abuse problem,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C0740858,C0233514,ISA,Substance abuse problem,Abnormal behavior,mobd,mobd,1,ISA_MOBDisaMOBD
+C1263846,C0004936,ISA,Attention deficit hyperactivity disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C1269683,C0004936,ISA,Major Depressive Disorder,Mental disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C1456784,C0033975,ISA,Paranoia,Psychotic Disorders,mobd,mobd,1,ISA_MOBDisaMOBD
+C1510586,C1535926,ISA,Autism Spectrum Disorders,Neurodevelopmental Disorders,mobd,mobd,1,ISA_MOBDisaMOBD

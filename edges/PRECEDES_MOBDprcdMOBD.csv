@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003467,C0009676,PRECEDES,Anxiety,Confusion,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0011206,PRECEDES,Anxiety,Delirium,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0011581,PRECEDES,Anxiety,Depressive disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0018524,PRECEDES,Anxiety,Hallucinations,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0233514,PRECEDES,Anxiety,Abnormal behavior,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0009676,C0011206,PRECEDES,Confusion,Delirium,mobd,mobd,2,PRECEDES_MOBDprcdMOBD
+C0009676,C0018524,PRECEDES,Confusion,Hallucinations,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0009676,C0233514,PRECEDES,Confusion,Abnormal behavior,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0038436,C0004936,PRECEDES,Post-Traumatic Stress Disorder,Mental disorders,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0038436,C0011581,PRECEDES,Post-Traumatic Stress Disorder,Depressive disorder,mobd,mobd,3,PRECEDES_MOBDprcdMOBD
+C0038587,C0596170,PRECEDES,Substance Withdrawal Syndrome,Binge eating disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0085281,C0042693,PRECEDES,Addictive Behavior,Violence,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0338656,C0002622,PRECEDES,Impaired cognition,Amnesia,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C1269683,C0036341,PRECEDES,Major Depressive Disorder,Schizophrenia,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C1392786,C0009241,PRECEDES,Cognitive changes,Cognition Disorders,mobd,mobd,1,PRECEDES_MOBDprcdMOBD

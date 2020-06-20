@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006826,C0013687,PRECEDES,Malignant Neoplasms,effusion,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0027651,C1516670,PRECEDES,Neoplasms,Clonal Expansion,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0178874,C0038941,PRECEDES,Tumor Progression,Surgical Wound Infection,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0178874,C0161816,PRECEDES,Tumor Progression,Cardiac complication,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0206624,C0235029,PRECEDES,Hepatoblastoma,neurological complication,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0206695,C0017181,PRECEDES,"Carcinoma, Neuroendocrine",Gastrointestinal Hemorrhage,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0206695,C1261287,PRECEDES,"Carcinoma, Neuroendocrine",Stenosis,neop,patf,1,PRECEDES_NEOPprcdPATF
+C0242379,C0020542,PRECEDES,Malignant neoplasm of lung,Pulmonary Hypertension,neop,patf,2,PRECEDES_NEOPprcdPATF

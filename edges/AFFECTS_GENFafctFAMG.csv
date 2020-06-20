@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017262,C0026753,AFFECTS,Gene Expression,Multiple Birth Offspring,genf,famg,1,AFFECTS_GENFafctFAMG
+C0017263,C0026753,AFFECTS,Gene Expression Regulation,Multiple Birth Offspring,genf,famg,1,AFFECTS_GENFafctFAMG
+C0026882,C0680063,AFFECTS,Mutation,Offspring,genf,famg,1,AFFECTS_GENFafctFAMG
+C0034865,C0030551,AFFECTS,"Recombination, Genetic",parent,genf,famg,2,AFFECTS_GENFafctFAMG
+C0034865,C0870134,AFFECTS,"Recombination, Genetic",ancestors,genf,famg,1,AFFECTS_GENFafctFAMG
+C0040649,C0015576,AFFECTS,"Transcription, Genetic",Family,genf,famg,2,AFFECTS_GENFafctFAMG
+C0040649,C0026753,AFFECTS,"Transcription, Genetic",Multiple Birth Offspring,genf,famg,2,AFFECTS_GENFafctFAMG
+C1156210,C0015576,AFFECTS,chromatin remodeling,Family,genf,famg,1,AFFECTS_GENFafctFAMG
+C1257825,C0870134,AFFECTS,Genomic Stability,ancestors,genf,famg,1,AFFECTS_GENFafctFAMG
+C1512167,C0870134,AFFECTS,Ectopic Gene Expression,ancestors,genf,famg,1,AFFECTS_GENFafctFAMG
+C1519614,C0680063,AFFECTS,Genetic Translation Process,Offspring,genf,famg,1,AFFECTS_GENFafctFAMG
+C3537096,C0015576,AFFECTS,Translational Regulation,Family,genf,famg,1,AFFECTS_GENFafctFAMG

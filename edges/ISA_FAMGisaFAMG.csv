@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010222,C0015576,ISA,Couples (persons),Family,famg,famg,1,ISA_FAMGisaFAMG
+C0011011,C0015576,ISA,Daughter,Family,famg,famg,1,ISA_FAMGisaFAMG
+C0011011,C0086282,ISA,Daughter,Family member,famg,famg,1,ISA_FAMGisaFAMG
+C0015671,C0015576,ISA,Father (person),Family,famg,famg,1,ISA_FAMGisaFAMG
+C0015671,C0030551,ISA,Father (person),parent,famg,famg,2,ISA_FAMGisaFAMG
+C0015671,C0086282,ISA,Father (person),Family member,famg,famg,1,ISA_FAMGisaFAMG
+C0020052,C0015576,ISA,Households,Family,famg,famg,5,ISA_FAMGisaFAMG
+C0026591,C0015576,ISA,Mother (person),Family,famg,famg,1,ISA_FAMGisaFAMG
+C0026591,C0030551,ISA,Mother (person),parent,famg,famg,6,ISA_FAMGisaFAMG
+C0026591,C0086282,ISA,Mother (person),Family member,famg,famg,4,ISA_FAMGisaFAMG
+C0026753,C0015576,ISA,Multiple Birth Offspring,Family,famg,famg,1,ISA_FAMGisaFAMG
+C0028574,C0680034,ISA,Nuclear Family,family structure,famg,famg,1,ISA_FAMGisaFAMG
+C0030551,C0015576,ISA,parent,Family,famg,famg,12,ISA_FAMGisaFAMG
+C0030551,C0080103,ISA,parent,Relative (related person),famg,famg,2,ISA_FAMGisaFAMG
+C0030551,C0086282,ISA,parent,Family member,famg,famg,6,ISA_FAMGisaFAMG
+C0030551,C0870134,ISA,parent,ancestors,famg,famg,1,ISA_FAMGisaFAMG
+C0037047,C0015576,ISA,Sibling,Family,famg,famg,5,ISA_FAMGisaFAMG
+C0037047,C0080103,ISA,Sibling,Relative (related person),famg,famg,2,ISA_FAMGisaFAMG
+C0037047,C0086282,ISA,Sibling,Family member,famg,famg,4,ISA_FAMGisaFAMG
+C0041432,C0041427,ISA,Monozygotic twins,Twin sibling (person),famg,famg,1,ISA_FAMGisaFAMG
+C0080103,C0086282,ISA,Relative (related person),Family member,famg,famg,3,ISA_FAMGisaFAMG
+C0162409,C0015576,ISA,spouse,Family,famg,famg,4,ISA_FAMGisaFAMG
+C0162409,C0080103,ISA,spouse,Relative (related person),famg,famg,2,ISA_FAMGisaFAMG
+C0162409,C0086282,ISA,spouse,Family member,famg,famg,4,ISA_FAMGisaFAMG
+C0242664,C0015576,ISA,husband,Family,famg,famg,7,ISA_FAMGisaFAMG
+C0242665,C0015576,ISA,wife,Family,famg,famg,1,ISA_FAMGisaFAMG
+C0242665,C0080103,ISA,wife,Relative (related person),famg,famg,1,ISA_FAMGisaFAMG
+C0242665,C0086282,ISA,wife,Family member,famg,famg,3,ISA_FAMGisaFAMG
+C0242665,C0682323,ISA,wife,Partner in relationship,famg,famg,1,ISA_FAMGisaFAMG
+C0337471,C0080103,ISA,grandparent,Relative (related person),famg,famg,2,ISA_FAMGisaFAMG
+C0337491,C0015576,ISA,Single mother,Family,famg,famg,1,ISA_FAMGisaFAMG
+C0337500,C0015576,ISA,Single father,Family,famg,famg,1,ISA_FAMGisaFAMG
+C0337505,C0037047,ISA,Half-sibling,Sibling,famg,famg,2,ISA_FAMGisaFAMG
+C0337514,C0015576,ISA,Sister,Family,famg,famg,1,ISA_FAMGisaFAMG
+C0337514,C0080103,ISA,Sister,Relative (related person),famg,famg,1,ISA_FAMGisaFAMG
+C0337527,C0037047,ISA,Brothers,Sibling,famg,famg,1,ISA_FAMGisaFAMG
+C0337527,C0086282,ISA,Brothers,Family member,famg,famg,1,ISA_FAMGisaFAMG
+C0337534,C0086282,ISA,Twin brother,Family member,famg,famg,2,ISA_FAMGisaFAMG
+C0337541,C0086282,ISA,adopted child,Family member,famg,famg,1,ISA_FAMGisaFAMG
+C0337554,C0011011,ISA,Stepdaughter,Daughter,famg,famg,1,ISA_FAMGisaFAMG
+C0337577,C0080103,ISA,Uncle,Relative (related person),famg,famg,1,ISA_FAMGisaFAMG
+C0337580,C0080103,ISA,Cousin,Relative (related person),famg,famg,1,ISA_FAMGisaFAMG
+C0683572,C0080103,ISA,Adult Children,Relative (related person),famg,famg,1,ISA_FAMGisaFAMG
+C1266852,C0015576,ISA,Biological Relative,Family,famg,famg,12,ISA_FAMGisaFAMG
+C1266852,C0086282,ISA,Biological Relative,Family member,famg,famg,2,ISA_FAMGisaFAMG
+C1553711,C0086282,ISA,Brother-in-law,Family member,famg,famg,1,ISA_FAMGisaFAMG

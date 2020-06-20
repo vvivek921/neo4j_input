@@ -1,0 +1,94 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0020969,AFFECTS,Autophagy,"Immunity, Innate",celf,orga,19,AFFECTS_CELFafctORGA
+C0004391,C0085732,AFFECTS,Autophagy,Ability,celf,orga,2,AFFECTS_CELFafctORGA
+C0004391,C0220898,AFFECTS,Autophagy,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C0004391,C0242640,AFFECTS,Autophagy,Multi-Drug Resistance,celf,orga,1,AFFECTS_CELFafctORGA
+C0004391,C1136169,AFFECTS,Autophagy,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C0007582,C1136169,AFFECTS,Cell Communication,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C0007586,C0220898,AFFECTS,Cell Cycle,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C0007587,C0020969,AFFECTS,Cell Death,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C0007613,C0020969,AFFECTS,Cell physiology,"Immunity, Innate",celf,orga,2,AFFECTS_CELFafctORGA
+C0007613,C0085732,AFFECTS,Cell physiology,Ability,celf,orga,2,AFFECTS_CELFafctORGA
+C0007613,C0220898,AFFECTS,Cell physiology,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C0010813,C0020969,AFFECTS,Cytokinesis,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C0010813,C0085732,AFFECTS,Cytokinesis,Ability,celf,orga,4,AFFECTS_CELFafctORGA
+C0010813,C0162657,AFFECTS,Cytokinesis,Cell Shape,celf,orga,1,AFFECTS_CELFafctORGA
+C0010813,C1136169,AFFECTS,Cytokinesis,Pathogenicity,celf,orga,8,AFFECTS_CELFafctORGA
+C0024426,C0020969,AFFECTS,Macrophage Activation,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C0031308,C0007608,AFFECTS,Phagocytosis,cell motility,celf,orga,1,AFFECTS_CELFafctORGA
+C0031308,C0020969,AFFECTS,Phagocytosis,"Immunity, Innate",celf,orga,2,AFFECTS_CELFafctORGA
+C0031308,C0085732,AFFECTS,Phagocytosis,Ability,celf,orga,2,AFFECTS_CELFafctORGA
+C0037083,C0020969,AFFECTS,Signal Transduction,"Immunity, Innate",celf,orga,9,AFFECTS_CELFafctORGA
+C0037083,C1136169,AFFECTS,Signal Transduction,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C0037083,C1450569,AFFECTS,Signal Transduction,Organ Size,celf,orga,1,AFFECTS_CELFafctORGA
+C0042774,C0020969,AFFECTS,Virus Replication,"Immunity, Innate",celf,orga,7,AFFECTS_CELFafctORGA
+C0042774,C0085732,AFFECTS,Virus Replication,Ability,celf,orga,4,AFFECTS_CELFafctORGA
+C0042774,C1136169,AFFECTS,Virus Replication,Pathogenicity,celf,orga,6,AFFECTS_CELFafctORGA
+C0162638,C0020969,AFFECTS,Apoptosis,"Immunity, Innate",celf,orga,3,AFFECTS_CELFafctORGA
+C0162638,C0085732,AFFECTS,Apoptosis,Ability,celf,orga,2,AFFECTS_CELFafctORGA
+C0162638,C0242640,AFFECTS,Apoptosis,Multi-Drug Resistance,celf,orga,1,AFFECTS_CELFafctORGA
+C0162638,C1136169,AFFECTS,Apoptosis,Pathogenicity,celf,orga,7,AFFECTS_CELFafctORGA
+C0206430,C0020969,AFFECTS,Antigen Processing,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C0301896,C0220898,AFFECTS,Cell-Mediated Cytolysis,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C0302167,C0085732,AFFECTS,capping,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C0596290,C1450569,AFFECTS,Cell Proliferation,Organ Size,celf,orga,1,AFFECTS_CELFafctORGA
+C0598773,C0085732,AFFECTS,leukocyte proliferation,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C0598958,C0020969,AFFECTS,Neuroprotection,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C0599896,C0085732,AFFECTS,trafficking,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C0599952,C0020969,AFFECTS,modulation by virus of host morphology or physiology,"Immunity, Innate",celf,orga,3,AFFECTS_CELFafctORGA
+C0599952,C0085732,AFFECTS,modulation by virus of host morphology or physiology,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C0599952,C0220898,AFFECTS,modulation by virus of host morphology or physiology,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C0599952,C1136169,AFFECTS,modulation by virus of host morphology or physiology,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C0887839,C0020969,AFFECTS,Nuclear Import,"Immunity, Innate",celf,orga,2,AFFECTS_CELFafctORGA
+C0887839,C0085732,AFFECTS,Nuclear Import,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C0887840,C1136169,AFFECTS,Nuclear Export,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C1155003,C1136169,AFFECTS,B-Cell Activation,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C1155013,C0085732,AFFECTS,T cell differentiation,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1155046,C0085732,AFFECTS,T-Cell Proliferation,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1155229,C0020969,AFFECTS,Humoral immune response,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C1155229,C0220898,AFFECTS,Humoral immune response,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C1155229,C4042916,AFFECTS,Humoral immune response,Genetic Background,celf,orga,1,AFFECTS_CELFafctORGA
+C1155342,C0020969,AFFECTS,cellular response to unfolded protein,"Immunity, Innate",celf,orga,5,AFFECTS_CELFafctORGA
+C1155342,C0085732,AFFECTS,cellular response to unfolded protein,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1155872,C0085732,AFFECTS,Cell Cycle Control,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1155873,C0020969,AFFECTS,Cell Cycle Arrest,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C1155982,C0007608,AFFECTS,actin filament polymerization,cell motility,celf,orga,1,AFFECTS_CELFafctORGA
+C1159772,C0085732,AFFECTS,intracellular protein transport,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1159970,C0020969,AFFECTS,neuron differentiation,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C1160186,C0085732,AFFECTS,unidirectional conjugation,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1160466,C0020969,AFFECTS,conjugation,"Immunity, Innate",celf,orga,6,AFFECTS_CELFafctORGA
+C1160649,C0085732,AFFECTS,virion attachment to host cell,Ability,celf,orga,3,AFFECTS_CELFafctORGA
+C1160692,C0085732,AFFECTS,virus maturation,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1160700,C1136169,AFFECTS,viral gene expression,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C1160716,C0021575,AFFECTS,viral transmission,Insecticide Resistance,celf,orga,1,AFFECTS_CELFafctORGA
+C1325881,C1136169,AFFECTS,biofilm formation,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C1326393,C0085732,AFFECTS,Golgi vesicle transport,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1327543,C0085732,AFFECTS,positive chemotaxis,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1327616,C0085732,AFFECTS,Cell secretion,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1511632,C0085732,AFFECTS,Cytoskeletal Modeling,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1512772,C0020969,AFFECTS,Negative Regulation of Apoptosis,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C1516022,C0085732,AFFECTS,Antimicrobial Effect,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1516375,C1136169,AFFECTS,Cellular Tropism,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C1622501,C0085732,AFFECTS,"Migration, Cell",Ability,celf,orga,2,AFFECTS_CELFafctORGA
+C1658974,C0020969,AFFECTS,mitochondria-nucleus signaling pathway,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C1720744,C0085732,AFFECTS,Nerve Impulses,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1749904,C0162657,AFFECTS,cell elongation,Cell Shape,celf,orga,1,AFFECTS_CELFafctORGA
+C1817857,C0020969,AFFECTS,dendritic cell chemotaxis,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C1817908,C0085732,AFFECTS,Cellular Immune Response,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C1817908,C0220898,AFFECTS,Cellular Immune Response,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C1817908,C0242960,AFFECTS,Cellular Immune Response,Genetic Heterogeneity,celf,orga,2,AFFECTS_CELFafctORGA
+C2244223,C0020969,AFFECTS,cellular homeostasis,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C2610414,C0085732,AFFECTS,transdifferentiation,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C2610947,C0220898,AFFECTS,mucus secretion,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C2611812,C0020969,AFFECTS,signaling cascade,"Immunity, Innate",celf,orga,4,AFFECTS_CELFafctORGA
+C2752631,C0220898,AFFECTS,functional differentiation,Predisposition -- attribute,celf,orga,1,AFFECTS_CELFafctORGA
+C2752799,C1136169,AFFECTS,intestinal epithelial cell differentiation,Pathogenicity,celf,orga,1,AFFECTS_CELFafctORGA
+C2755890,C0007608,AFFECTS,microtubule-based transport,cell motility,celf,orga,1,AFFECTS_CELFafctORGA
+C3156663,C0085732,AFFECTS,interleukin-4 secretion,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C3156669,C0085732,AFFECTS,interleukin-10 secretion,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C3157010,C0020969,AFFECTS,phagosome maturation,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C3271725,C0020969,AFFECTS,negative signal transduction,"Immunity, Innate",celf,orga,2,AFFECTS_CELFafctORGA
+C3494415,C0020969,AFFECTS,Mitochondrial Dynamics,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C3825288,C0020969,AFFECTS,Cellular signal transduction,"Immunity, Innate",celf,orga,1,AFFECTS_CELFafctORGA
+C4235041,C0085732,AFFECTS,blebbing,Ability,celf,orga,1,AFFECTS_CELFafctORGA
+C4235362,C0085732,AFFECTS,matrix metallopeptidase secretion,Ability,celf,orga,1,AFFECTS_CELFafctORGA

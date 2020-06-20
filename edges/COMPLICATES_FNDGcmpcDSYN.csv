@@ -1,0 +1,78 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003811,C0948089,COMPLICATES,Cardiac Arrhythmia,Acute Coronary Syndrome,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0003962,C0020452,COMPLICATES,Ascites,Hyperemia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0003962,C0023891,COMPLICATES,Ascites,"Liver Cirrhosis, Alcoholic",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0003962,C0023895,COMPLICATES,Ascites,Liver diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0003962,C0085584,COMPLICATES,Ascites,Encephalopathies,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0003962,C0085605,COMPLICATES,Ascites,Liver Failure,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0016815,C0340194,COMPLICATES,Functional Residual Capacity,Respiratory failure without hypercapnia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0020440,C0032326,COMPLICATES,Hypercapnia,Pneumothorax,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0020649,C0005779,COMPLICATES,Hypotension,Blood Coagulation Disorders,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0020649,C0027059,COMPLICATES,Hypotension,Myocarditis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0020649,C0034063,COMPLICATES,Hypotension,Pulmonary Edema,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0020672,C0005779,COMPLICATES,"Hypothermia, natural",Blood Coagulation Disorders,fndg,dsyn,2,COMPLICATES_FNDGcmpcDSYN
+C0026826,C0520679,COMPLICATES,Muscle Hypertonia,"Sleep Apnea, Obstructive",fndg,dsyn,2,COMPLICATES_FNDGcmpcDSYN
+C0038435,C0004096,COMPLICATES,Stress,Asthma,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0043084,C0340194,COMPLICATES,Weaning,Respiratory failure without hypercapnia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0043094,C0004623,COMPLICATES,Weight Gain,Bacterial Infections,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0085128,C0002871,COMPLICATES,"Cardiac Output, High",Anemia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0086565,C0040034,COMPLICATES,Liver Dysfunction,Thrombocytopenia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0150312,C0006902,COMPLICATES,Present,Capillaritis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0150312,C0010278,COMPLICATES,Present,Craniosynostosis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0150312,C0023891,COMPLICATES,Present,"Liver Cirrhosis, Alcoholic",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0150312,C0041307,COMPLICATES,Present,"Tuberculosis, Bovine",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0150312,C1145670,COMPLICATES,Present,Respiratory Failure,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0151602,C0015469,COMPLICATES,Facial swelling (finding),Facial paralysis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0221198,C0042769,COMPLICATES,Lesion,Virus Diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0221198,C0264545,COMPLICATES,Lesion,Thickening of pleura,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0221198,C0275524,COMPLICATES,Lesion,Coinfection,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0231221,C0029453,COMPLICATES,Asymptomatic,Osteopenia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0235896,C0023530,COMPLICATES,Pulmonary Infiltrate,Leukopenia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0239998,C0162429,COMPLICATES,Recurrent infections,Malnutrition,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0240417,C0085605,COMPLICATES,Form of muscle,Liver Failure,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0241158,C0085605,COMPLICATES,Scar Tissue,Liver Failure,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0264939,C0019196,COMPLICATES,Systemic Vasculitis,Hepatitis C,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0277799,C0030312,COMPLICATES,Intermittent fever,Pancytopenia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0277799,C3854388,COMPLICATES,Intermittent fever,Hyperferritinaemia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0333361,C0006114,COMPLICATES,Acute inflammation,Cerebral Edema,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0425560,C0036690,COMPLICATES,Cardiovascular finding,Septicemia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0427149,C0004096,COMPLICATES,"Gait, Drop Foot",Asthma,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0428648,C0024115,COMPLICATES,Inspired oxygen concentration,Lung diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0439662,C0004364,COMPLICATES,Immune,Autoimmune Diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0522224,C0743841,COMPLICATES,Paralysed,Disorder characterized by fever,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0552579,C0275522,COMPLICATES,Pregnancy Status,Asymptomatic Infections,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0577305,C0275518,COMPLICATES,Multiple lesions,Acute infectious disease,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0581124,C0004096,COMPLICATES,Mild asthma,Asthma,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0683521,C0004623,COMPLICATES,patient condition,Bacterial Infections,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0683521,C0009450,COMPLICATES,patient condition,Communicable Diseases,fndg,dsyn,2,COMPLICATES_FNDGcmpcDSYN
+C0683521,C0022660,COMPLICATES,patient condition,"Kidney Failure, Acute",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0683521,C0235527,COMPLICATES,patient condition,"Heart Failure, Right-Sided",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0728725,C0004096,COMPLICATES,Low pH,Asthma,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0743630,C0034069,COMPLICATES,exacerbation acute,Pulmonary Fibrosis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0743630,C0085786,COMPLICATES,exacerbation acute,Hamman-Rich syndrome,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0743630,C0206062,COMPLICATES,exacerbation acute,"Lung Diseases, Interstitial",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C0746864,C0014038,COMPLICATES,neurologic sequelae,Encephalitis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1148454,C0006114,COMPLICATES,seizure activity,Cerebral Edema,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1260926,C0151626,COMPLICATES,Abnormal pigmentation,epidermal necrolysis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1262477,C0043167,COMPLICATES,Weight decreased,Pertussis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1275743,C0206750,COMPLICATES,Co-morbid conditions,Coronavirus Infections,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1299586,C0042769,COMPLICATES,Has difficulty doing (qualifier value),Virus Diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1299586,C0236053,COMPLICATES,Has difficulty doing (qualifier value),Mucosal ulcer,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1317600,C0035222,COMPLICATES,patient symptoms,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1709770,C0035222,COMPLICATES,Pulmonary Dysfunction,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1836348,C1264606,COMPLICATES,Severe disorder,Persistent infection,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C1844666,C0004623,COMPLICATES,Immune dysregulation,Bacterial Infections,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C2077390,C0001883,COMPLICATES,insufficient fluid,Airway Obstruction,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C3714745,C0162429,COMPLICATES,Malabsorption,Malnutrition,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C3843156,C0023530,COMPLICATES,Less often,Leukopenia,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C3897450,C1145670,COMPLICATES,Subcapsular Renal Hematoma,Respiratory Failure,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4069284,C1175175,COMPLICATES,Frothy,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4086268,C0007222,COMPLICATES,Exacerbation,Cardiovascular Diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4086268,C0024117,COMPLICATES,Exacerbation,Chronic Obstructive Airway Disease,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4086268,C0042769,COMPLICATES,Exacerbation,Virus Diseases,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4289767,C0006271,COMPLICATES,Colonization,Bronchiolitis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4289767,C1290807,COMPLICATES,Colonization,Diarrheal disorder,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4321237,C0004030,COMPLICATES,High Level,Aspergillosis,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4321237,C0035204,COMPLICATES,High Level,Respiration Disorders,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4321237,C0235527,COMPLICATES,High Level,"Heart Failure, Right-Sided",fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN
+C4321237,C1565489,COMPLICATES,High Level,Renal Insufficiency,fndg,dsyn,1,COMPLICATES_FNDGcmpcDSYN

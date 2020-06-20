@@ -1,0 +1,104 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005857,C0332149,NEG_TREATS,Bloodletting,Possible,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0005961,C1320718,NEG_TREATS,Bone Marrow Transplantation,Neurological event,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0006098,C0332149,NEG_TREATS,Brachytherapy,Possible,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0009429,C0009488,NEG_TREATS,Combined Modality Therapy,Comorbidity,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0011079,C0332797,NEG_TREATS,Debridement,wounded,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0012683,C1550518,NEG_TREATS,Disinfection,incapable,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0013216,C1545588,NEG_TREATS,Pharmacotherapy,Protection,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0013778,C0003811,NEG_TREATS,Electric Countershock,Cardiac Arrhythmia,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0014327,C0035648,NEG_TREATS,Enteral Nutrition,risk factors,topp,fndg,2,NEG_TREATS_TOPPntrtsFNDG
+C0015357,C0085393,NEG_TREATS,Extracorporeal Membrane Oxygenation,Immunocompromised Host,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0016286,C0020649,NEG_TREATS,Fluid Therapy,Hypotension,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0017296,C0150312,NEG_TREATS,gene therapy,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0017296,C1299586,NEG_TREATS,gene therapy,Has difficulty doing (qualifier value),topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0017296,C1545588,NEG_TREATS,gene therapy,Protection,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0017296,C3844729,NEG_TREATS,gene therapy,Very Important,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0020975,C0043094,NEG_TREATS,Secondary Immunization,Weight Gain,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0021079,C0085393,NEG_TREATS,Therapeutic immunosuppression,Immunocompromised Host,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0021485,C0085393,NEG_TREATS,Injection of therapeutic agent,Immunocompromised Host,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0022100,C0332797,NEG_TREATS,Irrigation,wounded,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0024128,C1836407,NEG_TREATS,Lung Transplantation,Early death,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0032042,C3840862,NEG_TREATS,Placebos,75+ years,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0034386,C0439663,NEG_TREATS,Quarantine,Infected,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0035139,C0020672,NEG_TREATS,Surgical Replantation,"Hypothermia, natural",topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0035273,C0039231,NEG_TREATS,Resuscitation procedure,Tachycardia,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0035849,C1852169,NEG_TREATS,Root Canal Therapy,Periapical bone loss,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0040732,C3890735,NEG_TREATS,Transplantation,Complete Response with Incomplete Platelet Recovery,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0040808,C0162643,NEG_TREATS,Treatment Protocols,treatment failure,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0040808,C0442797,NEG_TREATS,Treatment Protocols,Decreasing,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0040808,C1517940,NEG_TREATS,Treatment Protocols,Long Term Survivorship,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C0032972,NEG_TREATS,Vaccination,Pregnancy Outcome,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C0043094,NEG_TREATS,Vaccination,Weight Gain,topp,fndg,3,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C0150312,NEG_TREATS,Vaccination,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C1320226,NEG_TREATS,Vaccination,Incubation period,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C3476546,NEG_TREATS,Vaccination,Symptoms score,topp,fndg,2,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C4055506,NEG_TREATS,Vaccination,Accumulation,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0042196,C4289767,NEG_TREATS,Vaccination,Colonization,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0057163,C4321237,NEG_TREATS,DAV regimen,High Level,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0086818,C0150312,NEG_TREATS,Platelet Transfusion,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0086818,C3251812,NEG_TREATS,Platelet Transfusion,Bleeding risk,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0149783,C4086268,NEG_TREATS,Steroid therapy,Exacerbation,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0150238,C0020649,NEG_TREATS,Fluid resuscitation,Hypotension,topp,fndg,2,NEG_TREATS_TOPPntrtsFNDG
+C0185026,C0150312,NEG_TREATS,Plication,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0189381,C0231221,NEG_TREATS,Bronchial Lavage,Asymptomatic,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0193959,C3843504,NEG_TREATS,Tonsillectomy and adenoidectomy,1 - 3,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0199176,C3671958,NEG_TREATS,Prophylactic treatment,Reproductive failure,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0199176,C4054479,NEG_TREATS,Prophylactic treatment,Molecular Response,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0199779,C0439663,NEG_TREATS,Administration of antibiotic,Infected,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0204727,C3714738,NEG_TREATS,Isolation procedure,Compliance,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0205991,C0085393,NEG_TREATS,Administration of vaccine to produce active immunity,Immunocompromised Host,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0206058,C3280470,NEG_TREATS,Elective Surgical Procedures,Benign condition,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0278889,C0150312,NEG_TREATS,interferon gamma/recombinant interferon beta,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0279030,C4321237,NEG_TREATS,interferon therapy,High Level,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0280274,C0549206,NEG_TREATS,Antiviral Therapy,Patient currently pregnant,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0282638,C3272281,NEG_TREATS,Antibiotic Prophylaxis,American College of Cardiology/American Heart Association Lesion Complexity Score A,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0338237,C4086268,NEG_TREATS,Antibiotic therapy,Exacerbation,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0338237,C4289767,NEG_TREATS,Antibiotic therapy,Colonization,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0338248,C2945640,NEG_TREATS,carmustine/cytarabine/etoposide/melphalan regimen,compromise,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0392920,C0033213,NEG_TREATS,Chemotherapy Regimen,Problem,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0392920,C1444656,NEG_TREATS,Chemotherapy Regimen,Indicated,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0398339,C0700292,NEG_TREATS,Extracorporeal carbon dioxide removal,Hypoxemia,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0418981,C0080274,NEG_TREATS,Medical therapy,Urinary Retention,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0418981,C3280470,NEG_TREATS,Medical therapy,Benign condition,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0418996,C0700292,NEG_TREATS,Long-term oxygen therapy,Hypoxemia,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0418996,C3272283,NEG_TREATS,Long-term oxygen therapy,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0439775,C0578862,NEG_TREATS,Elevation procedure,Intraocular pressure finding,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0439775,C1262477,NEG_TREATS,Elevation procedure,Weight decreased,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0442967,C2945640,NEG_TREATS,Salvage procedure,compromise,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0455142,C0701159,NEG_TREATS,Intravenous therapy,Patient in hospital,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0455142,C4300389,NEG_TREATS,Intravenous therapy,Distance walked,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0472688,C1836805,NEG_TREATS,Continuous venovenous hemodiafiltration,"Metabolic acidosis, severe",topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0472699,C1517940,NEG_TREATS,Hemopoietic stem cell transplant,Long Term Survivorship,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0472699,C1882078,NEG_TREATS,Hemopoietic stem cell transplant,Neutrophil Engraftment,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0520484,C0439663,NEG_TREATS,Xenograft procedure,Infected,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0521302,C0020649,NEG_TREATS,Fluid replacement,Hypotension,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0543467,C0085393,NEG_TREATS,Operative Surgical Procedures,Immunocompromised Host,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0543467,C0558753,NEG_TREATS,Operative Surgical Procedures,Abdominal reflex absent,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0547070,C0003811,NEG_TREATS,Ablation,Cardiac Arrhythmia,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0547070,C0039231,NEG_TREATS,Ablation,Tachycardia,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0554804,C1260922,NEG_TREATS,Assisted breathing,Abnormal breathing,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0597815,C0029053,NEG_TREATS,crystal healing,Decreased translucency,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0597815,C0221198,NEG_TREATS,crystal healing,Lesion,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0598391,C3242228,NEG_TREATS,Enzyme Replacement Therapy,new information,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0678812,C1836348,NEG_TREATS,systemic administration,Severe disorder,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0683517,C3476546,NEG_TREATS,Involuntary Treatment,Symptoms score,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0813207,C4534306,NEG_TREATS,Creation of shunt,Supplemental oxygen,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0814357,C0231221,NEG_TREATS,universal prevention,Asymptomatic,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C0814435,C0278252,NEG_TREATS,early identification,Prognosis bad,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C1293132,C0150312,NEG_TREATS,Anchoring procedure,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C1299597,C0442726,NEG_TREATS,Empirical therapy,Detected (finding),topp,fndg,2,NEG_TREATS_TOPPntrtsFNDG
+C1511790,C0043084,NEG_TREATS,Detection,Weaning,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C1511790,C0231221,NEG_TREATS,Detection,Asymptomatic,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C1511790,C0337664,NEG_TREATS,Detection,Smoker,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C1511790,C0701159,NEG_TREATS,Detection,Patient in hospital,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C1704536,C0442726,NEG_TREATS,Direct Method,Detected (finding),topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C2827774,C0679254,NEG_TREATS,Current Therapy,disease recurrence,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C2827774,C1545588,NEG_TREATS,Current Therapy,Protection,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C2936643,C0231835,NEG_TREATS,Standard of Care,Tachypnea,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C2936643,C3242274,NEG_TREATS,Standard of Care,new therapy,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C2945704,C0700292,NEG_TREATS,Conventional Treatment,Hypoxemia,topp,fndg,2,NEG_TREATS_TOPPntrtsFNDG
+C2945704,C3151529,NEG_TREATS,Conventional Treatment,Lethal,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C2985566,C0150312,NEG_TREATS,Targeted Therapy,Present,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C3854686,C4086268,NEG_TREATS,Bronchial Thermoplasty,Exacerbation,topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG
+C3897730,C1299586,NEG_TREATS,Reduced-Intensity Transplant Conditioning Procedure,Has difficulty doing (qualifier value),topp,fndg,1,NEG_TREATS_TOPPntrtsFNDG

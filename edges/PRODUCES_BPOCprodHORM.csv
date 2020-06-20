@@ -1,0 +1,41 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001613,C0002006,PRODUCES,Adrenal Cortex,Aldosterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001613,C0010124,PRODUCES,Adrenal Cortex,Corticosterone,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0001613,C0014912,PRODUCES,Adrenal Cortex,Estradiol,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001613,C0017710,PRODUCES,Adrenal Cortex,Glucocorticoids,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0001613,C0020268,PRODUCES,Adrenal Cortex,Hydrocortisone,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0001613,C0039601,PRODUCES,Adrenal Cortex,Testosterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001613,C0045010,PRODUCES,Adrenal Cortex,17-alpha-Hydroxyprogesterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001625,C0001617,PRODUCES,Adrenal Glands,Adrenal Cortex Hormones,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001625,C0002006,PRODUCES,Adrenal Glands,Aldosterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001625,C0010124,PRODUCES,Adrenal Glands,Corticosterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001625,C0010137,PRODUCES,Adrenal Glands,Cortisone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001625,C0011185,PRODUCES,Adrenal Glands,prasterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001625,C0017710,PRODUCES,Adrenal Glands,Glucocorticoids,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0001625,C0020268,PRODUCES,Adrenal Glands,Hydrocortisone,bpoc,horm,5,PRODUCES_BPOCprodHORM
+C0001625,C0039601,PRODUCES,Adrenal Glands,Testosterone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0001629,C0014563,PRODUCES,Adrenal Medulla,Epinephrine,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0001629,C0028351,PRODUCES,Adrenal Medulla,Norepinephrine,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0005847,C0020268,PRODUCES,Blood Vessel,Hydrocortisone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0010092,C0033308,PRODUCES,Structure of corpus luteum of ovary,Progesterone,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0010092,C0301818,PRODUCES,Structure of corpus luteum of ovary,Steroid hormone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0011106,C0033554,PRODUCES,Decidua,Prostaglandins,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0020663,C0012472,PRODUCES,Hypothalamic structure,Dinoprostone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0020663,C0014563,PRODUCES,Hypothalamic structure,Epinephrine,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0020663,C0597049,PRODUCES,Hypothalamic structure,Neurohormones,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0021358,C0002844,PRODUCES,Inferior Colliculus,Androgens,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0021358,C0014912,PRODUCES,Inferior Colliculus,Estradiol,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0021358,C0039601,PRODUCES,Inferior Colliculus,Testosterone,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0024109,C0033554,PRODUCES,Lung,Prostaglandins,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0027088,C0033554,PRODUCES,myometrium,Prostaglandins,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0029939,C0014912,PRODUCES,Ovary,Estradiol,bpoc,horm,3,PRODUCES_BPOCprodHORM
+C0031939,C0025219,PRODUCES,Pineal gland,Melatonin,bpoc,horm,4,PRODUCES_BPOCprodHORM
+C0032008,C0312438,PRODUCES,"Pituitary Gland, Anterior",Glycoprotein hormone,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0039597,C0002844,PRODUCES,Testis,Androgens,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0042149,C0012471,PRODUCES,Uterus,Dinoprost,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0043517,C0017710,PRODUCES,Zona Fasciculata,Glucocorticoids,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0043517,C0020268,PRODUCES,Zona Fasciculata,Hydrocortisone,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0175316,C0012472,PRODUCES,Organum Vasculosum Laminae Terminalis,Dinoprostone,bpoc,horm,2,PRODUCES_BPOCprodHORM
+C0458827,C0033554,PRODUCES,Airway structure,Prostaglandins,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C0600225,C0720298,PRODUCES,Graafian Follicle,Estrogenic,bpoc,horm,1,PRODUCES_BPOCprodHORM
+C1882878,C0039601,PRODUCES,Rat Testis,Testosterone,bpoc,horm,1,PRODUCES_BPOCprodHORM

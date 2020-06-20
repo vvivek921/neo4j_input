@@ -1,0 +1,70 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001948,C0001314,PREDISPOSES,Alcohol consumption,Acute Disease,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0001948,C0007222,PREDISPOSES,Alcohol consumption,Cardiovascular Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0001948,C0023895,PREDISPOSES,Alcohol consumption,Liver diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0001948,C0032285,PREDISPOSES,Alcohol consumption,Pneumonia,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0008300,C0019693,PREDISPOSES,Choice Behavior,HIV Infections,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0018464,C2062441,PREDISPOSES,Behaviorial Habits,Influenza A,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0018687,C0035243,PREDISPOSES,Health behavior,Respiratory Tract Infections,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0029164,C0151317,PREDISPOSES,Dental Hygiene,Chronic infectious disease,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0029164,C1701940,PREDISPOSES,Dental Hygiene,"Pneumonia, Ventilator-Associated",inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0031166,C0038454,PREDISPOSES,permissiveness,Cerebrovascular accident,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0004096,PREDISPOSES,Smoking,Asthma,inbe,dsyn,4,PREDISPOSES_INBEpredDSYN
+C0037369,C0004626,PREDISPOSES,Smoking,"Pneumonia, Bacterial",inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0007222,PREDISPOSES,Smoking,Cardiovascular Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0008679,PREDISPOSES,Smoking,Chronic disease,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0009443,PREDISPOSES,Smoking,Common Cold,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0010054,PREDISPOSES,Smoking,Coronary Arteriosclerosis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0018799,PREDISPOSES,Smoking,Heart Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0021400,PREDISPOSES,Smoking,Influenza,inbe,dsyn,3,PREDISPOSES_INBEpredDSYN
+C0037369,C0024117,PREDISPOSES,Smoking,Chronic Obstructive Airway Disease,inbe,dsyn,4,PREDISPOSES_INBEpredDSYN
+C0037369,C0032285,PREDISPOSES,Smoking,Pneumonia,inbe,dsyn,6,PREDISPOSES_INBEpredDSYN
+C0037369,C0034069,PREDISPOSES,Smoking,Pulmonary Fibrosis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0038454,PREDISPOSES,Smoking,Cerebrovascular accident,inbe,dsyn,2,PREDISPOSES_INBEpredDSYN
+C0037369,C0041296,PREDISPOSES,Smoking,Tuberculosis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0155877,PREDISPOSES,Smoking,Allergic asthma,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0410000,PREDISPOSES,Smoking,Overlap syndrome,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0694549,PREDISPOSES,Smoking,Community acquired pneumonia,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0865791,PREDISPOSES,Smoking,obstructive bronchitis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C0948008,PREDISPOSES,Smoking,Ischemic stroke,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C1142127,PREDISPOSES,Smoking,pneumococcal bacteremia,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0037369,C1320214,PREDISPOSES,Smoking,Invasive Streptococcus pneumoniae disease,inbe,dsyn,2,PREDISPOSES_INBEpredDSYN
+C0085880,C0009450,PREDISPOSES,"Behavior, Adaptive",Communicable Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0086152,C0011334,PREDISPOSES,Dietary Habits,Dental caries,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0086152,C0028754,PREDISPOSES,Dietary Habits,Obesity,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0086931,C0036916,PREDISPOSES,Risk Behavior,Sexually Transmitted Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0150499,C1175175,PREDISPOSES,Caring,Severe Acute Respiratory Syndrome,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0234880,C0340100,PREDISPOSES,Baying,High altitude pulmonary edema,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0242205,C0004096,PREDISPOSES,"Breast Feeding, Exclusive",Asthma,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0277844,C0406525,PREDISPOSES,Barefoot walking,Perforating ulcer of the foot,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0281991,C0238013,PREDISPOSES,steroid use,Invasive aspergillosis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0281991,C0452221,PREDISPOSES,steroid use,Osteomyelitis of vertebra,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0453996,C0018799,PREDISPOSES,Tobacco smoking behavior,Heart Diseases,inbe,dsyn,2,PREDISPOSES_INBEpredDSYN
+C0542299,C0019693,PREDISPOSES,Behavioral change,HIV Infections,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0543414,C0008679,PREDISPOSES,Tobacco use,Chronic disease,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0543414,C0009450,PREDISPOSES,Tobacco use,Communicable Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0678856,C0235863,PREDISPOSES,skill,delayed delivery,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0679688,C0004096,PREDISPOSES,Protective Factors,Asthma,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0679688,C0017152,PREDISPOSES,Protective Factors,Gastritis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0679688,C0035220,PREDISPOSES,Protective Factors,"Respiratory Distress Syndrome, Newborn",inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0679782,C0004096,PREDISPOSES,condom use,Asthma,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0679782,C0497169,PREDISPOSES,condom use,hiv-infection/aids,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0683303,C0036916,PREDISPOSES,RISK-TAKING BEHAVIOR,Sexually Transmitted Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0683303,C0850624,PREDISPOSES,RISK-TAKING BEHAVIOR,cardiovascular risk factor,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0683573,C0021400,PREDISPOSES,personal experience,Influenza,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0683573,C3873487,PREDISPOSES,personal experience,Waterborne Diseases,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0684305,C0011847,PREDISPOSES,moderate drinking,Diabetes,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0699778,C0019693,PREDISPOSES,intravenous drug use,HIV Infections,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0699778,C0032285,PREDISPOSES,intravenous drug use,Pneumonia,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0699778,C0041296,PREDISPOSES,intravenous drug use,Tuberculosis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C0699778,C4288963,PREDISPOSES,intravenous drug use,Hepatitis C Virus Infection,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C1137094,C0035243,PREDISPOSES,Risk Reduction,Respiratory Tract Infections,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C1514806,C0010054,PREDISPOSES,Red Meat Consumption,Coronary Arteriosclerosis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C1519022,C0043124,PREDISPOSES,Personal Behavior,West Nile Fever,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C3494474,C0014179,PREDISPOSES,Hand Hygiene,Endometritis,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C3494474,C0021400,PREDISPOSES,Hand Hygiene,Influenza,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C3494474,C0035243,PREDISPOSES,Hand Hygiene,Respiratory Tract Infections,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C3494474,C0205721,PREDISPOSES,Hand Hygiene,"Infections, Hospital",inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C3494474,C2076600,PREDISPOSES,Hand Hygiene,Influenza due to Influenza A virus subtype H1N1,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN
+C3826173,C0043528,PREDISPOSES,Human behavior,Zoonoses,inbe,dsyn,2,PREDISPOSES_INBEpredDSYN
+C4277664,C0008679,PREDISPOSES,Healthy Lifestyle,Chronic disease,inbe,dsyn,1,PREDISPOSES_INBEpredDSYN

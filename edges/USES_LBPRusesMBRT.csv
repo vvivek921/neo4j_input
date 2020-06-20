@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005863,C0032520,USES,Western Blotting,Polymerase Chain Reaction,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0007584,C0599161,USES,Cell Count,Reverse Transcriptase Polymerase Chain Reaction,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0007584,C0600528,USES,Cell Count,In Situ Nick-End Labeling,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0008552,C1520146,USES,"Chromatography, Agarose",Whole Genome Amplification,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0020985,C1519025,USES,Immunoblotting,Phage Display,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0033629,C1113686,USES,Protein Engineering,directed evolution,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0035269,C0032520,USES,Restriction Mapping,Polymerase Chain Reaction,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0162801,C0032520,USES,Sequence Analysis,Polymerase Chain Reaction,lbpr,mbrt,3,USES_LBPRusesMBRT
+C0162801,C0599161,USES,Sequence Analysis,Reverse Transcriptase Polymerase Chain Reaction,lbpr,mbrt,3,USES_LBPRusesMBRT
+C0162801,C0599748,USES,Sequence Analysis,Tandem Mass Spectrometry,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0162801,C1512489,USES,Sequence Analysis,Homology Modeling,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0162801,C1514628,USES,Sequence Analysis,Quantitative Reverse Transcriptase PCR,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0162801,C2936622,USES,Sequence Analysis,Massively-Parallel Sequencing,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0242831,C1519025,USES,Epitope Mapping,Phage Display,lbpr,mbrt,2,USES_LBPRusesMBRT
+C0282668,C0032520,USES,Random Amplified Polymorphic DNA Technique,Polymerase Chain Reaction,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0600209,C1880945,USES,SDS-PAGE,Gene Expression Analysis,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0752248,C0599161,USES,Gene Expression Profiling,Reverse Transcriptase Polymerase Chain Reaction,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0752248,C1514628,USES,Gene Expression Profiling,Quantitative Reverse Transcriptase PCR,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0752248,C1709846,USES,Gene Expression Profiling,Real-Time Polymerase Chain Reaction,lbpr,mbrt,2,USES_LBPRusesMBRT
+C0752248,C2936621,USES,Gene Expression Profiling,High-Throughput Nucleotide Sequencing,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0752248,C2936622,USES,Gene Expression Profiling,Massively-Parallel Sequencing,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0872262,C0032520,USES,RNA Analysis,Polymerase Chain Reaction,lbpr,mbrt,2,USES_LBPRusesMBRT
+C0872262,C0162789,USES,RNA Analysis,Fluorescent in Situ Hybridization,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0872262,C0599161,USES,RNA Analysis,Reverse Transcriptase Polymerase Chain Reaction,lbpr,mbrt,2,USES_LBPRusesMBRT
+C0872262,C0969664,USES,RNA Analysis,NASBA,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0872262,C1514628,USES,RNA Analysis,Quantitative Reverse Transcriptase PCR,lbpr,mbrt,1,USES_LBPRusesMBRT
+C0872262,C1709846,USES,RNA Analysis,Real-Time Polymerase Chain Reaction,lbpr,mbrt,2,USES_LBPRusesMBRT
+C0872262,C2936624,USES,RNA Analysis,Deep Sequencing,lbpr,mbrt,2,USES_LBPRusesMBRT
+C1135935,C0796358,USES,Spectral Karyotyping,comparative genomic analysis,lbpr,mbrt,1,USES_LBPRusesMBRT
+C3178894,C0032520,USES,Genotyping Techniques,Polymerase Chain Reaction,lbpr,mbrt,4,USES_LBPRusesMBRT
+C3850137,C1113686,USES,In Vitro Techniques,directed evolution,lbpr,mbrt,1,USES_LBPRusesMBRT

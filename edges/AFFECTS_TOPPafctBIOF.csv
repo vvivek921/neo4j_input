@@ -1,0 +1,86 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0003261,AFFECTS,"Administration, Oral",Antibody Formation,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0001701,C0003261,AFFECTS,"Exercise, Aerobic",Antibody Formation,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013216,C0013203,AFFECTS,Pharmacotherapy,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013216,C3714634,AFFECTS,Pharmacotherapy,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013804,C0220781,AFFECTS,Electrocoagulation,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013806,C0019868,AFFECTS,Electroconvulsive Therapy,Homeostasis,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0013806,C0220781,AFFECTS,Electroconvulsive Therapy,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0017296,C0042765,AFFECTS,gene therapy,Virulence,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0017296,C0220781,AFFECTS,gene therapy,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0018821,C0019868,AFFECTS,Cardiac Surgery procedures,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0020971,C0003261,AFFECTS,Immunization,Antibody Formation,topp,biof,5,AFFECTS_TOPPafctBIOF
+C0021107,C0042765,AFFECTS,Implantation procedure,Virulence,topp,biof,3,AFFECTS_TOPPafctBIOF
+C0021107,C0220781,AFFECTS,Implantation procedure,Anabolism,topp,biof,4,AFFECTS_TOPPafctBIOF
+C0021107,C3714634,AFFECTS,Implantation procedure,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0022671,C0019868,AFFECTS,Kidney Transplantation,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0035139,C0013203,AFFECTS,Surgical Replantation,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0035139,C0220781,AFFECTS,Surgical Replantation,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0040071,C0003261,AFFECTS,Thymectomy,Antibody Formation,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0040674,C0220781,AFFECTS,Transposition procedure,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0040732,C0019868,AFFECTS,Transplantation,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0040808,C4277607,AFFECTS,Treatment Protocols,"Immunogenicity, Vaccine",topp,biof,1,AFFECTS_TOPPafctBIOF
+C0042196,C0003261,AFFECTS,Vaccination,Antibody Formation,topp,biof,9,AFFECTS_TOPPafctBIOF
+C0042196,C0042765,AFFECTS,Vaccination,Virulence,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0042196,C0220781,AFFECTS,Vaccination,Anabolism,topp,biof,4,AFFECTS_TOPPafctBIOF
+C0042196,C0678661,AFFECTS,Vaccination,biological control,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0042196,C1537068,AFFECTS,Vaccination,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0042200,C0003261,AFFECTS,Influenza vaccination,Antibody Formation,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0042387,C0003261,AFFECTS,Vasectomy,Antibody Formation,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0052712,C0282629,AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Virus Assembly,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0055598,C3714634,AFFECTS,CHOP protocol-cyclophosphamide/doxorubicin/prednisone/vincristine,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0055670,C0220781,AFFECTS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0056633,C1537068,AFFECTS,cyclophosphamide/prednisone/vincristine protocol,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0057163,C1537068,AFFECTS,DAV regimen,Virus Internalization,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0065764,C0042765,AFFECTS,bleomycin/cisplatin/methotrexate protocol,Virulence,topp,biof,3,AFFECTS_TOPPafctBIOF
+C0065764,C3714634,AFFECTS,bleomycin/cisplatin/methotrexate protocol,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0071715,C0003261,AFFECTS,mercaptopurine/methotrexate/prednisone/vincristine protocol,Antibody Formation,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0072634,C1537068,AFFECTS,bleomycin/cisplatin/vinblastine protocol,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0079613,C0019868,AFFECTS,Adoptive Immunotherapy,Homeostasis,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0084990,C0042765,AFFECTS,VPDA protocol,Virulence,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0152060,C4042799,AFFECTS,Transection (procedure),Toxicological Phenomena,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185026,C0220781,AFFECTS,Plication,Anabolism,topp,biof,8,AFFECTS_TOPPafctBIOF
+C0185026,C1160638,AFFECTS,Plication,Viral life cycle,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185026,C3537152,AFFECTS,Plication,biological signaling,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185027,C0019868,AFFECTS,Imbrication (procedure),Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185115,C0220781,AFFECTS,Extraction,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185115,C0282629,AFFECTS,Extraction,Virus Assembly,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185115,C1537068,AFFECTS,Extraction,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0199176,C1537068,AFFECTS,Prophylactic treatment,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0204727,C0220781,AFFECTS,Isolation procedure,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0237072,C0220781,AFFECTS,feeding procedures,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0279391,C1327622,AFFECTS,mercaptopurine/methotrexate/vincristine,Regulation of biological process,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0280274,C1537068,AFFECTS,Antiviral Therapy,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0393005,C0042765,AFFECTS,chlorodihydroxypyridine/potassium oxonate/tegafur,Virulence,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0393005,C1537068,AFFECTS,chlorodihydroxypyridine/potassium oxonate/tegafur,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0439775,C0019868,AFFECTS,Elevation procedure,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0441509,C0220781,AFFECTS,Coagulation procedure,Anabolism,topp,biof,3,AFFECTS_TOPPafctBIOF
+C0547070,C0019868,AFFECTS,Ablation,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0547070,C3714634,AFFECTS,Ablation,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0581602,C0019868,AFFECTS,Structural modification,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0581602,C0220781,AFFECTS,Structural modification,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0597815,C1537068,AFFECTS,crystal healing,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0600080,C1537068,AFFECTS,Stretching exercises,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0600080,C1721019,AFFECTS,Stretching exercises,Virus Attachment,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0618956,C1537068,AFFECTS,UFD-1,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0678812,C1721019,AFFECTS,systemic administration,Virus Attachment,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0679628,C0019868,AFFECTS,blood modification,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0679628,C0220781,AFFECTS,blood modification,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0695434,C1537068,AFFECTS,oscillations,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0730400,C1817959,AFFECTS,Solid organ transplant,tolerance induction,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0920425,C0013203,AFFECTS,cancer therapy,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0920619,C3714634,AFFECTS,neoplasm therapy,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0947647,C0019868,AFFECTS,Manipulation procedure,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0949216,C1721019,AFFECTS,Alternative Therapies,Virus Attachment,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0949266,C1537068,AFFECTS,"Therapies, Investigational",Virus Internalization,topp,biof,2,AFFECTS_TOPPafctBIOF
+C1261381,C0220781,AFFECTS,Destructive procedure (surgical),Anabolism,topp,biof,2,AFFECTS_TOPPafctBIOF
+C1276393,C0003261,AFFECTS,Group exercise,Antibody Formation,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1276413,C0013203,AFFECTS,Therapeutic regimen,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1283075,C1537068,AFFECTS,Fusion - action,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1293116,C0220781,AFFECTS,Introduction procedure,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1293130,C1160638,AFFECTS,Stabilization,Viral life cycle,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1293132,C1537068,AFFECTS,Anchoring procedure,Virus Internalization,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1511790,C0220781,AFFECTS,Detection,Anabolism,topp,biof,2,AFFECTS_TOPPafctBIOF
+C2004459,C0003261,AFFECTS,Abdominoperineal resection,Antibody Formation,topp,biof,1,AFFECTS_TOPPafctBIOF
+C3540512,C0019868,AFFECTS,Circumferential Supracrestal Fiberotomy,Homeostasis,topp,biof,1,AFFECTS_TOPPafctBIOF
+C4303556,C0220781,AFFECTS,Aspirin therapy,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF

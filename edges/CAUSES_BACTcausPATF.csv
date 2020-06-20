@@ -1,0 +1,337 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001138,C0043241,CAUSES,Acinetobacter,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0001699,C0010356,CAUSES,Klebsiella pneumoniae,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0001699,C0021368,CAUSES,Klebsiella pneumoniae,Inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0001699,C0031154,CAUSES,Klebsiella pneumoniae,Peritonitis,bact,patf,1,CAUSES_BACTcausPATF
+C0001699,C0043241,CAUSES,Klebsiella pneumoniae,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0001699,C0742007,CAUSES,Klebsiella pneumoniae,catheter sepsis,bact,patf,1,CAUSES_BACTcausPATF
+C0001699,C1155266,CAUSES,Klebsiella pneumoniae,inflammatory response,bact,patf,1,CAUSES_BACTcausPATF
+C0001699,C3714514,CAUSES,Klebsiella pneumoniae,Infection,bact,patf,10,CAUSES_BACTcausPATF
+C0001705,C3714514,CAUSES,Aeromonas,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004589,C3714514,CAUSES,Bacillus anthracis,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0004590,C3714514,CAUSES,Bacillus cereus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0000786,CAUSES,Bacteria,Spontaneous abortion,bact,patf,2,CAUSES_BACTcausPATF
+C0004611,C0001511,CAUSES,Bacteria,Tissue Adhesions,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0004366,CAUSES,Bacteria,Autoimmune Response,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0010356,CAUSES,Bacteria,Cross Infection,bact,patf,4,CAUSES_BACTcausPATF
+C0004611,C0015376,CAUSES,Bacteria,Extravasation,bact,patf,3,CAUSES_BACTcausPATF
+C0004611,C0019080,CAUSES,Bacteria,Hemorrhage,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0020517,CAUSES,Bacteria,Hypersensitivity,bact,patf,3,CAUSES_BACTcausPATF
+C0004611,C0021368,CAUSES,Bacteria,Inflammation,bact,patf,18,CAUSES_BACTcausPATF
+C0004611,C0021376,CAUSES,Bacteria,Chronic inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0024348,CAUSES,Bacteria,Lysis,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0026766,CAUSES,Bacteria,Multiple Organ Failure,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0030660,CAUSES,Bacteria,Pathologic Processes,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0036974,CAUSES,Bacteria,Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0036981,CAUSES,Bacteria,Endotoxic shock,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0036983,CAUSES,Bacteria,Septic Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0004611,C0038941,CAUSES,Bacteria,Surgical Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0043241,CAUSES,Bacteria,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0151521,CAUSES,Bacteria,Bacterial resistance,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0242656,CAUSES,Bacteria,Disease Progression,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0274435,CAUSES,Bacteria,Transfusion Reaction,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0332448,CAUSES,Bacteria,Infiltration,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0334097,CAUSES,Bacteria,Epithelial proliferation,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0553697,CAUSES,Bacteria,Granulomatous inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0700148,CAUSES,Bacteria,Congestion,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0752350,CAUSES,Bacteria,Embryo Death,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C0860239,CAUSES,Bacteria,Catheter related infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C1155266,CAUSES,Bacteria,inflammatory response,bact,patf,10,CAUSES_BACTcausPATF
+C0004611,C1265824,CAUSES,Bacteria,Persistent inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C1373218,CAUSES,Bacteria,Decreased Immunologic Activity [PE],bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C1516670,CAUSES,Bacteria,Clonal Expansion,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C2717792,CAUSES,Bacteria,Airway Remodeling,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C3203360,CAUSES,Bacteria,Suppuration,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C3658208,CAUSES,Bacteria,Dysbiosis,bact,patf,1,CAUSES_BACTcausPATF
+C0004611,C3714514,CAUSES,Bacteria,Infection,bact,patf,90,CAUSES_BACTcausPATF
+C0004611,C4061114,CAUSES,Bacteria,Acute illness,bact,patf,2,CAUSES_BACTcausPATF
+C0004612,C3714514,CAUSES,"Bacteria, Aerobic",Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004613,C0021368,CAUSES,"Bacteria, Anaerobic",Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0004613,C0027544,CAUSES,"Bacteria, Anaerobic",Necrotic debris,bact,patf,1,CAUSES_BACTcausPATF
+C0004613,C0043241,CAUSES,"Bacteria, Anaerobic",Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0004613,C3714514,CAUSES,"Bacteria, Anaerobic",Infection,bact,patf,7,CAUSES_BACTcausPATF
+C0005380,C0021655,CAUSES,Bifidobacterium,Insulin Resistance,bact,patf,1,CAUSES_BACTcausPATF
+C0006017,C0020517,CAUSES,Bordetella pertussis,Hypersensitivity,bact,patf,2,CAUSES_BACTcausPATF
+C0006017,C4061114,CAUSES,Bordetella pertussis,Acute illness,bact,patf,2,CAUSES_BACTcausPATF
+C0006034,C0302590,CAUSES,Borrelia burgdorferi,calcium disorders,bact,patf,1,CAUSES_BACTcausPATF
+C0006034,C0443146,CAUSES,Borrelia burgdorferi,Autoimmune reaction,bact,patf,1,CAUSES_BACTcausPATF
+C0006132,C0021368,CAUSES,Moraxella (Branhamella) catarrhalis,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0006132,C1155266,CAUSES,Moraxella (Branhamella) catarrhalis,inflammatory response,bact,patf,1,CAUSES_BACTcausPATF
+C0006303,C0000786,CAUSES,Brucella,Spontaneous abortion,bact,patf,1,CAUSES_BACTcausPATF
+C0006304,C3714514,CAUSES,Brucella abortus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0006305,C3714514,CAUSES,Brucella melitensis,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0006813,C0015927,CAUSES,Campylobacter,Fetal Death,bact,patf,1,CAUSES_BACTcausPATF
+C0006813,C0521604,CAUSES,Campylobacter,Inflammatory diarrhea,bact,patf,1,CAUSES_BACTcausPATF
+C0006813,C3714514,CAUSES,Campylobacter,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0006819,C0521604,CAUSES,Campylobacter jejuni,Inflammatory diarrhea,bact,patf,1,CAUSES_BACTcausPATF
+C0008148,C0032987,CAUSES,Chlamydia,Ectopic Pregnancy,bact,patf,1,CAUSES_BACTcausPATF
+C0008148,C3714514,CAUSES,Chlamydia,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0008150,C3714514,CAUSES,Chlamydophila psittaci,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0009054,C3161456,CAUSES,Clostridium,Central line-associated infection NOS,bact,patf,1,CAUSES_BACTcausPATF
+C0009054,C3714514,CAUSES,Clostridium,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0009063,C0011071,CAUSES,Clostridium perfringens,Sudden death,bact,patf,2,CAUSES_BACTcausPATF
+C0009063,C3714514,CAUSES,Clostridium perfringens,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0010148,C3714514,CAUSES,Corynebacterium,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0010150,C0240821,CAUSES,Corynebacterium diphtheriae,Pseudomembrane,bact,patf,1,CAUSES_BACTcausPATF
+C0010152,C0007642,CAUSES,Rhodococcus equi,Cellulitis,bact,patf,1,CAUSES_BACTcausPATF
+C0010240,C3714514,CAUSES,Coxiella burnetii,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0011731,C0021368,CAUSES,Desulfovibrio,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0013722,C3714514,CAUSES,Ehrlichia,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0014344,C0236003,CAUSES,Enterobacter,Mucous membrane swelling,bact,patf,1,CAUSES_BACTcausPATF
+C0014346,C3714514,CAUSES,Enterobacteriaceae,Infection,bact,patf,8,CAUSES_BACTcausPATF
+C0014834,C0008495,CAUSES,Escherichia coli,Chorioamnionitis,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C0010356,CAUSES,Escherichia coli,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C0015376,CAUSES,Escherichia coli,Extravasation,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C0021368,CAUSES,Escherichia coli,Inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0014834,C0031154,CAUSES,Escherichia coli,Peritonitis,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C0036974,CAUSES,Escherichia coli,Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0014834,C0036983,CAUSES,Escherichia coli,Septic Shock,bact,patf,4,CAUSES_BACTcausPATF
+C0014834,C0235395,CAUSES,Escherichia coli,Fluid loss,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C0595938,CAUSES,Escherichia coli,effect increased,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C0742007,CAUSES,Escherichia coli,catheter sepsis,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C1155266,CAUSES,Escherichia coli,inflammatory response,bact,patf,2,CAUSES_BACTcausPATF
+C0014834,C3203360,CAUSES,Escherichia coli,Suppuration,bact,patf,1,CAUSES_BACTcausPATF
+C0014834,C3714514,CAUSES,Escherichia coli,Infection,bact,patf,22,CAUSES_BACTcausPATF
+C0018150,C0020517,CAUSES,Gram-Negative Bacteria,Hypersensitivity,bact,patf,1,CAUSES_BACTcausPATF
+C0018150,C0021368,CAUSES,Gram-Negative Bacteria,Inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0018150,C0032787,CAUSES,Gram-Negative Bacteria,Postoperative Complications,bact,patf,1,CAUSES_BACTcausPATF
+C0018150,C0036974,CAUSES,Gram-Negative Bacteria,Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0018150,C0151521,CAUSES,Gram-Negative Bacteria,Bacterial resistance,bact,patf,1,CAUSES_BACTcausPATF
+C0018150,C3161456,CAUSES,Gram-Negative Bacteria,Central line-associated infection NOS,bact,patf,1,CAUSES_BACTcausPATF
+C0018150,C3714514,CAUSES,Gram-Negative Bacteria,Infection,bact,patf,12,CAUSES_BACTcausPATF
+C0018154,C0036974,CAUSES,Gram-Positive Bacteria,Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0018154,C0036983,CAUSES,Gram-Positive Bacteria,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0018154,C3714514,CAUSES,Gram-Positive Bacteria,Infection,bact,patf,18,CAUSES_BACTcausPATF
+C0018155,C0036983,CAUSES,Gram-Positive Cocci,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0018155,C3714514,CAUSES,Gram-Positive Cocci,Infection,bact,patf,5,CAUSES_BACTcausPATF
+C0018479,C3714514,CAUSES,Hemophilus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0018481,C0021368,CAUSES,Hemophilus ducreyi,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0018483,C0021368,CAUSES,Haemophilus influenzae,Inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0018483,C0333467,CAUSES,Haemophilus influenzae,Cytopathic effect,bact,patf,1,CAUSES_BACTcausPATF
+C0018483,C3714514,CAUSES,Haemophilus influenzae,Infection,bact,patf,7,CAUSES_BACTcausPATF
+C0022938,C0021368,CAUSES,Lactobacillus,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0022938,C0021655,CAUSES,Lactobacillus,Insulin Resistance,bact,patf,1,CAUSES_BACTcausPATF
+C0023237,C0332448,CAUSES,Legionella,Infiltration,bact,patf,1,CAUSES_BACTcausPATF
+C0023237,C3714514,CAUSES,Legionella,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0023238,C3714514,CAUSES,Legionella pneumophila,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0023362,C0036983,CAUSES,Leptospira interrogans,Septic Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0023859,C0020522,CAUSES,Listeria,Delayed Hypersensitivity,bact,patf,1,CAUSES_BACTcausPATF
+C0023859,C0032914,CAUSES,Listeria,Pre-Eclampsia,bact,patf,1,CAUSES_BACTcausPATF
+C0023859,C3714514,CAUSES,Listeria,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0023861,C0015927,CAUSES,Listeria monocytogenes,Fetal Death,bact,patf,1,CAUSES_BACTcausPATF
+C0023861,C3714514,CAUSES,Listeria monocytogenes,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0026912,C0018188,CAUSES,Genus Mycobacterium,Granuloma,bact,patf,2,CAUSES_BACTcausPATF
+C0026912,C0021368,CAUSES,Genus Mycobacterium,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0026912,C0333398,CAUSES,Genus Mycobacterium,Chronic abscess,bact,patf,1,CAUSES_BACTcausPATF
+C0026912,C0333418,CAUSES,Genus Mycobacterium,Non-necrotizing granulomatous inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0026912,C3714514,CAUSES,Genus Mycobacterium,Infection,bact,patf,10,CAUSES_BACTcausPATF
+C0026914,C0332448,CAUSES,Mycobacterium avium Complex,Infiltration,bact,patf,1,CAUSES_BACTcausPATF
+C0026914,C3714514,CAUSES,Mycobacterium avium Complex,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0026926,C0021376,CAUSES,Mycobacterium tuberculosis,Chronic inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0026926,C0333418,CAUSES,Mycobacterium tuberculosis,Non-necrotizing granulomatous inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0026926,C1265869,CAUSES,Mycobacterium tuberculosis,Early necrosis,bact,patf,1,CAUSES_BACTcausPATF
+C0026926,C1373218,CAUSES,Mycobacterium tuberculosis,Decreased Immunologic Activity [PE],bact,patf,1,CAUSES_BACTcausPATF
+C0026926,C1817976,CAUSES,Mycobacterium tuberculosis,hypersensitivity response,bact,patf,1,CAUSES_BACTcausPATF
+C0026926,C3714514,CAUSES,Mycobacterium tuberculosis,Infection,bact,patf,6,CAUSES_BACTcausPATF
+C0026934,C0021368,CAUSES,Mycoplasma,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0026934,C0235029,CAUSES,Mycoplasma,neurological complication,bact,patf,1,CAUSES_BACTcausPATF
+C0026934,C0948496,CAUSES,Mycoplasma,abortion late,bact,patf,1,CAUSES_BACTcausPATF
+C0026934,C3714514,CAUSES,Mycoplasma,Infection,bact,patf,8,CAUSES_BACTcausPATF
+C0026941,C0021368,CAUSES,Mycoplasma pneumoniae,Inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0026941,C0281169,CAUSES,Mycoplasma pneumoniae,pulmonary complications,bact,patf,1,CAUSES_BACTcausPATF
+C0026941,C3714514,CAUSES,Mycoplasma pneumoniae,Infection,bact,patf,10,CAUSES_BACTcausPATF
+C0027571,C1373218,CAUSES,Neisseria,Decreased Immunologic Activity [PE],bact,patf,1,CAUSES_BACTcausPATF
+C0027573,C0021368,CAUSES,Neisseria gonorrhoeae,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0027573,C0242781,CAUSES,Neisseria gonorrhoeae,disease transmission,bact,patf,1,CAUSES_BACTcausPATF
+C0027573,C2699153,CAUSES,Neisseria gonorrhoeae,Cell Invasion,bact,patf,1,CAUSES_BACTcausPATF
+C0027573,C3714514,CAUSES,Neisseria gonorrhoeae,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0027575,C1155266,CAUSES,Neisseria meningitidis,inflammatory response,bact,patf,1,CAUSES_BACTcausPATF
+C0027575,C3714514,CAUSES,Neisseria meningitidis,Infection,bact,patf,4,CAUSES_BACTcausPATF
+C0028240,C3714514,CAUSES,Nocardia,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0030637,C0028778,CAUSES,Pasteurella multocida,Obstruction,bact,patf,1,CAUSES_BACTcausPATF
+C0030637,C0030660,CAUSES,Pasteurella multocida,Pathologic Processes,bact,patf,1,CAUSES_BACTcausPATF
+C0033476,C0021368,CAUSES,Propionibacterium,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0033477,C0021368,CAUSES,Propionibacterium acnes,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0033477,C3714514,CAUSES,Propionibacterium acnes,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033701,C3838785,CAUSES,Proteus mirabilis,Catheter-associated urinary tract infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033702,C3714514,CAUSES,Proteus vulgaris,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033750,C3714514,CAUSES,Providencia,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033808,C0038941,CAUSES,Pseudomonas,Surgical Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033808,C1537065,CAUSES,Pseudomonas,transplantation infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033808,C3714514,CAUSES,Pseudomonas,Infection,bact,patf,4,CAUSES_BACTcausPATF
+C0033809,C0010356,CAUSES,Pseudomonas aeruginosa,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033809,C0021368,CAUSES,Pseudomonas aeruginosa,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0033809,C0021376,CAUSES,Pseudomonas aeruginosa,Chronic inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0033809,C0036983,CAUSES,Pseudomonas aeruginosa,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0033809,C0043241,CAUSES,Pseudomonas aeruginosa,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0033809,C1155266,CAUSES,Pseudomonas aeruginosa,inflammatory response,bact,patf,2,CAUSES_BACTcausPATF
+C0033809,C3714514,CAUSES,Pseudomonas aeruginosa,Infection,bact,patf,16,CAUSES_BACTcausPATF
+C0033819,C3714514,CAUSES,Burkholderia pseudomallei,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0035583,C0019080,CAUSES,Rickettsia,Hemorrhage,bact,patf,1,CAUSES_BACTcausPATF
+C0035583,C3714514,CAUSES,Rickettsia,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0035588,C4061114,CAUSES,Rickettsia rickettsii,Acute illness,bact,patf,1,CAUSES_BACTcausPATF
+C0035589,C0026766,CAUSES,Orientia tsutsugamushi,Multiple Organ Failure,bact,patf,1,CAUSES_BACTcausPATF
+C0035589,C4061114,CAUSES,Orientia tsutsugamushi,Acute illness,bact,patf,2,CAUSES_BACTcausPATF
+C0035590,C3714514,CAUSES,Rickettsia typhi,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0036111,C0020517,CAUSES,Salmonella,Hypersensitivity,bact,patf,1,CAUSES_BACTcausPATF
+C0036111,C0036974,CAUSES,Salmonella,Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0036111,C0036983,CAUSES,Salmonella,Septic Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0036111,C3714514,CAUSES,Salmonella,Infection,bact,patf,7,CAUSES_BACTcausPATF
+C0036125,C0036983,CAUSES,Salmonella typhi,Septic Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0036125,C3714514,CAUSES,Salmonella typhi,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0036126,C0001511,CAUSES,Salmonella typhimurium,Tissue Adhesions,bact,patf,1,CAUSES_BACTcausPATF
+C0036766,C3714514,CAUSES,Serratia marcescens,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0036953,C0021368,CAUSES,Shigella,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0036953,C0036983,CAUSES,Shigella,Septic Shock,bact,patf,2,CAUSES_BACTcausPATF
+C0036953,C0521604,CAUSES,Shigella,Inflammatory diarrhea,bact,patf,1,CAUSES_BACTcausPATF
+C0036953,C3714514,CAUSES,Shigella,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0037973,C0021368,CAUSES,ORDER SPIROCHAETALES,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0037973,C0027544,CAUSES,ORDER SPIROCHAETALES,Necrotic debris,bact,patf,1,CAUSES_BACTcausPATF
+C0038170,C3714514,CAUSES,Genus staphylococcus,Infection,bact,patf,6,CAUSES_BACTcausPATF
+C0038172,C0001511,CAUSES,Staphylococcus aureus,Tissue Adhesions,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C0013687,CAUSES,Staphylococcus aureus,effusion,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C0021368,CAUSES,Staphylococcus aureus,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C0030660,CAUSES,Staphylococcus aureus,Pathologic Processes,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C0038941,CAUSES,Staphylococcus aureus,Surgical Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C0043241,CAUSES,Staphylococcus aureus,Wound Infection,bact,patf,6,CAUSES_BACTcausPATF
+C0038172,C0333368,CAUSES,Staphylococcus aureus,Acute suppurative inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C3203360,CAUSES,Staphylococcus aureus,Suppuration,bact,patf,1,CAUSES_BACTcausPATF
+C0038172,C3714514,CAUSES,Staphylococcus aureus,Infection,bact,patf,30,CAUSES_BACTcausPATF
+C0038174,C3714514,CAUSES,Staphylococcus epidermidis,Infection,bact,patf,7,CAUSES_BACTcausPATF
+C0038402,C0007642,CAUSES,Streptococcus,Cellulitis,bact,patf,4,CAUSES_BACTcausPATF
+C0038402,C0008767,CAUSES,Streptococcus,Cicatrization,bact,patf,1,CAUSES_BACTcausPATF
+C0038402,C0013687,CAUSES,Streptococcus,effusion,bact,patf,1,CAUSES_BACTcausPATF
+C0038402,C0036983,CAUSES,Streptococcus,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0038402,C0043241,CAUSES,Streptococcus,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0038402,C0745283,CAUSES,Streptococcus,INFECTIOUS PROCESS,bact,patf,1,CAUSES_BACTcausPATF
+C0038402,C3714514,CAUSES,Streptococcus,Infection,bact,patf,9,CAUSES_BACTcausPATF
+C0038404,C3714514,CAUSES,Enterococcus faecalis,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0013687,CAUSES,Streptococcus pneumoniae,effusion,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0021368,CAUSES,Streptococcus pneumoniae,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0024348,CAUSES,Streptococcus pneumoniae,Lysis,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0031154,CAUSES,Streptococcus pneumoniae,Peritonitis,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0206277,CAUSES,Streptococcus pneumoniae,Fatal Outcome,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0333467,CAUSES,Streptococcus pneumoniae,Cytopathic effect,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C0452115,CAUSES,Streptococcus pneumoniae,Infection following immunization,bact,patf,1,CAUSES_BACTcausPATF
+C0038410,C1155266,CAUSES,Streptococcus pneumoniae,inflammatory response,bact,patf,2,CAUSES_BACTcausPATF
+C0038410,C3714514,CAUSES,Streptococcus pneumoniae,Infection,bact,patf,16,CAUSES_BACTcausPATF
+C0038411,C0011304,CAUSES,Streptococcus pyogenes,Demyelination,bact,patf,1,CAUSES_BACTcausPATF
+C0038411,C3203360,CAUSES,Streptococcus pyogenes,Suppuration,bact,patf,1,CAUSES_BACTcausPATF
+C0038411,C3714514,CAUSES,Streptococcus pyogenes,Infection,bact,patf,7,CAUSES_BACTcausPATF
+C0040840,C3714514,CAUSES,Treponema pallidum,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0041944,C1265824,CAUSES,Ureaplasma,Persistent inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0041944,C3714514,CAUSES,Ureaplasma,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0042628,C3714514,CAUSES,Vibrio,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0042629,C1155266,CAUSES,Vibrio cholerae,inflammatory response,bact,patf,1,CAUSES_BACTcausPATF
+C0042629,C3714514,CAUSES,Vibrio cholerae,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0042637,C0043241,CAUSES,Vibrio parahaemolyticus,Wound Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0043327,C0020517,CAUSES,Xanthomonas,Hypersensitivity,bact,patf,1,CAUSES_BACTcausPATF
+C0043406,C3714514,CAUSES,Yersinia enterocolitica,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0043408,C0036983,CAUSES,Yersinia pestis,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0043408,C3714514,CAUSES,Yersinia pestis,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0079488,C0021368,CAUSES,Helicobacter pylori,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0079488,C1155266,CAUSES,Helicobacter pylori,inflammatory response,bact,patf,2,CAUSES_BACTcausPATF
+C0079488,C3714514,CAUSES,Helicobacter pylori,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0081786,C0021376,CAUSES,Microbial Biofilms,Chronic inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0081786,C3714514,CAUSES,Microbial Biofilms,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0085467,C0036983,CAUSES,Acinetobacter calcoaceticus,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C0085467,C2886794,CAUSES,Acinetobacter calcoaceticus,Catheter related bloodstream infection,bact,patf,1,CAUSES_BACTcausPATF
+C0085467,C3714514,CAUSES,Acinetobacter calcoaceticus,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0085478,C1155266,CAUSES,Porphyromonas gingivalis,inflammatory response,bact,patf,1,CAUSES_BACTcausPATF
+C0085479,C0021368,CAUSES,Fusobacterium nucleatum,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0085484,C3714514,CAUSES,Enterobacter cloacae,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0085490,C0024348,CAUSES,Mannheimia haemolytica,Lysis,bact,patf,1,CAUSES_BACTcausPATF
+C0085494,C0010356,CAUSES,Enterococcus,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0085494,C0038941,CAUSES,Enterococcus,Surgical Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0085494,C0860239,CAUSES,Enterococcus,Catheter related infection,bact,patf,1,CAUSES_BACTcausPATF
+C0085494,C3714514,CAUSES,Enterococcus,Infection,bact,patf,10,CAUSES_BACTcausPATF
+C0085495,C3714514,CAUSES,Enterococcus faecium,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0085504,C0011071,CAUSES,Chlamydophila pneumoniae,Sudden death,bact,patf,1,CAUSES_BACTcausPATF
+C0085504,C3714514,CAUSES,Chlamydophila pneumoniae,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0085504,C4061114,CAUSES,Chlamydophila pneumoniae,Acute illness,bact,patf,1,CAUSES_BACTcausPATF
+C0085508,C3714514,CAUSES,Helicobacter,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0086820,C3714514,CAUSES,Pleuropneumonia-Like Organisms,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0121772,C0452115,CAUSES,Haemophilus influenzae type b,Infection following immunization,bact,patf,1,CAUSES_BACTcausPATF
+C0121772,C3714514,CAUSES,Haemophilus influenzae type b,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0242631,C3714514,CAUSES,Bartonella henselae,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0314752,C0010356,CAUSES,Gram-negative bacillus,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0314752,C3714514,CAUSES,Gram-negative bacillus,Infection,bact,patf,13,CAUSES_BACTcausPATF
+C0314756,C3714514,CAUSES,Gram-negative coccobacillus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0314760,C0020507,CAUSES,Coliform bacteria,Hyperplasia,bact,patf,1,CAUSES_BACTcausPATF
+C0315527,C3714514,CAUSES,Salmonella Tennessee,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317474,C3714514,CAUSES,Enterococcus hirae,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317568,C0021368,CAUSES,Haemophilus parainfluenzae,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0317578,C0040038,CAUSES,Haemophilus somnus,Thromboembolism,bact,patf,1,CAUSES_BACTcausPATF
+C0317810,C3203360,CAUSES,Mycoplasma synoviae,Suppuration,bact,patf,1,CAUSES_BACTcausPATF
+C0317812,C3714514,CAUSES,Mycoplasma pulmonis,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317819,C3714514,CAUSES,Mycoplasma bovigenitalium,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317829,C3714514,CAUSES,Mycoplasma arginini,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317851,C3714514,CAUSES,Mycoplasma canadense,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317863,C3714514,CAUSES,Mycoplasma californicum,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0317900,C3714514,CAUSES,Nocardia farcinica,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0318125,C3714514,CAUSES,Staphylococcus lentus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0318137,C3714514,CAUSES,Rothia mucilaginosa,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0318157,C3714514,CAUSES,Streptococcus Viridans Group,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C0318255,C0043241,CAUSES,Vibrio alginolyticus,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0318290,C0043241,CAUSES,Stenotrophomonas maltophilia,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0318290,C0151701,CAUSES,Stenotrophomonas maltophilia,Pulmonary hemorrhage,bact,patf,1,CAUSES_BACTcausPATF
+C0318290,C0742007,CAUSES,Stenotrophomonas maltophilia,catheter sepsis,bact,patf,1,CAUSES_BACTcausPATF
+C0318290,C3714514,CAUSES,Stenotrophomonas maltophilia,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0376624,C3714514,CAUSES,Escherichia coli O157-H7,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0376625,C1155266,CAUSES,Escherichia coli O157,inflammatory response,bact,patf,1,CAUSES_BACTcausPATF
+C0376625,C3714514,CAUSES,Escherichia coli O157,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0445625,C0860239,CAUSES,"Staphylococcus, coagulase negative (organism)",Catheter related infection,bact,patf,1,CAUSES_BACTcausPATF
+C0445625,C3714514,CAUSES,"Staphylococcus, coagulase negative (organism)",Infection,bact,patf,5,CAUSES_BACTcausPATF
+C0445625,C4534318,CAUSES,"Staphylococcus, coagulase negative (organism)",Catheter-related blood stream infection,bact,patf,1,CAUSES_BACTcausPATF
+C0445666,C3714514,CAUSES,Streptococcus parauberis,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0445801,C3714514,CAUSES,Non-fermentative Gram-negative bacillus,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0445910,C0043241,CAUSES,Mycobacterium abscessus,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0522374,C3714514,CAUSES,Pyogenic bacterium,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0563199,C0001511,CAUSES,Bacterial cell,Tissue Adhesions,bact,patf,1,CAUSES_BACTcausPATF
+C0563199,C0015376,CAUSES,Bacterial cell,Extravasation,bact,patf,2,CAUSES_BACTcausPATF
+C0579233,C3714514,CAUSES,Streptococcus agalactiae,Infection,bact,patf,6,CAUSES_BACTcausPATF
+C0580247,C0021368,CAUSES,Enteropathogenic Escherichia coli,Inflammation,bact,patf,2,CAUSES_BACTcausPATF
+C0580794,C4061114,CAUSES,Shiga-Toxigenic Escherichia coli,Acute illness,bact,patf,1,CAUSES_BACTcausPATF
+C0580797,C0021368,CAUSES,Enterotoxigenic Escherichia coli,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C0580797,C3714514,CAUSES,Enterotoxigenic Escherichia coli,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C0600414,C3714514,CAUSES,Enterohemorrhagic Escherichia coli,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C0751985,C3658208,CAUSES,Proteobacteria,Dysbiosis,bact,patf,1,CAUSES_BACTcausPATF
+C0872165,C0235395,CAUSES,Enteroaggregative Escherichia coli,Fluid loss,bact,patf,1,CAUSES_BACTcausPATF
+C1013303,C3714514,CAUSES,Borrelia miyamotoi,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1040967,C3714514,CAUSES,Enterobacteriales,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C1061106,C3714514,CAUSES,Enterobacteriaceae sp.,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1140704,C3714514,CAUSES,Streptococcus viridans,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C1216672,C0021368,CAUSES,Desulfovibrionaceae,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C1264774,C0036983,CAUSES,Acinetobacter species,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C1264774,C3714514,CAUSES,Acinetobacter species,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1265175,C0085073,CAUSES,Vancomycin-Resistant Enterococci,Prosthesis-Related Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1265175,C0877042,CAUSES,Vancomycin-Resistant Enterococci,graft loss,bact,patf,1,CAUSES_BACTcausPATF
+C1265175,C3714514,CAUSES,Vancomycin-Resistant Enterococci,Infection,bact,patf,7,CAUSES_BACTcausPATF
+C1265219,C3714514,CAUSES,Legionella species,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1265234,C0030660,CAUSES,Nontuberculous Mycobacteria,Pathologic Processes,bact,patf,1,CAUSES_BACTcausPATF
+C1265234,C3714514,CAUSES,Nontuberculous Mycobacteria,Infection,bact,patf,4,CAUSES_BACTcausPATF
+C1265292,C0031154,CAUSES,Methicillin-Resistant Staphylococcus aureus,Peritonitis,bact,patf,1,CAUSES_BACTcausPATF
+C1265292,C0035410,CAUSES,Methicillin-Resistant Staphylococcus aureus,Rhabdomyolysis,bact,patf,1,CAUSES_BACTcausPATF
+C1265292,C0043241,CAUSES,Methicillin-Resistant Staphylococcus aureus,Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1265292,C3161456,CAUSES,Methicillin-Resistant Staphylococcus aureus,Central line-associated infection NOS,bact,patf,1,CAUSES_BACTcausPATF
+C1265292,C3714514,CAUSES,Methicillin-Resistant Staphylococcus aureus,Infection,bact,patf,22,CAUSES_BACTcausPATF
+C1295736,C3714514,CAUSES,Actinomyces sp.,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1295789,C3714514,CAUSES,Escherichia coli serogroup O26,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1444090,C0010356,CAUSES,Resistant bacteria,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1444090,C3714514,CAUSES,Resistant bacteria,Infection,bact,patf,9,CAUSES_BACTcausPATF
+C1444096,C3658208,CAUSES,ESBL,Dysbiosis,bact,patf,1,CAUSES_BACTcausPATF
+C1444097,C3714514,CAUSES,ESBL Escherichia coli,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1444098,C3714514,CAUSES,ESBL Klebsiella pneumoniae,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1483520,C0021368,CAUSES,Volucribacter psittacicida,Inflammation,bact,patf,1,CAUSES_BACTcausPATF
+C1532741,C0010356,CAUSES,Facultative anaerobic bacteria,Cross Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1979958,C3714514,CAUSES,Paratyphi,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C1980009,C4061114,CAUSES,Typhi,Acute illness,bact,patf,1,CAUSES_BACTcausPATF
+C2828040,C0036983,CAUSES,Aerobic Gram Negative Bacillus,Septic Shock,bact,patf,1,CAUSES_BACTcausPATF
+C2828040,C3714514,CAUSES,Aerobic Gram Negative Bacillus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C4039163,C3714514,CAUSES,Carbapenem-Resistant Enterobacteriaceae,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C4076168,C0010356,CAUSES,Multi drug resistant bacteria,Cross Infection,bact,patf,4,CAUSES_BACTcausPATF
+C4076168,C0038941,CAUSES,Multi drug resistant bacteria,Surgical Wound Infection,bact,patf,1,CAUSES_BACTcausPATF
+C4076168,C3714514,CAUSES,Multi drug resistant bacteria,Infection,bact,patf,3,CAUSES_BACTcausPATF
+C4275270,C3714514,CAUSES,Carbapenem resistant Acinetobacter baumannii,Infection,bact,patf,2,CAUSES_BACTcausPATF
+C4316793,C3714514,CAUSES,Mycobacterium abscessus abscessus,Infection,bact,patf,1,CAUSES_BACTcausPATF
+C4316902,C0021368,CAUSES,Enteric Bacteria,Inflammation,bact,patf,1,CAUSES_BACTcausPATF

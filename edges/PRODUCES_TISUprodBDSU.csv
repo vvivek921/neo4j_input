@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005953,C0005767,PRODUCES,Bone Marrow,Blood,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0005953,C1550101,PRODUCES,Bone Marrow,Supernatant,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0014124,C1253945,PRODUCES,Endocardium,Ground substance,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0014609,C0005889,PRODUCES,Epithelium,Body Fluids,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0014609,C0006279,PRODUCES,Epithelium,Bronchoalveolar Lavage Fluid,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0014609,C0026727,PRODUCES,Epithelium,Mucous body substance,tisu,bdsu,4,PRODUCES_TISUprodBDSU
+C0014609,C2753459,PRODUCES,Epithelium,mucus layer,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0027428,C0026727,PRODUCES,Structure of mucous membrane of nose,Mucous body substance,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0029250,C0026727,PRODUCES,Organoids,Mucous body substance,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0032225,C0015388,PRODUCES,Pleura,Exudate,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0040300,C0032105,PRODUCES,Body tissue,Plasma,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C0242692,C0005767,PRODUCES,Skeletal muscle structure,Blood,tisu,bdsu,1,PRODUCES_TISUprodBDSU
+C1514845,C0005889,PRODUCES,Renal Tissue,Body Fluids,tisu,bdsu,1,PRODUCES_TISUprodBDSU

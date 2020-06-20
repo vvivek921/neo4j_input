@@ -1,0 +1,926 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0005615,CAUSES,Actins,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0001924,C0011065,CAUSES,Albumins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002059,C0005615,CAUSES,Alkaline Phosphatase,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002199,C0020966,CAUSES,Interferon-alpha,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002199,C0032961,CAUSES,Interferon-alpha,Pregnancy,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002199,C0678723,CAUSES,Interferon-alpha,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0002199,C1155328,CAUSES,Interferon-alpha,Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0002246,C0011065,CAUSES,alpha-Bungarotoxin,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002520,C0000934,CAUSES,Amino Acids,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002520,C0011065,CAUSES,Amino Acids,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002525,C0013937,CAUSES,"Amino Acids, Essential",Embryo Resorption,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002529,C0011065,CAUSES,Amino Acyl-tRNA Synthetases,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002563,C1819431,CAUSES,Aminolevulinic Acid,interferon-alpha production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0002723,C0000934,CAUSES,Serum amyloid A protein,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003009,C1516559,CAUSES,angiotensin II,Circulatory Process,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C0005615,CAUSES,Antibodies,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C0011065,CAUSES,Antibodies,Cessation of life,aapp,orgf,5,CAUSES_AAPPcausORGF
+C0003241,C0020966,CAUSES,Antibodies,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C0020967,CAUSES,Antibodies,Humoral Immunity,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0003241,C0042789,CAUSES,Antibodies,Vision,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C0301875,CAUSES,Antibodies,Primary immune response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C0678210,CAUSES,Antibodies,"Passive immunity, function",aapp,orgf,3,CAUSES_AAPPcausORGF
+C0003241,C0678723,CAUSES,Antibodies,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C0699900,CAUSES,Antibodies,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C1327441,CAUSES,Antibodies,negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003241,C1819436,CAUSES,Antibodies,interleukin-1 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0003242,C0699900,CAUSES,"Antibodies, Anti-Idiotypic",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003250,C0012238,CAUSES,Monoclonal Antibodies,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003250,C0678723,CAUSES,Monoclonal Antibodies,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003250,C1327413,CAUSES,Monoclonal Antibodies,cytokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0003250,C1819447,CAUSES,Monoclonal Antibodies,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0003313,C0678723,CAUSES,Immune complex,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0003343,C0699900,CAUSES,Viral Tumor Antigens,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0004627,C0011065,CAUSES,Bacterial Proteins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0004630,C0011065,CAUSES,Bacterial Toxins,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0005740,C0011065,CAUSES,Bleomycin,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0005740,C0043240,CAUSES,Bleomycin,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0005740,C0678723,CAUSES,Bleomycin,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0006100,C3714605,CAUSES,Bradykinin,Pain Perception,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0006784,C0011065,CAUSES,Calpain,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0007427,C0011065,CAUSES,CATHEPSIN D,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0007428,C0699900,CAUSES,Cathepsins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0007578,C1510470,CAUSES,Cell Adhesion Molecules,Motility,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0008356,C1510470,CAUSES,Cholera Toxin,Motility,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0008742,C0699900,CAUSES,CHYMOTRYPSIN,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0008746,C1523943,CAUSES,Chymotrypsinogen,protein digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0009498,C0011065,CAUSES,Complement System Proteins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0009498,C0699900,CAUSES,Complement System Proteins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0009498,C1817907,CAUSES,Complement System Proteins,T cell mediated immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0009498,C1819436,CAUSES,Complement System Proteins,interleukin-1 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0009630,C0011065,CAUSES,Concanavalin A,Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0009630,C1327413,CAUSES,Concanavalin A,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0009630,C1819447,CAUSES,Concanavalin A,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010531,C0011065,CAUSES,Cyclic AMP-Dependent Protein Kinases,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C0005615,CAUSES,Cycloserine,Birth,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0010590,C0020967,CAUSES,Cycloserine,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C0678723,CAUSES,Cycloserine,Biologic Development,aapp,orgf,11,CAUSES_AAPPcausORGF
+C0010590,C0678889,CAUSES,Cycloserine,Immunoregulation,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C0887937,CAUSES,Cycloserine,Allograft Tolerance,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C1155328,CAUSES,Cycloserine,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0010590,C1160185,CAUSES,Cycloserine,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C1327413,CAUSES,Cycloserine,cytokine production,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0010590,C1749719,CAUSES,Cycloserine,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C1817907,CAUSES,Cycloserine,T cell mediated immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C1819430,CAUSES,Cycloserine,type I interferon production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0010590,C1819439,CAUSES,Cycloserine,interleukin-12 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C1819451,CAUSES,Cycloserine,interleukin-23 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010590,C1819463,CAUSES,Cycloserine,TRAIL production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010592,C0333953,CAUSES,Cyclosporine,Involution,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010646,C1819459,CAUSES,Cystatins,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010654,C1155328,CAUSES,Cysteine,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010654,C2612241,CAUSES,Cysteine,macrophage cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010656,C0012238,CAUSES,caspase,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0010934,C0699900,CAUSES,Dactinomycin,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0011519,C0699900,CAUSES,Deoxyribonuclease I,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0012020,C0699900,CAUSES,Diazooxonorleucine,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0012524,C1136180,CAUSES,Catechol Oxidase,Disease Resistance,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0014230,C0012238,CAUSES,endonuclease,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0014241,C0022864,CAUSES,Endoribonucleases,Labor (Childbirth),aapp,orgf,1,CAUSES_AAPPcausORGF
+C0014241,C0043240,CAUSES,Endoribonucleases,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0014241,C0699900,CAUSES,Endoribonucleases,Catabolism,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0014241,C1155328,CAUSES,Endoribonucleases,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0014241,C1819430,CAUSES,Endoribonucleases,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0015296,C0699900,CAUSES,Exonuclease,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0015980,C0678723,CAUSES,Interferon-beta,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0015980,C1155328,CAUSES,Interferon-beta,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0016194,C0678723,CAUSES,Flagellin,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017360,C0678723,CAUSES,pol genes,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017376,C0011065,CAUSES,"Genes, Viral",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017376,C0220843,CAUSES,"Genes, Viral",grasp,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017757,C0000934,CAUSES,Glucosephosphate Dehydrogenase,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017817,C0699900,CAUSES,Glutathione,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017890,C0018270,CAUSES,Glycine,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017968,C1155328,CAUSES,Glycoproteins,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0017968,C1160185,CAUSES,Glycoproteins,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0018284,C0043240,CAUSES,Growth Factor,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0018296,C0011065,CAUSES,Guanosine Triphosphate Phosphohydrolases,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0018850,C0678723,CAUSES,Heat shock proteins,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0018887,C1819437,CAUSES,Helminth Proteins,interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0019043,C0026649,CAUSES,Sickle Hemoglobin,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0019630,C0020967,CAUSES,Histocompatibility Antigens Class II,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0019630,C1154988,CAUSES,Histocompatibility Antigens Class II,defense response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0019630,C1327413,CAUSES,Histocompatibility Antigens Class II,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0019686,C0678723,CAUSES,HIV Antigens,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0020855,C0020967,CAUSES,Immunoglobulin IgG1,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0020857,C0020967,CAUSES,IgG2A,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021032,C0020967,CAUSES,Immunoglobulin Fc Fragments,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021665,C0011065,CAUSES,Insulin-Like Growth Factor I,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021665,C0018270,CAUSES,Insulin-Like Growth Factor I,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021665,C3826170,CAUSES,Insulin-Like Growth Factor I,Human growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021666,C0699900,CAUSES,insulin-like growth factor 2,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021699,C0026649,CAUSES,Integral Membrane Proteins,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021699,C0699900,CAUSES,Integral Membrane Proteins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021740,C0011065,CAUSES,Recombinant Interferon-gamma,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021740,C0018270,CAUSES,Recombinant Interferon-gamma,Growth,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021740,C0020966,CAUSES,Recombinant Interferon-gamma,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021740,C0678723,CAUSES,Recombinant Interferon-gamma,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021740,C0699900,CAUSES,Recombinant Interferon-gamma,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021740,C1327413,CAUSES,Recombinant Interferon-gamma,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021740,C1516002,CAUSES,Recombinant Interferon-gamma,Antibacterial Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021740,C1749719,CAUSES,Recombinant Interferon-gamma,Adaptive Immune Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021743,C1155328,CAUSES,Interferon Type I,Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0021747,C0678723,CAUSES,Interferons,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021747,C1155328,CAUSES,Interferons,Antiviral Response,aapp,orgf,11,CAUSES_AAPPcausORGF
+C0021747,C1327413,CAUSES,Interferons,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021747,C1516559,CAUSES,Interferons,Circulatory Process,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021747,C1819436,CAUSES,Interferons,interleukin-1 production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0021747,C3824609,CAUSES,Interferons,cellular response to virus,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021753,C1819444,CAUSES,Interleukin-1 beta,interleukin-17 production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0021755,C0011065,CAUSES,Interleukin-1,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C0020966,CAUSES,Interleukin-1,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C1155328,CAUSES,Interleukin-1,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C1327413,CAUSES,Interleukin-1,cytokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021755,C1749719,CAUSES,Interleukin-1,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C1819426,CAUSES,Interleukin-1,chemokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C1819436,CAUSES,Interleukin-1,interleukin-1 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C1819459,CAUSES,Interleukin-1,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C1819461,CAUSES,Interleukin-1,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021755,C3156592,CAUSES,Interleukin-1,T-helper 17 type immune response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021756,C0020966,CAUSES,Interleukin-2,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021756,C0025519,CAUSES,Interleukin-2,Metabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021756,C1817907,CAUSES,Interleukin-2,T cell mediated immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021756,C1819447,CAUSES,Interleukin-2,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021757,C1819459,CAUSES,Interleukin-3,interleukin-6 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021758,C0018270,CAUSES,Interleukin-4,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021758,C1749719,CAUSES,Interleukin-4,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021758,C1819437,CAUSES,Interleukin-4,interleukin-10 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021758,C1819439,CAUSES,Interleukin-4,interleukin-12 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C0011065,CAUSES,Interleukin-6,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C0023796,CAUSES,Interleukin-6,Lipolysis,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C0678723,CAUSES,Interleukin-6,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021760,C0699900,CAUSES,Interleukin-6,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C1155328,CAUSES,Interleukin-6,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021760,C1327441,CAUSES,Interleukin-6,negative regulation of inflammatory response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0021760,C1819444,CAUSES,Interleukin-6,interleukin-17 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C1819449,CAUSES,Interleukin-6,interleukin-21 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C1819459,CAUSES,Interleukin-6,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C1819464,CAUSES,Interleukin-6,tumor necrosis factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0021760,C2611870,CAUSES,Interleukin-6,vascular endothelial growth factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0022009,C0026559,CAUSES,Ion Channel,Morphogenesis,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0022709,C0004048,CAUSES,Peptidyl-Dipeptidase A,Inspiration function,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0022942,C3156622,CAUSES,Lactoferrin,chemokine (C-X-C motif) ligand 2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0023206,C0018270,CAUSES,Lectin,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0023206,C3159140,CAUSES,Lectin,interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0023610,C0014948,CAUSES,Gonadorelin,Estrus,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0023689,C0011065,CAUSES,Ligase,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0023689,C0699900,CAUSES,Ligase,Catabolism,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0023764,C1154988,CAUSES,Lipase,defense response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0023820,C0011065,CAUSES,Lipoproteins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0024075,C0699900,CAUSES,Luciferases,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0024075,C1160185,CAUSES,Luciferases,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0024518,C1654934,CAUSES,Major Histocompatibility Complex,Immune Evasion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0025252,C0678723,CAUSES,Membrane Proteins,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0025252,C1817907,CAUSES,Membrane Proteins,T cell mediated immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0026138,C0020967,CAUSES,Milk Proteins,Humoral Immunity,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0026794,C0043240,CAUSES,Muramidase,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0027021,C0011065,CAUSES,Peroxidase,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0027021,C1136180,CAUSES,Peroxidase,Disease Resistance,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0027893,C0013470,CAUSES,neuropeptide Y,Eating,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0028589,C0699900,CAUSES,Nuclear Proteins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0028612,C0020966,CAUSES,Nucleoproteins,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0029005,C0699900,CAUSES,Oncogene Proteins,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0029923,C0678723,CAUSES,Ovalbumin,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0030095,C0005615,CAUSES,Oxytocin,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0030095,C0013470,CAUSES,Oxytocin,Eating,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0030520,C2985494,CAUSES,Parathyroid Hormone,Resorption,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0030940,C0011065,CAUSES,Peptide Hydrolases,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0030940,C0699900,CAUSES,Peptide Hydrolases,Catabolism,aapp,orgf,10,CAUSES_AAPPcausORGF
+C0030940,C1327413,CAUSES,Peptide Hydrolases,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0030946,C0678723,CAUSES,Endopeptidases,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0030946,C0699900,CAUSES,Endopeptidases,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0031727,C0699900,CAUSES,Phosphotransferases,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0031727,C1327413,CAUSES,Phosphotransferases,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0031858,C1819447,CAUSES,Phytohemagglutinins,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0032050,C0032961,CAUSES,Placental Hormones,Pregnancy,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0032144,C0699900,CAUSES,Plasminogen Activator,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0033373,C0011065,CAUSES,Prolactin Release-Inhibiting Hormone,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0033634,C0011065,CAUSES,Protein Kinase C,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0033640,C1155328,CAUSES,Protein Kinases,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034783,C0023796,CAUSES,Adrenergic Receptor,Lipolysis,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034789,C0020967,CAUSES,"Receptors, Antigen, B-Cell",Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034789,C0678723,CAUSES,"Receptors, Antigen, B-Cell",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034790,C1327413,CAUSES,T-Cell Receptor,cytokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0034790,C1510470,CAUSES,T-Cell Receptor,Motility,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034790,C1819447,CAUSES,T-Cell Receptor,interleukin-2 production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0034800,C1160185,CAUSES,"Receptors, Cell Surface",transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034805,C1819437,CAUSES,Fc Receptor,interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034819,C1819437,CAUSES,Interleukin 2 Receptor,interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034848,C1136180,CAUSES,"Receptors, Virus",Disease Resistance,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034861,C0020967,CAUSES,Recombinant Proteins,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0034861,C0035150,CAUSES,Recombinant Proteins,Reproduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0035569,C0011065,CAUSES,Ricin,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0035678,C0011065,CAUSES,RNA Polymerase I,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0038085,C0018270,CAUSES,"Genes, src",Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0038585,C1819459,CAUSES,Substance P,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040005,C0012238,CAUSES,Threonine,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040648,C0018270,CAUSES,TRANSCRIPTION FACTOR,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040648,C0699900,CAUSES,TRANSCRIPTION FACTOR,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040648,C1749719,CAUSES,TRANSCRIPTION FACTOR,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040648,C1819430,CAUSES,TRANSCRIPTION FACTOR,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040691,C0011065,CAUSES,Transforming Growth Factors,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0040691,C0018270,CAUSES,Transforming Growth Factors,Growth,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0040691,C0887937,CAUSES,Transforming Growth Factors,Allograft Tolerance,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0040691,C3156592,CAUSES,Transforming Growth Factors,T-helper 17 type immune response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0041236,C0018270,CAUSES,TRYPSIN,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0041243,C1523943,CAUSES,Trypsinogen,protein digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0041368,C0699900,CAUSES,Tumor Necrosis Factors,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0041368,C1749719,CAUSES,Tumor Necrosis Factors,Adaptive Immune Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0041538,C0026649,CAUSES,Ubiquitin,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0042720,C0699900,CAUSES,Viral Genome,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0042720,C1819431,CAUSES,Viral Genome,interferon-alpha production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0042736,C0011065,CAUSES,Viral Proteins,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0042736,C0018270,CAUSES,Viral Proteins,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0042736,C0699900,CAUSES,Viral Proteins,Catabolism,aapp,orgf,6,CAUSES_AAPPcausORGF
+C0042736,C1155328,CAUSES,Viral Proteins,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0042736,C1749719,CAUSES,Viral Proteins,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0042736,C1819430,CAUSES,Viral Proteins,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0044602,C0018270,CAUSES,1-Phosphatidylinositol 3-Kinase,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0051979,C0678723,CAUSES,anti-IgG,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0052051,C1327413,CAUSES,"V antigen, Yersinia pestis",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0052350,C0035150,CAUSES,arginyl-glycyl-aspartic acid,Reproduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0054015,C0018270,CAUSES,Nesiritide,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0054543,C0678723,CAUSES,calreticulin,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0054871,C0012238,CAUSES,Cathepsin L,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0054871,C1160185,CAUSES,Cathepsin L,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0055633,C0699900,CAUSES,Chromogranin A,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0055633,C1819430,CAUSES,Chromogranin A,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0055817,C1817907,CAUSES,citrate carrier,T cell mediated immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0057256,C1327413,CAUSES,Defensins,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0059038,C0026649,CAUSES,Peptide Elongation Factor G,Movement,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0059255,C1160185,CAUSES,endopeptidase B,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0059386,C0011065,CAUSES,"enterotoxin B, staphylococcal",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0061878,C0011065,CAUSES,granzyme B,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0063695,C1327413,CAUSES,Intercellular adhesion molecule 1,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0063717,C1327441,CAUSES,Interleukin 6 Receptor,negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0065082,C0699900,CAUSES,"hlyA protein, Listeria monocytogenes",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0065684,C0678723,CAUSES,mannose receptor,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0065827,C0000934,CAUSES,Measles Virus Nucleoprotein,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0065827,C0011065,CAUSES,Measles Virus Nucleoprotein,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0065827,C0020966,CAUSES,Measles Virus Nucleoprotein,Cellular Immunity,aapp,orgf,7,CAUSES_AAPPcausORGF
+C0065827,C1749719,CAUSES,Measles Virus Nucleoprotein,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0069065,C0699900,CAUSES,Viral Nonstructural Proteins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0069856,C1327413,CAUSES,"oxytocin, 1-penicillamyl-Leu(2)-",cytokine production,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0070410,C0011065,CAUSES,perforin,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0071795,C0014653,CAUSES,2-5A-dependent ribonuclease,Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0071795,C0699900,CAUSES,2-5A-dependent ribonuclease,Catabolism,aapp,orgf,6,CAUSES_AAPPcausORGF
+C0071795,C1819430,CAUSES,2-5A-dependent ribonuclease,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0072074,C1819439,CAUSES,Profilins,interleukin-12 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0072442,C0678723,CAUSES,prothymosin alpha,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0072442,C1819439,CAUSES,prothymosin alpha,interleukin-12 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0072978,C1819426,CAUSES,RANTES,chemokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0073240,C0699900,CAUSES,Ribonuclease III,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0077503,C0014653,CAUSES,Tumor Necrosis Factor Receptor,Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0077678,C0699900,CAUSES,ubiquitin-protein ligase,Catabolism,aapp,orgf,6,CAUSES_AAPPcausORGF
+C0079183,C0699900,CAUSES,Cyclins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C0011065,CAUSES,cytokine,Cessation of life,aapp,orgf,9,CAUSES_AAPPcausORGF
+C0079189,C0014653,CAUSES,cytokine,Equilibrium,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0079189,C0018270,CAUSES,cytokine,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C0678723,CAUSES,cytokine,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0079189,C0678889,CAUSES,cytokine,Immunoregulation,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0079189,C0699900,CAUSES,cytokine,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1155328,CAUSES,cytokine,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1327413,CAUSES,cytokine,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1327441,CAUSES,cytokine,negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1654934,CAUSES,cytokine,Immune Evasion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1749719,CAUSES,cytokine,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1817919,CAUSES,cytokine,germinal center formation,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1819426,CAUSES,cytokine,chemokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0079189,C1819459,CAUSES,cytokine,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C1819461,CAUSES,cytokine,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C3156137,CAUSES,cytokine,thymic stromal lymphopoietin production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079189,C4505207,CAUSES,cytokine,Immune Reconstitution,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079408,C0699900,CAUSES,"Gene Products, vif",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079419,C0011065,CAUSES,TP53 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079419,C0333953,CAUSES,TP53 gene,Involution,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079419,C0699900,CAUSES,TP53 gene,Catabolism,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0079419,C1819430,CAUSES,TP53 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079427,C0699900,CAUSES,Tumor Suppressor Genes,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079459,C0011065,CAUSES,Granulocyte Colony-Stimulating Factor,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079460,C0678723,CAUSES,Granulocyte-Macrophage Colony-Stimulating Factor,Biologic Development,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0079460,C1819459,CAUSES,Granulocyte-Macrophage Colony-Stimulating Factor,interleukin-6 production,aapp,orgf,5,CAUSES_AAPPcausORGF
+C0079633,C1155328,CAUSES,Interleukin-8,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079633,C1819461,CAUSES,Interleukin-8,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079717,C1819433,CAUSES,Lymphocyte Function-Associated Antigen-1,interferon-gamma production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079784,C1819459,CAUSES,Macrophage Colony-Stimulating Factor,interleukin-6 production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0079904,C1155328,CAUSES,NF-kappa B,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0079904,C1327413,CAUSES,NF-kappa B,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079904,C1819432,CAUSES,NF-kappa B,interferon-beta production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0079941,C0699900,CAUSES,Open Reading Frames,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0080058,C0011065,CAUSES,Proto-Oncogene Proteins p21(ras),Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0080113,C0699900,CAUSES,Retinoblastoma Protein,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0080225,C1327413,CAUSES,Thymopentin,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0082181,C0020967,CAUSES,cytomegalovirus matrix protein 65kDa,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0083032,C1749719,CAUSES,Interleukin 7 Receptor,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0083453,C0032961,CAUSES,"MDK protein, human",Pregnancy,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0084795,C1327413,CAUSES,Tristetraprolin,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0085295,C1327413,CAUSES,Interleukin-10,cytokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0085295,C1327441,CAUSES,Interleukin-10,negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0085297,C0011065,CAUSES,"Immunoglobulins, Intravenous",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0085297,C1327441,CAUSES,"Immunoglobulins, Intravenous",negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0085301,C0018270,CAUSES,Proto-Oncogene Proteins c-fos,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0085828,C1819426,CAUSES,Transcription Factor AP-1,chemokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0086376,C0678723,CAUSES,GTP-Binding Proteins,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0086903,C0598941,CAUSES,"GTP-Binding Protein alpha Subunits, Gs",Biological Neural Networks,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0087044,C0699900,CAUSES,Synapsin I,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0103306,C1819464,CAUSES,angiotensin I (1-7),tumor necrosis factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0103403,C0011065,CAUSES,Annexin A1,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0108187,C1327413,CAUSES,Calnexin,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0113089,C1819461,CAUSES,Dermatophagoides farinae antigen f 1,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0118522,C0035150,CAUSES,GA-Binding Protein Transcription Factor,Reproduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0120285,C0011065,CAUSES,Green Fluorescent Proteins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0120285,C0699900,CAUSES,Green Fluorescent Proteins,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0122577,C0699900,CAUSES,"complement factor H, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0122626,C0678889,CAUSES,human pancreatic eicosapeptide,Immunoregulation,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0123263,C1327413,CAUSES,"Receptors, IgG",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0123759,C1155328,CAUSES,Interleukin-12,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0123759,C1749719,CAUSES,Interleukin-12,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0123759,C1819433,CAUSES,Interleukin-12,interferon-gamma production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0123759,C3159140,CAUSES,Interleukin-12,interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0125272,C0699900,CAUSES,Lysosomal-Associated Membrane Protein 2,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0127082,C0699900,CAUSES,Interstitial Collagenase,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0138514,C0018270,CAUSES,Placental Growth Factor,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0147219,C0005615,CAUSES,"Receptors, Autocrine Motility Factor",Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0162768,C0699900,CAUSES,Fusion protein,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0165073,C0011065,CAUSES,Synucleins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0165519,C0699900,CAUSES,Matrix Metalloproteinase 9,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0166033,C0699900,CAUSES,I kappa B beta protein,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0166418,C0013470,CAUSES,Peroxisome Proliferator-Activated Receptors,Eating,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0169539,C0011065,CAUSES,Vascular Endothelial Growth Factor Receptor-3,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0172511,C1819459,CAUSES,interferon-alpha 8,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0172537,C0699900,CAUSES,Matrix Metalloproteinase 2,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0206025,C0012238,CAUSES,Mung Bean Nuclease,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0206527,C0011065,CAUSES,Superantigens,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0208355,C0699900,CAUSES,multicatalytic endopeptidase complex,Catabolism,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0209597,C0678723,CAUSES,Rhinovirus protease 2A,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0214222,C3824609,CAUSES,Transcription Factor RelA,cellular response to virus,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0214743,C1155328,CAUSES,Interleukin-13,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0215848,C0699900,CAUSES,Hypoxia-Inducible Factor 1,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0215955,C0006159,CAUSES,"LCN2 protein, human",Breeding,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0218158,C1819430,CAUSES,Agammaglobulinaemia tyrosine kinase,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0218633,C0043240,CAUSES,molgramostim,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0242275,C1160185,CAUSES,Epidermal Growth Factor,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243040,C0020967,CAUSES,"Adhesins, Bacterial",Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243041,C0678723,CAUSES,Molecular Chaperones,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243041,C0699900,CAUSES,Molecular Chaperones,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243043,C0043240,CAUSES,Heat-Shock Proteins 70,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243043,C0699900,CAUSES,Heat-Shock Proteins 70,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243043,C1327413,CAUSES,Heat-Shock Proteins 70,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243044,C0011065,CAUSES,HSP90 Heat-Shock Proteins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0243044,C0699900,CAUSES,HSP90 Heat-Shock Proteins,Catabolism,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0245355,C0005615,CAUSES,ras GTPase-Activating Proteins,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0247252,C0699900,CAUSES,"NSP1 protein, Rotavirus",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0248813,C0699900,CAUSES,JNK Mitogen-Activated Protein Kinases,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0249989,C0678723,CAUSES,FLT3 ligand,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0249989,C1327413,CAUSES,FLT3 ligand,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0250604,C1819440,CAUSES,Eotaxin,interleukin-13 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0251829,C0018270,CAUSES,"INS1 protein, influenza virus",Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0255813,C0699900,CAUSES,"Receptors, Tumor Necrosis Factor, Type II",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0256079,C0699900,CAUSES,CREB-binding protein,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0257535,C1327413,CAUSES,Mitogen-Activated Protein Kinase 14,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0257572,C1819462,CAUSES,"TNFSF4 protein, human",interleukin-9 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0257766,C0699900,CAUSES,"SILV protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0282554,C0678723,CAUSES,chemokine,Biologic Development,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0282554,C1155328,CAUSES,chemokine,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0282554,C1749719,CAUSES,chemokine,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0282554,C1819426,CAUSES,chemokine,chemokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0282641,C0699900,CAUSES,Transgenes,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0282682,C0020967,CAUSES,"Antibodies, Blocking",Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0282682,C3269238,CAUSES,"Antibodies, Blocking",antibody-mediated agglutination,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0291573,C0011065,CAUSES,caspase-3,Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0294105,C0699900,CAUSES,ubiquitin isopeptidase,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0296346,C0011065,CAUSES,Fas-Associated Death Domain Protein,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0301521,C1155328,CAUSES,therapeutic vaccine,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0304052,C0011065,CAUSES,Plant Lectins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0305052,C0699900,CAUSES,Gamma globulin serum,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0305052,C1155328,CAUSES,Gamma globulin serum,Antiviral Response,aapp,orgf,5,CAUSES_AAPPcausORGF
+C0305058,C0011065,CAUSES,"Tetanus immune globulin, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0312586,C0699900,CAUSES,Polyclonal antibody,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0358321,C0020967,CAUSES,Immune Globulin (Human),Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0376515,C0011065,CAUSES,BCL2 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0376515,C0018270,CAUSES,BCL2 gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0376659,C0011065,CAUSES,Cancer Vaccines,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0378516,C0011065,CAUSES,Vascular Endothelial Growth Factor Receptor-1,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0378796,C0011065,CAUSES,Vascular Endothelial Growth Factor Receptor-2,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0378910,C1155328,CAUSES,Lymphocyte antigen CD66A,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0378910,C1819447,CAUSES,Lymphocyte antigen CD66A,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0379214,C0011065,CAUSES,"pros protein, Drosophila",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0382839,C0678723,CAUSES,CD94 Antigen,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0384768,C0699900,CAUSES,"IRF3 protein, human",Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0384768,C1155328,CAUSES,"IRF3 protein, human",Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0385242,C0011065,CAUSES,TNF-related apoptosis-inducing ligand,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0385463,C0013470,CAUSES,leptin receptor,Eating,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0387583,C0022864,CAUSES,cyclooxygenase 2,Labor (Childbirth),aapp,orgf,2,CAUSES_AAPPcausORGF
+C0388730,C0018270,CAUSES,Cyclin D,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0393022,C0011065,CAUSES,rituximab,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0440471,C0000934,CAUSES,Genetic Materials,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0443469,C0598016,CAUSES,Pancreatic lipase,hatching,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0443640,C0005615,CAUSES,Specific antibody,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0443640,C0012238,CAUSES,Specific antibody,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0443640,C0024888,CAUSES,Specific antibody,Chewing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0443640,C0678723,CAUSES,Specific antibody,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0475463,C0020967,CAUSES,"Antibodies, Neutralizing",Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0475463,C0699900,CAUSES,"Antibodies, Neutralizing",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0475463,C3159140,CAUSES,"Antibodies, Neutralizing",interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0525856,C0005823,CAUSES,"Enkephalin, D-Penicillamine (2,5)-",Blood Pressure,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0528480,C0699900,CAUSES,Presenilin-2,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0530129,C1819430,CAUSES,TNF receptor-associated factor 6,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0530129,C1819431,CAUSES,TNF receptor-associated factor 6,interferon-alpha production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0530129,C1819459,CAUSES,TNF receptor-associated factor 6,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0534519,C0678723,CAUSES,Caspase-1,Biologic Development,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0534519,C0699900,CAUSES,Caspase-1,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0544420,C0012238,CAUSES,Digestive Enzymes,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0544420,C0699900,CAUSES,Digestive Enzymes,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0544420,C1154988,CAUSES,Digestive Enzymes,defense response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0582263,C0020967,CAUSES,Structural protein,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0582263,C0699900,CAUSES,Structural protein,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0596035,C0011065,CAUSES,activation product,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0596709,C0020966,CAUSES,HIV envelope protein,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0596902,C0678723,CAUSES,Membrane Transport Proteins,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597298,C1510470,CAUSES,Protein Isoforms,Motility,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C0000934,CAUSES,receptor,Acclimatization,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0597357,C0011065,CAUSES,receptor,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C0678723,CAUSES,receptor,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C1155328,CAUSES,receptor,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C1160185,CAUSES,receptor,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C1516559,CAUSES,receptor,Circulatory Process,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C1819430,CAUSES,receptor,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597357,C1819461,CAUSES,receptor,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597418,C0011065,CAUSES,Rotavirus Vaccines,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0597418,C0678210,CAUSES,Rotavirus Vaccines,"Passive immunity, function",aapp,orgf,2,CAUSES_AAPPcausORGF
+C0597551,C0012238,CAUSES,synthetic peptide,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597551,C0020966,CAUSES,synthetic peptide,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597551,C1155328,CAUSES,synthetic peptide,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0597721,C0699900,CAUSES,Janus kinase,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0599220,C0020966,CAUSES,Protein Subunits,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0599220,C0699900,CAUSES,Protein Subunits,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0599220,C0872193,CAUSES,Protein Subunits,immunoreaction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0599344,C0699900,CAUSES,Cellular Retinoic Acid Binding Protein,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0599561,C0678723,CAUSES,e protein,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0600449,C0018270,CAUSES,"Genes, Essential",Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0623362,C0699900,CAUSES,Matrix Metalloproteinases,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0663914,C0699900,CAUSES,IkappaB kinase,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0663914,C1819430,CAUSES,IkappaB kinase,type I interferon production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0664336,C0011065,CAUSES,survivin,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0666173,C1155328,CAUSES,"RANTES, Met-",Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0666411,C1155328,CAUSES,Interferon Regulatory Factor-7,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0667477,C0011065,CAUSES,"TNFRSF11A protein, human",Cessation of life,aapp,orgf,5,CAUSES_AAPPcausORGF
+C0667477,C0014653,CAUSES,"TNFRSF11A protein, human",Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0667830,C0011065,CAUSES,caspase-8,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0673013,C0011065,CAUSES,"GPER protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0678933,C0011065,CAUSES,Genetic Loci,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0678941,C1155328,CAUSES,Gene Mutant,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0699919,C0699900,CAUSES,Cathepsins B,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0700271,C0020967,CAUSES,"M Protein, multiple myeloma",Humoral Immunity,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0700271,C1327413,CAUSES,"M Protein, multiple myeloma",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0700271,C1819464,CAUSES,"M Protein, multiple myeloma",tumor necrosis factor production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0700271,C3159140,CAUSES,"M Protein, multiple myeloma",interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0754515,C0699900,CAUSES,"TERT protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0754727,C1155328,CAUSES,"TLR2 protein, human",Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C0757929,C0678723,CAUSES,Procaspase-1,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0812222,C0699900,CAUSES,MDM2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0812234,C0678723,CAUSES,RHOA gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0812234,C0699900,CAUSES,RHOA gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0812303,C1160185,CAUSES,FYN gene,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0812305,C0699900,CAUSES,EPCAM gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0812307,C1160185,CAUSES,LYN gene,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0872141,C1155328,CAUSES,cytosolic receptor,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0872251,C1155328,CAUSES,protein kinase R,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0887910,C0018270,CAUSES,Virosomes,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0887910,C0020967,CAUSES,Virosomes,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0903042,C1819430,CAUSES,"WFDC2 protein, human",type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0907411,C1327413,CAUSES,"Lectins, C-Type",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0907412,C1749719,CAUSES,"dectin-2, mouse",Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0910167,C0011065,CAUSES,caspase-9,Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C0912507,C0018270,CAUSES,Fibroblast Growth Factor Receptor 2b,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0913092,C0005615,CAUSES,DC-specific ICAM-3 grabbing nonintegrin,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0913092,C0011065,CAUSES,DC-specific ICAM-3 grabbing nonintegrin,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0913092,C0678723,CAUSES,DC-specific ICAM-3 grabbing nonintegrin,Biologic Development,aapp,orgf,4,CAUSES_AAPPcausORGF
+C0913092,C1155328,CAUSES,DC-specific ICAM-3 grabbing nonintegrin,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0913092,C1327413,CAUSES,DC-specific ICAM-3 grabbing nonintegrin,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0914267,C1160185,CAUSES,phosphatidylserine receptor,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0914670,C0678723,CAUSES,CPG-oligonucleotide,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0915115,C0699900,CAUSES,metal transporting protein 1,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0962190,C1819444,CAUSES,interleukin-21,interleukin-17 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0965878,C1819430,CAUSES,"interferon regulatory factor-1, viral",type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C0971226,C0005615,CAUSES,EBV-encoded nuclear antigen 1,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1099355,C0699900,CAUSES,RNA-Induced Silencing Complex,Catabolism,aapp,orgf,8,CAUSES_AAPPcausORGF
+C1120843,C0011065,CAUSES,mitogen-activated protein kinase p38,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1120843,C1155328,CAUSES,mitogen-activated protein kinase p38,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1120843,C1819437,CAUSES,mitogen-activated protein kinase p38,interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1135650,C0011065,CAUSES,"Transcription Factors, General",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1136102,C0678723,CAUSES,Capsid Proteins,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1136102,C0699900,CAUSES,Capsid Proteins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1136376,C0678723,CAUSES,"Receptors, C-Type Lectin",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1143167,C0699900,CAUSES,"APOBEC3G protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1143949,C0011065,CAUSES,"TNFSF10 protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1172734,C1327441,CAUSES,natalizumab,negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1174094,C0699900,CAUSES,"IL28B protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1180307,C1155328,CAUSES,F-Actin,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1256770,C0018270,CAUSES,Vascular Endothelial Growth Factors,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1256818,C0699900,CAUSES,Ubiquitin-Protein Ligase Complexes,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1258835,C0020966,CAUSES,"N protein, Severe acute respiratory syndrome virus",Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1259263,C0596570,CAUSES,LPA1 Receptor,fibrogenesis,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1305923,C0011065,CAUSES,Polypeptides,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1305923,C0678723,CAUSES,Polypeptides,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1307407,C0699900,CAUSES,"FRAP1 protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1307407,C0814002,CAUSES,"FRAP1 protein, human",Neurogenesis,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1309025,C0699900,CAUSES,"SH2D3A protein, human",Catabolism,aapp,orgf,8,CAUSES_AAPPcausORGF
+C1309025,C1155328,CAUSES,"SH2D3A protein, human",Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1309483,C0699900,CAUSES,"DICER1 protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1310463,C0699900,CAUSES,"IFIH1 protein, human",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1310463,C1155328,CAUSES,"IFIH1 protein, human",Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1310463,C1327413,CAUSES,"IFIH1 protein, human",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1310463,C1819430,CAUSES,"IFIH1 protein, human",type I interferon production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1310468,C0678723,CAUSES,"DDX58 protein, human",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1310468,C0699900,CAUSES,"DDX58 protein, human",Catabolism,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1310468,C1155328,CAUSES,"DDX58 protein, human",Antiviral Response,aapp,orgf,9,CAUSES_AAPPcausORGF
+C1310468,C1327413,CAUSES,"DDX58 protein, human",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1310468,C1819430,CAUSES,"DDX58 protein, human",type I interferon production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1321919,C0011065,CAUSES,"TLR4 protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1321919,C1327413,CAUSES,"TLR4 protein, human",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332386,C0699900,CAUSES,BCAR3 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1332672,C0011065,CAUSES,CBLB gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332684,C0005615,CAUSES,CCL21 gene,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332699,C1155328,CAUSES,CCR1 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332700,C1155328,CAUSES,CCR5 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332707,C1155328,CAUSES,CD209 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332719,C0699900,CAUSES,CDC25A gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332821,C0018270,CAUSES,CXCL9 gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332823,C0678723,CAUSES,CXCR4 gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332826,C0699900,CAUSES,CYP1A2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332828,C0699900,CAUSES,CYP2C19 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332830,C0699900,CAUSES,CYP2D6 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332838,C0018270,CAUSES,Candidate Disease Gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1332838,C0699900,CAUSES,Candidate Disease Gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1333030,C1820370,CAUSES,Chromatin Remodeling Factor,flowering,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1333196,C1327413,CAUSES,Cytokine Gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1333877,C0011065,CAUSES,Granzymes,Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1333908,C0043240,CAUSES,HMGB1 gene,Wound Healing,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1333908,C0596570,CAUSES,HMGB1 gene,fibrogenesis,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1333908,C0678723,CAUSES,HMGB1 gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1333908,C1155328,CAUSES,HMGB1 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1333908,C1327413,CAUSES,HMGB1 gene,cytokine production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1334043,C1160185,CAUSES,Homologous Gene,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334043,C1819437,CAUSES,Homologous Gene,interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334081,C0011065,CAUSES,IFNAR1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334081,C0699900,CAUSES,IFNAR1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334083,C0699900,CAUSES,IFNGR1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334085,C0011065,CAUSES,IFNG gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1334089,C0018270,CAUSES,IGF1 gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334122,C3156592,CAUSES,IL6 gene,T-helper 17 type immune response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334125,C0011065,CAUSES,CXCR1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334126,C0043240,CAUSES,CXCR2 gene,Wound Healing,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1334137,C1819430,CAUSES,IRAK4 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334139,C0699900,CAUSES,IRF3 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1334139,C1155328,CAUSES,IRF3 gene,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1334139,C1819430,CAUSES,IRF3 gene,type I interferon production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1334139,C1819432,CAUSES,IRF3 gene,interferon-beta production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334139,C3824609,CAUSES,IRF3 gene,cellular response to virus,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1334877,C0699900,CAUSES,NFKBIA gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334877,C3159140,CAUSES,NFKBIA gene,interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334885,C0699900,CAUSES,NMI gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1334908,C4255265,CAUSES,NTN1 gene,Neuronal Outgrowth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335144,C0699900,CAUSES,Orthologous Gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335267,C0011065,CAUSES,PRTN3 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335439,C0014653,CAUSES,Polymerase,Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335439,C0699900,CAUSES,Polymerase,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335439,C1155328,CAUSES,Polymerase,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335439,C1819459,CAUSES,Polymerase,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335533,C0020967,CAUSES,Protein Fragment,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335818,C0018270,CAUSES,SH2D3C gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335818,C0560560,CAUSES,SH2D3C gene,Moving,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1335872,C0699900,CAUSES,STAT1 gene,Catabolism,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1335873,C0699900,CAUSES,STAT2 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1335962,C1819459,CAUSES,Signaling Protein,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336603,C0699900,CAUSES,TEP1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336636,C0011065,CAUSES,TLR4 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336636,C0020966,CAUSES,TLR4 gene,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336636,C1155328,CAUSES,TLR4 gene,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1336636,C1327413,CAUSES,TLR4 gene,cytokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1336636,C1749719,CAUSES,TLR4 gene,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336636,C1819439,CAUSES,TLR4 gene,interleukin-12 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336644,C0011065,CAUSES,TNFRSF10B gene,Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1336670,C3159140,CAUSES,TREX1 gene,interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336681,C1155328,CAUSES,TSLP gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336681,C1819426,CAUSES,TSLP gene,chemokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336763,C0011065,CAUSES,Toll-Like Receptor Family Gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1336763,C0020966,CAUSES,Toll-Like Receptor Family Gene,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336763,C0678723,CAUSES,Toll-Like Receptor Family Gene,Biologic Development,aapp,orgf,6,CAUSES_AAPPcausORGF
+C1336763,C1155328,CAUSES,Toll-Like Receptor Family Gene,Antiviral Response,aapp,orgf,7,CAUSES_AAPPcausORGF
+C1336763,C1327413,CAUSES,Toll-Like Receptor Family Gene,cytokine production,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1336763,C1819430,CAUSES,Toll-Like Receptor Family Gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336763,C1819437,CAUSES,Toll-Like Receptor Family Gene,interleukin-10 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1336763,C1819439,CAUSES,Toll-Like Receptor Family Gene,interleukin-12 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1336763,C1819464,CAUSES,Toll-Like Receptor Family Gene,tumor necrosis factor production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1337106,C0699900,CAUSES,TBP gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1366449,C0699900,CAUSES,F2R gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1366557,C0011065,CAUSES,TGFB1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1367307,C0333953,CAUSES,STAT3 gene,Involution,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1367307,C0699900,CAUSES,STAT3 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1367307,C3156592,CAUSES,STAT3 gene,T-helper 17 type immune response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1367475,C1819447,CAUSES,CD2 gene,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1367710,C1327413,CAUSES,C5 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1367710,C1749719,CAUSES,C5 gene,Adaptive Immune Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1412056,C0011065,CAUSES,AAVS1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1412058,C0699900,CAUSES,ABCA1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1412215,C1819430,CAUSES,ADAR gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1412268,C0011065,CAUSES,AES gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1412533,C0011065,CAUSES,ARIH1 gene,Cessation of life,aapp,orgf,10,CAUSES_AAPPcausORGF
+C1412622,C0026649,CAUSES,ATF6 gene,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1412831,C0699900,CAUSES,BST2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1412841,C0011065,CAUSES,BTK gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1412999,C0011065,CAUSES,C4A gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1413357,C0011065,CAUSES,CFLAR gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1413622,C0011065,CAUSES,CORO1A gene,Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1413673,C0011065,CAUSES,CPN1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1413772,C1327413,CAUSES,CST3 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1413812,C0011065,CAUSES,CTSE gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1413941,C0699900,CAUSES,DDB1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1413978,C1819464,CAUSES,DEFB4A gene,tumor necrosis factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414130,C0005615,CAUSES,DOK2 gene,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414141,C1819447,CAUSES,DPP4 gene,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414174,C0011065,CAUSES,DSPP gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414244,C0011065,CAUSES,ECE1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414253,C1155328,CAUSES,S1PR1 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414349,C0699900,CAUSES,EIF4A2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414369,C0011065,CAUSES,ELANE gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1414370,C0011065,CAUSES,SERPINB1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414421,C0678723,CAUSES,EPAS1 gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414609,C0020966,CAUSES,FGL2 gene,Cellular Immunity,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1414609,C0678723,CAUSES,FGL2 gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414615,C0018270,CAUSES,VEGFD gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1414685,C0011065,CAUSES,FOXM1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1414872,C0011065,CAUSES,FXR1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415068,C0011065,CAUSES,GJA1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415188,C0005615,CAUSES,GP2 gene,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415351,C0020967,CAUSES,GTPBP1 gene,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415351,C1819464,CAUSES,GTPBP1 gene,tumor necrosis factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415380,C1749719,CAUSES,GZMB gene,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415545,C0025519,CAUSES,HINT1 gene,Metabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415886,C0699900,CAUSES,IFI16 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415888,C0005615,CAUSES,IFI30 gene,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415888,C0020967,CAUSES,IFI30 gene,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415888,C0678210,CAUSES,IFI30 gene,"Passive immunity, function",aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415898,C0000934,CAUSES,IFITM3 gene,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415898,C0699900,CAUSES,IFITM3 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415898,C1155328,CAUSES,IFITM3 gene,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1415898,C1160185,CAUSES,IFITM3 gene,transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1415900,C1155328,CAUSES,IFNA1 gene,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1416380,C1327413,CAUSES,IKBKG gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416433,C0699900,CAUSES,IDO1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416467,C0887936,CAUSES,FOXP3 gene,Transplantation Tolerance,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416475,C0011065,CAUSES,IRF7 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416475,C1155328,CAUSES,IRF7 gene,Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1416475,C1819430,CAUSES,IRF7 gene,type I interferon production,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1416521,C0012238,CAUSES,ITSN2 gene,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416596,C0699900,CAUSES,KCNK3 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416797,C0011065,CAUSES,STMN1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1416797,C0026649,CAUSES,STMN1 gene,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417092,C0011065,CAUSES,ME1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417530,C0018270,CAUSES,MYD88 gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417530,C0699900,CAUSES,MYD88 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417530,C1155328,CAUSES,MYD88 gene,Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1417530,C1819431,CAUSES,MYD88 gene,interferon-alpha production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417530,C2247951,CAUSES,MYD88 gene,type III interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417659,C0699900,CAUSES,NEDD4 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1417722,C0699900,CAUSES,NHLH1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1417925,C0020967,CAUSES,OCA2 gene,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1418298,C0699900,CAUSES,PCBP2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1418406,C0026649,CAUSES,PDCD6 gene,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1418486,C1819431,CAUSES,PFDN5 gene,interferon-alpha production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1418568,C0011065,CAUSES,PIGN gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1418650,C1327413,CAUSES,PLN gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1418793,C0678723,CAUSES,PPIA gene,Biologic Development,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1418943,C0014653,CAUSES,PROC gene,Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419054,C0012238,CAUSES,PTBP1 gene,Digestion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419062,C1819430,CAUSES,PTGER2 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419128,C0699900,CAUSES,CAVIN1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419142,C1155328,CAUSES,NECTIN1 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419142,C1327413,CAUSES,NECTIN1 gene,cytokine production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1419142,C1819430,CAUSES,NECTIN1 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419147,C0699900,CAUSES,PEX19 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419240,C0699900,CAUSES,RAD51 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419413,C0699900,CAUSES,RNASEL gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1419429,C0699900,CAUSES,RNF8 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419799,C0000934,CAUSES,SAA1 gene,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419881,C0699900,CAUSES,AIMP1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419939,C0011065,CAUSES,SEL1L gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1419941,C1155328,CAUSES,SELPLG gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420002,C0005615,CAUSES,SFTPA1 gene,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420016,C0011065,CAUSES,SGTA gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420083,C0699900,CAUSES,SLA gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420089,C0699900,CAUSES,SLC11A2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420113,C0699900,CAUSES,SLC17A5 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420729,C0018270,CAUSES,TIA1 gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1420744,C0699900,CAUSES,TJP1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421173,C0011065,CAUSES,TRPC6 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421361,C0699900,CAUSES,UNG gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421479,C0011065,CAUSES,WASF1 gene,Cessation of life,aapp,orgf,5,CAUSES_AAPPcausORGF
+C1421479,C0014948,CAUSES,WASF1 gene,Estrus,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421527,C0699900,CAUSES,XBP1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421554,C1154988,CAUSES,YME1L1 gene,defense response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421554,C1155328,CAUSES,YME1L1 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421554,C1327413,CAUSES,YME1L1 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421554,C1819432,CAUSES,YME1L1 gene,interferon-beta production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1421638,C0699900,CAUSES,TRIM25 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422064,C0000934,CAUSES,ACE2 gene,Acclimatization,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422064,C0004048,CAUSES,ACE2 gene,Inspiration function,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422064,C0006147,CAUSES,ACE2 gene,Breast Feeding,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422064,C0011065,CAUSES,ACE2 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422064,C0032961,CAUSES,ACE2 gene,Pregnancy,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422073,C1327413,CAUSES,BRD4 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422077,C0699900,CAUSES,FBXO3 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422257,C0699900,CAUSES,ITCH gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1422271,C0699900,CAUSES,BAG6 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422475,C0678723,CAUSES,ARHGEF12 gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422550,C0870919,CAUSES,SHANK3 gene,motor development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422599,C1155328,CAUSES,PPP1R15A gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1422646,C0011065,CAUSES,RAPH1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1423506,C0011065,CAUSES,SPINK5 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1423633,C0020966,CAUSES,TLR9 gene,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1423633,C1155328,CAUSES,TLR9 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1423633,C1327413,CAUSES,TLR9 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1423633,C1819430,CAUSES,TLR9 gene,type I interferon production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1423706,C1819461,CAUSES,SDCBP2 gene,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1423837,C0699900,CAUSES,SAMHD1 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1424231,C0699900,CAUSES,TRIM22 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1424447,C0026649,CAUSES,RAPGEF4 gene,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1424650,C1155328,CAUSES,IFI44 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1424930,C0699900,CAUSES,APOBEC3G gene,Catabolism,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1424977,C0699900,CAUSES,RCHY1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1425076,C0011065,CAUSES,LIN7B gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1425219,C0011065,CAUSES,SLC22A12 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1425219,C0020966,CAUSES,SLC22A12 gene,Cellular Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1425942,C1155328,CAUSES,SCARA3 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1426212,C1155328,CAUSES,SOCS3 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1426212,C1819430,CAUSES,SOCS3 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1427119,C0011065,CAUSES,ANKFY1 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1427365,C0699900,CAUSES,RNF125 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1427812,C1510470,CAUSES,PDLIM7 gene,Motility,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1427969,C0699900,CAUSES,KEAP1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1428114,C0011065,CAUSES,TBATA gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1428200,C0043240,CAUSES,TIPARP gene,Wound Healing,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1428200,C0699900,CAUSES,TIPARP gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1428200,C1155328,CAUSES,TIPARP gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1431185,C1155328,CAUSES,"NFIB protein, human",Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1439329,C0699900,CAUSES,CBS gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1447045,C0018270,CAUSES,"EGR1 protein, human",Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1448177,C0011065,CAUSES,"TNF protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1448177,C0678723,CAUSES,"TNF protein, human",Biologic Development,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1448177,C1327413,CAUSES,"TNF protein, human",cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1448177,C1819459,CAUSES,"TNF protein, human",interleukin-6 production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1449159,C0011065,CAUSES,"CCL2 protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1510506,C1819430,CAUSES,Interferon Regulatory Factor 3,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1511573,C0011065,CAUSES,Cyclic AMP Response Element,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1515370,C0004048,CAUSES,Recombinant Fas Ligand,Inspiration function,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1522002,C0011065,CAUSES,RNA Recognition Motif,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1522002,C0020967,CAUSES,RNA Recognition Motif,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1522620,C0005615,CAUSES,Recombinant Lymphotoxin Beta,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1522712,C1819426,CAUSES,Recombinant Interferon-alpha Inducible Protein 10,chemokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1537381,C0011065,CAUSES,HSD17B6 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1537447,C0678723,CAUSES,RUBCN gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1537647,C0011065,CAUSES,MALAT1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1537673,C0022864,CAUSES,MDFIC gene,Labor (Childbirth),aapp,orgf,2,CAUSES_AAPPcausORGF
+C1538116,C0699900,CAUSES,WWP2 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1538642,C0699900,CAUSES,PIAS2 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1539100,C1327413,CAUSES,CLEC5A gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1539103,C0020967,CAUSES,CLEC9A gene,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1539233,C1155328,CAUSES,DDX58 gene,Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1540056,C0699900,CAUSES,TRIM21 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1540289,C0011065,CAUSES,CD200 gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1540289,C1327413,CAUSES,CD200 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1540289,C1819430,CAUSES,CD200 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1564139,C0678723,CAUSES,Mutant Proteins,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1564682,C0699900,CAUSES,Suppressor of Cytokine Signaling Proteins,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1564904,C0011065,CAUSES,Catenins,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1564907,C0678723,CAUSES,"Receptors, Pattern Recognition",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1564907,C1155328,CAUSES,"Receptors, Pattern Recognition",Antiviral Response,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1565319,C1510470,CAUSES,Actin-Related Protein 2-3 Complex,Motility,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1565427,C0018270,CAUSES,"PTK2 protein, human",Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1624602,C0699900,CAUSES,Anti-Antibodies,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1667752,C1819440,CAUSES,"IL33 protein, human",interleukin-13 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1675724,C0011065,CAUSES,"FASLG protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1701790,C0678723,CAUSES,"IL17A protein, human",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1701790,C1817919,CAUSES,"IL17A protein, human",germinal center formation,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1702088,C0011065,CAUSES,"IL5 protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1704743,C0011065,CAUSES,BRCA1 wt Allele,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1705010,C0018270,CAUSES,TNC wt Allele,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1705982,C1819464,CAUSES,KRAS wt Allele,tumor necrosis factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1706005,C0043240,CAUSES,CD40LG wt Allele,Wound Healing,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1706289,C1819437,CAUSES,Interleukin-27,interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1707163,C0020967,CAUSES,CTSL1 wt Allele,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1721009,C0011065,CAUSES,Keratin-1,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1748474,C0699900,CAUSES,Endosomal Sorting Complexes Required for Transport,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1822619,C1819430,CAUSES,SCAP gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1822723,C0021080,CAUSES,SIAE gene,Natural immunosuppression,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1822724,C1327441,CAUSES,SIGIRR gene,negative regulation of inflammatory response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1822955,C0023946,CAUSES,SNORD50A gene,Locomotion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823381,C0026649,CAUSES,TMEM121 gene,Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823437,C0699900,CAUSES,TMEM173 gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1823437,C1155328,CAUSES,TMEM173 gene,Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1823437,C1819430,CAUSES,TMEM173 gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823437,C3159140,CAUSES,TMEM173 gene,interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823491,C1155328,CAUSES,TRIM69 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823491,C1819459,CAUSES,TRIM69 gene,interleukin-6 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823635,C0699900,CAUSES,DCAF1 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1823924,C0699900,CAUSES,ZC3H12A gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825598,C0000934,CAUSES,IMPACT gene,Acclimatization,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1825598,C0005615,CAUSES,IMPACT gene,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825598,C0011065,CAUSES,IMPACT gene,Cessation of life,aapp,orgf,15,CAUSES_AAPPcausORGF
+C1825598,C0014653,CAUSES,IMPACT gene,Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825598,C0018270,CAUSES,IMPACT gene,Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825598,C1818983,CAUSES,IMPACT gene,negative regulation of appetite,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825598,C3159140,CAUSES,IMPACT gene,interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825621,C0678723,CAUSES,ISG15 gene,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825621,C0699900,CAUSES,ISG15 gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825621,C1155328,CAUSES,ISG15 gene,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1825621,C1327413,CAUSES,ISG15 gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1826412,C0011065,CAUSES,BATF2 gene,Cessation of life,aapp,orgf,4,CAUSES_AAPPcausORGF
+C1826448,C1516002,CAUSES,NOD1 gene,Antibacterial Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1826448,C1819430,CAUSES,NOD1 gene,type I interferon production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1826449,C1516002,CAUSES,NOD2 gene,Antibacterial Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1826449,C1819430,CAUSES,NOD2 gene,type I interferon production,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1826449,C1819432,CAUSES,NOD2 gene,interferon-beta production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1826618,C0011065,CAUSES,AIFM1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1826968,C0699900,CAUSES,SAMD4A gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1864770,C0011065,CAUSES,MAVS gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1864770,C0699900,CAUSES,MAVS gene,Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C1864770,C1155328,CAUSES,MAVS gene,Antiviral Response,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1864770,C1327413,CAUSES,MAVS gene,cytokine production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1864770,C1819430,CAUSES,MAVS gene,type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1864770,C3159140,CAUSES,MAVS gene,interferon production,aapp,orgf,3,CAUSES_AAPPcausORGF
+C1865021,C0699900,CAUSES,NRON gene,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1883559,C0011065,CAUSES,Wild Type,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C1958909,C0699900,CAUSES,"Nsp1 protein, SARS coronavirus",Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2239937,C0011065,CAUSES,SMAD5-AS1 gene,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C2239937,C0598016,CAUSES,SMAD5-AS1 gene,hatching,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2334430,C1749719,CAUSES,Major histocompatibility complex protein,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744535,C0011065,CAUSES,"CD69 protein, human",Cessation of life,aapp,orgf,4,CAUSES_AAPPcausORGF
+C2744535,C0018270,CAUSES,"CD69 protein, human",Growth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744535,C1155328,CAUSES,"CD69 protein, human",Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744579,C0005615,CAUSES,"ATP8A2 protein, human",Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744579,C0009253,CAUSES,"ATP8A2 protein, human",Coitus,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744579,C0014653,CAUSES,"ATP8A2 protein, human",Equilibrium,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744579,C0026649,CAUSES,"ATP8A2 protein, human",Movement,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2744579,C1819430,CAUSES,"ATP8A2 protein, human",type I interferon production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2934329,C0678723,CAUSES,"S-(2,3-bispalmitoyloxypropyl)-cysteinyl-amido-monomethoxyl polyethylene glycol",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2936529,C0020967,CAUSES,Inflammasomes,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2936529,C0678723,CAUSES,Inflammasomes,Biologic Development,aapp,orgf,7,CAUSES_AAPPcausORGF
+C2936529,C0699900,CAUSES,Inflammasomes,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C2936529,C1819436,CAUSES,Inflammasomes,interleukin-1 production,aapp,orgf,7,CAUSES_AAPPcausORGF
+C3273937,C0011065,CAUSES,SF3B1 wt Allele,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3470196,C0011065,CAUSES,EVA1C gene,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3538683,C0699900,CAUSES,LGALS1 wt Allele,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3538708,C0005615,CAUSES,GZMB wt Allele,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3540595,C0011065,CAUSES,CD8A wt Allele,Cessation of life,aapp,orgf,2,CAUSES_AAPPcausORGF
+C3540595,C0043240,CAUSES,CD8A wt Allele,Wound Healing,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3540595,C1819447,CAUSES,CD8A wt Allele,interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3540815,C1516559,CAUSES,NSMAF wt Allele,Circulatory Process,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3541895,C1819440,CAUSES,FCGR1A wt Allele,interleukin-13 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3642279,C0699900,CAUSES,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3658243,C1155328,CAUSES,"Spike Glycoprotein, Coronavirus",Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3710914,C0699900,CAUSES,"EIF2AK2 protein, human",Catabolism,aapp,orgf,3,CAUSES_AAPPcausORGF
+C3710914,C1155328,CAUSES,"EIF2AK2 protein, human",Antiviral Response,aapp,orgf,2,CAUSES_AAPPcausORGF
+C3711684,C0020967,CAUSES,"S protein, severe acute respiratory syndrome coronavirus",Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3812695,C0003622,CAUSES,LPAR3 wt Allele,Appetite Regulation,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3814443,C1155328,CAUSES,DUSP5 wt Allele,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3816168,C0005615,CAUSES,B-Cell Receptor Complex,Birth,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3816168,C0301875,CAUSES,B-Cell Receptor Complex,Primary immune response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3849574,C1819437,CAUSES,"EPHB2 protein, human",interleukin-10 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3849701,C0011065,CAUSES,"interleukin 18 protein, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3849701,C1749719,CAUSES,"interleukin 18 protein, human",Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3884535,C0011065,CAUSES,"AREG protein, human",Cessation of life,aapp,orgf,3,CAUSES_AAPPcausORGF
+C3887583,C0011065,CAUSES,"CD40 Ligand, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3887583,C0678723,CAUSES,"CD40 Ligand, human",Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3887583,C1160185,CAUSES,"CD40 Ligand, human",transduction,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3887624,C0020967,CAUSES,Human Neprilysin,Humoral Immunity,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3887647,C1819464,CAUSES,"Lymphotoxin-Alpha, human",tumor necrosis factor production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3887674,C0011065,CAUSES,V(D)J Recombination-Activating Protein 1,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3887958,C0011065,CAUSES,"Indoleamine 2,3-Dioxygenase, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3889386,C0699900,CAUSES,SLC1A5 wt Allele,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3889630,C0003618,CAUSES,"Pro-Opiomelanocortin, human",Desire for food,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3889630,C0013470,CAUSES,"Pro-Opiomelanocortin, human",Eating,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3890018,C1819461,CAUSES,HSP90B2P wt Allele,interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3890397,C0011065,CAUSES,PRKAA1 wt Allele,Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3891304,C1819431,CAUSES,"Cathelicidin LL-37, human",interferon-alpha production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C3891560,C1155328,CAUSES,Alarmins,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4038479,C0699900,CAUSES,HLA class I,Catabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4048280,C0011065,CAUSES,"T-Cell Surface Glycoprotein CD4, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4048280,C0599615,CAUSES,"T-Cell Surface Glycoprotein CD4, human",virus development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4048280,C0699900,CAUSES,"T-Cell Surface Glycoprotein CD4, human",Catabolism,aapp,orgf,2,CAUSES_AAPPcausORGF
+C4048280,C1654934,CAUSES,"T-Cell Surface Glycoprotein CD4, human",Immune Evasion,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4048280,C1749719,CAUSES,"T-Cell Surface Glycoprotein CD4, human",Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4048280,C1819447,CAUSES,"T-Cell Surface Glycoprotein CD4, human",interleukin-2 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4048302,C0678723,CAUSES,"T-Lymphocyte Activation Antigen CD80, human",Biologic Development,aapp,orgf,3,CAUSES_AAPPcausORGF
+C4049595,C1749719,CAUSES,HLA Complex,Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4084937,C0678723,CAUSES,Antimicrobial Peptide,Biologic Development,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4281807,C0011065,CAUSES,"Vitronectin, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4281807,C1819461,CAUSES,"Vitronectin, human",interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4282114,C0011065,CAUSES,"Bcl-2-Like Protein 11, human",Cessation of life,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4317106,C1749719,CAUSES,"Zinc Finger FYVE Domain-Containing Protein 9, human",Adaptive Immune Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4321235,C0011065,CAUSES,OCA2 wt Allele,Cessation of life,aapp,orgf,5,CAUSES_AAPPcausORGF
+C4321235,C0025519,CAUSES,OCA2 wt Allele,Metabolism,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4321497,C1155328,CAUSES,Human Anti-Idiotype Antibody,Antiviral Response,aapp,orgf,1,CAUSES_AAPPcausORGF
+C4521302,C1819461,CAUSES,"Angiotensin-1, human",interleukin-8 production,aapp,orgf,1,CAUSES_AAPPcausORGF

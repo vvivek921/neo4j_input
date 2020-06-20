@@ -1,0 +1,225 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C0017262,AFFECTS,Alternative Splicing,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0002345,C0040649,AFFECTS,Alternative Splicing,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C0002345,C1148846,AFFECTS,Alternative Splicing,RNA Binding,genf,genf,1,AFFECTS_GENFafctGENF
+C0002345,C1749524,AFFECTS,Alternative Splicing,mRNA processing,genf,genf,1,AFFECTS_GENFafctGENF
+C0012899,C0017262,AFFECTS,DNA Repair,Gene Expression,genf,genf,2,AFFECTS_GENFafctGENF
+C0012899,C0040649,AFFECTS,DNA Repair,"Transcription, Genetic",genf,genf,3,AFFECTS_GENFafctGENF
+C0012899,C1155299,AFFECTS,DNA Repair,Telomere Maintenance,genf,genf,1,AFFECTS_GENFafctGENF
+C0012899,C1156189,AFFECTS,DNA Repair,nucleosome assembly,genf,genf,1,AFFECTS_GENFafctGENF
+C0017260,C1158817,AFFECTS,Gene Deletion,viral transcription,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C0017263,AFFECTS,Gene Expression,Gene Expression Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C0020202,AFFECTS,Gene Expression,Crossbreeding,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C0032529,AFFECTS,Gene Expression,Genetic Polymorphism,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C0040649,AFFECTS,Gene Expression,"Transcription, Genetic",genf,genf,3,AFFECTS_GENFafctGENF
+C0017262,C0314627,AFFECTS,Gene Expression,Gene function,genf,genf,2,AFFECTS_GENFafctGENF
+C0017262,C1136031,AFFECTS,Gene Expression,RNA Interference,genf,genf,2,AFFECTS_GENFafctGENF
+C0017262,C1158817,AFFECTS,Gene Expression,viral transcription,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C1257759,AFFECTS,Gene Expression,mRNA Degradation,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C1511695,AFFECTS,Gene Expression,DNA Sequence Rearrangement,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C1519614,AFFECTS,Gene Expression,Genetic Translation Process,genf,genf,2,AFFECTS_GENFafctGENF
+C0017262,C1519619,AFFECTS,Gene Expression,Translational Repression,genf,genf,1,AFFECTS_GENFafctGENF
+C0017262,C3155686,AFFECTS,Gene Expression,mRNA destabilization,genf,genf,1,AFFECTS_GENFafctGENF
+C0017263,C0017262,AFFECTS,Gene Expression Regulation,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0017263,C0040649,AFFECTS,Gene Expression Regulation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C0017263,C1155299,AFFECTS,Gene Expression Regulation,Telomere Maintenance,genf,genf,1,AFFECTS_GENFafctGENF
+C0017287,C0282572,AFFECTS,Gene Rearrangement,"Frameshifting, Ribosomal",genf,genf,1,AFFECTS_GENFafctGENF
+C0020202,C0017262,AFFECTS,Crossbreeding,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0020202,C1514664,AFFECTS,Crossbreeding,RNA Folding,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C0017263,AFFECTS,Mutation,Gene Expression Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C0034865,AFFECTS,Mutation,"Recombination, Genetic",genf,genf,3,AFFECTS_GENFafctGENF
+C0026882,C0040649,AFFECTS,Mutation,"Transcription, Genetic",genf,genf,6,AFFECTS_GENFafctGENF
+C0026882,C0162493,AFFECTS,Mutation,Transcriptional Activation,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C0282572,AFFECTS,Mutation,"Frameshifting, Ribosomal",genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C0314627,AFFECTS,Mutation,Gene function,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C0525038,AFFECTS,Mutation,Amino Acid Substitution,genf,genf,3,AFFECTS_GENFafctGENF
+C0026882,C0598312,AFFECTS,Mutation,DNA Replication,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C0599155,AFFECTS,Mutation,Missense Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1148809,AFFECTS,Mutation,endoribonuclease activity,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1148846,AFFECTS,Mutation,RNA Binding,genf,genf,11,AFFECTS_GENFafctGENF
+C0026882,C1148901,AFFECTS,Mutation,tRNA binding,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1152412,AFFECTS,Mutation,RNA-directed RNA polymerase activity,genf,genf,2,AFFECTS_GENFafctGENF
+C0026882,C1156152,AFFECTS,Mutation,rRNA processing,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1158013,AFFECTS,Mutation,Nonsense Mediated mRNA Decay,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1158728,AFFECTS,Mutation,RNA Processing,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1158756,AFFECTS,Mutation,rRNA modification,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1328949,AFFECTS,Mutation,RNA replication,genf,genf,3,AFFECTS_GENFafctGENF
+C0026882,C1514664,AFFECTS,Mutation,RNA Folding,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1514849,AFFECTS,Mutation,Replication-Associated Process,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1515669,AFFECTS,Mutation,mRNA Export,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1622984,AFFECTS,Mutation,mRNA synthesis,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1622990,AFFECTS,Mutation,pre-mRNA splicing,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C1749527,AFFECTS,Mutation,translational readthrough,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C2247938,AFFECTS,Mutation,RNA chaperone,genf,genf,1,AFFECTS_GENFafctGENF
+C0026882,C2610186,AFFECTS,Mutation,"nuclear mRNA cis splicing, via spliceosome",genf,genf,2,AFFECTS_GENFafctGENF
+C0032529,C0017262,AFFECTS,Genetic Polymorphism,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0032529,C0040649,AFFECTS,Genetic Polymorphism,"Transcription, Genetic",genf,genf,2,AFFECTS_GENFafctGENF
+C0032529,C0597360,AFFECTS,Genetic Polymorphism,receptor expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0032529,C1158770,AFFECTS,Genetic Polymorphism,Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C0032529,C1515670,AFFECTS,Genetic Polymorphism,mRNA Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0034865,C0017256,AFFECTS,"Recombination, Genetic",Gene Amplification,genf,genf,1,AFFECTS_GENFafctGENF
+C0034865,C0017259,AFFECTS,"Recombination, Genetic",Gene Conversion,genf,genf,1,AFFECTS_GENFafctGENF
+C0034865,C0017261,AFFECTS,"Recombination, Genetic",Gene Duplication,genf,genf,1,AFFECTS_GENFafctGENF
+C0034865,C0017262,AFFECTS,"Recombination, Genetic",Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0034865,C0026882,AFFECTS,"Recombination, Genetic",Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C0034865,C0596611,AFFECTS,"Recombination, Genetic",Gene Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C0035380,C1158770,AFFECTS,Reverse Transcription,Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C0035687,C1514248,AFFECTS,RNA Splicing,Post-Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C0035687,C2610186,AFFECTS,RNA Splicing,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C0012899,AFFECTS,"Transcription, Genetic",DNA Repair,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C0017262,AFFECTS,"Transcription, Genetic",Gene Expression,genf,genf,14,AFFECTS_GENFafctGENF
+C0040649,C0598312,AFFECTS,"Transcription, Genetic",DNA Replication,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C0683143,AFFECTS,"Transcription, Genetic",RNA metabolic process,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C1148673,AFFECTS,"Transcription, Genetic",dna binding,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C1156189,AFFECTS,"Transcription, Genetic",nucleosome assembly,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C1156210,AFFECTS,"Transcription, Genetic",chromatin remodeling,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C1171362,AFFECTS,"Transcription, Genetic",protein expression,genf,genf,2,AFFECTS_GENFafctGENF
+C0040649,C1328949,AFFECTS,"Transcription, Genetic",RNA replication,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C1519614,AFFECTS,"Transcription, Genetic",Genetic Translation Process,genf,genf,1,AFFECTS_GENFafctGENF
+C0040649,C2610186,AFFECTS,"Transcription, Genetic","nuclear mRNA cis splicing, via spliceosome",genf,genf,1,AFFECTS_GENFafctGENF
+C0079868,C0017255,AFFECTS,"Mutagenesis, Insertional",Gene Activation,genf,genf,1,AFFECTS_GENFafctGENF
+C0079868,C1136031,AFFECTS,"Mutagenesis, Insertional",RNA Interference,genf,genf,1,AFFECTS_GENFafctGENF
+C0079870,C0314627,AFFECTS,"Mutagenesis, Site-Directed",Gene function,genf,genf,1,AFFECTS_GENFafctGENF
+C0162493,C0017262,AFFECTS,Transcriptional Activation,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0162493,C0040649,AFFECTS,Transcriptional Activation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C0162493,C1148673,AFFECTS,Transcriptional Activation,dna binding,genf,genf,1,AFFECTS_GENFafctGENF
+C0242614,C0035687,AFFECTS,Genomic Imprinting,RNA Splicing,genf,genf,1,AFFECTS_GENFafctGENF
+C0242614,C1519614,AFFECTS,Genomic Imprinting,Genetic Translation Process,genf,genf,1,AFFECTS_GENFafctGENF
+C0282572,C0017262,AFFECTS,"Frameshifting, Ribosomal",Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0282572,C1257759,AFFECTS,"Frameshifting, Ribosomal",mRNA Degradation,genf,genf,1,AFFECTS_GENFafctGENF
+C0282572,C1519614,AFFECTS,"Frameshifting, Ribosomal",Genetic Translation Process,genf,genf,2,AFFECTS_GENFafctGENF
+C0314627,C0017262,AFFECTS,Gene function,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0525038,C0026882,AFFECTS,Amino Acid Substitution,Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C0525038,C1149627,AFFECTS,Amino Acid Substitution,helicase activity,genf,genf,1,AFFECTS_GENFafctGENF
+C0525038,C1152412,AFFECTS,Amino Acid Substitution,RNA-directed RNA polymerase activity,genf,genf,1,AFFECTS_GENFafctGENF
+C0525038,C2611689,AFFECTS,Amino Acid Substitution,mRNA methylation,genf,genf,1,AFFECTS_GENFafctGENF
+C0598312,C0026882,AFFECTS,DNA Replication,Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C0598312,C0040649,AFFECTS,DNA Replication,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C0598312,C1156189,AFFECTS,DNA Replication,nucleosome assembly,genf,genf,1,AFFECTS_GENFafctGENF
+C0598494,C1158817,AFFECTS,derepression,viral transcription,genf,genf,1,AFFECTS_GENFafctGENF
+C0598496,C0314627,AFFECTS,Gene Silencing,Gene function,genf,genf,1,AFFECTS_GENFafctGENF
+C0598496,C1136031,AFFECTS,Gene Silencing,RNA Interference,genf,genf,1,AFFECTS_GENFafctGENF
+C0598496,C1519619,AFFECTS,Gene Silencing,Translational Repression,genf,genf,1,AFFECTS_GENFafctGENF
+C0599155,C0020202,AFFECTS,Missense Mutation,Crossbreeding,genf,genf,1,AFFECTS_GENFafctGENF
+C0599155,C1148672,AFFECTS,Missense Mutation,Nucleic Acid Binding,genf,genf,1,AFFECTS_GENFafctGENF
+C0599155,C1519619,AFFECTS,Missense Mutation,Translational Repression,genf,genf,1,AFFECTS_GENFafctGENF
+C0599773,C0026882,AFFECTS,Homologous Recombination,Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C0599945,C0040649,AFFECTS,antitermination,"Transcription, Genetic",genf,genf,2,AFFECTS_GENFafctGENF
+C0678935,C0040649,AFFECTS,RNA translation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C0678939,C0017262,AFFECTS,spontaneous mutation,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C0678945,C0036576,AFFECTS,polygene,Genetic Selection,genf,genf,1,AFFECTS_GENFafctGENF
+C0678952,C0678945,AFFECTS,Selective Breeding,polygene,genf,genf,1,AFFECTS_GENFafctGENF
+C1136031,C0017262,AFFECTS,RNA Interference,Gene Expression,genf,genf,18,AFFECTS_GENFafctGENF
+C1136031,C0040649,AFFECTS,RNA Interference,"Transcription, Genetic",genf,genf,2,AFFECTS_GENFafctGENF
+C1136031,C0598496,AFFECTS,RNA Interference,Gene Silencing,genf,genf,18,AFFECTS_GENFafctGENF
+C1136031,C1156210,AFFECTS,RNA Interference,chromatin remodeling,genf,genf,1,AFFECTS_GENFafctGENF
+C1136031,C1158728,AFFECTS,RNA Interference,RNA Processing,genf,genf,1,AFFECTS_GENFafctGENF
+C1136031,C1171362,AFFECTS,RNA Interference,protein expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1136031,C1328949,AFFECTS,RNA Interference,RNA replication,genf,genf,1,AFFECTS_GENFafctGENF
+C1136031,C1621524,AFFECTS,RNA Interference,heterochromatin assembly,genf,genf,1,AFFECTS_GENFafctGENF
+C1148673,C0017262,AFFECTS,dna binding,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1148673,C0683143,AFFECTS,dna binding,RNA metabolic process,genf,genf,2,AFFECTS_GENFafctGENF
+C1148759,C0040649,AFFECTS,transcription factor activity,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1148759,C0683143,AFFECTS,transcription factor activity,RNA metabolic process,genf,genf,2,AFFECTS_GENFafctGENF
+C1148807,C2610186,AFFECTS,endonuclease activity,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,AFFECTS_GENFafctGENF
+C1148813,C0040649,AFFECTS,ribonuclease H activity,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1148813,C0598312,AFFECTS,ribonuclease H activity,DNA Replication,genf,genf,1,AFFECTS_GENFafctGENF
+C1148846,C0086934,AFFECTS,RNA Binding,"RNA, Messenger, Splicing",genf,genf,1,AFFECTS_GENFafctGENF
+C1148846,C1152412,AFFECTS,RNA Binding,RNA-directed RNA polymerase activity,genf,genf,1,AFFECTS_GENFafctGENF
+C1148846,C1328949,AFFECTS,RNA Binding,RNA replication,genf,genf,1,AFFECTS_GENFafctGENF
+C1148851,C1152412,AFFECTS,double-stranded RNA binding,RNA-directed RNA polymerase activity,genf,genf,1,AFFECTS_GENFafctGENF
+C1149367,C0040649,AFFECTS,transcription factor binding,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1149372,C0040649,AFFECTS,cAMP response element binding protein binding activity,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1149627,C0040649,AFFECTS,helicase activity,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1149627,C1328949,AFFECTS,helicase activity,RNA replication,genf,genf,1,AFFECTS_GENFafctGENF
+C1149630,C0034865,AFFECTS,NAD-dependent histone deacetylase activity,"Recombination, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1152411,C0040649,AFFECTS,RNA-directed DNA polymerase activity,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1152412,C0026882,AFFECTS,RNA-directed RNA polymerase activity,Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C1152412,C0034865,AFFECTS,RNA-directed RNA polymerase activity,"Recombination, Genetic",genf,genf,2,AFFECTS_GENFafctGENF
+C1152412,C1136031,AFFECTS,RNA-directed RNA polymerase activity,RNA Interference,genf,genf,1,AFFECTS_GENFafctGENF
+C1152412,C1148846,AFFECTS,RNA-directed RNA polymerase activity,RNA Binding,genf,genf,1,AFFECTS_GENFafctGENF
+C1152412,C1328949,AFFECTS,RNA-directed RNA polymerase activity,RNA replication,genf,genf,2,AFFECTS_GENFafctGENF
+C1152412,C1511695,AFFECTS,RNA-directed RNA polymerase activity,DNA Sequence Rearrangement,genf,genf,1,AFFECTS_GENFafctGENF
+C1152412,C1624027,AFFECTS,RNA-directed RNA polymerase activity,RNA stabilization,genf,genf,1,AFFECTS_GENFafctGENF
+C1152412,C2257075,AFFECTS,RNA-directed RNA polymerase activity,RNA polymerase II activity,genf,genf,1,AFFECTS_GENFafctGENF
+C1152516,C0040649,AFFECTS,tRNA 2'-phosphotransferase activity,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1152516,C2610186,AFFECTS,tRNA 2'-phosphotransferase activity,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,AFFECTS_GENFafctGENF
+C1155299,C0040649,AFFECTS,Telomere Maintenance,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1155650,C0040649,AFFECTS,Replication Initiation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1156187,C0017262,AFFECTS,chromatin organization,Gene Expression,genf,genf,2,AFFECTS_GENFafctGENF
+C1156187,C0598175,AFFECTS,chromatin organization,Chromosome Segregation,genf,genf,1,AFFECTS_GENFafctGENF
+C1156187,C0598312,AFFECTS,chromatin organization,DNA Replication,genf,genf,1,AFFECTS_GENFafctGENF
+C1156187,C1516924,AFFECTS,chromatin organization,Epigenetic Process,genf,genf,1,AFFECTS_GENFafctGENF
+C1156210,C0017262,AFFECTS,chromatin remodeling,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1156212,C0598496,AFFECTS,chromatin silencing,Gene Silencing,genf,genf,1,AFFECTS_GENFafctGENF
+C1157546,C1171362,AFFECTS,translational attenuation,protein expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1158013,C0017262,AFFECTS,Nonsense Mediated mRNA Decay,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1158013,C0282572,AFFECTS,Nonsense Mediated mRNA Decay,"Frameshifting, Ribosomal",genf,genf,1,AFFECTS_GENFafctGENF
+C1158013,C1155661,AFFECTS,Nonsense Mediated mRNA Decay,Mismatch Repair,genf,genf,1,AFFECTS_GENFafctGENF
+C1158013,C1257759,AFFECTS,Nonsense Mediated mRNA Decay,mRNA Degradation,genf,genf,1,AFFECTS_GENFafctGENF
+C1158723,C0040649,AFFECTS,mRNA metabolic process,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1158728,C0017262,AFFECTS,RNA Processing,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1158728,C0040649,AFFECTS,RNA Processing,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1158728,C1156210,AFFECTS,RNA Processing,chromatin remodeling,genf,genf,1,AFFECTS_GENFafctGENF
+C1158728,C1158770,AFFECTS,RNA Processing,Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C1158744,C0017262,AFFECTS,RNA modification,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1158744,C0017263,AFFECTS,RNA modification,Gene Expression Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C1158744,C0683143,AFFECTS,RNA modification,RNA metabolic process,genf,genf,1,AFFECTS_GENFafctGENF
+C1158816,C1136031,AFFECTS,mRNA transcription,RNA Interference,genf,genf,1,AFFECTS_GENFafctGENF
+C1158817,C1156210,AFFECTS,viral transcription,chromatin remodeling,genf,genf,1,AFFECTS_GENFafctGENF
+C1158830,C1155650,AFFECTS,Transcription Initiation,Replication Initiation,genf,genf,1,AFFECTS_GENFafctGENF
+C1158830,C1749524,AFFECTS,Transcription Initiation,mRNA processing,genf,genf,2,AFFECTS_GENFafctGENF
+C1171362,C0040649,AFFECTS,protein expression,"Transcription, Genetic",genf,genf,2,AFFECTS_GENFafctGENF
+C1171362,C1519614,AFFECTS,protein expression,Genetic Translation Process,genf,genf,1,AFFECTS_GENFafctGENF
+C1257756,C0017262,AFFECTS,RNA Degradation,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1257756,C0017263,AFFECTS,RNA Degradation,Gene Expression Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C1257756,C1158728,AFFECTS,RNA Degradation,RNA Processing,genf,genf,1,AFFECTS_GENFafctGENF
+C1257758,C1519614,AFFECTS,mRNA Decay,Genetic Translation Process,genf,genf,2,AFFECTS_GENFafctGENF
+C1257759,C0017262,AFFECTS,mRNA Degradation,Gene Expression,genf,genf,4,AFFECTS_GENFafctGENF
+C1257759,C0040649,AFFECTS,mRNA Degradation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1257759,C0598496,AFFECTS,mRNA Degradation,Gene Silencing,genf,genf,1,AFFECTS_GENFafctGENF
+C1257759,C1158770,AFFECTS,mRNA Degradation,Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C1257825,C0017262,AFFECTS,Genomic Stability,Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1327001,C0040649,AFFECTS,Transfer RNA Aminoacylation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C0034865,AFFECTS,RNA replication,"Recombination, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C0035687,AFFECTS,RNA replication,RNA Splicing,genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C0678935,AFFECTS,RNA replication,RNA translation,genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C1136031,AFFECTS,RNA replication,RNA Interference,genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C1514248,AFFECTS,RNA replication,Post-Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C1514849,AFFECTS,RNA replication,Replication-Associated Process,genf,genf,1,AFFECTS_GENFafctGENF
+C1328949,C1749527,AFFECTS,RNA replication,translational readthrough,genf,genf,1,AFFECTS_GENFafctGENF
+C1511695,C0026882,AFFECTS,DNA Sequence Rearrangement,Mutation,genf,genf,1,AFFECTS_GENFafctGENF
+C1511695,C1171362,AFFECTS,DNA Sequence Rearrangement,protein expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1512554,C0598496,AFFECTS,Hypermethylation,Gene Silencing,genf,genf,2,AFFECTS_GENFafctGENF
+C1514248,C0040649,AFFECTS,Post-Transcriptional Regulation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1514248,C0162493,AFFECTS,Post-Transcriptional Regulation,Transcriptional Activation,genf,genf,1,AFFECTS_GENFafctGENF
+C1514248,C1519614,AFFECTS,Post-Transcriptional Regulation,Genetic Translation Process,genf,genf,2,AFFECTS_GENFafctGENF
+C1514665,C0034865,AFFECTS,RNA Interference Pathway,"Recombination, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1514925,C1511695,AFFECTS,Retrotransposition,DNA Sequence Rearrangement,genf,genf,1,AFFECTS_GENFafctGENF
+C1515670,C0040649,AFFECTS,mRNA Expression,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1515670,C0162493,AFFECTS,mRNA Expression,Transcriptional Activation,genf,genf,1,AFFECTS_GENFafctGENF
+C1516924,C0017262,AFFECTS,Epigenetic Process,Gene Expression,genf,genf,6,AFFECTS_GENFafctGENF
+C1516924,C0040649,AFFECTS,Epigenetic Process,"Transcription, Genetic",genf,genf,3,AFFECTS_GENFafctGENF
+C1516924,C0314627,AFFECTS,Epigenetic Process,Gene function,genf,genf,1,AFFECTS_GENFafctGENF
+C1516924,C1519614,AFFECTS,Epigenetic Process,Genetic Translation Process,genf,genf,1,AFFECTS_GENFafctGENF
+C1519323,C0040649,AFFECTS,Silent Mutation,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1519613,C1519614,AFFECTS,Translation Initiation,Genetic Translation Process,genf,genf,1,AFFECTS_GENFafctGENF
+C1519614,C0017262,AFFECTS,Genetic Translation Process,Gene Expression,genf,genf,2,AFFECTS_GENFafctGENF
+C1519619,C0017262,AFFECTS,Translational Repression,Gene Expression,genf,genf,2,AFFECTS_GENFafctGENF
+C1519619,C1257759,AFFECTS,Translational Repression,mRNA Degradation,genf,genf,1,AFFECTS_GENFafctGENF
+C1519619,C3155686,AFFECTS,Translational Repression,mRNA destabilization,genf,genf,1,AFFECTS_GENFafctGENF
+C1622990,C0002345,AFFECTS,pre-mRNA splicing,Alternative Splicing,genf,genf,2,AFFECTS_GENFafctGENF
+C1623415,C0040649,AFFECTS,RNA chemical synthesis,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C1749524,C0683143,AFFECTS,mRNA processing,RNA metabolic process,genf,genf,1,AFFECTS_GENFafctGENF
+C1749524,C1171362,AFFECTS,mRNA processing,protein expression,genf,genf,1,AFFECTS_GENFafctGENF
+C1749524,C1622445,AFFECTS,mRNA processing,rRNA synthesis,genf,genf,1,AFFECTS_GENFafctGENF
+C1956002,C0598496,AFFECTS,INDEL Mutation,Gene Silencing,genf,genf,1,AFFECTS_GENFafctGENF
+C2247938,C0034865,AFFECTS,RNA chaperone,"Recombination, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C2260797,C1171362,AFFECTS,RNase activity,protein expression,genf,genf,1,AFFECTS_GENFafctGENF
+C2260797,C2610186,AFFECTS,RNase activity,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,AFFECTS_GENFafctGENF
+C2260797,C3158377,AFFECTS,RNase activity,mRNA splicing via endonucleolytic cleavage and ligation involved in unfolded protein response,genf,genf,1,AFFECTS_GENFafctGENF
+C2610186,C0017262,AFFECTS,"nuclear mRNA cis splicing, via spliceosome",Gene Expression,genf,genf,3,AFFECTS_GENFafctGENF
+C2613367,C0017255,AFFECTS,Hypomethylation,Gene Activation,genf,genf,1,AFFECTS_GENFafctGENF
+C2752607,C0040649,AFFECTS,G-quadruplex RNA binding,"Transcription, Genetic",genf,genf,1,AFFECTS_GENFafctGENF
+C3494209,C0017262,AFFECTS,"Transcription Termination, Genetic",Gene Expression,genf,genf,1,AFFECTS_GENFafctGENF
+C3494434,C1158770,AFFECTS,Epigenetic Repression,Transcriptional Regulation,genf,genf,1,AFFECTS_GENFafctGENF

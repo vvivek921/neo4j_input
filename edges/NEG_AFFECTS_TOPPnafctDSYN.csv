@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007430,C0042029,NEG_AFFECTS,Catheterization,Urinary tract infection,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0007876,C1849718,NEG_AFFECTS,Cesarean section,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0009429,C0024530,NEG_AFFECTS,Combined Modality Therapy,Malaria,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0011209,C1849718,NEG_AFFECTS,Obstetric Delivery,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0013216,C0277556,NEG_AFFECTS,Pharmacotherapy,Recurrent disease,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0015357,C0035222,NEG_AFFECTS,Extracorporeal Membrane Oxygenation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0015357,C0043167,NEG_AFFECTS,Extracorporeal Membrane Oxygenation,Pertussis,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0017296,C0001175,NEG_AFFECTS,gene therapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0017296,C0016627,NEG_AFFECTS,gene therapy,Influenza in Birds,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0017296,C0027983,NEG_AFFECTS,gene therapy,Newcastle Disease,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0017296,C0158947,NEG_AFFECTS,gene therapy,Omphalitis of the newborn,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0017296,C0275522,NEG_AFFECTS,gene therapy,Asymptomatic Infections,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0017296,C1175175,NEG_AFFECTS,gene therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0020971,C0025007,NEG_AFFECTS,Immunization,Measles,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0021079,C0034069,NEG_AFFECTS,Therapeutic immunosuppression,Pulmonary Fibrosis,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0021107,C0042769,NEG_AFFECTS,Implantation procedure,Virus Diseases,topp,dsyn,3,NEG_AFFECTS_TOPPnafctDSYN
+C0021107,C0940933,NEG_AFFECTS,Implantation procedure,infection as a complication,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0021932,C1145670,NEG_AFFECTS,"Intubation, Intratracheal",Respiratory Failure,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0032042,C0011881,NEG_AFFECTS,Placebos,Diabetic Nephropathy,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0032740,C0006271,NEG_AFFECTS,Positive End-Expiratory Pressure,Bronchiolitis,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0032740,C0035222,NEG_AFFECTS,Positive End-Expiratory Pressure,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0038638,C0006271,NEG_AFFECTS,Suction drainage,Bronchiolitis,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0040808,C0339901,NEG_AFFECTS,Treatment Protocols,Acute respiratory infections,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0042196,C0016627,NEG_AFFECTS,Vaccination,Influenza in Birds,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0042196,C0032285,NEG_AFFECTS,Vaccination,Pneumonia,topp,dsyn,2,NEG_AFFECTS_TOPPnafctDSYN
+C0042196,C0206750,NEG_AFFECTS,Vaccination,Coronavirus Infections,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0042196,C0740304,NEG_AFFECTS,Vaccination,copd exacerbation,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0042196,C0748168,NEG_AFFECTS,Vaccination,Pulmonary Pathology,topp,dsyn,2,NEG_AFFECTS_TOPPnafctDSYN
+C0042203,C0004096,NEG_AFFECTS,Pertussis vaccination,Asthma,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0185115,C0266789,NEG_AFFECTS,Extraction,Velamentous insertion of umbilical cord (disorder),topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0199176,C0037354,NEG_AFFECTS,Prophylactic treatment,Smallpox,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0199779,C0006271,NEG_AFFECTS,Administration of antibiotic,Bronchiolitis,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0199779,C0021400,NEG_AFFECTS,Administration of antibiotic,Influenza,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0199779,C0022658,NEG_AFFECTS,Administration of antibiotic,Kidney Diseases,topp,dsyn,2,NEG_AFFECTS_TOPPnafctDSYN
+C0199779,C0035204,NEG_AFFECTS,Administration of antibiotic,Respiration Disorders,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0279027,C0343641,NEG_AFFECTS,"Laser Therapy, Low-Level",Human papilloma virus infection,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0280274,C0021400,NEG_AFFECTS,Antiviral Therapy,Influenza,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0280440,C0022521,NEG_AFFECTS,catheter management,Kartagener Syndrome,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0282402,C0008679,NEG_AFFECTS,Hormone replacement therapy,Chronic disease,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0282402,C0741923,NEG_AFFECTS,Hormone replacement therapy,cardiac event,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0338237,C0271429,NEG_AFFECTS,Antibiotic therapy,Acute otitis media,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0547070,C0023374,NEG_AFFECTS,Ablation,Lesch-Nyhan Syndrome,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0600080,C3887654,NEG_AFFECTS,Stretching exercises,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0813207,C0013570,NEG_AFFECTS,Creation of shunt,"Ecthyma, Contagious",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C0920425,C0730328,NEG_AFFECTS,cancer therapy,Central Serous Chorioretinopathy,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1278454,C0035222,NEG_AFFECTS,Statin prophylaxis,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1511790,C0004096,NEG_AFFECTS,Detection,Asthma,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1511790,C0014038,NEG_AFFECTS,Detection,Encephalitis,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1511790,C0023530,NEG_AFFECTS,Detection,Leukopenia,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1511790,C0024312,NEG_AFFECTS,Detection,Lymphopenia,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1511790,C0029342,NEG_AFFECTS,Detection,Orthomyxoviridae Infections,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1511790,C0032285,NEG_AFFECTS,Detection,Pneumonia,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C1541822,C1849718,NEG_AFFECTS,Vaginal delivery procedure,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C2827774,C0021400,NEG_AFFECTS,Current Therapy,Influenza,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C3540512,C0007682,NEG_AFFECTS,Circumferential Supracrestal Fiberotomy,CNS disorder,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C3540512,C0019348,NEG_AFFECTS,Circumferential Supracrestal Fiberotomy,Herpes Simplex Infections,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C3714568,C0035204,NEG_AFFECTS,Aerosol therapy,Respiration Disorders,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN
+C3871222,C0277556,NEG_AFFECTS,Radiation treatment,Recurrent disease,topp,dsyn,1,NEG_AFFECTS_TOPPnafctDSYN

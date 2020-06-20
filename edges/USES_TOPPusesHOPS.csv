@@ -1,0 +1,60 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0006463,USES,"Administration, Oral",Busulfan,topp,hops,1,USES_TOPPusesHOPS
+C0001563,C0043031,USES,"Administration, Oral",Warfarin,topp,hops,2,USES_TOPPusesHOPS
+C0001566,C0040845,USES,"Administration, Topical",Tretinoin,topp,hops,1,USES_TOPPusesHOPS
+C0002766,C0002771,USES,Pain management,Analgesics,topp,hops,3,USES_TOPPusesHOPS
+C0002766,C0011892,USES,Pain management,Heroin,topp,hops,1,USES_TOPPusesHOPS
+C0002766,C0027415,USES,Pain management,Narcotics,topp,hops,1,USES_TOPPusesHOPS
+C0002766,C0242402,USES,Pain management,Opioids,topp,hops,2,USES_TOPPusesHOPS
+C0002766,C0376196,USES,Pain management,Opiates,topp,hops,2,USES_TOPPusesHOPS
+C0002903,C0242402,USES,Anesthesia procedures,Opioids,topp,hops,1,USES_TOPPusesHOPS
+C0003281,C0043031,USES,Anticoagulation Therapy,Warfarin,topp,hops,2,USES_TOPPusesHOPS
+C0004933,C0006463,USES,Behavior Therapy,Busulfan,topp,hops,2,USES_TOPPusesHOPS
+C0009429,C0004482,USES,Combined Modality Therapy,Azathioprine,topp,hops,1,USES_TOPPusesHOPS
+C0009429,C0043031,USES,Combined Modality Therapy,Warfarin,topp,hops,1,USES_TOPPusesHOPS
+C0013216,C0002073,USES,Pharmacotherapy,Alkylating Agents,topp,hops,1,USES_TOPPusesHOPS
+C0013216,C0025033,USES,Pharmacotherapy,Mechlorethamine,topp,hops,1,USES_TOPPusesHOPS
+C0013216,C0040845,USES,Pharmacotherapy,Tretinoin,topp,hops,1,USES_TOPPusesHOPS
+C0013216,C0699996,USES,Pharmacotherapy,Leukeran,topp,hops,1,USES_TOPPusesHOPS
+C0013931,C0949307,USES,"Embolization, Therapeutic",Formalin,topp,hops,1,USES_TOPPusesHOPS
+C0020548,C0032334,USES,Induced Hyperthermia,podofilox,topp,hops,1,USES_TOPPusesHOPS
+C0020971,C0006506,USES,Immunization,Butylated Hydroxyanisole,topp,hops,1,USES_TOPPusesHOPS
+C0021485,C0016564,USES,Injection of therapeutic agent,Formaldehyde,topp,hops,1,USES_TOPPusesHOPS
+C0021485,C0027415,USES,Injection of therapeutic agent,Narcotics,topp,hops,1,USES_TOPPusesHOPS
+C0021485,C0949307,USES,Injection of therapeutic agent,Formalin,topp,hops,1,USES_TOPPusesHOPS
+C0036589,C0011892,USES,Self Administration,Heroin,topp,hops,9,USES_TOPPusesHOPS
+C0036589,C0242402,USES,Self Administration,Opioids,topp,hops,6,USES_TOPPusesHOPS
+C0040732,C0039533,USES,Transplantation,Triethylenephosphoramide,topp,hops,1,USES_TOPPusesHOPS
+C0040732,C0039871,USES,Transplantation,Thiotepa,topp,hops,1,USES_TOPPusesHOPS
+C0040808,C0002771,USES,Treatment Protocols,Analgesics,topp,hops,1,USES_TOPPusesHOPS
+C0040808,C0006463,USES,Treatment Protocols,Busulfan,topp,hops,2,USES_TOPPusesHOPS
+C0042196,C0040845,USES,Vaccination,Tretinoin,topp,hops,1,USES_TOPPusesHOPS
+C0042196,C0949307,USES,Vaccination,Formalin,topp,hops,1,USES_TOPPusesHOPS
+C0078944,C0242402,USES,Patient-Controlled Analgesia,Opioids,topp,hops,2,USES_TOPPusesHOPS
+C0150234,C0949307,USES,Fever treatment,Formalin,topp,hops,1,USES_TOPPusesHOPS
+C0152060,C0032334,USES,Transection (procedure),podofilox,topp,hops,2,USES_TOPPusesHOPS
+C0152060,C0949307,USES,Transection (procedure),Formalin,topp,hops,1,USES_TOPPusesHOPS
+C0185115,C0025748,USES,Extraction,methylene chloride,topp,hops,5,USES_TOPPusesHOPS
+C0204727,C0065839,USES,Isolation procedure,mecarzole,topp,hops,1,USES_TOPPusesHOPS
+C0281375,C0040845,USES,differentiation therapy,Tretinoin,topp,hops,2,USES_TOPPusesHOPS
+C0348007,C0016564,USES,Laser ablation,Formaldehyde,topp,hops,1,USES_TOPPusesHOPS
+C0374505,C0002771,USES,Group Therapies,Analgesics,topp,hops,1,USES_TOPPusesHOPS
+C0376450,C0006463,USES,Transplantation Conditioning,Busulfan,topp,hops,4,USES_TOPPusesHOPS
+C0392920,C0006463,USES,Chemotherapy Regimen,Busulfan,topp,hops,1,USES_TOPPusesHOPS
+C0392920,C0039871,USES,Chemotherapy Regimen,Thiotepa,topp,hops,1,USES_TOPPusesHOPS
+C0557959,C0019453,USES,Search procedure,Altretamine,topp,hops,1,USES_TOPPusesHOPS
+C0677908,C0004482,USES,Maintenance therapy,Azathioprine,topp,hops,3,USES_TOPPusesHOPS
+C0677908,C0242402,USES,Maintenance therapy,Opioids,topp,hops,1,USES_TOPPusesHOPS
+C0947647,C0376196,USES,Manipulation procedure,Opiates,topp,hops,2,USES_TOPPusesHOPS
+C1171175,C0242402,USES,Acute pain control,Opioids,topp,hops,1,USES_TOPPusesHOPS
+C1303150,C0242402,USES,Disease management program (regime/therapy),Opioids,topp,hops,2,USES_TOPPusesHOPS
+C1511790,C0016564,USES,Detection,Formaldehyde,topp,hops,4,USES_TOPPusesHOPS
+C1511790,C0019453,USES,Detection,Altretamine,topp,hops,1,USES_TOPPusesHOPS
+C1512429,C0039871,USES,High-Dose Chemotherapy with Autologous Stem Cell Transplant,Thiotepa,topp,hops,1,USES_TOPPusesHOPS
+C1517925,C0025033,USES,Local Therapy,Mechlorethamine,topp,hops,1,USES_TOPPusesHOPS
+C2347900,C0004482,USES,Rechallenge,Azathioprine,topp,hops,1,USES_TOPPusesHOPS
+C2347900,C0040845,USES,Rechallenge,Tretinoin,topp,hops,1,USES_TOPPusesHOPS
+C2368628,C0011892,USES,Vaccine Administration,Heroin,topp,hops,2,USES_TOPPusesHOPS
+C3843422,C0242402,USES,Abstinence,Opioids,topp,hops,1,USES_TOPPusesHOPS
+C3858690,C0002771,USES,adjunctive treatment,Analgesics,topp,hops,1,USES_TOPPusesHOPS
+C4319756,C0006463,USES,Myeloablative Conditioning,Busulfan,topp,hops,3,USES_TOPPusesHOPS

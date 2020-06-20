@@ -1,0 +1,120 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0002092,STIMULATES,Immunologic Adjuvants,Allergens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C0003320,STIMULATES,Immunologic Adjuvants,Antigens,imft,imft,3,STIMULATES_IMFTstimIMFT
+C0001551,C0021403,STIMULATES,Immunologic Adjuvants,Influenza virus vaccine,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C0022144,STIMULATES,Immunologic Adjuvants,Isoantibodies,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C0042210,STIMULATES,Immunologic Adjuvants,Vaccines,imft,imft,23,STIMULATES_IMFTstimIMFT
+C0001551,C0042211,STIMULATES,Immunologic Adjuvants,"Vaccines, Attenuated",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C0042212,STIMULATES,Immunologic Adjuvants,"Vaccines, Inactivated",imft,imft,2,STIMULATES_IMFTstimIMFT
+C0001551,C0376613,STIMULATES,Immunologic Adjuvants,"Vaccines, DNA",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C0887892,STIMULATES,Immunologic Adjuvants,"Vaccines, Subunit",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C1519887,STIMULATES,Immunologic Adjuvants,Vaccine Antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0001551,C2825347,STIMULATES,Immunologic Adjuvants,"Immunoglobulin A, Human",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0002131,C0022144,STIMULATES,Alloantigens,Isoantibodies,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0003316,C0003320,STIMULATES,Epitopes,Antigens,imft,imft,3,STIMULATES_IMFTstimIMFT
+C0003316,C0042210,STIMULATES,Epitopes,Vaccines,imft,imft,13,STIMULATES_IMFTstimIMFT
+C0003316,C0042212,STIMULATES,Epitopes,"Vaccines, Inactivated",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003316,C0042742,STIMULATES,Epitopes,Viral Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003316,C0079600,STIMULATES,Epitopes,Immunodominant Epitopes,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0003316,C0282581,STIMULATES,Epitopes,"Epitopes, B-Lymphocyte",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003316,C0282681,STIMULATES,Epitopes,Enhancing Antibodies,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0003316,C0376613,STIMULATES,Epitopes,"Vaccines, DNA",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003316,C0599934,STIMULATES,Epitopes,"Vaccines, Peptide",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003316,C1291777,STIMULATES,Epitopes,Protein antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003316,C2986386,STIMULATES,Epitopes,Virus-neutralizing Antibody,imft,imft,9,STIMULATES_IMFTstimIMFT
+C0003320,C0003316,STIMULATES,Antigens,Epitopes,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0003320,C0004359,STIMULATES,Antigens,Autoantigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003320,C0042210,STIMULATES,Antigens,Vaccines,imft,imft,8,STIMULATES_IMFTstimIMFT
+C0003320,C0042211,STIMULATES,Antigens,"Vaccines, Attenuated",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003320,C0074480,STIMULATES,Antigens,sialosyl-Tn antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003320,C0103647,STIMULATES,Antigens,Antineutrophil Cytoplasmic Antibodies,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003320,C0376613,STIMULATES,Antigens,"Vaccines, DNA",imft,imft,3,STIMULATES_IMFTstimIMFT
+C0003320,C0456981,STIMULATES,Antigens,Specific antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003320,C1519887,STIMULATES,Antigens,Vaccine Antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003320,C2825347,STIMULATES,Antigens,"Immunoglobulin A, Human",imft,imft,9,STIMULATES_IMFTstimIMFT
+C0003320,C2986386,STIMULATES,Antigens,Virus-neutralizing Antibody,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0003331,C0003320,STIMULATES,"Antigens, Helminth",Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003342,C0042742,STIMULATES,"Antigens, Viral",Viral Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003342,C0376613,STIMULATES,"Antigens, Viral","Vaccines, DNA",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003342,C2986386,STIMULATES,"Antigens, Viral",Virus-neutralizing Antibody,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0003445,C3495466,STIMULATES,Antitoxins,Toxoid Vaccine,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0004632,C0042210,STIMULATES,Bacterial Vaccines,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0004886,C0887892,STIMULATES,BCG Vaccine,"Vaccines, Subunit",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0016712,C0003320,STIMULATES,Freund's Adjuvant,Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0018909,C0042210,STIMULATES,Hemagglutinin,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0018911,C0018909,STIMULATES,"Hemagglutinins, Viral",Hemagglutinin,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0019166,C0019168,STIMULATES,Hepatitis B Core Antigen,Hepatitis B Surface Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0019167,C0019168,STIMULATES,Hepatitis B e Antigens,Hepatitis B Surface Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0019168,C0003320,STIMULATES,Hepatitis B Surface Antigens,Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0021403,C0001551,STIMULATES,Influenza virus vaccine,Immunologic Adjuvants,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0021403,C0042210,STIMULATES,Influenza virus vaccine,Vaccines,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0023158,C0456981,STIMULATES,Lymphocyte antigen,Specific antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0040555,C0003445,STIMULATES,Toxoids,Antitoxins,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0001551,STIMULATES,Vaccines,Immunologic Adjuvants,imft,imft,5,STIMULATES_IMFTstimIMFT
+C0042210,C0003316,STIMULATES,Vaccines,Epitopes,imft,imft,3,STIMULATES_IMFTstimIMFT
+C0042210,C0003320,STIMULATES,Vaccines,Antigens,imft,imft,15,STIMULATES_IMFTstimIMFT
+C0042210,C0003333,STIMULATES,Vaccines,"Antigens, Heterophile",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0021403,STIMULATES,Vaccines,Influenza virus vaccine,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0022144,STIMULATES,Vaccines,Isoantibodies,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042210,C0032375,STIMULATES,Vaccines,Oral Poliovirus Vaccine,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0037355,STIMULATES,Vaccines,Smallpox Vaccine,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0042211,STIMULATES,Vaccines,"Vaccines, Attenuated",imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042210,C0042212,STIMULATES,Vaccines,"Vaccines, Inactivated",imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042210,C0282580,STIMULATES,Vaccines,"Epitopes, T-Lymphocyte",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0282681,STIMULATES,Vaccines,Enhancing Antibodies,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0368675,STIMULATES,Vaccines,antibody antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C0376613,STIMULATES,Vaccines,"Vaccines, DNA",imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042210,C0456981,STIMULATES,Vaccines,Specific antigen,imft,imft,6,STIMULATES_IMFTstimIMFT
+C0042210,C0599597,STIMULATES,Vaccines,genetic vaccine,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042210,C1291802,STIMULATES,Vaccines,"Human immunodeficiency virus, type I glycoprotein antigen 120",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C1305958,STIMULATES,Vaccines,Agglutinating antibody,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042210,C2825347,STIMULATES,Vaccines,"Immunoglobulin A, Human",imft,imft,10,STIMULATES_IMFTstimIMFT
+C0042210,C2986386,STIMULATES,Vaccines,Virus-neutralizing Antibody,imft,imft,13,STIMULATES_IMFTstimIMFT
+C0042211,C0001551,STIMULATES,"Vaccines, Attenuated",Immunologic Adjuvants,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042211,C0003320,STIMULATES,"Vaccines, Attenuated",Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042211,C0042210,STIMULATES,"Vaccines, Attenuated",Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042211,C0042212,STIMULATES,"Vaccines, Attenuated","Vaccines, Inactivated",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042211,C2825347,STIMULATES,"Vaccines, Attenuated","Immunoglobulin A, Human",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042212,C0042210,STIMULATES,"Vaccines, Inactivated",Vaccines,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042212,C0042211,STIMULATES,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042212,C0376613,STIMULATES,"Vaccines, Inactivated","Vaccines, DNA",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0042742,C0042210,STIMULATES,Viral Vaccines,Vaccines,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0042742,C1291777,STIMULATES,Viral Vaccines,Protein antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0085408,C0042210,STIMULATES,ISCOMs,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0085408,C1519887,STIMULATES,ISCOMs,Vaccine Antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0086413,C0282681,STIMULATES,HIV Vaccine,Enhancing Antibodies,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0178489,C0042210,STIMULATES,attenuated microorganism,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0282580,C0003316,STIMULATES,"Epitopes, T-Lymphocyte",Epitopes,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0282580,C0042210,STIMULATES,"Epitopes, T-Lymphocyte",Vaccines,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0282581,C0003316,STIMULATES,"Epitopes, B-Lymphocyte",Epitopes,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0282581,C2986386,STIMULATES,"Epitopes, B-Lymphocyte",Virus-neutralizing Antibody,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0301837,C2825347,STIMULATES,Particulate antigen,"Immunoglobulin A, Human",imft,imft,1,STIMULATES_IMFTstimIMFT
+C0301838,C2825347,STIMULATES,Soluble antigen,"Immunoglobulin A, Human",imft,imft,2,STIMULATES_IMFTstimIMFT
+C0312555,C1291777,STIMULATES,Neoantigen,Protein antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0369498,C0042210,STIMULATES,HIV-1 antigen,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0376613,C0003320,STIMULATES,"Vaccines, DNA",Antigens,imft,imft,5,STIMULATES_IMFTstimIMFT
+C0376613,C0042210,STIMULATES,"Vaccines, DNA",Vaccines,imft,imft,2,STIMULATES_IMFTstimIMFT
+C0376613,C0599597,STIMULATES,"Vaccines, DNA",genetic vaccine,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0376613,C1291777,STIMULATES,"Vaccines, DNA",Protein antigen,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0443758,C0003320,STIMULATES,Carbohydrate antigen,Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0770694,C0001551,STIMULATES,trivalent influenza vaccine,Immunologic Adjuvants,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0887892,C0001551,STIMULATES,"Vaccines, Subunit",Immunologic Adjuvants,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0887892,C0042210,STIMULATES,"Vaccines, Subunit",Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0887902,C0003320,STIMULATES,"Vaccines, Edible",Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C0887902,C2986386,STIMULATES,"Vaccines, Edible",Virus-neutralizing Antibody,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1291777,C2986386,STIMULATES,Protein antigen,Virus-neutralizing Antibody,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1291802,C1440710,STIMULATES,"Human immunodeficiency virus, type I glycoprotein antigen 120",HIV 1 gp41,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1291802,C2825347,STIMULATES,"Human immunodeficiency virus, type I glycoprotein antigen 120","Immunoglobulin A, Human",imft,imft,1,STIMULATES_IMFTstimIMFT
+C1440044,C0042210,STIMULATES,"A,B",Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1456404,C2825347,STIMULATES,Trivalent Live Attenuated Influenza Vaccine,"Immunoglobulin A, Human",imft,imft,1,STIMULATES_IMFTstimIMFT
+C1519887,C0003320,STIMULATES,Vaccine Antigen,Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1519887,C0022144,STIMULATES,Vaccine Antigen,Isoantibodies,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1519887,C0042210,STIMULATES,Vaccine Antigen,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1519887,C2986386,STIMULATES,Vaccine Antigen,Virus-neutralizing Antibody,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1567994,C0003316,STIMULATES,"Antigens, Plant",Epitopes,imft,imft,1,STIMULATES_IMFTstimIMFT
+C1706452,C0003320,STIMULATES,Stem cell product,Antigens,imft,imft,1,STIMULATES_IMFTstimIMFT
+C2825347,C0003320,STIMULATES,"Immunoglobulin A, Human",Antigens,imft,imft,6,STIMULATES_IMFTstimIMFT
+C2825347,C0042211,STIMULATES,"Immunoglobulin A, Human","Vaccines, Attenuated",imft,imft,1,STIMULATES_IMFTstimIMFT
+C3161957,C0042210,STIMULATES,INFLUENZA strains,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C3272757,C0042210,STIMULATES,Live Attenuated Influenza Vaccine,Vaccines,imft,imft,1,STIMULATES_IMFTstimIMFT
+C3272757,C0042212,STIMULATES,Live Attenuated Influenza Vaccine,"Vaccines, Inactivated",imft,imft,1,STIMULATES_IMFTstimIMFT

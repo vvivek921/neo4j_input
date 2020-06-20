@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001873,C0392355,ISA,Air Pollution,Pollution,eehu,eehu,2,ISA_EEHUisaEEHU
+C0014419,C0392355,ISA,Environmental Pollution,Pollution,eehu,eehu,1,ISA_EEHUisaEEHU
+C0017095,C0392355,ISA,Garbage,Pollution,eehu,eehu,1,ISA_EEHUisaEEHU
+C0036861,C0392355,ISA,Sewage,Pollution,eehu,eehu,18,ISA_EEHUisaEEHU
+C0037370,C0683932,ISA,"Smoking, Passive",atmospheric pollution,eehu,eehu,1,ISA_EEHUisaEEHU
+C0043056,C0014419,ISA,Water Pollution,Environmental Pollution,eehu,eehu,1,ISA_EEHUisaEEHU
+C0043056,C0392355,ISA,Water Pollution,Pollution,eehu,eehu,1,ISA_EEHUisaEEHU
+C0085420,C0001873,ISA,"Air Pollution, Indoor",Air Pollution,eehu,eehu,1,ISA_EEHUisaEEHU
+C0282346,C0036861,ISA,Environmental sludge,Sewage,eehu,eehu,5,ISA_EEHUisaEEHU
+C0814839,C0392355,ISA,indoor pollution,Pollution,eehu,eehu,1,ISA_EEHUisaEEHU

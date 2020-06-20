@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001963,C0003320,INHIBITS,Methanol,Antigens,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0001963,C0003342,INHIBITS,Methanol,"Antigens, Viral",hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0001963,C1518416,INHIBITS,Methanol,Normal Horse Serum,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0008238,C0042210,INHIBITS,Chloroform,Vaccines,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0016564,C0003320,INHIBITS,Formaldehyde,Antigens,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0016564,C0042210,INHIBITS,Formaldehyde,Vaccines,hops,imft,2,INHIBITS_HOPSinhbIMFT
+C0016564,C0042742,INHIBITS,Formaldehyde,Viral Vaccines,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0026955,C0042210,INHIBITS,Mycotoxins,Vaccines,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0033472,C0018909,INHIBITS,Propiolactone,Hemagglutinin,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0033472,C0042212,INHIBITS,Propiolactone,"Vaccines, Inactivated",hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0040845,C0599796,INHIBITS,Tretinoin,mhc antigen,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0949307,C0003320,INHIBITS,Formalin,Antigens,hops,imft,2,INHIBITS_HOPSinhbIMFT
+C0949307,C0040555,INHIBITS,Formalin,Toxoids,hops,imft,1,INHIBITS_HOPSinhbIMFT
+C0949307,C0042210,INHIBITS,Formalin,Vaccines,hops,imft,8,INHIBITS_HOPSinhbIMFT
+C0949307,C0042742,INHIBITS,Formalin,Viral Vaccines,hops,imft,2,INHIBITS_HOPSinhbIMFT
+C0949307,C0887894,INHIBITS,Formalin,Respiratory Syncytial Virus Vaccines,hops,imft,8,INHIBITS_HOPSinhbIMFT
+C0949307,C2240392,INHIBITS,Formalin,Hepatitis B Vaccines,hops,imft,1,INHIBITS_HOPSinhbIMFT

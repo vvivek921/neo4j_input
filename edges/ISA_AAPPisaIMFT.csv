@@ -1,0 +1,326 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001060,C0001551,ISA,Acetylmuramyl-Alanyl-Isoglutamine,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0002199,C0001551,ISA,Interferon-alpha,Immunologic Adjuvants,aapp,imft,3,ISA_AAPPisaIMFT
+C0002199,C0005525,ISA,Interferon-alpha,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0003241,C0003320,ISA,Antibodies,Antigens,aapp,imft,123,ISA_AAPPisaIMFT
+C0003241,C0021054,ISA,Antibodies,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0003242,C0003320,ISA,"Antibodies, Anti-Idiotypic",Antigens,aapp,imft,5,ISA_AAPPisaIMFT
+C0003250,C0003320,ISA,Monoclonal Antibodies,Antigens,aapp,imft,29,ISA_AAPPisaIMFT
+C0003313,C0003320,ISA,Immune complex,Antigens,aapp,imft,7,ISA_AAPPisaIMFT
+C0003343,C0003320,ISA,Viral Tumor Antigens,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0003343,C0003335,ISA,Viral Tumor Antigens,"Antigens, Neoplasm",aapp,imft,2,ISA_AAPPisaIMFT
+C0003369,C0021081,ISA,Antilymphocyte Antibodies,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C0003370,C0021081,ISA,Antilymphocyte Globulin,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C0003442,C0021081,ISA,"Lymphocyte Immune Globulin, Anti-Thymocyte Globulin",Immunosuppressive Agents,aapp,imft,3,ISA_AAPPisaIMFT
+C0004358,C0003320,ISA,Autoantibodies,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0006611,C0003341,ISA,Mucin-1 Antigen,"Antigens, Tumor-Associated, Carbohydrate",aapp,imft,1,ISA_AAPPisaIMFT
+C0007082,C0003320,ISA,Carcinoembryonic Antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0007578,C0003320,ISA,Cell Adhesion Molecules,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0008169,C0003320,ISA,Chloramphenicol O-Acetyltransferase,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0008356,C0001551,ISA,Cholera Toxin,Immunologic Adjuvants,aapp,imft,23,ISA_AAPPisaIMFT
+C0008357,C0001551,ISA,Choleragenoid,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0009498,C0021054,ISA,Complement System Proteins,Immunologic Factors,aapp,imft,2,ISA_AAPPisaIMFT
+C0009630,C0001804,ISA,Concanavalin A,Agglutinins,aapp,imft,2,ISA_AAPPisaIMFT
+C0010592,C0005525,ISA,Cyclosporine,Biological Response Modifiers,aapp,imft,2,ISA_AAPPisaIMFT
+C0010592,C0021081,ISA,Cyclosporine,Immunosuppressive Agents,aapp,imft,42,ISA_AAPPisaIMFT
+C0010803,C0003320,ISA,Cytokeratin,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0012551,C0003320,ISA,"diphtheria toxoid vaccine, inactivated",Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0012551,C0040555,ISA,"diphtheria toxoid vaccine, inactivated",Toxoids,aapp,imft,3,ISA_AAPPisaIMFT
+C0015980,C0001551,ISA,Interferon-beta,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0019629,C0003320,ISA,Histocompatibility Antigens Class I,Antigens,aapp,imft,16,ISA_AAPPisaIMFT
+C0019630,C0003320,ISA,Histocompatibility Antigens Class II,Antigens,aapp,imft,12,ISA_AAPPisaIMFT
+C0019630,C0003339,ISA,Histocompatibility Antigens Class II,Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0019686,C0003320,ISA,HIV Antigens,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0019721,C0003320,ISA,HLA Antigens,Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0019822,C0003320,ISA,HN Protein,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0020835,C0021054,ISA,Immunoglobulin A,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0020835,C0456981,ISA,Immunoglobulin A,Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C0020838,C0003320,ISA,Secretory Immunoglobulin A,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0020838,C0456981,ISA,Secretory Immunoglobulin A,Specific antigen,aapp,imft,15,ISA_AAPPisaIMFT
+C0020846,C0003320,ISA,Immunoglobulin E,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0020857,C0003320,ISA,IgG2A,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0020857,C0456981,ISA,IgG2A,Specific antigen,aapp,imft,4,ISA_AAPPisaIMFT
+C0020960,C0003320,ISA,Immune Sera,Antigens,aapp,imft,6,ISA_AAPPisaIMFT
+C0021013,C0003316,ISA,Immunoglobulin Idiotypes,Epitopes,aapp,imft,2,ISA_AAPPisaIMFT
+C0021013,C0003320,ISA,Immunoglobulin Idiotypes,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0021017,C0003320,ISA,Immunoglobulin Isotypes,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0021027,C0003320,ISA,Immunoglobulins,Antigens,aapp,imft,5,ISA_AAPPisaIMFT
+C0021027,C0021054,ISA,Immunoglobulins,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0021027,C0456981,ISA,Immunoglobulins,Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C0021031,C0003320,ISA,Fab Immunoglobulins,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0021031,C0021009,ISA,Fab Immunoglobulins,Immunoglobulin Fragments,aapp,imft,1,ISA_AAPPisaIMFT
+C0021038,C0456981,ISA,Immunoglobulin Light Chains,Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C0021740,C0079786,ISA,Recombinant Interferon-gamma,Macrophage-Activating Factors,aapp,imft,2,ISA_AAPPisaIMFT
+C0021743,C0001551,ISA,Interferon Type I,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0021747,C0001551,ISA,Interferons,Immunologic Adjuvants,aapp,imft,4,ISA_AAPPisaIMFT
+C0021747,C0005525,ISA,Interferons,Biological Response Modifiers,aapp,imft,2,ISA_AAPPisaIMFT
+C0021747,C0021054,ISA,Interferons,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0021753,C0001551,ISA,Interleukin-1 beta,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0021755,C0001551,ISA,Interleukin-1,Immunologic Adjuvants,aapp,imft,5,ISA_AAPPisaIMFT
+C0021755,C0005525,ISA,Interleukin-1,Biological Response Modifiers,aapp,imft,3,ISA_AAPPisaIMFT
+C0021755,C0021054,ISA,Interleukin-1,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0021755,C0026484,ISA,Interleukin-1,Monokines,aapp,imft,1,ISA_AAPPisaIMFT
+C0021756,C0001551,ISA,Interleukin-2,Immunologic Adjuvants,aapp,imft,4,ISA_AAPPisaIMFT
+C0021758,C0001551,ISA,Interleukin-4,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0021760,C0001551,ISA,Interleukin-6,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0021760,C0005525,ISA,Interleukin-6,Biological Response Modifiers,aapp,imft,4,ISA_AAPPisaIMFT
+C0023206,C0001804,ISA,Lectin,Agglutinins,aapp,imft,18,ISA_AAPPisaIMFT
+C0023206,C0003320,ISA,Lectin,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0023206,C0018909,ISA,Lectin,Hemagglutinin,aapp,imft,10,ISA_AAPPisaIMFT
+C0025234,C0002092,ISA,Melitten,Allergens,aapp,imft,1,ISA_AAPPisaIMFT
+C0029923,C1320239,ISA,Ovalbumin,Food allergen,aapp,imft,1,ISA_AAPPisaIMFT
+C0032936,C0003320,ISA,Precipitins,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0033453,C1305959,ISA,Complement Factor B,Complement factor,aapp,imft,1,ISA_AAPPisaIMFT
+C0033457,C1305959,ISA,COMPLEMENT FACTOR D,Complement factor,aapp,imft,1,ISA_AAPPisaIMFT
+C0034131,C0003320,ISA,Purified Protein Derivative of Tuberculin,Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0034789,C0003320,ISA,"Receptors, Antigen, B-Cell",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0034789,C0456981,ISA,"Receptors, Antigen, B-Cell",Specific antigen,aapp,imft,7,ISA_AAPPisaIMFT
+C0034862,C0003320,ISA,"Vaccines, Recombinant",Antigens,aapp,imft,15,ISA_AAPPisaIMFT
+C0034862,C0042210,ISA,"Vaccines, Recombinant",Vaccines,aapp,imft,24,ISA_AAPPisaIMFT
+C0035569,C0003320,ISA,Ricin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0035569,C0018909,ISA,Ricin,Hemagglutinin,aapp,imft,1,ISA_AAPPisaIMFT
+C0035923,C0042210,ISA,Rubella virus vaccine,Vaccines,aapp,imft,3,ISA_AAPPisaIMFT
+C0037511,C0003320,ISA,Sodium Glutamate,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0041289,C0003320,ISA,Tuberculin,Antigens,aapp,imft,5,ISA_AAPPisaIMFT
+C0041350,C0003320,ISA,Tuftsin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0041361,C0003320,ISA,Tumor Antigens,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0041361,C0003335,ISA,Tumor Antigens,"Antigens, Neoplasm",aapp,imft,1,ISA_AAPPisaIMFT
+C0041368,C0026484,ISA,Tumor Necrosis Factors,Monokines,aapp,imft,1,ISA_AAPPisaIMFT
+C0042213,C0042210,ISA,"Vaccines, Synthetic",Vaccines,aapp,imft,3,ISA_AAPPisaIMFT
+C0051962,C0003320,ISA,anthrax toxin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0051979,C0003320,ISA,anti-IgG,Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0054941,C0003320,ISA,"Antigens, CD1",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0054943,C0003320,ISA,ALANINE AMINOPEPTIDASE,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0054961,C0003320,ISA,CD45 Antigens,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0056182,C0003320,ISA,Complement 3b Receptor,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0056888,C0003320,ISA,cystic fibrosis serum factor,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0056889,C0003320,ISA,Cystic Fibrosis Transmembrane Conductance Regulator,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0057256,C0001551,ISA,Defensins,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0057256,C0005525,ISA,Defensins,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0059385,C0003320,ISA,Staphylococcal enterotoxin A,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0059386,C0003320,ISA,"enterotoxin B, staphylococcal",Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0059485,C0003320,ISA,Epstein-Barr virus early antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0060142,C0003320,ISA,feline oncornavirus-associated cell membrane antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0062044,C0003320,ISA,"H antigen, bacterial",Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0062154,C0003320,ISA,hemagglutinin esterase,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0063256,C0003339,ISA,I-E-antigen,Surface Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0063355,C0003320,ISA,IgY,Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0063355,C0456981,ISA,IgY,Specific antigen,aapp,imft,3,ISA_AAPPisaIMFT
+C0063695,C0003320,ISA,Intercellular adhesion molecule 1,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0063695,C0023158,ISA,Intercellular adhesion molecule 1,Lymphocyte antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C0064133,C0001804,ISA,jacalin,Agglutinins,aapp,imft,1,ISA_AAPPisaIMFT
+C0064208,C0003320,ISA,K99 antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0064332,C0001551,ISA,keyhole-limpet hemocyanin,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0064755,C0001804,ISA,lentil lectin,Agglutinins,aapp,imft,3,ISA_AAPPisaIMFT
+C0065082,C0003320,ISA,"hlyA protein, Listeria monocytogenes",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0065684,C0003320,ISA,mannose receptor,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0065693,C0001804,ISA,Mannose-Binding Lectins,Agglutinins,aapp,imft,1,ISA_AAPPisaIMFT
+C0067710,C0001804,ISA,"Receptors, N-Acetylglucosamine",Agglutinins,aapp,imft,1,ISA_AAPPisaIMFT
+C0067757,C0001551,ISA,N-acetylmuramyl-alanylglutamine-n-butyl ester,Immunologic Adjuvants,aapp,imft,5,ISA_AAPPisaIMFT
+C0069426,C0003320,ISA,Oligoclonal Bands (protein),Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0069426,C0456981,ISA,Oligoclonal Bands (protein),Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C0070198,C0001804,ISA,Peanut Agglutinin,Agglutinins,aapp,imft,2,ISA_AAPPisaIMFT
+C0071313,C0003320,ISA,"plY protein, Streptococcus pneumoniae",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0072108,C0003320,ISA,Proliferating Cell Nuclear Antigen,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0074011,C0001804,ISA,Sambucus nigra lectins,Agglutinins,aapp,imft,5,ISA_AAPPisaIMFT
+C0074712,C0001804,ISA,snowdrop lectin,Agglutinins,aapp,imft,5,ISA_AAPPisaIMFT
+C0075260,C0001804,ISA,stinging nettle lectin,Agglutinins,aapp,imft,3,ISA_AAPPisaIMFT
+C0076570,C0003339,ISA,Thy-1 Antigens,Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0079189,C0021054,ISA,cytokine,Immunologic Factors,aapp,imft,3,ISA_AAPPisaIMFT
+C0079459,C0005525,ISA,Granulocyte Colony-Stimulating Factor,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0079460,C0001551,ISA,Granulocyte-Macrophage Colony-Stimulating Factor,Immunologic Adjuvants,aapp,imft,5,ISA_AAPPisaIMFT
+C0079633,C0001551,ISA,Interleukin-8,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0079633,C0005525,ISA,Interleukin-8,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0079717,C0003320,ISA,Lymphocyte Function-Associated Antigen-1,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0079785,C0003339,ISA,Macrophage-1 Antigen,Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0080225,C0001551,ISA,Thymopentin,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0081583,C0103647,ISA,cytoplasmic antineutrophil cytoplasmic antibody,Antineutrophil Cytoplasmic Antibodies,aapp,imft,3,ISA_AAPPisaIMFT
+C0084785,C0003320,ISA,thyroid transcription factor 1,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0085295,C0021054,ISA,Interleukin-10,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0085379,C0003320,ISA,Muromonab-CD3,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0085379,C0021081,ISA,Muromonab-CD3,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C0090425,C0003320,ISA,Mycobacterium tuberculosis antigens,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0103404,C0003320,ISA,Annexin A2,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0104230,C0003320,ISA,Arrestin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0105042,C0003320,ISA,Anthrax toxin edema factor,Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0108187,C0003320,ISA,Calnexin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0111208,C0003320,ISA,cytotoxic T-lymphocyte antigen 4,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0116078,C0042210,ISA,Engerix-B,Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C0116078,C2240392,ISA,Engerix-B,Hepatitis B Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0121517,C0042210,ISA,Heptavax B,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0121563,C0042210,ISA,Hevac B,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0122040,C0003320,ISA,HLA-DRB1 antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0122040,C0312653,ISA,HLA-DRB1 antigen,HLA class II antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C0123759,C0001551,ISA,Interleukin-12,Immunologic Adjuvants,aapp,imft,7,ISA_AAPPisaIMFT
+C0123759,C0005525,ISA,Interleukin-12,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0126722,C0003320,ISA,Mac-3,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0129341,C0001551,ISA,muramyl tripeptide phosphatidylethanolamine,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0133821,C0003320,ISA,Oligoclonal IgG,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0134596,C0103647,ISA,p-ANCA,Antineutrophil Cytoplasmic Antibodies,aapp,imft,4,ISA_AAPPisaIMFT
+C0138741,C0003320,ISA,Prostate-Specific Antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0140114,C0003320,ISA,Recombivax,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0140114,C0042210,ISA,Recombivax,Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C0140114,C2240392,ISA,Recombivax,Hepatitis B Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0140430,C0003320,ISA,Blood group antibody D,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0142251,C0003324,ISA,Sialic Acid Binding Ig-like Lectin 1,Differentiation Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0167627,C0021054,ISA,CD40 Ligand,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0169904,C0003320,ISA,Merozoite Surface Protein 1,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0172511,C0001551,ISA,interferon-alpha 8,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0206492,C0003320,ISA,"Antibodies, Bispecific",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0206527,C0003320,ISA,Superantigens,Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0236525,C0003320,ISA,Epstein-Barr virus antibody,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0243039,C0003320,ISA,Fimbrial Adhesins,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0243040,C0003320,ISA,"Adhesins, Bacterial",Antigens,aapp,imft,5,ISA_AAPPisaIMFT
+C0243040,C0003321,ISA,"Adhesins, Bacterial","Antigens, Bacterial",aapp,imft,2,ISA_AAPPisaIMFT
+C0245109,C0001551,ISA,anakinra,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0249989,C0001551,ISA,FLT3 ligand,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0253023,C0021054,ISA,Tumor Necrosis Factor Ligand Superfamily Member 6,Immunologic Factors,aapp,imft,1,ISA_AAPPisaIMFT
+C0254610,C0001551,ISA,Interleukin-15,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0254616,C0003320,ISA,integrin alpha1beta1,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0257766,C0003320,ISA,"SILV protein, human",Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0281722,C0003320,ISA,gp100 Antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0282651,C0003320,ISA,Selectins,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0282682,C0003320,ISA,"Antibodies, Blocking",Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0292161,C0001804,ISA,phloem lectin,Agglutinins,aapp,imft,1,ISA_AAPPisaIMFT
+C0301521,C0042210,ISA,therapeutic vaccine,Vaccines,aapp,imft,5,ISA_AAPPisaIMFT
+C0302050,C0003320,ISA,Antigen in Rh blood group system,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0304052,C0001804,ISA,Plant Lectins,Agglutinins,aapp,imft,1,ISA_AAPPisaIMFT
+C0304052,C0018909,ISA,Plant Lectins,Hemagglutinin,aapp,imft,1,ISA_AAPPisaIMFT
+C0305066,C0042210,ISA,Human rabies vaccines,Vaccines,aapp,imft,3,ISA_AAPPisaIMFT
+C0310672,C0042210,ISA,Bluetongue vaccine,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0310677,C0042210,ISA,Bovine respiratory syncytial virus vaccine,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0310699,C0042210,ISA,Canary pox vaccine,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0310703,C0042210,ISA,Canine distemper vaccine,Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C0310751,C0042210,ISA,Newcastle disease vaccine,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C0312586,C0003320,ISA,Polyclonal antibody,Antigens,aapp,imft,6,ISA_AAPPisaIMFT
+C0312631,C0003320,ISA,Antibody to hepatitis B core antigen,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0312631,C0019164,ISA,Antibody to hepatitis B core antigen,Hepatitis B Antibodies,aapp,imft,7,ISA_AAPPisaIMFT
+C0312634,C0003320,ISA,Antibody to hepatitis Be antigen,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0312905,C0003320,ISA,Blood group antigen C,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0358321,C0003320,ISA,Immune Globulin (Human),Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0358321,C0456981,ISA,Immune Globulin (Human),Specific antigen,aapp,imft,4,ISA_AAPPisaIMFT
+C0358334,C0003320,ISA,Specific immunoglobulins,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0359156,C0021081,ISA,Rabbit anti-human T-lymphocyte globulin,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C0359940,C0042210,ISA,Typhoid live oral vaccine,Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C0368721,C0003320,ISA,Blood group antigen B,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0369334,C0019164,ISA,Hepatitis B Virus Surface Antibody,Hepatitis B Antibodies,aapp,imft,1,ISA_AAPPisaIMFT
+C0369718,C0003320,ISA,N not otherwise specified Antibody,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0378248,C0041469,ISA,Typhim VI,"Vaccines, Typhoid",aapp,imft,1,ISA_AAPPisaIMFT
+C0378910,C0003324,ISA,Lymphocyte antigen CD66A,Differentiation Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0385333,C0003320,ISA,Cyclin B1,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0388561,C0003320,ISA,"MFGE8 protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0393022,C0001551,ISA,rituximab,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0393022,C0005525,ISA,rituximab,Biological Response Modifiers,aapp,imft,2,ISA_AAPPisaIMFT
+C0393022,C0021081,ISA,rituximab,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C0432616,C0003320,ISA,Blood group antibody A,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0432618,C0003320,ISA,Blood group antibody B,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0443640,C0003320,ISA,Specific antibody,Antigens,aapp,imft,11,ISA_AAPPisaIMFT
+C0443803,C0003320,ISA,e antigen,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0475463,C0003320,ISA,"Antibodies, Neutralizing",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0486729,C0003320,ISA,Ebolavirus antibody,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0487637,C0003320,ISA,T lymphocyte antigen,Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0530678,C0003339,ISA,thrombospondin 2,Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0596709,C0003320,ISA,HIV envelope protein,Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0597418,C0042210,ISA,Rotavirus Vaccines,Vaccines,aapp,imft,3,ISA_AAPPisaIMFT
+C0597418,C0042211,ISA,Rotavirus Vaccines,"Vaccines, Attenuated",aapp,imft,3,ISA_AAPPisaIMFT
+C0607430,C0003320,ISA,Galactose Binding Lectin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0611285,C0003320,ISA,"APP protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0663182,C0005525,ISA,Daclizumab,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0666743,C0005525,ISA,infliximab,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0666743,C0021081,ISA,infliximab,Immunosuppressive Agents,aapp,imft,2,ISA_AAPPisaIMFT
+C0673013,C0003320,ISA,"GPER protein, human",Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0675617,C0003320,ISA,"antigen 85A, Mycobacterium tuberculosis",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0676831,C0021081,ISA,basiliximab,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C0700271,C0003320,ISA,"M Protein, multiple myeloma",Antigens,aapp,imft,39,ISA_AAPPisaIMFT
+C0717758,C0005525,ISA,Etanercept,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C0717811,C0003320,ISA,Haemophilus B Conjugate Vaccine,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0721280,C0042210,ISA,LYMErix,Vaccines,aapp,imft,5,ISA_AAPPisaIMFT
+C0722529,C0206515,ISA,PedvaxHIB,"Vaccines, Conjugate",aapp,imft,1,ISA_AAPPisaIMFT
+C0729663,C0003320,ISA,Maternal antibody,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0732355,C0001551,ISA,Rituxan,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C0795677,C0003320,ISA,"von Willebrand factor, human",Antigens,aapp,imft,8,ISA_AAPPisaIMFT
+C0806041,C0003320,ISA,Epstein Barr virus capsid IgM,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0876134,C0042210,ISA,Prevnar,Vaccines,aapp,imft,3,ISA_AAPPisaIMFT
+C0876134,C0358314,ISA,Prevnar,Pneumococcal vaccine,aapp,imft,1,ISA_AAPPisaIMFT
+C0903677,C0003320,ISA,"TACSTD1 protein, human",Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C0913092,C0003320,ISA,DC-specific ICAM-3 grabbing nonintegrin,Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0914670,C0001551,ISA,CPG-oligonucleotide,Immunologic Adjuvants,aapp,imft,4,ISA_AAPPisaIMFT
+C0917719,C0003320,ISA,"gp120 protein, Human immunodeficiency virus 1",Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C0964782,C0003320,ISA,"lysozyme, chicken egg white",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C0971226,C0003320,ISA,EBV-encoded nuclear antigen 1,Antigens,aapp,imft,4,ISA_AAPPisaIMFT
+C0971226,C0069115,ISA,EBV-encoded nuclear antigen 1,"Antigens, Nuclear",aapp,imft,2,ISA_AAPPisaIMFT
+C1097299,C0003320,ISA,"CD44 protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1122087,C0005525,ISA,adalimumab,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C1172734,C0001551,ISA,natalizumab,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C1174995,C0001551,ISA,efalizumab,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C1275917,C0003320,ISA,Immunoglobulin G subclass,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1275917,C0456981,ISA,Immunoglobulin G subclass,Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C1330099,C0358297,ISA,Biothrax,Anthrax Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C1333737,C0003320,ISA,"GIT2 protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1367202,C0005525,ISA,ipilimumab,Biological Response Modifiers,aapp,imft,2,ISA_AAPPisaIMFT
+C1384573,C0003320,ISA,"FOLR1 protein, human",Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C1429589,C0003316,ISA,"FUT4 protein, human",Epitopes,aapp,imft,4,ISA_AAPPisaIMFT
+C1429589,C0005804,ISA,"FUT4 protein, human",Blood Group Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C1429589,C2350531,ISA,"FUT4 protein, human",Stage-Specific Embryonic Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1443846,C0042210,ISA,Anthrax toxin protective antigen,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C1447020,C0003324,ISA,"DPP4 protein, human",Differentiation Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C1447020,C0003339,ISA,"DPP4 protein, human",Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1448177,C0026484,ISA,"TNF protein, human",Monokines,aapp,imft,1,ISA_AAPPisaIMFT
+C1453722,C0003320,ISA,"TNFRSF1A protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1512511,C0042210,ISA,Human Papilloma Virus Vaccine,Vaccines,aapp,imft,4,ISA_AAPPisaIMFT
+C1527752,C0003320,ISA,"TNFRSF10B protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1529740,C0001551,ISA,Protollin,Immunologic Adjuvants,aapp,imft,2,ISA_AAPPisaIMFT
+C1552907,C0042210,ISA,Adenovirus Vaccine,Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C1566673,C0456981,ISA,Antibody Fragments,Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C1567781,C0003320,ISA,"MST1 protein, human",Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C1609165,C0001551,ISA,tocilizumab,Immunologic Adjuvants,aapp,imft,3,ISA_AAPPisaIMFT
+C1609165,C0021081,ISA,tocilizumab,Immunosuppressive Agents,aapp,imft,1,ISA_AAPPisaIMFT
+C1619966,C0005525,ISA,abatacept,Biological Response Modifiers,aapp,imft,1,ISA_AAPPisaIMFT
+C1624602,C0003320,ISA,Anti-Antibodies,Antigens,aapp,imft,5,ISA_AAPPisaIMFT
+C1700887,C0003324,ISA,"IL2RA protein, human",Differentiation Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1701032,C0003320,ISA,"ITGAM protein, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1701084,C0003320,ISA,"CD9 protein, human",Antigens,aapp,imft,100,ISA_AAPPisaIMFT
+C1701084,C0003339,ISA,"CD9 protein, human",Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1704265,C0003335,ISA,Epithelial Cell Adhesion Molecule,"Antigens, Neoplasm",aapp,imft,1,ISA_AAPPisaIMFT
+C1741222,C0003320,ISA,"HRP-2 antigen, Plasmodium falciparum",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C1832016,C0042210,ISA,L-BLP25,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C1870006,C0003324,ISA,"PTPRC protein, human",Differentiation Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C2047258,C0042210,ISA,"human papilloma virus vaccine, quadrivalent",Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C2353653,C0003320,ISA,"VP2 protein, porcine parvovirus",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C2608641,C0037355,ISA,ACAM2000,Smallpox Vaccine,aapp,imft,2,ISA_AAPPisaIMFT
+C2608641,C0042210,ISA,ACAM2000,Vaccines,aapp,imft,9,ISA_AAPPisaIMFT
+C2682870,C0042210,ISA,Ixiaro,Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C2702333,C0003320,ISA,"Immunoglobulin G, Human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C2702333,C0456981,ISA,"Immunoglobulin G, Human",Specific antigen,aapp,imft,2,ISA_AAPPisaIMFT
+C2742136,C0003339,ISA,"SELE protein, human",Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C2744535,C0003320,ISA,"CD69 protein, human",Antigens,aapp,imft,9,ISA_AAPPisaIMFT
+C2744535,C0018909,ISA,"CD69 protein, human",Hemagglutinin,aapp,imft,1,ISA_AAPPisaIMFT
+C3494234,C0003320,ISA,VHH Immunoglobulin Fragments,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3494234,C0456981,ISA,VHH Immunoglobulin Fragments,Specific antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C3542421,C0003320,ISA,"High Affinity Immunoglobulin Gamma Fc Receptor I, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3652557,C0042210,ISA,"influenza, inactivated, whole virus",Vaccines,aapp,imft,1,ISA_AAPPisaIMFT
+C3657270,C0001551,ISA,nivolumab,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C3710967,C0003320,ISA,"latent Orf73 antigen, human herpesvirus 8",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3849701,C0001551,ISA,"interleukin 18 protein, human",Immunologic Adjuvants,aapp,imft,2,ISA_AAPPisaIMFT
+C3859499,C0042210,ISA,Trumenba,Vaccines,aapp,imft,2,ISA_AAPPisaIMFT
+C3872092,C3179547,ISA,Cosentyx,secukinumab,aapp,imft,1,ISA_AAPPisaIMFT
+C3885145,C0001551,ISA,sarilumab,Immunologic Adjuvants,aapp,imft,1,ISA_AAPPisaIMFT
+C3887583,C0003324,ISA,"CD40 Ligand, human",Differentiation Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3887624,C0003320,ISA,Human Neprilysin,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3887681,C0003320,ISA,"Human B-Lymphocyte Antigen CD20, human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3887681,C0003324,ISA,"Human B-Lymphocyte Antigen CD20, human",Differentiation Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C3887822,C0003320,ISA,visilizumab,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C4048280,C0003320,ISA,"T-Cell Surface Glycoprotein CD4, human",Antigens,aapp,imft,6,ISA_AAPPisaIMFT
+C4048280,C0003339,ISA,"T-Cell Surface Glycoprotein CD4, human",Surface Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C4048280,C0023158,ISA,"T-Cell Surface Glycoprotein CD4, human",Lymphocyte antigen,aapp,imft,1,ISA_AAPPisaIMFT
+C4049595,C0003320,ISA,HLA Complex,Antigens,aapp,imft,5,ISA_AAPPisaIMFT
+C4049595,C0003339,ISA,HLA Complex,Surface Antigens,aapp,imft,2,ISA_AAPPisaIMFT
+C4049595,C0019628,ISA,HLA Complex,Histocompatibility Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C4082262,C0003320,ISA,"Integrin Alpha-X , human",Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C4281803,C0003339,ISA,"Tumor Necrosis Factor Receptor Superfamily Member 8, human",Surface Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C4281805,C0003324,ISA,"T-Cell-Specific Surface Glycoprotein CD28, human",Differentiation Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C4281806,C0003320,ISA,Neural Cell Adhesion Molecule 1,Antigens,aapp,imft,1,ISA_AAPPisaIMFT
+C4281807,C0003320,ISA,"Vitronectin, human",Antigens,aapp,imft,27,ISA_AAPPisaIMFT
+C4281807,C0003339,ISA,"Vitronectin, human",Surface Antigens,aapp,imft,3,ISA_AAPPisaIMFT
+C4287651,C0042210,ISA,Quadrivalent Inactivated Influenza Vaccine,Vaccines,aapp,imft,14,ISA_AAPPisaIMFT
+C4291400,C0008359,ISA,Vaxchora,Cholera Vaccine,aapp,imft,1,ISA_AAPPisaIMFT

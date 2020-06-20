@@ -1,0 +1,93 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004180,C0004178,ISA,Atmospheric Pressure,"Atmosphere, planetary",npop,npop,1,ISA_NPOPisaNPOP
+C0008946,C0004178,ISA,Climate,"Atmosphere, planetary",npop,npop,3,ISA_NPOPisaNPOP
+C0008946,C0043085,ISA,Climate,Weather,npop,npop,17,ISA_NPOPisaNPOP
+C0009264,C0043085,ISA,Cold Temperature,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0009267,C0043085,ISA,Cold Climate,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0012222,C2350458,ISA,Diffusion,Chemical Processes,npop,npop,1,ISA_NPOPisaNPOP
+C0013140,C0043085,ISA,Droughts,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0013790,C0336996,ISA,Electricity,Physical force,npop,npop,1,ISA_NPOPisaNPOP
+C0013790,C0678544,ISA,Electricity,wave - physical agent,npop,npop,1,ISA_NPOPisaNPOP
+C0016248,C0043085,ISA,Floods,Weather,npop,npop,2,ISA_NPOPisaNPOP
+C0016315,C0023693,ISA,Fluorescence,Light,npop,npop,3,ISA_NPOPisaNPOP
+C0016315,C1450275,ISA,Fluorescence,luminescence,npop,npop,6,ISA_NPOPisaNPOP
+C0016315,C2350474,ISA,Fluorescence,Optical Phenomena,npop,npop,2,ISA_NPOPisaNPOP
+C0016701,C0678568,ISA,Freezing,Cool - action,npop,npop,1,ISA_NPOPisaNPOP
+C0017011,C0034519,ISA,Gamma Rays,Electromagnetic Radiation,npop,npop,2,ISA_NPOPisaNPOP
+C0017011,C0034538,ISA,Gamma Rays,Ionizing radiation,npop,npop,3,ISA_NPOPisaNPOP
+C0020167,C0004178,ISA,Humidity,"Atmosphere, planetary",npop,npop,1,ISA_NPOPisaNPOP
+C0020167,C0008946,ISA,Humidity,Climate,npop,npop,4,ISA_NPOPisaNPOP
+C0020167,C0025594,ISA,Humidity,Meteorological Factors,npop,npop,3,ISA_NPOPisaNPOP
+C0020167,C0043085,ISA,Humidity,Weather,npop,npop,2,ISA_NPOPisaNPOP
+C0020183,C0043085,ISA,Hurricanes,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0020183,C0337000,ISA,Hurricanes,Cyclonic Storms,npop,npop,4,ISA_NPOPisaNPOP
+C0020276,C0596307,ISA,Hydrogen Bonding,chemical bonding,npop,npop,1,ISA_NPOPisaNPOP
+C0021431,C0034519,ISA,Infrared Rays,Electromagnetic Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0021431,C0043085,ISA,Infrared Rays,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0026051,C0034519,ISA,microwave electromagnetic radiation,Electromagnetic Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0028572,C0542479,ISA,Nuclear Energy,"Energy, Physics",npop,npop,1,ISA_NPOPisaNPOP
+C0034538,C0034519,ISA,Ionizing radiation,Electromagnetic Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0034538,C0851346,ISA,Ionizing radiation,Radiation,npop,npop,2,ISA_NPOPisaNPOP
+C0034539,C0851346,ISA,"Radiation, Nonionizing",Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0034553,C0851346,ISA,Radioactivity,Radiation,npop,npop,2,ISA_NPOPisaNPOP
+C0034640,C0043085,ISA,Rain,Weather,npop,npop,2,ISA_NPOPisaNPOP
+C0038817,C0023693,ISA,Sunlight,Light,npop,npop,2,ISA_NPOPisaNPOP
+C0038817,C0678544,ISA,Sunlight,wave - physical agent,npop,npop,1,ISA_NPOPisaNPOP
+C0038817,C0851346,ISA,Sunlight,Radiation,npop,npop,2,ISA_NPOPisaNPOP
+C0040476,C0043085,ISA,Tornadoes,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0040476,C0337000,ISA,Tornadoes,Cyclonic Storms,npop,npop,2,ISA_NPOPisaNPOP
+C0041183,C0008946,ISA,Tropical Climate,Climate,npop,npop,1,ISA_NPOPisaNPOP
+C0041183,C0178683,ISA,Tropical Climate,hot climate,npop,npop,1,ISA_NPOPisaNPOP
+C0041625,C0023693,ISA,Ultraviolet Rays,Light,npop,npop,1,ISA_NPOPisaNPOP
+C0041625,C0034519,ISA,Ultraviolet Rays,Electromagnetic Radiation,npop,npop,2,ISA_NPOPisaNPOP
+C0041625,C0034538,ISA,Ultraviolet Rays,Ionizing radiation,npop,npop,3,ISA_NPOPisaNPOP
+C0041625,C0034539,ISA,Ultraviolet Rays,"Radiation, Nonionizing",npop,npop,1,ISA_NPOPisaNPOP
+C0041625,C0037605,ISA,Ultraviolet Rays,Solar Energy,npop,npop,1,ISA_NPOPisaNPOP
+C0041625,C0038817,ISA,Ultraviolet Rays,Sunlight,npop,npop,11,ISA_NPOPisaNPOP
+C0041625,C0851346,ISA,Ultraviolet Rays,Radiation,npop,npop,3,ISA_NPOPisaNPOP
+C0043187,C0025594,ISA,Environmental Wind,Meteorological Factors,npop,npop,1,ISA_NPOPisaNPOP
+C0086312,C0162358,ISA,Forests,Ecosystem,npop,npop,43,ISA_NPOPisaNPOP
+C0086323,C0018216,ISA,G Force,Gravitation,npop,npop,1,ISA_NPOPisaNPOP
+C0086685,C0042333,ISA,Natural Selection,Variation (Genetics),npop,npop,5,ISA_NPOPisaNPOP
+C0162524,C0023693,ISA,Chemiluminescence,Light,npop,npop,2,ISA_NPOPisaNPOP
+C0162524,C0034519,ISA,Chemiluminescence,Electromagnetic Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0162524,C1450275,ISA,Chemiluminescence,luminescence,npop,npop,1,ISA_NPOPisaNPOP
+C0221332,C0678544,ISA,Sonar,wave - physical agent,npop,npop,1,ISA_NPOPisaNPOP
+C0337005,C0025594,ISA,Cold weather,Meteorological Factors,npop,npop,1,ISA_NPOPisaNPOP
+C0337007,C0004178,ISA,High humidity,"Atmosphere, planetary",npop,npop,1,ISA_NPOPisaNPOP
+C0337008,C0020167,ISA,Low humidity,Humidity,npop,npop,1,ISA_NPOPisaNPOP
+C0376534,C0542479,ISA,Electrostatics,"Energy, Physics",npop,npop,7,ISA_NPOPisaNPOP
+C0428692,C0025594,ISA,Ambient temperature,Meteorological Factors,npop,npop,2,ISA_NPOPisaNPOP
+C0442540,C0337050,ISA,Streams,Rivers,npop,npop,13,ISA_NPOPisaNPOP
+C0450030,C0043085,ISA,Fog,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0459800,C0026597,ISA,Vibration - physical agent,Motion,npop,npop,7,ISA_NPOPisaNPOP
+C0564461,C0038817,ISA,Ultraviolet B radiation,Sunlight,npop,npop,2,ISA_NPOPisaNPOP
+C0596836,C0023693,ISA,Light intensity,Light,npop,npop,1,ISA_NPOPisaNPOP
+C0597494,C0459800,ISA,sound frequency,Vibration - physical agent,npop,npop,1,ISA_NPOPisaNPOP
+C0599514,C0039029,ISA,Mutualism,Symbiosis,npop,npop,4,ISA_NPOPisaNPOP
+C0678540,C0542479,ISA,kinetic energy,"Energy, Physics",npop,npop,1,ISA_NPOPisaNPOP
+C0678578,C0023693,ISA,brightness,Light,npop,npop,1,ISA_NPOPisaNPOP
+C0678578,C0596835,ISA,brightness,light emission,npop,npop,1,ISA_NPOPisaNPOP
+C0681778,C0043085,ISA,monsoon,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0851346,C0542479,ISA,Radiation,"Energy, Physics",npop,npop,1,ISA_NPOPisaNPOP
+C1138417,C0005520,ISA,Photobleaching,Biological Phenomena,npop,npop,1,ISA_NPOPisaNPOP
+C1171318,C0336996,ISA,shear stress,Physical force,npop,npop,2,ISA_NPOPisaNPOP
+C1289900,C0851346,ISA,"Laser beam, infrared",Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C1450280,C0023693,ISA,Incandescence,Light,npop,npop,1,ISA_NPOPisaNPOP
+C1721088,C0162358,ISA,Wetlands,Ecosystem,npop,npop,16,ISA_NPOPisaNPOP
+C1721089,C1721088,ISA,Marshes,Wetlands,npop,npop,1,ISA_NPOPisaNPOP
+C2347883,C0678544,ISA,radiofrequency,wave - physical agent,npop,npop,1,ISA_NPOPisaNPOP
+C2347883,C0851346,ISA,radiofrequency,Radiation,npop,npop,2,ISA_NPOPisaNPOP
+C2350404,C2350446,ISA,Thermal Diffusion,Physical Phenomena,npop,npop,1,ISA_NPOPisaNPOP
+C2350595,C0337016,ISA,Mudslides,Landslides,npop,npop,2,ISA_NPOPisaNPOP
+C2936266,C0162358,ISA,Coral Reefs,Ecosystem,npop,npop,9,ISA_NPOPisaNPOP
+C2936615,C0008946,ISA,El Nino,Climate,npop,npop,1,ISA_NPOPisaNPOP
+C3489708,C0162358,ISA,Mangrove Swamps,Ecosystem,npop,npop,1,ISA_NPOPisaNPOP
+C3536899,C0039029,ISA,Commensalism,Symbiosis,npop,npop,1,ISA_NPOPisaNPOP
+C3821096,C0017982,ISA,mannosylation,glycosylation,npop,npop,2,ISA_NPOPisaNPOP
+C3850019,C0086312,ISA,Rainforest,Forests,npop,npop,3,ISA_NPOPisaNPOP
+C3850019,C0162358,ISA,Rainforest,Ecosystem,npop,npop,2,ISA_NPOPisaNPOP
+C3852960,C0086312,ISA,Tropical Rainforest,Forests,npop,npop,1,ISA_NPOPisaNPOP
+C3852960,C3850019,ISA,Tropical Rainforest,Rainforest,npop,npop,2,ISA_NPOPisaNPOP
+C3852961,C0162358,ISA,Temperate Rainforest,Ecosystem,npop,npop,2,ISA_NPOPisaNPOP
+C3852963,C0162358,ISA,Arctic Tundra,Ecosystem,npop,npop,1,ISA_NPOPisaNPOP

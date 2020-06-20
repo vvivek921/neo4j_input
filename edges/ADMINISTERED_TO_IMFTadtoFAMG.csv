@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002092,C0030551,ADMINISTERED_TO,Allergens,parent,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0003320,C0015576,ADMINISTERED_TO,Antigens,Family,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0021403,C0026591,ADMINISTERED_TO,Influenza virus vaccine,Mother (person),imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0021403,C0086282,ADMINISTERED_TO,Influenza virus vaccine,Family member,imft,famg,3,ADMINISTERED_TO_IMFTadtoFAMG
+C0032374,C3844029,ADMINISTERED_TO,Poliovirus Vaccines,Child 5,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042210,C0026591,ADMINISTERED_TO,Vaccines,Mother (person),imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042210,C0029039,ADMINISTERED_TO,Vaccines,Is an only child,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042210,C0030551,ADMINISTERED_TO,Vaccines,parent,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042210,C0086282,ADMINISTERED_TO,Vaccines,Family member,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042210,C0162409,ADMINISTERED_TO,Vaccines,spouse,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042210,C0680063,ADMINISTERED_TO,Vaccines,Offspring,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042211,C0015576,ADMINISTERED_TO,"Vaccines, Attenuated",Family,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042211,C0020052,ADMINISTERED_TO,"Vaccines, Attenuated",Households,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0042211,C0030551,ADMINISTERED_TO,"Vaccines, Attenuated",parent,imft,famg,2,ADMINISTERED_TO_IMFTadtoFAMG
+C0042212,C0015576,ADMINISTERED_TO,"Vaccines, Inactivated",Family,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0718003,C0086282,ADMINISTERED_TO,"Poliovirus Vaccine, Inactivated",Family member,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0887902,C0026591,ADMINISTERED_TO,"Vaccines, Edible",Mother (person),imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C0982332,C0026591,ADMINISTERED_TO,"acellular pertussis vaccine, inactivated",Mother (person),imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C3272757,C0020052,ADMINISTERED_TO,Live Attenuated Influenza Vaccine,Households,imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG
+C3526553,C0026591,ADMINISTERED_TO,"diphtheria, tetanus toxoids and acellular pertussis vaccine",Mother (person),imft,famg,1,ADMINISTERED_TO_IMFTadtoFAMG

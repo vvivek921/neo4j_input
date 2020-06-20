@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007590,C0598312,PRECEDES,Cell division,DNA Replication,celf,genf,1,PRECEDES_CELFprcdGENF
+C0010813,C1152412,PRECEDES,Cytokinesis,RNA-directed RNA polymerase activity,celf,genf,1,PRECEDES_CELFprcdGENF
+C0010813,C1158770,PRECEDES,Cytokinesis,Transcriptional Regulation,celf,genf,1,PRECEDES_CELFprcdGENF
+C0014139,C0599283,PRECEDES,Endocytosis,receptor density,celf,genf,1,PRECEDES_CELFprcdGENF
+C0026255,C0026882,PRECEDES,Mitosis,Mutation,celf,genf,1,PRECEDES_CELFprcdGENF
+C0026255,C1158811,PRECEDES,Mitosis,rRNA transcription,celf,genf,1,PRECEDES_CELFprcdGENF
+C0042774,C0035380,PRECEDES,Virus Replication,Reverse Transcription,celf,genf,1,PRECEDES_CELFprcdGENF
+C0042774,C0040649,PRECEDES,Virus Replication,"Transcription, Genetic",celf,genf,2,PRECEDES_CELFprcdGENF
+C0597361,C0678935,PRECEDES,Receptor Mediated Endocytosis,RNA translation,celf,genf,1,PRECEDES_CELFprcdGENF
+C0887840,C1519613,PRECEDES,Nuclear Export,Translation Initiation,celf,genf,1,PRECEDES_CELFprcdGENF
+C1155342,C2610186,PRECEDES,cellular response to unfolded protein,"nuclear mRNA cis splicing, via spliceosome",celf,genf,1,PRECEDES_CELFprcdGENF
+C1160466,C0599773,PRECEDES,conjugation,Homologous Recombination,celf,genf,1,PRECEDES_CELFprcdGENF
+C1326120,C0040649,PRECEDES,cell activation,"Transcription, Genetic",celf,genf,1,PRECEDES_CELFprcdGENF
+C1656555,C1519613,PRECEDES,viral entry into host cell,Translation Initiation,celf,genf,1,PRECEDES_CELFprcdGENF
+C1658974,C0040649,PRECEDES,mitochondria-nucleus signaling pathway,"Transcription, Genetic",celf,genf,1,PRECEDES_CELFprcdGENF
+C2611812,C0040649,PRECEDES,signaling cascade,"Transcription, Genetic",celf,genf,1,PRECEDES_CELFprcdGENF

@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003205,C0445623,ADMINISTERED_TO,"Anti-Infective Agents, Local",Microorganism,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C0003451,C4267729,ADMINISTERED_TO,Antiviral Agents,Respiratory pathogens,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C0033607,C0450254,ADMINISTERED_TO,Protease Inhibitors,Pathogenic organism,phsu,orgm,2,ADMINISTERED_TO_PHSUadtoORGM
+C0872285,C0445623,ADMINISTERED_TO,therapeutic protein,Microorganism,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C0872285,C0450254,ADMINISTERED_TO,therapeutic protein,Pathogenic organism,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C1136254,C0445623,ADMINISTERED_TO,Microbicides,Microorganism,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C1136254,C0450254,ADMINISTERED_TO,Microbicides,Pathogenic organism,phsu,orgm,3,ADMINISTERED_TO_PHSUadtoORGM
+C1520007,C0450254,ADMINISTERED_TO,viral vector,Pathogenic organism,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C1874451,C0445623,ADMINISTERED_TO,Basis,Microorganism,phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C1874451,C1167395,ADMINISTERED_TO,Basis,Host (organism),phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C2954564,C1167395,ADMINISTERED_TO,Suppressor,Host (organism),phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C2987634,C1167395,ADMINISTERED_TO,Agonist,Host (organism),phsu,orgm,1,ADMINISTERED_TO_PHSUadtoORGM
+C3539957,C0450254,ADMINISTERED_TO,opium alkaloids and derivative combination cough suppressants,Pathogenic organism,phsu,orgm,2,ADMINISTERED_TO_PHSUadtoORGM

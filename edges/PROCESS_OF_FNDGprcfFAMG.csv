@@ -1,0 +1,597 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003811,C0680063,PROCESS_OF,Cardiac Arrhythmia,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0003962,C0680063,PROCESS_OF,Ascites,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0007294,C0015576,PROCESS_OF,Genetic Carriers,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0007294,C0026591,PROCESS_OF,Genetic Carriers,Mother (person),fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0007294,C0030551,PROCESS_OF,Genetic Carriers,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0007294,C0682323,PROCESS_OF,Genetic Carriers,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0009488,C0020052,PROCESS_OF,Comorbidity,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0009488,C0337547,PROCESS_OF,Comorbidity,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0009488,C0337573,PROCESS_OF,Comorbidity,Grandson,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0009488,C3274946,PROCESS_OF,Comorbidity,Decedent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0010840,C0020052,PROCESS_OF,Vacuolation,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0011053,C0015576,PROCESS_OF,Deafness,Family,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0013658,C0015576,PROCESS_OF,Educational Status,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0013658,C0020052,PROCESS_OF,Educational Status,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0013658,C0162409,PROCESS_OF,Educational Status,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0015326,C0015576,PROCESS_OF,Expiratory Reserve Volume,Family,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C0015663,C0010222,PROCESS_OF,Fasting,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0015663,C0015576,PROCESS_OF,Fasting,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0015663,C0680063,PROCESS_OF,Fasting,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0016928,C0870134,PROCESS_OF,Gait,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0020649,C0029039,PROCESS_OF,Hypotension,Is an only child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0020672,C0680063,PROCESS_OF,"Hypothermia, natural",Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0020899,C0020052,PROCESS_OF,Illiteracy,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0021294,C0020052,PROCESS_OF,"Infant, Premature",Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0021294,C1313913,PROCESS_OF,"Infant, Premature",Singleton,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0022107,C0337547,PROCESS_OF,Irritable Mood,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0022107,C3844032,PROCESS_OF,Irritable Mood,Child 2,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0023012,C0080103,PROCESS_OF,Language Delay,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024032,C0026591,PROCESS_OF,Low Birth Weights,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024819,C0020052,PROCESS_OF,Marital Status,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0010222,PROCESS_OF,"Marriage, life event",Couples (persons),fndg,famg,9,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0011011,PROCESS_OF,"Marriage, life event",Daughter,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0026591,PROCESS_OF,"Marriage, life event",Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0030551,PROCESS_OF,"Marriage, life event",parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0162409,PROCESS_OF,"Marriage, life event",spouse,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0337580,PROCESS_OF,"Marriage, life event",Cousin,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0024841,C0682323,PROCESS_OF,"Marriage, life event",Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0026751,C0026591,PROCESS_OF,Multiparity,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0027080,C0080103,PROCESS_OF,Myoglobinuria,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0029131,C0080103,PROCESS_OF,Abnormality of the optic nerve,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0030318,C0030551,PROCESS_OF,Panic,parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0030563,C0080103,PROCESS_OF,Parity,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0030563,C0680063,PROCESS_OF,Parity,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0032972,C0026591,PROCESS_OF,Pregnancy Outcome,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0015576,PROCESS_OF,Problem,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0020052,PROCESS_OF,Problem,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0026591,PROCESS_OF,Problem,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0030551,PROCESS_OF,Problem,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0080103,PROCESS_OF,Problem,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0086282,PROCESS_OF,Problem,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0033213,C0682323,PROCESS_OF,Problem,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0035648,C0015576,PROCESS_OF,risk factors,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0035648,C0020052,PROCESS_OF,risk factors,Households,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0035648,C0080103,PROCESS_OF,risk factors,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0035648,C0680063,PROCESS_OF,risk factors,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0035648,C3844029,PROCESS_OF,risk factors,Child 5,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0037420,C0015576,PROCESS_OF,Social Interaction,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038002,C0015576,PROCESS_OF,Splenomegaly,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0011011,PROCESS_OF,Stress,Daughter,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0015576,PROCESS_OF,Stress,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0020052,PROCESS_OF,Stress,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0030551,PROCESS_OF,Stress,parent,fndg,famg,9,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0086279,PROCESS_OF,Stress,Family Caregivers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0086282,PROCESS_OF,Stress,Family member,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0038435,C0260096,PROCESS_OF,Stress,parent and child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038661,C0020052,PROCESS_OF,Suicide,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0038661,C0242665,PROCESS_OF,Suicide,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0038661,C3274946,PROCESS_OF,Suicide,Decedent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0041674,C0015576,PROCESS_OF,Unemployment,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0041674,C0020052,PROCESS_OF,Unemployment,Households,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0043084,C0020052,PROCESS_OF,Weaning,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0043084,C0680063,PROCESS_OF,Weaning,Offspring,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0043094,C0680063,PROCESS_OF,Weight Gain,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0085393,C0020052,PROCESS_OF,Immunocompromised Host,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0085639,C0015576,PROCESS_OF,Falls,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0085639,C0030551,PROCESS_OF,Falls,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0085639,C0337514,PROCESS_OF,Falls,Sister,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0086972,C0010222,PROCESS_OF,Separated from cohabitee,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0087130,C0020052,PROCESS_OF,Uncertainty,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0087130,C0030551,PROCESS_OF,Uncertainty,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0087130,C0041427,PROCESS_OF,Uncertainty,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0087136,C0683572,PROCESS_OF,Unmarried,Adult Children,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0149796,C0020052,PROCESS_OF,Exposure to tuberculosis,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0015576,PROCESS_OF,Present,Family,fndg,famg,50,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0015671,PROCESS_OF,Present,Father (person),fndg,famg,8,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0020052,PROCESS_OF,Present,Households,fndg,famg,31,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0026591,PROCESS_OF,Present,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0029039,PROCESS_OF,Present,Is an only child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0030551,PROCESS_OF,Present,parent,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0037047,PROCESS_OF,Present,Sibling,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0080103,PROCESS_OF,Present,Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0086282,PROCESS_OF,Present,Family member,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0162409,PROCESS_OF,Present,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0242664,PROCESS_OF,Present,husband,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0242665,PROCESS_OF,Present,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0337514,PROCESS_OF,Present,Sister,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0680063,PROCESS_OF,Present,Offspring,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0682323,PROCESS_OF,Present,Partner in relationship,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0150312,C0870134,PROCESS_OF,Present,ancestors,fndg,famg,26,PROCESS_OF_FNDGprcfFAMG
+C0158915,C0026591,PROCESS_OF,Exceptionally large baby (disorder),Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0015576,PROCESS_OF,Negative,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0026591,PROCESS_OF,Negative,Mother (person),fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0030551,PROCESS_OF,Negative,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0037047,PROCESS_OF,Negative,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0080103,PROCESS_OF,Negative,Relative (related person),fndg,famg,22,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0086279,PROCESS_OF,Negative,Family Caregivers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0162409,PROCESS_OF,Negative,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205160,C0682323,PROCESS_OF,Negative,Partner in relationship,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0205161,C0162409,PROCESS_OF,Abnormal,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205161,C0680063,PROCESS_OF,Abnormal,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0205161,C1313913,PROCESS_OF,Abnormal,Singleton,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0206076,C0041427,PROCESS_OF,Reproductive History,Twin sibling (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0206275,C0242665,PROCESS_OF,Widowhood,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0221198,C0080103,PROCESS_OF,Lesion,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0221198,C0086282,PROCESS_OF,Lesion,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0221198,C0680063,PROCESS_OF,Lesion,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0221571,C0680063,PROCESS_OF,Nervous system problem,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0221736,C0030551,PROCESS_OF,emotional reaction,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231170,C0015576,PROCESS_OF,Disability,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231170,C0086282,PROCESS_OF,Disability,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231173,C0020052,PROCESS_OF,Invalidism,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231187,C4053457,PROCESS_OF,Decompensation,Surrogate,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231191,C0080103,PROCESS_OF,Idiosyncrasy,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0015576,PROCESS_OF,Asymptomatic,Family,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0020052,PROCESS_OF,Asymptomatic,Households,fndg,famg,8,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0026591,PROCESS_OF,Asymptomatic,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0030551,PROCESS_OF,Asymptomatic,parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0080103,PROCESS_OF,Asymptomatic,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0086282,PROCESS_OF,Asymptomatic,Family member,fndg,famg,13,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0337547,PROCESS_OF,Asymptomatic,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231221,C0680063,PROCESS_OF,Asymptomatic,Offspring,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0231224,C0015576,PROCESS_OF,Crisis,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0231303,C0015576,PROCESS_OF,Distress,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0231303,C0030551,PROCESS_OF,Distress,parent,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0231303,C0086279,PROCESS_OF,Distress,Family Caregivers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231303,C0680063,PROCESS_OF,Distress,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231519,C0030551,PROCESS_OF,Gegenhalten,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231519,C0080103,PROCESS_OF,Gegenhalten,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0231899,C0337547,PROCESS_OF,Accessory muscle respiratory movement,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0232805,C0015576,PROCESS_OF,Normal renal function,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0233174,C0870134,PROCESS_OF,Synclitism,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0233388,C0680063,PROCESS_OF,Difficult nursing in non-human animal,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0233481,C0015576,PROCESS_OF,Worried,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0233481,C0030551,PROCESS_OF,Worried,parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0233481,C0086282,PROCESS_OF,Worried,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0233485,C0242665,PROCESS_OF,apprehension,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0234725,C0086282,PROCESS_OF,Hearing normal,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0234913,C0086282,PROCESS_OF,Erythematous rash,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0235896,C0015576,PROCESS_OF,Pulmonary Infiltrate,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0235896,C0162409,PROCESS_OF,Pulmonary Infiltrate,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0235896,C0242665,PROCESS_OF,Pulmonary Infiltrate,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0237154,C0015576,PROCESS_OF,Homelessness,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0237154,C0026591,PROCESS_OF,Homelessness,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0237849,C0080103,PROCESS_OF,Peeling of skin,Relative (related person),fndg,famg,14,PROCESS_OF_FNDGprcfFAMG
+C0238646,C0020052,PROCESS_OF,ANIMAL EXPOSURE,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0238815,C0020052,PROCESS_OF,brazilian,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0238815,C0026591,PROCESS_OF,brazilian,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0238815,C0682323,PROCESS_OF,brazilian,Partner in relationship,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0239110,C0030551,PROCESS_OF,Consciousness clear,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239574,C0030551,PROCESS_OF,Low grade fever,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239574,C0162409,PROCESS_OF,Low grade fever,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239574,C0242665,PROCESS_OF,Low grade fever,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239997,C0026591,PROCESS_OF,Maternal infection,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239997,C0680063,PROCESS_OF,Maternal infection,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0239998,C0026591,PROCESS_OF,Recurrent infections,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0239998,C0030551,PROCESS_OF,Recurrent infections,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239998,C0037047,PROCESS_OF,Recurrent infections,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239998,C0086282,PROCESS_OF,Recurrent infections,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0239998,C1273526,PROCESS_OF,Recurrent infections,Distant relative,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0240602,C0871736,PROCESS_OF,opioid use,expectant mothers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0240795,C0080103,PROCESS_OF,positional,Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0241052,C0680063,PROCESS_OF,skeletal deformity,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0241863,C0015576,PROCESS_OF,diabetic,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0241863,C0026591,PROCESS_OF,diabetic,Mother (person),fndg,famg,11,PROCESS_OF_FNDGprcfFAMG
+C0241863,C0041427,PROCESS_OF,diabetic,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0241889,C0015576,PROCESS_OF,Family history,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0242271,C0020052,PROCESS_OF,Employment status,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0260860,C0015576,PROCESS_OF,Encounter due to Unspecified general medical examination,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0262926,C0015576,PROCESS_OF,Medical History,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0262926,C0030551,PROCESS_OF,Medical History,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0262926,C0242664,PROCESS_OF,Medical History,husband,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0277786,C0030551,PROCESS_OF,Chief complaint (finding),parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0277787,C0080103,PROCESS_OF,Social stigmata,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0278140,C0680063,PROCESS_OF,Severe pain,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0301669,C0337527,PROCESS_OF,Decreased uric acid level,Brothers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0314761,C0030551,PROCESS_OF,Normal flora,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0314761,C1274041,PROCESS_OF,Normal flora,Guardian,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0010222,PROCESS_OF,Possible,Couples (persons),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0015576,PROCESS_OF,Possible,Family,fndg,famg,9,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0020052,PROCESS_OF,Possible,Households,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0026753,PROCESS_OF,Possible,Multiple Birth Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0030551,PROCESS_OF,Possible,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0041095,PROCESS_OF,Possible,Triplet Multiple Birth,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0080103,PROCESS_OF,Possible,Relative (related person),fndg,famg,24,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0086282,PROCESS_OF,Possible,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0680063,PROCESS_OF,Possible,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0682323,PROCESS_OF,Possible,Partner in relationship,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0332149,C0870134,PROCESS_OF,Possible,ancestors,fndg,famg,7,PROCESS_OF_FNDGprcfFAMG
+C0332149,C4053457,PROCESS_OF,Possible,Surrogate,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0332155,C0026591,PROCESS_OF,Did not receive therapy or drug for,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332155,C0037047,PROCESS_OF,Did not receive therapy or drug for,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332155,C0680063,PROCESS_OF,Did not receive therapy or drug for,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332167,C0037047,PROCESS_OF,High risk of,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332167,C0086282,PROCESS_OF,High risk of,Family member,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332509,C0015576,PROCESS_OF,Increased size (finding),Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0332509,C0020052,PROCESS_OF,Increased size (finding),Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0332516,C0080103,PROCESS_OF,Symmetrical,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0332516,C0682323,PROCESS_OF,Symmetrical,Partner in relationship,fndg,famg,9,PROCESS_OF_FNDGprcfFAMG
+C0332575,C0015576,PROCESS_OF,Redness,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0333361,C0010222,PROCESS_OF,Acute inflammation,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0337591,C0162409,PROCESS_OF,Legally married,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0337664,C0020052,PROCESS_OF,Smoker,Households,fndg,famg,7,PROCESS_OF_FNDGprcfFAMG
+C0349482,C0026591,PROCESS_OF,High birth weight,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0349790,C3844032,PROCESS_OF,Exacerbation of asthma,Child 2,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0376415,C0680063,PROCESS_OF,Late Onset Disorders,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0376705,C0020052,PROCESS_OF,Viral Load result,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0392209,C0020052,PROCESS_OF,Nutritional status,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0392209,C0030551,PROCESS_OF,Nutritional status,parent,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0392209,C0682323,PROCESS_OF,Nutritional status,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0419438,C0037047,PROCESS_OF,One of twins,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0419438,C0041427,PROCESS_OF,One of twins,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0423899,C0015576,PROCESS_OF,Above average intellect,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0424595,C0337547,PROCESS_OF,Undifferentiated illness,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0425152,C0015576,PROCESS_OF,Engaged to be married,Family,fndg,famg,14,PROCESS_OF_FNDGprcfFAMG
+C0425152,C0080103,PROCESS_OF,Engaged to be married,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0425152,C0682323,PROCESS_OF,Engaged to be married,Partner in relationship,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0425233,C0020052,PROCESS_OF,Multiple occupancy,Households,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0425356,C0010222,PROCESS_OF,African origin,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0425382,C0015576,PROCESS_OF,Personal status - Adopted,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0425382,C0030551,PROCESS_OF,Personal status - Adopted,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0426045,C1313913,PROCESS_OF,Large fetus,Singleton,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0427184,C0682323,PROCESS_OF,No incoordination,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0427198,C0682323,PROCESS_OF,Protective muscle spasm,Partner in relationship,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0427692,C0030551,PROCESS_OF,Full blood count normal,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0428642,C0015576,PROCESS_OF,Pulmonary artery pressure,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0428886,C0680063,PROCESS_OF,Mean blood pressure,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0436343,C0029039,PROCESS_OF,Symptom mild,Is an only child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0436343,C0086282,PROCESS_OF,Symptom mild,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0436343,C0242665,PROCESS_OF,Symptom mild,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0436345,C0337547,PROCESS_OF,Symptom severe,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0436345,C0680063,PROCESS_OF,Symptom severe,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439044,C0015576,PROCESS_OF,Living Alone,Family,fndg,famg,10,PROCESS_OF_FNDGprcfFAMG
+C0439044,C0020052,PROCESS_OF,Living Alone,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439662,C0026591,PROCESS_OF,Immune,Mother (person),fndg,famg,10,PROCESS_OF_FNDGprcfFAMG
+C0439662,C0026753,PROCESS_OF,Immune,Multiple Birth Offspring,fndg,famg,10,PROCESS_OF_FNDGprcfFAMG
+C0439662,C0030551,PROCESS_OF,Immune,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439662,C0337489,PROCESS_OF,Immune,Foster mother,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0439662,C0680063,PROCESS_OF,Immune,Offspring,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0439662,C4053457,PROCESS_OF,Immune,Surrogate,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0015576,PROCESS_OF,Infected,Family,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0020052,PROCESS_OF,Infected,Households,fndg,famg,12,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0026591,PROCESS_OF,Infected,Mother (person),fndg,famg,104,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0029039,PROCESS_OF,Infected,Is an only child,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0030551,PROCESS_OF,Infected,parent,fndg,famg,12,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0037047,PROCESS_OF,Infected,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0080103,PROCESS_OF,Infected,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0086279,PROCESS_OF,Infected,Family Caregivers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0086282,PROCESS_OF,Infected,Family member,fndg,famg,43,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0162409,PROCESS_OF,Infected,spouse,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0337541,PROCESS_OF,Infected,adopted child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0680063,PROCESS_OF,Infected,Offspring,fndg,famg,11,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0682323,PROCESS_OF,Infected,Partner in relationship,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0439663,C0870134,PROCESS_OF,Infected,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0439663,C3274946,PROCESS_OF,Infected,Decedent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0442797,C0020052,PROCESS_OF,Decreasing,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0442797,C0680063,PROCESS_OF,Decreasing,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0442797,C0870134,PROCESS_OF,Decreasing,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0449381,C0015576,PROCESS_OF,Observation parameter,Family,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C0449411,C0015576,PROCESS_OF,Causative_agents,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0449416,C0682323,PROCESS_OF,Source,Partner in relationship,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0450093,C0015576,PROCESS_OF,Very large,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0481667,C0041427,PROCESS_OF,Live Birth,Twin sibling (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0481667,C1313913,PROCESS_OF,Live Birth,Singleton,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0489531,C0030551,PROCESS_OF,History of allergies,parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0497406,C0680063,PROCESS_OF,Overweight,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0517627,C0020052,PROCESS_OF,Infection status,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0518010,C0041427,PROCESS_OF,body mass,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0518010,C0682323,PROCESS_OF,body mass,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0518609,C0015576,PROCESS_OF,consideration,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0518609,C0080103,PROCESS_OF,consideration,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0518609,C0337547,PROCESS_OF,consideration,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0518656,C1517194,PROCESS_OF,Chronic fatigue,First Degree Relative,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0524324,C0030551,PROCESS_OF,Poor education,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0542042,C0041432,PROCESS_OF,IMMUNE IMBALANCE,Monozygotic twins,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0544712,C0015576,PROCESS_OF,Normal variation,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0549106,C0020052,PROCESS_OF,Financial problem,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0549106,C0030551,PROCESS_OF,Financial problem,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0549126,C0026591,PROCESS_OF,Encounter due to being a carrier of viral hepatitis,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0549649,C0026591,PROCESS_OF,MISUSE,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0549649,C0030551,PROCESS_OF,MISUSE,parent,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0553533,C0026591,PROCESS_OF,Immunoglobulin A decreased,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0556043,C0015576,PROCESS_OF,Protein requirement,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0557130,C0020052,PROCESS_OF,Lives with family,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0557163,C0015576,PROCESS_OF,Household income,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0557163,C0020052,PROCESS_OF,Household income,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0557167,C0015576,PROCESS_OF,High household income,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0557168,C0015576,PROCESS_OF,Individual income,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0557182,C0015576,PROCESS_OF,Stable income,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0557182,C0030551,PROCESS_OF,Stable income,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0562551,C0242665,PROCESS_OF,Shouting,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0564283,C0020052,PROCESS_OF,Does obtain food,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0566639,C0026591,PROCESS_OF,Pregnancy problem,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0566701,C0026591,PROCESS_OF,Placenta infected,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0581126,C0337527,PROCESS_OF,Severe asthma,Brothers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0581901,C0086282,PROCESS_OF,In debt,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0585727,C0020052,PROCESS_OF,Registration status,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0595939,C0026591,PROCESS_OF,Stillbirth,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0595939,C0680063,PROCESS_OF,Stillbirth,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0595998,C0020052,PROCESS_OF,Household composition,Households,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0596020,C0015576,PROCESS_OF,Does hit (finding),Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0596020,C0026753,PROCESS_OF,Does hit (finding),Multiple Birth Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0596020,C0080103,PROCESS_OF,Does hit (finding),Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0596020,C1313913,PROCESS_OF,Does hit (finding),Singleton,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0599994,C0015576,PROCESS_OF,Overprotected,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600140,C0015576,PROCESS_OF,Does run (finding),Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600220,C0015576,PROCESS_OF,Family health status,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600457,C0020052,PROCESS_OF,Gravidity,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600457,C0026591,PROCESS_OF,Gravidity,Mother (person),fndg,famg,63,PROCESS_OF_FNDGprcfFAMG
+C0600457,C0086282,PROCESS_OF,Gravidity,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600457,C0162409,PROCESS_OF,Gravidity,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600457,C0337489,PROCESS_OF,Gravidity,Foster mother,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0600457,C0682323,PROCESS_OF,Gravidity,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0681295,C0086282,PROCESS_OF,communication issues,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0682132,C0682323,PROCESS_OF,regional difference,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0682180,C0020052,PROCESS_OF,educational level achieved,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0683317,C0080103,PROCESS_OF,activity level,Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0683321,C0015576,PROCESS_OF,poor health,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0683321,C0030551,PROCESS_OF,poor health,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0683521,C0026753,PROCESS_OF,patient condition,Multiple Birth Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0684331,C0030551,PROCESS_OF,Litigation affecting health status,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0686744,C0015576,PROCESS_OF,Well child,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0686744,C0026591,PROCESS_OF,Well child,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0700292,C0026591,PROCESS_OF,Hypoxemia,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0700327,C0015576,PROCESS_OF,Memory observations,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0701159,C0011011,PROCESS_OF,Patient in hospital,Daughter,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0701159,C0029039,PROCESS_OF,Patient in hospital,Is an only child,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C0701159,C0041427,PROCESS_OF,Patient in hospital,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0701159,C0242665,PROCESS_OF,Patient in hospital,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0701159,C0337547,PROCESS_OF,Patient in hospital,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0701826,C0015576,PROCESS_OF,Perinatal death,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0701826,C0680063,PROCESS_OF,Perinatal death,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0702119,C0015576,PROCESS_OF,Specimen unsatisfactory for diagnosis,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0728834,C0015576,PROCESS_OF,Place in family order: youngest sibling,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0728834,C0020052,PROCESS_OF,Place in family order: youngest sibling,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0743284,C0030551,PROCESS_OF,drug exposure,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0743553,C0080103,PROCESS_OF,epistasis,Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0743630,C0337547,PROCESS_OF,exacerbation acute,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0743630,C3844027,PROCESS_OF,exacerbation acute,Child 7,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0744369,C0026591,PROCESS_OF,Lesion of genitalia,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0745076,C0020052,PROCESS_OF,poor hygiene,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0745076,C0680063,PROCESS_OF,poor hygiene,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0745103,C0015576,PROCESS_OF,Hyperlipoproteinemia Type IIa,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0745114,C0026591,PROCESS_OF,hypertension chronic,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0746619,C0015576,PROCESS_OF,monoclonal,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0746977,C0020052,PROCESS_OF,obesity maternal,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0748864,C0015576,PROCESS_OF,small size,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0748864,C0020052,PROCESS_OF,small size,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0748864,C0337580,PROCESS_OF,small size,Cousin,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0750484,C0015576,PROCESS_OF,Confirmation,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C0750484,C0020052,PROCESS_OF,Confirmation,Households,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0750484,C0026591,PROCESS_OF,Confirmation,Mother (person),fndg,famg,15,PROCESS_OF_FNDGprcfFAMG
+C0750484,C0086282,PROCESS_OF,Confirmation,Family member,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0750484,C0337527,PROCESS_OF,Confirmation,Brothers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0750558,C0015576,PROCESS_OF,Unlikely,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0750558,C0020052,PROCESS_OF,Unlikely,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0750558,C0680063,PROCESS_OF,Unlikely,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0860096,C0026591,PROCESS_OF,Primigravida,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0871124,C0680063,PROCESS_OF,prenatal exposure,Offspring,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C0877225,C0680063,PROCESS_OF,Decreased bone density,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C0947313,C0015576,PROCESS_OF,History of immunization,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C0947313,C0030551,PROCESS_OF,History of immunization,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1116171,C0026591,PROCESS_OF,Vaccinated at,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1116171,C0086282,PROCESS_OF,Vaccinated at,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1156245,C0030551,PROCESS_OF,Growth pattern,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1254481,C0010222,PROCESS_OF,Patient Problem,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1262477,C0026591,PROCESS_OF,Weight decreased,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1262477,C0030551,PROCESS_OF,Weight decreased,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1268722,C0020052,PROCESS_OF,Mammographic difference in size (finding),Households,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1290905,C0015576,PROCESS_OF,Discrepancy,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1291724,C0015576,PROCESS_OF,Female sexual finding,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0010222,PROCESS_OF,Has difficulty doing (qualifier value),Couples (persons),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0015576,PROCESS_OF,Has difficulty doing (qualifier value),Family,fndg,famg,8,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0020052,PROCESS_OF,Has difficulty doing (qualifier value),Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0041427,PROCESS_OF,Has difficulty doing (qualifier value),Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0080103,PROCESS_OF,Has difficulty doing (qualifier value),Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0337541,PROCESS_OF,Has difficulty doing (qualifier value),adopted child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0337547,PROCESS_OF,Has difficulty doing (qualifier value),Younger child,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C1299586,C0682323,PROCESS_OF,Has difficulty doing (qualifier value),Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1318963,C0015576,PROCESS_OF,Readiness,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C1318963,C0020052,PROCESS_OF,Readiness,Households,fndg,famg,27,PROCESS_OF_FNDGprcfFAMG
+C1318963,C0682323,PROCESS_OF,Readiness,Partner in relationship,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1320226,C0020052,PROCESS_OF,Incubation period,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1320408,C0015576,PROCESS_OF,Urinary elimination status,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1332223,C0337547,PROCESS_OF,Aggressive Clinical Course,Younger child,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C1334932,C3274946,PROCESS_OF,Negative Test Result,Decedent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1444783,C0680063,PROCESS_OF,Instability,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1446409,C0015576,PROCESS_OF,Positive,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1446614,C0015576,PROCESS_OF,Convergent gaze,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1446614,C0870134,PROCESS_OF,Convergent gaze,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1457868,C0015576,PROCESS_OF,Worse,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1513363,C0870134,PROCESS_OF,Mixed Cellular Population,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1516998,C0020052,PROCESS_OF,Exogenous Factors,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1516998,C0041432,PROCESS_OF,Exogenous Factors,Monozygotic twins,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1516998,C0080103,PROCESS_OF,Exogenous Factors,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1516998,C0086282,PROCESS_OF,Exogenous Factors,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1519384,C0020052,PROCESS_OF,Smoking History,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1519494,C0870134,PROCESS_OF,Squamous Differentiation,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1522133,C0015576,PROCESS_OF,Hypercholesterolemia result,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1533020,C0026591,PROCESS_OF,Hispanic white finding,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0015576,PROCESS_OF,Protection,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0020052,PROCESS_OF,Protection,Households,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0030551,PROCESS_OF,Protection,parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0037047,PROCESS_OF,Protection,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0086282,PROCESS_OF,Protection,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0337489,PROCESS_OF,Protection,Foster mother,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1545588,C0680063,PROCESS_OF,Protection,Offspring,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C1545750,C0020052,PROCESS_OF,Second hand smoke exposure,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1609537,C0010222,PROCESS_OF,Acute hearing impairment,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1630409,C0162409,PROCESS_OF,6/3,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1704258,C0162409,PROCESS_OF,Abnormality,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1709157,C0080103,PROCESS_OF,Negative Surgical Margin,Relative (related person),fndg,famg,9,PROCESS_OF_FNDGprcfFAMG
+C1760428,C0015576,PROCESS_OF,Suicidal behavior,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1821461,C0015576,PROCESS_OF,Close Relationship,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1821718,C0680063,PROCESS_OF,Diminished productivity,Offspring,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1829822,C0162409,PROCESS_OF,Mental health.status,spouse,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1832073,C0020052,PROCESS_OF,Handling,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1832406,C0337547,PROCESS_OF,Severe clinical course,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1833056,C0015576,PROCESS_OF,"Obesity, early-onset",Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1836348,C0015576,PROCESS_OF,Severe disorder,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836348,C0020052,PROCESS_OF,Severe disorder,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836348,C0026591,PROCESS_OF,Severe disorder,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1836348,C0029039,PROCESS_OF,Severe disorder,Is an only child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836348,C0041427,PROCESS_OF,Severe disorder,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836348,C0086282,PROCESS_OF,Severe disorder,Family member,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1836348,C3844029,PROCESS_OF,Severe disorder,Child 5,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836407,C0086282,PROCESS_OF,Early death,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836598,C0015576,PROCESS_OF,Incomplete penetrance,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1836598,C0041432,PROCESS_OF,Incomplete penetrance,Monozygotic twins,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1837461,C0015576,PROCESS_OF,"SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 3",Family,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C1837461,C0086282,PROCESS_OF,"SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 3",Family member,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1840259,C0015576,PROCESS_OF,IMMUNE RESPONSE TO SYNTHETIC POLYPEPTIDE--IRTGAL,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C1842138,C0015576,PROCESS_OF,Progressive hearing impairment,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1842211,C0242664,PROCESS_OF,Severe course,husband,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1853237,C0020052,PROCESS_OF,Isolated cases,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1854293,C0080103,PROCESS_OF,Iterations,Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C1855073,C0037047,PROCESS_OF,"Mortality, Premature",Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1856231,C0680063,PROCESS_OF,Thin calvarium,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1858982,C0026591,PROCESS_OF,Phospholipid antibody positive,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1864829,C0015576,PROCESS_OF,Praxis,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1867795,C0026591,PROCESS_OF,Reduced fertility,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1868500,C0026753,PROCESS_OF,Variable expression,Multiple Birth Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1998720,C0682323,PROCESS_OF,Effective Communication,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1998726,C0020052,PROCESS_OF,Adequate Knowledge,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C1998986,C0030551,PROCESS_OF,Actual Lack Of Knowledge,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2004062,C0080103,PROCESS_OF,History of previous events,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2004062,C0870134,PROCESS_OF,History of previous events,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2133562,C0030551,PROCESS_OF,reported History,parent,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C2220266,C0026591,PROCESS_OF,exposure history,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2220266,C0086282,PROCESS_OF,exposure history,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0015576,PROCESS_OF,Index case,Family,fndg,famg,13,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0020052,PROCESS_OF,Index case,Households,fndg,famg,27,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0030551,PROCESS_OF,Index case,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0037047,PROCESS_OF,Index case,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0086282,PROCESS_OF,Index case,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0242665,PROCESS_OF,Index case,wife,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C2597943,C0337577,PROCESS_OF,Index case,Uncle,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2675556,C0015576,PROCESS_OF,"ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3",Family,fndg,famg,8,PROCESS_OF_FNDGprcfFAMG
+C2675556,C0037047,PROCESS_OF,"ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3",Sibling,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C2677107,C0015576,PROCESS_OF,"SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 5",Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C2677108,C0015576,PROCESS_OF,"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 4 (finding)",Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C2677829,C0680063,PROCESS_OF,Low IgG,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2712122,C0026591,PROCESS_OF,Normal blood pressure,Mother (person),fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C2712158,C0015576,PROCESS_OF,Actual Effective Memory,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2712185,C0026591,PROCESS_OF,Normal weight,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2712185,C0680063,PROCESS_OF,Normal weight,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2826244,C0030551,PROCESS_OF,Life Threatening,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2826244,C0037047,PROCESS_OF,Life Threatening,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C2983415,C0026591,PROCESS_OF,Persistent Disease,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3242655,C0015576,PROCESS_OF,dependent children,Family,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3242655,C0020052,PROCESS_OF,dependent children,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3244227,C0020052,PROCESS_OF,School Interaction,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3245470,C0015576,PROCESS_OF,GeneticObservationValue <HOMO>,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3258145,C0020052,PROCESS_OF,Secondary problem,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272281,C0015576,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score A,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272281,C0020052,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score A,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272281,C0026591,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score A,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272281,C0242665,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score A,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272281,C0871736,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score A,expectant mothers,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0015576,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Family,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0020052,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Households,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0026591,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Mother (person),fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0029039,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Is an only child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0030551,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0037047,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Sibling,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0041427,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Twin sibling (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0080103,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0086279,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Family Caregivers,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0086282,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Family member,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0162409,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,spouse,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0242664,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,husband,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0242665,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,wife,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C0337514,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Sister,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3272283,C4053457,PROCESS_OF,American College of Cardiology/American Heart Association Lesion Complexity Score C,Surrogate,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3278923,C0680063,PROCESS_OF,Dilated ventricles (finding),Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3279991,C0015576,PROCESS_OF,"DELAYED SLEEP PHASE DISORDER, SUSCEPTIBILITY TO",Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3280118,C0030551,PROCESS_OF,Mild disorder,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3280118,C0086282,PROCESS_OF,Mild disorder,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3280670,C0015576,PROCESS_OF,"PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1",Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3476546,C0030551,PROCESS_OF,Symptoms score,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3494174,C0020052,PROCESS_OF,Food Insecurity,Households,fndg,famg,28,PROCESS_OF_FNDGprcfFAMG
+C3533236,C0030551,PROCESS_OF,Mean score,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0015576,PROCESS_OF,Sign or Symptom,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0020052,PROCESS_OF,Sign or Symptom,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0026591,PROCESS_OF,Sign or Symptom,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0030551,PROCESS_OF,Sign or Symptom,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0080103,PROCESS_OF,Sign or Symptom,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0337547,PROCESS_OF,Sign or Symptom,Younger child,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3540840,C0680063,PROCESS_OF,Sign or Symptom,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3550860,C0682323,PROCESS_OF,Fragmented red cells,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3641827,C0010222,PROCESS_OF,Agree,Couples (persons),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3656218,C0680063,PROCESS_OF,Maternal morbidity,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3668831,C0026591,PROCESS_OF,Lactation established in non-human animal,Mother (person),fndg,famg,10,PROCESS_OF_FNDGprcfFAMG
+C3714437,C0680063,PROCESS_OF,Below expected growth rate,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3714738,C0015576,PROCESS_OF,Compliance,Family,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C3714738,C0030551,PROCESS_OF,Compliance,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3714738,C0080103,PROCESS_OF,Compliance,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3714738,C0337547,PROCESS_OF,Compliance,Younger child,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3806166,C0026591,PROCESS_OF,Poor outcome,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3806434,C0030551,PROCESS_OF,Apneic spells,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3808325,C0026591,PROCESS_OF,"Rickets, severe",Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3809769,C0026591,PROCESS_OF,Herpetic lesions,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3811922,C0020052,PROCESS_OF,Liver transplant recipient,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3816499,C0015576,PROCESS_OF,Pathogenic,Family,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C3816499,C0030551,PROCESS_OF,Pathogenic,parent,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C3816499,C0037047,PROCESS_OF,Pathogenic,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3816499,C0337547,PROCESS_OF,Pathogenic,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3816499,C0337580,PROCESS_OF,Pathogenic,Cousin,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C3827002,C0020052,PROCESS_OF,Ground Glass Opacity,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3834249,C0680063,PROCESS_OF,Unlimited,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3841614,C0026591,PROCESS_OF,Serious mental illness,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3841913,C0682323,PROCESS_OF,Standby,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3843087,C0015576,PROCESS_OF,One thing,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3843156,C0020052,PROCESS_OF,Less often,Households,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C3843156,C0041095,PROCESS_OF,Less often,Triplet Multiple Birth,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3843353,C0337547,PROCESS_OF,Very Difficult,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3843647,C0337547,PROCESS_OF,> 2 years,Younger child,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3843708,C0020052,PROCESS_OF,29+,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3843708,C0680063,PROCESS_OF,29+,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3843708,C3274946,PROCESS_OF,29+,Decedent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3844729,C0015576,PROCESS_OF,Very Important,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3845269,C0680063,PROCESS_OF,Homoplasmic,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3845273,C0015576,PROCESS_OF,Missense,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3845273,C0037047,PROCESS_OF,Missense,Sibling,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3845288,C0080103,PROCESS_OF,Strong positive,Relative (related person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3845593,C0015576,PROCESS_OF,Major change,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3845593,C0680063,PROCESS_OF,Major change,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C3845714,C0020052,PROCESS_OF,Several days,Households,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C3890735,C0029039,PROCESS_OF,Complete Response with Incomplete Platelet Recovery,Is an only child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4020899,C0015576,PROCESS_OF,Autosomal recessive predisposition,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4025860,C0026591,PROCESS_OF,Hearing abnormality,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4049797,C0015576,PROCESS_OF,Chaos,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4050309,C0015576,PROCESS_OF,Central Nervous System Involvement,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4054230,C0680063,PROCESS_OF,Pathologic Response,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4055482,C0337547,PROCESS_OF,Airway Compromise,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4055506,C0026753,PROCESS_OF,Accumulation,Multiple Birth Offspring,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C4055506,C0680063,PROCESS_OF,Accumulation,Offspring,fndg,famg,5,PROCESS_OF_FNDGprcfFAMG
+C4086268,C0337547,PROCESS_OF,Exacerbation,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4086299,C4053457,PROCESS_OF,Fast Growing,Surrogate,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4086551,C0015576,PROCESS_OF,Liver Iron Concentration,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4266464,C0030551,PROCESS_OF,Gated,parent,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C4284035,C0015576,PROCESS_OF,Partial Response with Lymphocytosis,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4288131,C0680063,PROCESS_OF,Three or Four Days,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4289270,C0086282,PROCESS_OF,Five to Seven Days,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4289767,C0026591,PROCESS_OF,Colonization,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C4289767,C0080103,PROCESS_OF,Colonization,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4289767,C0086282,PROCESS_OF,Colonization,Family member,fndg,famg,3,PROCESS_OF_FNDGprcfFAMG
+C4289767,C0680063,PROCESS_OF,Colonization,Offspring,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4313455,C0015576,PROCESS_OF,Spinal atrophy,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4314562,C1313913,PROCESS_OF,Uncomplicated pregnancy,Singleton,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0015576,PROCESS_OF,High Level,Family,fndg,famg,6,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0020052,PROCESS_OF,High Level,Households,fndg,famg,7,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0026591,PROCESS_OF,High Level,Mother (person),fndg,famg,7,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0026753,PROCESS_OF,High Level,Multiple Birth Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0030551,PROCESS_OF,High Level,parent,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0337547,PROCESS_OF,High Level,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0680063,PROCESS_OF,High Level,Offspring,fndg,famg,2,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0682323,PROCESS_OF,High Level,Partner in relationship,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4321237,C0870134,PROCESS_OF,High Level,ancestors,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4329809,C0020052,PROCESS_OF,Extremely Poor,Households,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4510188,C0080103,PROCESS_OF,Neutrophil recovery,Relative (related person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4534306,C0026591,PROCESS_OF,Supplemental oxygen,Mother (person),fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4534306,C0337547,PROCESS_OF,Supplemental oxygen,Younger child,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4534363,C0015576,PROCESS_OF,At home,Family,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4534363,C0020052,PROCESS_OF,At home,Households,fndg,famg,4,PROCESS_OF_FNDGprcfFAMG
+C4534363,C0086282,PROCESS_OF,At home,Family member,fndg,famg,1,PROCESS_OF_FNDGprcfFAMG
+C4538725,C0026591,PROCESS_OF,Dark skin,Mother (person),fndg,famg,2,PROCESS_OF_FNDGprcfFAMG

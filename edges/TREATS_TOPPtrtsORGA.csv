@@ -1,0 +1,218 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0005910,TREATS,"Administration, Oral",Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C0002903,C0005903,TREATS,Anesthesia procedures,Body Temperature,topp,orga,1,TREATS_TOPPtrtsORGA
+C0002928,C0085732,TREATS,Spinal Anesthesia,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0004836,C0005903,TREATS,"Baths, Finnish",Body Temperature,topp,orga,1,TREATS_TOPPtrtsORGA
+C0004836,C0086582,TREATS,"Baths, Finnish",Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0005435,C0005910,TREATS,Biliopancreatic Diversion,Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C0005841,C0086287,TREATS,Blood Transfusion,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0005961,C0086582,TREATS,Bone Marrow Transplantation,Males,topp,orga,2,TREATS_TOPPtrtsORGA
+C0007344,C0086287,TREATS,Castration,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0007430,C0086582,TREATS,Catheterization,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0007430,C0150905,TREATS,Catheterization,patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0009429,C0085732,TREATS,Combined Modality Therapy,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0010055,C0150904,TREATS,Coronary Artery Bypass Surgery,patient is male,topp,orga,1,TREATS_TOPPtrtsORGA
+C0011307,C0150905,TREATS,Denervation,patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0011946,C0079399,TREATS,Dialysis procedure,Gender,topp,orga,1,TREATS_TOPPtrtsORGA
+C0013216,C0085732,TREATS,Pharmacotherapy,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0013216,C0150905,TREATS,Pharmacotherapy,patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0014586,C0086287,TREATS,Episiotomy,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0015252,C0086287,TREATS,removal technique,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0015252,C0086582,TREATS,removal technique,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0015357,C0079399,TREATS,Extracorporeal Membrane Oxygenation,Gender,topp,orga,1,TREATS_TOPPtrtsORGA
+C0017118,C0005910,TREATS,Gastrectomy,Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C0017296,C0085732,TREATS,gene therapy,Ability,topp,orga,4,TREATS_TOPPtrtsORGA
+C0017296,C0086582,TREATS,gene therapy,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0017296,C0220898,TREATS,gene therapy,Predisposition -- attribute,topp,orga,6,TREATS_TOPPtrtsORGA
+C0017296,C1136169,TREATS,gene therapy,Pathogenicity,topp,orga,2,TREATS_TOPPtrtsORGA
+C0017296,C4086242,TREATS,gene therapy,Disease Phenotype,topp,orga,1,TREATS_TOPPtrtsORGA
+C0019004,C0150905,TREATS,Hemodialysis,patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0020944,C0086287,TREATS,Immobilization,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0020944,C0086582,TREATS,Immobilization,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0020971,C0085732,TREATS,Immunization,Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C0020971,C0086287,TREATS,Immunization,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0020971,C0220898,TREATS,Immunization,Predisposition -- attribute,topp,orga,2,TREATS_TOPPtrtsORGA
+C0021107,C0085732,TREATS,Implantation procedure,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021107,C0086287,TREATS,Implantation procedure,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021107,C0150904,TREATS,Implantation procedure,patient is male,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021107,C0150905,TREATS,Implantation procedure,patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021107,C1136169,TREATS,Implantation procedure,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021485,C0086287,TREATS,Injection of therapeutic agent,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021493,C0005910,TREATS,"Injections, Intraperitoneal",Body Weight,topp,orga,2,TREATS_TOPPtrtsORGA
+C0021493,C0086287,TREATS,"Injections, Intraperitoneal",Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021493,C0086582,TREATS,"Injections, Intraperitoneal",Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021587,C3687582,TREATS,Artificial Insemination,Produces milk for human food,topp,orga,1,TREATS_TOPPtrtsORGA
+C0021925,C0086582,TREATS,Intubation,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0023911,C0085732,TREATS,Transplantation of liver,Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C0023928,C0086287,TREATS,Lobectomy,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0023928,C0086582,TREATS,Lobectomy,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0027484,C0220898,TREATS,Natural Childbirth assistance,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C0029189,C0086582,TREATS,Orchiectomy,Males,topp,orga,2,TREATS_TOPPtrtsORGA
+C0029936,C0086287,TREATS,Ovariectomy,Females,topp,orga,2,TREATS_TOPPtrtsORGA
+C0029936,C0086582,TREATS,Ovariectomy,Males,topp,orga,2,TREATS_TOPPtrtsORGA
+C0031140,C0086582,TREATS,"Peritoneal Dialysis, Continuous Ambulatory",Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0031140,C0150905,TREATS,"Peritoneal Dialysis, Continuous Ambulatory",patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0031740,C0085732,TREATS,Photochemotherapy,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0033972,C0020969,TREATS,"Psychotherapy, Multiple","Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0034386,C0085732,TREATS,Quarantine,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0035139,C0085732,TREATS,Surgical Replantation,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0035139,C0086582,TREATS,Surgical Replantation,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0035139,C1136169,TREATS,Surgical Replantation,Pathogenicity,topp,orga,2,TREATS_TOPPtrtsORGA
+C0035139,C4042916,TREATS,Surgical Replantation,Genetic Background,topp,orga,2,TREATS_TOPPtrtsORGA
+C0035849,C0085732,TREATS,Root Canal Therapy,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0037995,C0086582,TREATS,Splenectomy,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0038638,C0085732,TREATS,Suction drainage,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0040732,C0085732,TREATS,Transplantation,Ability,topp,orga,3,TREATS_TOPPtrtsORGA
+C0040732,C0086287,TREATS,Transplantation,Females,topp,orga,2,TREATS_TOPPtrtsORGA
+C0040736,C0086287,TREATS,"Transplantation, Autologous",Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0040736,C0086582,TREATS,"Transplantation, Autologous",Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0040771,C0086582,TREATS,Transurethral Resection of Prostate,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C0005903,TREATS,Vaccination,Body Temperature,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C0005910,TREATS,Vaccination,Body Weight,topp,orga,2,TREATS_TOPPtrtsORGA
+C0042196,C0020969,TREATS,Vaccination,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C0085732,TREATS,Vaccination,Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C0042196,C0086582,TREATS,Vaccination,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C0220898,TREATS,Vaccination,Predisposition -- attribute,topp,orga,5,TREATS_TOPPtrtsORGA
+C0042196,C0314657,TREATS,Vaccination,Genetic Predisposition to Disease,topp,orga,2,TREATS_TOPPtrtsORGA
+C0042196,C0489786,TREATS,Vaccination,Height,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C0949285,TREATS,Vaccination,"Antibiotic Resistance, Microbial",topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C1136169,TREATS,Vaccination,Pathogenicity,topp,orga,2,TREATS_TOPPtrtsORGA
+C0042196,C3687582,TREATS,Vaccination,Produces milk for human food,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042196,C4042916,TREATS,Vaccination,Genetic Background,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042200,C0085732,TREATS,Influenza vaccination,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042200,C1510828,TREATS,Influenza vaccination,Age-Months,topp,orga,1,TREATS_TOPPtrtsORGA
+C0042387,C0086582,TREATS,Vasectomy,Males,topp,orga,2,TREATS_TOPPtrtsORGA
+C0057163,C1136169,TREATS,DAV regimen,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C0079613,C0020969,TREATS,Adoptive Immunotherapy,"Immunity, Innate",topp,orga,2,TREATS_TOPPtrtsORGA
+C0085198,C0086582,TREATS,Esophagectomy,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0085430,C0005903,TREATS,Blood Component Transfusion,Body Temperature,topp,orga,1,TREATS_TOPPtrtsORGA
+C0086511,C0086582,TREATS,Knee Replacement Arthroplasty (procedure),Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0152060,C0020969,TREATS,Transection (procedure),"Immunity, Innate",topp,orga,3,TREATS_TOPPtrtsORGA
+C0152060,C0079399,TREATS,Transection (procedure),Gender,topp,orga,1,TREATS_TOPPtrtsORGA
+C0152060,C0085732,TREATS,Transection (procedure),Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C0152060,C0162657,TREATS,Transection (procedure),Cell Shape,topp,orga,1,TREATS_TOPPtrtsORGA
+C0152060,C0220898,TREATS,Transection (procedure),Predisposition -- attribute,topp,orga,2,TREATS_TOPPtrtsORGA
+C0152060,C0489786,TREATS,Transection (procedure),Height,topp,orga,2,TREATS_TOPPtrtsORGA
+C0161922,C0086287,TREATS,Repair of urethra,Females,topp,orga,2,TREATS_TOPPtrtsORGA
+C0185003,C0085732,TREATS,Reparative closure,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185026,C0085732,TREATS,Plication,Ability,topp,orga,4,TREATS_TOPPtrtsORGA
+C0185026,C4086242,TREATS,Plication,Disease Phenotype,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185027,C0020969,TREATS,Imbrication (procedure),"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0185027,C0314657,TREATS,Imbrication (procedure),Genetic Predisposition to Disease,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185027,C4042916,TREATS,Imbrication (procedure),Genetic Background,topp,orga,2,TREATS_TOPPtrtsORGA
+C0185111,C0085732,TREATS,Surgical Manipulation,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185111,C0678921,TREATS,Surgical Manipulation,Phenocopy,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185114,C0085732,TREATS,Manual reduction,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185115,C0085732,TREATS,Extraction,Ability,topp,orga,3,TREATS_TOPPtrtsORGA
+C0185115,C0086287,TREATS,Extraction,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185115,C0086582,TREATS,Extraction,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0185115,C0489786,TREATS,Extraction,Height,topp,orga,2,TREATS_TOPPtrtsORGA
+C0185115,C1706211,TREATS,Extraction,Charge (electrical),topp,orga,1,TREATS_TOPPtrtsORGA
+C0192456,C0005910,TREATS,Nasogastric feeding,Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C0194037,C0086582,TREATS,Autologous bone marrow transplant,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0198482,C0086582,TREATS,Operation on abdominal region,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199176,C0085732,TREATS,Prophylactic treatment,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199176,C0086287,TREATS,Prophylactic treatment,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199176,C0220898,TREATS,Prophylactic treatment,Predisposition -- attribute,topp,orga,3,TREATS_TOPPtrtsORGA
+C0199470,C0086582,TREATS,Mechanical ventilation,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199470,C4042916,TREATS,Mechanical ventilation,Genetic Background,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199782,C0020969,TREATS,Administration of insulin,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0199804,C0085732,TREATS,Vaccination against tuberculosis,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199807,C0005612,TREATS,Tetanus vaccination,Birth Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C0199807,C0086287,TREATS,Tetanus vaccination,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0203597,C3687582,TREATS,hyperthermia treatment,Produces milk for human food,topp,orga,1,TREATS_TOPPtrtsORGA
+C0204514,C0020969,TREATS,Structural analysis,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0204727,C0085732,TREATS,Isolation procedure,Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C0204727,C1136169,TREATS,Isolation procedure,Pathogenicity,topp,orga,2,TREATS_TOPPtrtsORGA
+C0242970,C0085732,TREATS,Fat-Restricted Diet,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0279470,C0085732,TREATS,altretamine/cyclophosphamide/doxorubicin,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0279934,C0085732,TREATS,chlorambucil/etoposide/lomustine,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0280452,C0220898,TREATS,asparaginase/doxorubicin/vincristine,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C0280452,C1136169,TREATS,asparaginase/doxorubicin/vincristine,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C0280603,C0220898,TREATS,fluorouracil/methotrexate protocol,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C0280604,C0150905,TREATS,altretamine/cisplatin/cyclophosphamide protocol,patient is female,topp,orga,1,TREATS_TOPPtrtsORGA
+C0376518,C0086582,TREATS,Adoptive Transfer,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0393005,C0086582,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0398950,C1317145,TREATS,Periodontal operation,Bone height,topp,orga,1,TREATS_TOPPtrtsORGA
+C0439775,C0005903,TREATS,Elevation procedure,Body Temperature,topp,orga,7,TREATS_TOPPtrtsORGA
+C0439775,C0019425,TREATS,Elevation procedure,Heterozygote,topp,orga,1,TREATS_TOPPtrtsORGA
+C0439775,C0086287,TREATS,Elevation procedure,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0439775,C0220898,TREATS,Elevation procedure,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C0439775,C1136169,TREATS,Elevation procedure,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C0441509,C0020969,TREATS,Coagulation procedure,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0441509,C0233433,TREATS,Coagulation procedure,Colorful appearance,topp,orga,1,TREATS_TOPPtrtsORGA
+C0441509,C1136169,TREATS,Coagulation procedure,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C0441516,C0085732,TREATS,Demand (clinical),Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0472699,C0086287,TREATS,Hemopoietic stem cell transplant,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0472699,C0086582,TREATS,Hemopoietic stem cell transplant,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0472699,C0333678,TREATS,Hemopoietic stem cell transplant,Chimerism,topp,orga,1,TREATS_TOPPtrtsORGA
+C0474232,C0086287,TREATS,Hepatitis B vaccination,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0520483,C0086287,TREATS,Tubal Ligation,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0521974,C0005910,TREATS,"Diet, High-Fat",Body Weight,topp,orga,2,TREATS_TOPPtrtsORGA
+C0543467,C0085732,TREATS,Operative Surgical Procedures,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0547070,C0005910,TREATS,Ablation,Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C0547070,C0086287,TREATS,Ablation,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0547070,C0086582,TREATS,Ablation,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0558380,C0017504,TREATS,Emergency cesarean section,Gestational Age,topp,orga,1,TREATS_TOPPtrtsORGA
+C0574032,C0086287,TREATS,Infusion procedures,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C0581528,C0085732,TREATS,Close observation,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0581602,C0085732,TREATS,Structural modification,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0585464,C0086582,TREATS,Laparoscopic-assisted right colectomy,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0679698,C0085732,TREATS,disease prevention,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0683465,C0085732,TREATS,novel AODU treatment method,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C0683525,C0220898,TREATS,treatment options,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C0695669,C0020969,TREATS,rebirthing,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C0872178,C1136169,TREATS,gene replacement,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C0883301,C0086582,TREATS,catheter placement,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0920424,C0086582,TREATS,cancer surgery,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C0947647,C4042916,TREATS,Manipulation procedure,Genetic Background,topp,orga,1,TREATS_TOPPtrtsORGA
+C1261381,C0086582,TREATS,Destructive procedure (surgical),Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C1293116,C0085732,TREATS,Introduction procedure,Ability,topp,orga,6,TREATS_TOPPtrtsORGA
+C1293116,C0220898,TREATS,Introduction procedure,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C1293116,C1136169,TREATS,Introduction procedure,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C1293132,C0085732,TREATS,Anchoring procedure,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1299575,C0086287,TREATS,Treatment modification,Females,topp,orga,2,TREATS_TOPPtrtsORGA
+C1299575,C0086582,TREATS,Treatment modification,Males,topp,orga,2,TREATS_TOPPtrtsORGA
+C1443867,C0085732,TREATS,Standard precautions,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1511562,C0085732,TREATS,Curative Surgery,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C0005903,TREATS,Detection,Body Temperature,topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C0020969,TREATS,Detection,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C0085732,TREATS,Detection,Ability,topp,orga,6,TREATS_TOPPtrtsORGA
+C1511790,C0086287,TREATS,Detection,Females,topp,orga,10,TREATS_TOPPtrtsORGA
+C1511790,C0086582,TREATS,Detection,Males,topp,orga,7,TREATS_TOPPtrtsORGA
+C1511790,C0150904,TREATS,Detection,patient is male,topp,orga,3,TREATS_TOPPtrtsORGA
+C1511790,C0150905,TREATS,Detection,patient is female,topp,orga,4,TREATS_TOPPtrtsORGA
+C1511790,C0702111,TREATS,Detection,Proband (finding),topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C0949285,TREATS,Detection,"Antibiotic Resistance, Microbial",topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C0949670,TREATS,Detection,"Drug Resistance, Viral",topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C1136169,TREATS,Detection,Pathogenicity,topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C1955827,TREATS,Detection,Methicillin-Resistant,topp,orga,1,TREATS_TOPPtrtsORGA
+C1511790,C3687582,TREATS,Detection,Produces milk for human food,topp,orga,5,TREATS_TOPPtrtsORGA
+C1512034,C0333678,TREATS,Donor Lymphocyte Infusion,Chimerism,topp,orga,2,TREATS_TOPPtrtsORGA
+C1512721,C0489786,TREATS,Inferential Current Treatment,Height,topp,orga,1,TREATS_TOPPtrtsORGA
+C1515884,C0085732,TREATS,Acupuncture and Oriental Medicine,Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C1522449,C0020969,TREATS,Therapeutic radiology procedure,"Immunity, Innate",topp,orga,1,TREATS_TOPPtrtsORGA
+C1535597,C0085732,TREATS,Truncal vagotomy with pyloroplasty,Ability,topp,orga,2,TREATS_TOPPtrtsORGA
+C1563149,C0086287,TREATS,Balanced ligamentous tension technique (procedure),Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C1706406,C0085732,TREATS,Debulking Procedure,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1707810,C0086287,TREATS,Dose Increased,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C1707810,C0086582,TREATS,Dose Increased,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C1707814,C0005910,TREATS,Dose Reduced,Body Weight,topp,orga,5,TREATS_TOPPtrtsORGA
+C1707814,C0085732,TREATS,Dose Reduced,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1707814,C0086582,TREATS,Dose Reduced,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C1882127,C0085732,TREATS,Nutritional Intervention,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1882340,C0085732,TREATS,Periodontal Treatment,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1955925,C0086582,TREATS,Facial Transplantation,Males,topp,orga,1,TREATS_TOPPtrtsORGA
+C1960832,C0005910,TREATS,Partitioning of stomach using band,Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C1963578,C0085732,TREATS,Release (procedure),Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C1964029,C4505323,TREATS,early/brief intervention/therapy (treatment),Clinical Deterioration,topp,orga,1,TREATS_TOPPtrtsORGA
+C2004459,C0020969,TREATS,Abdominoperineal resection,"Immunity, Innate",topp,orga,2,TREATS_TOPPtrtsORGA
+C2064693,C0085732,TREATS,Humid air,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C2242628,C0489786,TREATS,Fecal Microbiota Transplantation,Height,topp,orga,1,TREATS_TOPPtrtsORGA
+C2718059,C0085732,TREATS,Precision Medicine,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C2985566,C0220898,TREATS,Targeted Therapy,Predisposition -- attribute,topp,orga,1,TREATS_TOPPtrtsORGA
+C3665674,C0086287,TREATS,Warburg Therapy,Females,topp,orga,1,TREATS_TOPPtrtsORGA
+C4289797,C1115804,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Patient recovered,topp,orga,1,TREATS_TOPPtrtsORGA
+C4520447,C0085732,TREATS,Decolonization,Ability,topp,orga,1,TREATS_TOPPtrtsORGA
+C4526535,C0005910,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Body Weight,topp,orga,1,TREATS_TOPPtrtsORGA
+C4526535,C3687582,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Produces milk for human food,topp,orga,4,TREATS_TOPPtrtsORGA

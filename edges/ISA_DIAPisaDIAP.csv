@@ -1,0 +1,179 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0086143,ISA,angiogram,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0002978,C1962945,ISA,angiogram,Radiographic imaging procedure,diap,diap,2,ISA_DIAPisaDIAP
+C0004339,C0430022,ISA,Auscultation,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0004398,C0086143,ISA,Autopsy,Diagnostic tests,diap,diap,2,ISA_DIAPisaDIAP
+C0004398,C0430022,ISA,Autopsy,diagnostic procedure,diap,diap,2,ISA_DIAPisaDIAP
+C0005558,C0079595,ISA,Biopsy,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0005558,C0086143,ISA,Biopsy,Diagnostic tests,diap,diap,3,ISA_DIAPisaDIAP
+C0005558,C0430022,ISA,Biopsy,diagnostic procedure,diap,diap,6,ISA_DIAPisaDIAP
+C0005558,C0441621,ISA,Biopsy,Sampling - Surgical action,diap,diap,2,ISA_DIAPisaDIAP
+C0006117,C0079595,ISA,Brain Mapping,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0006282,C1962945,ISA,Contrast bronchogram,Radiographic imaging procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0006290,C0086143,ISA,Bronchoscopy,Diagnostic tests,diap,diap,2,ISA_DIAPisaDIAP
+C0006290,C0430022,ISA,Bronchoscopy,diagnostic procedure,diap,diap,5,ISA_DIAPisaDIAP
+C0008310,C0086143,ISA,Endoscopic Retrograde Cholangiopancreatography,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0009378,C0005558,ISA,colonoscopy,Biopsy,diap,diap,2,ISA_DIAPisaDIAP
+C0009378,C0086143,ISA,colonoscopy,Diagnostic tests,diap,diap,2,ISA_DIAPisaDIAP
+C0010702,C0005558,ISA,Cystoscopy,Biopsy,diap,diap,2,ISA_DIAPisaDIAP
+C0010702,C0430022,ISA,Cystoscopy,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0013516,C0041618,ISA,Echocardiography,Ultrasonography,diap,diap,2,ISA_DIAPisaDIAP
+C0013516,C0043299,ISA,Echocardiography,Diagnostic radiologic examination,diap,diap,2,ISA_DIAPisaDIAP
+C0013516,C0079595,ISA,Echocardiography,Imaging Techniques,diap,diap,2,ISA_DIAPisaDIAP
+C0013516,C0086143,ISA,Echocardiography,Diagnostic tests,diap,diap,4,ISA_DIAPisaDIAP
+C0013526,C0034606,ISA,Echoencephalography,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0013526,C0040395,ISA,Echoencephalography,tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0013526,C0679575,ISA,Echoencephalography,Neuroimaging,diap,diap,1,ISA_DIAPisaDIAP
+C0013819,C0040395,ISA,Electroencephalography,tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0013819,C0086143,ISA,Electroencephalography,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0013819,C0430022,ISA,Electroencephalography,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0016356,C1962945,ISA,Fluoroscopy,Radiographic imaging procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0017195,C0079304,ISA,Endoscopy of stomach,Esophagogastroduodenoscopy,diap,diap,2,ISA_DIAPisaDIAP
+C0021044,C0086143,ISA,Immunohistochemistry,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0021044,C0430022,ISA,Immunohistochemistry,diagnostic procedure,diap,diap,5,ISA_DIAPisaDIAP
+C0021705,C0033905,ISA,Intelligence Tests,Psychological Tests (procedure),diap,diap,1,ISA_DIAPisaDIAP
+C0021881,C0086143,ISA,Intradermal Tests,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0023072,C0430022,ISA,Laryngoscopy,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0024219,C0079595,ISA,Lymphangiography,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0024485,C0011923,ISA,Magnetic Resonance Imaging,Diagnostic Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0024485,C0040395,ISA,Magnetic Resonance Imaging,tomography,diap,diap,11,ISA_DIAPisaDIAP
+C0024485,C0079595,ISA,Magnetic Resonance Imaging,Imaging Techniques,diap,diap,6,ISA_DIAPisaDIAP
+C0024485,C0086143,ISA,Magnetic Resonance Imaging,Diagnostic tests,diap,diap,2,ISA_DIAPisaDIAP
+C0024485,C0430022,ISA,Magnetic Resonance Imaging,diagnostic procedure,diap,diap,2,ISA_DIAPisaDIAP
+C0024485,C0679575,ISA,Magnetic Resonance Imaging,Neuroimaging,diap,diap,3,ISA_DIAPisaDIAP
+C0024485,C0877853,ISA,Magnetic Resonance Imaging,"Spectroscopy, Nuclear Magnetic Resonance",diap,diap,6,ISA_DIAPisaDIAP
+C0024487,C0024485,ISA,Magnetic Resonance Spectroscopy,Magnetic Resonance Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0026995,C0430022,ISA,Myelography,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0029161,C0683443,ISA,Oral Glucose Tolerance Test,tests and testing,diap,diap,1,ISA_DIAPisaDIAP
+C0030247,C0430022,ISA,Palpation,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0030646,C0037296,ISA,Patch Tests,Hypersensitivity skin testing,diap,diap,1,ISA_DIAPisaDIAP
+C0030987,C1282548,ISA,Percussion,Examination by method,diap,diap,1,ISA_DIAPisaDIAP
+C0032743,C0034606,ISA,Positron-Emission Tomography,Radionuclide Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0032743,C0040395,ISA,Positron-Emission Tomography,tomography,diap,diap,3,ISA_DIAPisaDIAP
+C0032743,C0079595,ISA,Positron-Emission Tomography,Imaging Techniques,diap,diap,3,ISA_DIAPisaDIAP
+C0034108,C0430022,ISA,"Oximetry, Pulse",diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0034573,C0011923,ISA,"Radiography, Abdominal",Diagnostic Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0034579,C1306645,ISA,Panoramic Radiography,Plain x-ray,diap,diap,1,ISA_DIAPisaDIAP
+C0034606,C0430022,ISA,Radionuclide Imaging,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0034606,C0807679,ISA,Radionuclide Imaging,Radiology studies,diap,diap,1,ISA_DIAPisaDIAP
+C0037981,C0024119,ISA,Spirometry,Pulmonary function tests,diap,diap,3,ISA_DIAPisaDIAP
+C0039985,C0011923,ISA,Plain chest X-ray,Diagnostic Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0039985,C0079595,ISA,Plain chest X-ray,Imaging Techniques,diap,diap,2,ISA_DIAPisaDIAP
+C0039985,C0086143,ISA,Plain chest X-ray,Diagnostic tests,diap,diap,5,ISA_DIAPisaDIAP
+C0039985,C0430022,ISA,Plain chest X-ray,diagnostic procedure,diap,diap,2,ISA_DIAPisaDIAP
+C0039985,C0807679,ISA,Plain chest X-ray,Radiology studies,diap,diap,2,ISA_DIAPisaDIAP
+C0040395,C0079595,ISA,tomography,Imaging Techniques,diap,diap,5,ISA_DIAPisaDIAP
+C0040395,C1306645,ISA,tomography,Plain x-ray,diap,diap,2,ISA_DIAPisaDIAP
+C0040395,C1962945,ISA,tomography,Radiographic imaging procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0040398,C0034606,ISA,"Tomography, Emission-Computed",Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0040398,C0040395,ISA,"Tomography, Emission-Computed",tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0040398,C0040405,ISA,"Tomography, Emission-Computed",X-Ray Computed Tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0040398,C0079595,ISA,"Tomography, Emission-Computed",Imaging Techniques,diap,diap,2,ISA_DIAPisaDIAP
+C0040399,C0034606,ISA,"Tomography, Emission-Computed, Single-Photon",Radionuclide Imaging,diap,diap,3,ISA_DIAPisaDIAP
+C0040399,C0040405,ISA,"Tomography, Emission-Computed, Single-Photon",X-Ray Computed Tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0040399,C0079595,ISA,"Tomography, Emission-Computed, Single-Photon",Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0040405,C0011923,ISA,X-Ray Computed Tomography,Diagnostic Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0040405,C0040395,ISA,X-Ray Computed Tomography,tomography,diap,diap,4,ISA_DIAPisaDIAP
+C0040405,C0040404,ISA,X-Ray Computed Tomography,"Tomography, X-Ray",diap,diap,1,ISA_DIAPisaDIAP
+C0040405,C0043299,ISA,X-Ray Computed Tomography,Diagnostic radiologic examination,diap,diap,5,ISA_DIAPisaDIAP
+C0040405,C0079595,ISA,X-Ray Computed Tomography,Imaging Techniques,diap,diap,2,ISA_DIAPisaDIAP
+C0040405,C0086143,ISA,X-Ray Computed Tomography,Diagnostic tests,diap,diap,2,ISA_DIAPisaDIAP
+C0040405,C0430022,ISA,X-Ray Computed Tomography,diagnostic procedure,diap,diap,3,ISA_DIAPisaDIAP
+C0040405,C0679575,ISA,X-Ray Computed Tomography,Neuroimaging,diap,diap,2,ISA_DIAPisaDIAP
+C0040405,C0807679,ISA,X-Ray Computed Tomography,Radiology studies,diap,diap,1,ISA_DIAPisaDIAP
+C0040405,C1306645,ISA,X-Ray Computed Tomography,Plain x-ray,diap,diap,1,ISA_DIAPisaDIAP
+C0041290,C0086143,ISA,Tuberculin Test,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0041618,C0011923,ISA,Ultrasonography,Diagnostic Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0041618,C0079595,ISA,Ultrasonography,Imaging Techniques,diap,diap,7,ISA_DIAPisaDIAP
+C0041618,C0086143,ISA,Ultrasonography,Diagnostic tests,diap,diap,3,ISA_DIAPisaDIAP
+C0041618,C0430022,ISA,Ultrasonography,diagnostic procedure,diap,diap,3,ISA_DIAPisaDIAP
+C0043299,C0011923,ISA,Diagnostic radiologic examination,Diagnostic Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0043299,C0430022,ISA,Diagnostic radiologic examination,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0043299,C1962945,ISA,Diagnostic radiologic examination,Radiographic imaging procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0085264,C0034606,ISA,Radioimmunodetection,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0086143,C0430022,ISA,Diagnostic tests,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0150866,C0005558,ISA,Biopsy of skin procedure,Biopsy,diap,diap,2,ISA_DIAPisaDIAP
+C0150866,C0430022,ISA,Biopsy of skin procedure,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0184921,C0005558,ISA,Excision biopsy,Biopsy,diap,diap,2,ISA_DIAPisaDIAP
+C0184921,C0430022,ISA,Excision biopsy,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0184922,C0005558,ISA,Incisional biopsy - action,Biopsy,diap,diap,2,ISA_DIAPisaDIAP
+C0184922,C0430022,ISA,Incisional biopsy - action,diagnostic procedure,diap,diap,3,ISA_DIAPisaDIAP
+C0189024,C0014245,ISA,Endoscopy of nose,Endoscopy (procedure),diap,diap,1,ISA_DIAPisaDIAP
+C0189391,C0430022,ISA,Fiberoptic bronchoscopy,diagnostic procedure,diap,diap,2,ISA_DIAPisaDIAP
+C0192152,C0005558,ISA,Wedge Biopsy,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0192420,C0014245,ISA,Biopsy of stomach,Endoscopy (procedure),diap,diap,1,ISA_DIAPisaDIAP
+C0194073,C0005558,ISA,Kidney biopsy,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0194261,C0005558,ISA,Ureteroscopy,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0198373,C0430022,ISA,Thoracoscopy and biopsy of intrathoracic organ,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0198536,C0005558,ISA,Laparoscopy with biopsy,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0200778,C0004398,ISA,"Necropsy (autopsy), gross examination only; without CNS",Autopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0202823,C0011923,ISA,Chest CT,Diagnostic Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0202823,C0040395,ISA,Chest CT,tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0202823,C0040405,ISA,Chest CT,X-Ray Computed Tomography,diap,diap,3,ISA_DIAPisaDIAP
+C0202823,C0079595,ISA,Chest CT,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0202823,C0086143,ISA,Chest CT,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0202823,C0430022,ISA,Chest CT,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0202823,C1306645,ISA,Chest CT,Plain x-ray,diap,diap,3,ISA_DIAPisaDIAP
+C0202823,C1962945,ISA,Chest CT,Radiographic imaging procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0203071,C0034606,ISA,Gastric emptying study,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0203322,C0041618,ISA,Real time scan,Ultrasonography,diap,diap,1,ISA_DIAPisaDIAP
+C0203408,C0079595,ISA,Echography of kidney,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0203668,C0040395,ISA,Radioisotope scan of bone,tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0203683,C0034606,ISA,Radioisotope scan of lung,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0203762,C0079595,ISA,Radionuclide biliary patency study,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C0203778,C0034606,ISA,Radioactive iodine uptake,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0206054,C0013516,ISA,"Echocardiography, Transesophageal",Echocardiography,diap,diap,2,ISA_DIAPisaDIAP
+C0242845,C0002978,ISA,"Ultrasonography, Doppler, Duplex",angiogram,diap,diap,1,ISA_DIAPisaDIAP
+C0243032,C0002978,ISA,Magnetic Resonance Angiography,angiogram,diap,diap,1,ISA_DIAPisaDIAP
+C0332140,C0430022,ISA,"Diagnosis, clinical",diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0376335,C0024485,ISA,fMRI,Magnetic Resonance Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0376335,C0034606,ISA,fMRI,Radionuclide Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C0376443,C0041618,ISA,Endoscopic Ultrasound,Ultrasonography,diap,diap,1,ISA_DIAPisaDIAP
+C0392823,C0023072,ISA,Direct examination of larynx,Laryngoscopy,diap,diap,1,ISA_DIAPisaDIAP
+C0396473,C0005558,ISA,Bronchoscopic irrigation,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0399943,C0086143,ISA,Biopsy of small intestine,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0412461,C0034606,ISA,Gallium 67 study,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0412516,C0034606,ISA,Orbital B scan,Radionuclide Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0412585,C0034606,ISA,CAT scan of brain,Radionuclide Imaging,diap,diap,8,ISA_DIAPisaDIAP
+C0412585,C0040405,ISA,CAT scan of brain,X-Ray Computed Tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0412661,C0430022,ISA,CT myelogram,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0412669,C0040395,ISA,"Computerized tomography, bone density study",tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0430456,C1623258,ISA,12 lead ECG,Electrocardiography,diap,diap,1,ISA_DIAPisaDIAP
+C0430462,C0013516,ISA,Transthoracic echocardiography,Echocardiography,diap,diap,1,ISA_DIAPisaDIAP
+C0430511,C0024119,ISA,Vital capacity test,Pulmonary function tests,diap,diap,1,ISA_DIAPisaDIAP
+C0456853,C0430022,ISA,CT guided biopsy,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0521316,C0807679,ISA,Gallium scan,Radiology studies,diap,diap,1,ISA_DIAPisaDIAP
+C0576452,C0005558,ISA,Biopsy of jejunum,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0581582,C0040395,ISA,Radioisotope brain imaging,tomography,diap,diap,2,ISA_DIAPisaDIAP
+C0585632,C0086143,ISA,Diagnostic bronchoscopy,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C0596217,C0040405,ISA,Brain scan,X-Ray Computed Tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0596473,C0430022,ISA,Early Diagnosis,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0598801,C0024485,ISA,Diffusion weighted imaging,Magnetic Resonance Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C0729707,C0040395,ISA,"Computerized tomography, 3 dimensional reconstruction",tomography,diap,diap,1,ISA_DIAPisaDIAP
+C0740294,C0005558,ISA,brain biopsy,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0740294,C0430022,ISA,brain biopsy,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C0740463,C0005558,ISA,Biopsy of bronchus,Biopsy,diap,diap,1,ISA_DIAPisaDIAP
+C0852695,C0430022,ISA,Biopsy of Mucosa,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C1306645,C0086143,ISA,Plain x-ray,Diagnostic tests,diap,diap,2,ISA_DIAPisaDIAP
+C1306645,C0679575,ISA,Plain x-ray,Neuroimaging,diap,diap,1,ISA_DIAPisaDIAP
+C1510483,C0430022,ISA,Fine needle aspiration biopsy,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C1512457,C0079595,ISA,High Resolution Computed Tomography,Imaging Techniques,diap,diap,1,ISA_DIAPisaDIAP
+C1512457,C0086143,ISA,High Resolution Computed Tomography,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C1512457,C0430022,ISA,High Resolution Computed Tomography,diagnostic procedure,diap,diap,1,ISA_DIAPisaDIAP
+C1512457,C1306645,ISA,High Resolution Computed Tomography,Plain x-ray,diap,diap,1,ISA_DIAPisaDIAP
+C1516251,C0024119,ISA,Carbon Monoxide Diffusing Capability Test,Pulmonary function tests,diap,diap,1,ISA_DIAPisaDIAP
+C1699633,C0040395,ISA,PET/CT scan,tomography,diap,diap,5,ISA_DIAPisaDIAP
+C1956110,C1306645,ISA,Cone-Beam Computed Tomography,Plain x-ray,diap,diap,1,ISA_DIAPisaDIAP
+C2315751,C0041618,ISA,Endorectal ultrasonography,Ultrasonography,diap,diap,1,ISA_DIAPisaDIAP
+C2348813,C0041618,ISA,Transabdominal Ultrasound,Ultrasonography,diap,diap,1,ISA_DIAPisaDIAP
+C2348813,C0086143,ISA,Transabdominal Ultrasound,Diagnostic tests,diap,diap,1,ISA_DIAPisaDIAP
+C2348813,C0430022,ISA,Transabdominal Ultrasound,diagnostic procedure,diap,diap,2,ISA_DIAPisaDIAP
+C2350281,C0040405,ISA,X-Ray Microtomography,X-Ray Computed Tomography,diap,diap,1,ISA_DIAPisaDIAP
+C2370811,C0005558,ISA,Bronchial brush biopsy,Biopsy,diap,diap,2,ISA_DIAPisaDIAP
+C2748260,C0041618,ISA,Transient elastography,Ultrasonography,diap,diap,3,ISA_DIAPisaDIAP
+C2826145,C0024485,ISA,Fluid Attenuated Inversion Recovery,Magnetic Resonance Imaging,diap,diap,3,ISA_DIAPisaDIAP
+C3472245,C0040399,ISA,Single Photon Emission Computed Tomography Computed Tomography,"Tomography, Emission-Computed, Single-Photon",diap,diap,1,ISA_DIAPisaDIAP
+C3850002,C0024485,ISA,Proton Magnetic Resonance Spectroscopy,Magnetic Resonance Imaging,diap,diap,1,ISA_DIAPisaDIAP
+C3850003,C0024485,ISA,Carbon-13 Magnetic Resonance Spectroscopy,Magnetic Resonance Imaging,diap,diap,2,ISA_DIAPisaDIAP
+C4054934,C0024119,ISA,Forced Oscillation Technique,Pulmonary function tests,diap,diap,1,ISA_DIAPisaDIAP
+C4075962,C0040405,ISA,Low dose computed tomography of thorax,X-Ray Computed Tomography,diap,diap,2,ISA_DIAPisaDIAP

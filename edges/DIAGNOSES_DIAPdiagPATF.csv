@@ -1,0 +1,513 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001884,C3714514,DIAGNOSES,Airway Resistance Test,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0002627,C0022876,DIAGNOSES,Amniocentesis,Premature Obstetric Labor,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0002627,C0242786,DIAGNOSES,Amniocentesis,High-Risk Pregnancy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0002978,C0019080,DIAGNOSES,angiogram,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0002978,C0087086,DIAGNOSES,angiogram,Thrombus,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0002978,C1261287,DIAGNOSES,angiogram,Stenosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0002979,C0006110,DIAGNOSES,"Angiography, Digital Subtraction",Brain Death,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0003844,C0442856,DIAGNOSES,Arteriography,Hypoperfusion,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004339,C0428977,DIAGNOSES,Auscultation,Bradycardia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0001364,DIAGNOSES,Autopsy,Massive Hepatic Necrosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004398,C0011071,DIAGNOSES,Autopsy,Sudden death,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0011164,DIAGNOSES,Autopsy,Abnormal degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0013687,DIAGNOSES,Autopsy,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0013990,DIAGNOSES,Autopsy,Pathological accumulation of air in tissues,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0014591,DIAGNOSES,Autopsy,Epistaxis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0016059,DIAGNOSES,Autopsy,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0018944,DIAGNOSES,Autopsy,Hematoma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0019080,DIAGNOSES,Autopsy,Hemorrhage,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0004398,C0020564,DIAGNOSES,Autopsy,Hypertrophy,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0004398,C0021308,DIAGNOSES,Autopsy,Infarction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0021376,DIAGNOSES,Autopsy,Chronic inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0021386,DIAGNOSES,Autopsy,Necrotizing granulomatous inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0021870,DIAGNOSES,Autopsy,Intracerebral hematoma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0026766,DIAGNOSES,Autopsy,Multiple Organ Failure,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0026846,DIAGNOSES,Autopsy,Muscular Atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0028778,DIAGNOSES,Autopsy,Obstruction,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004398,C0031154,DIAGNOSES,Autopsy,Peritonitis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004398,C0031542,DIAGNOSES,Autopsy,Phlebitis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0036974,DIAGNOSES,Autopsy,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0036982,DIAGNOSES,Autopsy,"Shock, Hemorrhagic",diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0036983,DIAGNOSES,Autopsy,Septic Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0038862,DIAGNOSES,Autopsy,Suppurative inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0040038,DIAGNOSES,Autopsy,Thromboembolism,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0040053,DIAGNOSES,Autopsy,Thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0042143,DIAGNOSES,Autopsy,Uterine Rupture,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0151603,DIAGNOSES,Autopsy,Anasarca,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004398,C0151701,DIAGNOSES,Autopsy,Pulmonary hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0242184,DIAGNOSES,Autopsy,Hypoxia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0242786,DIAGNOSES,Autopsy,High-Risk Pregnancy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0302158,DIAGNOSES,Autopsy,Leucocytic infiltrate,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0332448,DIAGNOSES,Autopsy,Infiltration,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333280,DIAGNOSES,Autopsy,Diffuse hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333405,DIAGNOSES,Autopsy,Pyogranuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333503,DIAGNOSES,Autopsy,Chronic necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333505,DIAGNOSES,Autopsy,Diffuse necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333514,DIAGNOSES,Autopsy,Zonal necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333549,DIAGNOSES,Autopsy,Hemorrhagic infarct,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333563,DIAGNOSES,Autopsy,Hyaline membrane,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333976,DIAGNOSES,Autopsy,Bilateral hyperplasia,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004398,C0333985,DIAGNOSES,Autopsy,Cystic hyperplasia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0341950,DIAGNOSES,Autopsy,Severe pre-eclampsia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0392175,DIAGNOSES,Autopsy,Hemorrhage of kidney,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0598905,DIAGNOSES,Autopsy,multiorgan damage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C0700148,DIAGNOSES,Autopsy,Congestion,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0004398,C1265799,DIAGNOSES,Autopsy,Massive embolus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C2937358,DIAGNOSES,Autopsy,Cerebral Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C3241936,DIAGNOSES,Autopsy,Non-cardiogenic pulmonary edema,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0004398,C3714514,DIAGNOSES,Autopsy,Infection,diap,patf,8,DIAGNOSES_DIAPdiagPATF
+C0004398,C3887486,DIAGNOSES,Autopsy,Interstitial lung fibrosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0005558,C0011164,DIAGNOSES,Biopsy,Abnormal degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0012359,DIAGNOSES,Biopsy,Pathological Dilatation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0005558,C0016059,DIAGNOSES,Biopsy,Fibrosis,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0005558,C0017639,DIAGNOSES,Biopsy,Gliosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0018188,DIAGNOSES,Biopsy,Granuloma,diap,patf,9,DIAGNOSES_DIAPdiagPATF
+C0005558,C0019080,DIAGNOSES,Biopsy,Hemorrhage,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0005558,C0020507,DIAGNOSES,Biopsy,Hyperplasia,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0005558,C0020517,DIAGNOSES,Biopsy,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0020564,DIAGNOSES,Biopsy,Hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0021368,DIAGNOSES,Biopsy,Inflammation,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0005558,C0021376,DIAGNOSES,Biopsy,Chronic inflammation,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0005558,C0021386,DIAGNOSES,Biopsy,Necrotizing granulomatous inflammation,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0005558,C0026846,DIAGNOSES,Biopsy,Muscular Atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0040053,DIAGNOSES,Biopsy,Thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0152254,DIAGNOSES,Biopsy,Fatty degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0235957,DIAGNOSES,Biopsy,myonecrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0332448,DIAGNOSES,Biopsy,Infiltration,diap,patf,10,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333386,DIAGNOSES,Biopsy,Chronic lymphocytic inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333390,DIAGNOSES,Biopsy,Chronic eosinophilic inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333418,DIAGNOSES,Biopsy,Non-necrotizing granulomatous inflammation,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333467,DIAGNOSES,Biopsy,Cytopathic effect,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333489,DIAGNOSES,Biopsy,Vascular wall degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333504,DIAGNOSES,Biopsy,Focal necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333514,DIAGNOSES,Biopsy,Zonal necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333563,DIAGNOSES,Biopsy,Hyaline membrane,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333575,DIAGNOSES,Biopsy,Fatty infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0333641,DIAGNOSES,Biopsy,Atrophic,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0005558,C0334094,DIAGNOSES,Biopsy,Proliferation (morphologic abnormality),diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C0700080,DIAGNOSES,Biopsy,Vascular proliferation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C1096176,DIAGNOSES,Biopsy,mitochondrial toxicity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C1265831,DIAGNOSES,Biopsy,Interstitial inflammation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0005558,C1265933,DIAGNOSES,Biopsy,Diffuse hyperplasia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C1373218,DIAGNOSES,Biopsy,Decreased Immunologic Activity [PE],diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0005558,C1522058,DIAGNOSES,Biopsy,Coagulative necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C3686534,DIAGNOSES,Biopsy,Perivascular cuffing,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005558,C3714514,DIAGNOSES,Biopsy,Infection,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0005558,C3887486,DIAGNOSES,Biopsy,Interstitial lung fibrosis,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0005558,C4054531,DIAGNOSES,Biopsy,Mesangiolysis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005560,C0152254,DIAGNOSES,Needle biopsy procedure,Fatty degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005893,C1167870,DIAGNOSES,Body mass index procedure,Graft dysfunction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005954,C0016059,DIAGNOSES,Bone marrow biopsy,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005954,C0243069,DIAGNOSES,Bone marrow biopsy,Hypoplasia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005954,C0332448,DIAGNOSES,Bone marrow biopsy,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0005954,C0334044,DIAGNOSES,Bone marrow biopsy,Dysplasia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006153,C0020517,DIAGNOSES,Breath Tests,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006282,C0004144,DIAGNOSES,Contrast bronchogram,Atelectasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006282,C1261287,DIAGNOSES,Contrast bronchogram,Stenosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0006290,C0013687,DIAGNOSES,Bronchoscopy,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006290,C0019080,DIAGNOSES,Bronchoscopy,Hemorrhage,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0006290,C0021368,DIAGNOSES,Bronchoscopy,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006290,C0021386,DIAGNOSES,Bronchoscopy,Necrotizing granulomatous inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006290,C0036974,DIAGNOSES,Bronchoscopy,Shock,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0006290,C0151701,DIAGNOSES,Bronchoscopy,Pulmonary hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006290,C0332448,DIAGNOSES,Bronchoscopy,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0006290,C3714514,DIAGNOSES,Bronchoscopy,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0009378,C0019080,DIAGNOSES,colonoscopy,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0009378,C0020517,DIAGNOSES,colonoscopy,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0009378,C0333390,DIAGNOSES,colonoscopy,Chronic eosinophilic inflammation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0009378,C1265815,DIAGNOSES,colonoscopy,Multiple ulcers,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0011905,C0020517,DIAGNOSES,Computer Assisted Diagnosis,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0011906,C0032914,DIAGNOSES,Differential Diagnosis,Pre-Eclampsia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0011906,C0334061,DIAGNOSES,Differential Diagnosis,Dyskeratosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0011906,C3241936,DIAGNOSES,Differential Diagnosis,Non-cardiogenic pulmonary edema,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0011906,C3714514,DIAGNOSES,Differential Diagnosis,Infection,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0011911,C0020517,DIAGNOSES,Laboratory Diagnosis,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0011911,C0242656,DIAGNOSES,Laboratory Diagnosis,Disease Progression,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0011911,C3714514,DIAGNOSES,Laboratory Diagnosis,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0012359,DIAGNOSES,Echocardiography,Pathological Dilatation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0013922,DIAGNOSES,Echocardiography,Embolism,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013516,C0020542,DIAGNOSES,Echocardiography,Pulmonary Hypertension,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0013516,C0020564,DIAGNOSES,Echocardiography,Hypertrophy,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0026266,DIAGNOSES,Echocardiography,Mitral Valve Insufficiency,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0036974,DIAGNOSES,Echocardiography,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013516,C0087086,DIAGNOSES,Echocardiography,Thrombus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013516,C0242698,DIAGNOSES,Echocardiography,"Ventricular Dysfunction, Left",diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0013516,C0242973,DIAGNOSES,Echocardiography,Ventricular Dysfunction,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0340515,DIAGNOSES,Echocardiography,Myocardial dysfunction,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0749225,DIAGNOSES,Echocardiography,Systolic dysfunction,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0013516,C0876993,DIAGNOSES,Echocardiography,Ventricular thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013516,C1265929,DIAGNOSES,Echocardiography,Asymmetric hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013526,C0019080,DIAGNOSES,Echoencephalography,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013819,C0020517,DIAGNOSES,Electroencephalography,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013819,C0235029,DIAGNOSES,Electroencephalography,neurological complication,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0013819,C0394014,DIAGNOSES,Electroencephalography,Post-anoxic coma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0016313,C0015376,DIAGNOSES,Fluorescein Angiography,Extravasation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0017195,C0334044,DIAGNOSES,Endoscopy of stomach,Dysplasia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0017654,C0032914,DIAGNOSES,Glomerular Filtration Rate,Pre-Eclampsia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C0011304,DIAGNOSES,Immunohistochemistry,Demyelination,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C0013687,DIAGNOSES,Immunohistochemistry,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C0017639,DIAGNOSES,Immunohistochemistry,Gliosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C0018188,DIAGNOSES,Immunohistochemistry,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C0020517,DIAGNOSES,Immunohistochemistry,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0021044,C0332448,DIAGNOSES,Immunohistochemistry,Infiltration,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0021044,C0334094,DIAGNOSES,Immunohistochemistry,Proliferation (morphologic abnormality),diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C0553697,DIAGNOSES,Immunohistochemistry,Granulomatous inflammation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0021044,C3686534,DIAGNOSES,Immunohistochemistry,Perivascular cuffing,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0021044,C3714514,DIAGNOSES,Immunohistochemistry,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0021881,C0020517,DIAGNOSES,Intradermal Tests,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0024119,C0003130,DIAGNOSES,Pulmonary function tests,Anoxia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024119,C0020517,DIAGNOSES,Pulmonary function tests,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024119,C0021368,DIAGNOSES,Pulmonary function tests,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024119,C0028778,DIAGNOSES,Pulmonary function tests,Obstruction,diap,patf,6,DIAGNOSES_DIAPdiagPATF
+C0024485,C0001122,DIAGNOSES,Magnetic Resonance Imaging,Acidosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0011304,DIAGNOSES,Magnetic Resonance Imaging,Demyelination,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0015376,DIAGNOSES,Magnetic Resonance Imaging,Extravasation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0016059,DIAGNOSES,Magnetic Resonance Imaging,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0017639,DIAGNOSES,Magnetic Resonance Imaging,Gliosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0019080,DIAGNOSES,Magnetic Resonance Imaging,Hemorrhage,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0024485,C0020564,DIAGNOSES,Magnetic Resonance Imaging,Hypertrophy,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0024485,C0021308,DIAGNOSES,Magnetic Resonance Imaging,Infarction,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0024485,C0021368,DIAGNOSES,Magnetic Resonance Imaging,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0029445,DIAGNOSES,Magnetic Resonance Imaging,Bone necrosis,diap,patf,16,DIAGNOSES_DIAPdiagPATF
+C0024485,C0036983,DIAGNOSES,Magnetic Resonance Imaging,Septic Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0040038,DIAGNOSES,Magnetic Resonance Imaging,Thromboembolism,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0085660,DIAGNOSES,Magnetic Resonance Imaging,Aseptic necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0221204,DIAGNOSES,Magnetic Resonance Imaging,Lytic lesion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0241816,DIAGNOSES,Magnetic Resonance Imaging,Global brain atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0332448,DIAGNOSES,Magnetic Resonance Imaging,Infiltration,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0024485,C0333517,DIAGNOSES,Magnetic Resonance Imaging,Laminar necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0333641,DIAGNOSES,Magnetic Resonance Imaging,Atrophic,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C0745283,DIAGNOSES,Magnetic Resonance Imaging,INFECTIOUS PROCESS,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C1261287,DIAGNOSES,Magnetic Resonance Imaging,Stenosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C1265896,DIAGNOSES,Magnetic Resonance Imaging,Diffuse atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C1317608,DIAGNOSES,Magnetic Resonance Imaging,Perineural spread,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024485,C3714514,DIAGNOSES,Magnetic Resonance Imaging,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0024485,C3887513,DIAGNOSES,Magnetic Resonance Imaging,Avascular necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0024487,C0017639,DIAGNOSES,Magnetic Resonance Spectroscopy,Gliosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0027431,C0020517,DIAGNOSES,Nasal Provocation Tests,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0029161,C0021655,DIAGNOSES,Oral Glucose Tolerance Test,Insulin Resistance,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030247,C0013609,DIAGNOSES,Palpation,Localized edema,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030247,C0020564,DIAGNOSES,Palpation,Hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030247,C0035410,DIAGNOSES,Palpation,Rhabdomyolysis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030247,C0746552,DIAGNOSES,Palpation,Mesenteric lymphadenopathy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030247,C3714514,DIAGNOSES,Palpation,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030646,C0041755,DIAGNOSES,Patch Tests,Adverse reaction to drug,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0030987,C0004144,DIAGNOSES,Percussion,Atelectasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0031150,C0028778,DIAGNOSES,Laparoscopy,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0031150,C0032787,DIAGNOSES,Laparoscopy,Postoperative Complications,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0031746,C0036679,DIAGNOSES,Photofluorography,Diastasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0032723,C0040053,DIAGNOSES,Portography,Thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0032743,C0020517,DIAGNOSES,Positron-Emission Tomography,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0032743,C0021368,DIAGNOSES,Positron-Emission Tomography,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0032743,C3714514,DIAGNOSES,Positron-Emission Tomography,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0004144,DIAGNOSES,Radionuclide Imaging,Atelectasis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0034606,C0016059,DIAGNOSES,Radionuclide Imaging,Fibrosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0034606,C0017181,DIAGNOSES,Radionuclide Imaging,Gastrointestinal Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0018946,DIAGNOSES,Radionuclide Imaging,"Hematoma, Subdural",diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0020517,DIAGNOSES,Radionuclide Imaging,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0021308,DIAGNOSES,Radionuclide Imaging,Infarction,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0034606,C0021368,DIAGNOSES,Radionuclide Imaging,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0029445,DIAGNOSES,Radionuclide Imaging,Bone necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0031542,DIAGNOSES,Radionuclide Imaging,Phlebitis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0036429,DIAGNOSES,Radionuclide Imaging,Sclerosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0036974,DIAGNOSES,Radionuclide Imaging,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0041909,DIAGNOSES,Radionuclide Imaging,Upper gastrointestinal hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0264956,DIAGNOSES,Radionuclide Imaging,Atheroma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0332448,DIAGNOSES,Radionuclide Imaging,Infiltration,diap,patf,6,DIAGNOSES_DIAPdiagPATF
+C0034606,C0333280,DIAGNOSES,Radionuclide Imaging,Diffuse hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0333288,DIAGNOSES,Radionuclide Imaging,Dissecting hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C0333548,DIAGNOSES,Radionuclide Imaging,Acute infarct,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0034606,C2937358,DIAGNOSES,Radionuclide Imaging,Cerebral Hemorrhage,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0034606,C3714514,DIAGNOSES,Radionuclide Imaging,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0034610,C0340515,DIAGNOSES,Radionuclide Ventriculography,Myocardial dysfunction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0037296,C0020517,DIAGNOSES,Hypersensitivity skin testing,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0037296,C0020522,DIAGNOSES,Hypersensitivity skin testing,Delayed Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0037296,C0392707,DIAGNOSES,Hypersensitivity skin testing,Atopy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0037296,C1373218,DIAGNOSES,Hypersensitivity skin testing,Decreased Immunologic Activity [PE],diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0037981,C0020517,DIAGNOSES,Spirometry,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0004144,DIAGNOSES,Plain chest X-ray,Atelectasis,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0039985,C0013687,DIAGNOSES,Plain chest X-ray,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0013990,DIAGNOSES,Plain chest X-ray,Pathological accumulation of air in tissues,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0016059,DIAGNOSES,Plain chest X-ray,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0020517,DIAGNOSES,Plain chest X-ray,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0020564,DIAGNOSES,Plain chest X-ray,Hypertrophy,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0039985,C0242656,DIAGNOSES,Plain chest X-ray,Disease Progression,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0281169,DIAGNOSES,Plain chest X-ray,pulmonary complications,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C0332448,DIAGNOSES,Plain chest X-ray,Infiltration,diap,patf,46,DIAGNOSES_DIAPdiagPATF
+C0039985,C0543419,DIAGNOSES,Plain chest X-ray,Sequela of disorder,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C1265821,DIAGNOSES,Plain chest X-ray,Enclosed cavity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C2047937,DIAGNOSES,Plain chest X-ray,Ill-defined disease,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C3714514,DIAGNOSES,Plain chest X-ray,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0039985,C4061114,DIAGNOSES,Plain chest X-ray,Acute illness,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0040395,C0004144,DIAGNOSES,tomography,Atelectasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040395,C0020564,DIAGNOSES,tomography,Hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040395,C0021368,DIAGNOSES,tomography,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040395,C0332448,DIAGNOSES,tomography,Infiltration,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0040395,C0333279,DIAGNOSES,tomography,Massive hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040395,C3714514,DIAGNOSES,tomography,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0040399,C0021368,DIAGNOSES,"Tomography, Emission-Computed, Single-Photon",Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0004144,DIAGNOSES,X-Ray Computed Tomography,Atelectasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0012359,DIAGNOSES,X-Ray Computed Tomography,Pathological Dilatation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0013687,DIAGNOSES,X-Ray Computed Tomography,effusion,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0040405,C0016059,DIAGNOSES,X-Ray Computed Tomography,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0019080,DIAGNOSES,X-Ray Computed Tomography,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0020517,DIAGNOSES,X-Ray Computed Tomography,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0040405,C0020564,DIAGNOSES,X-Ray Computed Tomography,Hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0021308,DIAGNOSES,X-Ray Computed Tomography,Infarction,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0040405,C0021368,DIAGNOSES,X-Ray Computed Tomography,Inflammation,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0040405,C0022116,DIAGNOSES,X-Ray Computed Tomography,Ischemia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0028778,DIAGNOSES,X-Ray Computed Tomography,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0036974,DIAGNOSES,X-Ray Computed Tomography,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0152254,DIAGNOSES,X-Ray Computed Tomography,Fatty degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0235029,DIAGNOSES,X-Ray Computed Tomography,neurological complication,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0332448,DIAGNOSES,X-Ray Computed Tomography,Infiltration,diap,patf,11,DIAGNOSES_DIAPdiagPATF
+C0040405,C0333280,DIAGNOSES,X-Ray Computed Tomography,Diffuse hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C0333641,DIAGNOSES,X-Ray Computed Tomography,Atrophic,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0040405,C0948163,DIAGNOSES,X-Ray Computed Tomography,Leukoaraiosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C1511605,DIAGNOSES,X-Ray Computed Tomography,Cystic Change,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0040405,C2937358,DIAGNOSES,X-Ray Computed Tomography,Cerebral Hemorrhage,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0040405,C3714514,DIAGNOSES,X-Ray Computed Tomography,Infection,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0041618,C0000832,DIAGNOSES,Ultrasonography,Abruptio Placentae,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0013687,DIAGNOSES,Ultrasonography,effusion,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0041618,C0020224,DIAGNOSES,Ultrasonography,Polyhydramnios,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0020542,DIAGNOSES,Ultrasonography,Pulmonary Hypertension,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0020564,DIAGNOSES,Ultrasonography,Hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0031542,DIAGNOSES,Ultrasonography,Phlebitis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0087086,DIAGNOSES,Ultrasonography,Thrombus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0152254,DIAGNOSES,Ultrasonography,Fatty degeneration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0266763,DIAGNOSES,Ultrasonography,Placenta previa centralis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C0281169,DIAGNOSES,Ultrasonography,pulmonary complications,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0041618,C0333353,DIAGNOSES,Ultrasonography,Fibrinous inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0041618,C3714514,DIAGNOSES,Ultrasonography,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0042293,C0023182,DIAGNOSES,Valsalva Maneuver,Cerebrospinal fluid leak,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0043299,C0013687,DIAGNOSES,Diagnostic radiologic examination,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0043299,C0013990,DIAGNOSES,Diagnostic radiologic examination,Pathological accumulation of air in tissues,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0043299,C0036679,DIAGNOSES,Diagnostic radiologic examination,Diastasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0043299,C0332448,DIAGNOSES,Diagnostic radiologic examination,Infiltration,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0079595,C0028778,DIAGNOSES,Imaging Techniques,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0079595,C0242781,DIAGNOSES,Imaging Techniques,disease transmission,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0080142,C0015376,DIAGNOSES,Self-Examination,Extravasation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0085532,C0087086,DIAGNOSES,Coronary angiography,Thrombus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0085532,C0333166,DIAGNOSES,Coronary angiography,Chronic obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0085532,C0333186,DIAGNOSES,Coronary angiography,Restenosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0085532,C1261287,DIAGNOSES,Coronary angiography,Stenosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0085704,C0031154,DIAGNOSES,Exploratory laparotomy,Peritonitis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0086143,C0013687,DIAGNOSES,Diagnostic tests,effusion,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0086143,C0020517,DIAGNOSES,Diagnostic tests,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0086143,C0021359,DIAGNOSES,Diagnostic tests,Infertility,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0086143,C0745283,DIAGNOSES,Diagnostic tests,INFECTIOUS PROCESS,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0086143,C1520005,DIAGNOSES,Diagnostic tests,Viral Pathogenesis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0086143,C3714514,DIAGNOSES,Diagnostic tests,Infection,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0086143,C4061114,DIAGNOSES,Diagnostic tests,Acute illness,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0150866,C0016059,DIAGNOSES,Biopsy of skin procedure,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0150866,C0264940,DIAGNOSES,Biopsy of skin procedure,Hemorrhage of blood vessel,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0150866,C0332448,DIAGNOSES,Biopsy of skin procedure,Infiltration,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0150866,C0333513,DIAGNOSES,Biopsy of skin procedure,Fibrinoid necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0162481,C0087086,DIAGNOSES,Doppler Ultrasound (procedure),Thrombus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0162701,C0032962,DIAGNOSES,Polysomnography,Pregnancy Complications,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0176358,C0018188,DIAGNOSES,Biopsy of nose,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0176358,C0021368,DIAGNOSES,Biopsy of nose,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184921,C0019080,DIAGNOSES,Excision biopsy,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184922,C0016059,DIAGNOSES,Incisional biopsy - action,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184922,C0019080,DIAGNOSES,Incisional biopsy - action,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184922,C0028778,DIAGNOSES,Incisional biopsy - action,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184922,C0332448,DIAGNOSES,Incisional biopsy - action,Infiltration,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0184922,C0333386,DIAGNOSES,Incisional biopsy - action,Chronic lymphocytic inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184922,C0333629,DIAGNOSES,Incisional biopsy - action,Hemosiderin pigmentation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184924,C0021368,DIAGNOSES,Punch biopsy (procedure),Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184980,C0018188,DIAGNOSES,Endoscopic biopsy,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0184980,C0332448,DIAGNOSES,Endoscopic biopsy,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0185283,C0024348,DIAGNOSES,Muscle biopsy,Lysis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0185283,C0332448,DIAGNOSES,Muscle biopsy,Infiltration,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0185283,C0333641,DIAGNOSES,Muscle biopsy,Atrophic,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0189391,C0019080,DIAGNOSES,Fiberoptic bronchoscopy,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0189391,C0027544,DIAGNOSES,Fiberoptic bronchoscopy,Necrotic debris,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0189896,C0020542,DIAGNOSES,Catheterization of right heart,Pulmonary Hypertension,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0190979,C0546817,DIAGNOSES,Venous blood sampling,Fluid overload,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0193050,C0021376,DIAGNOSES,Biopsy of rectum (procedure),Chronic inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0194073,C0018188,DIAGNOSES,Kidney biopsy,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0194073,C0021368,DIAGNOSES,Kidney biopsy,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0194073,C0036429,DIAGNOSES,Kidney biopsy,Sclerosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0194073,C0040053,DIAGNOSES,Kidney biopsy,Thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0194073,C0333501,DIAGNOSES,Kidney biopsy,Acute necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0194073,C4054531,DIAGNOSES,Kidney biopsy,Mesangiolysis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0199850,C0021368,DIAGNOSES,Examination of breast,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0199900,C0025222,DIAGNOSES,Rectal examination,Melena,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0200045,C0333138,DIAGNOSES,Manual pelvic examination (procedure),Stasis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0200125,C0011304,DIAGNOSES,Nerve conduction study,Demyelination,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0202691,C0018946,DIAGNOSES,CAT scan of head,"Hematoma, Subdural",diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0202691,C0019080,DIAGNOSES,CAT scan of head,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202691,C1321132,DIAGNOSES,CAT scan of head,Spontaneous hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202744,C0028778,DIAGNOSES,Dacryocystography,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202757,C0236024,DIAGNOSES,Radiographic procedure on neck,Edema of pharynx,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C0006663,DIAGNOSES,Chest CT,Calcinosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C0013687,DIAGNOSES,Chest CT,effusion,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0202823,C0013990,DIAGNOSES,Chest CT,Pathological accumulation of air in tissues,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C0020517,DIAGNOSES,Chest CT,Hypersensitivity,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0202823,C0020564,DIAGNOSES,Chest CT,Hypertrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C0021381,DIAGNOSES,Chest CT,Exudative inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C0038536,DIAGNOSES,Chest CT,Subcutaneous Emphysema,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C0161818,DIAGNOSES,Chest CT,Respiratory complication,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0202823,C0242656,DIAGNOSES,Chest CT,Disease Progression,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0202823,C0332448,DIAGNOSES,Chest CT,Infiltration,diap,patf,6,DIAGNOSES_DIAPdiagPATF
+C0202823,C2004491,DIAGNOSES,Chest CT,Cicatrix,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0202823,C3714514,DIAGNOSES,Chest CT,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0203408,C0028778,DIAGNOSES,Echography of kidney,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0203634,C0020517,DIAGNOSES,Nuclear medicine procedure,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0203634,C0151686,DIAGNOSES,Nuclear medicine procedure,Growth retardation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0203634,C3714514,DIAGNOSES,Nuclear medicine procedure,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0206054,C0028778,DIAGNOSES,"Echocardiography, Transesophageal",Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0206054,C0040038,DIAGNOSES,"Echocardiography, Transesophageal",Thromboembolism,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0206054,C0087086,DIAGNOSES,"Echocardiography, Transesophageal",Thrombus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0206054,C1261287,DIAGNOSES,"Echocardiography, Transesophageal",Stenosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0206077,C0232180,DIAGNOSES,"Ultrasonography, Doppler, Transcranial",Cardiac shunt,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0242844,C0020517,DIAGNOSES,"Ultrasonography, Doppler, Color",Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0243032,C1261287,DIAGNOSES,Magnetic Resonance Angiography,Stenosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0259832,C0242656,DIAGNOSES,"Diagnosis, Noninvasive",Disease Progression,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0262485,C0332448,DIAGNOSES,Flash,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0332140,C0020517,DIAGNOSES,"Diagnosis, clinical",Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0332140,C0030660,DIAGNOSES,"Diagnosis, clinical",Pathologic Processes,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0332140,C0036983,DIAGNOSES,"Diagnosis, clinical",Septic Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0332140,C3714514,DIAGNOSES,"Diagnosis, clinical",Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0332140,C4061114,DIAGNOSES,"Diagnosis, clinical",Acute illness,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0396283,C0028778,DIAGNOSES,Sleep nasendoscopy,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0412585,C0018944,DIAGNOSES,CAT scan of brain,Hematoma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0412585,C0021308,DIAGNOSES,CAT scan of brain,Infarction,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0412675,C0011304,DIAGNOSES,MRI brain procedure,Demyelination,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0412675,C0017639,DIAGNOSES,MRI brain procedure,Gliosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0412675,C0019080,DIAGNOSES,MRI brain procedure,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0412675,C0333641,DIAGNOSES,MRI brain procedure,Atrophic,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C0412675,C1265891,DIAGNOSES,MRI brain procedure,Focal atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0412692,C0021368,DIAGNOSES,Magnetic Resonance Imaging (MRI) of Heart,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0419360,C0333418,DIAGNOSES,Slit lamp biomicroscopy (procedure),Non-necrotizing granulomatous inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0430022,C0020517,DIAGNOSES,diagnostic procedure,Hypersensitivity,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0430022,C1520005,DIAGNOSES,diagnostic procedure,Viral Pathogenesis,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C0430022,C3714514,DIAGNOSES,diagnostic procedure,Infection,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0430456,C0085610,DIAGNOSES,12 lead ECG,Sinus bradycardia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0430462,C0020542,DIAGNOSES,Transthoracic echocardiography,Pulmonary Hypertension,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0430561,C0020517,DIAGNOSES,Skin prick test,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0430561,C0036974,DIAGNOSES,Skin prick test,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0430561,C0392707,DIAGNOSES,Skin prick test,Atopy,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0430619,C0700148,DIAGNOSES,"Rhinometry, Acoustic",Congestion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0431080,C0333398,DIAGNOSES,Diagnostic assessment,Chronic abscess,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0442973,C0019080,DIAGNOSES,Ultrasonic guidance procedure,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0444186,C0038862,DIAGNOSES,Smear test,Suppurative inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0444186,C0392618,DIAGNOSES,Smear test,Postoperative infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0444186,C3714514,DIAGNOSES,Smear test,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0474781,C0040053,DIAGNOSES,Color doppler ultrasound,Thrombosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0521316,C0018188,DIAGNOSES,Gallium scan,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0542504,C0428977,DIAGNOSES,Standard ECG,Bradycardia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0576452,C1265892,DIAGNOSES,Biopsy of jejunum,Partial atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0596473,C0020517,DIAGNOSES,Early Diagnosis,Hypersensitivity,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C0596473,C0021368,DIAGNOSES,Early Diagnosis,Inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0596473,C0024348,DIAGNOSES,Early Diagnosis,Lysis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0596473,C3714514,DIAGNOSES,Early Diagnosis,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0597356,C1520005,DIAGNOSES,rapid diagnosis,Viral Pathogenesis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0597356,C3714514,DIAGNOSES,rapid diagnosis,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0597356,C4061114,DIAGNOSES,rapid diagnosis,Acute illness,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0598801,C0598690,DIAGNOSES,Diffusion weighted imaging,pus collection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0598801,C3887513,DIAGNOSES,Diffusion weighted imaging,Avascular necrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0677490,C0087086,DIAGNOSES,Pulmonary angiogram,Thrombus,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0679557,C0018188,DIAGNOSES,histological diagnosis,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0679575,C0333641,DIAGNOSES,Neuroimaging,Atrophic,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0683454,C1520005,DIAGNOSES,internal-external locus of control scale,Viral Pathogenesis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0699749,C0242656,DIAGNOSES,disease stage,Disease Progression,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0740294,C0333359,DIAGNOSES,brain biopsy,Perivascular inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0740294,C0333467,DIAGNOSES,brain biopsy,Cytopathic effect,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0740294,C3714514,DIAGNOSES,brain biopsy,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0740463,C3887486,DIAGNOSES,Biopsy of bronchus,Interstitial lung fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0742919,C0040053,DIAGNOSES,ct scan contrast,Thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0809776,C0028778,DIAGNOSES,Cardiac echo study,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0849974,C0028778,DIAGNOSES,Pulmonary Function Test/Forced Expiratory Volume 1,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0860675,C0151942,DIAGNOSES,abdomen scan,Arterial thrombosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0863477,C0333418,DIAGNOSES,transbronchial lung biopsy,Non-necrotizing granulomatous inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0872169,C0024348,DIAGNOSES,fdg pet,Lysis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0872169,C0036429,DIAGNOSES,fdg pet,Sclerosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0872257,C0032787,DIAGNOSES,rapid technique,Postoperative Complications,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0872257,C1520005,DIAGNOSES,rapid technique,Viral Pathogenesis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0872257,C3714514,DIAGNOSES,rapid technique,Infection,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C0872257,C4061114,DIAGNOSES,rapid technique,Acute illness,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0946326,C0036981,DIAGNOSES,pulmonary studies,Endotoxic shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0948501,C0012359,DIAGNOSES,Ultrasound examination,Pathological Dilatation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0948501,C0028778,DIAGNOSES,Ultrasound examination,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0948543,C0042487,DIAGNOSES,Vascular ultrasound procedure,Venous Thrombosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C0948706,C0019080,DIAGNOSES,Red blood cell scan,Hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1134632,C0332448,DIAGNOSES,breast imaging studies,Infiltration,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C1134632,C1511605,DIAGNOSES,breast imaging studies,Cystic Change,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1275583,C0333280,DIAGNOSES,Computerized axial tomography of brain with radiopaque contrast,Diffuse hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1282548,C0332448,DIAGNOSES,Examination by method,Infiltration,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1293091,C0020517,DIAGNOSES,Pre-surgery evaluation,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306036,C0392707,DIAGNOSES,Forced expiratory volume procedure,Atopy,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1306036,C3714514,DIAGNOSES,Forced expiratory volume procedure,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0008767,DIAGNOSES,Plain x-ray,Cicatrization,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0012359,DIAGNOSES,Plain x-ray,Pathological Dilatation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1306645,C0013687,DIAGNOSES,Plain x-ray,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0016826,DIAGNOSES,Plain x-ray,Fungal granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0020564,DIAGNOSES,Plain x-ray,Hypertrophy,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1306645,C0028778,DIAGNOSES,Plain x-ray,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0221204,DIAGNOSES,Plain x-ray,Lytic lesion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0242656,DIAGNOSES,Plain x-ray,Disease Progression,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0332448,DIAGNOSES,Plain x-ray,Infiltration,diap,patf,6,DIAGNOSES_DIAPdiagPATF
+C1306645,C0543419,DIAGNOSES,Plain x-ray,Sequela of disorder,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C0700185,DIAGNOSES,Plain x-ray,Decalcification,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1306645,C3714514,DIAGNOSES,Plain x-ray,Infection,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1318509,C0015376,DIAGNOSES,Esophagram,Extravasation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1444582,C0333280,DIAGNOSES,Indirect ophthalmoscopy,Diffuse hemorrhage,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1512457,C0008767,DIAGNOSES,High Resolution Computed Tomography,Cicatrization,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1512457,C0036974,DIAGNOSES,High Resolution Computed Tomography,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1512457,C0332448,DIAGNOSES,High Resolution Computed Tomography,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1518156,C0020517,DIAGNOSES,Magnetic Resonance Elastography,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1536105,C0013922,DIAGNOSES,Computed Tomography Angiography,Embolism,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1536105,C1261287,DIAGNOSES,Computed Tomography Angiography,Stenosis,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1537028,C1265828,DIAGNOSES,Molecular Imaging,Progressive inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1623258,C0085610,DIAGNOSES,Electrocardiography,Sinus bradycardia,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1699633,C0332448,DIAGNOSES,PET/CT scan,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1699633,C1155266,DIAGNOSES,PET/CT scan,inflammatory response,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1831759,C0857353,DIAGNOSES,pharmacological studies,Hypotensive,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1881134,C0332448,DIAGNOSES,Image Study,Infiltration,diap,patf,3,DIAGNOSES_DIAPdiagPATF
+C1964257,C0011304,DIAGNOSES,Observation - diagnostic procedure,Demyelination,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C0020517,DIAGNOSES,Observation - diagnostic procedure,Hypersensitivity,diap,patf,5,DIAGNOSES_DIAPdiagPATF
+C1964257,C0021368,DIAGNOSES,Observation - diagnostic procedure,Inflammation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C1964257,C0028778,DIAGNOSES,Observation - diagnostic procedure,Obstruction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C0035228,DIAGNOSES,Observation - diagnostic procedure,Respiratory Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C0162633,DIAGNOSES,Observation - diagnostic procedure,Viral Shedding,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C0333467,DIAGNOSES,Observation - diagnostic procedure,Cytopathic effect,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C0392707,DIAGNOSES,Observation - diagnostic procedure,Atopy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C0745283,DIAGNOSES,Observation - diagnostic procedure,INFECTIOUS PROCESS,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C1516670,DIAGNOSES,Observation - diagnostic procedure,Clonal Expansion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C1518304,DIAGNOSES,Observation - diagnostic procedure,Neurotropism,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C1964257,C3714514,DIAGNOSES,Observation - diagnostic procedure,Infection,diap,patf,8,DIAGNOSES_DIAPdiagPATF
+C2315751,C0012359,DIAGNOSES,Endorectal ultrasonography,Pathological Dilatation,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C2348813,C0013687,DIAGNOSES,Transabdominal Ultrasound,effusion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C2348813,C0333985,DIAGNOSES,Transabdominal Ultrasound,Cystic hyperplasia,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C2348813,C0856757,DIAGNOSES,Transabdominal Ultrasound,dilated veins,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C2350281,C0587240,DIAGNOSES,X-Ray Microtomography,bone erosion,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C2826145,C0241816,DIAGNOSES,Fluid Attenuated Inversion Recovery,Global brain atrophy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C2983609,C0018188,DIAGNOSES,Gross Pathologic Examination,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3661505,C0679429,DIAGNOSES,Thromboelastometry,platelet dysfunction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C0004144,DIAGNOSES,Chest radiograph,Atelectasis,diap,patf,4,DIAGNOSES_DIAPdiagPATF
+C3842377,C0012359,DIAGNOSES,Chest radiograph,Pathological Dilatation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C0013687,DIAGNOSES,Chest radiograph,effusion,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C3842377,C0016059,DIAGNOSES,Chest radiograph,Fibrosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C0018188,DIAGNOSES,Chest radiograph,Granuloma,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C0036974,DIAGNOSES,Chest radiograph,Shock,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C0038536,DIAGNOSES,Chest radiograph,Subcutaneous Emphysema,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C0151701,DIAGNOSES,Chest radiograph,Pulmonary hemorrhage,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C3842377,C0332448,DIAGNOSES,Chest radiograph,Infiltration,diap,patf,35,DIAGNOSES_DIAPdiagPATF
+C3842377,C0546817,DIAGNOSES,Chest radiograph,Fluid overload,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3842377,C3241936,DIAGNOSES,Chest radiograph,Non-cardiogenic pulmonary edema,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C3897397,C0021308,DIAGNOSES,T2 and Fluid Attenuated Inversion Recovery MRI,Infarction,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4042877,C0242656,DIAGNOSES,Clinical Decision-Making,Disease Progression,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4050256,C0232018,DIAGNOSES,Impulse Oscillometry,Decreased lung compliance,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4054003,C0392707,DIAGNOSES,Specific Airway Resistance,Atopy,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4071824,C0021376,DIAGNOSES,Superficial biopsy,Chronic inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4072680,C0026766,DIAGNOSES,Gastric tonometry,Multiple Organ Failure,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4083126,C0020517,DIAGNOSES,Maximal Inspiratory Pressure Test,Hypersensitivity,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4086289,C0013491,DIAGNOSES,External Examination,Ecchymosis,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4086729,C0020542,DIAGNOSES,Pathologic Examination,Pulmonary Hypertension,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4086729,C0027686,DIAGNOSES,Pathologic Examination,Pathologic Neovascularization,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4086729,C0038862,DIAGNOSES,Pathologic Examination,Suppurative inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4086729,C0302158,DIAGNOSES,Pathologic Examination,Leucocytic infiltrate,diap,patf,2,DIAGNOSES_DIAPdiagPATF
+C4086729,C0332448,DIAGNOSES,Pathologic Examination,Infiltration,diap,patf,1,DIAGNOSES_DIAPdiagPATF
+C4086729,C0553697,DIAGNOSES,Pathologic Examination,Granulomatous inflammation,diap,patf,1,DIAGNOSES_DIAPdiagPATF

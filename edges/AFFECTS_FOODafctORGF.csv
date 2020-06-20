@@ -1,0 +1,64 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007757,C0011065,AFFECTS,Cereals,Cessation of life,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0001811,AFFECTS,Diet,Aging,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0011065,AFFECTS,Diet,Cessation of life,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0011135,AFFECTS,Diet,Defecation,food,orgf,2,AFFECTS_FOODafctORGF
+C0012155,C0012238,AFFECTS,Diet,Digestion,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0014653,AFFECTS,Diet,Equilibrium,food,orgf,4,AFFECTS_FOODafctORGF
+C0012155,C0018270,AFFECTS,Diet,Growth,food,orgf,3,AFFECTS_FOODafctORGF
+C0012155,C0025519,AFFECTS,Diet,Metabolism,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0026649,AFFECTS,Diet,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0035150,AFFECTS,Diet,Reproduction,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0036887,AFFECTS,Diet,Sexual Maturation,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0678889,AFFECTS,Diet,Immunoregulation,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C1326578,AFFECTS,Diet,pupation,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C1510835,AFFECTS,Diet,Aging-Related Process,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C1516559,AFFECTS,Diet,Circulatory Process,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C2255937,AFFECTS,Diet,electrolyte homeostasis,food,orgf,1,AFFECTS_FOODafctORGF
+C0012173,C0005615,AFFECTS,Dietary Fiber,Birth,food,orgf,1,AFFECTS_FOODafctORGF
+C0012173,C0018270,AFFECTS,Dietary Fiber,Growth,food,orgf,3,AFFECTS_FOODafctORGF
+C0012173,C0026649,AFFECTS,Dietary Fiber,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C0012173,C0043240,AFFECTS,Dietary Fiber,Wound Healing,food,orgf,1,AFFECTS_FOODafctORGF
+C0013710,C0006159,AFFECTS,Egg Food Product,Breeding,food,orgf,1,AFFECTS_FOODafctORGF
+C0016452,C0006147,AFFECTS,Food,Breast Feeding,food,orgf,1,AFFECTS_FOODafctORGF
+C0016452,C0014653,AFFECTS,Food,Equilibrium,food,orgf,2,AFFECTS_FOODafctORGF
+C0016452,C0018270,AFFECTS,Food,Growth,food,orgf,3,AFFECTS_FOODafctORGF
+C0016452,C0025519,AFFECTS,Food,Metabolism,food,orgf,1,AFFECTS_FOODafctORGF
+C0016452,C0026649,AFFECTS,Food,Movement,food,orgf,3,AFFECTS_FOODafctORGF
+C0016452,C0035150,AFFECTS,Food,Reproduction,food,orgf,1,AFFECTS_FOODafctORGF
+C0016452,C0678889,AFFECTS,Food,Immunoregulation,food,orgf,1,AFFECTS_FOODafctORGF
+C0016452,C1136180,AFFECTS,Food,Disease Resistance,food,orgf,1,AFFECTS_FOODafctORGF
+C0029035,C0025516,AFFECTS,Onions,"Metabolic Detoxication, Drug",food,orgf,1,AFFECTS_FOODafctORGF
+C0039400,C0025516,AFFECTS,Tea,"Metabolic Detoxication, Drug",food,orgf,1,AFFECTS_FOODafctORGF
+C0043188,C0012238,AFFECTS,Wine,Digestion,food,orgf,2,AFFECTS_FOODafctORGF
+C0043188,C0013470,AFFECTS,Wine,Eating,food,orgf,1,AFFECTS_FOODafctORGF
+C0206208,C0018270,AFFECTS,Seafood,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C0242295,C0014653,AFFECTS,Dietary Supplements,Equilibrium,food,orgf,1,AFFECTS_FOODafctORGF
+C0242295,C0018270,AFFECTS,Dietary Supplements,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C0242295,C1510470,AFFECTS,Dietary Supplements,Motility,food,orgf,2,AFFECTS_FOODafctORGF
+C0331591,C0025516,AFFECTS,Chives (dietary),"Metabolic Detoxication, Drug",food,orgf,1,AFFECTS_FOODafctORGF
+C0331595,C0025516,AFFECTS,Leeks (dietary),"Metabolic Detoxication, Drug",food,orgf,1,AFFECTS_FOODafctORGF
+C0349966,C0018270,AFFECTS,Figs - dietary,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C0349966,C0026559,AFFECTS,Figs - dietary,Morphogenesis,food,orgf,1,AFFECTS_FOODafctORGF
+C0349966,C0037361,AFFECTS,Figs - dietary,Smell Perception,food,orgf,1,AFFECTS_FOODafctORGF
+C0597423,C0025519,AFFECTS,Saturated fat,Metabolism,food,orgf,1,AFFECTS_FOODafctORGF
+C0678695,C0011135,AFFECTS,Nutrients,Defecation,food,orgf,1,AFFECTS_FOODafctORGF
+C0678695,C0013470,AFFECTS,Nutrients,Eating,food,orgf,2,AFFECTS_FOODafctORGF
+C0678695,C0018270,AFFECTS,Nutrients,Growth,food,orgf,3,AFFECTS_FOODafctORGF
+C0678695,C0025519,AFFECTS,Nutrients,Metabolism,food,orgf,2,AFFECTS_FOODafctORGF
+C0678695,C3825968,AFFECTS,Nutrients,Microbial metabolism,food,orgf,1,AFFECTS_FOODafctORGF
+C0681574,C0597252,AFFECTS,sugar cane,Plant Development,food,orgf,1,AFFECTS_FOODafctORGF
+C0950154,C0018270,AFFECTS,"Food, Genetically Modified",Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C1095830,C0018270,AFFECTS,Apple,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C1510451,C0026649,AFFECTS,French fries,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C1875723,C0005615,AFFECTS,REGAIN,Birth,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0001811,AFFECTS,Pivot,Aging,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0005823,AFFECTS,Pivot,Blood Pressure,food,orgf,2,AFFECTS_FOODafctORGF
+C2947019,C0014653,AFFECTS,Pivot,Equilibrium,food,orgf,2,AFFECTS_FOODafctORGF
+C2947019,C0018270,AFFECTS,Pivot,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0020966,AFFECTS,Pivot,Cellular Immunity,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0026559,AFFECTS,Pivot,Morphogenesis,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0026649,AFFECTS,Pivot,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0597462,AFFECTS,Pivot,skeletal regeneration,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0678723,AFFECTS,Pivot,Biologic Development,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C1155328,AFFECTS,Pivot,Antiviral Response,food,orgf,1,AFFECTS_FOODafctORGF

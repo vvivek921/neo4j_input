@@ -1,0 +1,70 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002680,C0007620,AFFECTS,Ampicillin,Cell Survival,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C0019595,AFFECTS,Antibiotics,Histamine Release,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C1160466,AFFECTS,Antibiotics,conjugation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003240,C0312861,AFFECTS,Macrolide Antibiotics,Neutrophil chemotaxis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003240,C1523908,AFFECTS,Macrolide Antibiotics,apoptotic cell clearance,antb,celf,1,AFFECTS_ANTBafctCELF
+C0007537,C1622501,AFFECTS,Cefaclor,"Migration, Cell",antb,celf,1,AFFECTS_ANTBafctCELF
+C0007735,C0042774,AFFECTS,Cephalothin,Virus Replication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0007738,C0162638,AFFECTS,Cephradine,Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0010572,C0042774,AFFECTS,Cycloheximide,Virus Replication,antb,celf,2,AFFECTS_ANTBafctCELF
+C0013089,C0007620,AFFECTS,Doxorubicin,Cell Survival,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C0162638,AFFECTS,Doxorubicin,Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C1512772,AFFECTS,Doxorubicin,Negative Regulation of Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C1720920,AFFECTS,Doxorubicin,"Membrane Potential, Mitochondrial",antb,celf,1,AFFECTS_ANTBafctCELF
+C0013090,C0599733,AFFECTS,Doxycycline,cell killing,antb,celf,1,AFFECTS_ANTBafctCELF
+C0016095,C3156643,AFFECTS,Filipin,caveolin-mediated endocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026187,C0334220,AFFECTS,Minocycline,Remyelination,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026187,C1326169,AFFECTS,Minocycline,microglial cell activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C0010813,AFFECTS,Monensin,Cytokinesis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C0599814,AFFECTS,Monensin,Intracellular Transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C1159788,AFFECTS,Monensin,transport of virus,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C1326393,AFFECTS,Monensin,Golgi vesicle transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C3821014,AFFECTS,Monensin,viral egress,antb,celf,1,AFFECTS_ANTBafctCELF
+C0028741,C0014139,AFFECTS,Nystatin,Endocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C0031308,AFFECTS,Azithromycin,Phagocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C0598953,AFFECTS,Brefeldin A,retrograde transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C0599814,AFFECTS,Brefeldin A,Intracellular Transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0004391,AFFECTS,Sirolimus,Autophagy,antb,celf,4,AFFECTS_ANTBafctCELF
+C0072980,C0007595,AFFECTS,Sirolimus,cell growth,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0007613,AFFECTS,Sirolimus,Cell physiology,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0037083,AFFECTS,Sirolimus,Signal Transduction,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0042774,AFFECTS,Sirolimus,Virus Replication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C1155065,AFFECTS,Sirolimus,T-Cell Activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C1516334,AFFECTS,Sirolimus,Cell Cycle Progression,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0004391,AFFECTS,rosoxacin,Autophagy,antb,celf,2,AFFECTS_ANTBafctCELF
+C0073591,C0007582,AFFECTS,rosoxacin,Cell Communication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0007587,AFFECTS,rosoxacin,Cell Death,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0007589,AFFECTS,rosoxacin,Cell Differentiation process,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0007613,AFFECTS,rosoxacin,Cell physiology,antb,celf,4,AFFECTS_ANTBafctCELF
+C0073591,C0007620,AFFECTS,rosoxacin,Cell Survival,antb,celf,4,AFFECTS_ANTBafctCELF
+C0073591,C0010813,AFFECTS,rosoxacin,Cytokinesis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0031308,AFFECTS,rosoxacin,Phagocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0037083,AFFECTS,rosoxacin,Signal Transduction,antb,celf,7,AFFECTS_ANTBafctCELF
+C0073591,C0162638,AFFECTS,rosoxacin,Apoptosis,antb,celf,23,AFFECTS_ANTBafctCELF
+C0073591,C0282636,AFFECTS,rosoxacin,Cell Respiration,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0599733,AFFECTS,rosoxacin,cell killing,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C0600431,AFFECTS,rosoxacin,Calcium Signaling,antb,celf,2,AFFECTS_ANTBafctCELF
+C0073591,C1155002,AFFECTS,rosoxacin,endothelial cell activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1155065,AFFECTS,rosoxacin,T-Cell Activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1155229,AFFECTS,rosoxacin,Humoral immune response,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1155873,AFFECTS,rosoxacin,Cell Cycle Arrest,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1159344,AFFECTS,rosoxacin,ER to Golgi vesicle-mediated transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1512772,AFFECTS,rosoxacin,Negative Regulation of Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1516348,AFFECTS,rosoxacin,Cell Maintenance,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1657987,AFFECTS,rosoxacin,neuron development,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C1720920,AFFECTS,rosoxacin,"Membrane Potential, Mitochondrial",antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C2610216,AFFECTS,rosoxacin,store-operated calcium entry,antb,celf,2,AFFECTS_ANTBafctCELF
+C0073591,C2610947,AFFECTS,rosoxacin,mucus secretion,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C2611812,AFFECTS,rosoxacin,signaling cascade,antb,celf,2,AFFECTS_ANTBafctCELF
+C0073591,C2755576,AFFECTS,rosoxacin,Golgi disassembly,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C3269135,AFFECTS,rosoxacin,apoptotic signaling pathway,antb,celf,2,AFFECTS_ANTBafctCELF
+C0073591,C3546309,AFFECTS,rosoxacin,activation-induced cell death,antb,celf,1,AFFECTS_ANTBafctCELF
+C0073591,C3825288,AFFECTS,rosoxacin,Cellular signal transduction,antb,celf,3,AFFECTS_ANTBafctCELF
+C0125179,C4231795,AFFECTS,lactacystin,lysosomal proteolysis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0279516,C0004391,AFFECTS,Anti-Bacterial Agents,Autophagy,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0007586,AFFECTS,NS 5,Cell Cycle,antb,celf,4,AFFECTS_ANTBafctCELF
+C0614427,C0010813,AFFECTS,NS 5,Cytokinesis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0042774,AFFECTS,NS 5,Virus Replication,antb,celf,4,AFFECTS_ANTBafctCELF
+C0614427,C0302167,AFFECTS,NS 5,capping,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C1155342,AFFECTS,NS 5,cellular response to unfolded protein,antb,celf,1,AFFECTS_ANTBafctCELF

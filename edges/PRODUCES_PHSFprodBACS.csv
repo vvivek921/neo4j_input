@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C0040549,PRODUCES,Blood Circulation,Toxin,phsf,bacs,2,PRODUCES_PHSFprodBACS
+C0014272,C0017725,PRODUCES,Energy Metabolism,Glucose,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0014272,C0162772,PRODUCES,Energy Metabolism,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0020964,C0032136,PRODUCES,Immunity,Plasmids,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0020964,C0032615,PRODUCES,Immunity,Polyunsaturated Fatty Acids,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0020964,C1099354,PRODUCES,Immunity,"RNA, Small Interfering",phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0035203,C0016693,PRODUCES,Respiration,Free Radicals,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0035203,C0162772,PRODUCES,Respiration,Reactive Oxygen Species,phsf,bacs,2,PRODUCES_PHSFprodBACS
+C0035203,C0178645,PRODUCES,Respiration,oxygen free radical,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0149784,C0162772,PRODUCES,biological adaptation to stress,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0221102,C0010294,PRODUCES,Excretory function,Creatinine,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0232338,C0016693,PRODUCES,Blood flow,Free Radicals,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C0001480,PRODUCES,Uptake,Adenosine Triphosphate,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C0009235,PRODUCES,Uptake,Coenzymes,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C0017725,PRODUCES,Uptake,Glucose,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C0028606,PRODUCES,Uptake,Nucleic Acids,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C1099354,PRODUCES,Uptake,"RNA, Small Interfering",phsf,bacs,2,PRODUCES_PHSFprodBACS
+C0243144,C3254637,PRODUCES,Uptake,SAT05f,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0868946,C0012854,PRODUCES,digest,DNA,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0868946,C1099354,PRODUCES,digest,"RNA, Small Interfering",phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0870882,C0162772,PRODUCES,metabolic rates,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1326962,C0017725,PRODUCES,ion homeostasis,Glucose,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1371848,C0035701,PRODUCES,Decreased Protein Synthesis [PE],Ribosomal RNA,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514503,C0028128,PRODUCES,Prostaglandin Production,Nitric Oxide,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514892,C0012854,PRODUCES,Resistance Process,DNA,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514892,C0028128,PRODUCES,Resistance Process,Nitric Oxide,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514892,C0086860,PRODUCES,Resistance Process,promoter,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1515425,C0028128,PRODUCES,Thromboxane Production,Nitric Oxide,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1704520,C0032136,PRODUCES,Primary Respiratory Mechanism,Plasmids,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C3714584,C0017973,PRODUCES,"Transformation, function",Glycosaminoglycans,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C3714584,C0032136,PRODUCES,"Transformation, function",Plasmids,phsf,bacs,1,PRODUCES_PHSFprodBACS

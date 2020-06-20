@@ -1,0 +1,123 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001645,C0700148,CAUSES,Adrenergic beta-Antagonists,Congestion,phsu,patf,1,CAUSES_PHSUcausPATF
+C0001648,C0016059,CAUSES,Adrenergic Agonists,Fibrosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0002932,C0003130,CAUSES,Anesthetics,Anoxia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0002932,C0020517,CAUSES,Anesthetics,Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0002934,C0036974,CAUSES,Local Anesthetics,Shock,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003015,C0002994,CAUSES,Angiotensin-Converting Enzyme Inhibitors,Angioedema,phsu,patf,3,CAUSES_PHSUcausPATF
+C0003015,C0015927,CAUSES,Angiotensin-Converting Enzyme Inhibitors,Fetal Death,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003195,C0919924,CAUSES,Anti-Arrhythmia Agents,pulmonary toxicity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003204,C0221242,CAUSES,Anti-Infective Agents,Fixed drug eruption,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003209,C0016059,CAUSES,Anti-Inflammatory Agents,Fibrosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003209,C0020517,CAUSES,Anti-Inflammatory Agents,Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003209,C0021368,CAUSES,Anti-Inflammatory Agents,Inflammation,phsu,patf,4,CAUSES_PHSUcausPATF
+C0003209,C0040053,CAUSES,Anti-Inflammatory Agents,Thrombosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003209,C0232219,CAUSES,Anti-Inflammatory Agents,Abnormal cardiac conduction,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003209,C1373218,CAUSES,Anti-Inflammatory Agents,Decreased Immunologic Activity [PE],phsu,patf,1,CAUSES_PHSUcausPATF
+C0003211,C0002994,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Angioedema,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003211,C0019080,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Hemorrhage,phsu,patf,3,CAUSES_PHSUcausPATF
+C0003211,C0020517,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003211,C0041755,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Adverse reaction to drug,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003211,C1817978,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",acute inflammatory response,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003280,C0019080,CAUSES,Anticoagulants,Hemorrhage,phsu,patf,2,CAUSES_PHSUcausPATF
+C0003280,C0040053,CAUSES,Anticoagulants,Thrombosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003308,C3658208,CAUSES,Antifungal Agents,Dysbiosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003364,C0002994,CAUSES,Antihypertensive Agents,Angioedema,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003364,C0428977,CAUSES,Antihypertensive Agents,Bradycardia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003374,C0232219,CAUSES,Antimalarials,Abnormal cardiac conduction,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003376,C0919924,CAUSES,Antimetabolites,pulmonary toxicity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003379,C1720798,CAUSES,Antimitotic Agents,Radiation Recall Dermatitis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003402,C0021368,CAUSES,Antioxidants,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003402,C1155266,CAUSES,Antioxidants,inflammatory response,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003451,C0151763,CAUSES,Antiviral Agents,Liver damage,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003451,C0235029,CAUSES,Antiviral Agents,neurological complication,phsu,patf,1,CAUSES_PHSUcausPATF
+C0003451,C0815080,CAUSES,Antiviral Agents,organ rejection,phsu,patf,2,CAUSES_PHSUcausPATF
+C0003451,C1155266,CAUSES,Antiviral Agents,inflammatory response,phsu,patf,1,CAUSES_PHSUcausPATF
+C0009905,C0700148,CAUSES,"Contraceptives, Oral",Congestion,phsu,patf,1,CAUSES_PHSUcausPATF
+C0010858,C0919924,CAUSES,Cytostatic Agents,pulmonary toxicity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0012798,C0001122,CAUSES,Diuretics,Acidosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0012798,C0220981,CAUSES,Diuretics,Metabolic acidosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0012798,C0268000,CAUSES,Diuretics,Body fluid retention,phsu,patf,1,CAUSES_PHSUcausPATF
+C0012800,C0546817,CAUSES,"Diuretics, Osmotic",Fluid overload,phsu,patf,1,CAUSES_PHSUcausPATF
+C0013162,C0678798,CAUSES,Drug Combinations,Adverse drug interaction,phsu,patf,1,CAUSES_PHSUcausPATF
+C0013983,C0020517,CAUSES,Emollients,Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0019593,C0017181,CAUSES,Histamine H2 Antagonists,Gastrointestinal Hemorrhage,phsu,patf,1,CAUSES_PHSUcausPATF
+C0019593,C0020507,CAUSES,Histamine H2 Antagonists,Hyperplasia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0019593,C0333977,CAUSES,Histamine H2 Antagonists,Atypical hyperplasia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0020616,C0021368,CAUSES,Hypoglycemic Agents,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C0022022,C0235957,CAUSES,Ionophores,myonecrosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0027048,C0036980,CAUSES,Cardiac Depressants,"Shock, Cardiogenic",phsu,patf,1,CAUSES_PHSUcausPATF
+C0033607,C0013990,CAUSES,Protease Inhibitors,Pathological accumulation of air in tissues,phsu,patf,1,CAUSES_PHSUcausPATF
+C0042397,C0022116,CAUSES,Vasoconstrictor Agents,Ischemia,phsu,patf,2,CAUSES_PHSUcausPATF
+C0042402,C0019080,CAUSES,Vasodilator Agents,Hemorrhage,phsu,patf,2,CAUSES_PHSUcausPATF
+C0051821,C0035228,CAUSES,andrographolide,Respiratory Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C0065334,C0428977,CAUSES,lycorenine,Bradycardia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0074765,C0151763,CAUSES,sodium selenate,Liver damage,phsu,patf,1,CAUSES_PHSUcausPATF
+C0076797,C0020963,CAUSES,Tolerogen,Immune Tolerance,phsu,patf,1,CAUSES_PHSUcausPATF
+C0085387,C0022116,CAUSES,Cyclooxygenase Inhibitors,Ischemia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0085826,C0036974,CAUSES,Antiplatelet Agents,Shock,phsu,patf,1,CAUSES_PHSUcausPATF
+C0242889,C0333641,CAUSES,Adrenergic Antagonists,Atrophic,phsu,patf,2,CAUSES_PHSUcausPATF
+C0301380,C0428977,CAUSES,"Cardiac depressant drug, NOS",Bradycardia,phsu,patf,1,CAUSES_PHSUcausPATF
+C0304497,C0016059,CAUSES,Cytotoxic agent (product),Fibrosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0304497,C0333355,CAUSES,Cytotoxic agent (product),Inflammatory disease of mucous membrane,phsu,patf,1,CAUSES_PHSUcausPATF
+C0358591,C0017181,CAUSES,Proton Pump Inhibitors,Gastrointestinal Hemorrhage,phsu,patf,1,CAUSES_PHSUcausPATF
+C0358591,C3714514,CAUSES,Proton Pump Inhibitors,Infection,phsu,patf,1,CAUSES_PHSUcausPATF
+C0387198,C0020542,CAUSES,bofu-tsusho-san,Pulmonary Hypertension,phsu,patf,1,CAUSES_PHSUcausPATF
+C0521942,C0002994,CAUSES,Angiotensin II receptor antagonist,Angioedema,phsu,patf,2,CAUSES_PHSUcausPATF
+C0544357,C0029445,CAUSES,human plasma,Bone necrosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0596537,C0036983,CAUSES,esterase inhibitor,Septic Shock,phsu,patf,1,CAUSES_PHSUcausPATF
+C0600437,C0021368,CAUSES,Nitric Oxide Donors,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C0683092,C3203358,CAUSES,intravenous drug,Hypoventilation,phsu,patf,1,CAUSES_PHSUcausPATF
+C0719214,C0021368,CAUSES,century,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C0719214,C0036974,CAUSES,century,Shock,phsu,patf,1,CAUSES_PHSUcausPATF
+C0719214,C0043241,CAUSES,century,Wound Infection,phsu,patf,1,CAUSES_PHSUcausPATF
+C0719214,C0232981,CAUSES,century,Arrest of spermatogenesis,phsu,patf,1,CAUSES_PHSUcausPATF
+C0719214,C3714514,CAUSES,century,Infection,phsu,patf,1,CAUSES_PHSUcausPATF
+C0884973,C0685898,CAUSES,"Daucus carota, flower essence",Food anaphylaxis,phsu,patf,1,CAUSES_PHSUcausPATF
+C1136254,C0021368,CAUSES,Microbicides,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C1136254,C0036974,CAUSES,Microbicides,Shock,phsu,patf,1,CAUSES_PHSUcausPATF
+C1136254,C0041755,CAUSES,Microbicides,Adverse reaction to drug,phsu,patf,1,CAUSES_PHSUcausPATF
+C1136254,C0151521,CAUSES,Microbicides,Bacterial resistance,phsu,patf,1,CAUSES_PHSUcausPATF
+C1136254,C1155266,CAUSES,Microbicides,inflammatory response,phsu,patf,1,CAUSES_PHSUcausPATF
+C1268919,C0752350,CAUSES,Fungal product,Embryo Death,phsu,patf,1,CAUSES_PHSUcausPATF
+C1445451,C0035228,CAUSES,Dermatophagoides pteronyssinus diagnostic allergen extract,Respiratory Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C1445706,C0021376,CAUSES,Microbial agent,Chronic inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C1445706,C0024348,CAUSES,Microbial agent,Lysis,phsu,patf,1,CAUSES_PHSUcausPATF
+C1445706,C3714514,CAUSES,Microbial agent,Infection,phsu,patf,1,CAUSES_PHSUcausPATF
+C1519664,C0919924,CAUSES,Tubulin Binding Agent,pulmonary toxicity,phsu,patf,1,CAUSES_PHSUcausPATF
+C1520007,C1155266,CAUSES,viral vector,inflammatory response,phsu,patf,1,CAUSES_PHSUcausPATF
+C1874451,C0020517,CAUSES,Basis,Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C1874451,C0035228,CAUSES,Basis,Respiratory Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C1874451,C3714514,CAUSES,Basis,Infection,phsu,patf,1,CAUSES_PHSUcausPATF
+C1875384,C0018273,CAUSES,INVESTIGATIONAL VACCINES,Growth Disorders,phsu,patf,1,CAUSES_PHSUcausPATF
+C2746076,C0428977,CAUSES,Adrenergic alpha-2 Receptor Agonists,Bradycardia,phsu,patf,1,CAUSES_PHSUcausPATF
+C2936609,C0021368,CAUSES,Phosphodiesterase 4 Inhibitors,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C2954564,C1373218,CAUSES,Suppressor,Decreased Immunologic Activity [PE],phsu,patf,1,CAUSES_PHSUcausPATF
+C2987634,C0016059,CAUSES,Agonist,Fibrosis,phsu,patf,1,CAUSES_PHSUcausPATF
+C2987634,C0020564,CAUSES,Agonist,Hypertrophy,phsu,patf,1,CAUSES_PHSUcausPATF
+C2987634,C0024348,CAUSES,Agonist,Lysis,phsu,patf,1,CAUSES_PHSUcausPATF
+C2987634,C0036974,CAUSES,Agonist,Shock,phsu,patf,1,CAUSES_PHSUcausPATF
+C2987634,C1383860,CAUSES,Agonist,Cardiac Hypertrophy,phsu,patf,1,CAUSES_PHSUcausPATF
+C3166216,C0151701,CAUSES,Prescribed medications,Pulmonary hemorrhage,phsu,patf,1,CAUSES_PHSUcausPATF
+C3166216,C0678798,CAUSES,Prescribed medications,Adverse drug interaction,phsu,patf,1,CAUSES_PHSUcausPATF
+C3241999,C0020517,CAUSES,limited use,Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0020517,CAUSES,other medicated shampoos in ATC,Hypersensitivity,phsu,patf,3,CAUSES_PHSUcausPATF
+C3539125,C0021368,CAUSES,other medicated shampoos in ATC,Inflammation,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0021655,CAUSES,other medicated shampoos in ATC,Insulin Resistance,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0022876,CAUSES,other medicated shampoos in ATC,Premature Obstetric Labor,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0024348,CAUSES,other medicated shampoos in ATC,Lysis,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0036679,CAUSES,other medicated shampoos in ATC,Diastasis,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0206277,CAUSES,other medicated shampoos in ATC,Fatal Outcome,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0332448,CAUSES,other medicated shampoos in ATC,Infiltration,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0333563,CAUSES,other medicated shampoos in ATC,Hyaline membrane,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C0333565,CAUSES,other medicated shampoos in ATC,Fibrin deposition,phsu,patf,1,CAUSES_PHSUcausPATF
+C3539125,C1155266,CAUSES,other medicated shampoos in ATC,inflammatory response,phsu,patf,2,CAUSES_PHSUcausPATF
+C3539125,C3714514,CAUSES,other medicated shampoos in ATC,Infection,phsu,patf,5,CAUSES_PHSUcausPATF
+C3539125,C4061114,CAUSES,other medicated shampoos in ATC,Acute illness,phsu,patf,1,CAUSES_PHSUcausPATF
+C3543842,C0028778,CAUSES,TONICS,Obstruction,phsu,patf,1,CAUSES_PHSUcausPATF
+C3543842,C0428977,CAUSES,TONICS,Bradycardia,phsu,patf,1,CAUSES_PHSUcausPATF
+C3543842,C0543419,CAUSES,TONICS,Sequela of disorder,phsu,patf,1,CAUSES_PHSUcausPATF
+C3543842,C0700148,CAUSES,TONICS,Congestion,phsu,patf,2,CAUSES_PHSUcausPATF
+C3653430,C0020517,CAUSES,Histamine H2 receptor antagonists for peptic ulcer and GORD,Hypersensitivity,phsu,patf,1,CAUSES_PHSUcausPATF
+C3850094,C0015376,CAUSES,Bradykinin Receptor Antagonists,Extravasation,phsu,patf,1,CAUSES_PHSUcausPATF
+C4330852,C0011304,CAUSES,Oligomeric Procyanidin Complex,Demyelination,phsu,patf,1,CAUSES_PHSUcausPATF

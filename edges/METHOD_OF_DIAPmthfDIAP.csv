@@ -1,0 +1,219 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0430471,METHOD_OF,angiogram,Radionuclide myocardial perfusion study,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0003904,C0807679,METHOD_OF,Arthroscopy,Radiology studies,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0004339,C0006290,METHOD_OF,Auscultation,Bronchoscopy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0004339,C0030987,METHOD_OF,Auscultation,Percussion,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0004398,C0021044,METHOD_OF,Autopsy,Immunohistochemistry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0004398,C0332140,METHOD_OF,Autopsy,"Diagnosis, clinical",diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0004398,C0431080,METHOD_OF,Autopsy,Diagnostic assessment,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0004398,C1964257,METHOD_OF,Autopsy,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C0002978,METHOD_OF,Biopsy,angiogram,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C0004398,METHOD_OF,Biopsy,Autopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C0011906,METHOD_OF,Biopsy,Differential Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C0011911,METHOD_OF,Biopsy,Laboratory Diagnosis,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0005558,C0021044,METHOD_OF,Biopsy,Immunohistochemistry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C0332140,METHOD_OF,Biopsy,"Diagnosis, clinical",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C0679557,METHOD_OF,Biopsy,histological diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C1567151,METHOD_OF,Biopsy,Antemortem Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C1964257,METHOD_OF,Biopsy,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005558,C4071824,METHOD_OF,Biopsy,Superficial biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0005560,C0024485,METHOD_OF,Needle biopsy procedure,Magnetic Resonance Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0006290,C0005558,METHOD_OF,Bronchoscopy,Biopsy,diap,diap,3,METHOD_OF_DIAPmthfDIAP
+C0006290,C0202823,METHOD_OF,Bronchoscopy,Chest CT,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0006290,C0332140,METHOD_OF,Bronchoscopy,"Diagnosis, clinical",diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0006290,C0396473,METHOD_OF,Bronchoscopy,Bronchoscopic irrigation,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0006290,C0750430,METHOD_OF,Bronchoscopy,work up,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0008310,C0596473,METHOD_OF,Endoscopic Retrograde Cholangiopancreatography,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0009378,C0192867,METHOD_OF,colonoscopy,Biopsy of colon,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0011905,C0596473,METHOD_OF,Computer Assisted Diagnosis,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0011906,C0750430,METHOD_OF,Differential Diagnosis,work up,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0013516,C0011933,METHOD_OF,Echocardiography,diagnostic use,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0013516,C0412692,METHOD_OF,Echocardiography,Magnetic Resonance Imaging (MRI) of Heart,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0013516,C0560738,METHOD_OF,Echocardiography,VQ - Ventilation perfusion scan,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0013516,C1567151,METHOD_OF,Echocardiography,Antemortem Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0013516,C2024217,METHOD_OF,Echocardiography,cardiac assessments,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0014245,C0005558,METHOD_OF,Endoscopy (procedure),Biopsy,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0021044,C0004398,METHOD_OF,Immunohistochemistry,Autopsy,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0021044,C0005558,METHOD_OF,Immunohistochemistry,Biopsy,diap,diap,5,METHOD_OF_DIAPmthfDIAP
+C0021044,C0011923,METHOD_OF,Immunohistochemistry,Diagnostic Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0021044,C0192867,METHOD_OF,Immunohistochemistry,Biopsy of colon,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0021044,C0332140,METHOD_OF,Immunohistochemistry,"Diagnosis, clinical",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0021044,C0399805,METHOD_OF,Immunohistochemistry,Biopsy of duodenum,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0021044,C0852695,METHOD_OF,Immunohistochemistry,Biopsy of Mucosa,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0021044,C1964257,METHOD_OF,Immunohistochemistry,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0021881,C0037296,METHOD_OF,Intradermal Tests,Hypersensitivity skin testing,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024119,C4525830,METHOD_OF,Pulmonary function tests,Elastance,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0027853,METHOD_OF,Magnetic Resonance Imaging,Neurologic Examination,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0040405,METHOD_OF,Magnetic Resonance Imaging,X-Ray Computed Tomography,diap,diap,3,METHOD_OF_DIAPmthfDIAP
+C0024485,C0041618,METHOD_OF,Magnetic Resonance Imaging,Ultrasonography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0080265,METHOD_OF,Magnetic Resonance Imaging,"Ultrasonography, Prenatal",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0202691,METHOD_OF,Magnetic Resonance Imaging,CAT scan of head,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0332140,METHOD_OF,Magnetic Resonance Imaging,"Diagnosis, clinical",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0419358,METHOD_OF,Magnetic Resonance Imaging,Exploration with a probe,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0024485,C0596473,METHOD_OF,Magnetic Resonance Imaging,Early Diagnosis,diap,diap,3,METHOD_OF_DIAPmthfDIAP
+C0024485,C0807679,METHOD_OF,Magnetic Resonance Imaging,Radiology studies,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C0877853,METHOD_OF,Magnetic Resonance Imaging,"Spectroscopy, Nuclear Magnetic Resonance",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C1306645,METHOD_OF,Magnetic Resonance Imaging,Plain x-ray,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0024485,C1964257,METHOD_OF,Magnetic Resonance Imaging,Observation - diagnostic procedure,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0029090,C0016313,METHOD_OF,Ophthalmoscopy,Fluorescein Angiography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0029090,C1964257,METHOD_OF,Ophthalmoscopy,Observation - diagnostic procedure,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0030247,C0030987,METHOD_OF,Palpation,Percussion,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0030987,C0030247,METHOD_OF,Percussion,Palpation,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0031150,C0021044,METHOD_OF,Laparoscopy,Immunohistochemistry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0032221,C0430511,METHOD_OF,Plethysmography,Vital capacity test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0032224,C0001884,METHOD_OF,"Plethysmography, Whole Body",Airway Resistance Test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0032224,C4054934,METHOD_OF,"Plethysmography, Whole Body",Forced Oscillation Technique,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0032743,C0034606,METHOD_OF,Positron-Emission Tomography,Radionuclide Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0032743,C0920688,METHOD_OF,Positron-Emission Tomography,cancer diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034108,C0086143,METHOD_OF,"Oximetry, Pulse",Diagnostic tests,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0006290,METHOD_OF,Radionuclide Imaging,Bronchoscopy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0021044,METHOD_OF,Radionuclide Imaging,Immunohistochemistry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0040405,METHOD_OF,Radionuclide Imaging,X-Ray Computed Tomography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0162701,METHOD_OF,Radionuclide Imaging,Polysomnography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0203634,METHOD_OF,Radionuclide Imaging,Nuclear medicine procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0546783,METHOD_OF,Radionuclide Imaging,vascular imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C0596473,METHOD_OF,Radionuclide Imaging,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C1962945,METHOD_OF,Radionuclide Imaging,Radiographic imaging procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034606,C3842377,METHOD_OF,Radionuclide Imaging,Chest radiograph,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0034610,C0278372,METHOD_OF,Radionuclide Ventriculography,Functional assessment,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0037296,C0242890,METHOD_OF,Hypersensitivity skin testing,Toxicity Tests,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0037981,C0024119,METHOD_OF,Spirometry,Pulmonary function tests,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0037981,C0030735,METHOD_OF,Spirometry,Peak expiratory flow rate measurement,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0037981,C0332140,METHOD_OF,Spirometry,"Diagnosis, clinical",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0037981,C0430511,METHOD_OF,Spirometry,Vital capacity test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0037981,C0596473,METHOD_OF,Spirometry,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0037981,C0841536,METHOD_OF,Spirometry,physiological assessment,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0039810,C0596473,METHOD_OF,thermography,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0039985,C0202823,METHOD_OF,Plain chest X-ray,Chest CT,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0039985,C0332140,METHOD_OF,Plain chest X-ray,"Diagnosis, clinical",diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0039985,C0596473,METHOD_OF,Plain chest X-ray,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C0332140,METHOD_OF,tomography,"Diagnosis, clinical",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C0596473,METHOD_OF,tomography,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C0807679,METHOD_OF,tomography,Radiology studies,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C0920149,METHOD_OF,tomography,Bone densitometry procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C1510483,METHOD_OF,tomography,Fine needle aspiration biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C1517324,METHOD_OF,tomography,Functional Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C1831737,METHOD_OF,tomography,infrared thermography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C1964257,METHOD_OF,tomography,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C2350393,METHOD_OF,tomography,Perfusion Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040395,C2986750,METHOD_OF,tomography,Filtered Backprojection,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0011906,METHOD_OF,X-Ray Computed Tomography,Differential Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0024485,METHOD_OF,X-Ray Computed Tomography,Magnetic Resonance Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0194073,METHOD_OF,X-Ray Computed Tomography,Kidney biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0332140,METHOD_OF,X-Ray Computed Tomography,"Diagnosis, clinical",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0558534,METHOD_OF,X-Ray Computed Tomography,Percutaneous liver biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0596217,METHOD_OF,X-Ray Computed Tomography,Brain scan,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C0596473,METHOD_OF,X-Ray Computed Tomography,Early Diagnosis,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0040405,C0872169,METHOD_OF,X-Ray Computed Tomography,fdg pet,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0040405,C3842377,METHOD_OF,X-Ray Computed Tomography,Chest radiograph,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0004398,METHOD_OF,Ultrasonography,Autopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0005558,METHOD_OF,Ultrasonography,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0027646,METHOD_OF,Ultrasonography,Diagnostic Neoplasm Staging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0030247,METHOD_OF,Ultrasonography,Palpation,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0041618,C0034606,METHOD_OF,Ultrasonography,Radionuclide Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0080265,METHOD_OF,Ultrasonography,"Ultrasonography, Prenatal",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0194073,METHOD_OF,Ultrasonography,Kidney biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0202823,METHOD_OF,Ultrasonography,Chest CT,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0441694,METHOD_OF,Ultrasonography,Pharmacological stimulation,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0558534,METHOD_OF,Ultrasonography,Percutaneous liver biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C0596473,METHOD_OF,Ultrasonography,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C1510483,METHOD_OF,Ultrasonography,Fine needle aspiration biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0041618,C2315751,METHOD_OF,Ultrasonography,Endorectal ultrasonography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0043299,C0024485,METHOD_OF,Diagnostic radiologic examination,Magnetic Resonance Imaging,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0043299,C0040405,METHOD_OF,Diagnostic radiologic examination,X-Ray Computed Tomography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0043299,C0184894,METHOD_OF,Diagnostic radiologic examination,"Incision, exploration and biopsy for determination of stage of disease",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0043299,C0376443,METHOD_OF,Diagnostic radiologic examination,Endoscopic Ultrasound,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0043299,C3842377,METHOD_OF,Diagnostic radiologic examination,Chest radiograph,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0079304,C0009378,METHOD_OF,Esophagogastroduodenoscopy,colonoscopy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0079304,C0192867,METHOD_OF,Esophagogastroduodenoscopy,Biopsy of colon,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0086143,C0011911,METHOD_OF,Diagnostic tests,Laboratory Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0086143,C0596473,METHOD_OF,Diagnostic tests,Early Diagnosis,diap,diap,4,METHOD_OF_DIAPmthfDIAP
+C0086143,C0683441,METHOD_OF,Diagnostic tests,serologic diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0086143,C0740178,METHOD_OF,Diagnostic tests,Antenatal screening procedures,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0086143,C0946326,METHOD_OF,Diagnostic tests,pulmonary studies,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0184921,C0597356,METHOD_OF,Excision biopsy,rapid diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0184921,C0679557,METHOD_OF,Excision biopsy,histological diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0184921,C1510483,METHOD_OF,Excision biopsy,Fine needle aspiration biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0184921,C1567151,METHOD_OF,Excision biopsy,Antemortem Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0184922,C0005558,METHOD_OF,Incisional biopsy - action,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0185283,C1567151,METHOD_OF,Muscle biopsy,Antemortem Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0189391,C0596473,METHOD_OF,Fiberoptic bronchoscopy,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0189896,C0013516,METHOD_OF,Catheterization of right heart,Echocardiography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0190979,C0005834,METHOD_OF,Venous blood sampling,Collection of blood specimen for laboratory procedure,diap,diap,4,METHOD_OF_DIAPmthfDIAP
+C0190979,C0430561,METHOD_OF,Venous blood sampling,Skin prick test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0193388,C0750430,METHOD_OF,Biopsy of liver (procedure),work up,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0199637,C0015260,METHOD_OF,Cardiotachometry,Exercise stress test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0200189,C0016313,METHOD_OF,Fundus photography,Fluorescein Angiography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0202616,C0004398,METHOD_OF,"Radiologic examination, osseous survey, complete",Autopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0202823,C0549075,METHOD_OF,Chest CT,Assessment: Respiration,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0202823,C0872187,METHOD_OF,Chest CT,high throughput screening,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0202823,C3842377,METHOD_OF,Chest CT,Chest radiograph,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0206054,C0013516,METHOD_OF,"Echocardiography, Transesophageal",Echocardiography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0260180,C0030198,METHOD_OF,Pupillometry,Pain Measurement,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0282675,C0162701,METHOD_OF,Teleconsultation,Polysomnography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0332140,C0011911,METHOD_OF,"Diagnosis, clinical",Laboratory Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0373345,C0596473,METHOD_OF,transrectal ultrasound,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0376443,C0596473,METHOD_OF,Endoscopic Ultrasound,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0392823,C0005558,METHOD_OF,Direct examination of larynx,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0399626,C0192867,METHOD_OF,Rigid sigmoidoscopy,Biopsy of colon,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0405917,C0184922,METHOD_OF,Limited thoracotomy,Incisional biopsy - action,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0419358,C0024485,METHOD_OF,Exploration with a probe,Magnetic Resonance Imaging,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0419358,C0872186,METHOD_OF,Exploration with a probe,high throughput analysis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430022,C0039985,METHOD_OF,diagnostic procedure,Plain chest X-ray,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430022,C0085105,METHOD_OF,diagnostic procedure,Breast Self-Examination,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430022,C0596473,METHOD_OF,diagnostic procedure,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430511,C0037981,METHOD_OF,Vital capacity test,Spirometry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430511,C1306036,METHOD_OF,Vital capacity test,Forced expiratory volume procedure,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C0430561,C0037296,METHOD_OF,Skin prick test,Hypersensitivity skin testing,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430615,C0430566,METHOD_OF,Rhinomanometry,Histamine challenge,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0430862,C0040420,METHOD_OF,Applanation tonometry,Tonometry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0431080,C3825392,METHOD_OF,Diagnostic assessment,Duplex ultrasonography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0456900,C0005558,METHOD_OF,Ultrasound guided biopsy,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0456900,C4266460,METHOD_OF,Ultrasound guided biopsy,Tissue sampling,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0497093,C0596473,METHOD_OF,Sensitivity test,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0521316,C0597356,METHOD_OF,Gallium scan,rapid diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0596608,C0203634,METHOD_OF,gel mobility shift assay,Nuclear medicine procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0598801,C2826145,METHOD_OF,Diffusion weighted imaging,Fluid Attenuated Inversion Recovery,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0599519,C0039810,METHOD_OF,remote sensing,thermography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0729619,C0596473,METHOD_OF,Computed tomography imaging - action,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0807679,C1964257,METHOD_OF,Radiology studies,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0849974,C0024119,METHOD_OF,Pulmonary Function Test/Forced Expiratory Volume 1,Pulmonary function tests,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0863477,C0005558,METHOD_OF,transbronchial lung biopsy,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0863477,C0396473,METHOD_OF,transbronchial lung biopsy,Bronchoscopic irrigation,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0863477,C0679557,METHOD_OF,transbronchial lung biopsy,histological diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0872169,C0040399,METHOD_OF,fdg pet,"Tomography, Emission-Computed, Single-Photon",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0872169,C0596473,METHOD_OF,fdg pet,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0872257,C0011911,METHOD_OF,rapid technique,Laboratory Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0872257,C0596473,METHOD_OF,rapid technique,Early Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0872257,C0872187,METHOD_OF,rapid technique,high throughput screening,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C0877853,C0024485,METHOD_OF,"Spectroscopy, Nuclear Magnetic Resonance",Magnetic Resonance Imaging,diap,diap,3,METHOD_OF_DIAPmthfDIAP
+C0948501,C0041618,METHOD_OF,Ultrasound examination,Ultrasonography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1293901,C0849974,METHOD_OF,Exercise challenge,Pulmonary Function Test/Forced Expiratory Volume 1,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1300249,C0189024,METHOD_OF,Non-contact tonometry,Endoscopy of nose,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1306645,C1964257,METHOD_OF,Plain x-ray,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1444581,C1444582,METHOD_OF,Direct Ophthalmoscopy,Indirect ophthalmoscopy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1444582,C0029090,METHOD_OF,Indirect ophthalmoscopy,Ophthalmoscopy,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C1510483,C0021044,METHOD_OF,Fine needle aspiration biopsy,Immunohistochemistry,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1510483,C0444186,METHOD_OF,Fine needle aspiration biopsy,Smear test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1510483,C1567151,METHOD_OF,Fine needle aspiration biopsy,Antemortem Diagnosis,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1512457,C0006282,METHOD_OF,High Resolution Computed Tomography,Contrast bronchogram,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1517324,C0032743,METHOD_OF,Functional Imaging,Positron-Emission Tomography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1536105,C0013524,METHOD_OF,Computed Tomography Angiography,2D Echocardiography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1536105,C0039985,METHOD_OF,Computed Tomography Angiography,Plain chest X-ray,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1536105,C0677490,METHOD_OF,Computed Tomography Angiography,Pulmonary angiogram,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1705491,C1964257,METHOD_OF,Blood Oxygen Level Dependant Functional Magnetic Resonance Imaging,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1736924,C0005558,METHOD_OF,CT scan Guidance,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1831737,C0596473,METHOD_OF,infrared thermography,Early Diagnosis,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C1881134,C0005558,METHOD_OF,Image Study,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1881134,C4042877,METHOD_OF,Image Study,Clinical Decision-Making,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1964257,C0032743,METHOD_OF,Observation - diagnostic procedure,Positron-Emission Tomography,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C1964257,C0079104,METHOD_OF,Observation - diagnostic procedure,Pap smear,diap,diap,2,METHOD_OF_DIAPmthfDIAP
+C2350281,C0002978,METHOD_OF,X-Ray Microtomography,angiogram,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C2350281,C0729707,METHOD_OF,X-Ray Microtomography,"Computerized tomography, 3 dimensional reconstruction",diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C2585897,C2348813,METHOD_OF,Focused assessment with ultrasonography for trauma,Transabdominal Ultrasound,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C2923055,C0005558,METHOD_OF,Video assisted thoracoscopy,Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C2923055,C0192152,METHOD_OF,Video assisted thoracoscopy,Wedge Biopsy,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C3697931,C1964257,METHOD_OF,Differential interference contrast,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C3842377,C0041290,METHOD_OF,Chest radiograph,Tuberculin Test,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C3842377,C1964257,METHOD_OF,Chest radiograph,Observation - diagnostic procedure,diap,diap,1,METHOD_OF_DIAPmthfDIAP
+C4054934,C4049798,METHOD_OF,Forced Oscillation Technique,Total Respiratory System Resistance,diap,diap,1,METHOD_OF_DIAPmthfDIAP

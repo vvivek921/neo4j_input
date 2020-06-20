@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010813,C0011065,PRECEDES,Cytokinesis,Cessation of life,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0010813,C0012238,PRECEDES,Cytokinesis,Digestion,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0010813,C0678723,PRECEDES,Cytokinesis,Biologic Development,celf,orgf,2,PRECEDES_CELFprcdORGF
+C0010813,C0699900,PRECEDES,Cytokinesis,Catabolism,celf,orgf,4,PRECEDES_CELFprcdORGF
+C0014139,C0005615,PRECEDES,Endocytosis,Birth,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0014139,C0026649,PRECEDES,Endocytosis,Movement,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0014139,C0678723,PRECEDES,Endocytosis,Biologic Development,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0014139,C1819437,PRECEDES,Endocytosis,interleukin-10 production,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0031308,C0012238,PRECEDES,Phagocytosis,Digestion,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0031308,C0678723,PRECEDES,Phagocytosis,Biologic Development,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0042774,C0011065,PRECEDES,Virus Replication,Cessation of life,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1155229,C0020967,PRECEDES,Humoral immune response,Humoral Immunity,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1159342,C0560560,PRECEDES,Secretory Pathway,Moving,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0005615,PRECEDES,unidirectional conjugation,Birth,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0014948,PRECEDES,unidirectional conjugation,Estrus,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0015914,PRECEDES,unidirectional conjugation,Fertilization,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0032961,PRECEDES,unidirectional conjugation,Pregnancy,celf,orgf,3,PRECEDES_CELFprcdORGF
+C1160466,C0025516,PRECEDES,conjugation,"Metabolic Detoxication, Drug",celf,orgf,1,PRECEDES_CELFprcdORGF
+C1326205,C0699900,PRECEDES,Positive Regulation of Apoptosis,Catabolism,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1326207,C0699900,PRECEDES,"Programmed Cell Death, Type II",Catabolism,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1326474,C0699900,PRECEDES,vesicle fusion,Catabolism,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1516334,C1160185,PRECEDES,Cell Cycle Progression,transduction,celf,orgf,1,PRECEDES_CELFprcdORGF

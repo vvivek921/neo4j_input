@@ -1,0 +1,117 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C1326120,NEG_CAUSES,Acute-Phase Proteins,cell activation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0003241,C0003272,NEG_CAUSES,Antibodies,Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0003241,C0032176,NEG_CAUSES,Antibodies,Platelet aggregation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0003250,C0037083,NEG_CAUSES,Monoclonal Antibodies,Signal Transduction,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0003250,C0162638,NEG_CAUSES,Monoclonal Antibodies,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0010590,C0004391,NEG_CAUSES,Cycloserine,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0010590,C0007587,NEG_CAUSES,Cycloserine,Cell Death,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C0010590,C0162638,NEG_CAUSES,Cycloserine,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0010654,C1156309,NEG_CAUSES,Cysteine,syncytium formation by plasma membrane fusion,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0010656,C0162638,NEG_CAUSES,caspase,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0017237,C0178666,NEG_CAUSES,Gelatin,glucose transport,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0017278,C2613145,NEG_CAUSES,"Gene Products, env",response to endoplasmic reticulum stress,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0021031,C0032176,NEG_CAUSES,Fab Immunoglobulins,Platelet aggregation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0021665,C0026255,NEG_CAUSES,Insulin-Like Growth Factor I,Mitosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0022917,C0019595,NEG_CAUSES,Lactate Dehydrogenase,Histamine Release,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0030940,C0010813,NEG_CAUSES,Peptide Hydrolases,Cytokinesis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0030946,C0042774,NEG_CAUSES,Endopeptidases,Virus Replication,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0032200,C0026255,NEG_CAUSES,Platelet-Derived Growth Factor,Mitosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0034348,C0162638,NEG_CAUSES,Pyruvate Kinase,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0036774,C0178666,NEG_CAUSES,"Serum Albumin, Bovine",glucose transport,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0040691,C0007587,NEG_CAUSES,Transforming Growth Factors,Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0040691,C0162638,NEG_CAUSES,Transforming Growth Factors,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0042736,C4326906,NEG_CAUSES,Viral Proteins,membrane curvature,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0051978,C0019595,NEG_CAUSES,Anti-Immunoglobulin E antibody,Histamine Release,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0058468,C0815089,NEG_CAUSES,dispase,Cell development,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0071795,C0162638,NEG_CAUSES,2-5A-dependent ribonuclease,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0079189,C0162638,NEG_CAUSES,cytokine,Apoptosis,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C0079419,C0162638,NEG_CAUSES,TP53 gene,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0079633,C0008018,NEG_CAUSES,Interleukin-8,Chemotaxis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0079785,C0085416,NEG_CAUSES,Macrophage-1 Antigen,Respiratory Burst,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0120285,C0007620,NEG_CAUSES,Green Fluorescent Proteins,Cell Survival,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0120285,C0162638,NEG_CAUSES,Green Fluorescent Proteins,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0123759,C0162638,NEG_CAUSES,Interleukin-12,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0123759,C1327414,NEG_CAUSES,Interleukin-12,cytokine secretion,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0164786,C0004391,NEG_CAUSES,Proto-Oncogene Proteins c-akt,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0164786,C0162638,NEG_CAUSES,Proto-Oncogene Proteins c-akt,Apoptosis,aapp,celf,4,NEG_CAUSES_AAPPncausCELF
+C0164786,C0596290,NEG_CAUSES,Proto-Oncogene Proteins c-akt,Cell Proliferation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0244989,C0162638,NEG_CAUSES,Glycogen Synthase Kinase 3,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0250501,C0004391,NEG_CAUSES,CXCR4 Receptors,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0282554,C1622501,NEG_CAUSES,chemokine,"Migration, Cell",aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0287990,C0010813,NEG_CAUSES,paired basic amino acid cleaving enzyme,Cytokinesis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0312586,C0042774,NEG_CAUSES,Polyclonal antibody,Virus Replication,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0582263,C0004391,NEG_CAUSES,Structural protein,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0582263,C0162638,NEG_CAUSES,Structural protein,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0599561,C0162638,NEG_CAUSES,e protein,Apoptosis,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C0669885,C0019595,NEG_CAUSES,seryl-leucyl-isoleucyl--glycyl-lysyl-valine,Histamine Release,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0700271,C0162638,NEG_CAUSES,"M Protein, multiple myeloma",Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0700271,C1159455,NEG_CAUSES,"M Protein, multiple myeloma",syncytium formation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0755031,C0162638,NEG_CAUSES,"MAGI1 protein, human",Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C0966870,C1159455,NEG_CAUSES,S100 calcium binding protein A10,syncytium formation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1136102,C0162638,NEG_CAUSES,Capsid Proteins,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1143949,C0162638,NEG_CAUSES,"TNFSF10 protein, human",Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1256801,C0596233,NEG_CAUSES,"FPR1 protein, human",release of sequestered calcium ion into cytoplasm,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1305923,C1155342,NEG_CAUSES,Polypeptides,cellular response to unfolded protein,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1307407,C0004391,NEG_CAUSES,"FRAP1 protein, human",Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1309025,C0010813,NEG_CAUSES,"SH2D3A protein, human",Cytokinesis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1332112,C0007587,NEG_CAUSES,RHOH gene,Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1332656,C0312861,NEG_CAUSES,C3 gene,Neutrophil chemotaxis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1332700,C1159455,NEG_CAUSES,CCR5 gene,syncytium formation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1332816,C0008018,NEG_CAUSES,CXCL11 gene,Chemotaxis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1333682,C0007620,NEG_CAUSES,NOP53 gene,Cell Survival,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1334139,C0007620,NEG_CAUSES,IRF3 gene,Cell Survival,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1335376,C1155065,NEG_CAUSES,Peptide/MHC Complex,T-Cell Activation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1336763,C2613145,NEG_CAUSES,Toll-Like Receptor Family Gene,response to endoplasmic reticulum stress,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1366462,C1155342,NEG_CAUSES,KAT2B gene,cellular response to unfolded protein,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1412617,C0162638,NEG_CAUSES,ATF4 gene,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1412940,C0162638,NEG_CAUSES,FAM3B gene,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1413814,C0007587,NEG_CAUSES,CTSG gene,Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1413974,C0008018,NEG_CAUSES,DEFA3 gene,Chemotaxis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1415273,C0162638,NEG_CAUSES,TECR gene,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1417005,C0004391,NEG_CAUSES,MAP1LC3A gene,Autophagy,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C1417196,C0007620,NEG_CAUSES,MLYCD gene,Cell Survival,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1417504,C0010813,NEG_CAUSES,MUT gene,Cytokinesis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1417530,C1155064,NEG_CAUSES,MYD88 gene,NK Cell Activation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1418655,C0004391,NEG_CAUSES,PLP2 gene,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1418793,C3178824,NEG_CAUSES,PPIA gene,G2 Cell Cycle Arrest,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1420002,C0031308,NEG_CAUSES,SFTPA1 gene,Phagocytosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1421554,C0042774,NEG_CAUSES,YME1L1 gene,Virus Replication,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1422055,C0007587,NEG_CAUSES,POLE3 gene,Cell Death,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C1422055,C0162638,NEG_CAUSES,POLE3 gene,Apoptosis,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C1423842,C1327414,NEG_CAUSES,NELFCD gene,cytokine secretion,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1424826,C0031308,NEG_CAUSES,COLEC11 gene,Phagocytosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1424979,C1156309,NEG_CAUSES,GPR132 gene,syncytium formation by plasma membrane fusion,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1425349,C0007587,NEG_CAUSES,TNFRSF13B gene,Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1425622,C0162638,NEG_CAUSES,IFNLR1 gene,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1425927,C1155342,NEG_CAUSES,EDEM1 gene,cellular response to unfolded protein,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1425993,C1155064,NEG_CAUSES,NCR3 gene,NK Cell Activation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1426511,C0007587,NEG_CAUSES,GBP5 gene,Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1427125,C0004391,NEG_CAUSES,ATG4B gene,Autophagy,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C1435283,C1659465,NEG_CAUSES,"MHC2TA protein, human",retention within cell,aapp,celf,3,NEG_CAUSES_AAPPncausCELF
+C1442738,C0010813,NEG_CAUSES,PABPC1 gene,Cytokinesis,aapp,celf,2,NEG_CAUSES_AAPPncausCELF
+C1442738,C1523250,NEG_CAUSES,PABPC1 gene,establishment of RNA localization,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1448177,C0162638,NEG_CAUSES,"TNF protein, human",Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1539620,C2610960,NEG_CAUSES,GSDMD gene,Pyroptosis,aapp,celf,3,NEG_CAUSES_AAPPncausCELF
+C1540210,C1155342,NEG_CAUSES,ASZ1 gene,cellular response to unfolded protein,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1564139,C1156309,NEG_CAUSES,Mutant Proteins,syncytium formation by plasma membrane fusion,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1702242,C1159455,NEG_CAUSES,"SUB1 protein, human",syncytium formation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1705010,C1159954,NEG_CAUSES,TNC wt Allele,monocyte differentiation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1708015,C0026255,NEG_CAUSES,FGF2 wt Allele,Mitosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1823437,C0007587,NEG_CAUSES,TMEM173 gene,Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1824730,C0162638,NEG_CAUSES,CHAC1 gene,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1825598,C1318468,NEG_CAUSES,IMPACT gene,cell mediated immune response,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C1864770,C0037083,NEG_CAUSES,MAVS gene,Signal Transduction,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C2945724,C1159455,NEG_CAUSES,f-protein,syncytium formation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C2975179,C1817908,NEG_CAUSES,"S-(2,3-bis(palmitoyloxy)propyl)cysteine",Cellular Immune Response,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3486709,C2610925,NEG_CAUSES,"brain-derived neurotrophic factor, human",thymocyte apoptotic process,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3642279,C0004391,NEG_CAUSES,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3642279,C1155342,NEG_CAUSES,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,cellular response to unfolded protein,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3816168,C0162638,NEG_CAUSES,B-Cell Receptor Complex,Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3816168,C3178834,NEG_CAUSES,B-Cell Receptor Complex,G1 Cell Cycle Arrest,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3849574,C0007587,NEG_CAUSES,"EPHB2 protein, human",Cell Death,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3849574,C0596290,NEG_CAUSES,"EPHB2 protein, human",Cell Proliferation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3887583,C1155008,NEG_CAUSES,"CD40 Ligand, human",b-cell proliferation,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3887665,C3159058,NEG_CAUSES,"Thrombopoietin, human",megakaryocyte development,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C3891304,C0162638,NEG_CAUSES,"Cathelicidin LL-37, human",Apoptosis,aapp,celf,1,NEG_CAUSES_AAPPncausCELF
+C4255099,C0004391,NEG_CAUSES,Beclin-1,Autophagy,aapp,celf,1,NEG_CAUSES_AAPPncausCELF

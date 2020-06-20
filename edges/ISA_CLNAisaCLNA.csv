@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0018810,C0518766,ISA,heart rate,Vital signs,clna,clna,13,ISA_CLNAisaCLNA
+C0038455,C0007165,ISA,Stroke Volume,Cardiac Output,clna,clna,5,ISA_CLNAisaCLNA
+C0231832,C0518766,ISA,Respiratory rate,Vital signs,clna,clna,3,ISA_CLNAisaCLNA
+C0428640,C0518766,ISA,Central venous pressure,Vital signs,clna,clna,1,ISA_CLNAisaCLNA
+C1717139,C2706908,ISA,Medical record number:ID:Pt:^Patient:Nom,Identification information:-:Point in time:^Patient:-,clna,clna,1,ISA_CLNAisaCLNA

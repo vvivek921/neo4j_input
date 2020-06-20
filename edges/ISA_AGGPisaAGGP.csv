@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001795,C0001675,ISA,"Aged, 80 and over",Adult,aggp,aggp,1,ISA_AGGPisaAGGP
+C0008100,C0008059,ISA,"Child, Preschool",Child,aggp,aggp,2,ISA_AGGPisaAGGP
+C0021270,C0008059,ISA,Infant,Child,aggp,aggp,70,ISA_AGGPisaAGGP
+C0021289,C0008059,ISA,"Infant, Newborn",Child,aggp,aggp,12,ISA_AGGPisaAGGP
+C0021289,C0021270,ISA,"Infant, Newborn",Infant,aggp,aggp,23,ISA_AGGPisaAGGP
+C0079377,C0001675,ISA,Frail Elderly,Adult,aggp,aggp,2,ISA_AGGPisaAGGP
+C0205847,C0001675,ISA,Middle Aged,Adult,aggp,aggp,63,ISA_AGGPisaAGGP
+C0238598,C0001675,ISA,Young Adult,Adult,aggp,aggp,6,ISA_AGGPisaAGGP
+C0456128,C0008059,ISA,Term infant,Child,aggp,aggp,1,ISA_AGGPisaAGGP
+C0456128,C0021270,ISA,Term infant,Infant,aggp,aggp,6,ISA_AGGPisaAGGP
+C0456128,C0021289,ISA,Term infant,"Infant, Newborn",aggp,aggp,1,ISA_AGGPisaAGGP
+C0524337,C0001675,ISA,Elderly man,Adult,aggp,aggp,1,ISA_AGGPisaAGGP
+C0596728,C0001675,ISA,human old age (65+),Adult,aggp,aggp,8,ISA_AGGPisaAGGP
+C0596947,C0008059,ISA,middle childhood (6-11),Child,aggp,aggp,1,ISA_AGGPisaAGGP
+C0682053,C0008059,ISA,Toddler (age group),Child,aggp,aggp,2,ISA_AGGPisaAGGP
+C0870221,C0001675,ISA,Boys,Adult,aggp,aggp,2,ISA_AGGPisaAGGP
+C0870221,C0008059,ISA,Boys,Child,aggp,aggp,32,ISA_AGGPisaAGGP
+C0920381,C0008059,ISA,1 year old,Child,aggp,aggp,22,ISA_AGGPisaAGGP
+C0920381,C0021270,ISA,1 year old,Infant,aggp,aggp,8,ISA_AGGPisaAGGP
+C1444711,C0008059,ISA,Pre-teen,Child,aggp,aggp,1,ISA_AGGPisaAGGP
+C1455726,C0008059,ISA,Older child,Child,aggp,aggp,7,ISA_AGGPisaAGGP
+C2827631,C0008059,ISA,School Age Child,Child,aggp,aggp,1,ISA_AGGPisaAGGP
+C3494262,C0021270,ISA,"Infant, Extremely Premature",Infant,aggp,aggp,2,ISA_AGGPisaAGGP
+C4048294,C0008059,ISA,Preterm Infant,Child,aggp,aggp,1,ISA_AGGPisaAGGP
+C4048294,C0021270,ISA,Preterm Infant,Infant,aggp,aggp,4,ISA_AGGPisaAGGP
+C4048294,C0021289,ISA,Preterm Infant,"Infant, Newborn",aggp,aggp,3,ISA_AGGPisaAGGP

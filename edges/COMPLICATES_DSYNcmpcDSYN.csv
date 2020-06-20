@@ -1,0 +1,444 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000833,C0012624,COMPLICATES,Abscess,Discitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0000833,C0024894,COMPLICATES,Abscess,Mastitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0000833,C0032285,COMPLICATES,Abscess,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0000833,C0039520,COMPLICATES,Abscess,Tenosynovitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0000833,C0271454,COMPLICATES,Abscess,Chronic purulent otitis media,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0001127,C0024117,COMPLICATES,"Acidosis, Respiratory",Chronic Obstructive Airway Disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0001175,C0029118,COMPLICATES,Acquired Immunodeficiency Syndrome,Opportunistic Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0001486,C0032227,COMPLICATES,Adenovirus Infections,Pleural effusion disorder,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0002871,C0010054,COMPLICATES,Anemia,Coronary Arteriosclerosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0002871,C0035222,COMPLICATES,Anemia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0002878,C1175175,COMPLICATES,"Anemia, Hemolytic",Severe Acute Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0003123,C0002871,COMPLICATES,Anorexia,Anemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0003460,C0349412,COMPLICATES,Anuria,Refractory shock,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0003460,C0795692,COMPLICATES,Anuria,Hyperlactatemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0003850,C1145670,COMPLICATES,Arteriosclerosis,Respiratory Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004030,C0001175,COMPLICATES,Aspergillosis,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004096,C0034072,COMPLICATES,Asthma,Cor pulmonale,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004096,C0876973,COMPLICATES,Asthma,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004364,C0042769,COMPLICATES,Autoimmune Diseases,Virus Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004610,C0032285,COMPLICATES,Bacteremia,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004610,C0032300,COMPLICATES,Bacteremia,Lobar Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004610,C0276026,COMPLICATES,Bacteremia,Haemophilus influenzae pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004610,C1112209,COMPLICATES,Bacteremia,Intraabdominal Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0006274,COMPLICATES,Bacterial Infections,"Bronchiolitis, Viral",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0009443,COMPLICATES,Bacterial Infections,Common Cold,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0021400,COMPLICATES,Bacterial Infections,Influenza,dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0025007,COMPLICATES,Bacterial Infections,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0027059,COMPLICATES,Bacterial Infections,Myocarditis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0032285,COMPLICATES,Bacterial Infections,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0032310,COMPLICATES,Bacterial Infections,"Pneumonia, Viral",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0035222,COMPLICATES,Bacterial Infections,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0035243,COMPLICATES,Bacterial Infections,Respiratory Tract Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0041912,COMPLICATES,Bacterial Infections,Upper Respiratory Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0042769,COMPLICATES,Bacterial Infections,Virus Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0149512,COMPLICATES,Bacterial Infections,Acute sinusitis,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0729532,COMPLICATES,Bacterial Infections,Viral lower respiratory infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0876973,COMPLICATES,Bacterial Infections,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C0948780,COMPLICATES,Bacterial Infections,Rhinosinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004623,C2317131,COMPLICATES,Bacterial Infections,Acute rhinosinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004626,C0021400,COMPLICATES,"Pneumonia, Bacterial",Influenza,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0004626,C0025007,COMPLICATES,"Pneumonia, Bacterial",Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004626,C0032290,COMPLICATES,"Pneumonia, Bacterial",Aspiration Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004626,C0032310,COMPLICATES,"Pneumonia, Bacterial","Pneumonia, Viral",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0004626,C0041327,COMPLICATES,"Pneumonia, Bacterial","Tuberculosis, Pulmonary",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0005779,C0151798,COMPLICATES,Blood Coagulation Disorders,Hepatic necrosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0005779,C0948342,COMPLICATES,Blood Coagulation Disorders,citrate toxicity,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006114,C0009421,COMPLICATES,Cerebral Edema,Comatose,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006267,C0041327,COMPLICATES,Bronchiectasis,"Tuberculosis, Pulmonary",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006271,C0004096,COMPLICATES,Bronchiolitis,Asthma,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006271,C0876973,COMPLICATES,Bronchiolitis,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006277,C0004623,COMPLICATES,Bronchitis,Bacterial Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006277,C0876973,COMPLICATES,Bronchitis,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006285,C0014009,COMPLICATES,Bronchopneumonia,Empyema,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006285,C0024110,COMPLICATES,Bronchopneumonia,Lung Abscess,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006285,C0026936,COMPLICATES,Bronchopneumonia,Mycoplasma Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0006285,C0032227,COMPLICATES,Bronchopneumonia,Pleural effusion disorder,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0007177,C0021400,COMPLICATES,Cardiac Tamponade,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0007222,C0032285,COMPLICATES,Cardiovascular Diseases,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0007682,C0017178,COMPLICATES,CNS disorder,Gastrointestinal Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0008679,C1175175,COMPLICATES,Chronic disease,Severe Acute Respiratory Syndrome,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0009443,C0149512,COMPLICATES,Common Cold,Acute sinusitis,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0009450,C0162429,COMPLICATES,Communicable Diseases,Malnutrition,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0010051,C0600327,COMPLICATES,Coronary Aneurysm,Toxic Shock Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0010278,C0206061,COMPLICATES,Craniosynostosis,"Pneumonia, Interstitial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0010380,C0029882,COMPLICATES,Croup,Otitis Media,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0010674,C0021051,COMPLICATES,Cystic Fibrosis,Immunologic Deficiency Syndromes,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0011127,C0029443,COMPLICATES,Pressure Ulcer,Osteomyelitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0011175,C0043167,COMPLICATES,Dehydration,Pertussis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0011389,C1290884,COMPLICATES,Dental Plaque,Inflammatory disorder,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0011606,C3541994,COMPLICATES,Exfoliative dermatitis,Drug Hypersensitivity Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0011616,C0037274,COMPLICATES,Contact Dermatitis,Dermatologic disorders,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0011847,C1175175,COMPLICATES,Diabetes,Severe Acute Respiratory Syndrome,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0012739,C0040034,COMPLICATES,Disseminated Intravascular Coagulation,Thrombocytopenia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0013369,C0162429,COMPLICATES,Dysentery,Malnutrition,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0014009,C0032285,COMPLICATES,Empyema,Pneumonia,dsyn,dsyn,6,COMPLICATES_DSYNcmpcDSYN
+C0014038,C0025007,COMPLICATES,Encephalitis,Measles,dsyn,dsyn,5,COMPLICATES_DSYNcmpcDSYN
+C0014038,C0743841,COMPLICATES,Encephalitis,Disorder characterized by fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0014059,C0021400,COMPLICATES,"Encephalomyelitis, Acute Disseminated",Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0014118,C0004610,COMPLICATES,Endocarditis,Bacteremia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0014179,C0341504,COMPLICATES,Endometritis,Purulent peritonitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0014544,C0032285,COMPLICATES,Epilepsy,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0015544,C0008679,COMPLICATES,Failure to Thrive,Chronic disease,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0015773,C0003873,COMPLICATES,Felty Syndrome,Rheumatoid Arthritis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0016627,C0242994,COMPLICATES,Influenza in Birds,Hantavirus Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0017105,C2076600,COMPLICATES,Gas Gangrene,Influenza due to Influenza A virus subtype H1N1,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0017160,C0025007,COMPLICATES,Gastroenteritis,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0017168,C0004096,COMPLICATES,Gastroesophageal reflux disease,Asthma,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0017658,C0036689,COMPLICATES,Glomerulonephritis,Streptococcal sore throat,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0018572,C0027765,COMPLICATES,"Hand, Foot and Mouth Disease",nervous system disorder,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0018799,C1175175,COMPLICATES,Heart Diseases,Severe Acute Respiratory Syndrome,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0018801,C0032285,COMPLICATES,Heart failure,Pneumonia,dsyn,dsyn,4,COMPLICATES_DSYNcmpcDSYN
+C0018801,C0041948,COMPLICATES,Heart failure,Uremia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0018802,C0032285,COMPLICATES,Congestive heart failure,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0018939,C0877153,COMPLICATES,Hematological Disease,Neutropenic sepsis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0019061,C0151594,COMPLICATES,Hemolytic-Uremic Syndrome,Hemorrhagic diarrhea,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0019158,C0011311,COMPLICATES,Hepatitis,Dengue Fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0019158,C0729531,COMPLICATES,Hepatitis,Viral respiratory infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0019196,C0022660,COMPLICATES,Hepatitis C,"Kidney Failure, Acute",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0019196,C0027726,COMPLICATES,Hepatitis C,Nephrotic Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0019196,C0744421,COMPLICATES,Hepatitis C,Immune-complex glomerulonephritis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0020456,C0016627,COMPLICATES,Hyperglycemia,Influenza in Birds,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0020456,C0032285,COMPLICATES,Hyperglycemia,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0020459,C2747816,COMPLICATES,Hyperinsulinism,Severe Malaria,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0020538,C0041948,COMPLICATES,Hypertensive disease,Uremia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0020615,C0024530,COMPLICATES,Hypoglycemia,Malaria,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0020807,C0262428,COMPLICATES,Idiopathic pulmonary hemosiderosis,Collagen-vascular disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021051,C0029118,COMPLICATES,Immunologic Deficiency Syndromes,Opportunistic Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021053,C4288963,COMPLICATES,Immune System Diseases,Hepatitis C Virus Infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021141,C0020625,COMPLICATES,Inappropriate ADH Syndrome,Hyponatremia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021400,C0004626,COMPLICATES,Influenza,"Pneumonia, Bacterial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021400,C0018802,COMPLICATES,Influenza,Congestive heart failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021400,C0032285,COMPLICATES,Influenza,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021400,C0149514,COMPLICATES,Influenza,Acute bronchitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0021843,C0001311,COMPLICATES,Intestinal Obstruction,Acute bronchiolitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022658,C0017152,COMPLICATES,Kidney Diseases,Gastritis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022658,C0041582,COMPLICATES,Kidney Diseases,Ulcer,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0010340,COMPLICATES,"Kidney Failure, Acute",Critical Illness,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0017152,COMPLICATES,"Kidney Failure, Acute",Gastritis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0032285,COMPLICATES,"Kidney Failure, Acute",Pneumonia,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0032310,COMPLICATES,"Kidney Failure, Acute","Pneumonia, Viral",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0035222,COMPLICATES,"Kidney Failure, Acute","Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0038325,COMPLICATES,"Kidney Failure, Acute",Stevens-Johnson Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0041582,COMPLICATES,"Kidney Failure, Acute",Ulcer,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0042769,COMPLICATES,"Kidney Failure, Acute",Virus Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0349412,COMPLICATES,"Kidney Failure, Acute",Refractory shock,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C0694549,COMPLICATES,"Kidney Failure, Acute",Community acquired pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0022660,C1167709,COMPLICATES,"Kidney Failure, Acute",epidermal necrosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0023518,C0040034,COMPLICATES,Leukocytosis,Thrombocytopenia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0023530,C0275524,COMPLICATES,Leukopenia,Coinfection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0023896,C0948807,COMPLICATES,Alcoholic Liver Diseases,Hepatic impairment,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024110,C0032285,COMPLICATES,Lung Abscess,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024141,C0022660,COMPLICATES,"Lupus Erythematosus, Systemic","Kidney Failure, Acute",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024141,C0032285,COMPLICATES,"Lupus Erythematosus, Systemic",Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024141,C1112402,COMPLICATES,"Lupus Erythematosus, Systemic",lupus pneumonitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024143,C0009186,COMPLICATES,Lupus Nephritis,Coccidioidomycosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024291,C0035585,COMPLICATES,"Lymphohistiocytosis, Hemophagocytic",Rickettsia Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024291,C0036472,COMPLICATES,"Lymphohistiocytosis, Hemophagocytic",Scrub Typhus,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0024291,C0043528,COMPLICATES,"Lymphohistiocytosis, Hemophagocytic",Zoonoses,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024291,C1290884,COMPLICATES,"Lymphohistiocytosis, Hemophagocytic",Inflammatory disorder,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024312,C0021400,COMPLICATES,Lymphopenia,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024312,C0275524,COMPLICATES,Lymphopenia,Coinfection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0024904,C0025007,COMPLICATES,Mastoiditis,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025007,C0006267,COMPLICATES,Measles,Bronchiectasis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025007,C0162429,COMPLICATES,Measles,Malnutrition,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025062,C1145670,COMPLICATES,Mediastinal Emphysema,Respiratory Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025162,C0009324,COMPLICATES,"Megacolon, Toxic",Ulcerative Colitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025289,C0003175,COMPLICATES,Meningitis,Anthrax disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025289,C0029882,COMPLICATES,Meningitis,Otitis Media,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025289,C0036690,COMPLICATES,Meningitis,Septicemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025289,C0743841,COMPLICATES,Meningitis,Disorder characterized by fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025309,C0021400,COMPLICATES,Meningoencephalitis,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025309,C0519066,COMPLICATES,Meningoencephalitis,Acute Q fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0025309,C1096184,COMPLICATES,Meningoencephalitis,West Nile viral infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0026691,C0042384,COMPLICATES,Mucocutaneous Lymph Node Syndrome,Vasculitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0026936,C0025007,COMPLICATES,Mycoplasma Infections,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0026946,C0339962,COMPLICATES,Mycoses,Pulmonary mucormycosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027059,C0023212,COMPLICATES,Myocarditis,Left-Sided Heart Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027059,C0035222,COMPLICATES,Myocarditis,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027059,C0264714,COMPLICATES,Myocarditis,Acute heart failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027059,C0519066,COMPLICATES,Myocarditis,Acute Q fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027059,C3824874,COMPLICATES,Myocarditis,Mycoplasma pneumoniae Infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027121,C0019158,COMPLICATES,Myositis,Hepatitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0027765,C0276500,COMPLICATES,nervous system disorder,Human immunodeficiency virus I infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0028754,C0035204,COMPLICATES,Obesity,Respiration Disorders,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0029118,C0001175,COMPLICATES,Opportunistic Infections,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029118,C0010481,COMPLICATES,Opportunistic Infections,Cushing Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029134,C0025007,COMPLICATES,Optic Neuritis,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029191,C0026780,COMPLICATES,Orchitis,Mumps,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029443,C0263560,COMPLICATES,Osteomyelitis,Chronic ulcer of lower extremity,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029443,C0494261,COMPLICATES,Osteomyelitis,Combined immunodeficiency,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029882,C0021400,COMPLICATES,Otitis Media,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029882,C0025007,COMPLICATES,Otitis Media,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0029882,C0041912,COMPLICATES,Otitis Media,Upper Respiratory Infections,dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0030305,C0011849,COMPLICATES,Pancreatitis,Diabetes Mellitus,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0030305,C0026780,COMPLICATES,Pancreatitis,Mumps,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0030446,C0038463,COMPLICATES,Paralytic Ileus,Strongyloidiasis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0030499,C0162429,COMPLICATES,Parasitic Diseases,Malnutrition,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0006271,COMPLICATES,Pericarditis,Bronchiolitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0006277,COMPLICATES,Pericarditis,Bronchitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0021400,COMPLICATES,Pericarditis,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0029882,COMPLICATES,Pericarditis,Otitis Media,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0032285,COMPLICATES,Pericarditis,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0037199,COMPLICATES,Pericarditis,Sinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0149725,COMPLICATES,Pericarditis,Lower respiratory tract infection,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0243026,COMPLICATES,Pericarditis,Sepsis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0264219,COMPLICATES,Pericarditis,Acute respiratory disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031046,C0275583,COMPLICATES,Pericarditis,Pulmonary Nocardiosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0031117,C0011854,COMPLICATES,Peripheral Neuropathy,"Diabetes Mellitus, Insulin-Dependent",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032046,C0020538,COMPLICATES,Placenta Previa,Hypertensive disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032064,C0152936,COMPLICATES,Plague,"Plague, Septicemic",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032227,C0006285,COMPLICATES,Pleural effusion disorder,Bronchopneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032227,C0032285,COMPLICATES,Pleural effusion disorder,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032227,C0032326,COMPLICATES,Pleural effusion disorder,Pneumothorax,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032227,C0521530,COMPLICATES,Pleural effusion disorder,Lung consolidation,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0000833,COMPLICATES,Pneumonia,Abscess,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0001175,COMPLICATES,Pneumonia,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0002106,COMPLICATES,Pneumonia,Allergic pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0002736,COMPLICATES,Pneumonia,Amyotrophic Lateral Sclerosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0003873,COMPLICATES,Pneumonia,Rheumatoid Arthritis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0004096,COMPLICATES,Pneumonia,Asthma,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0004610,COMPLICATES,Pneumonia,Bacteremia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0004626,COMPLICATES,Pneumonia,"Pneumonia, Bacterial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0006267,COMPLICATES,Pneumonia,Bronchiectasis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0006272,COMPLICATES,Pneumonia,Bronchiolitis Obliterans,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0021400,COMPLICATES,Pneumonia,Influenza,dsyn,dsyn,8,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0024117,COMPLICATES,Pneumonia,Chronic Obstructive Airway Disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0024291,COMPLICATES,Pneumonia,"Lymphohistiocytosis, Hemophagocytic",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0025007,COMPLICATES,Pneumonia,Measles,dsyn,dsyn,11,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0035078,COMPLICATES,Pneumonia,Kidney Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0035220,COMPLICATES,Pneumonia,"Respiratory Distress Syndrome, Newborn",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0035222,COMPLICATES,Pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,5,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0035243,COMPLICATES,Pneumonia,Respiratory Tract Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0035400,COMPLICATES,Pneumonia,Reye Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0035436,COMPLICATES,Pneumonia,Rheumatic Fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0042769,COMPLICATES,Pneumonia,Virus Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0043167,COMPLICATES,Pneumonia,Pertussis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0085082,COMPLICATES,Pneumonia,Fungemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0149514,COMPLICATES,Pneumonia,Acute bronchitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0275522,COMPLICATES,Pneumonia,Asymptomatic Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0339971,COMPLICATES,Pneumonia,Varicella pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0340194,COMPLICATES,Pneumonia,Respiratory failure without hypercapnia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C0876973,COMPLICATES,Pneumonia,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C1145670,COMPLICATES,Pneumonia,Respiratory Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032285,C2712889,COMPLICATES,Pneumonia,Novel H1N1 influenza,dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0032285,C3874414,COMPLICATES,Pneumonia,Human metapneumovirus infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032300,C0264515,COMPLICATES,Lobar Pneumonia,"Pneumonia, Necrotizing",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032326,C0032227,COMPLICATES,Pneumothorax,Pleural effusion disorder,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032326,C0035222,COMPLICATES,Pneumothorax,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0032326,C1535939,COMPLICATES,Pneumothorax,Pneumocystis jiroveci pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0034065,C0032285,COMPLICATES,Pulmonary Embolism,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0034072,C0679247,COMPLICATES,Cor pulmonale,Terminal illness,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0034155,C0151594,COMPLICATES,"Purpura, Thrombotic Thrombocytopenic",Hemorrhagic diarrhea,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0034212,C0013595,COMPLICATES,Pyoderma,Eczema,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035078,C0023241,COMPLICATES,Kidney Failure,Legionnaires' Disease,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0035078,C0032285,COMPLICATES,Kidney Failure,Pneumonia,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0035078,C0740766,COMPLICATES,Kidney Failure,acute pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0004364,COMPLICATES,"Respiratory Distress Syndrome, Adult",Autoimmune Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0011311,COMPLICATES,"Respiratory Distress Syndrome, Adult",Dengue Fever,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0012739,COMPLICATES,"Respiratory Distress Syndrome, Adult",Disseminated Intravascular Coagulation,dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0019101,COMPLICATES,"Respiratory Distress Syndrome, Adult",Hemorrhagic Fever with Renal Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0021400,COMPLICATES,"Respiratory Distress Syndrome, Adult",Influenza,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0032285,COMPLICATES,"Respiratory Distress Syndrome, Adult",Pneumonia,dsyn,dsyn,10,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0032310,COMPLICATES,"Respiratory Distress Syndrome, Adult","Pneumonia, Viral",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0034186,COMPLICATES,"Respiratory Distress Syndrome, Adult",Pyelonephritis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0035243,COMPLICATES,"Respiratory Distress Syndrome, Adult",Respiratory Tract Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0035439,COMPLICATES,"Respiratory Distress Syndrome, Adult",Rheumatic Heart Disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0036690,COMPLICATES,"Respiratory Distress Syndrome, Adult",Septicemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0041321,COMPLICATES,"Respiratory Distress Syndrome, Adult","Tuberculosis, Miliary",dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0041327,COMPLICATES,"Respiratory Distress Syndrome, Adult","Tuberculosis, Pulmonary",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0206061,COMPLICATES,"Respiratory Distress Syndrome, Adult","Pneumonia, Interstitial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0264219,COMPLICATES,"Respiratory Distress Syndrome, Adult",Acute respiratory disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0275522,COMPLICATES,"Respiratory Distress Syndrome, Adult",Asymptomatic Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0339901,COMPLICATES,"Respiratory Distress Syndrome, Adult",Acute respiratory infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0339976,COMPLICATES,"Respiratory Distress Syndrome, Adult",Measles pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0740766,COMPLICATES,"Respiratory Distress Syndrome, Adult",acute pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0876973,COMPLICATES,"Respiratory Distress Syndrome, Adult",Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C0949083,COMPLICATES,"Respiratory Distress Syndrome, Adult",Hospital acquired pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035222,C1145670,COMPLICATES,"Respiratory Distress Syndrome, Adult",Respiratory Failure,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0035222,C1175175,COMPLICATES,"Respiratory Distress Syndrome, Adult",Severe Acute Respiratory Syndrome,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0035222,C2747816,COMPLICATES,"Respiratory Distress Syndrome, Adult",Severe Malaria,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0035222,C3694279,COMPLICATES,"Respiratory Distress Syndrome, Adult",Middle East Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035235,C0032285,COMPLICATES,Respiratory Syncytial Virus Infections,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035243,C0085584,COMPLICATES,Respiratory Tract Infections,Encephalopathies,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035243,C0442886,COMPLICATES,Respiratory Tract Infections,Secondary Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035400,C0032285,COMPLICATES,Reye Syndrome,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035436,C1175175,COMPLICATES,Rheumatic Fever,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0035869,C0276092,COMPLICATES,Rotavirus Infections,Neonatal colibacillosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036472,C0035222,COMPLICATES,Scrub Typhus,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036472,C0242994,COMPLICATES,Scrub Typhus,Hantavirus Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0005779,COMPLICATES,Septicemia,Blood Coagulation Disorders,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0023530,COMPLICATES,Septicemia,Leukopenia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0032285,COMPLICATES,Septicemia,Pneumonia,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0035222,COMPLICATES,Septicemia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0040034,COMPLICATES,Septicemia,Thrombocytopenia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0041351,COMPLICATES,Septicemia,Tularemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0151798,COMPLICATES,Septicemia,Hepatic necrosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0339901,COMPLICATES,Septicemia,Acute respiratory infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0036690,C0876973,COMPLICATES,Septicemia,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0037199,C0004096,COMPLICATES,Sinusitis,Asthma,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0037199,C0021400,COMPLICATES,Sinusitis,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0037199,C0041912,COMPLICATES,Sinusitis,Upper Respiratory Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038220,C0014038,COMPLICATES,Status Epilepticus,Encephalitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038220,C0018801,COMPLICATES,Status Epilepticus,Heart failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038362,C0025007,COMPLICATES,Stomatitis,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038525,C0338393,COMPLICATES,Subarachnoid Hemorrhage,Actinomycotic meningitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038539,C0025289,COMPLICATES,"Empyema, Subdural",Meningitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038826,C0009443,COMPLICATES,Superinfection,Common Cold,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038826,C0032310,COMPLICATES,Superinfection,"Pneumonia, Viral",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038826,C0042769,COMPLICATES,Superinfection,Virus Diseases,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0038826,C0085584,COMPLICATES,Superinfection,Encephalopathies,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038826,C0948780,COMPLICATES,Superinfection,Rhinosinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0038826,C2317131,COMPLICATES,Superinfection,Acute rhinosinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0040034,C0021400,COMPLICATES,Thrombocytopenia,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0040034,C0036690,COMPLICATES,Thrombocytopenia,Septicemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0040034,C0275524,COMPLICATES,Thrombocytopenia,Coinfection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0041296,C0019693,COMPLICATES,Tuberculosis,HIV Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0041582,C0040586,COMPLICATES,Ulcer,Tracheobronchitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0041912,C0149512,COMPLICATES,Upper Respiratory Infections,Acute sinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042029,C0011854,COMPLICATES,Urinary tract infection,"Diabetes Mellitus, Insulin-Dependent",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042029,C2919886,COMPLICATES,Urinary tract infection,Magnesium ammonium phosphate urolithiasis,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0042510,C0948089,COMPLICATES,Ventricular Fibrillation,Acute Coronary Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042769,C0004623,COMPLICATES,Virus Diseases,Bacterial Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042769,C0021400,COMPLICATES,Virus Diseases,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042769,C0032285,COMPLICATES,Virus Diseases,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042769,C0264490,COMPLICATES,Virus Diseases,Acute respiratory failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042769,C0876973,COMPLICATES,Virus Diseases,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0042769,C3714496,COMPLICATES,Virus Diseases,Chronic obstructive pulmonary disease of horses,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0078911,C1561643,COMPLICATES,AIDS-Associated Nephropathy,Chronic Kidney Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0085437,C0037199,COMPLICATES,"Meningitis, Bacterial",Sinusitis,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0085569,C0005779,COMPLICATES,"Metabolic acidosis, NAG, acidifying salts",Blood Coagulation Disorders,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0085569,C0149871,COMPLICATES,"Metabolic acidosis, NAG, acidifying salts",Deep Vein Thrombosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0085584,C0023891,COMPLICATES,Encephalopathies,"Liver Cirrhosis, Alcoholic",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0085584,C0023895,COMPLICATES,Encephalopathies,Liver diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0085605,C0151798,COMPLICATES,Liver Failure,Hepatic necrosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0149512,C0009443,COMPLICATES,Acute sinusitis,Common Cold,dsyn,dsyn,4,COMPLICATES_DSYNcmpcDSYN
+C0149512,C0041912,COMPLICATES,Acute sinusitis,Upper Respiratory Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0149512,C0042769,COMPLICATES,Acute sinusitis,Virus Diseases,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0149745,C1853118,COMPLICATES,Oral Ulcer,Severe congenital neutropenia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0149931,C0948780,COMPLICATES,Migraine Disorders,Rhinosinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0151317,C0021051,COMPLICATES,Chronic infectious disease,Immunologic Deficiency Syndromes,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0151317,C0024117,COMPLICATES,Chronic infectious disease,Chronic Obstructive Airway Disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0155686,C0018801,COMPLICATES,Acute myocarditis,Heart failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0206061,C0021400,COMPLICATES,"Pneumonia, Interstitial",Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0206061,C0024312,COMPLICATES,"Pneumonia, Interstitial",Lymphopenia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0220994,C0085584,COMPLICATES,Hyperammonemia,Encephalopathies,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0238644,C0041948,COMPLICATES,"Anemia, severe",Uremia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0238990,C0876973,COMPLICATES,Acute lower respiratory tract infection,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0241266,C0275518,COMPLICATES,Subcutaneous Abscess,Acute infectious disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0242966,C0005779,COMPLICATES,Systemic Inflammatory Response Syndrome,Blood Coagulation Disorders,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0242966,C0036690,COMPLICATES,Systemic Inflammatory Response Syndrome,Septicemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0242966,C0085584,COMPLICATES,Systemic Inflammatory Response Syndrome,Encephalopathies,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0242994,C0032285,COMPLICATES,Hantavirus Infections,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0242994,C0036472,COMPLICATES,Hantavirus Infections,Scrub Typhus,dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0242994,C0276357,COMPLICATES,Hantavirus Infections,Swine influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0262428,C0034050,COMPLICATES,Collagen-vascular disease,Pulmonary Alveolar Proteinosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0262428,C0035222,COMPLICATES,Collagen-vascular disease,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0262428,C0206062,COMPLICATES,Collagen-vascular disease,"Lung Diseases, Interstitial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0263666,C0206062,COMPLICATES,"Dermatomyositis, Childhood Type","Lung Diseases, Interstitial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0264517,C0032285,COMPLICATES,Pulmonary necrosis,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0264550,C0032285,COMPLICATES,Pleural effusion associated with pulmonary infection,Pneumonia,dsyn,dsyn,7,COMPLICATES_DSYNcmpcDSYN
+C0264550,C0694549,COMPLICATES,Pleural effusion associated with pulmonary infection,Community acquired pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0264550,C0876973,COMPLICATES,Pleural effusion associated with pulmonary infection,Infectious disease of lung,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0270942,C1701940,COMPLICATES,Myasthenic crisis,"Pneumonia, Ventilator-Associated",dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0271429,C0041912,COMPLICATES,Acute otitis media,Upper Respiratory Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275518,C0009319,COMPLICATES,Acute infectious disease,Colitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275524,C0002871,COMPLICATES,Coinfection,Anemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275524,C0006271,COMPLICATES,Coinfection,Bronchiolitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275524,C0021400,COMPLICATES,Coinfection,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275524,C0032285,COMPLICATES,Coinfection,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275524,C0042769,COMPLICATES,Coinfection,Virus Diseases,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0275524,C0442886,COMPLICATES,Coinfection,Secondary Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275556,C0009443,COMPLICATES,Acute bacterial sinusitis,Common Cold,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275556,C0021051,COMPLICATES,Acute bacterial sinusitis,Immunologic Deficiency Syndromes,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275556,C0729531,COMPLICATES,Acute bacterial sinusitis,Viral respiratory infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275578,C0268422,COMPLICATES,Nocardia asteroides Infection,Proteinosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0275694,C0001175,COMPLICATES,Corynebacterial pneumonia of foals,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0276026,C0042769,COMPLICATES,Haemophilus influenzae pneumonia,Virus Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0276253,C0035222,COMPLICATES,Cytomegaloviral pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,3,COMPLICATES_DSYNcmpcDSYN
+C0339937,C0740766,COMPLICATES,Acute viral bronchitis,acute pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0339952,C0021400,COMPLICATES,Secondary bacterial pneumonia,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0339976,C0035222,COMPLICATES,Measles pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0340044,C0024117,COMPLICATES,Acute exacerbation of chronic obstructive airways disease,Chronic Obstructive Airway Disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0340098,C0009952,COMPLICATES,Neurogenic pulmonary edema,Febrile Convulsions,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0410422,C0042798,COMPLICATES,Chronic multifocal osteomyelitis,Low Vision,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0006271,COMPLICATES,Secondary Infections,Bronchiolitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0006277,COMPLICATES,Secondary Infections,Bronchitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0021400,COMPLICATES,Secondary Infections,Influenza,dsyn,dsyn,5,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0025007,COMPLICATES,Secondary Infections,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0032285,COMPLICATES,Secondary Infections,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0032310,COMPLICATES,Secondary Infections,"Pneumonia, Viral",dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0042769,COMPLICATES,Secondary Infections,Virus Diseases,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0206061,COMPLICATES,Secondary Infections,"Pneumonia, Interstitial",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0275518,COMPLICATES,Secondary Infections,Acute infectious disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C0948780,COMPLICATES,Secondary Infections,Rhinosinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C1145670,COMPLICATES,Secondary Infections,Respiratory Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0442886,C1175175,COMPLICATES,Secondary Infections,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0494698,C0022408,COMPLICATES,Disorder of tooth development,Arthropathy,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0521530,C0545044,COMPLICATES,Lung consolidation,Acrokeratoelastoidosis of Costa,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0521530,C2676739,COMPLICATES,Lung consolidation,Chromosome 2q32-Q33 Deletion Syndrome,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C0549493,C2676739,COMPLICATES,Alveolitis,Chromosome 2q32-Q33 Deletion Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0553681,C0005779,COMPLICATES,Hypofibrinogenemia,Blood Coagulation Disorders,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0577702,C0035222,COMPLICATES,Basal pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0589369,C0035222,COMPLICATES,Ruptured popliteal artery aneurysm,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0679225,C0004096,COMPLICATES,multiple pathologies,Asthma,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0694549,C0024117,COMPLICATES,Community acquired pneumonia,Chronic Obstructive Airway Disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0729608,C0238644,COMPLICATES,Myocarditis due to infectious agent,"Anemia, severe",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0744421,C0010403,COMPLICATES,Immune-complex glomerulonephritis,Cryoglobulinemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0744421,C0022660,COMPLICATES,Immune-complex glomerulonephritis,"Kidney Failure, Acute",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0744421,C0027726,COMPLICATES,Immune-complex glomerulonephritis,Nephrotic Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0744421,C0853888,COMPLICATES,Immune-complex glomerulonephritis,Hypocomplementemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0746102,C0948441,COMPLICATES,Chronic lung disease,Venoocclusive disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0746556,C1175175,COMPLICATES,metabolic disturbance,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0747635,C0238132,COMPLICATES,Bilateral pleural effusion,Bronchopleural fistula,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0751100,C0025007,COMPLICATES,Postinfectious Encephalomyelitis,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0851341,C0004623,COMPLICATES,Infestation,Bacterial Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0851341,C0206750,COMPLICATES,Infestation,Coronavirus Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0851980,C0032285,COMPLICATES,peritoneal infection,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0854135,C0746102,COMPLICATES,Pseudomonas aeruginosa infection,Chronic lung disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0854532,C3874414,COMPLICATES,Myopericarditis,Human metapneumovirus infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0876973,C0001175,COMPLICATES,Infectious disease of lung,Acquired Immunodeficiency Syndrome,dsyn,dsyn,4,COMPLICATES_DSYNcmpcDSYN
+C0948089,C0007222,COMPLICATES,Acute Coronary Syndrome,Cardiovascular Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0948089,C0041912,COMPLICATES,Acute Coronary Syndrome,Upper Respiratory Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0948245,C0035222,COMPLICATES,Cytokine release syndrome,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0949083,C0018802,COMPLICATES,Hospital acquired pneumonia,Congestive heart failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0949083,C0035078,COMPLICATES,Hospital acquired pneumonia,Kidney Failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0949083,C0035222,COMPLICATES,Hospital acquired pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C0949083,C3694279,COMPLICATES,Hospital acquired pneumonia,Middle East Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1096155,C0004364,COMPLICATES,Macrophage Activation Syndrome,Autoimmune Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1096155,C0024141,COMPLICATES,Macrophage Activation Syndrome,"Lupus Erythematosus, Systemic",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1096155,C1384600,COMPLICATES,Macrophage Activation Syndrome,Systemic onset juvenile chronic arthritis,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C1112174,C0025007,COMPLICATES,panencephalitis,Measles,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0021400,COMPLICATES,Respiratory Failure,Influenza,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0032285,COMPLICATES,Respiratory Failure,Pneumonia,dsyn,dsyn,5,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0035235,COMPLICATES,Respiratory Failure,Respiratory Syncytial Virus Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0042769,COMPLICATES,Respiratory Failure,Virus Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0151317,COMPLICATES,Respiratory Failure,Chronic infectious disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0548923,COMPLICATES,Respiratory Failure,burn infection,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C0949083,COMPLICATES,Respiratory Failure,Hospital acquired pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1145670,C3277428,COMPLICATES,Respiratory Failure,Severe viral infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1175175,C0020456,COMPLICATES,Severe Acute Respiratory Syndrome,Hyperglycemia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1175175,C0155626,COMPLICATES,Severe Acute Respiratory Syndrome,Acute myocardial infarction,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1175175,C0264490,COMPLICATES,Severe Acute Respiratory Syndrome,Acute respiratory failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1175175,C1565489,COMPLICATES,Severe Acute Respiratory Syndrome,Renal Insufficiency,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1175175,C3694279,COMPLICATES,Severe Acute Respiratory Syndrome,Middle East Respiratory Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1262006,C0748731,COMPLICATES,Bacterial sinusitis,Viral sinusitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1264606,C0004364,COMPLICATES,Persistent infection,Autoimmune Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1264606,C0205858,COMPLICATES,Persistent infection,General Paralysis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1275684,C0010034,COMPLICATES,Meibomian gland dysfunction,Corneal Diseases,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1336827,C0264490,COMPLICATES,Tropical Disease,Acute respiratory failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1535939,C0001175,COMPLICATES,Pneumocystis jiroveci pneumonia,Acquired Immunodeficiency Syndrome,dsyn,dsyn,5,COMPLICATES_DSYNcmpcDSYN
+C1535939,C0032285,COMPLICATES,Pneumocystis jiroveci pneumonia,Pneumonia,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1623038,C0948807,COMPLICATES,Cirrhosis,Hepatic impairment,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C1701940,C0028754,COMPLICATES,"Pneumonia, Ventilator-Associated",Obesity,dsyn,dsyn,2,COMPLICATES_DSYNcmpcDSYN
+C1707758,C0018801,COMPLICATES,Direct Contact Transmission Infection,Heart failure,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C2062441,C0035220,COMPLICATES,Influenza A,"Respiratory Distress Syndrome, Newborn",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C2112765,C0020538,COMPLICATES,postpartum Uterine atonia,Hypertensive disease,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C2364009,C0014009,COMPLICATES,Pneumococcal lobar pneumonia,Empyema,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C2939465,C0019158,COMPLICATES,Deficiency of glucose-6-phosphate dehydrogenase,Hepatitis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C2973725,C0034069,COMPLICATES,Pulmonary arterial hypertension,Pulmonary Fibrosis,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C3495536,C0001175,COMPLICATES,Pulmonary toxoplasmosis,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C3670752,C0392666,COMPLICATES,Deep pyoderma,Infestation by Demodex,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C3686944,C0442886,COMPLICATES,Bronchointerstitial pneumonia,Secondary Infections,dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN
+C4505456,C0206526,COMPLICATES,HIV Coinfection,"Tuberculosis, Multidrug-Resistant",dsyn,dsyn,1,COMPLICATES_DSYNcmpcDSYN

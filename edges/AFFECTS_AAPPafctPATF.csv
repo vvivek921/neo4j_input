@@ -1,0 +1,984 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C1155266,AFFECTS,Acute-Phase Proteins,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0001473,C0242184,AFFECTS,Adenosine Triphosphatases,Hypoxia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0001924,C0020517,AFFECTS,Albumins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0001924,C0151763,AFFECTS,Albumins,Liver damage,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0001924,C0543419,AFFECTS,Albumins,Sequela of disorder,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0002199,C0021368,AFFECTS,Interferon-alpha,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0002199,C0392707,AFFECTS,Interferon-alpha,Atopy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0002520,C0020517,AFFECTS,Amino Acids,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0002723,C0021368,AFFECTS,Serum amyloid A protein,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0002723,C1510411,AFFECTS,Serum amyloid A protein,metaplastic cell transformation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0002791,C0015376,AFFECTS,Anaphylatoxins,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003009,C0003130,AFFECTS,angiotensin II,Anoxia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003009,C0016059,AFFECTS,angiotensin II,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003009,C0036983,AFFECTS,angiotensin II,Septic Shock,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0003009,C0334094,AFFECTS,angiotensin II,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003009,C1383860,AFFECTS,angiotensin II,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003009,C3658220,AFFECTS,angiotensin II,Atrial Remodeling,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003017,C0549592,AFFECTS,Angiotensinogen,kidney morphologic,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C0001511,AFFECTS,Antibodies,Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0003241,C0011304,AFFECTS,Antibodies,Demyelination,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0003241,C0020517,AFFECTS,Antibodies,Hypersensitivity,aapp,patf,7,AFFECTS_AAPPafctPATF
+C0003241,C0021368,AFFECTS,Antibodies,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0003241,C0024348,AFFECTS,Antibodies,Lysis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0003241,C0030660,AFFECTS,Antibodies,Pathologic Processes,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C0035320,AFFECTS,Antibodies,Retinal Neovascularization,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C0242656,AFFECTS,Antibodies,Disease Progression,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0003241,C0333467,AFFECTS,Antibodies,Cytopathic effect,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C0392707,AFFECTS,Antibodies,Atopy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C0543419,AFFECTS,Antibodies,Sequela of disorder,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C0745283,AFFECTS,Antibodies,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C1155266,AFFECTS,Antibodies,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C1373218,AFFECTS,Antibodies,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003241,C1520005,AFFECTS,Antibodies,Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0003241,C3714514,AFFECTS,Antibodies,Infection,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0003242,C0020963,AFFECTS,"Antibodies, Anti-Idiotypic",Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003242,C0021368,AFFECTS,"Antibodies, Anti-Idiotypic",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003250,C0001511,AFFECTS,Monoclonal Antibodies,Tissue Adhesions,aapp,patf,7,AFFECTS_AAPPafctPATF
+C0003250,C0021368,AFFECTS,Monoclonal Antibodies,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003250,C0024348,AFFECTS,Monoclonal Antibodies,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003250,C0242656,AFFECTS,Monoclonal Antibodies,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003250,C0332448,AFFECTS,Monoclonal Antibodies,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003250,C3714514,AFFECTS,Monoclonal Antibodies,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003253,C0011304,AFFECTS,"Antibodies, Viral",Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003369,C3714514,AFFECTS,Antilymphocyte Antibodies,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003440,C0021368,AFFECTS,Antithrombins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003450,C0021368,AFFECTS,Antivenin,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0003595,C0021368,AFFECTS,Apolipoprotein E,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0004204,C1155266,AFFECTS,ATP Receptors,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0005221,C0020517,AFFECTS,beta-Globins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0005248,C3714514,AFFECTS,beta Lactoglobulin,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0005789,C0021368,AFFECTS,Blood Coagulation Factor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0006100,C0002994,AFFECTS,Bradykinin,Angioedema,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0006100,C0020517,AFFECTS,Bradykinin,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0006631,C0001511,AFFECTS,Cadherins,Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0006685,C0020517,AFFECTS,Calcium Channel,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0006784,C0016059,AFFECTS,Calpain,Fibrosis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0006784,C0021368,AFFECTS,Calpain,Inflammation,aapp,patf,5,AFFECTS_AAPPafctPATF
+C0006784,C0151654,AFFECTS,Calpain,Myocardial fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007075,C0231176,AFFECTS,Carboxypeptidase,Acute failure,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007267,C1155266,AFFECTS,Carnosine,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007332,C0333957,AFFECTS,Caseins,Growth acceleration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007428,C0020517,AFFECTS,Cathepsins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007428,C0021368,AFFECTS,Cathepsins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007578,C0001511,AFFECTS,Cell Adhesion Molecules,Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0007578,C0015376,AFFECTS,Cell Adhesion Molecules,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007578,C0021308,AFFECTS,Cell Adhesion Molecules,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007578,C0021368,AFFECTS,Cell Adhesion Molecules,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0007578,C0302158,AFFECTS,Cell Adhesion Molecules,Leucocytic infiltrate,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009325,C0332448,AFFECTS,Collagen,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009392,C0007642,AFFECTS,Colony-Stimulating Factors,Cellulitis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009498,C0019080,AFFECTS,Complement System Proteins,Hemorrhage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009498,C0020517,AFFECTS,Complement System Proteins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009498,C0021368,AFFECTS,Complement System Proteins,Inflammation,aapp,patf,11,AFFECTS_AAPPafctPATF
+C0009498,C0024348,AFFECTS,Complement System Proteins,Lysis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0009498,C0151763,AFFECTS,Complement System Proteins,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009498,C0443146,AFFECTS,Complement System Proteins,Autoimmune reaction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009498,C1155266,AFFECTS,Complement System Proteins,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009498,C1520005,AFFECTS,Complement System Proteins,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0009506,C0021368,AFFECTS,Complement 3,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0010590,C0020517,AFFECTS,Cycloserine,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0010590,C0021368,AFFECTS,Cycloserine,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0010654,C0333467,AFFECTS,Cysteine,Cytopathic effect,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0010803,C0036679,AFFECTS,Cytokeratin,Diastasis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0012920,C1155266,AFFECTS,"DNA Topoisomerases, Type I",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0013729,C0028778,AFFECTS,Eukaryotic Initiation Factor-2,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0015505,C0087086,AFFECTS,Factor VIIa,Thrombus,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0015980,C3714514,AFFECTS,Interferon-beta,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0015982,C1155266,AFFECTS,Fibrin,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0016006,C0242656,AFFECTS,Fibrinogen,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0016006,C0745283,AFFECTS,Fibrinogen,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0016011,C0001511,AFFECTS,Platelet Glycoprotein GPIIb-IIIa Complex,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0016011,C0019080,AFFECTS,Platelet Glycoprotein GPIIb-IIIa Complex,Hemorrhage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0016055,C0745283,AFFECTS,Fibronectins,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0016790,C0001511,AFFECTS,Fucosyltransferase,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0017278,C0333467,AFFECTS,"Gene Products, env",Cytopathic effect,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0017649,C0242656,AFFECTS,Globulins,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0017817,C0020517,AFFECTS,Glutathione,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0017837,C0020517,AFFECTS,Glutathione S-Transferase,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0017968,C0021368,AFFECTS,Glycoproteins,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0017968,C1520005,AFFECTS,Glycoproteins,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0018284,C0020507,AFFECTS,Growth Factor,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0018284,C0020517,AFFECTS,Growth Factor,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0018284,C0021308,AFFECTS,Growth Factor,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0018284,C0021368,AFFECTS,Growth Factor,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0019046,C0016059,AFFECTS,Hemoglobin,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0019602,C0333467,AFFECTS,Histidine,Cytopathic effect,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0019643,C1155266,AFFECTS,Histone Deacetylase,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0019652,C0021368,AFFECTS,Histones,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0020846,C0020517,AFFECTS,Immunoglobulin E,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0020846,C0021368,AFFECTS,Immunoglobulin E,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0020846,C0392707,AFFECTS,Immunoglobulin E,Atopy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0020846,C0577628,AFFECTS,Immunoglobulin E,Latex allergy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0020960,C0001511,AFFECTS,Immune Sera,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0020960,C0332448,AFFECTS,Immune Sera,Infiltration,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0021027,C0016663,AFFECTS,Immunoglobulins,Pathological fracture,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021031,C0024348,AFFECTS,Fab Immunoglobulins,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021665,C0021368,AFFECTS,Insulin-Like Growth Factor I,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0021701,C0001511,AFFECTS,Integrins,Tissue Adhesions,aapp,patf,18,AFFECTS_AAPPafctPATF
+C0021701,C0021368,AFFECTS,Integrins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021701,C0334097,AFFECTS,Integrins,Epithelial proliferation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021740,C0020517,AFFECTS,Recombinant Interferon-gamma,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021740,C0021368,AFFECTS,Recombinant Interferon-gamma,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021740,C0151686,AFFECTS,Recombinant Interferon-gamma,Growth retardation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021743,C0334094,AFFECTS,Interferon Type I,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021743,C1520005,AFFECTS,Interferon Type I,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C0020517,AFFECTS,Interferons,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0021747,C0021308,AFFECTS,Interferons,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C0021368,AFFECTS,Interferons,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C0028778,AFFECTS,Interferons,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C0242656,AFFECTS,Interferons,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C1155266,AFFECTS,Interferons,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C1398094,AFFECTS,Interferons,induced; birth,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021747,C1520005,AFFECTS,Interferons,Viral Pathogenesis,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0021755,C0011164,AFFECTS,Interleukin-1,Abnormal degeneration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021755,C0020517,AFFECTS,Interleukin-1,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021755,C0021368,AFFECTS,Interleukin-1,Inflammation,aapp,patf,10,AFFECTS_AAPPafctPATF
+C0021755,C0021376,AFFECTS,Interleukin-1,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021755,C1155266,AFFECTS,Interleukin-1,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021755,C1563937,AFFECTS,Interleukin-1,Atherogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021756,C0334094,AFFECTS,Interleukin-2,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021756,C1155266,AFFECTS,Interleukin-2,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021756,C1817978,AFFECTS,Interleukin-2,acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021758,C0021368,AFFECTS,Interleukin-4,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021758,C0021376,AFFECTS,Interleukin-4,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021758,C0333390,AFFECTS,Interleukin-4,Chronic eosinophilic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0001349,AFFECTS,Interleukin-6,Acute-Phase Reaction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0003130,AFFECTS,Interleukin-6,Anoxia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0016059,AFFECTS,Interleukin-6,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0021368,AFFECTS,Interleukin-6,Inflammation,aapp,patf,7,AFFECTS_AAPPafctPATF
+C0021760,C0021375,AFFECTS,Interleukin-6,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0021376,AFFECTS,Interleukin-6,Chronic inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0021760,C0087086,AFFECTS,Interleukin-6,Thrombus,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0332448,AFFECTS,Interleukin-6,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C0340515,AFFECTS,Interleukin-6,Myocardial dysfunction,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0021760,C0920563,AFFECTS,Interleukin-6,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C1155266,AFFECTS,Interleukin-6,inflammatory response,aapp,patf,7,AFFECTS_AAPPafctPATF
+C0021760,C1373218,AFFECTS,Interleukin-6,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021760,C1817978,AFFECTS,Interleukin-6,acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0021764,C0021368,AFFECTS,Interleukins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0022009,C0020517,AFFECTS,Ion Channel,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0022709,C0231176,AFFECTS,Peptidyl-Dipeptidase A,Acute failure,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0022709,C0242656,AFFECTS,Peptidyl-Dipeptidase A,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0022942,C0021368,AFFECTS,Lactoferrin,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0022942,C3714514,AFFECTS,Lactoferrin,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0023206,C0001511,AFFECTS,Lectin,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0023820,C0745283,AFFECTS,Lipoproteins,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0023821,C0161816,AFFECTS,High Density Lipoproteins,Cardiac complication,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0024320,C0021368,AFFECTS,Tumor Necrosis Factor-Beta,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0024429,C1155266,AFFECTS,Migration Inhibitory Factor,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025248,C1520005,AFFECTS,Membrane Glycoproteins,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025252,C0021308,AFFECTS,Membrane Proteins,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025252,C0087086,AFFECTS,Membrane Proteins,Thrombus,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025252,C0392459,AFFECTS,Membrane Proteins,Intra-alveolar hemorrhage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025252,C0745283,AFFECTS,Membrane Proteins,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025252,C1520005,AFFECTS,Membrane Proteins,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0025543,C0040053,AFFECTS,Metalloproteases,Thrombosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0026682,C0001511,AFFECTS,Mucins,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0026682,C0021368,AFFECTS,Mucins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0026682,C0745283,AFFECTS,Mucins,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0026972,C0443146,AFFECTS,Myelin Proteins,Autoimmune reaction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027021,C0021368,AFFECTS,Peroxidase,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0027021,C0853041,AFFECTS,Peroxidase,reaction to colouring,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027203,C0024348,AFFECTS,N-Acetylmuramoyl-L-alanine Amidase,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027752,C1155266,AFFECTS,Nerve Growth Factor,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027754,C0021368,AFFECTS,Nerve Growth Factors,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027803,C0020517,AFFECTS,Neuraminidase,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027893,C0021359,AFFECTS,neuropeptide Y,Infertility,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0027893,C1155266,AFFECTS,neuropeptide Y,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0028612,C0020517,AFFECTS,Nucleoproteins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0029297,C0021368,AFFECTS,Orosomucoid,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0029419,C0920563,AFFECTS,Osteocalcin,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0030190,C0029445,AFFECTS,Plasminogen Activator Inhibitor 1,Bone necrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0030190,C0333565,AFFECTS,Plasminogen Activator Inhibitor 1,Fibrin deposition,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0030940,C0020517,AFFECTS,Peptide Hydrolases,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0030940,C0029445,AFFECTS,Peptide Hydrolases,Bone necrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0030946,C0021368,AFFECTS,Endopeptidases,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0030946,C1520005,AFFECTS,Endopeptidases,Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0030946,C3714514,AFFECTS,Endopeptidases,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031669,C1155266,AFFECTS,Phospholipase C,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031686,C0020507,AFFECTS,Protein phosphatase,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031727,C0001511,AFFECTS,Phosphotransferases,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031727,C0020517,AFFECTS,Phosphotransferases,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031727,C0021368,AFFECTS,Phosphotransferases,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031727,C0333951,AFFECTS,Phosphotransferases,Growth arrest,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0031727,C1155266,AFFECTS,Phosphotransferases,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0032539,C3714514,AFFECTS,Polymyxins,Infection,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0033164,C3714514,AFFECTS,Prions,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0033551,C0021368,AFFECTS,Prostaglandin-Endoperoxide Synthase,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0033621,C0021368,AFFECTS,Protein C,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0033640,C0021368,AFFECTS,Protein Kinases,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0033692,C0021375,AFFECTS,Proteoglycan,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034783,C0012359,AFFECTS,Adrenergic Receptor,Pathological Dilatation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034783,C0020517,AFFECTS,Adrenergic Receptor,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034790,C1516670,AFFECTS,T-Cell Receptor,Clonal Expansion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034800,C0001511,AFFECTS,"Receptors, Cell Surface",Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034800,C0021368,AFFECTS,"Receptors, Cell Surface",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034805,C1155266,AFFECTS,Fc Receptor,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034809,C0021368,AFFECTS,Glucocorticoid Receptor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034818,C0020517,AFFECTS,Insulin Receptor,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0034848,C1518304,AFFECTS,"Receptors, Virus",Neurotropism,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0035379,C0036679,AFFECTS,RNA-Directed DNA Polymerase,Diastasis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0035542,C0024348,AFFECTS,Ribonucleases,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0035899,C0020517,AFFECTS,Ribosomal RNA Genes,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0036425,C0332448,AFFECTS,Scleroproteins,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0036734,C0021368,AFFECTS,Serine Endopeptidases,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0038601,C0920779,AFFECTS,Subtilisins,Cancer invasiveness,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0039341,C1520005,AFFECTS,tat Protein,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0039534,C0857353,AFFECTS,Teprotide,Hypotensive,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040160,C0020507,AFFECTS,Thyrotropin,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040165,C0020507,AFFECTS,levothyroxine,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040627,C0024348,AFFECTS,Trans-Activators,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040648,C0021368,AFFECTS,TRANSCRIPTION FACTOR,Inflammation,aapp,patf,5,AFFECTS_AAPPafctPATF
+C0040648,C0334094,AFFECTS,TRANSCRIPTION FACTOR,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040648,C1155266,AFFECTS,TRANSCRIPTION FACTOR,inflammatory response,aapp,patf,9,AFFECTS_AAPPafctPATF
+C0040648,C3714514,AFFECTS,TRANSCRIPTION FACTOR,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040690,C0016059,AFFECTS,Transforming Growth Factor beta,Fibrosis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0040690,C0021368,AFFECTS,Transforming Growth Factor beta,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040691,C0016059,AFFECTS,Transforming Growth Factors,Fibrosis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0040691,C0020517,AFFECTS,Transforming Growth Factors,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040691,C0020522,AFFECTS,Transforming Growth Factors,Delayed Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040691,C0020963,AFFECTS,Transforming Growth Factors,Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040691,C0021368,AFFECTS,Transforming Growth Factors,Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0040691,C0021376,AFFECTS,Transforming Growth Factors,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040691,C0231178,AFFECTS,Transforming Growth Factors,Chronic failure,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0040691,C1373218,AFFECTS,Transforming Growth Factors,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0041368,C0021368,AFFECTS,Tumor Necrosis Factors,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0041368,C0036983,AFFECTS,Tumor Necrosis Factors,Septic Shock,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0041368,C1155266,AFFECTS,Tumor Necrosis Factors,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0041455,C0001511,AFFECTS,Collagen Type I,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0041538,C1155266,AFFECTS,Ubiquitin,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042313,C3714514,AFFECTS,Vancomycin,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042479,C0087086,AFFECTS,Venoms,Thrombus,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042666,C0001511,AFFECTS,Vimentin,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042666,C0016059,AFFECTS,Vimentin,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042666,C0021368,AFFECTS,Vimentin,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042717,C0001511,AFFECTS,Viral Fusion Proteins,Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0042720,C0020517,AFFECTS,Viral Genome,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042720,C1520005,AFFECTS,Viral Genome,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042736,C0020517,AFFECTS,Viral Proteins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042736,C0021368,AFFECTS,Viral Proteins,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0042736,C0024348,AFFECTS,Viral Proteins,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042736,C0919661,AFFECTS,Viral Proteins,alternation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0042736,C3714514,AFFECTS,Viral Proteins,Infection,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0052193,C1155266,AFFECTS,apolipoprotein D,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0053932,C0700080,AFFECTS,Bone Morphogenetic Proteins,Vascular proliferation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0054871,C3714514,AFFECTS,Cathepsin L,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0054941,C0021368,AFFECTS,"Antigens, CD1",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0054943,C1519697,AFFECTS,ALANINE AMINOPEPTIDASE,Tumorigenicity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0054966,C0021368,AFFECTS,CD59 Antigen,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0057256,C0021368,AFFECTS,Defensins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0058610,C1383860,AFFECTS,HSP40 Heat-Shock Proteins,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0059256,C0020517,AFFECTS,Endopeptidase K,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0059386,C2717792,AFFECTS,"enterotoxin B, staphylococcal",Airway Remodeling,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0059973,C0011304,AFFECTS,ezrin,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0060105,C1155266,AFFECTS,Fc(alpha) receptor,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0060320,C0018273,AFFECTS,fibrillarin,Growth Disorders,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0060323,C0242656,AFFECTS,Fibrin fragment D,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0061355,C0021368,AFFECTS,Glucagon-Like Peptide 1,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0061877,C0024348,AFFECTS,granzyme A,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0061878,C0021368,AFFECTS,granzyme B,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0062534,C0016059,AFFECTS,Hepatocyte Growth Factor,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0063695,C0001511,AFFECTS,Intercellular adhesion molecule 1,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0063695,C0021368,AFFECTS,Intercellular adhesion molecule 1,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0063695,C1155266,AFFECTS,Intercellular adhesion molecule 1,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0064833,C1155266,AFFECTS,Leukocyte Elastane,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0065827,C1520005,AFFECTS,Measles Virus Nucleoprotein,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0069676,C0011304,AFFECTS,osteopontin,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0069856,C0021368,AFFECTS,"oxytocin, 1-penicillamyl-Leu(2)-",Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0070410,C0024348,AFFECTS,perforin,Lysis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0071313,C0001511,AFFECTS,"plY protein, Streptococcus pneumoniae",Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0071795,C3645947,AFFECTS,2-5A-dependent ribonuclease,Tissue graft rejection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0072053,C0332448,AFFECTS,procollagen Type I N-terminal peptide,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0072600,C1155266,AFFECTS,Pulmonary Surfactant-Associated Proteins,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0072978,C0011304,AFFECTS,RANTES,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0072978,C0242656,AFFECTS,RANTES,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0072978,C0332448,AFFECTS,RANTES,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0073020,C0036679,AFFECTS,recombinase,Diastasis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0073336,C1520005,AFFECTS,Ribosomal Protein S6,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0076727,C0151763,AFFECTS,kallistatin,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0077503,C0021368,AFFECTS,Tumor Necrosis Factor Receptor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0077678,C0021368,AFFECTS,ubiquitin-protein ligase,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0078056,C0001511,AFFECTS,Vascular Cell Adhesion Molecule-1,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0001511,AFFECTS,cytokine,Tissue Adhesions,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0079189,C0015376,AFFECTS,cytokine,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0016059,AFFECTS,cytokine,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0020517,AFFECTS,cytokine,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0079189,C0021308,AFFECTS,cytokine,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0021368,AFFECTS,cytokine,Inflammation,aapp,patf,38,AFFECTS_AAPPafctPATF
+C0079189,C0021655,AFFECTS,cytokine,Insulin Resistance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0030660,AFFECTS,cytokine,Pathologic Processes,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0036974,AFFECTS,cytokine,Shock,aapp,patf,9,AFFECTS_AAPPafctPATF
+C0079189,C0151763,AFFECTS,cytokine,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0242656,AFFECTS,cytokine,Disease Progression,aapp,patf,5,AFFECTS_AAPPafctPATF
+C0079189,C0392707,AFFECTS,cytokine,Atopy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0541794,AFFECTS,cytokine,Skeletal muscle atrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C0815080,AFFECTS,cytokine,organ rejection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C1155266,AFFECTS,cytokine,inflammatory response,aapp,patf,24,AFFECTS_AAPPafctPATF
+C0079189,C1373218,AFFECTS,cytokine,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C1817997,AFFECTS,cytokine,chronic inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079189,C3714514,AFFECTS,cytokine,Infection,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0079419,C0333951,AFFECTS,TP53 gene,Growth arrest,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0079441,C0021368,AFFECTS,Transforming Growth Factor Beta 2,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079459,C0005959,AFFECTS,Granulocyte Colony-Stimulating Factor,Bone marrow hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079459,C0919924,AFFECTS,Granulocyte Colony-Stimulating Factor,pulmonary toxicity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079459,C1373218,AFFECTS,Granulocyte Colony-Stimulating Factor,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079460,C0020517,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079460,C0021368,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079460,C0021375,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079460,C0242656,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079460,C1373218,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Decreased Immunologic Activity [PE],aapp,patf,2,AFFECTS_AAPPafctPATF
+C0079460,C1520005,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079490,C0005959,AFFECTS,Hematopoietic Cell Growth Factors,Bone marrow hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079633,C0021368,AFFECTS,Interleukin-8,Inflammation,aapp,patf,5,AFFECTS_AAPPafctPATF
+C0079633,C0021375,AFFECTS,Interleukin-8,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079633,C0021376,AFFECTS,Interleukin-8,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079633,C1155266,AFFECTS,Interleukin-8,inflammatory response,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0079633,C1520005,AFFECTS,Interleukin-8,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079633,C1563937,AFFECTS,Interleukin-8,Atherogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079717,C0001511,AFFECTS,Lymphocyte Function-Associated Antigen-1,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079717,C0021368,AFFECTS,Lymphocyte Function-Associated Antigen-1,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0079904,C0020517,AFFECTS,NF-kappa B,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0079904,C0021368,AFFECTS,NF-kappa B,Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0079904,C1155266,AFFECTS,NF-kappa B,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0079941,C1520005,AFFECTS,Open Reading Frames,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0081714,C0001511,AFFECTS,"Antigens, CD147",Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0081939,C0001511,AFFECTS,CD31 Antigens,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0082731,C0024348,AFFECTS,Glycine dehydrogenase (decarboxylating),Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0083032,C1155266,AFFECTS,Interleukin 7 Receptor,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0084692,C0016059,AFFECTS,Pulmonary Surfactant-Associated Protein D,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0084692,C0021368,AFFECTS,Pulmonary Surfactant-Associated Protein D,Inflammation,aapp,patf,6,AFFECTS_AAPPafctPATF
+C0084692,C1155266,AFFECTS,Pulmonary Surfactant-Associated Protein D,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0084692,C1563937,AFFECTS,Pulmonary Surfactant-Associated Protein D,Atherogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0084795,C0021368,AFFECTS,Tristetraprolin,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085295,C0003130,AFFECTS,Interleukin-10,Anoxia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085295,C0011304,AFFECTS,Interleukin-10,Demyelination,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0085295,C0020517,AFFECTS,Interleukin-10,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085295,C0020963,AFFECTS,Interleukin-10,Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085295,C0021368,AFFECTS,Interleukin-10,Inflammation,aapp,patf,11,AFFECTS_AAPPafctPATF
+C0085295,C0028778,AFFECTS,Interleukin-10,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085295,C0332448,AFFECTS,Interleukin-10,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085295,C1155266,AFFECTS,Interleukin-10,inflammatory response,aapp,patf,5,AFFECTS_AAPPafctPATF
+C0085295,C1373218,AFFECTS,Interleukin-10,Decreased Immunologic Activity [PE],aapp,patf,4,AFFECTS_AAPPafctPATF
+C0085297,C3714514,AFFECTS,"Immunoglobulins, Intravenous",Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085828,C0334094,AFFECTS,Transcription Factor AP-1,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0085828,C1155266,AFFECTS,Transcription Factor AP-1,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0086376,C0001511,AFFECTS,GTP-Binding Proteins,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0086376,C1155266,AFFECTS,GTP-Binding Proteins,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0089795,C0024348,AFFECTS,"1-Phosphatidylinositol-4,5-bisphosphate phosphodiesterase",Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0090388,C0021368,AFFECTS,14-3-3 Proteins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0096069,C0020517,AFFECTS,Dual Specificity Phosphatase 1,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0100748,C0016059,AFFECTS,activin A,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0100748,C1155266,AFFECTS,activin A,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0107298,C0232981,AFFECTS,BS-RNAse,Arrest of spermatogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0108801,C0745283,AFFECTS,"TFRC protein, human",INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0109329,C0021368,AFFECTS,Aquaporin 1,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0115305,C0001511,AFFECTS,E-Selectin,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0115305,C0332448,AFFECTS,E-Selectin,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0118022,C0021368,AFFECTS,fMet-Leu-Phe receptor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0118522,C0021368,AFFECTS,GA-Binding Protein Transcription Factor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0123263,C0021368,AFFECTS,"Receptors, IgG",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0123658,C0920563,AFFECTS,insulin receptor substrate 1 protein,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0123759,C1155266,AFFECTS,Interleukin-12,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0123759,C3714514,AFFECTS,Interleukin-12,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0127082,C0151654,AFFECTS,Interstitial Collagenase,Myocardial fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0134835,C0001511,AFFECTS,P-Selectin,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0134835,C0021368,AFFECTS,P-Selectin,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0134835,C0332448,AFFECTS,P-Selectin,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0145779,C0021368,AFFECTS,Thrombomodulin,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0162745,C0016059,AFFECTS,COLLAGENASE,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0164707,C0021368,AFFECTS,Tissue factor pathway inhibitor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0164786,C0021368,AFFECTS,Proto-Oncogene Proteins c-akt,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0164786,C0333951,AFFECTS,Proto-Oncogene Proteins c-akt,Growth arrest,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0164786,C1383860,AFFECTS,Proto-Oncogene Proteins c-akt,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0165519,C0015376,AFFECTS,Matrix Metalloproteinase 9,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0165519,C0021368,AFFECTS,Matrix Metalloproteinase 9,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0165519,C2717792,AFFECTS,Matrix Metalloproteinase 9,Airway Remodeling,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0166033,C0021368,AFFECTS,I kappa B beta protein,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0166418,C0021368,AFFECTS,Peroxisome Proliferator-Activated Receptors,Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0166418,C0021655,AFFECTS,Peroxisome Proliferator-Activated Receptors,Insulin Resistance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0166418,C0920563,AFFECTS,Peroxisome Proliferator-Activated Receptors,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0166418,C1155266,AFFECTS,Peroxisome Proliferator-Activated Receptors,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0166418,C1373218,AFFECTS,Peroxisome Proliferator-Activated Receptors,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0169101,C0021368,AFFECTS,Mitogen-Activated Protein Kinase Kinases,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0169101,C0333951,AFFECTS,Mitogen-Activated Protein Kinase Kinases,Growth arrest,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0172537,C0001511,AFFECTS,Matrix Metalloproteinase 2,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0172537,C2699153,AFFECTS,Matrix Metalloproteinase 2,Cell Invasion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0178774,C0020517,AFFECTS,Nucleocapsid,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0206527,C0001511,AFFECTS,Superantigens,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0206552,C1155266,AFFECTS,"Receptors, Cytokine",inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0208355,C0021368,AFFECTS,multicatalytic endopeptidase complex,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0208355,C1520005,AFFECTS,multicatalytic endopeptidase complex,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0209606,C0001511,AFFECTS,Integrin alpha4beta1,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0214737,C1155266,AFFECTS,"CCL8 protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0214743,C0021368,AFFECTS,Interleukin-13,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0214743,C0021375,AFFECTS,Interleukin-13,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0215469,C0332448,AFFECTS,"CXCL9 protein, human",Infiltration,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0215848,C0013990,AFFECTS,Hypoxia-Inducible Factor 1,Pathological accumulation of air in tissues,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0215848,C0242184,AFFECTS,Hypoxia-Inducible Factor 1,Hypoxia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0215848,C3714514,AFFECTS,Hypoxia-Inducible Factor 1,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0218158,C0021368,AFFECTS,Agammaglobulinaemia tyrosine kinase,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0242210,C0021368,AFFECTS,Binding Proteins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0242210,C0745283,AFFECTS,Binding Proteins,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0242392,C0001511,AFFECTS,Cell Surface Proteins,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0242392,C1659441,AFFECTS,Cell Surface Proteins,entry into host cell,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0243041,C0020517,AFFECTS,Molecular Chaperones,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0243043,C0021368,AFFECTS,Heat-Shock Proteins 70,Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0243044,C0334094,AFFECTS,HSP90 Heat-Shock Proteins,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0243795,C0002994,AFFECTS,Aminopeptidase P,Angioedema,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0244435,C0020517,AFFECTS,tyrosyl-alanyl-glycine,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0244989,C1155266,AFFECTS,Glycogen Synthase Kinase 3,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0245109,C0021368,AFFECTS,anakinra,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0245382,C0001511,AFFECTS,Galectin 3,Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0246694,C1155266,AFFECTS,MG 132,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0253050,C0026846,AFFECTS,Stat3 protein,Muscular Atrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0254610,C0021368,AFFECTS,Interleukin-15,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0255808,C0332448,AFFECTS,tumor necrosis factor receptor 1A,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0257535,C0020517,AFFECTS,Mitogen-Activated Protein Kinase 14,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0259275,C1096176,AFFECTS,BRCA1 Protein,mitochondrial toxicity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0282553,C0021368,AFFECTS,CXC Chemokines,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0282554,C0001511,AFFECTS,chemokine,Tissue Adhesions,aapp,patf,6,AFFECTS_AAPPafctPATF
+C0282554,C0011304,AFFECTS,chemokine,Demyelination,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0282554,C0020517,AFFECTS,chemokine,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0282554,C0021308,AFFECTS,chemokine,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0282554,C0021368,AFFECTS,chemokine,Inflammation,aapp,patf,16,AFFECTS_AAPPafctPATF
+C0282554,C0021376,AFFECTS,chemokine,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0282554,C0242656,AFFECTS,chemokine,Disease Progression,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0282554,C0332448,AFFECTS,chemokine,Infiltration,aapp,patf,5,AFFECTS_AAPPafctPATF
+C0282554,C1155266,AFFECTS,chemokine,inflammatory response,aapp,patf,7,AFFECTS_AAPPafctPATF
+C0282641,C1373218,AFFECTS,Transgenes,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0282651,C0001511,AFFECTS,Selectins,Tissue Adhesions,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0282651,C1155266,AFFECTS,Selectins,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0282682,C0242656,AFFECTS,"Antibodies, Blocking",Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0287531,C1155266,AFFECTS,"DUSP1 protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0287990,C0027686,AFFECTS,paired basic amino acid cleaving enzyme,Pathologic Neovascularization,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0287990,C0920779,AFFECTS,paired basic amino acid cleaving enzyme,Cancer invasiveness,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0289884,C0242656,AFFECTS,glatiramer acetate,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0292991,C0020507,AFFECTS,neuronal apoptosis inhibitory protein,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0304052,C0036679,AFFECTS,Plant Lectins,Diastasis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0305052,C1520005,AFFECTS,Gamma globulin serum,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0312586,C1155266,AFFECTS,Polyclonal antibody,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0348035,C0021368,AFFECTS,oxidized low density lipoprotein,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0376436,C0015376,AFFECTS,Peptide Library,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0376515,C0020517,AFFECTS,BCL2 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0377274,C0020517,AFFECTS,Collectins,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0377274,C3714514,AFFECTS,Collectins,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0378796,C0027686,AFFECTS,Vascular Endothelial Growth Factor Receptor-2,Pathologic Neovascularization,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0378910,C0001511,AFFECTS,Lymphocyte antigen CD66A,Tissue Adhesions,aapp,patf,4,AFFECTS_AAPPafctPATF
+C0378910,C0021368,AFFECTS,Lymphocyte antigen CD66A,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0378910,C0027686,AFFECTS,Lymphocyte antigen CD66A,Pathologic Neovascularization,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0378910,C0920563,AFFECTS,Lymphocyte antigen CD66A,Insulin Sensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0379135,C2936381,AFFECTS,Becaplermin,Neointima Formation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0386482,C0021368,AFFECTS,purinoceptor P2Z,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0387678,C0020517,AFFECTS,frataxin,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0388561,C0021368,AFFECTS,"MFGE8 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0389071,C0021368,AFFECTS,Adiponectin,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0389071,C0027686,AFFECTS,Adiponectin,Pathologic Neovascularization,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0389071,C0035228,AFFECTS,Adiponectin,Respiratory Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0432618,C0021368,AFFECTS,Blood group antibody B,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0440471,C0242648,AFFECTS,Genetic Materials,Vertical Disease Transmission,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0440471,C3714514,AFFECTS,Genetic Materials,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0443640,C0020517,AFFECTS,Specific antibody,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0443640,C0162633,AFFECTS,Specific antibody,Viral Shedding,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0475463,C0020517,AFFECTS,"Antibodies, Neutralizing",Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0475463,C0231274,AFFECTS,"Antibodies, Neutralizing",Intolerant of heat,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0475463,C0728867,AFFECTS,"Antibodies, Neutralizing",Drug effect disorder,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0475463,C1520005,AFFECTS,"Antibodies, Neutralizing",Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0475463,C3714514,AFFECTS,"Antibodies, Neutralizing",Infection,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0524914,C0021368,AFFECTS,chemokine receptor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0526999,C0036679,AFFECTS,anaphase-promoting complex,Diastasis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0529196,C0021368,AFFECTS,ADAM17 Protein,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0529196,C0022116,AFFECTS,ADAM17 Protein,Ischemia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0529196,C1383860,AFFECTS,ADAM17 Protein,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0529196,C3714514,AFFECTS,ADAM17 Protein,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0533668,C0334094,AFFECTS,"ANGPT1 protein, human",Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0537408,C0021368,AFFECTS,"ORF74 protein, Human herpesvirus 8",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0538072,C0021368,AFFECTS,C-C Motif Chemokine 23,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0539788,C0030660,AFFECTS,flotillins,Pathologic Processes,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0540193,C0020517,AFFECTS,"DNA, Catalytic",Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0582263,C1520005,AFFECTS,Structural protein,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0596035,C0019080,AFFECTS,activation product,Hemorrhage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0596035,C0021368,AFFECTS,activation product,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0596202,C0036981,AFFECTS,bombesin like peptide,Endotoxic shock,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0596709,C0020517,AFFECTS,HIV envelope protein,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0596902,C0001511,AFFECTS,Membrane Transport Proteins,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0597336,C0001349,AFFECTS,Quantitative Trait Loci,Acute-Phase Reaction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0597336,C0020517,AFFECTS,Quantitative Trait Loci,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0597357,C0001511,AFFECTS,receptor,Tissue Adhesions,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0597357,C0015376,AFFECTS,receptor,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0597357,C0020517,AFFECTS,receptor,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0597357,C0021368,AFFECTS,receptor,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0597357,C1155266,AFFECTS,receptor,inflammatory response,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0597357,C1520005,AFFECTS,receptor,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0597427,C1520005,AFFECTS,secretory protein,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0599220,C3714514,AFFECTS,Protein Subunits,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0599561,C1520005,AFFECTS,e protein,Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0599635,C0021368,AFFECTS,water channel,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0600388,C1155266,AFFECTS,Extracellular Signal Regulated Kinases,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0607430,C0001511,AFFECTS,Galactose Binding Lectin,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0623362,C0020517,AFFECTS,Matrix Metalloproteinases,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0623362,C0020564,AFFECTS,Matrix Metalloproteinases,Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0623362,C0021368,AFFECTS,Matrix Metalloproteinases,Inflammation,aapp,patf,7,AFFECTS_AAPPafctPATF
+C0623362,C2717792,AFFECTS,Matrix Metalloproteinases,Airway Remodeling,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0663914,C0021368,AFFECTS,IkappaB kinase,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0664336,C1373218,AFFECTS,survivin,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0667830,C0020517,AFFECTS,caspase-8,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0669365,C0020517,AFFECTS,"NOS3 protein, human",Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0669365,C0021368,AFFECTS,"NOS3 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0669365,C0595862,AFFECTS,"NOS3 protein, human",Vasodilation disorder,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0669372,C0021368,AFFECTS,"NOS2A protein, human",Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0669372,C1373218,AFFECTS,"NOS2A protein, human",Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C0670896,C0021368,AFFECTS,Toll-like receptors,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0670896,C0021375,AFFECTS,Toll-like receptors,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0670896,C0021376,AFFECTS,Toll-like receptors,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0670896,C1155266,AFFECTS,Toll-like receptors,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0672553,C0021368,AFFECTS,peroxiredoxin I,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0676848,C0021368,AFFECTS,prolyl-glycyl-proline,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0699918,C1520005,AFFECTS,Elastases,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0700271,C0028778,AFFECTS,"M Protein, multiple myeloma",Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0700271,C0231176,AFFECTS,"M Protein, multiple myeloma",Acute failure,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0700271,C1520005,AFFECTS,"M Protein, multiple myeloma",Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0728747,C1827687,AFFECTS,trastuzumab,Chemotherapy-induced neutropenia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0752312,C0021368,AFFECTS,Mitogen-Activated Protein Kinases,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0752312,C0021376,AFFECTS,Mitogen-Activated Protein Kinases,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0795677,C0021368,AFFECTS,"von Willebrand factor, human",Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0796385,C0028778,AFFECTS,Fc-Gamma Receptor II,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0812308,C0021368,AFFECTS,LTA gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0908145,C0021655,AFFECTS,"protein tyrosine phosphatase, non-receptor type 1",Insulin Resistance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0910899,C1817978,AFFECTS,"SIGLEC7 protein, human",acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0912332,C0334094,AFFECTS,Glucagon-Like Peptide 2,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C0913092,C0001511,AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,Tissue Adhesions,aapp,patf,3,AFFECTS_AAPPafctPATF
+C0916595,C0021368,AFFECTS,"SIGLEC9 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0916595,C1817978,AFFECTS,"SIGLEC9 protein, human",acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0917877,C0745283,AFFECTS,Cyclophilins,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0917877,C1520005,AFFECTS,Cyclophilins,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0919432,C1155266,AFFECTS,SMAD3 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0920283,C0010356,AFFECTS,DNA Helicases,Cross Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0920283,C0036679,AFFECTS,DNA Helicases,Diastasis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0960880,C0231176,AFFECTS,angiotensin converting enzyme 2,Acute failure,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0962190,C0021368,AFFECTS,interleukin-21,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0962190,C1527304,AFFECTS,interleukin-21,Allergic Reaction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0963057,C0021368,AFFECTS,Toll-like receptor 9,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0966897,C1817978,AFFECTS,hepcidin,acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C0972232,C0021368,AFFECTS,fibroblast growth factor 21,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0972232,C0334094,AFFECTS,fibroblast growth factor 21,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1099812,C1155266,AFFECTS,"SOD3 protein, human",inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1100642,C1155266,AFFECTS,"phospholipase A2, group X protein",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1120843,C0021368,AFFECTS,mitogen-activated protein kinase p38,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1120843,C1155266,AFFECTS,mitogen-activated protein kinase p38,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1121209,C0028778,AFFECTS,RC 101,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1121209,C0243083,AFFECTS,RC 101,associated disease,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1142652,C1155266,AFFECTS,"NR4A2 protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1143167,C0033677,AFFECTS,"APOBEC3G protein, human",Protein-Energy Malnutrition,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1143949,C0151686,AFFECTS,"TNFSF10 protein, human",Growth retardation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1143976,C0021368,AFFECTS,"TREM2 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1143976,C0333606,AFFECTS,"TREM2 protein, human",Dystrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1143976,C1155266,AFFECTS,"TREM2 protein, human",inflammatory response,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1172734,C0242656,AFFECTS,natalizumab,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1179106,C0036679,AFFECTS,Motor protein,Diastasis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1180347,C0021368,AFFECTS,Protein complex,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1256770,C0015376,AFFECTS,Vascular Endothelial Growth Factors,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1256770,C0021368,AFFECTS,Vascular Endothelial Growth Factors,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1256770,C0242656,AFFECTS,Vascular Endothelial Growth Factors,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1256801,C0021368,AFFECTS,"FPR1 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1305923,C0001511,AFFECTS,Polypeptides,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1305923,C0242656,AFFECTS,Polypeptides,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1309025,C1520005,AFFECTS,"SH2D3A protein, human",Viral Pathogenesis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1310463,C1520005,AFFECTS,"IFIH1 protein, human",Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1310468,C1520005,AFFECTS,"DDX58 protein, human",Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1313359,C0021368,AFFECTS,"oxoguanine glycosylase 1, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1313359,C0021375,AFFECTS,"oxoguanine glycosylase 1, human",allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1313359,C1155266,AFFECTS,"oxoguanine glycosylase 1, human",inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1313407,C0021368,AFFECTS,"HAVCR1 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1313494,C0333467,AFFECTS,"TLR3 protein, human",Cytopathic effect,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1328053,C0030660,AFFECTS,NOS3 gene,Pathologic Processes,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332672,C0020963,AFFECTS,CBLB gene,Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332672,C1817978,AFFECTS,CBLB gene,acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332689,C0242656,AFFECTS,CCL3L1 gene,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332699,C0020517,AFFECTS,CCR1 gene,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1332699,C0021368,AFFECTS,CCR1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332699,C1817978,AFFECTS,CCR1 gene,acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332700,C0242656,AFFECTS,CCR5 gene,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332700,C0332448,AFFECTS,CCR5 gene,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332701,C0020517,AFFECTS,CCR6 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332822,C0011304,AFFECTS,CXCR3 gene,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332822,C0020517,AFFECTS,CXCR3 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332822,C0334094,AFFECTS,CXCR3 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1332822,C2699153,AFFECTS,CXCR3 gene,Cell Invasion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1333877,C0024348,AFFECTS,Granzymes,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1333908,C0021368,AFFECTS,HMGB1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334043,C0020507,AFFECTS,Homologous Gene,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334078,C0334094,AFFECTS,IFITM1 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334103,C0020517,AFFECTS,IL13 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334103,C3838777,AFFECTS,IL13 gene,Sensitization process,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334140,C0920563,AFFECTS,IRS1 gene,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334294,C0020517,AFFECTS,JTB gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334346,C1510411,AFFECTS,LMP1 EBV latent membrane protein,metaplastic cell transformation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334470,C1155266,AFFECTS,SMAD7 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334487,C0027686,AFFECTS,MCAM gene,Pathologic Neovascularization,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334510,C0334094,AFFECTS,MLANA gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334877,C0020517,AFFECTS,NFKBIA gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334877,C0021368,AFFECTS,NFKBIA gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1334894,C0018273,AFFECTS,NPM1 gene,Growth Disorders,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335056,C0020517,AFFECTS,"PTPN1 protein, human",Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335056,C0920563,AFFECTS,"PTPN1 protein, human",Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335208,C0021368,AFFECTS,PHB gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335283,C0021368,AFFECTS,PTPN6 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335623,C0151763,AFFECTS,RIPK1 gene,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335648,C0011304,AFFECTS,RRM1 gene,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335808,C3714514,AFFECTS,SELL gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335872,C0021368,AFFECTS,STAT1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335872,C1520005,AFFECTS,STAT1 gene,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1335877,C1510411,AFFECTS,STAT6 gene,metaplastic cell transformation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336636,C0021368,AFFECTS,TLR4 gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1336636,C0021375,AFFECTS,TLR4 gene,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336636,C1155266,AFFECTS,TLR4 gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1336641,C3714514,AFFECTS,TMPRSS2 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336645,C0006663,AFFECTS,TNFRSF11B gene,Calcinosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336681,C0021368,AFFECTS,TSLP gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336763,C0020517,AFFECTS,Toll-Like Receptor Family Gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336763,C0021368,AFFECTS,Toll-Like Receptor Family Gene,Inflammation,aapp,patf,7,AFFECTS_AAPPafctPATF
+C1336763,C0032914,AFFECTS,Toll-Like Receptor Family Gene,Pre-Eclampsia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336763,C0333355,AFFECTS,Toll-Like Receptor Family Gene,Inflammatory disease of mucous membrane,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336763,C1155266,AFFECTS,Toll-Like Receptor Family Gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1336763,C3714514,AFFECTS,Toll-Like Receptor Family Gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1336789,C0020507,AFFECTS,Transcription Repressor/Corepressor,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366449,C0016059,AFFECTS,F2R gene,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366449,C0035228,AFFECTS,F2R gene,Respiratory Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366449,C1155266,AFFECTS,F2R gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366487,C1563937,AFFECTS,FAP gene,Atherogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366566,C1155266,AFFECTS,CCL27 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366572,C0018188,AFFECTS,CXCL13 gene,Granuloma,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366572,C0020507,AFFECTS,CXCL13 gene,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366572,C0021368,AFFECTS,CXCL13 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1366572,C0242656,AFFECTS,CXCL13 gene,Disease Progression,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1367307,C0021368,AFFECTS,STAT3 gene,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1367307,C1155266,AFFECTS,STAT3 gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1367477,C1155266,AFFECTS,CD14 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1367731,C1155266,AFFECTS,MAPK8 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412113,C0020564,AFFECTS,SLC33A1 gene,Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412113,C0549592,AFFECTS,SLC33A1 gene,kidney morphologic,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412182,C0001511,AFFECTS,ADAM12 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412208,C0020517,AFFECTS,ADAMTS2 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412417,C1155266,AFFECTS,ANXA1 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412480,C0020507,AFFECTS,APOD gene,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412511,C0001511,AFFECTS,ARF6 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412533,C0162633,AFFECTS,ARIH1 gene,Viral Shedding,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412716,C0021368,AFFECTS,B3GAT1 gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1412801,C0021368,AFFECTS,BLVRA gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412801,C1155266,AFFECTS,BLVRA gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1412821,C1520005,AFFECTS,BRD3 gene,Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1412854,C0332448,AFFECTS,BUB1B gene,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413064,C0020507,AFFECTS,CACNA1S gene,Hyperplasia,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1413064,C1520005,AFFECTS,CACNA1S gene,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413188,C0332448,AFFECTS,CCR2 gene,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413188,C1155266,AFFECTS,CCR2 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413188,C3714514,AFFECTS,CCR2 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413327,C0020517,AFFECTS,ADA2 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413390,C0001511,AFFECTS,CHIC2 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413504,C0021368,AFFECTS,CLPP gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413772,C1155266,AFFECTS,CST3 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413850,C0021368,AFFECTS,CYLD gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1413962,C0020517,AFFECTS,DDX3X gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414141,C0021368,AFFECTS,DPP4 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414141,C0030660,AFFECTS,DPP4 gene,Pathologic Processes,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1414141,C0920563,AFFECTS,DPP4 gene,Insulin Sensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1414181,C1155266,AFFECTS,DUSP10 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414263,C0020542,AFFECTS,EDNRB gene,Pulmonary Hypertension,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414371,C1155266,AFFECTS,ELAVL1 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414421,C0151526,AFFECTS,EPAS1 gene,Premature Birth,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414603,C0334094,AFFECTS,FGF19 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414609,C0151763,AFFECTS,FGL2 gene,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414609,C2699153,AFFECTS,FGL2 gene,Cell Invasion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414691,C1155266,AFFECTS,FPR2 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1414692,C0020517,AFFECTS,FPR3 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415002,C0020517,AFFECTS,GBF1 gene,Hypersensitivity,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1415258,C1155266,AFFECTS,C5AR2 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415284,C0036974,AFFECTS,GRAP2 gene,Shock,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415284,C0242781,AFFECTS,GRAP2 gene,disease transmission,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415321,C1155266,AFFECTS,GSK3B gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415489,C0021368,AFFECTS,HBZ gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415619,C0021368,AFFECTS,HMOX1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415790,C0151763,AFFECTS,HSPE1 gene,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415846,C0021376,AFFECTS,ICOS gene,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415892,C0020517,AFFECTS,IFIT1 gene,Hypersensitivity,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1415892,C0021368,AFFECTS,IFIT1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415894,C1155266,AFFECTS,IFIT2 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415897,C0020517,AFFECTS,IFITM2 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415898,C0020517,AFFECTS,IFITM3 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1415898,C0028778,AFFECTS,IFITM3 gene,Obstruction,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1416400,C0020517,AFFECTS,IL1RL1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1416496,C0020517,AFFECTS,ITGB1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1416700,C0021368,AFFECTS,KPNA2 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1416831,C0920563,AFFECTS,LGALS3 gene,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417032,C3714514,AFFECTS,MARCO gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417196,C0151603,AFFECTS,MLYCD gene,Anasarca,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417530,C0021368,AFFECTS,MYD88 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417530,C1155266,AFFECTS,MYD88 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417530,C3714514,AFFECTS,MYD88 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417613,C0021368,AFFECTS,NCL gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1417719,C0020517,AFFECTS,NGF gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417819,C1155266,AFFECTS,NPY6R gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417861,C0015376,AFFECTS,NT5E gene,Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1417950,C0745283,AFFECTS,OMP gene,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418298,C3714514,AFFECTS,PCBP2 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418392,C0011304,AFFECTS,PCSK7 gene,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418401,C0021368,AFFECTS,PDCD1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418401,C1155266,AFFECTS,PDCD1 gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1418582,C0020517,AFFECTS,PIN1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418597,C0013990,AFFECTS,PITX3 gene,Pathological accumulation of air in tissues,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418597,C0021359,AFFECTS,PITX3 gene,Infertility,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418597,C0021368,AFFECTS,PITX3 gene,Inflammation,aapp,patf,9,AFFECTS_AAPPafctPATF
+C1418597,C0021375,AFFECTS,PITX3 gene,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418597,C0745283,AFFECTS,PITX3 gene,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418597,C1155266,AFFECTS,PITX3 gene,inflammatory response,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1418597,C1692321,AFFECTS,PITX3 gene,Cellular infiltrate,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418793,C0020517,AFFECTS,PPIA gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418793,C0021368,AFFECTS,PPIA gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418797,C0020507,AFFECTS,PPID gene,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418944,C0021368,AFFECTS,PROCR gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418944,C0036983,AFFECTS,PROCR gene,Septic Shock,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1418944,C0040053,AFFECTS,PROCR gene,Thrombosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419054,C3714514,AFFECTS,PTBP1 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419142,C0021368,AFFECTS,NECTIN1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419142,C3714514,AFFECTS,NECTIN1 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419227,C0019080,AFFECTS,RAC1 gene,Hemorrhage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419274,C0021375,AFFECTS,RARRES2 gene,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419388,C3714514,AFFECTS,RIT2 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419632,C0334094,AFFECTS,RPL15 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419818,C1520005,AFFECTS,SARS gene,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1419941,C0332448,AFFECTS,SELPLG gene,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420002,C0021368,AFFECTS,SFTPA1 gene,Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1420002,C0021375,AFFECTS,SFTPA1 gene,allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420002,C1155266,AFFECTS,SFTPA1 gene,inflammatory response,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1420017,C0016059,AFFECTS,SH2D1A gene,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420017,C1155266,AFFECTS,SH2D1A gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420204,C3714514,AFFECTS,SLC5A5 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420357,C0021368,AFFECTS,SPHK1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420369,C0001511,AFFECTS,SPP1 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420610,C0021368,AFFECTS,TBX21 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420799,C1155266,AFFECTS,TNFAIP3 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1420801,C0021368,AFFECTS,TNFAIP6 gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1420801,C1373218,AFFECTS,TNFAIP6 gene,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C1421318,C0151763,AFFECTS,SCGB1A1 gene,Liver damage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1421409,C0020517,AFFECTS,USP9X gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1421429,C0020517,AFFECTS,VTRNA1-1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1421435,C0001511,AFFECTS,VCAM1 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1421479,C3714514,AFFECTS,WASF1 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1421876,C1516670,AFFECTS,AICDA gene,Clonal Expansion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422064,C0001511,AFFECTS,ACE2 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422064,C0016059,AFFECTS,ACE2 gene,Fibrosis,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1422064,C0021368,AFFECTS,ACE2 gene,Inflammation,aapp,patf,6,AFFECTS_AAPPafctPATF
+C1422064,C0021655,AFFECTS,ACE2 gene,Insulin Resistance,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1422064,C0030660,AFFECTS,ACE2 gene,Pathologic Processes,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1422064,C0231176,AFFECTS,ACE2 gene,Acute failure,aapp,patf,5,AFFECTS_AAPPafctPATF
+C1422064,C0242656,AFFECTS,ACE2 gene,Disease Progression,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422064,C0341950,AFFECTS,ACE2 gene,Severe pre-eclampsia,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422064,C0920563,AFFECTS,ACE2 gene,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422064,C1155266,AFFECTS,ACE2 gene,inflammatory response,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1422064,C1383860,AFFECTS,ACE2 gene,Cardiac Hypertrophy,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1422064,C1704489,AFFECTS,ACE2 gene,Extended Rotated Sidebent,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422064,C3658220,AFFECTS,ACE2 gene,Atrial Remodeling,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1422329,C0020517,AFFECTS,PDLIM2 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1423062,C0021368,AFFECTS,SIRT1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1423506,C3714514,AFFECTS,SPINK5 gene,Infection,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1423842,C0021368,AFFECTS,NELFCD gene,Inflammation,aapp,patf,7,AFFECTS_AAPPafctPATF
+C1423842,C1155266,AFFECTS,NELFCD gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1424222,C0021368,AFFECTS,PARK7 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1424250,C0021368,AFFECTS,NLRP3 gene,Inflammation,aapp,patf,7,AFFECTS_AAPPafctPATF
+C1424250,C0334097,AFFECTS,NLRP3 gene,Epithelial proliferation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1424252,C1155266,AFFECTS,IL17F gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1424450,C1383860,AFFECTS,RAPGEF3 gene,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1424460,C0021368,AFFECTS,CXCL16 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1424731,C0854460,AFFECTS,SYNE2 gene,Indirect Transmission,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1424783,C0021368,AFFECTS,LY96 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425066,C1155266,AFFECTS,TREM1 gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1425082,C0020517,AFFECTS,SAV1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425188,C0021368,AFFECTS,PLA2G3 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425218,C1155266,AFFECTS,ROBO4 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425473,C0334094,AFFECTS,IFNL1 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425473,C1155266,AFFECTS,IFNL1 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425514,C0021368,AFFECTS,HAVCR2 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425514,C1155266,AFFECTS,HAVCR2 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425660,C0001511,AFFECTS,STAB2 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1425660,C0700148,AFFECTS,STAB2 gene,Congestion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1426208,C0021368,AFFECTS,SOCS1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1426208,C0334094,AFFECTS,SOCS1 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1426212,C0021368,AFFECTS,SOCS3 gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1426212,C0334094,AFFECTS,SOCS3 gene,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1427382,C0021655,AFFECTS,RHOT1 gene,Insulin Resistance,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1428114,C0020517,AFFECTS,TBATA gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1428114,C0242781,AFFECTS,TBATA gene,disease transmission,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1428114,C1520005,AFFECTS,TBATA gene,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1428195,C0473485,AFFECTS,GSDMB gene,Maternal distress,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1428200,C0020517,AFFECTS,TIPARP gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1428431,C3714514,AFFECTS,DOT1L gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1428918,C2911645,AFFECTS,PPARGC1B gene,Weight Loss Adverse Event,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1432376,C0162633,AFFECTS,"PB1-F2 protein, Influenza A virus",Viral Shedding,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1434437,C0332448,AFFECTS,"SPN protein, human",Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1439284,C0016059,AFFECTS,AGTR1 gene,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1442738,C3714514,AFFECTS,PABPC1 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1447020,C0021368,AFFECTS,"DPP4 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1447020,C1527304,AFFECTS,"DPP4 protein, human",Allergic Reaction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1447045,C0024348,AFFECTS,"EGR1 protein, human",Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1447045,C1155266,AFFECTS,"EGR1 protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1448177,C0011304,AFFECTS,"TNF protein, human",Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1448177,C0021368,AFFECTS,"TNF protein, human",Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1448177,C0021375,AFFECTS,"TNF protein, human",allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1448177,C1155266,AFFECTS,"TNF protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1449159,C0011304,AFFECTS,"CCL2 protein, human",Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1455498,C0021368,AFFECTS,"TYRP1 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1456380,C0333467,AFFECTS,"MAPK14 protein, human",Cytopathic effect,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1456380,C1155266,AFFECTS,"MAPK14 protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1456447,C0021368,AFFECTS,"SLC6A2 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1456447,C1373218,AFFECTS,"SLC6A2 protein, human",Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C1515370,C0024348,AFFECTS,Recombinant Fas Ligand,Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1517495,C3714514,AFFECTS,Gene Feature,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1530270,C0332448,AFFECTS,"IRF1 protein, human",Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1537432,C0020517,AFFECTS,KALRN gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1537719,C1383860,AFFECTS,MIR21 gene,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1537861,C0021368,AFFECTS,MIR223 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1538071,C0021368,AFFECTS,VSIG4 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1538149,C0020517,AFFECTS,ZBTB16 gene,Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1538915,C0920563,AFFECTS,APLN gene,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1538915,C1383860,AFFECTS,APLN gene,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1539099,C0001511,AFFECTS,CLEC4M gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1539100,C0021368,AFFECTS,CLEC5A gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1540061,C1155266,AFFECTS,TRIM55 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1540210,C1520005,AFFECTS,ASZ1 gene,Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1540290,C0021368,AFFECTS,CD200R1 gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1565427,C2699153,AFFECTS,"PTK2 protein, human",Cell Invasion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1565830,C0021368,AFFECTS,"PTGS1 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1565860,C0020517,AFFECTS,"PTGS2 protein, human",Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1565860,C0021368,AFFECTS,"PTGS2 protein, human",Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1609938,C0001511,AFFECTS,vascular addressins,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1624602,C1155266,AFFECTS,Anti-Antibodies,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1667752,C0020517,AFFECTS,"IL33 protein, human",Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1669512,C0334094,AFFECTS,"RAB8A protein, human",Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C1698754,C0021368,AFFECTS,"IL6 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1700887,C0020963,AFFECTS,"IL2RA protein, human",Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1701790,C0021368,AFFECTS,"IL17A protein, human",Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1701790,C0021376,AFFECTS,"IL17A protein, human",Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1701790,C1155266,AFFECTS,"IL17A protein, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1702088,C0021375,AFFECTS,"IL5 protein, human",allergic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1705310,C0021368,AFFECTS,PTEN wt Allele,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1705590,C0030660,AFFECTS,PIK3CB wt Allele,Pathologic Processes,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1705590,C0333951,AFFECTS,PIK3CB wt Allele,Growth arrest,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1705982,C1520005,AFFECTS,KRAS wt Allele,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1706005,C0021368,AFFECTS,CD40LG wt Allele,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1706289,C0021368,AFFECTS,Interleukin-27,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1706289,C1155266,AFFECTS,Interleukin-27,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1707156,C0020517,AFFECTS,CTBP1 wt Allele,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1708409,C0020517,AFFECTS,IFNGR1 wt Allele,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1708427,C0020517,AFFECTS,IL17 wt Allele,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1741214,C0036974,AFFECTS,"FKBP5 protein, human",Shock,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1742862,C0020963,AFFECTS,"CISH protein, human",Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1823437,C0021368,AFFECTS,TMEM173 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1823437,C0152254,AFFECTS,TMEM173 gene,Fatty degeneration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1823437,C1155266,AFFECTS,TMEM173 gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1823458,C0021368,AFFECTS,TNFAIP8L2 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1823796,C3714514,AFFECTS,TSACC gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1824180,C0021368,AFFECTS,C5AR1 gene,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1824728,C0021368,AFFECTS,CFB gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1824728,C1155266,AFFECTS,CFB gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1824730,C1155266,AFFECTS,CHAC1 gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1825502,C1155266,AFFECTS,ATG16L1 gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825561,C0028778,AFFECTS,IFI6 gene,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C0019080,AFFECTS,IMPACT gene,Hemorrhage,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C0021368,AFFECTS,IMPACT gene,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1825598,C0036974,AFFECTS,IMPACT gene,Shock,aapp,patf,3,AFFECTS_AAPPafctPATF
+C1825598,C0242781,AFFECTS,IMPACT gene,disease transmission,aapp,patf,6,AFFECTS_AAPPafctPATF
+C1825598,C0332448,AFFECTS,IMPACT gene,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C0333172,AFFECTS,IMPACT gene,Membranous obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C0520893,AFFECTS,IMPACT gene,Localized desquamation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C1155266,AFFECTS,IMPACT gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C1373218,AFFECTS,IMPACT gene,Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C1510411,AFFECTS,IMPACT gene,metaplastic cell transformation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1825598,C1520005,AFFECTS,IMPACT gene,Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1825598,C3714514,AFFECTS,IMPACT gene,Infection,aapp,patf,4,AFFECTS_AAPPafctPATF
+C1825621,C1520005,AFFECTS,ISG15 gene,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1826439,C0016059,AFFECTS,NLRP6 gene,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1826439,C0021368,AFFECTS,NLRP6 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1826464,C3714514,AFFECTS,NPLOC4 gene,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1826560,C0040053,AFFECTS,PDPN gene,Thrombosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1826784,C0021368,AFFECTS,RC3H1 gene,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1837808,C0020517,AFFECTS,DHX58 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1864770,C1155266,AFFECTS,MAVS gene,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1955907,C0021655,AFFECTS,Adipokines,Insulin Resistance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1955907,C0920563,AFFECTS,Adipokines,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1956109,C0020517,AFFECTS,Human Microbiome,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1969662,C0001511,AFFECTS,AMBRA1 gene,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C1979852,C0745283,AFFECTS,Barts,INFECTIOUS PROCESS,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2334430,C0021308,AFFECTS,Major histocompatibility complex protein,Infarction,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2348358,C0020542,AFFECTS,EDNRA wt Allele,Pulmonary Hypertension,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2350701,C1155266,AFFECTS,Macrophage Inflammatory Protein-1,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2362547,C0334094,AFFECTS,Beta protein,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C2714104,C1520005,AFFECTS,"IDH2, human",Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2718090,C1383860,AFFECTS,Class II Histone Deacetylases,Cardiac Hypertrophy,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2744535,C0020517,AFFECTS,"CD69 protein, human",Hypersensitivity,aapp,patf,2,AFFECTS_AAPPafctPATF
+C2744535,C0021368,AFFECTS,"CD69 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2744535,C1518304,AFFECTS,"CD69 protein, human",Neurotropism,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2744579,C0006663,AFFECTS,"ATP8A2 protein, human",Calcinosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2744579,C0030660,AFFECTS,"ATP8A2 protein, human",Pathologic Processes,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2756983,C0021368,AFFECTS,Secretory Phospholipase A2,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C2826021,C0021368,AFFECTS,MIR223 wt Allele,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C2936529,C0021368,AFFECTS,Inflammasomes,Inflammation,aapp,patf,4,AFFECTS_AAPPafctPATF
+C2936529,C1155266,AFFECTS,Inflammasomes,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2936529,C1563937,AFFECTS,Inflammasomes,Atherogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2936529,C3714514,AFFECTS,Inflammasomes,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2985420,C0020963,AFFECTS,CD276 Antigen,Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
+C2986868,C1516670,AFFECTS,TNFRSF4 wt Allele,Clonal Expansion,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3470496,C0020517,AFFECTS,IFNG-AS1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3494454,C0021368,AFFECTS,Sialic Acid Binding Immunoglobulin-like Lectins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3538735,C0020517,AFFECTS,AMH wt Allele,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3538735,C0333951,AFFECTS,AMH wt Allele,Growth arrest,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3538735,C1155266,AFFECTS,AMH wt Allele,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3540595,C0011304,AFFECTS,CD8A wt Allele,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3540595,C0021368,AFFECTS,CD8A wt Allele,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3541329,C3714514,AFFECTS,UGT1A7 wt Allele,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3642462,C0162633,AFFECTS,F2 Gene Product,Viral Shedding,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3642462,C1520005,AFFECTS,F2 Gene Product,Viral Pathogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3710914,C0021368,AFFECTS,"EIF2AK2 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3710914,C0028778,AFFECTS,"EIF2AK2 protein, human",Obstruction,aapp,patf,2,AFFECTS_AAPPafctPATF
+C3714928,C0015376,AFFECTS,"Angiotensin-2, Human",Extravasation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3715044,C1155266,AFFECTS,AKR1A1 wt Allele,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3810159,C1155266,AFFECTS,THRIL gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3811063,C0242781,AFFECTS,SLC27A4 wt Allele,disease transmission,aapp,patf,2,AFFECTS_AAPPafctPATF
+C3811108,C0001511,AFFECTS,SLC7A5 wt Allele,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3811249,C0021376,AFFECTS,TXNRD1 wt Allele,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3811629,C0001511,AFFECTS,Anti-Drug Antibody,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3811720,C0021368,AFFECTS,MIR22 wt Allele,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C3814443,C0021368,AFFECTS,DUSP5 wt Allele,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3824812,C0021368,AFFECTS,TRP channels,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3849511,C0334094,AFFECTS,"ANGPT2 protein, human",Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C3849701,C0021368,AFFECTS,"interleukin 18 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3887958,C1155266,AFFECTS,"Indoleamine 2,3-Dioxygenase, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3887958,C1373218,AFFECTS,"Indoleamine 2,3-Dioxygenase, human",Decreased Immunologic Activity [PE],aapp,patf,1,AFFECTS_AAPPafctPATF
+C3889152,C0854460,AFFECTS,NT5E wt Allele,Indirect Transmission,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3889161,C0001511,AFFECTS,LTBR wt Allele,Tissue Adhesions,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3890207,C0220981,AFFECTS,GJA1 wt Allele,Metabolic acidosis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3890397,C0021368,AFFECTS,PRKAA1 wt Allele,Inflammation,aapp,patf,3,AFFECTS_AAPPafctPATF
+C3890397,C0021655,AFFECTS,PRKAA1 wt Allele,Insulin Resistance,aapp,patf,3,AFFECTS_AAPPafctPATF
+C3890397,C3714514,AFFECTS,PRKAA1 wt Allele,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3890690,C1155266,AFFECTS,NKILA gene,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C3891304,C1155266,AFFECTS,"Cathelicidin LL-37, human",inflammatory response,aapp,patf,3,AFFECTS_AAPPafctPATF
+C4048280,C0021368,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C4048280,C3714514,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4049595,C0004366,AFFECTS,HLA Complex,Autoimmune Response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4049595,C3714514,AFFECTS,HLA Complex,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4085705,C0242184,AFFECTS,TP53COR1 gene,Hypoxia,aapp,patf,4,AFFECTS_AAPPafctPATF
+C4086522,C0334094,AFFECTS,Interferon-Induced Protein with Tetratricopeptide Repeats Family,Proliferation (morphologic abnormality),aapp,patf,1,AFFECTS_AAPPafctPATF
+C4086522,C1155266,AFFECTS,Interferon-Induced Protein with Tetratricopeptide Repeats Family,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C4277661,C0021368,AFFECTS,NLR Proteins,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4281806,C0332448,AFFECTS,Neural Cell Adhesion Molecule 1,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4281806,C1518304,AFFECTS,Neural Cell Adhesion Molecule 1,Neurotropism,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4281807,C0024348,AFFECTS,"Vitronectin, human",Lysis,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4281807,C1155266,AFFECTS,"Vitronectin, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4281807,C1520005,AFFECTS,"Vitronectin, human",Viral Pathogenesis,aapp,patf,3,AFFECTS_AAPPafctPATF
+C4283742,C1155266,AFFECTS,"Ceramide Glucosyltransferase, human",inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4284302,C3714514,AFFECTS,EHD1 wt Allele,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4284739,C0021368,AFFECTS,ADGRE1 wt Allele,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4317106,C0021368,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
+C4317106,C1520005,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Viral Pathogenesis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C4318438,C0021368,AFFECTS,c-Mer Tyrosine Kinase,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF

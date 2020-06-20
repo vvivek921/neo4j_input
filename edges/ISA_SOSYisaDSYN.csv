@@ -1,0 +1,92 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000737,C0017178,ISA,Abdominal Pain,Gastrointestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0002962,C0007222,ISA,Angina Pectoris,Cardiovascular Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0004134,C0027765,ISA,Ataxia,nervous system disorder,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0004158,C0008489,ISA,Athetosis,Chorea,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0004158,C0013384,ISA,Athetosis,Dyskinetic syndrome,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0009806,C1145628,ISA,Constipation,Autonomic nervous system disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0010200,C0035204,ISA,Coughing,Respiration Disorders,sosy,dsyn,12,ISA_SOSYisaDSYN
+C0011991,C0012242,ISA,Diarrhea,Digestive System Disorders,sosy,dsyn,5,ISA_SOSYisaDSYN
+C0011991,C0017178,ISA,Diarrhea,Gastrointestinal Diseases,sosy,dsyn,8,ISA_SOSYisaDSYN
+C0011991,C0021831,ISA,Diarrhea,Intestinal Diseases,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0013404,C0018799,ISA,Dyspnea,Heart Diseases,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0013404,C0024115,ISA,Dyspnea,Lung diseases,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0013404,C0035204,ISA,Dyspnea,Respiration Disorders,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0013428,C0042075,ISA,Dysuria,Urologic Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0013604,C0018801,ISA,Edema,Heart failure,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0015230,C0037274,ISA,Exanthema,Dermatologic disorders,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0015230,C0037284,ISA,Exanthema,Skin lesion,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0015967,C0035204,ISA,Fever,Respiration Disorders,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0015967,C0035242,ISA,Fever,Respiratory Tract Diseases,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0015967,C0549601,ISA,Fever,NONSPECIFIC DISORDERS,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0015967,C0743841,ISA,Fever,Disorder characterized by fever,sosy,dsyn,6,ISA_SOSYisaDSYN
+C0018681,C0027765,ISA,Headache,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0019079,C0018939,ISA,Hemoptysis,Hematological Disease,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0019214,C0012242,ISA,Hepatosplenomegaly,Digestive System Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0019214,C0018939,ISA,Hepatosplenomegaly,Hematological Disease,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0019825,C0042940,ISA,Hoarseness,Voice Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0020429,C0442874,ISA,Hyperalgesia,Neuropathy,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0020453,C0027765,ISA,Hyperesthesia,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0022346,C0008370,ISA,Icterus,Cholestasis,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0022346,C0023895,ISA,Icterus,Liver diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0027066,C0013384,ISA,Myoclonus,Dyskinetic syndrome,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0027066,C0026650,ISA,Myoclonus,Movement Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0027066,C0027765,ISA,Myoclonus,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0027497,C0017178,ISA,Nausea,Gastrointestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0027796,C0031117,ISA,Neuralgia,Peripheral Neuropathy,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0027796,C0442874,ISA,Neuralgia,Neuropathy,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0030193,C0031117,ISA,Pain,Peripheral Neuropathy,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0032617,C0022658,ISA,Polyuria,Kidney Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0032781,C0035243,ISA,Posterior rhinorrhea,Respiratory Tract Infections,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0036572,C0007682,ISA,Seizures,CNS disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0036572,C0027765,ISA,Seizures,nervous system disorder,sosy,dsyn,8,ISA_SOSYisaDSYN
+C0036572,C0683323,ISA,Seizures,physical illness,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0037383,C0035204,ISA,Sneezing,Respiration Disorders,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0039070,C0018801,ISA,Syncope,Heart failure,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0039070,C0442874,ISA,Syncope,Neuropathy,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0040822,C0026650,ISA,Tremor,Movement Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0040822,C0027765,ISA,Tremor,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0042963,C0017178,ISA,Vomiting,Gastrointestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0085620,C0027765,ISA,Flaccid paralysis,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0085631,C0442874,ISA,Agitation,Neuropathy,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0150055,C0027765,ISA,Chronic pain,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0151315,C0013384,ISA,Neck stiffness,Dyskinetic syndrome,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0152116,C0743332,ISA,Spasmodic torticollis,Focal Dystonia,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0152457,C0162281,ISA,Kayser-Fleischer ring,Corneal deposit,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0157536,C0009450,ISA,Puerperal pyrexia of unknown origin,Communicable Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0221150,C0011168,ISA,Swallowing painful,Deglutition Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0221169,C0013384,ISA,Hemiballismus,Dyskinetic syndrome,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0221200,C0025007,ISA,Koplik spots,Measles,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0221232,C0042109,ISA,Welts,Urticaria,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0234379,C0524851,ISA,Resting Tremor,Neurodegenerative Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0235082,C0027765,ISA,"Tremor, Muscle",nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0241705,C0042075,ISA,Difficulty passing urine,Urologic Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0264272,C0035455,ISA,Purulent rhinitis,Rhinitis,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0264274,C0041912,ISA,Catarrhal nasal discharge,Upper Respiratory Infections,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0277794,C0027765,ISA,Extreme exhaustion,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0314719,C0015397,ISA,Dryness of eye,Disorder of eye,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0333422,C0153188,ISA,Gummatous inflammation,"Syphilis, tertiary",sosy,dsyn,1,ISA_SOSYisaDSYN
+C0344374,C0015732,ISA,Spurious diarrhea - overflow,Fecal Incontinence,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0392699,C0030554,ISA,Dysesthesia,Paresthesia,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0401149,C0017178,ISA,Chronic constipation,Gastrointestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0476273,C0024115,ISA,Respiratory distress,Lung diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0476273,C0035204,ISA,Respiratory distress,Respiration Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0917801,C0027765,ISA,Sleeplessness,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1260880,C0035204,ISA,Rhinorrhea,Respiration Disorders,sosy,dsyn,5,ISA_SOSYisaDSYN
+C1260880,C0041912,ISA,Rhinorrhea,Upper Respiratory Infections,sosy,dsyn,13,ISA_SOSYisaDSYN
+C1277287,C0030554,ISA,Transient paresthesia,Paresthesia,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1291077,C0012242,ISA,Abdominal bloating,Digestive System Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1304408,C0042109,ISA,Urticarial vasculitis,Urticaria,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1384493,C0009443,ISA,Catarrh,Common Cold,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1384493,C0009450,ISA,Catarrh,Communicable Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1384493,C0017160,ISA,Catarrh,Gastroenteritis,sosy,dsyn,3,ISA_SOSYisaDSYN
+C1384493,C0035204,ISA,Catarrh,Respiration Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1384493,C0035455,ISA,Catarrh,Rhinitis,sosy,dsyn,4,ISA_SOSYisaDSYN
+C1443924,C0021831,ISA,Severe diarrhea,Intestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1565887,C0022353,ISA,Newborn physiological jaundice,Neonatal Jaundice,sosy,dsyn,1,ISA_SOSYisaDSYN
+C2127434,C0030486,ISA,bilateral Hindlimb paralysis,Paraplegia,sosy,dsyn,1,ISA_SOSYisaDSYN
+C2242814,C0031350,ISA,acute sore throat,Pharyngitis,sosy,dsyn,1,ISA_SOSYisaDSYN
+C2936179,C0028754,ISA,"Obesity, Visceral",Obesity,sosy,dsyn,2,ISA_SOSYisaDSYN
+C3697716,C0007682,ISA,Acute flaccid paralysis,CNS disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C3697716,C0027765,ISA,Acute flaccid paralysis,nervous system disorder,sosy,dsyn,4,ISA_SOSYisaDSYN
+C4054476,C0028754,ISA,Monogenic Obesity,Obesity,sosy,dsyn,1,ISA_SOSYisaDSYN

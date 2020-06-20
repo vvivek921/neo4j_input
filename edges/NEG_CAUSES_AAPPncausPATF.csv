@@ -1,0 +1,49 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003241,C0024348,NEG_CAUSES,Antibodies,Lysis,aapp,patf,2,NEG_CAUSES_AAPPncausPATF
+C0005740,C0016059,NEG_CAUSES,Bleomycin,Fibrosis,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0005740,C0021368,NEG_CAUSES,Bleomycin,Inflammation,aapp,patf,2,NEG_CAUSES_AAPPncausPATF
+C0006100,C0035317,NEG_CAUSES,Bradykinin,Retinal Hemorrhage,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0008546,C1155266,NEG_CAUSES,Chromatin,inflammatory response,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0009498,C0024348,NEG_CAUSES,Complement System Proteins,Lysis,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0010592,C0021368,NEG_CAUSES,Cyclosporine,Inflammation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0012020,C0021359,NEG_CAUSES,Diazooxonorleucine,Infertility,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0014063,C0011304,NEG_CAUSES,Myelin Basic Proteins,Demyelination,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0016194,C0021368,NEG_CAUSES,Flagellin,Inflammation,aapp,patf,2,NEG_CAUSES_AAPPncausPATF
+C0021665,C0015376,NEG_CAUSES,Insulin-Like Growth Factor I,Extravasation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0021701,C0024348,NEG_CAUSES,Integrins,Lysis,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0021747,C0919924,NEG_CAUSES,Interferons,pulmonary toxicity,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0021753,C0015376,NEG_CAUSES,Interleukin-1 beta,Extravasation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0026972,C0011304,NEG_CAUSES,Myelin Proteins,Demyelination,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0028589,C1096176,NEG_CAUSES,Nuclear Proteins,mitochondrial toxicity,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0033602,C0019080,NEG_CAUSES,Protamine Sulfate (USP),Hemorrhage,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0033693,C0011304,NEG_CAUSES,Proteolipids,Demyelination,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0034348,C0333467,NEG_CAUSES,Pyruvate Kinase,Cytopathic effect,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0041236,C0333467,NEG_CAUSES,TRYPSIN,Cytopathic effect,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0042313,C3662262,NEG_CAUSES,Vancomycin,Pseudoallergic reaction,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0042413,C0020564,NEG_CAUSES,Vasopressins,Hypertrophy,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0042736,C0021368,NEG_CAUSES,Viral Proteins,Inflammation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0072480,C1510411,NEG_CAUSES,Proto-Oncogene Proteins c-sis,metaplastic cell transformation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0162745,C0035317,NEG_CAUSES,COLLAGENASE,Retinal Hemorrhage,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0243040,C0001511,NEG_CAUSES,"Adhesins, Bacterial",Tissue Adhesions,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C0808901,C3714514,NEG_CAUSES,EWSR1 gene,Infection,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1121209,C0021368,NEG_CAUSES,RC 101,Inflammation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1333535,C0334097,NEG_CAUSES,FGF10 gene,Epithelial proliferation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1336636,C0333355,NEG_CAUSES,TLR4 gene,Inflammatory disease of mucous membrane,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1336986,C0333467,NEG_CAUSES,WFDC1 gene,Cytopathic effect,aapp,patf,2,NEG_CAUSES_AAPPncausPATF
+C1367307,C0021368,NEG_CAUSES,STAT3 gene,Inflammation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1415919,C0011304,NEG_CAUSES,IFNR gene,Demyelination,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1419652,C0024348,NEG_CAUSES,RPL27 gene,Lysis,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1424734,C1373218,NEG_CAUSES,ICOSLG gene,Decreased Immunologic Activity [PE],aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1426200,C1373218,NEG_CAUSES,IL31 gene,Decreased Immunologic Activity [PE],aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1432728,C0027544,NEG_CAUSES,"CD244 protein, human",Necrotic debris,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1448177,C0011304,NEG_CAUSES,"TNF protein, human",Demyelination,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1448177,C0015376,NEG_CAUSES,"TNF protein, human",Extravasation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1538915,C0020564,NEG_CAUSES,APLN gene,Hypertrophy,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1824492,C0021368,NEG_CAUSES,DNAAF3 gene,Inflammation,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1825325,C1383860,NEG_CAUSES,G3BP1 gene,Cardiac Hypertrophy,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1825598,C1373218,NEG_CAUSES,IMPACT gene,Decreased Immunologic Activity [PE],aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C1826970,C2911645,NEG_CAUSES,SAMD9L gene,Weight Loss Adverse Event,aapp,patf,2,NEG_CAUSES_AAPPncausPATF
+C3147110,C0333467,NEG_CAUSES,DSCAM-AS1 gene,Cytopathic effect,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C3538735,C0036974,NEG_CAUSES,AMH wt Allele,Shock,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C3715044,C0020517,NEG_CAUSES,AKR1A1 wt Allele,Hypersensitivity,aapp,patf,1,NEG_CAUSES_AAPPncausPATF
+C4048280,C0024348,NEG_CAUSES,"T-Cell Surface Glycoprotein CD4, human",Lysis,aapp,patf,1,NEG_CAUSES_AAPPncausPATF

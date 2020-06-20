@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007284,C0010613,ISA,"Carp, fish",Cyprinidae,fish,fish,1,ISA_FISHisaFISH
+C0018038,C0007284,ISA,Goldfish,"Carp, fish",fish,fish,2,ISA_FISHisaFISH
+C0018038,C0328038,ISA,Goldfish,Cyprinus carpio,fish,fish,1,ISA_FISHisaFISH
+C0018492,C0010596,ISA,Hagfish,Agnatha,fish,fish,1,ISA_FISHisaFISH
+C0036108,C0041200,ISA,Oncorhynchus mykiss,Salmo trutta,fish,fish,6,ISA_FISHisaFISH
+C0036108,C0327949,ISA,Oncorhynchus mykiss,Salmo salar,fish,fish,1,ISA_FISHisaFISH
+C0036941,C0327606,ISA,Shark - fish,fish <Chondrichthyes>,fish,fish,6,ISA_FISHisaFISH
+C0041200,C0036110,ISA,Salmo trutta,Salmon,fish,fish,2,ISA_FISHisaFISH
+C0079105,C0007418,ISA,"Catfishes, Channel",Siluriformes,fish,fish,2,ISA_FISHisaFISH
+C0162640,C0162642,ISA,Tilapia mossambica,Tilapia,fish,fish,2,ISA_FISHisaFISH
+C0205942,C0036110,ISA,"Salmon, Sockeye",Salmon,fish,fish,4,ISA_FISHisaFISH
+C0205942,C0036129,ISA,"Salmon, Sockeye",Salmonidae,fish,fish,1,ISA_FISHisaFISH
+C0206148,C0029023,ISA,Oncorhynchus keta,Oncorhynchus,fish,fish,1,ISA_FISHisaFISH
+C0206148,C0036110,ISA,Oncorhynchus keta,Salmon,fish,fish,1,ISA_FISHisaFISH
+C0327587,C0010596,ISA,Petromyzontiformes,Agnatha,fish,fish,1,ISA_FISHisaFISH
+C0327599,C0022990,ISA,Lampetra japonica,Lampreys,fish,fish,1,ISA_FISHisaFISH
+C0327605,C0010596,ISA,Petromyzon marinus,Agnatha,fish,fish,1,ISA_FISHisaFISH
+C0327615,C0327614,ISA,Heterodontus francisci,Family Heterodontidae - bullhead shark,fish,fish,1,ISA_FISHisaFISH
+C0327752,C0327751,ISA,Acipenser,Family Acipensiridae,fish,fish,1,ISA_FISHisaFISH
+C0327781,C0013671,ISA,Anguilla anguilla,Eels,fish,fish,2,ISA_FISHisaFISH
+C0327782,C0003025,ISA,Anguilla japonica,Freshwater eels,fish,fish,1,ISA_FISHisaFISH
+C0327782,C0013671,ISA,Anguilla japonica,Eels,fish,fish,1,ISA_FISHisaFISH
+C0327883,C1018493,ISA,Brevoortia patronus,Alosinae,fish,fish,1,ISA_FISHisaFISH
+C0327887,C0446375,ISA,Clupea harengus pallasi,Clupeidae,fish,fish,1,ISA_FISHisaFISH
+C0327949,C0036110,ISA,Salmo salar,Salmon,fish,fish,3,ISA_FISHisaFISH
+C0327953,C0036143,ISA,Salvelinus fontinalis,Salvelinus,fish,fish,1,ISA_FISHisaFISH
+C0327965,C0998863,ISA,Osmerus mordax,Osmeridae,fish,fish,1,ISA_FISHisaFISH
+C0327986,C0014878,ISA,Exox lucius,Esocidae,fish,fish,2,ISA_FISHisaFISH
+C0328037,C0007284,ISA,Grass Carp (fish),"Carp, fish",fish,fish,14,ISA_FISHisaFISH
+C0328038,C0007284,ISA,Cyprinus carpio,"Carp, fish",fish,fish,5,ISA_FISHisaFISH
+C0328325,C0007418,ISA,Ictalurus nebulosus,Siluriformes,fish,fish,2,ISA_FISHisaFISH
+C0328673,C0038327,ISA,Gasterosteus aculeatus,Sticklebacks,fish,fish,2,ISA_FISHisaFISH
+C0329120,C0037762,ISA,Sea Bream,Sparus,fish,fish,1,ISA_FISHisaFISH
+C0330074,C0936076,ISA,Takifugu,Pufferfish,fish,fish,2,ISA_FISHisaFISH
+C0936076,C0998822,ISA,Pufferfish,fish <Actinopterygii>,fish,fish,1,ISA_FISHisaFISH
+C0949249,C0328038,ISA,Koi Carp,Cyprinus carpio,fish,fish,1,ISA_FISHisaFISH
+C0949250,C0007284,ISA,Hypophthalmichthys molitrix,"Carp, fish",fish,fish,1,ISA_FISHisaFISH
+C0949586,C0330074,ISA,Takifugu rubripes,Takifugu,fish,fish,2,ISA_FISHisaFISH
+C0949586,C0936076,ISA,Takifugu rubripes,Pufferfish,fish,fish,2,ISA_FISHisaFISH
+C0998768,C0013780,ISA,Torpedo marmorata,Electric Fish,fish,fish,1,ISA_FISHisaFISH
+C0998853,C0023925,ISA,Misgurnus fossilis,Loaches,fish,fish,1,ISA_FISHisaFISH
+C0998865,C0036110,ISA,Oncorhynchus masou,Salmon,fish,fish,1,ISA_FISHisaFISH
+C0998972,C0016259,ISA,Paralichthys olivaceus,Flounder,fish,fish,5,ISA_FISHisaFISH
+C1000721,C0012064,ISA,Dicentrarchus labrax,Dicentrarchus,fish,fish,1,ISA_FISHisaFISH
+C1002494,C0998863,ISA,Osmerus eperlanus,Osmeridae,fish,fish,3,ISA_FISHisaFISH
+C1003414,C0007418,ISA,Silurus asotus,Siluriformes,fish,fish,2,ISA_FISHisaFISH
+C1004196,C0008769,ISA,Neolamprologus brichardi,Cichlids,fish,fish,1,ISA_FISHisaFISH
+C1010953,C0949583,ISA,Monopterus albus,Swamp Eels,fish,fish,1,ISA_FISHisaFISH
+C1013091,C0936076,ISA,Tetraodon,Pufferfish,fish,fish,1,ISA_FISHisaFISH
+C1020739,C0010614,ISA,Blicca bjoerkna,Cypriniformes,fish,fish,1,ISA_FISHisaFISH
+C1037401,C0030983,ISA,Gobius bucchichi,Perciformes,fish,fish,1,ISA_FISHisaFISH
+C1045314,C0016259,ISA,Verasper moseri,Flounder,fish,fish,2,ISA_FISHisaFISH
+C1045919,C0936076,ISA,Tetraodon nigroviridis,Pufferfish,fish,fish,1,ISA_FISHisaFISH
+C1079514,C0036941,ISA,Orectolobus maculatus,Shark - fish,fish,fish,2,ISA_FISHisaFISH
+C1199178,C0008769,ISA,Cichlasoma urophthalmum,Cichlids,fish,fish,1,ISA_FISHisaFISH
+C1214710,C0007418,ISA,Tachysurus fulvidraco,Siluriformes,fish,fish,1,ISA_FISHisaFISH
+C1460652,C0030983,ISA,Uranoscopus scaber,Perciformes,fish,fish,1,ISA_FISHisaFISH
+C3668947,C0328038,ISA,Cyprinus carpio carpio,Cyprinus carpio,fish,fish,1,ISA_FISHisaFISH

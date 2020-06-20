@@ -1,0 +1,364 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001268,C0003232,ISA,Spectinomycin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0001268,C0003233,ISA,Spectinomycin,"Antibiotics, Aminoglycoside",antb,antb,1,ISA_ANTBisaANTB
+C0002436,C0003232,ISA,Amdinocillin Pivoxil,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0002475,C0003232,ISA,Mitomycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0002499,C0003232,ISA,Amikacin,Antibiotics,antb,antb,8,ISA_ANTBisaANTB
+C0002499,C0003233,ISA,Amikacin,"Antibiotics, Aminoglycoside",antb,antb,1,ISA_ANTBisaANTB
+C0002499,C0022487,ISA,Amikacin,Kanamycin,antb,antb,2,ISA_ANTBisaANTB
+C0002645,C0002680,ISA,Amoxicillin,Ampicillin,antb,antb,5,ISA_ANTBisaANTB
+C0002645,C0003232,ISA,Amoxicillin,Antibiotics,antb,antb,40,ISA_ANTBisaANTB
+C0002645,C0022914,ISA,Amoxicillin,Lactams,antb,antb,3,ISA_ANTBisaANTB
+C0002645,C0030827,ISA,Amoxicillin,Penicillin G,antb,antb,2,ISA_ANTBisaANTB
+C0002645,C0030842,ISA,Amoxicillin,Penicillins,antb,antb,13,ISA_ANTBisaANTB
+C0002645,C0279516,ISA,Amoxicillin,Anti-Bacterial Agents,antb,antb,3,ISA_ANTBisaANTB
+C0002645,C0282215,ISA,Amoxicillin,beta-Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0002679,C0003232,ISA,Amphotericin B,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0002679,C0003240,ISA,Amphotericin B,Macrolide Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0002680,C0003232,ISA,Ampicillin,Antibiotics,antb,antb,20,ISA_ANTBisaANTB
+C0002680,C0030842,ISA,Ampicillin,Penicillins,antb,antb,8,ISA_ANTBisaANTB
+C0002680,C0279516,ISA,Ampicillin,Anti-Bacterial Agents,antb,antb,4,ISA_ANTBisaANTB
+C0002680,C0282215,ISA,Ampicillin,beta-Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0003082,C0003232,ISA,Anisomycin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0003233,C0003232,ISA,"Antibiotics, Aminoglycoside",Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0003240,C0003232,ISA,Macrolide Antibiotics,Antibiotics,antb,antb,40,ISA_ANTBisaANTB
+C0003240,C0279516,ISA,Macrolide Antibiotics,Anti-Bacterial Agents,antb,antb,3,ISA_ANTBisaANTB
+C0004499,C0002680,ISA,Azlocillin,Ampicillin,antb,antb,1,ISA_ANTBisaANTB
+C0004499,C0030842,ISA,Azlocillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0004521,C0003232,ISA,Aztreonam,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0004635,C0003232,ISA,bactericide,Antibiotics,antb,antb,17,ISA_ANTBisaANTB
+C0004635,C0279516,ISA,bactericide,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0006968,C0003232,ISA,Carbapenems,Antibiotics,antb,antb,15,ISA_ANTBisaANTB
+C0006968,C0022914,ISA,Carbapenems,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0006968,C0026458,ISA,Carbapenems,Monobactams,antb,antb,4,ISA_ANTBisaANTB
+C0006968,C0279516,ISA,Carbapenems,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0006968,C0282215,ISA,Carbapenems,beta-Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0006976,C0022914,ISA,Carbenicillin,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0006976,C0030842,ISA,Carbenicillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0007537,C0003232,ISA,Cefaclor,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0007537,C0007716,ISA,Cefaclor,Cephalexin,antb,antb,1,ISA_ANTBisaANTB
+C0007537,C3536856,ISA,Cefaclor,Cephalosporins,antb,antb,4,ISA_ANTBisaANTB
+C0007538,C3536856,ISA,Cefadroxil,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C0007546,C0003232,ISA,Cefazolin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0007546,C0304317,ISA,Cefazolin,First generation cephalosporin,antb,antb,3,ISA_ANTBisaANTB
+C0007546,C3536856,ISA,Cefazolin,Cephalosporins,antb,antb,1,ISA_ANTBisaANTB
+C0007552,C0003232,ISA,Cefoperazone,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0007554,C0003232,ISA,Cefotaxime,Antibiotics,antb,antb,9,ISA_ANTBisaANTB
+C0007554,C0022914,ISA,Cefotaxime,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0007554,C0279516,ISA,Cefotaxime,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0007554,C0282215,ISA,Cefotaxime,beta-Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0007554,C0304320,ISA,Cefotaxime,Third generation cephalosporin,antb,antb,5,ISA_ANTBisaANTB
+C0007554,C3536856,ISA,Cefotaxime,Cephalosporins,antb,antb,3,ISA_ANTBisaANTB
+C0007557,C0003232,ISA,Cefoxitin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0007557,C0007736,ISA,Cefoxitin,Cephamycins,antb,antb,2,ISA_ANTBisaANTB
+C0007557,C0279516,ISA,Cefoxitin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0007557,C3536856,ISA,Cefoxitin,Cephalosporins,antb,antb,1,ISA_ANTBisaANTB
+C0007558,C0003232,ISA,Cefsulodin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0007559,C0003232,ISA,Ceftazidime,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0007559,C0022914,ISA,Ceftazidime,Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0007559,C0282215,ISA,Ceftazidime,beta-Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0007559,C0304320,ISA,Ceftazidime,Third generation cephalosporin,antb,antb,3,ISA_ANTBisaANTB
+C0007559,C3536856,ISA,Ceftazidime,Cephalosporins,antb,antb,1,ISA_ANTBisaANTB
+C0007561,C0003232,ISA,Ceftriaxone,Antibiotics,antb,antb,18,ISA_ANTBisaANTB
+C0007561,C0007554,ISA,Ceftriaxone,Cefotaxime,antb,antb,9,ISA_ANTBisaANTB
+C0007561,C0022914,ISA,Ceftriaxone,Lactams,antb,antb,4,ISA_ANTBisaANTB
+C0007561,C0026458,ISA,Ceftriaxone,Monobactams,antb,antb,1,ISA_ANTBisaANTB
+C0007561,C0282215,ISA,Ceftriaxone,beta-Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0007561,C0304320,ISA,Ceftriaxone,Third generation cephalosporin,antb,antb,5,ISA_ANTBisaANTB
+C0007561,C3536856,ISA,Ceftriaxone,Cephalosporins,antb,antb,10,ISA_ANTBisaANTB
+C0007562,C0003232,ISA,Cefuroxime,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0007562,C0007554,ISA,Cefuroxime,Cefotaxime,antb,antb,3,ISA_ANTBisaANTB
+C0007562,C0304319,ISA,Cefuroxime,Second generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0007562,C0304320,ISA,Cefuroxime,Third generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0007562,C3536856,ISA,Cefuroxime,Cephalosporins,antb,antb,4,ISA_ANTBisaANTB
+C0007716,C0003232,ISA,Cephalexin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0007716,C0304317,ISA,Cephalexin,First generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0007716,C3536856,ISA,Cephalexin,Cephalosporins,antb,antb,3,ISA_ANTBisaANTB
+C0007735,C0003232,ISA,Cephalothin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0007735,C0022914,ISA,Cephalothin,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0007735,C0304317,ISA,Cephalothin,First generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0007738,C0007716,ISA,Cephradine,Cephalexin,antb,antb,1,ISA_ANTBisaANTB
+C0008168,C0003232,ISA,Chloramphenicol,Antibiotics,antb,antb,29,ISA_ANTBisaANTB
+C0008168,C0279516,ISA,Chloramphenicol,Anti-Bacterial Agents,antb,antb,2,ISA_ANTBisaANTB
+C0008293,C0003232,ISA,Chlortetracycline,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0008947,C0003232,ISA,Clindamycin,Antibiotics,antb,antb,25,ISA_ANTBisaANTB
+C0008947,C0003240,ISA,Clindamycin,Macrolide Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0008947,C0065002,ISA,Clindamycin,Lincosamides,antb,antb,5,ISA_ANTBisaANTB
+C0008947,C0279516,ISA,Clindamycin,Anti-Bacterial Agents,antb,antb,5,ISA_ANTBisaANTB
+C0008947,C2826567,ISA,Clindamycin,Lincosamide Antibiotic,antb,antb,1,ISA_ANTBisaANTB
+C0009077,C0003232,ISA,Cloxacillin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0009077,C0030842,ISA,Cloxacillin,Penicillins,antb,antb,2,ISA_ANTBisaANTB
+C0010572,C0003232,ISA,Cycloheximide,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0011015,C0003232,ISA,Daunorubicin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0011015,C0003234,ISA,Daunorubicin,Anthracycline Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0012093,C0003232,ISA,Dicloxacillin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0012093,C0009077,ISA,Dicloxacillin,Cloxacillin,antb,antb,1,ISA_ANTBisaANTB
+C0012093,C0030842,ISA,Dicloxacillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0012093,C0279516,ISA,Dicloxacillin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0013089,C0003232,ISA,Doxorubicin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0013089,C0003234,ISA,Doxorubicin,Anthracycline Antibiotics,antb,antb,9,ISA_ANTBisaANTB
+C0013089,C0011015,ISA,Doxorubicin,Daunorubicin,antb,antb,5,ISA_ANTBisaANTB
+C0013089,C0279516,ISA,Doxorubicin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0013090,C0003232,ISA,Doxycycline,Antibiotics,antb,antb,30,ISA_ANTBisaANTB
+C0013090,C0279516,ISA,Doxycycline,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0013090,C1744619,ISA,Doxycycline,Tetracycline Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0014806,C0003232,ISA,Erythromycin,Antibiotics,antb,antb,32,ISA_ANTBisaANTB
+C0014806,C0003240,ISA,Erythromycin,Macrolide Antibiotics,antb,antb,33,ISA_ANTBisaANTB
+C0016095,C0003232,ISA,Filipin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0016267,C0003232,ISA,Floxacillin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0016267,C0026458,ISA,Floxacillin,Monobactams,antb,antb,1,ISA_ANTBisaANTB
+C0016267,C0030842,ISA,Floxacillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0016610,C0003232,ISA,Fosfomycin,Antibiotics,antb,antb,6,ISA_ANTBisaANTB
+C0016875,C0003232,ISA,Fusidic Acid,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0020933,C0003232,ISA,Imipenem,Antibiotics,antb,antb,9,ISA_ANTBisaANTB
+C0020933,C0006968,ISA,Imipenem,Carbapenems,antb,antb,11,ISA_ANTBisaANTB
+C0020933,C0022914,ISA,Imipenem,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0020933,C0026458,ISA,Imipenem,Monobactams,antb,antb,1,ISA_ANTBisaANTB
+C0022487,C0003232,ISA,Kanamycin,Antibiotics,antb,antb,11,ISA_ANTBisaANTB
+C0022487,C0003233,ISA,Kanamycin,"Antibiotics, Aminoglycoside",antb,antb,3,ISA_ANTBisaANTB
+C0022489,C0003232,ISA,kanamycin A,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0022489,C0279516,ISA,kanamycin A,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0022914,C0279516,ISA,Lactams,Anti-Bacterial Agents,antb,antb,8,ISA_ANTBisaANTB
+C0023726,C0003232,ISA,Lincomycin,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0023726,C0065002,ISA,Lincomycin,Lincosamides,antb,antb,1,ISA_ANTBisaANTB
+C0025643,C0003232,ISA,Methicillin,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0025643,C0022914,ISA,Methicillin,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0025643,C0030842,ISA,Methicillin,Penicillins,antb,antb,2,ISA_ANTBisaANTB
+C0025643,C0355824,ISA,Methicillin,Penicillinase-resistant penicillin,antb,antb,3,ISA_ANTBisaANTB
+C0025893,C0002680,ISA,Mezlocillin,Ampicillin,antb,antb,1,ISA_ANTBisaANTB
+C0025893,C0003232,ISA,Mezlocillin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0026187,C0003232,ISA,Minocycline,Antibiotics,antb,antb,8,ISA_ANTBisaANTB
+C0026187,C1744619,ISA,Minocycline,Tetracycline Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0026234,C0003232,ISA,Plicamycin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0026408,C0003232,ISA,Monensin,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0026458,C0003232,ISA,Monobactams,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0026458,C0022914,ISA,Monobactams,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0026933,C0003232,ISA,Mycophenolic Acid,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0027324,C0030842,ISA,Nafcillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0027324,C0355824,ISA,Nafcillin,Penicillinase-resistant penicillin,antb,antb,1,ISA_ANTBisaANTB
+C0027603,C0003232,ISA,Neomycin,Antibiotics,antb,antb,7,ISA_ANTBisaANTB
+C0028076,C0003232,ISA,Nigericin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0028365,C0003232,ISA,Norfloxacin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0028365,C0279516,ISA,Norfloxacin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0028458,C0003232,ISA,Novobiocin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0028741,C0003232,ISA,Nystatin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0028902,C0003232,ISA,Ofloxacin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0028951,C0003232,ISA,Oligomycins,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0028967,C0003232,ISA,Olivomycins,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0029983,C0003232,ISA,Oxacillin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0029983,C0030842,ISA,Oxacillin,Penicillins,antb,antb,4,ISA_ANTBisaANTB
+C0030092,C0003232,ISA,Oxytetracycline,Antibiotics,antb,antb,8,ISA_ANTBisaANTB
+C0030576,C0003232,ISA,Paromomycin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0030576,C0003233,ISA,Paromomycin,"Antibiotics, Aminoglycoside",antb,antb,6,ISA_ANTBisaANTB
+C0030827,C0003232,ISA,Penicillin G,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0030827,C0030842,ISA,Penicillin G,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0030829,C0003232,ISA,penicillin G benzathine,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0030829,C0030842,ISA,penicillin G benzathine,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0030840,C0003232,ISA,Penicillin V,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0030842,C0003232,ISA,Penicillins,Antibiotics,antb,antb,107,ISA_ANTBisaANTB
+C0030842,C0022914,ISA,Penicillins,Lactams,antb,antb,4,ISA_ANTBisaANTB
+C0030842,C0026458,ISA,Penicillins,Monobactams,antb,antb,13,ISA_ANTBisaANTB
+C0030842,C0279516,ISA,Penicillins,Anti-Bacterial Agents,antb,antb,5,ISA_ANTBisaANTB
+C0030842,C0282215,ISA,Penicillins,beta-Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0031955,C0002680,ISA,Piperacillin,Ampicillin,antb,antb,1,ISA_ANTBisaANTB
+C0031955,C0003232,ISA,Piperacillin,Antibiotics,antb,antb,8,ISA_ANTBisaANTB
+C0031955,C0030842,ISA,Piperacillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0032697,C0002475,ISA,Porfiromycin,Mitomycin,antb,antb,2,ISA_ANTBisaANTB
+C0034145,C0003232,ISA,Puromycin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0035608,C0003232,ISA,Rifampin,Antibiotics,antb,antb,16,ISA_ANTBisaANTB
+C0035608,C0035609,ISA,Rifampin,Rifamycins,antb,antb,3,ISA_ANTBisaANTB
+C0035750,C0007561,ISA,Rocephin,Ceftriaxone,antb,antb,4,ISA_ANTBisaANTB
+C0035891,C0003240,ISA,Roxithromycin,Macrolide Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0035891,C0014806,ISA,Roxithromycin,Erythromycin,antb,antb,1,ISA_ANTBisaANTB
+C0037540,C0030842,ISA,Penicillin G Sodium,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0037759,C0003232,ISA,Sparsomycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0037796,C0001268,ISA,Spectam,Spectinomycin,antb,antb,1,ISA_ANTBisaANTB
+C0037962,C0003240,ISA,Spiramycin,Macrolide Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0038425,C0003232,ISA,Streptomycin,Antibiotics,antb,antb,34,ISA_ANTBisaANTB
+C0038425,C0003233,ISA,Streptomycin,"Antibiotics, Aminoglycoside",antb,antb,4,ISA_ANTBisaANTB
+C0038425,C0279516,ISA,Streptomycin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0038665,C0003232,ISA,Sulbactam,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0038675,C0003232,ISA,Sulfadiazine,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0038686,C0003232,ISA,Sulfamethazine,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0038689,C0003232,ISA,Sulfamethoxazole,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0039266,C0002680,ISA,Talampicillin,Ampicillin,antb,antb,1,ISA_ANTBisaANTB
+C0039644,C0003232,ISA,Tetracycline,Antibiotics,antb,antb,23,ISA_ANTBisaANTB
+C0040193,C0030842,ISA,Ticarcillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0040341,C0003232,ISA,Tobramycin,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0040341,C0003233,ISA,Tobramycin,"Antibiotics, Aminoglycoside",antb,antb,4,ISA_ANTBisaANTB
+C0040341,C0022487,ISA,Tobramycin,Kanamycin,antb,antb,1,ISA_ANTBisaANTB
+C0041041,C0003232,ISA,Trimethoprim,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0041385,C0003232,ISA,Tunicamycin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0041441,C0003232,ISA,Tylosin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0041441,C0003240,ISA,Tylosin,Macrolide Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0043480,C0007562,ISA,Zinacef,Cefuroxime,antb,antb,1,ISA_ANTBisaANTB
+C0051936,C0003232,ISA,Ansamycins,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0052009,C0003232,ISA,antibiotic G 418,Antibiotics,antb,antb,16,ISA_ANTBisaANTB
+C0052231,C0003232,ISA,apramycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0052585,C0003232,ISA,sparfloxacin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0052796,C0003232,ISA,Azithromycin,Antibiotics,antb,antb,43,ISA_ANTBisaANTB
+C0052796,C0003240,ISA,Azithromycin,Macrolide Antibiotics,antb,antb,50,ISA_ANTBisaANTB
+C0052796,C0014806,ISA,Azithromycin,Erythromycin,antb,antb,4,ISA_ANTBisaANTB
+C0052796,C0279516,ISA,Azithromycin,Anti-Bacterial Agents,antb,antb,3,ISA_ANTBisaANTB
+C0053841,C0003232,ISA,blasticidin S,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0053882,C3536856,ISA,cefprozil,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C0055003,C0003232,ISA,cefepime,Antibiotics,antb,antb,7,ISA_ANTBisaANTB
+C0055003,C0022914,ISA,cefepime,Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0055003,C0282215,ISA,cefepime,beta-Lactams,antb,antb,2,ISA_ANTBisaANTB
+C0055003,C0361823,ISA,cefepime,Fourth generation cephalosporin,antb,antb,7,ISA_ANTBisaANTB
+C0055003,C3536856,ISA,cefepime,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C0055011,C0003232,ISA,cefpodoxime,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0055011,C0304320,ISA,cefpodoxime,Third generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0055011,C3536856,ISA,cefpodoxime,Cephalosporins,antb,antb,1,ISA_ANTBisaANTB
+C0055015,C0304319,ISA,cefuroxime axetil,Second generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0055015,C0304320,ISA,cefuroxime axetil,Third generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0055856,C0003232,ISA,Clarithromycin,Antibiotics,antb,antb,11,ISA_ANTBisaANTB
+C0055856,C0003240,ISA,Clarithromycin,Macrolide Antibiotics,antb,antb,22,ISA_ANTBisaANTB
+C0055856,C0014806,ISA,Clarithromycin,Erythromycin,antb,antb,7,ISA_ANTBisaANTB
+C0055860,C0003232,ISA,Clavulanic Acid,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0055871,C0030827,ISA,clemizolpenicillin,Penicillin G,antb,antb,1,ISA_ANTBisaANTB
+C0057993,C0003232,ISA,difloxacin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0059374,C0003232,ISA,enrofloxacin,Antibiotics,antb,antb,9,ISA_ANTBisaANTB
+C0060400,C0304320,ISA,Cefixime,Third generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0060400,C3536856,ISA,Cefixime,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C0060405,C0304320,ISA,cefdinir,Third generation cephalosporin,antb,antb,2,ISA_ANTBisaANTB
+C0060405,C3536856,ISA,cefdinir,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C0060466,C0003232,ISA,florfenicol,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0062114,C0003232,ISA,hamycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0062565,C0003232,ISA,herbimycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0065002,C0003232,ISA,Lincosamides,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0065002,C0003240,ISA,Lincosamides,Macrolide Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0065023,C0003232,ISA,fidaxomicin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0066005,C0003232,ISA,meropenem,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0066005,C0006968,ISA,meropenem,Carbapenems,antb,antb,11,ISA_ANTBisaANTB
+C0066005,C0022914,ISA,meropenem,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0066005,C0026458,ISA,meropenem,Monobactams,antb,antb,2,ISA_ANTBisaANTB
+C0066005,C0279516,ISA,meropenem,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0071804,C0003232,ISA,pradimicin A,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0072980,C0003240,ISA,Sirolimus,Macrolide Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0073372,C0035608,ISA,rifapentine,Rifampin,antb,antb,3,ISA_ANTBisaANTB
+C0073987,C0003232,ISA,salinomycin,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0074024,C0003232,ISA,sangivamycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0074558,C0003232,ISA,sinefungin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0075870,C0003232,ISA,tazobactam,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0076079,C0003232,ISA,temocillin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0076079,C0030842,ISA,temocillin,Penicillins,antb,antb,1,ISA_ANTBisaANTB
+C0076433,C0003232,ISA,thienamycin,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0076681,C0003232,ISA,tilmicosin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0076681,C0041441,ISA,tilmicosin,Tylosin,antb,antb,1,ISA_ANTBisaANTB
+C0076686,C0055860,ISA,Timentin,Clavulanic Acid,antb,antb,2,ISA_ANTBisaANTB
+C0076686,C0280049,ISA,Timentin,Extended spectrum penicillin,antb,antb,1,ISA_ANTBisaANTB
+C0081959,C0003232,ISA,ceftiofur,Antibiotics,antb,antb,3,ISA_ANTBisaANTB
+C0081959,C0304320,ISA,ceftiofur,Third generation cephalosporin,antb,antb,1,ISA_ANTBisaANTB
+C0081959,C3536856,ISA,ceftiofur,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C0085259,C0003232,ISA,Mupirocin,Antibiotics,antb,antb,5,ISA_ANTBisaANTB
+C0108938,C0304320,ISA,cefpodoxime proxetil,Third generation cephalosporin,antb,antb,2,ISA_ANTBisaANTB
+C0110038,C0003232,ISA,Clavulanate,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0140575,C0035609,ISA,Rifabutin,Rifamycins,antb,antb,1,ISA_ANTBisaANTB
+C0145918,C0040193,ISA,ticarcillin-clavulanic acid,Ticarcillin,antb,antb,1,ISA_ANTBisaANTB
+C0214439,C0003232,ISA,marbofloxacin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0244823,C1510919,ISA,teloxantrone,Anthrapyrazole Antineoplastic Antibiotic,antb,antb,1,ISA_ANTBisaANTB
+C0282215,C0003232,ISA,beta-Lactams,Antibiotics,antb,antb,13,ISA_ANTBisaANTB
+C0282215,C0279516,ISA,beta-Lactams,Anti-Bacterial Agents,antb,antb,9,ISA_ANTBisaANTB
+C0282386,C0003232,ISA,Levofloxacin,Antibiotics,antb,antb,12,ISA_ANTBisaANTB
+C0282386,C0028902,ISA,Levofloxacin,Ofloxacin,antb,antb,2,ISA_ANTBisaANTB
+C0282386,C0279516,ISA,Levofloxacin,Anti-Bacterial Agents,antb,antb,2,ISA_ANTBisaANTB
+C0282386,C1882518,ISA,Levofloxacin,Quinolone Antibiotic,antb,antb,4,ISA_ANTBisaANTB
+C0287721,C0279516,ISA,grepafloxacin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0304317,C0003232,ISA,First generation cephalosporin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0304319,C0003232,ISA,Second generation cephalosporin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0304320,C0003232,ISA,Third generation cephalosporin,Antibiotics,antb,antb,8,ISA_ANTBisaANTB
+C0304320,C0022914,ISA,Third generation cephalosporin,Lactams,antb,antb,1,ISA_ANTBisaANTB
+C0304324,C0003232,ISA,Aminopenicillin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0304324,C0026458,ISA,Aminopenicillin,Monobactams,antb,antb,1,ISA_ANTBisaANTB
+C0309558,C0081959,ISA,Naxcel,ceftiofur,antb,antb,2,ISA_ANTBisaANTB
+C0309558,C0108950,ISA,Naxcel,Ceftiofur sodium,antb,antb,2,ISA_ANTBisaANTB
+C0309695,C0039644,ISA,PANMYCIN AQUADROPS,Tetracycline,antb,antb,1,ISA_ANTBisaANTB
+C0310367,C0003232,ISA,Today,Antibiotics,antb,antb,6,ISA_ANTBisaANTB
+C0310367,C0279516,ISA,Today,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0361823,C0003232,ISA,Fourth generation cephalosporin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0389169,C0003232,ISA,doripenem,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0389169,C0006968,ISA,doripenem,Carbapenems,antb,antb,1,ISA_ANTBisaANTB
+C0521899,C0003232,ISA,Ceftiofur hydrochloride,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0536495,C0003232,ISA,moxifloxacin,Antibiotics,antb,antb,7,ISA_ANTBisaANTB
+C0536495,C0279516,ISA,moxifloxacin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0546866,C0003232,ISA,gentamicin sulfate,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0546879,C0003232,ISA,tetracycline hydrochloride,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0591076,C1145701,ISA,AmBisome,amphotericin B liposomal,antb,antb,5,ISA_ANTBisaANTB
+C0591132,C0003232,ISA,Augmentin,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0591132,C0055860,ISA,Augmentin,Clavulanic Acid,antb,antb,1,ISA_ANTBisaANTB
+C0678143,C0052796,ISA,Zithromax,Azithromycin,antb,antb,5,ISA_ANTBisaANTB
+C0699672,C0008947,ISA,Dalacin C,Clindamycin,antb,antb,2,ISA_ANTBisaANTB
+C0699673,C0008947,ISA,Cleocin,Clindamycin,antb,antb,1,ISA_ANTBisaANTB
+C0699935,C0030092,ISA,Terramycin,Oxytetracycline,antb,antb,1,ISA_ANTBisaANTB
+C0699957,C0003232,ISA,Vibramycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0699957,C0013090,ISA,Vibramycin,Doxycycline,antb,antb,3,ISA_ANTBisaANTB
+C0700443,C0003232,ISA,Ampicillin Trihydrate,Antibiotics,antb,antb,2,ISA_ANTBisaANTB
+C0700553,C0030840,ISA,Penicillin V Potassium,Penicillin V,antb,antb,1,ISA_ANTBisaANTB
+C0700802,C0700443,ISA,Polyflex,Ampicillin Trihydrate,antb,antb,1,ISA_ANTBisaANTB
+C0700926,C0007546,ISA,Ancef,Cefazolin,antb,antb,1,ISA_ANTBisaANTB
+C0700930,C0007546,ISA,Cefamezine,Cefazolin,antb,antb,1,ISA_ANTBisaANTB
+C0700945,C0002680,ISA,Pentrexyl,Ampicillin,antb,antb,1,ISA_ANTBisaANTB
+C0700985,C0030840,ISA,Apocillin,Penicillin V,antb,antb,2,ISA_ANTBisaANTB
+C0701052,C0003232,ISA,Claforan,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0701052,C0007554,ISA,Claforan,Cefotaxime,antb,antb,1,ISA_ANTBisaANTB
+C0702084,C0059374,ISA,BAYTRIL,enrofloxacin,antb,antb,9,ISA_ANTBisaANTB
+C0728748,C0008293,ISA,Aureomycin,Chlortetracycline,antb,antb,2,ISA_ANTBisaANTB
+C0729072,C0002645,ISA,Synulox,Amoxicillin,antb,antb,1,ISA_ANTBisaANTB
+C0729074,C0030830,ISA,Bicillin,penicillin G procaine,antb,antb,1,ISA_ANTBisaANTB
+C0733696,C0003232,ISA,Primaxin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0733696,C0020933,ISA,Primaxin,Imipenem,antb,antb,1,ISA_ANTBisaANTB
+C0733882,C0055015,ISA,Zinnat,cefuroxime axetil,antb,antb,1,ISA_ANTBisaANTB
+C0740072,C0002645,ISA,Penamox,Amoxicillin,antb,antb,1,ISA_ANTBisaANTB
+C0740072,C0003232,ISA,Penamox,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0795582,C0052796,ISA,Azithromycin Dihydrate,Azithromycin,antb,antb,1,ISA_ANTBisaANTB
+C0812405,C0002679,ISA,Fungizone,Amphotericin B,antb,antb,6,ISA_ANTBisaANTB
+C0812405,C0003232,ISA,Fungizone,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0878399,C0041441,ISA,Tylan,Tylosin,antb,antb,1,ISA_ANTBisaANTB
+C0878412,C0000699,ISA,A-23187,Calcimycin,antb,antb,1,ISA_ANTBisaANTB
+C0907410,C0003232,ISA,telithromycin,Antibiotics,antb,antb,4,ISA_ANTBisaANTB
+C0907410,C0003240,ISA,telithromycin,Macrolide Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0907410,C0014806,ISA,telithromycin,Erythromycin,antb,antb,2,ISA_ANTBisaANTB
+C0907410,C0279516,ISA,telithromycin,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C0917882,C0040563,ISA,Toyomicin,Chromomycin A3,antb,antb,1,ISA_ANTBisaANTB
+C0919315,C0003232,ISA,aclacinomycins,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C0947657,C0023726,ISA,Lincocin,Lincomycin,antb,antb,1,ISA_ANTBisaANTB
+C0949528,C0052796,ISA,Sumamed,Azithromycin,antb,antb,1,ISA_ANTBisaANTB
+C0971574,C0003232,ISA,cefcapene pivoxil hydrochloride,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C1100584,C0279516,ISA,ceftobiprole,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C1100584,C3536856,ISA,ceftobiprole,Cephalosporins,antb,antb,3,ISA_ANTBisaANTB
+C1120106,C0003232,ISA,ertapenem,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C1120106,C0006968,ISA,ertapenem,Carbapenems,antb,antb,2,ISA_ANTBisaANTB
+C1120106,C0022914,ISA,ertapenem,Lactams,antb,antb,2,ISA_ANTBisaANTB
+C1145701,C0002679,ISA,amphotericin B liposomal,Amphotericin B,antb,antb,3,ISA_ANTBisaANTB
+C1145701,C0085795,ISA,amphotericin B liposomal,Amphotericin,antb,antb,1,ISA_ANTBisaANTB
+C1260298,C0003232,ISA,tigecycline,Antibiotics,antb,antb,8,ISA_ANTBisaANTB
+C1260298,C0026187,ISA,tigecycline,Minocycline,antb,antb,2,ISA_ANTBisaANTB
+C1451406,C0003232,ISA,tulathromycin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C1451406,C0003240,ISA,tulathromycin,Macrolide Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C1507165,C0007552,ISA,Cefoperazone + sulbactam,Cefoperazone,antb,antb,1,ISA_ANTBisaANTB
+C1507165,C0279516,ISA,Cefoperazone + sulbactam,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C1512061,C0717726,ISA,Doxilen,doxorubicin liposome,antb,antb,1,ISA_ANTBisaANTB
+C1512062,C0013089,ISA,Myocet,Doxorubicin,antb,antb,1,ISA_ANTBisaANTB
+C1527262,C0796552,ISA,17-(dimethylaminoethylamino)-17-demethoxygeldanamycin,Geldanamycin Analogue,antb,antb,1,ISA_ANTBisaANTB
+C1528262,C0214439,ISA,Marbocyl,marbofloxacin,antb,antb,1,ISA_ANTBisaANTB
+C1703334,C0003232,ISA,retapamulin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C1722903,C0003232,ISA,S44HP,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C2001521,C0003232,ISA,ceftaroline,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C2001521,C3536856,ISA,ceftaroline,Cephalosporins,antb,antb,3,ISA_ANTBisaANTB
+C2001525,C3536856,ISA,ceftaroline fosamil,Cephalosporins,antb,antb,2,ISA_ANTBisaANTB
+C2732191,C0214439,ISA,Zeniquin,marbofloxacin,antb,antb,1,ISA_ANTBisaANTB
+C2744563,C0003232,ISA,tylvalosin,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C2954630,C2001525,ISA,Teflaro,ceftaroline fosamil,antb,antb,1,ISA_ANTBisaANTB
+C2954630,C3536856,ISA,Teflaro,Cephalosporins,antb,antb,1,ISA_ANTBisaANTB
+C2983838,C0003232,ISA,omadacycline,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C3160695,C2975314,ISA,Zactran,gamithromycin,antb,antb,1,ISA_ANTBisaANTB
+C3273883,C0003232,ISA,Cefcapene Pivoxil Hydrochloride Hydrate,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C3275178,C1690852,ISA,Veraflox,pradofloxacin,antb,antb,1,ISA_ANTBisaANTB
+C3489464,C0003232,ISA,Penem,Antibiotics,antb,antb,1,ISA_ANTBisaANTB
+C3536856,C0003232,ISA,Cephalosporins,Antibiotics,antb,antb,33,ISA_ANTBisaANTB
+C3536856,C0022914,ISA,Cephalosporins,Lactams,antb,antb,4,ISA_ANTBisaANTB
+C3536856,C0026458,ISA,Cephalosporins,Monobactams,antb,antb,4,ISA_ANTBisaANTB
+C3536856,C0279516,ISA,Cephalosporins,Anti-Bacterial Agents,antb,antb,1,ISA_ANTBisaANTB
+C3854019,C0003232,ISA,Gentamicin,Antibiotics,antb,antb,24,ISA_ANTBisaANTB
+C3854019,C0003233,ISA,Gentamicin,"Antibiotics, Aminoglycoside",antb,antb,7,ISA_ANTBisaANTB

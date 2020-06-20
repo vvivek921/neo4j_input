@@ -1,0 +1,455 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001126,C0024348,AFFECTS,Renal tubular acidosis,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0001621,C0020507,AFFECTS,Adrenal Gland Diseases,Hyperplasia,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0002395,C0006119,AFFECTS,Alzheimer's Disease,Brain Pathology,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0002395,C0024348,AFFECTS,Alzheimer's Disease,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0002395,C1155266,AFFECTS,Alzheimer's Disease,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0002792,C0020517,AFFECTS,anaphylaxis,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003850,C0021368,AFFECTS,Arteriosclerosis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003850,C0021376,AFFECTS,Arteriosclerosis,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003850,C0021655,AFFECTS,Arteriosclerosis,Insulin Resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003850,C0036983,AFFECTS,Arteriosclerosis,Septic Shock,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003850,C0161816,AFFECTS,Arteriosclerosis,Cardiac complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003850,C1155266,AFFECTS,Arteriosclerosis,inflammatory response,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0003850,C1383860,AFFECTS,Arteriosclerosis,Cardiac Hypertrophy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003864,C0021368,AFFECTS,Arthritis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003873,C0036983,AFFECTS,Rheumatoid Arthritis,Septic Shock,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0003873,C0587240,AFFECTS,Rheumatoid Arthritis,bone erosion,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0003873,C1155266,AFFECTS,Rheumatoid Arthritis,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004031,C0016059,AFFECTS,"Aspergillosis, Allergic Bronchopulmonary",Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004031,C0021368,AFFECTS,"Aspergillosis, Allergic Bronchopulmonary",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C0020517,AFFECTS,Asthma,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C0021368,AFFECTS,Asthma,Inflammation,dsyn,patf,9,AFFECTS_DSYNafctPATF
+C0004096,C0021376,AFFECTS,Asthma,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C0332448,AFFECTS,Asthma,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C1155266,AFFECTS,Asthma,inflammatory response,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0004096,C1265824,AFFECTS,Asthma,Persistent inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C1520005,AFFECTS,Asthma,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C1527304,AFFECTS,Asthma,Allergic Reaction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004096,C3714514,AFFECTS,Asthma,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004364,C0004366,AFFECTS,Autoimmune Diseases,Autoimmune Response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004364,C0021368,AFFECTS,Autoimmune Diseases,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0004364,C0332448,AFFECTS,Autoimmune Diseases,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004364,C1155266,AFFECTS,Autoimmune Diseases,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004364,C1563937,AFFECTS,Autoimmune Diseases,Atherogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004364,C3714514,AFFECTS,Autoimmune Diseases,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004610,C3714514,AFFECTS,Bacteremia,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004623,C0020517,AFFECTS,Bacterial Infections,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004623,C0021368,AFFECTS,Bacterial Infections,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0004623,C1155266,AFFECTS,Bacterial Infections,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0004623,C3714514,AFFECTS,Bacterial Infections,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0005743,C0021368,AFFECTS,Blepharoconjunctivitis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0005779,C0019080,AFFECTS,Blood Coagulation Disorders,Hemorrhage,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0005779,C0151701,AFFECTS,Blood Coagulation Disorders,Pulmonary hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0005779,C0333276,AFFECTS,Blood Coagulation Disorders,Acute hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0006267,C0020517,AFFECTS,Bronchiectasis,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0006267,C1265824,AFFECTS,Bronchiectasis,Persistent inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0006271,C0021368,AFFECTS,Bronchiolitis,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0006272,C0028778,AFFECTS,Bronchiolitis Obliterans,Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007222,C0011071,AFFECTS,Cardiovascular Diseases,Sudden death,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007222,C0021368,AFFECTS,Cardiovascular Diseases,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007222,C1155266,AFFECTS,Cardiovascular Diseases,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007682,C0011304,AFFECTS,CNS disorder,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007684,C0021368,AFFECTS,Central Nervous System Infection,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007684,C0206277,AFFECTS,Central Nervous System Infection,Fatal Outcome,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007684,C1520005,AFFECTS,Central Nervous System Infection,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007820,C0019080,AFFECTS,Cerebrovascular Disorders,Hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0007820,C0021308,AFFECTS,Cerebrovascular Disorders,Infarction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0008149,C0151526,AFFECTS,Chlamydia Infections,Premature Birth,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0008354,C1155266,AFFECTS,Cholera,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0008677,C0021368,AFFECTS,"Bronchitis, Chronic",Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0008679,C0011304,AFFECTS,Chronic disease,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0008679,C0021368,AFFECTS,Chronic disease,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0009324,C0021376,AFFECTS,Ulcerative Colitis,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0009443,C0035228,AFFECTS,Common Cold,Respiratory Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0009443,C0392707,AFFECTS,Common Cold,Atopy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0009443,C3714514,AFFECTS,Common Cold,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0009450,C0020517,AFFECTS,Communicable Diseases,Hypersensitivity,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0009450,C0021368,AFFECTS,Communicable Diseases,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0009450,C0242781,AFFECTS,Communicable Diseases,disease transmission,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0009450,C1520005,AFFECTS,Communicable Diseases,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0009450,C3714514,AFFECTS,Communicable Diseases,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0010054,C0161816,AFFECTS,Coronary Arteriosclerosis,Cardiac complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0010246,C0004366,AFFECTS,Coxsackievirus Infections,Autoimmune Response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0010278,C0333390,AFFECTS,Craniosynostosis,Chronic eosinophilic inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0010346,C0021376,AFFECTS,Crohn Disease,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0010674,C0021368,AFFECTS,Cystic Fibrosis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0010823,C2609166,AFFECTS,Cytomegalovirus Infections,Discordant Twin,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0011175,C0281169,AFFECTS,Dehydration,pulmonary complications,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0011175,C0302148,AFFECTS,Dehydration,Blood Clot,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0011303,C1373218,AFFECTS,Demyelinating Diseases,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0011847,C0021368,AFFECTS,Diabetes,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0011847,C1155266,AFFECTS,Diabetes,inflammatory response,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0011854,C0332448,AFFECTS,"Diabetes Mellitus, Insulin-Dependent",Infiltration,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0011881,C0334144,AFFECTS,Diabetic Nephropathy,Perivascular fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0012546,C0020517,AFFECTS,Diphtheria,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0012922,C0024348,AFFECTS,DNA Virus Infections,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0013595,C0016470,AFFECTS,Eczema,Food Allergy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0014038,C0011304,AFFECTS,Encephalitis,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0014038,C0332448,AFFECTS,Encephalitis,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0014179,C0043241,AFFECTS,Endometritis,Wound Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0014457,C0332448,AFFECTS,Eosinophilia,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0015403,C0011304,AFFECTS,Eye Infections,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0016627,C0020517,AFFECTS,Influenza in Birds,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0016627,C0242781,AFFECTS,Influenza in Birds,disease transmission,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0016627,C3714514,AFFECTS,Influenza in Birds,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0017145,C0019080,AFFECTS,Gastric Varix,Hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018133,C3714514,AFFECTS,Graft-vs-Host Disease,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018378,C0443146,AFFECTS,Guillain-Barre Syndrome,Autoimmune reaction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018523,C0006119,AFFECTS,Hallervorden-Spatz Syndrome,Brain Pathology,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018621,C1527304,AFFECTS,Hay fever,Allergic Reaction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018799,C0028778,AFFECTS,Heart Diseases,Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018801,C1383860,AFFECTS,Heart failure,Cardiac Hypertrophy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018802,C0161816,AFFECTS,Congestive heart failure,Cardiac complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0018889,C0333390,AFFECTS,Helminthiasis,Chronic eosinophilic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019101,C1520005,AFFECTS,Hemorrhagic Fever with Renal Syndrome,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019104,C0026766,AFFECTS,"Hemorrhagic Fevers, Viral",Multiple Organ Failure,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019104,C0036974,AFFECTS,"Hemorrhagic Fevers, Viral",Shock,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019104,C0333280,AFFECTS,"Hemorrhagic Fevers, Viral",Diffuse hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019158,C0151763,AFFECTS,Hepatitis,Liver damage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019189,C0151763,AFFECTS,"Hepatitis, Chronic",Liver damage,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0019243,C0002994,AFFECTS,"Angioedemas, Hereditary",Angioedema,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019340,C3714514,AFFECTS,herpes,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019348,C0021368,AFFECTS,Herpes Simplex Infections,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019348,C0333355,AFFECTS,Herpes Simplex Infections,Inflammatory disease of mucous membrane,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019348,C1373218,AFFECTS,Herpes Simplex Infections,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019348,C3714514,AFFECTS,Herpes Simplex Infections,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0019693,C0020517,AFFECTS,HIV Infections,Hypersensitivity,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0019693,C0242656,AFFECTS,HIV Infections,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020443,C0030660,AFFECTS,Hypercholesterolemia,Pathologic Processes,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020459,C0021655,AFFECTS,Hyperinsulinism,Insulin Resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020473,C0161816,AFFECTS,Hyperlipidemia,Cardiac complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020498,C0242781,AFFECTS,"Hyperostosis, Diffuse Idiopathic Skeletal",disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020538,C0005001,AFFECTS,Hypertensive disease,Benign prostatic hypertrophy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020538,C0032914,AFFECTS,Hypertensive disease,Pre-Eclampsia,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020538,C0161816,AFFECTS,Hypertensive disease,Cardiac complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020538,C1155266,AFFECTS,Hypertensive disease,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0020538,C1383860,AFFECTS,Hypertensive disease,Cardiac Hypertrophy,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0021400,C0021368,AFFECTS,Influenza,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0021400,C0162633,AFFECTS,Influenza,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0021400,C0242656,AFFECTS,Influenza,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0021400,C0242781,AFFECTS,Influenza,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0021400,C1155266,AFFECTS,Influenza,inflammatory response,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0021400,C3658208,AFFECTS,Influenza,Dysbiosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0021400,C3714514,AFFECTS,Influenza,Infection,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0021400,C4061114,AFFECTS,Influenza,Acute illness,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0021832,C0021368,AFFECTS,"Intestinal Diseases, Parasitic",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0022521,C0021368,AFFECTS,Kartagener Syndrome,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0022660,C0021368,AFFECTS,"Kidney Failure, Acute",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0023281,C3714514,AFFECTS,Leishmaniasis,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0023518,C0151946,AFFECTS,Leukocytosis,Pulmonary thrombosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0023524,C1373218,AFFECTS,"Leukoencephalopathy, Progressive Multifocal",Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0023529,C0021368,AFFECTS,"Leukomalacia, Periventricular",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024115,C0021368,AFFECTS,Lung diseases,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024115,C0030660,AFFECTS,Lung diseases,Pathologic Processes,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024115,C1155266,AFFECTS,Lung diseases,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024117,C0020507,AFFECTS,Chronic Obstructive Airway Disease,Hyperplasia,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024117,C0021368,AFFECTS,Chronic Obstructive Airway Disease,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0024117,C0162633,AFFECTS,Chronic Obstructive Airway Disease,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024117,C0520991,AFFECTS,Chronic Obstructive Airway Disease,Abnormal host defense,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024117,C1155266,AFFECTS,Chronic Obstructive Airway Disease,inflammatory response,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0024117,C3658208,AFFECTS,Chronic Obstructive Airway Disease,Dysbiosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024312,C0021368,AFFECTS,Lymphopenia,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024312,C0242656,AFFECTS,Lymphopenia,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024312,C1155266,AFFECTS,Lymphopenia,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024530,C0242781,AFFECTS,Malaria,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024535,C0001511,AFFECTS,"Malaria, Falciparum",Tissue Adhesions,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0024904,C0021368,AFFECTS,Mastoiditis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0025289,C3714514,AFFECTS,Meningitis,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0025517,C0281169,AFFECTS,Metabolic Diseases,pulmonary complications,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0025517,C0920563,AFFECTS,Metabolic Diseases,Insulin Sensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0026769,C0004366,AFFECTS,Multiple Sclerosis,Autoimmune Response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0026780,C0021368,AFFECTS,Mumps,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0026780,C0242781,AFFECTS,Mumps,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0026946,C0021368,AFFECTS,Mycoses,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0026946,C0030660,AFFECTS,Mycoses,Pathologic Processes,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0027051,C1155266,AFFECTS,Myocardial Infarction,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0027059,C0004366,AFFECTS,Myocarditis,Autoimmune Response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0027059,C0011071,AFFECTS,Myocarditis,Sudden death,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0027341,C0020517,AFFECTS,Nail-Patella Syndrome,Hypersensitivity,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0027341,C1155266,AFFECTS,Nail-Patella Syndrome,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0028326,C0028778,AFFECTS,Noonan Syndrome,Obstruction,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0028326,C1520005,AFFECTS,Noonan Syndrome,Viral Pathogenesis,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0028754,C0004144,AFFECTS,Obesity,Atelectasis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0028754,C0021368,AFFECTS,Obesity,Inflammation,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0028754,C0021376,AFFECTS,Obesity,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0028754,C0021655,AFFECTS,Obesity,Insulin Resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0029118,C1373218,AFFECTS,Opportunistic Infections,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0029342,C0162633,AFFECTS,Orthomyxoviridae Infections,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0029882,C3714514,AFFECTS,Otitis Media,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0029882,C4061114,AFFECTS,Otitis Media,Acute illness,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030305,C0277919,AFFECTS,Pancreatitis,Postthrombotic Syndrome,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030486,C0024348,AFFECTS,Paraplegia,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030499,C0020517,AFFECTS,Parasitic Diseases,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030499,C3714514,AFFECTS,Parasitic Diseases,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030567,C0006119,AFFECTS,Parkinson Disease,Brain Pathology,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030779,C0020517,AFFECTS,Pelger-Huet Anomaly,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0030779,C0151521,AFFECTS,Pelger-Huet Anomaly,Bacterial resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0031046,C0021368,AFFECTS,Pericarditis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0031099,C0021368,AFFECTS,Periodontitis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0031117,C0011304,AFFECTS,Peripheral Neuropathy,Demyelination,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0032027,C0021368,AFFECTS,Pityriasis Rubra Pilaris,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0032227,C3714514,AFFECTS,Pleural effusion disorder,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0032285,C0000786,AFFECTS,Pneumonia,Spontaneous abortion,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0032285,C0001122,AFFECTS,Pneumonia,Acidosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0032285,C0016059,AFFECTS,Pneumonia,Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0032285,C0242656,AFFECTS,Pneumonia,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0032285,C0243083,AFFECTS,Pneumonia,associated disease,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0032285,C0332448,AFFECTS,Pneumonia,Infiltration,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0032285,C1155266,AFFECTS,Pneumonia,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0032285,C1563937,AFFECTS,Pneumonia,Atherogenesis,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0032285,C3714514,AFFECTS,Pneumonia,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0033036,C0001511,AFFECTS,Atrial Premature Complexes,Tissue Adhesions,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0033036,C0020963,AFFECTS,Atrial Premature Complexes,Immune Tolerance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0033770,C0028778,AFFECTS,Prune Belly Syndrome,Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0033770,C0332448,AFFECTS,Prune Belly Syndrome,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0034063,C0546817,AFFECTS,Pulmonary Edema,Fluid overload,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0034069,C0016059,AFFECTS,Pulmonary Fibrosis,Fibrosis,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0034069,C0242656,AFFECTS,Pulmonary Fibrosis,Disease Progression,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0035078,C0013922,AFFECTS,Kidney Failure,Embolism,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035078,C0333276,AFFECTS,Kidney Failure,Acute hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035204,C0003130,AFFECTS,Respiration Disorders,Anoxia,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035204,C0021368,AFFECTS,Respiration Disorders,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035204,C3714514,AFFECTS,Respiration Disorders,Infection,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0035204,C4061114,AFFECTS,Respiration Disorders,Acute illness,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0035222,C0016059,AFFECTS,"Respiratory Distress Syndrome, Adult",Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035222,C0021368,AFFECTS,"Respiratory Distress Syndrome, Adult",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035222,C0035410,AFFECTS,"Respiratory Distress Syndrome, Adult",Rhabdomyolysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035222,C0242656,AFFECTS,"Respiratory Distress Syndrome, Adult",Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035235,C0021368,AFFECTS,Respiratory Syncytial Virus Infections,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0035235,C0162633,AFFECTS,Respiratory Syncytial Virus Infections,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035235,C1155266,AFFECTS,Respiratory Syncytial Virus Infections,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035243,C0020517,AFFECTS,Respiratory Tract Infections,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035243,C0021368,AFFECTS,Respiratory Tract Infections,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035243,C0392707,AFFECTS,Respiratory Tract Infections,Atopy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035243,C1520005,AFFECTS,Respiratory Tract Infections,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035309,C0021368,AFFECTS,Retinal Diseases,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035334,C0001511,AFFECTS,Retinitis Pigmentosa,Tissue Adhesions,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0035334,C0021368,AFFECTS,Retinitis Pigmentosa,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035436,C1373218,AFFECTS,Rheumatic Fever,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035439,C3714514,AFFECTS,Rheumatic Heart Disease,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0035869,C3714514,AFFECTS,Rotavirus Infections,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0036690,C0021368,AFFECTS,Septicemia,Inflammation,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0036690,C0026766,AFFECTS,Septicemia,Multiple Organ Failure,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0036690,C0043241,AFFECTS,Septicemia,Wound Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0036690,C1155266,AFFECTS,Septicemia,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0036690,C3714514,AFFECTS,Septicemia,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0037052,C0021368,AFFECTS,Sick Sinus Syndrome,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0037199,C3714514,AFFECTS,Sinusitis,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0037199,C4061114,AFFECTS,Sinusitis,Acute illness,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0037284,C0151799,AFFECTS,Skin lesion,Skin necrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0039128,C0151526,AFFECTS,Syphilis,Premature Birth,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0040034,C0019080,AFFECTS,Thrombocytopenia,Hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0041234,C0024348,AFFECTS,Chagas Disease,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0041296,C0021368,AFFECTS,Tuberculosis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0041296,C0242781,AFFECTS,Tuberculosis,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0041296,C3714514,AFFECTS,Tuberculosis,Infection,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0041582,C0521172,AFFECTS,Ulcer,Eschar,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0041912,C1373218,AFFECTS,Upper Respiratory Infections,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042165,C0021368,AFFECTS,Anterior uveitis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042384,C0021368,AFFECTS,Vasculitis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042721,C3714514,AFFECTS,Viral hepatitis,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042749,C1373218,AFFECTS,Viremia,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C0004366,AFFECTS,Virus Diseases,Autoimmune Response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C0011304,AFFECTS,Virus Diseases,Demyelination,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0042769,C0020517,AFFECTS,Virus Diseases,Hypersensitivity,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0042769,C0021368,AFFECTS,Virus Diseases,Inflammation,dsyn,patf,13,AFFECTS_DSYNafctPATF
+C0042769,C0028778,AFFECTS,Virus Diseases,Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C0242649,AFFECTS,Virus Diseases,"Infectious Disease Transmission, Horizontal",dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C0242656,AFFECTS,Virus Diseases,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C0543419,AFFECTS,Virus Diseases,Sequela of disorder,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C0745283,AFFECTS,Virus Diseases,INFECTIOUS PROCESS,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042769,C1155266,AFFECTS,Virus Diseases,inflammatory response,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0042769,C1520005,AFFECTS,Virus Diseases,Viral Pathogenesis,dsyn,patf,5,AFFECTS_DSYNafctPATF
+C0042769,C2717792,AFFECTS,Virus Diseases,Airway Remodeling,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0042769,C3714514,AFFECTS,Virus Diseases,Infection,dsyn,patf,5,AFFECTS_DSYNafctPATF
+C0042769,C4061114,AFFECTS,Virus Diseases,Acute illness,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0042870,C0021655,AFFECTS,Vitamin D Deficiency,Insulin Resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0043167,C0021368,AFFECTS,Pertussis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0043528,C3714514,AFFECTS,Zoonoses,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0085078,C0020564,AFFECTS,Lysosomal Storage Diseases,Hypertrophy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0085293,C0162633,AFFECTS,Hepatitis E,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0085306,C0302149,AFFECTS,Feline infectious peritonitis,Serous effusion,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0085435,C3714514,AFFECTS,"Arthritis, Reactive",Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0085584,C3714514,AFFECTS,Encephalopathies,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0149516,C0021368,AFFECTS,Chronic sinusitis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0149725,C0028778,AFFECTS,Lower respiratory tract infection,Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0149725,C0162633,AFFECTS,Lower respiratory tract infection,Viral Shedding,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0149725,C0919661,AFFECTS,Lower respiratory tract infection,alternation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0149725,C3714514,AFFECTS,Lower respiratory tract infection,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0149825,C0700148,AFFECTS,Hypertrophy of adenoids,Congestion,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0151317,C0011304,AFFECTS,Chronic infectious disease,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0151317,C0021368,AFFECTS,Chronic infectious disease,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0151317,C1155266,AFFECTS,Chronic infectious disease,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0151317,C1373218,AFFECTS,Chronic infectious disease,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0151650,C0332448,AFFECTS,Renal fibrosis,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0151721,C0151692,AFFECTS,Testicular hypogonadism,Impaired wound healing,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0152025,C0021368,AFFECTS,Polyneuropathy,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0152936,C0036974,AFFECTS,"Plague, Septicemic",Shock,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0155685,C0024348,AFFECTS,Acute bacterial endocarditis,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0155877,C0021375,AFFECTS,Allergic asthma,allergic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0162429,C0333276,AFFECTS,Malnutrition,Acute hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0162534,C0030660,AFFECTS,Prion Diseases,Pathologic Processes,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0178238,C0001511,AFFECTS,Intestinal infectious disease (disorder),Tissue Adhesions,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0206062,C0008767,AFFECTS,"Lung Diseases, Interstitial",Cicatrization,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0206062,C0021376,AFFECTS,"Lung Diseases, Interstitial",Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0206750,C0011304,AFFECTS,Coronavirus Infections,Demyelination,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0206750,C0021368,AFFECTS,Coronavirus Infections,Inflammation,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C0206750,C0035304,AFFECTS,Coronavirus Infections,Retinal Degeneration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0206750,C1520005,AFFECTS,Coronavirus Infections,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0221060,C0020517,AFFECTS,Mobius Syndrome,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0221106,C0020517,AFFECTS,Alkalemia,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0221725,C0021368,AFFECTS,Obstruction of bronchus,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0234935,C0002994,AFFECTS,Acute urticaria,Angioedema,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0235527,C1167870,AFFECTS,"Heart Failure, Right-Sided",Graft dysfunction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0235950,C0151686,AFFECTS,Zinc deficiency,Growth retardation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0239981,C0085649,AFFECTS,Hypoalbuminemia,Peripheral edema,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242339,C0161816,AFFECTS,Dyslipidemias,Cardiac complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242383,C0027686,AFFECTS,Age related macular degeneration,Pathologic Neovascularization,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242459,C0151701,AFFECTS,Simple Pulmonary Eosinophilia,Pulmonary hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242723,C0020522,AFFECTS,Parasitemia,Delayed Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242966,C0151521,AFFECTS,Systemic Inflammatory Response Syndrome,Bacterial resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242994,C0036974,AFFECTS,Hantavirus Infections,Shock,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0242994,C1155266,AFFECTS,Hantavirus Infections,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0243026,C0021368,AFFECTS,Sepsis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0263214,C0242781,AFFECTS,Pyotraumatic dermatitis,disease transmission,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0263428,C0020564,AFFECTS,Burnett Schwartz Berberian syndrome,Hypertrophy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0264220,C3714514,AFFECTS,Chronic disease of respiratory system,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0265338,C0021376,AFFECTS,Coffin-Siris syndrome,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0266313,C1155266,AFFECTS,Allanson Pantzar McLeod syndrome,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0270724,C0242781,AFFECTS,Infantile Neuroaxonal Dystrophy,disease transmission,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0272285,C0016059,AFFECTS,Heparin-induced thrombocytopenia,Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275518,C0011304,AFFECTS,Acute infectious disease,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275518,C0021368,AFFECTS,Acute infectious disease,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0275522,C0242656,AFFECTS,Asymptomatic Infections,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275522,C0242781,AFFECTS,Asymptomatic Infections,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275524,C0021368,AFFECTS,Coinfection,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275524,C0162633,AFFECTS,Coinfection,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275524,C0242656,AFFECTS,Coinfection,Disease Progression,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0275524,C0243083,AFFECTS,Coinfection,associated disease,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275524,C1155266,AFFECTS,Coinfection,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275524,C1373218,AFFECTS,Coinfection,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0275524,C3714514,AFFECTS,Coinfection,Infection,dsyn,patf,5,AFFECTS_DSYNafctPATF
+C0276089,C1155266,AFFECTS,Pneumonia due to Escherichia coli,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0276226,C1520005,AFFECTS,Herpes encephalitis,Viral Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0276289,C0021359,AFFECTS,Zika Virus Infection,Infertility,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0276289,C0443146,AFFECTS,Zika Virus Infection,Autoimmune reaction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0276447,C0020517,AFFECTS,Rhinovirus infection,Hypersensitivity,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0276447,C0021376,AFFECTS,Rhinovirus infection,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0277564,C0242656,AFFECTS,Acquired disease,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0282687,C3714514,AFFECTS,"Hemorrhagic Fever, Ebola",Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0343401,C0242781,AFFECTS,MRSA - Methicillin resistant Staphylococcus aureus infection,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0343641,C0021376,AFFECTS,Human papilloma virus infection,Chronic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0344432,C0011071,AFFECTS,"Ventricular tachycardia, polymorphic",Sudden death,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0347950,C0333390,AFFECTS,Asthma attack,Chronic eosinophilic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0376286,C0021368,AFFECTS,Avitaminosis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0376538,C0021368,AFFECTS,Porcine Reproductive and Respiratory Syndrome,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0376538,C1155266,AFFECTS,Porcine Reproductive and Respiratory Syndrome,inflammatory response,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C0376538,C3714514,AFFECTS,Porcine Reproductive and Respiratory Syndrome,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0400966,C0021368,AFFECTS,Non-alcoholic Fatty Liver Disease,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0400966,C0920563,AFFECTS,Non-alcoholic Fatty Liver Disease,Insulin Sensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0442886,C0242656,AFFECTS,Secondary Infections,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0442886,C1155266,AFFECTS,Secondary Infections,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0442886,C3714514,AFFECTS,Secondary Infections,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0520679,C0021368,AFFECTS,"Sleep Apnea, Obstructive",Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0520680,C0021368,AFFECTS,"Sleep Apnea, Central",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0520743,C0016059,AFFECTS,Mediastinal lymphadenopathy,Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0521530,C0016059,AFFECTS,Lung consolidation,Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0524851,C0699748,AFFECTS,Neurodegenerative Disorders,Pathogenesis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0600452,C0003130,AFFECTS,Hepatopulmonary Syndrome,Anoxia,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0677607,C0332448,AFFECTS,Hashimoto Disease,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0679225,C0242656,AFFECTS,multiple pathologies,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0730285,C0027686,AFFECTS,Diabetic macular edema,Pathologic Neovascularization,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0740272,C0553697,AFFECTS,Cryptococcus infections,Granulomatous inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0740304,C0021368,AFFECTS,copd exacerbation,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0740304,C1704489,AFFECTS,copd exacerbation,Extended Rotated Sidebent,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0741975,C0021368,AFFECTS,carotid disease,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0742343,C0019080,AFFECTS,Acute Chest Syndrome,Hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0742343,C0221123,AFFECTS,Acute Chest Syndrome,Hemolytic Transfusion Reaction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0742343,C0281169,AFFECTS,Acute Chest Syndrome,pulmonary complications,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0742468,C0021368,AFFECTS,cns lesion,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0746102,C0021368,AFFECTS,Chronic lung disease,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0748168,C0040053,AFFECTS,Pulmonary Pathology,Thrombosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0752304,C0149777,AFFECTS,Hypoxic-Ischemic Encephalopathy,Abscess of skin AND/OR subcutaneous tissue,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0856238,C0376297,AFFECTS,influenza (epidemic),Cardiac Death,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0858744,C0021368,AFFECTS,infection induced,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0858744,C0021375,AFFECTS,infection induced,allergic inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0863093,C0021368,AFFECTS,cold symptoms,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0863093,C0392707,AFFECTS,cold symptoms,Atopy,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0867389,C0021368,AFFECTS,Chronic graft-versus-host disease,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0872054,C1155266,AFFECTS,latent infection,inflammatory response,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0872054,C1373218,AFFECTS,latent infection,Decreased Immunologic Activity [PE],dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0872315,C0242781,AFFECTS,"Communicable Diseases, Emerging",disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0872315,C3714514,AFFECTS,"Communicable Diseases, Emerging",Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C0876973,C0332448,AFFECTS,Infectious disease of lung,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0877203,C0700148,AFFECTS,Viral Respiratory Tract Infection,Congestion,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0940933,C1155266,AFFECTS,infection as a complication,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0948343,C0036974,AFFECTS,Transfusion-Related Acute Lung Injury,Shock,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0948343,C0274435,AFFECTS,Transfusion-Related Acute Lung Injury,Transfusion Reaction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C0948343,C0398648,AFFECTS,Transfusion-Related Acute Lung Injury,Posttransfusion purpura,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1096155,C0011071,AFFECTS,Macrophage Activation Syndrome,Sudden death,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1096155,C0020517,AFFECTS,Macrophage Activation Syndrome,Hypersensitivity,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C1096155,C0021368,AFFECTS,Macrophage Activation Syndrome,Inflammation,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C1096155,C0021655,AFFECTS,Macrophage Activation Syndrome,Insulin Resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1096155,C0024348,AFFECTS,Macrophage Activation Syndrome,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1096253,C0085298,AFFECTS,cardiac infection,Sudden Cardiac Death,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1112157,C0151526,AFFECTS,intrauterine infection,Premature Birth,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1136148,C0011164,AFFECTS,Heel Spur Syndrome,Abnormal degeneration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1141926,C0021359,AFFECTS,abdominal sepsis,Infertility,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0010356,AFFECTS,Severe Acute Respiratory Syndrome,Cross Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0021368,AFFECTS,Severe Acute Respiratory Syndrome,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C1175175,C0030660,AFFECTS,Severe Acute Respiratory Syndrome,Pathologic Processes,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0151521,AFFECTS,Severe Acute Respiratory Syndrome,Bacterial resistance,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0151526,AFFECTS,Severe Acute Respiratory Syndrome,Premature Birth,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0242656,AFFECTS,Severe Acute Respiratory Syndrome,Disease Progression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0242781,AFFECTS,Severe Acute Respiratory Syndrome,disease transmission,dsyn,patf,3,AFFECTS_DSYNafctPATF
+C1175175,C0684320,AFFECTS,Severe Acute Respiratory Syndrome,Disease regression,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C0745283,AFFECTS,Severe Acute Respiratory Syndrome,INFECTIOUS PROCESS,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C1155266,AFFECTS,Severe Acute Respiratory Syndrome,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1175175,C3714514,AFFECTS,Severe Acute Respiratory Syndrome,Infection,dsyn,patf,4,AFFECTS_DSYNafctPATF
+C1260386,C1155266,AFFECTS,Glucocorticoid-remediable aldosteronism,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1262020,C0024348,AFFECTS,diffuse alveolar damage,Lysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1262313,C3714514,AFFECTS,Invasive Fungal Infections,Infection,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C1263988,C0021368,AFFECTS,Hemolytic disorder,Inflammation,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C1264606,C0011304,AFFECTS,Persistent infection,Demyelination,dsyn,patf,2,AFFECTS_DSYNafctPATF
+C1290339,C0332448,AFFECTS,Focal pneumonia,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1290884,C0021368,AFFECTS,Inflammatory disorder,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1290886,C0021368,AFFECTS,Chronic inflammatory disorder,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1290886,C0332448,AFFECTS,Chronic inflammatory disorder,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1328409,C0035410,AFFECTS,Propofol Infusion Syndrome,Rhabdomyolysis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1336827,C0242781,AFFECTS,Tropical Disease,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1370824,C0235029,AFFECTS,Interstitial emphysema,neurological complication,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1397307,C0020564,AFFECTS,Cardiac fibrosis,Hypertrophy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1619738,C1155266,AFFECTS,Immune Reconstitution Inflammatory Syndrome,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1623038,C0026766,AFFECTS,Cirrhosis,Multiple Organ Failure,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1698667,C0333355,AFFECTS,Nasal Cavity infection,Inflammatory disease of mucous membrane,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1701940,C0042484,AFFECTS,"Pneumonia, Ventilator-Associated",Venous Engorgement,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1720983,C0027046,AFFECTS,Channelopathies,Myocardial degeneration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1848533,C0021368,AFFECTS,Ataxia with vitamin E deficiency,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1849334,C0600228,AFFECTS,"Robinow syndrome, autosomal recessive",Cardiopulmonary Arrest,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1850106,C0010356,AFFECTS,RAINE SYNDROME,Cross Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1850106,C0011304,AFFECTS,RAINE SYNDROME,Demyelination,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1860224,C1155266,AFFECTS,ABLEPHARON-MACROSTOMIA SYNDROME,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C1969063,C0028778,AFFECTS,Cavitary Optic Disc Anomalies,Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2062441,C0010356,AFFECTS,Influenza A,Cross Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2062441,C0020517,AFFECTS,Influenza A,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2076600,C0021368,AFFECTS,Influenza due to Influenza A virus subtype H1N1,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2317131,C0021368,AFFECTS,Acute rhinosinusitis,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2721734,C0392707,AFFECTS,Methylenetetrahydrofolate reductase Genetic Polymorphisms,Atopy,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2930619,C1155266,AFFECTS,Sex Differentiation Disorders,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2931826,C0001511,AFFECTS,Potassium aggravated myotonia,Tissue Adhesions,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C2939465,C1155266,AFFECTS,Deficiency of glucose-6-phosphate dehydrogenase,inflammatory response,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3266628,C0021368,AFFECTS,Persistent asthma,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3277428,C0162633,AFFECTS,Severe viral infections,Viral Shedding,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3280586,C3714514,AFFECTS,Mannose-Binding Protein Deficiency,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3495919,C0242781,AFFECTS,Enthesitis-Related Arthritis,disease transmission,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3495919,C0333276,AFFECTS,Enthesitis-Related Arthritis,Acute hemorrhage,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3662483,C0020517,AFFECTS,Allergic sensitization,Hypersensitivity,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3671051,C0332448,AFFECTS,Focal myocarditis,Infiltration,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3694279,C0151526,AFFECTS,Middle East Respiratory Syndrome,Premature Birth,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3694279,C3714514,AFFECTS,Middle East Respiratory Syndrome,Infection,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3887658,C0028778,AFFECTS,"PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT",Obstruction,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3888198,C0016059,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Fibrosis,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C3888198,C0021368,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C4085595,C0021368,AFFECTS,AL-RAQAD SYNDROME,Inflammation,dsyn,patf,1,AFFECTS_DSYNafctPATF
+C4529962,C0020963,AFFECTS,Fatty Liver Disease,Immune Tolerance,dsyn,patf,1,AFFECTS_DSYNafctPATF

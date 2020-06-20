@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0162638,PRECEDES,Acclimatization,Apoptosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0004048,C0596290,PRECEDES,Inspiration function,Cell Proliferation,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0004048,C1160186,PRECEDES,Inspiration function,unidirectional conjugation,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0004048,C1450027,PRECEDES,Inspiration function,Cell Enlargement,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C0014139,PRECEDES,Birth,Endocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C0042774,PRECEDES,Birth,Virus Replication,orgf,celf,3,PRECEDES_ORGFprcdCELF
+C0005615,C0597361,PRECEDES,Birth,Receptor Mediated Endocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C0872070,PRECEDES,Birth,nucleocytoplasmic transport,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C1155229,PRECEDES,Birth,Humoral immune response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C1160186,PRECEDES,Birth,unidirectional conjugation,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C1318468,PRECEDES,Birth,cell mediated immune response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C1817908,PRECEDES,Birth,Cellular Immune Response,orgf,celf,2,PRECEDES_ORGFprcdCELF
+C0005615,C2611224,PRECEDES,Birth,prolactin secretion,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0011065,C0007595,PRECEDES,Cessation of life,cell growth,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0011065,C1160716,PRECEDES,Cessation of life,viral transmission,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0012238,C0010813,PRECEDES,Digestion,Cytokinesis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0025519,C0007613,PRECEDES,Metabolism,Cell physiology,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0025519,C0010813,PRECEDES,Metabolism,Cytokinesis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0026649,C0015283,PRECEDES,Movement,Exocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0035150,C0007587,PRECEDES,Reproduction,Cell Death,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0035150,C0007620,PRECEDES,Reproduction,Cell Survival,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0037313,C1317556,PRECEDES,Sleep,Natural killer cell function,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0043240,C0334220,PRECEDES,Wound Healing,Remyelination,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0333953,C0007613,PRECEDES,Involution,Cell physiology,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0678723,C0162638,PRECEDES,Biologic Development,Apoptosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1160185,C0162638,PRECEDES,transduction,Apoptosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1160185,C1516334,PRECEDES,transduction,Cell Cycle Progression,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C2584321,C0042774,PRECEDES,Reaching,Virus Replication,orgf,celf,1,PRECEDES_ORGFprcdCELF

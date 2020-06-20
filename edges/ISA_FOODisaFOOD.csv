@@ -1,0 +1,212 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003050,C0016452,ISA,Animal feed (substance),Food,food,food,3,ISA_FOODisaFOOD
+C0004722,C0016767,ISA,Banana,Fruit,food,food,11,ISA_FOODisaFOOD
+C0004922,C0001967,ISA,Beer,Alcoholic Beverages,food,food,1,ISA_FOODisaFOOD
+C0004922,C0016452,ISA,Beer,Food,food,food,2,ISA_FOODisaFOOD
+C0004922,C0301611,ISA,Beer,distilled alcoholic beverage,food,food,2,ISA_FOODisaFOOD
+C0005135,C0016452,ISA,Berries,Food,food,food,4,ISA_FOODisaFOOD
+C0005135,C0016767,ISA,Berries,Fruit,food,food,11,ISA_FOODisaFOOD
+C0005135,C0681562,ISA,Berries,food product,food,food,1,ISA_FOODisaFOOD
+C0005329,C0016452,ISA,Beverages,Food,food,food,8,ISA_FOODisaFOOD
+C0006138,C0016452,ISA,Bread,Food,food,food,1,ISA_FOODisaFOOD
+C0006855,C0016452,ISA,Candy,Food,food,food,4,ISA_FOODisaFOOD
+C0007757,C0016452,ISA,Cereals,Food,food,food,1,ISA_FOODisaFOOD
+C0007757,C0016767,ISA,Cereals,Fruit,food,food,2,ISA_FOODisaFOOD
+C0007968,C0010947,ISA,Cheese,Dairy Products,food,food,2,ISA_FOODisaFOOD
+C0007968,C0016452,ISA,Cheese,Food,food,food,13,ISA_FOODisaFOOD
+C0007968,C1257811,ISA,Cheese,Cultured Milk Products,food,food,2,ISA_FOODisaFOOD
+C0008037,C0006855,ISA,Chewing Gum (food),Candy,food,food,5,ISA_FOODisaFOOD
+C0008037,C0016452,ISA,Chewing Gum (food),Food,food,food,1,ISA_FOODisaFOOD
+C0008299,C0016452,ISA,Chocolate,Food,food,food,1,ISA_FOODisaFOOD
+C0009076,C0037910,ISA,Clove,Spices,food,food,1,ISA_FOODisaFOOD
+C0009213,C0242295,ISA,Cod Liver Oil,Dietary Supplements,food,food,1,ISA_FOODisaFOOD
+C0009237,C0005329,ISA,Coffee,Beverages,food,food,2,ISA_FOODisaFOOD
+C0009237,C0016452,ISA,Coffee,Food,food,food,1,ISA_FOODisaFOOD
+C0009644,C0016452,ISA,Condiments,Food,food,food,1,ISA_FOODisaFOOD
+C0010029,C0012155,ISA,Corn Oil,Diet,food,food,1,ISA_FOODisaFOOD
+C0010947,C0016452,ISA,Dairy Products,Food,food,food,4,ISA_FOODisaFOOD
+C0010947,C0681562,ISA,Dairy Products,food product,food,food,2,ISA_FOODisaFOOD
+C0012171,C0012155,ISA,Dietary Fats,Diet,food,food,1,ISA_FOODisaFOOD
+C0012173,C0012155,ISA,Dietary Fiber,Diet,food,food,3,ISA_FOODisaFOOD
+C0012173,C1706946,ISA,Dietary Fiber,Bioactive Food Component,food,food,1,ISA_FOODisaFOOD
+C0013704,C0681562,ISA,Egg Whites - dietary,food product,food,food,1,ISA_FOODisaFOOD
+C0013710,C0016452,ISA,Egg Food Product,Food,food,food,2,ISA_FOODisaFOOD
+C0013710,C0025017,ISA,Egg Food Product,Meat,food,food,14,ISA_FOODisaFOOD
+C0013710,C0032852,ISA,Egg Food Product,Poultry Products,food,food,1,ISA_FOODisaFOOD
+C0016158,C0025017,ISA,Fish Products,Meat,food,food,1,ISA_FOODisaFOOD
+C0016158,C0681562,ISA,Fish Products,food product,food,food,1,ISA_FOODisaFOOD
+C0016453,C0016452,ISA,Food Additives,Food,food,food,2,ISA_FOODisaFOOD
+C0016494,C0016452,ISA,"Food, Canned",Food,food,food,1,ISA_FOODisaFOOD
+C0016498,C0016452,ISA,"Food, Fortified",Food,food,food,1,ISA_FOODisaFOOD
+C0016767,C0016452,ISA,Fruit,Food,food,food,25,ISA_FOODisaFOOD
+C0017517,C0006494,ISA,Ghee,Butter,food,food,3,ISA_FOODisaFOOD
+C0019906,C0016452,ISA,Honey,Food,food,food,1,ISA_FOODisaFOOD
+C0021274,C0016452,ISA,Infant Food,Food,food,food,1,ISA_FOODisaFOOD
+C0024798,C0016452,ISA,Margarine,Food,food,food,1,ISA_FOODisaFOOD
+C0025017,C0016452,ISA,Meat,Food,food,food,24,ISA_FOODisaFOOD
+C0025017,C0681562,ISA,Meat,food product,food,food,4,ISA_FOODisaFOOD
+C0025018,C0016452,ISA,Meat Products,Food,food,food,2,ISA_FOODisaFOOD
+C0025018,C0025017,ISA,Meat Products,Meat,food,food,4,ISA_FOODisaFOOD
+C0028723,C0016452,ISA,Nuts,Food,food,food,5,ISA_FOODisaFOOD
+C0028723,C0016767,ISA,Nuts,Fruit,food,food,5,ISA_FOODisaFOOD
+C0028753,C0007757,ISA,Oats (Dietary),Cereals,food,food,3,ISA_FOODisaFOOD
+C0029035,C0016452,ISA,Onions,Food,food,food,1,ISA_FOODisaFOOD
+C0029035,C0016767,ISA,Onions,Fruit,food,food,1,ISA_FOODisaFOOD
+C0029035,C0042440,ISA,Onions,Vegetables,food,food,1,ISA_FOODisaFOOD
+C0030738,C0004896,ISA,Peas - dietary,Beans (food),food,food,2,ISA_FOODisaFOOD
+C0032846,C0016452,ISA,Potato,Food,food,food,1,ISA_FOODisaFOOD
+C0032846,C0032099,ISA,Potato,"Plants, Edible",food,food,1,ISA_FOODisaFOOD
+C0032846,C0042440,ISA,Potato,Vegetables,food,food,1,ISA_FOODisaFOOD
+C0032852,C0025017,ISA,Poultry Products,Meat,food,food,4,ISA_FOODisaFOOD
+C0036048,C0012155,ISA,Safflower Oil,Diet,food,food,1,ISA_FOODisaFOOD
+C0037732,C0012155,ISA,Soybean Oil,Diet,food,food,2,ISA_FOODisaFOOD
+C0037732,C1517288,ISA,Soybean Oil,Food Oil,food,food,2,ISA_FOODisaFOOD
+C0037733,C0004896,ISA,Soybeans,Beans (food),food,food,2,ISA_FOODisaFOOD
+C0037733,C0681562,ISA,Soybeans,food product,food,food,1,ISA_FOODisaFOOD
+C0037910,C0016452,ISA,Spices,Food,food,food,1,ISA_FOODisaFOOD
+C0039400,C0005329,ISA,Tea,Beverages,food,food,9,ISA_FOODisaFOOD
+C0039400,C0016452,ISA,Tea,Food,food,food,1,ISA_FOODisaFOOD
+C0039400,C0016767,ISA,Tea,Fruit,food,food,4,ISA_FOODisaFOOD
+C0039400,C0237492,ISA,Tea,Nonalcoholic Beverages,food,food,3,ISA_FOODisaFOOD
+C0041356,C0016452,ISA,Tumeric,Food,food,food,1,ISA_FOODisaFOOD
+C0041356,C0037910,ISA,Tumeric,Spices,food,food,7,ISA_FOODisaFOOD
+C0042440,C0016452,ISA,Vegetables,Food,food,food,20,ISA_FOODisaFOOD
+C0043138,C0012173,ISA,Wheat Bran,Dietary Fiber,food,food,1,ISA_FOODisaFOOD
+C0043188,C0001967,ISA,Wine,Alcoholic Beverages,food,food,2,ISA_FOODisaFOOD
+C0043188,C0005329,ISA,Wine,Beverages,food,food,3,ISA_FOODisaFOOD
+C0043188,C0016452,ISA,Wine,Food,food,food,2,ISA_FOODisaFOOD
+C0043188,C0301611,ISA,Wine,distilled alcoholic beverage,food,food,1,ISA_FOODisaFOOD
+C0043419,C0010947,ISA,Yogurt,Dairy Products,food,food,1,ISA_FOODisaFOOD
+C0043419,C0016452,ISA,Yogurt,Food,food,food,2,ISA_FOODisaFOOD
+C0064658,C0012155,ISA,lard,Diet,food,food,1,ISA_FOODisaFOOD
+C0078479,C0016452,ISA,Whey Proteins,Food,food,food,1,ISA_FOODisaFOOD
+C0078479,C0681562,ISA,Whey Proteins,food product,food,food,1,ISA_FOODisaFOOD
+C0150589,C0016452,ISA,Infant formula,Food,food,food,1,ISA_FOODisaFOOD
+C0162750,C0037910,ISA,Black Pepper,Spices,food,food,3,ISA_FOODisaFOOD
+C0206208,C0016452,ISA,Seafood,Food,food,food,2,ISA_FOODisaFOOD
+C0206208,C0025017,ISA,Seafood,Meat,food,food,3,ISA_FOODisaFOOD
+C0242295,C0012155,ISA,Dietary Supplements,Diet,food,food,21,ISA_FOODisaFOOD
+C0242295,C0016452,ISA,Dietary Supplements,Food,food,food,5,ISA_FOODisaFOOD
+C0242772,C0016452,ISA,Tomatoes,Food,food,food,2,ISA_FOODisaFOOD
+C0242772,C0016767,ISA,Tomatoes,Fruit,food,food,47,ISA_FOODisaFOOD
+C0242772,C0042440,ISA,Tomatoes,Vegetables,food,food,7,ISA_FOODisaFOOD
+C0344355,C0016452,ISA,Fast Foods,Food,food,food,3,ISA_FOODisaFOOD
+C0349371,C0005329,ISA,Red wine,Beverages,food,food,1,ISA_FOODisaFOOD
+C0349371,C0043188,ISA,Red wine,Wine,food,food,1,ISA_FOODisaFOOD
+C0349374,C0010947,ISA,Cow's milk,Dairy Products,food,food,1,ISA_FOODisaFOOD
+C0349374,C0016452,ISA,Cow's milk,Food,food,food,2,ISA_FOODisaFOOD
+C0349966,C0016452,ISA,Figs - dietary,Food,food,food,5,ISA_FOODisaFOOD
+C0349966,C0016767,ISA,Figs - dietary,Fruit,food,food,3,ISA_FOODisaFOOD
+C0349966,C0681562,ISA,Figs - dietary,food product,food,food,1,ISA_FOODisaFOOD
+C0440277,C0016767,ISA,Orange (fruit),Fruit,food,food,1,ISA_FOODisaFOOD
+C0440286,C0016767,ISA,Almond Nut,Fruit,food,food,1,ISA_FOODisaFOOD
+C0440286,C0028723,ISA,Almond Nut,Nuts,food,food,2,ISA_FOODisaFOOD
+C0440287,C3714627,ISA,Brazil nut,Tree nut,food,food,1,ISA_FOODisaFOOD
+C0440288,C0028723,ISA,Hazelnuts,Nuts,food,food,1,ISA_FOODisaFOOD
+C0440466,C0013710,ISA,Hen's egg,Egg Food Product,food,food,2,ISA_FOODisaFOOD
+C0452241,C0301611,ISA,Gin,distilled alcoholic beverage,food,food,1,ISA_FOODisaFOOD
+C0452245,C0004922,ISA,Lager,Beer,food,food,1,ISA_FOODisaFOOD
+C0452246,C0025017,ISA,Lasagne,Meat,food,food,1,ISA_FOODisaFOOD
+C0452263,C0301611,ISA,Vodka,distilled alcoholic beverage,food,food,1,ISA_FOODisaFOOD
+C0452428,C0016452,ISA,Drink (dietary substance),Food,food,food,2,ISA_FOODisaFOOD
+C0452440,C0005329,ISA,Tea without milk,Beverages,food,food,2,ISA_FOODisaFOOD
+C0452440,C0039400,ISA,Tea without milk,Tea,food,food,3,ISA_FOODisaFOOD
+C0452453,C0005329,ISA,Fruit Juices,Beverages,food,food,2,ISA_FOODisaFOOD
+C0452453,C0016452,ISA,Fruit Juices,Food,food,food,3,ISA_FOODisaFOOD
+C0452458,C0016452,ISA,Orange juice,Food,food,food,1,ISA_FOODisaFOOD
+C0452470,C0004922,ISA,Stout,Beer,food,food,2,ISA_FOODisaFOOD
+C0452501,C0016452,ISA,Cookie and/or cracker,Food,food,food,1,ISA_FOODisaFOOD
+C0452509,C0452501,ISA,Crispbread,Cookie and/or cracker,food,food,1,ISA_FOODisaFOOD
+C0452688,C0007757,ISA,Wheatgerm,Cereals,food,food,1,ISA_FOODisaFOOD
+C0452689,C0016452,ISA,Noodles,Food,food,food,1,ISA_FOODisaFOOD
+C0452712,C0016452,ISA,White rice,Food,food,food,1,ISA_FOODisaFOOD
+C0452734,C0016452,ISA,Condensed milk,Food,food,food,1,ISA_FOODisaFOOD
+C0452740,C0010947,ISA,Sheep milk,Dairy Products,food,food,1,ISA_FOODisaFOOD
+C0452741,C0004896,ISA,Soy Milk,Beans (food),food,food,1,ISA_FOODisaFOOD
+C0452741,C0037733,ISA,Soy Milk,Soybeans,food,food,1,ISA_FOODisaFOOD
+C0452788,C0004896,ISA,Soy Cheese,Beans (food),food,food,1,ISA_FOODisaFOOD
+C0452824,C0025017,ISA,Boiled egg,Meat,food,food,1,ISA_FOODisaFOOD
+C0452827,C0013710,ISA,Raw egg,Egg Food Product,food,food,1,ISA_FOODisaFOOD
+C0452827,C0025017,ISA,Raw egg,Meat,food,food,1,ISA_FOODisaFOOD
+C0452828,C0025017,ISA,Scrambled egg,Meat,food,food,1,ISA_FOODisaFOOD
+C0452848,C0016452,ISA,Red Meat,Food,food,food,2,ISA_FOODisaFOOD
+C0452848,C0025017,ISA,Red Meat,Meat,food,food,1,ISA_FOODisaFOOD
+C0452867,C0016452,ISA,Pork,Food,food,food,3,ISA_FOODisaFOOD
+C0452867,C0025017,ISA,Pork,Meat,food,food,37,ISA_FOODisaFOOD
+C0452867,C0681562,ISA,Pork,food product,food,food,1,ISA_FOODisaFOOD
+C0452888,C0016452,ISA,Poultry Meat,Food,food,food,1,ISA_FOODisaFOOD
+C0452888,C0681562,ISA,Poultry Meat,food product,food,food,1,ISA_FOODisaFOOD
+C0452902,C0025017,ISA,Game - meat,Meat,food,food,2,ISA_FOODisaFOOD
+C0452929,C0025017,ISA,Burger,Meat,food,food,1,ISA_FOODisaFOOD
+C0452943,C0025017,ISA,Salami,Meat,food,food,1,ISA_FOODisaFOOD
+C0452945,C0016452,ISA,Sausage,Food,food,food,2,ISA_FOODisaFOOD
+C0452945,C0025018,ISA,Sausage,Meat Products,food,food,1,ISA_FOODisaFOOD
+C0452946,C0025017,ISA,Frankfurter,Meat,food,food,1,ISA_FOODisaFOOD
+C0452946,C0452945,ISA,Frankfurter,Sausage,food,food,2,ISA_FOODisaFOOD
+C0452954,C0025017,ISA,Liver sausage,Meat,food,food,1,ISA_FOODisaFOOD
+C0453108,C0016452,ISA,Artichoke,Food,food,food,1,ISA_FOODisaFOOD
+C0453110,C0042440,ISA,Asparagus,Vegetables,food,food,1,ISA_FOODisaFOOD
+C0453233,C0037733,ISA,Tofu,Soybeans,food,food,2,ISA_FOODisaFOOD
+C0453233,C1532456,ISA,Tofu,Soy bean product,food,food,1,ISA_FOODisaFOOD
+C0453257,C0037910,ISA,Fenugreek seed,Spices,food,food,1,ISA_FOODisaFOOD
+C0453268,C0016452,ISA,Fresh fruit,Food,food,food,2,ISA_FOODisaFOOD
+C0453289,C0016452,ISA,Pomegranate,Food,food,food,1,ISA_FOODisaFOOD
+C0453289,C0016767,ISA,Pomegranate,Fruit,food,food,1,ISA_FOODisaFOOD
+C0453289,C0681562,ISA,Pomegranate,food product,food,food,1,ISA_FOODisaFOOD
+C0453292,C0016767,ISA,Raspberries,Fruit,food,food,3,ISA_FOODisaFOOD
+C0453309,C0016767,ISA,Prunes,Fruit,food,food,1,ISA_FOODisaFOOD
+C0453344,C3714627,ISA,Macadamia Nut,Tree nut,food,food,1,ISA_FOODisaFOOD
+C0453349,C0016452,ISA,Peanut butter,Food,food,food,1,ISA_FOODisaFOOD
+C0453349,C0042440,ISA,Peanut butter,Vegetables,food,food,1,ISA_FOODisaFOOD
+C0453357,C0016452,ISA,Sauce,Food,food,food,3,ISA_FOODisaFOOD
+C0453374,C0453357,ISA,Soy Sauce,Sauce,food,food,2,ISA_FOODisaFOOD
+C0453382,C0453357,ISA,Salad dressing,Sauce,food,food,1,ISA_FOODisaFOOD
+C0453386,C0453382,ISA,Mayonnaise,Salad dressing,food,food,1,ISA_FOODisaFOOD
+C0453451,C0006855,ISA,Toffee,Candy,food,food,1,ISA_FOODisaFOOD
+C0453577,C0016452,ISA,Pizza,Food,food,food,1,ISA_FOODisaFOOD
+C0453740,C0016452,ISA,Salad,Food,food,food,6,ISA_FOODisaFOOD
+C0453740,C0042440,ISA,Salad,Vegetables,food,food,11,ISA_FOODisaFOOD
+C0453745,C0453740,ISA,Coleslaw,Salad,food,food,1,ISA_FOODisaFOOD
+C0453863,C0016452,ISA,Snacks,Food,food,food,4,ISA_FOODisaFOOD
+C0457802,C0005135,ISA,Strawberries,Berries,food,food,1,ISA_FOODisaFOOD
+C0457802,C0016767,ISA,Strawberries,Fruit,food,food,4,ISA_FOODisaFOOD
+C0458983,C0016452,ISA,Cornmeal,Food,food,food,2,ISA_FOODisaFOOD
+C0459815,C0028723,ISA,Cashew nut,Nuts,food,food,1,ISA_FOODisaFOOD
+C0475610,C0301611,ISA,Whisky,distilled alcoholic beverage,food,food,1,ISA_FOODisaFOOD
+C0475615,C0016452,ISA,Sterilized milk,Food,food,food,1,ISA_FOODisaFOOD
+C0475626,C0453447,ISA,Licorice candy,Sugar candy,food,food,1,ISA_FOODisaFOOD
+C0597423,C0012155,ISA,Saturated fat,Diet,food,food,1,ISA_FOODisaFOOD
+C0598763,C0042440,ISA,String bean,Vegetables,food,food,1,ISA_FOODisaFOOD
+C0678695,C0016452,ISA,Nutrients,Food,food,food,11,ISA_FOODisaFOOD
+C0700385,C0016452,ISA,Dairy Cream,Food,food,food,1,ISA_FOODisaFOOD
+C0726369,C0242295,ISA,Glucerna,Dietary Supplements,food,food,1,ISA_FOODisaFOOD
+C0727850,C0150589,ISA,similac,Infant formula,food,food,3,ISA_FOODisaFOOD
+C0771806,C0004896,ISA,soya flour,Beans (food),food,food,1,ISA_FOODisaFOOD
+C0936039,C0016767,ISA,Cherry - dietary,Fruit,food,food,1,ISA_FOODisaFOOD
+C0936050,C0016767,ISA,Cranberries (Dietary),Fruit,food,food,2,ISA_FOODisaFOOD
+C0973452,C0004896,ISA,Kidney Bean (Dietary),Beans (food),food,food,10,ISA_FOODisaFOOD
+C1095830,C0016452,ISA,Apple,Food,food,food,2,ISA_FOODisaFOOD
+C1095830,C0016767,ISA,Apple,Fruit,food,food,6,ISA_FOODisaFOOD
+C1123060,C0016452,ISA,Capers,Food,food,food,2,ISA_FOODisaFOOD
+C1138601,C0016767,ISA,Pear (Dietary),Fruit,food,food,1,ISA_FOODisaFOOD
+C1146616,C0016452,ISA,Sweet potato - dietary,Food,food,food,1,ISA_FOODisaFOOD
+C1257879,C0016452,ISA,Trans Fatty Acids,Food,food,food,1,ISA_FOODisaFOOD
+C1258091,C0004896,ISA,Soy Foods,Beans (food),food,food,1,ISA_FOODisaFOOD
+C1268568,C0016452,ISA,Juice,Food,food,food,1,ISA_FOODisaFOOD
+C1440988,C0025017,ISA,Mutton,Meat,food,food,1,ISA_FOODisaFOOD
+C1510451,C0042440,ISA,French fries,Vegetables,food,food,1,ISA_FOODisaFOOD
+C1618610,C0016767,ISA,Gooseberries,Fruit,food,food,1,ISA_FOODisaFOOD
+C2348255,C0012155,ISA,Amino acid - dietary,Diet,food,food,1,ISA_FOODisaFOOD
+C2717755,C0016452,ISA,Functional Food,Food,food,food,1,ISA_FOODisaFOOD
+C2936470,C0012155,ISA,Synbiotics,Diet,food,food,1,ISA_FOODisaFOOD
+C2981326,C0012155,ISA,High Fructose Corn Syrup,Diet,food,food,1,ISA_FOODisaFOOD
+C2983588,C0012155,ISA,Basal Diet,Diet,food,food,1,ISA_FOODisaFOOD
+C2986528,C0016767,ISA,Red date fruit,Fruit,food,food,1,ISA_FOODisaFOOD
+C3489624,C0016452,ISA,Soft Drinks,Food,food,food,2,ISA_FOODisaFOOD
+C3489624,C0452428,ISA,Soft Drinks,Drink (dietary substance),food,food,1,ISA_FOODisaFOOD
+C3661607,C0012155,ISA,Vitamin E supplement,Diet,food,food,1,ISA_FOODisaFOOD
+C3661726,C0012155,ISA,Insoluble fiber,Diet,food,food,2,ISA_FOODisaFOOD
+C3853345,C0042440,ISA,Red onion,Vegetables,food,food,1,ISA_FOODisaFOOD
+C4042915,C0005329,ISA,Kombucha Tea,Beverages,food,food,1,ISA_FOODisaFOOD
+C4046030,C0016452,ISA,Fodder,Food,food,food,2,ISA_FOODisaFOOD
+C4086859,C0016767,ISA,Smoked Plum,Fruit,food,food,1,ISA_FOODisaFOOD

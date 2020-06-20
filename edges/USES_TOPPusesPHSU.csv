@@ -1,0 +1,564 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0003280,USES,"Administration, Oral",Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C0033607,USES,"Administration, Oral",Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C0041044,USES,"Administration, Oral",Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C0056331,USES,"Administration, Oral",cordycepin,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C0301299,USES,"Administration, Oral",Iodine solution,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C0358591,USES,"Administration, Oral",Proton Pump Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C0939237,USES,"Administration, Oral",lopinavir / Ritonavir,topp,phsu,2,USES_TOPPusesPHSU
+C0001563,C2930041,USES,"Administration, Oral",Ampicillin / Sulbactam,topp,phsu,1,USES_TOPPusesPHSU
+C0001563,C2987634,USES,"Administration, Oral",Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C0001566,C0003205,USES,"Administration, Topical","Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0001566,C0032333,USES,"Administration, Topical",podophyllin,topp,phsu,1,USES_TOPPusesPHSU
+C0001566,C0071839,USES,"Administration, Topical",prednisolone acetate,topp,phsu,1,USES_TOPPusesPHSU
+C0001566,C0304227,USES,"Administration, Topical",Prescription Drugs,topp,phsu,1,USES_TOPPusesPHSU
+C0001566,C1136254,USES,"Administration, Topical",Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0001566,C2987634,USES,"Administration, Topical",Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C0002766,C0003209,USES,Pain management,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0002766,C0003211,USES,Pain management,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,4,USES_TOPPusesPHSU
+C0002766,C0003289,USES,Pain management,Antidepressive Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0002766,C0006684,USES,Pain management,Calcium Channel Blockers,topp,phsu,1,USES_TOPPusesPHSU
+C0002766,C0242937,USES,Pain management,"Analgesics, Non-Narcotic",topp,phsu,1,USES_TOPPusesPHSU
+C0002766,C1874451,USES,Pain management,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0002903,C0002932,USES,Anesthesia procedures,Anesthetics,topp,phsu,1,USES_TOPPusesPHSU
+C0002903,C0142802,USES,Anesthesia procedures,"barbituric acid, monosodium salt",topp,phsu,1,USES_TOPPusesPHSU
+C0002903,C0149474,USES,Anesthesia procedures,Zoletil,topp,phsu,1,USES_TOPPusesPHSU
+C0002903,C0733445,USES,Anesthesia procedures,Brietal,topp,phsu,2,USES_TOPPusesPHSU
+C0002903,C2936725,USES,Anesthesia procedures,Tiletamine / Zolazepam,topp,phsu,1,USES_TOPPusesPHSU
+C0002911,C0002932,USES,"Anesthesia, Conduction",Anesthetics,topp,phsu,1,USES_TOPPusesPHSU
+C0002915,C0002932,USES,General Anesthesia,Anesthetics,topp,phsu,2,USES_TOPPusesPHSU
+C0003281,C0003295,USES,Anticoagulation Therapy,Antidote,topp,phsu,1,USES_TOPPusesPHSU
+C0003424,C1136254,USES,Antisepsis,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0003424,C2718558,USES,Antisepsis,Absolute Ethanol Solution,topp,phsu,1,USES_TOPPusesPHSU
+C0005527,C0242708,USES,Biological Response Modifier Therapy,"Antirheumatic Drugs, Disease-Modifying",topp,phsu,1,USES_TOPPusesPHSU
+C0005841,C0443121,USES,Blood Transfusion,Cryoprecipitate,topp,phsu,3,USES_TOPPusesPHSU
+C0009429,C0003209,USES,Combined Modality Therapy,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C0003374,USES,Combined Modality Therapy,Antimalarials,topp,phsu,3,USES_TOPPusesPHSU
+C0009429,C0003448,USES,Combined Modality Therapy,Antitubercular Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C0003451,USES,Combined Modality Therapy,Antiviral Agents,topp,phsu,5,USES_TOPPusesPHSU
+C0009429,C0040616,USES,Combined Modality Therapy,Anti-Anxiety Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C0935929,USES,Combined Modality Therapy,Antidiabetics,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C0939237,USES,Combined Modality Therapy,lopinavir / Ritonavir,topp,phsu,7,USES_TOPPusesPHSU
+C0009429,C1136254,USES,Combined Modality Therapy,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C1268903,USES,Combined Modality Therapy,Cytoprotective agent,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C1589557,USES,Combined Modality Therapy,Doxy,topp,phsu,2,USES_TOPPusesPHSU
+C0009429,C1875630,USES,Combined Modality Therapy,PEGINTERFERON/RIBAVIRIN,topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C3541969,USES,Combined Modality Therapy,"Neuraminidase inhibitors, direct acting antivirals",topp,phsu,1,USES_TOPPusesPHSU
+C0009429,C3858051,USES,Combined Modality Therapy,ledipasvir / sofosbuvir,topp,phsu,1,USES_TOPPusesPHSU
+C0009870,C1520007,USES,"Contraception, Immunologic",viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0011121,C0003205,USES,Decontamination,"Anti-Infective Agents, Local",topp,phsu,2,USES_TOPPusesPHSU
+C0011121,C0162713,USES,Decontamination,Photosensitizing Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0011121,C1136254,USES,Decontamination,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0011121,C2718558,USES,Decontamination,Absolute Ethanol Solution,topp,phsu,1,USES_TOPPusesPHSU
+C0011209,C1718097,USES,Obstetric Delivery,New medications,topp,phsu,1,USES_TOPPusesPHSU
+C0011946,C0011947,USES,Dialysis procedure,Dialysis Solutions,topp,phsu,2,USES_TOPPusesPHSU
+C0012683,C0174883,USES,Disinfection,Cresol,topp,phsu,1,USES_TOPPusesPHSU
+C0012683,C0724557,USES,Disinfection,CLEANSER,topp,phsu,1,USES_TOPPusesPHSU
+C0012683,C3535898,USES,Disinfection,p-chloro-m-cresol,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0003015,USES,Pharmacotherapy,Angiotensin-Converting Enzyme Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0003195,USES,Pharmacotherapy,Anti-Arrhythmia Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0003204,USES,Pharmacotherapy,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0003209,USES,Pharmacotherapy,Anti-Inflammatory Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0013216,C0003211,USES,Pharmacotherapy,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0003292,USES,Pharmacotherapy,Antidiarrheals,topp,phsu,2,USES_TOPPusesPHSU
+C0013216,C0003374,USES,Pharmacotherapy,Antimalarials,topp,phsu,5,USES_TOPPusesPHSU
+C0013216,C0003448,USES,Pharmacotherapy,Antitubercular Agents,topp,phsu,3,USES_TOPPusesPHSU
+C0013216,C0013973,USES,Pharmacotherapy,Emetics,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0033607,USES,Pharmacotherapy,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0041044,USES,Pharmacotherapy,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0086440,USES,Pharmacotherapy,Hypolipidemic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0879262,USES,Pharmacotherapy,S-1 Antimetabolite agent,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C0907349,USES,Pharmacotherapy,nelarabine,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C1136254,USES,Pharmacotherapy,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C1874795,USES,Pharmacotherapy,Chloroquine / Primaquine,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C3537168,USES,Pharmacotherapy,Antianginals,topp,phsu,1,USES_TOPPusesPHSU
+C0013216,C3539957,USES,Pharmacotherapy,opium alkaloids and derivative combination cough suppressants,topp,phsu,1,USES_TOPPusesPHSU
+C0013218,C0304497,USES,Combination Drug Therapy,Cytotoxic agent (product),topp,phsu,1,USES_TOPPusesPHSU
+C0013778,C0003195,USES,Electric Countershock,Anti-Arrhythmia Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0013806,C2987634,USES,Electroconvulsive Therapy,Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C0015357,C0011947,USES,Extracorporeal Membrane Oxygenation,Dialysis Solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0015357,C0310255,USES,Extracorporeal Membrane Oxygenation,survive,topp,phsu,1,USES_TOPPusesPHSU
+C0015357,C1443650,USES,Extracorporeal Membrane Oxygenation,Neuraminidase inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0016419,C3543842,USES,"Medicine, Folk",TONICS,topp,phsu,1,USES_TOPPusesPHSU
+C0017296,C0003402,USES,gene therapy,Antioxidants,topp,phsu,1,USES_TOPPusesPHSU
+C0017296,C1520007,USES,gene therapy,viral vector,topp,phsu,26,USES_TOPPusesPHSU
+C0018821,C0005836,USES,Cardiac Surgery procedures,Blood Substitutes,topp,phsu,1,USES_TOPPusesPHSU
+C0019009,C0056562,USES,Hemodilution,crystalloid solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C0013230,USES,Immunization,Investigational New Drugs,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C0310255,USES,Immunization,survive,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C0353043,USES,Immunization,Cleansing preparations,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C1510932,USES,Immunization,Progesterone Antagonist,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C1520007,USES,Immunization,viral vector,topp,phsu,6,USES_TOPPusesPHSU
+C0020971,C1874451,USES,Immunization,Basis,topp,phsu,3,USES_TOPPusesPHSU
+C0020971,C1875384,USES,Immunization,INVESTIGATIONAL VACCINES,topp,phsu,3,USES_TOPPusesPHSU
+C0020971,C2987634,USES,Immunization,Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C4305807,USES,Immunization,LC16M8,topp,phsu,4,USES_TOPPusesPHSU
+C0020974,C0353043,USES,passive immunization procedure,Cleansing preparations,topp,phsu,1,USES_TOPPusesPHSU
+C0020974,C0544357,USES,passive immunization procedure,human plasma,topp,phsu,2,USES_TOPPusesPHSU
+C0020974,C1520007,USES,passive immunization procedure,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0020975,C1134570,USES,Secondary Immunization,fowlpox-TRICOM vaccine,topp,phsu,1,USES_TOPPusesPHSU
+C0021083,C0003204,USES,Immunotherapy,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0021083,C0003209,USES,Immunotherapy,Anti-Inflammatory Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0021083,C1515858,USES,Immunotherapy,APC Vaccine,topp,phsu,1,USES_TOPPusesPHSU
+C0021083,C3465372,USES,Immunotherapy,Sublingual Product,topp,phsu,1,USES_TOPPusesPHSU
+C0021083,C3539125,USES,Immunotherapy,other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C0021107,C0770751,USES,Implantation procedure,ANTISEPTIC SOLUTION,topp,phsu,1,USES_TOPPusesPHSU
+C0021440,C0358591,USES,Intravenous infusion procedures,Proton Pump Inhibitors,topp,phsu,2,USES_TOPPusesPHSU
+C0021459,C0717386,USES,Inhalation Therapy,Albuterol / Ipratropium,topp,phsu,1,USES_TOPPusesPHSU
+C0021459,C2987634,USES,Inhalation Therapy,Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C0021485,C0033607,USES,Injection of therapeutic agent,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0021485,C0444624,USES,Injection of therapeutic agent,Parenteral iron,topp,phsu,1,USES_TOPPusesPHSU
+C0021485,C1520007,USES,Injection of therapeutic agent,viral vector,topp,phsu,2,USES_TOPPusesPHSU
+C0021485,C2987634,USES,Injection of therapeutic agent,Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C0021493,C0149474,USES,"Injections, Intraperitoneal",Zoletil,topp,phsu,1,USES_TOPPusesPHSU
+C0021860,C1443650,USES,Intra-Aortic Balloon Pumping,Neuraminidase inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0021925,C0002932,USES,Intubation,Anesthetics,topp,phsu,1,USES_TOPPusesPHSU
+C0021925,C0020591,USES,Intubation,Hypnotics,topp,phsu,1,USES_TOPPusesPHSU
+C0021925,C0027866,USES,Intubation,Neuromuscular Blocking Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0021925,C0036557,USES,Intubation,Sedatives,topp,phsu,1,USES_TOPPusesPHSU
+C0021932,C0027866,USES,"Intubation, Intratracheal",Neuromuscular Blocking Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0022100,C0003209,USES,Irrigation,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0022100,C0721973,USES,Irrigation,nasal saline,topp,phsu,3,USES_TOPPusesPHSU
+C0022100,C0770751,USES,Irrigation,ANTISEPTIC SOLUTION,topp,phsu,1,USES_TOPPusesPHSU
+C0022100,C3853872,USES,Irrigation,electrolyte solution,topp,phsu,1,USES_TOPPusesPHSU
+C0031740,C0162713,USES,Photochemotherapy,Photosensitizing Agents,topp,phsu,3,USES_TOPPusesPHSU
+C0031740,C1874451,USES,Photochemotherapy,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0031765,C0309989,USES,Phototherapy,quantum,topp,phsu,1,USES_TOPPusesPHSU
+C0032042,C0310255,USES,Placebos,survive,topp,phsu,1,USES_TOPPusesPHSU
+C0032042,C3539125,USES,Placebos,other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C0033045,C0003297,USES,Premedication,Antiemetics,topp,phsu,1,USES_TOPPusesPHSU
+C0033045,C0020592,USES,Premedication,Hypnotics and Sedatives,topp,phsu,1,USES_TOPPusesPHSU
+C0033045,C0036557,USES,Premedication,Sedatives,topp,phsu,1,USES_TOPPusesPHSU
+C0033045,C0060473,USES,Premedication,fluanisone,topp,phsu,1,USES_TOPPusesPHSU
+C0033045,C0242896,USES,Premedication,Anticholinergic Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0033972,C0003448,USES,"Psychotherapy, Multiple",Antitubercular Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0033972,C0358591,USES,"Psychotherapy, Multiple",Proton Pump Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0033972,C0939237,USES,"Psychotherapy, Multiple",lopinavir / Ritonavir,topp,phsu,3,USES_TOPPusesPHSU
+C0034386,C0003451,USES,Quarantine,Antiviral Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0034386,C1874451,USES,Quarantine,Basis,topp,phsu,2,USES_TOPPusesPHSU
+C0034997,C0020677,USES,Rehydration,Hypotonic Solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0034997,C0056562,USES,Rehydration,crystalloid solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0034997,C1443923,USES,Rehydration,Oral rehydration solution,topp,phsu,1,USES_TOPPusesPHSU
+C0035139,C0003204,USES,Surgical Replantation,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0035139,C0014930,USES,Surgical Replantation,Estrogen Antagonists,topp,phsu,1,USES_TOPPusesPHSU
+C0035139,C0032121,USES,Surgical Replantation,Plasma Substitutes,topp,phsu,1,USES_TOPPusesPHSU
+C0035139,C0056562,USES,Surgical Replantation,crystalloid solutions,topp,phsu,3,USES_TOPPusesPHSU
+C0035139,C0443121,USES,Surgical Replantation,Cryoprecipitate,topp,phsu,2,USES_TOPPusesPHSU
+C0035139,C0456388,USES,Surgical Replantation,Blood product,topp,phsu,6,USES_TOPPusesPHSU
+C0035139,C1718097,USES,Surgical Replantation,New medications,topp,phsu,1,USES_TOPPusesPHSU
+C0035139,C2954564,USES,Surgical Replantation,Suppressor,topp,phsu,1,USES_TOPPusesPHSU
+C0035139,C4521445,USES,Surgical Replantation,Plasma Product,topp,phsu,1,USES_TOPPusesPHSU
+C0035205,C0006280,USES,"Respiration, Artificial",Bronchodilator Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0035273,C0011947,USES,Resuscitation procedure,Dialysis Solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0035273,C0056562,USES,Resuscitation procedure,crystalloid solutions,topp,phsu,8,USES_TOPPusesPHSU
+C0035273,C0456388,USES,Resuscitation procedure,Blood product,topp,phsu,10,USES_TOPPusesPHSU
+C0035273,C1874451,USES,Resuscitation procedure,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0036589,C0683092,USES,Self Administration,intravenous drug,topp,phsu,1,USES_TOPPusesPHSU
+C0036589,C2346514,USES,Self Administration,Intranasal Ketamine,topp,phsu,2,USES_TOPPusesPHSU
+C0039040,C0886831,USES,"Sympathectomy, Chemical",Oxidopamine Hydrobromide,topp,phsu,1,USES_TOPPusesPHSU
+C0040348,C0039052,USES,Tocolysis,Sympathomimetics,topp,phsu,1,USES_TOPPusesPHSU
+C0040732,C0041044,USES,Transplantation,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C0040732,C3854325,USES,Transplantation,Janus kinase inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0040732,C4287818,USES,Transplantation,NiCord,topp,phsu,1,USES_TOPPusesPHSU
+C0040739,C2684757,USES,"Transplantation, Homologous",cat skin extract,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003158,USES,Treatment Protocols,Anthelmintics,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003195,USES,Treatment Protocols,Anti-Arrhythmia Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003209,USES,Treatment Protocols,Anti-Inflammatory Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0040808,C0003211,USES,Treatment Protocols,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003280,USES,Treatment Protocols,Anticoagulants,topp,phsu,2,USES_TOPPusesPHSU
+C0040808,C0003286,USES,Treatment Protocols,Anticonvulsants,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003295,USES,Treatment Protocols,Antidote,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003364,USES,Treatment Protocols,Antihypertensive Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0040808,C0003374,USES,Treatment Protocols,Antimalarials,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003402,USES,Treatment Protocols,Antioxidants,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003419,USES,Treatment Protocols,Antipyretics,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003448,USES,Treatment Protocols,Antitubercular Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0003451,USES,Treatment Protocols,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0009905,USES,Treatment Protocols,"Contraceptives, Oral",topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0012798,USES,Treatment Protocols,Diuretics,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0013162,USES,Treatment Protocols,Drug Combinations,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0020592,USES,Treatment Protocols,Hypnotics and Sedatives,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0033607,USES,Treatment Protocols,Protease Inhibitors,topp,phsu,3,USES_TOPPusesPHSU
+C0040808,C0036557,USES,Treatment Protocols,Sedatives,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0076797,USES,Treatment Protocols,Tolerogen,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0304229,USES,Treatment Protocols,Experimental drug,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0540694,USES,Treatment Protocols,adefovir dipivoxil,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0541746,USES,Treatment Protocols,Thiazides,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C0939237,USES,Treatment Protocols,lopinavir / Ritonavir,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C1134558,USES,Treatment Protocols,Chinese herbs,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C1136254,USES,Treatment Protocols,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C1520007,USES,Treatment Protocols,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C1875384,USES,Treatment Protocols,INVESTIGATIONAL VACCINES,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C2930041,USES,Treatment Protocols,Ampicillin / Sulbactam,topp,phsu,1,USES_TOPPusesPHSU
+C0040808,C3539957,USES,Treatment Protocols,opium alkaloids and derivative combination cough suppressants,topp,phsu,1,USES_TOPPusesPHSU
+C0040861,C1874451,USES,Triage,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C0003451,USES,Vaccination,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C0013230,USES,Vaccination,Investigational New Drugs,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C0719214,USES,Vaccination,century,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C1134570,USES,Vaccination,fowlpox-TRICOM vaccine,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C1134718,USES,Vaccination,G207,topp,phsu,2,USES_TOPPusesPHSU
+C0042196,C1135768,USES,Vaccination,Sustained-Release Preparations,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C1517365,USES,Vaccination,GM-CSF DNA,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C1520007,USES,Vaccination,viral vector,topp,phsu,13,USES_TOPPusesPHSU
+C0042196,C1548465,USES,Vaccination,pneumococcal conjugate,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C1874451,USES,Vaccination,Basis,topp,phsu,6,USES_TOPPusesPHSU
+C0042196,C3205287,USES,Vaccination,Terminator,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C3539957,USES,Vaccination,opium alkaloids and derivative combination cough suppressants,topp,phsu,1,USES_TOPPusesPHSU
+C0042196,C4305920,USES,Vaccination,IC41,topp,phsu,1,USES_TOPPusesPHSU
+C0042209,C1874451,USES,Vaccine Therapy,Basis,topp,phsu,2,USES_TOPPusesPHSU
+C0052712,C1520007,USES,doxorubicin/mitomycin/vinblastine protocol,viral vector,topp,phsu,3,USES_TOPPusesPHSU
+C0057163,C1874451,USES,DAV regimen,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0065772,C1874451,USES,MCC protocol,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0079612,C1874451,USES,"Immunotherapy, Active",Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0079613,C0678485,USES,Adoptive Immunotherapy,controlled substance,topp,phsu,2,USES_TOPPusesPHSU
+C0079613,C1275666,USES,Adoptive Immunotherapy,Fusion inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0079613,C1520007,USES,Adoptive Immunotherapy,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0082139,C0003205,USES,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0083355,C0003295,USES,amsacrine/azacitidine/etoposide,Antidote,topp,phsu,1,USES_TOPPusesPHSU
+C0083765,C0003451,USES,fluorouracil/methotrexate/mitoxantrone protocol,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0085405,C1700685,USES,Salvage Therapy,sunitinib malate,topp,phsu,1,USES_TOPPusesPHSU
+C0085405,C3656593,USES,Salvage Therapy,ceftolozane / tazobactam,topp,phsu,1,USES_TOPPusesPHSU
+C0086904,C3853872,USES,Oral rehydration procedure,electrolyte solution,topp,phsu,1,USES_TOPPusesPHSU
+C0149783,C0003209,USES,Steroid therapy,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0149783,C0003308,USES,Steroid therapy,Antifungal Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0150141,C0003205,USES,Bathing,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0150141,C0721912,USES,Bathing,N'ICE,topp,phsu,1,USES_TOPPusesPHSU
+C0150141,C3812869,USES,Bathing,Medicated,topp,phsu,1,USES_TOPPusesPHSU
+C0150234,C0003419,USES,Fever treatment,Antipyretics,topp,phsu,1,USES_TOPPusesPHSU
+C0150238,C0056562,USES,Fluid resuscitation,crystalloid solutions,topp,phsu,2,USES_TOPPusesPHSU
+C0150238,C1268852,USES,Fluid resuscitation,Plasma expander,topp,phsu,1,USES_TOPPusesPHSU
+C0150413,C0003451,USES,HIV prevention,Antiviral Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0150413,C1136254,USES,HIV prevention,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0150413,C1136255,USES,HIV prevention,"Microbicides, Topical",topp,phsu,1,USES_TOPPusesPHSU
+C0152054,C3539125,USES,Therapeutic tactile stimulation,other medicated shampoos in ATC,topp,phsu,2,USES_TOPPusesPHSU
+C0152060,C0003308,USES,Transection (procedure),Antifungal Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0152060,C0003374,USES,Transection (procedure),Antimalarials,topp,phsu,1,USES_TOPPusesPHSU
+C0152060,C0026207,USES,Transection (procedure),Miotics,topp,phsu,6,USES_TOPPusesPHSU
+C0152060,C0459768,USES,Transection (procedure),Mercurial,topp,phsu,1,USES_TOPPusesPHSU
+C0152060,C1136254,USES,Transection (procedure),Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0152060,C1520007,USES,Transection (procedure),viral vector,topp,phsu,2,USES_TOPPusesPHSU
+C0152060,C1874451,USES,Transection (procedure),Basis,topp,phsu,3,USES_TOPPusesPHSU
+C0152060,C3555460,USES,Transection (procedure),Bos taurus duodenum preparation,topp,phsu,4,USES_TOPPusesPHSU
+C0162563,C1874451,USES,Cardiac ablation,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0178148,C0310255,USES,Removal of tracheostomy tube,survive,topp,phsu,1,USES_TOPPusesPHSU
+C0184934,C1136254,USES,Filleting,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0185003,C0003451,USES,Reparative closure,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0185023,C0056331,USES,Fixation - action,cordycepin,topp,phsu,1,USES_TOPPusesPHSU
+C0185115,C0012798,USES,Extraction,Diuretics,topp,phsu,1,USES_TOPPusesPHSU
+C0185115,C0056331,USES,Extraction,cordycepin,topp,phsu,1,USES_TOPPusesPHSU
+C0185115,C0350056,USES,Extraction,Adsorbents,topp,phsu,1,USES_TOPPusesPHSU
+C0185115,C0577782,USES,Extraction,Potassium Ionophores,topp,phsu,1,USES_TOPPusesPHSU
+C0185115,C1874451,USES,Extraction,Basis,topp,phsu,3,USES_TOPPusesPHSU
+C0185115,C2987634,USES,Extraction,Agonist,topp,phsu,2,USES_TOPPusesPHSU
+C0185115,C3539125,USES,Extraction,other medicated shampoos in ATC,topp,phsu,2,USES_TOPPusesPHSU
+C0185115,C4524590,USES,Extraction,Washed Red Blood Cells,topp,phsu,1,USES_TOPPusesPHSU
+C0189371,C0770751,USES,Tracheobronchial lavage,ANTISEPTIC SOLUTION,topp,phsu,1,USES_TOPPusesPHSU
+C0189557,C0036426,USES,Pleurodesis,Sclerosing agent,topp,phsu,2,USES_TOPPusesPHSU
+C0194423,C1136254,USES,Bladder irrigation procedure,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0197489,C0003376,USES,Glaucoma surgery,Antimetabolites,topp,phsu,1,USES_TOPPusesPHSU
+C0198482,C0939935,USES,Operation on abdominal region,Colostrum Preparation,topp,phsu,1,USES_TOPPusesPHSU
+C0198807,C0002934,USES,Peripheral block anesthesia,Local Anesthetics,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003158,USES,Prophylactic treatment,Anthelmintics,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003204,USES,Prophylactic treatment,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003205,USES,Prophylactic treatment,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003209,USES,Prophylactic treatment,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003211,USES,Prophylactic treatment,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003280,USES,Prophylactic treatment,Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003297,USES,Prophylactic treatment,Antiemetics,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003304,USES,Prophylactic treatment,Antifibrinolytic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0003451,USES,Prophylactic treatment,Antiviral Agents,topp,phsu,20,USES_TOPPusesPHSU
+C0199176,C0009117,USES,Prophylactic treatment,Coagulants,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0040616,USES,Prophylactic treatment,Anti-Anxiety Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0041044,USES,Prophylactic treatment,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0042398,USES,Prophylactic treatment,Nasal Decongestants,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0085826,USES,Prophylactic treatment,Antiplatelet Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0302837,USES,Prophylactic treatment,Vitamin supplementation,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0304229,USES,Prophylactic treatment,Experimental drug,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0360105,USES,Prophylactic treatment,Selective Serotonin Reuptake Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0376438,USES,Prophylactic treatment,Veterinary Drugs,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0443121,USES,Prophylactic treatment,Cryoprecipitate,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C0719214,USES,Prophylactic treatment,century,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C1134558,USES,Prophylactic treatment,Chinese herbs,topp,phsu,2,USES_TOPPusesPHSU
+C0199176,C1136254,USES,Prophylactic treatment,Microbicides,topp,phsu,8,USES_TOPPusesPHSU
+C0199176,C1275666,USES,Prophylactic treatment,Fusion inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C1330330,USES,Prophylactic treatment,Hand Sanitizers,topp,phsu,2,USES_TOPPusesPHSU
+C0199176,C1445707,USES,Prophylactic treatment,Probiotic agent,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C1718097,USES,Prophylactic treatment,New medications,topp,phsu,3,USES_TOPPusesPHSU
+C0199176,C1874451,USES,Prophylactic treatment,Basis,topp,phsu,15,USES_TOPPusesPHSU
+C0199176,C1963644,USES,Prophylactic treatment,Talc dusting powder,topp,phsu,1,USES_TOPPusesPHSU
+C0199176,C3539125,USES,Prophylactic treatment,other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C0199244,C0936150,USES,Antimalarial prophylaxis,artemether / lumefantrine,topp,phsu,1,USES_TOPPusesPHSU
+C0199244,C0939219,USES,Antimalarial prophylaxis,Atovaquone / Proguanil,topp,phsu,1,USES_TOPPusesPHSU
+C0199470,C0310255,USES,Mechanical ventilation,survive,topp,phsu,1,USES_TOPPusesPHSU
+C0199779,C0054066,USES,Administration of antibiotic,Amoxicillin / Clavulanate,topp,phsu,1,USES_TOPPusesPHSU
+C0199779,C0071972,USES,Administration of antibiotic,Cilastatin / Imipenem,topp,phsu,1,USES_TOPPusesPHSU
+C0199798,C1520007,USES,human vaccination,viral vector,topp,phsu,4,USES_TOPPusesPHSU
+C0199848,C1520007,USES,Coronavirus vaccination,viral vector,topp,phsu,2,USES_TOPPusesPHSU
+C0200070,C0723196,USES,Infertility therapy,Saline Mist,topp,phsu,1,USES_TOPPusesPHSU
+C0204514,C1874451,USES,Structural analysis,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0204514,C2719416,USES,Structural analysis,Vortex,topp,phsu,2,USES_TOPPusesPHSU
+C0204727,C0719214,USES,Isolation procedure,century,topp,phsu,2,USES_TOPPusesPHSU
+C0204727,C3205287,USES,Isolation procedure,Terminator,topp,phsu,1,USES_TOPPusesPHSU
+C0204727,C3537218,USES,Isolation procedure,Neuraminidase Inhibitor [EPC],topp,phsu,1,USES_TOPPusesPHSU
+C0204727,C3543842,USES,Isolation procedure,TONICS,topp,phsu,1,USES_TOPPusesPHSU
+C0204774,C0003205,USES,Soaking Procedure,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0204774,C0004110,USES,Soaking Procedure,Astringents,topp,phsu,1,USES_TOPPusesPHSU
+C0204774,C0772155,USES,Soaking Procedure,thermal water,topp,phsu,1,USES_TOPPusesPHSU
+C0206074,C0011947,USES,Renal Replacement Therapy,Dialysis Solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0242297,C0003402,USES,Dietary Supplementation,Antioxidants,topp,phsu,1,USES_TOPPusesPHSU
+C0242297,C0006657,USES,Dietary Supplementation,Calcifediol,topp,phsu,1,USES_TOPPusesPHSU
+C0242297,C0358591,USES,Dietary Supplementation,Proton Pump Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0242297,C0613707,USES,Dietary Supplementation,Ashwagandha preparation,topp,phsu,1,USES_TOPPusesPHSU
+C0242388,C0003204,USES,Phytotherapy,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0242388,C0003451,USES,Phytotherapy,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0242739,C0358591,USES,Nutritional Support,Proton Pump Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0259961,C0003204,USES,parenteral therapy,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0259961,C0003374,USES,parenteral therapy,Antimalarials,topp,phsu,3,USES_TOPPusesPHSU
+C0262762,C1874451,USES,crisis management,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0279023,C0017302,USES,chemosensitization/potentiation,General anesthetic drugs,topp,phsu,1,USES_TOPPusesPHSU
+C0279025,C1519228,USES,Hormone Therapy,Selective Estrogen Receptor Down Regulator,topp,phsu,1,USES_TOPPusesPHSU
+C0279033,C0013232,USES,Replacement therapy,"Drugs, Orphan",topp,phsu,1,USES_TOPPusesPHSU
+C0279033,C0456388,USES,Replacement therapy,Blood product,topp,phsu,1,USES_TOPPusesPHSU
+C0279470,C1520007,USES,altretamine/cyclophosphamide/doxorubicin,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0280274,C0003209,USES,Antiviral Therapy,Anti-Inflammatory Agents,topp,phsu,4,USES_TOPPusesPHSU
+C0280274,C0003451,USES,Antiviral Therapy,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0280274,C0013162,USES,Antiviral Therapy,Drug Combinations,topp,phsu,1,USES_TOPPusesPHSU
+C0280274,C0033607,USES,Antiviral Therapy,Protease Inhibitors,topp,phsu,2,USES_TOPPusesPHSU
+C0280274,C0939237,USES,Antiviral Therapy,lopinavir / Ritonavir,topp,phsu,9,USES_TOPPusesPHSU
+C0280274,C1443650,USES,Antiviral Therapy,Neuraminidase inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0280274,C1874451,USES,Antiviral Therapy,Basis,topp,phsu,5,USES_TOPPusesPHSU
+C0280274,C3539125,USES,Antiviral Therapy,other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C0280592,C0003205,USES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0281206,C0074765,USES,cancer prevention,sodium selenate,topp,phsu,1,USES_TOPPusesPHSU
+C0282515,C0003374,USES,Chemoprevention,Antimalarials,topp,phsu,24,USES_TOPPusesPHSU
+C0282515,C0003451,USES,Chemoprevention,Antiviral Agents,topp,phsu,4,USES_TOPPusesPHSU
+C0282515,C0041044,USES,Chemoprevention,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,3,USES_TOPPusesPHSU
+C0282515,C0700599,USES,Chemoprevention,Pyrimethamine / Sulfadoxine,topp,phsu,1,USES_TOPPusesPHSU
+C0282515,C1136254,USES,Chemoprevention,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0282515,C2928241,USES,Chemoprevention,Chloroquine / Proguanil,topp,phsu,1,USES_TOPPusesPHSU
+C0282515,C3541969,USES,Chemoprevention,"Neuraminidase inhibitors, direct acting antivirals",topp,phsu,1,USES_TOPPusesPHSU
+C0282638,C0041044,USES,Antibiotic Prophylaxis,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,2,USES_TOPPusesPHSU
+C0302189,C1520007,USES,Cell Therapy,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0302189,C2697995,USES,Cell Therapy,MultiStem,topp,phsu,2,USES_TOPPusesPHSU
+C0338237,C0003209,USES,Antibiotic therapy,Anti-Inflammatory Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0338237,C0699584,USES,Antibiotic therapy,Cotrim,topp,phsu,2,USES_TOPPusesPHSU
+C0338237,C3539957,USES,Antibiotic therapy,opium alkaloids and derivative combination cough suppressants,topp,phsu,1,USES_TOPPusesPHSU
+C0338237,C3656593,USES,Antibiotic therapy,ceftolozane / tazobactam,topp,phsu,1,USES_TOPPusesPHSU
+C0344211,C0003211,USES,Supportive care,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0344211,C0006280,USES,Supportive care,Bronchodilator Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0344211,C0282374,USES,Supportive care,Decongestants,topp,phsu,2,USES_TOPPusesPHSU
+C0392920,C0016411,USES,Chemotherapy Regimen,Folic Acid Antagonists,topp,phsu,1,USES_TOPPusesPHSU
+C0394871,C0002934,USES,Wound infiltration,Local Anesthetics,topp,phsu,1,USES_TOPPusesPHSU
+C0412767,C0358430,USES,Rapid sequence induction,Muscle relaxants,topp,phsu,1,USES_TOPPusesPHSU
+C0412768,C0002932,USES,Inhalational induction,Anesthetics,topp,phsu,1,USES_TOPPusesPHSU
+C0418981,C0003195,USES,Medical therapy,Anti-Arrhythmia Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0418981,C0012798,USES,Medical therapy,Diuretics,topp,phsu,1,USES_TOPPusesPHSU
+C0418981,C0026256,USES,Medical therapy,Mitotane,topp,phsu,1,USES_TOPPusesPHSU
+C0420205,C1874451,USES,Intensive care monitoring,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0441509,C0443121,USES,Coagulation procedure,Cryoprecipitate,topp,phsu,1,USES_TOPPusesPHSU
+C0441509,C0456388,USES,Coagulation procedure,Blood product,topp,phsu,1,USES_TOPPusesPHSU
+C0444735,C3539125,USES,Intermittent administration,other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C0451615,C0003211,USES,Pain relief,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,2,USES_TOPPusesPHSU
+C0454527,C0453256,USES,Thermal techniques,Fennel seed preparation,topp,phsu,1,USES_TOPPusesPHSU
+C0455142,C0012798,USES,Intravenous therapy,Diuretics,topp,phsu,2,USES_TOPPusesPHSU
+C0455142,C0016018,USES,Intravenous therapy,Fibrinolytic Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0455142,C0358591,USES,Intravenous therapy,Proton Pump Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0456979,C3205287,USES,Automated endodontic technique,Terminator,topp,phsu,1,USES_TOPPusesPHSU
+C0459914,C0282090,USES,Conservative Treatment,Laxatives,topp,phsu,1,USES_TOPPusesPHSU
+C0459914,C0301299,USES,Conservative Treatment,Iodine solution,topp,phsu,1,USES_TOPPusesPHSU
+C0508431,C1874451,USES,answer questions,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0520484,C0003451,USES,Xenograft procedure,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0521302,C1443923,USES,Fluid replacement,Oral rehydration solution,topp,phsu,1,USES_TOPPusesPHSU
+C0524865,C1874451,USES,Reconstructive Surgical Procedures,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0543467,C0003205,USES,Operative Surgical Procedures,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0543467,C0456388,USES,Operative Surgical Procedures,Blood product,topp,phsu,1,USES_TOPPusesPHSU
+C0543467,C0719519,USES,Operative Surgical Procedures,Corrective,topp,phsu,1,USES_TOPPusesPHSU
+C0543467,C1874451,USES,Operative Surgical Procedures,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0547070,C0010858,USES,Ablation,Cytostatic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0553741,C0056562,USES,Fluid Management,crystalloid solutions,topp,phsu,1,USES_TOPPusesPHSU
+C0553741,C0456388,USES,Fluid Management,Blood product,topp,phsu,1,USES_TOPPusesPHSU
+C0557061,C1874451,USES,Discussion (procedure),Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0558252,C1510932,USES,Emergency Contraception,Progesterone Antagonist,topp,phsu,1,USES_TOPPusesPHSU
+C0565867,C1520007,USES,delivery method,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0574032,C0040614,USES,Infusion procedures,Tranquilizing Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0574032,C0683092,USES,Infusion procedures,intravenous drug,topp,phsu,3,USES_TOPPusesPHSU
+C0574032,C1874451,USES,Infusion procedures,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0585941,C0006684,USES,Antihypertensive therapy,Calcium Channel Blockers,topp,phsu,1,USES_TOPPusesPHSU
+C0587038,C0003209,USES,Cardiovascular therapy,Anti-Inflammatory Agents,topp,phsu,11,USES_TOPPusesPHSU
+C0600249,C0544357,USES,"Immunotherapy, Passive",human plasma,topp,phsu,2,USES_TOPPusesPHSU
+C0677850,C0003195,USES,adjuvant therapy,Anti-Arrhythmia Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0677850,C0593802,USES,adjuvant therapy,Aromatase Inhibitors,topp,phsu,2,USES_TOPPusesPHSU
+C0677850,C1443923,USES,adjuvant therapy,Oral rehydration solution,topp,phsu,1,USES_TOPPusesPHSU
+C0677850,C1518386,USES,adjuvant therapy,Non-Steroidal Aromatase Inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0677908,C0003211,USES,Maintenance therapy,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0677908,C0003286,USES,Maintenance therapy,Anticonvulsants,topp,phsu,1,USES_TOPPusesPHSU
+C0677908,C0040616,USES,Maintenance therapy,Anti-Anxiety Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0678812,C0003209,USES,systemic administration,Anti-Inflammatory Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0678812,C0003308,USES,systemic administration,Antifungal Agents,topp,phsu,2,USES_TOPPusesPHSU
+C0678823,C0003374,USES,parenteral administration,Antimalarials,topp,phsu,3,USES_TOPPusesPHSU
+C0679651,C1136254,USES,directive therapy,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0679651,C1718097,USES,directive therapy,New medications,topp,phsu,1,USES_TOPPusesPHSU
+C0679698,C0003404,USES,disease prevention,Antiparasitic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0679698,C1136254,USES,disease prevention,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0679698,C1874451,USES,disease prevention,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0679699,C0041044,USES,Secondary Prevention,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C0683174,C0003205,USES,topical application,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0683174,C0003451,USES,topical application,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683174,C0040616,USES,topical application,Anti-Anxiety Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683465,C0003209,USES,novel AODU treatment method,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683465,C0003448,USES,novel AODU treatment method,Antitubercular Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683465,C1874451,USES,novel AODU treatment method,Basis,topp,phsu,2,USES_TOPPusesPHSU
+C0683465,C3653501,USES,novel AODU treatment method,DIRECT ACTING ANTIVIRALS,topp,phsu,1,USES_TOPPusesPHSU
+C0683517,C0003299,USES,Involuntary Treatment,Antiepileptic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683517,C0003451,USES,Involuntary Treatment,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683517,C0042397,USES,Involuntary Treatment,Vasoconstrictor Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683517,C0054066,USES,Involuntary Treatment,Amoxicillin / Clavulanate,topp,phsu,1,USES_TOPPusesPHSU
+C0683525,C0003211,USES,treatment options,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0683525,C0003451,USES,treatment options,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0683525,C0071839,USES,treatment options,prednisolone acetate,topp,phsu,1,USES_TOPPusesPHSU
+C0683525,C0242708,USES,treatment options,"Antirheumatic Drugs, Disease-Modifying",topp,phsu,1,USES_TOPPusesPHSU
+C0683525,C2608262,USES,treatment options,Lubricant Eye Drops,topp,phsu,3,USES_TOPPusesPHSU
+C0700282,C0003451,USES,Confrontation,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0700589,C1696294,USES,Contraceptive methods,Yaz,topp,phsu,2,USES_TOPPusesPHSU
+C0747314,C0041044,USES,pcp prophylaxis,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,2,USES_TOPPusesPHSU
+C0751363,C0003209,USES,natural remedies,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0808232,C1136254,USES,Therapeutic Intervention,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0808232,C1874451,USES,Therapeutic Intervention,Basis,topp,phsu,2,USES_TOPPusesPHSU
+C0814357,C0041044,USES,universal prevention,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,2,USES_TOPPusesPHSU
+C0841790,C1520007,USES,caudal injection,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C0849522,C0007036,USES,Eye Therapies,Carbonic Anhydrase Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0853245,C0353681,USES,dvt prophylaxis,Subcutaneous heparin,topp,phsu,1,USES_TOPPusesPHSU
+C0854632,C0722517,USES,electrolyte replacement,Pedialyte,topp,phsu,1,USES_TOPPusesPHSU
+C0857127,C0242904,USES,Induction procedure,"Anesthetics, Intravenous",topp,phsu,1,USES_TOPPusesPHSU
+C0877137,C0003451,USES,antiviral drug prophylaxis,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0887947,C0003015,USES,"Antiretroviral Therapy, Highly Active",Angiotensin-Converting Enzyme Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0887947,C0003209,USES,"Antiretroviral Therapy, Highly Active",Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0887947,C0012798,USES,"Antiretroviral Therapy, Highly Active",Diuretics,topp,phsu,1,USES_TOPPusesPHSU
+C0887947,C0033607,USES,"Antiretroviral Therapy, Highly Active",Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0887947,C1136254,USES,"Antiretroviral Therapy, Highly Active",Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0887947,C3539957,USES,"Antiretroviral Therapy, Highly Active",opium alkaloids and derivative combination cough suppressants,topp,phsu,1,USES_TOPPusesPHSU
+C0920417,C0162713,USES,cancer photoradiation therapy,Photosensitizing Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0920425,C0003402,USES,cancer therapy,Antioxidants,topp,phsu,1,USES_TOPPusesPHSU
+C0920425,C0003404,USES,cancer therapy,Antiparasitic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0920425,C0013162,USES,cancer therapy,Drug Combinations,topp,phsu,1,USES_TOPPusesPHSU
+C0920425,C0162713,USES,cancer therapy,Photosensitizing Agents,topp,phsu,1,USES_TOPPusesPHSU
+C0920425,C0594374,USES,cancer therapy,Topoisomerase I Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C0920425,C1268567,USES,cancer therapy,Protein-tyrosine kinase inhibitor,topp,phsu,1,USES_TOPPusesPHSU
+C0920467,C0697125,USES,disorder control (procedure),Inonotus obliquus preparation,topp,phsu,3,USES_TOPPusesPHSU
+C0920467,C1874451,USES,disorder control (procedure),Basis,topp,phsu,2,USES_TOPPusesPHSU
+C0935576,C0003211,USES,treatment guideline,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C0935576,C3541969,USES,treatment guideline,"Neuraminidase inhibitors, direct acting antivirals",topp,phsu,1,USES_TOPPusesPHSU
+C0947647,C0456386,USES,Manipulation procedure,Medicament,topp,phsu,1,USES_TOPPusesPHSU
+C0947647,C1874451,USES,Manipulation procedure,Basis,topp,phsu,3,USES_TOPPusesPHSU
+C0949216,C0282090,USES,Alternative Therapies,Laxatives,topp,phsu,1,USES_TOPPusesPHSU
+C0949266,C0003280,USES,"Therapies, Investigational",Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C0949266,C0939237,USES,"Therapies, Investigational",lopinavir / Ritonavir,topp,phsu,1,USES_TOPPusesPHSU
+C0949266,C1874451,USES,"Therapies, Investigational",Basis,topp,phsu,1,USES_TOPPusesPHSU
+C0949266,C3539125,USES,"Therapies, Investigational",other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C0949385,C0593802,USES,Ovarian Stimulation,Aromatase Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C1144863,C0309989,USES,Group setting,quantum,topp,phsu,1,USES_TOPPusesPHSU
+C1144863,C3539125,USES,Group setting,other medicated shampoos in ATC,topp,phsu,1,USES_TOPPusesPHSU
+C1171179,C1290000,USES,Allergy management,Hymenoptera venom,topp,phsu,1,USES_TOPPusesPHSU
+C1261381,C4330852,USES,Destructive procedure (surgical),Oligomeric Procyanidin Complex,topp,phsu,2,USES_TOPPusesPHSU
+C1273428,C0076797,USES,Total mesorectal excision,Tolerogen,topp,phsu,1,USES_TOPPusesPHSU
+C1276413,C0003280,USES,Therapeutic regimen,Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C1276413,C0041044,USES,Therapeutic regimen,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C1278454,C0003209,USES,Statin prophylaxis,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1280903,C0003209,USES,Exploration procedure,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1280903,C1874451,USES,Exploration procedure,Basis,topp,phsu,8,USES_TOPPusesPHSU
+C1283075,C1874451,USES,Fusion - action,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C1293116,C0003299,USES,Introduction procedure,Antiepileptic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1293116,C0042397,USES,Introduction procedure,Vasoconstrictor Agents,topp,phsu,3,USES_TOPPusesPHSU
+C1293116,C0302210,USES,Introduction procedure,Gold salt,topp,phsu,2,USES_TOPPusesPHSU
+C1293116,C0593802,USES,Introduction procedure,Aromatase Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C1293116,C0699540,USES,Introduction procedure,Predate,topp,phsu,1,USES_TOPPusesPHSU
+C1293116,C0719214,USES,Introduction procedure,century,topp,phsu,2,USES_TOPPusesPHSU
+C1293116,C1718097,USES,Introduction procedure,New medications,topp,phsu,1,USES_TOPPusesPHSU
+C1293116,C1874451,USES,Introduction procedure,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C1298805,C0003158,USES,Routine procedure,Anthelmintics,topp,phsu,2,USES_TOPPusesPHSU
+C1299597,C0003308,USES,Empirical therapy,Antifungal Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1299597,C0003374,USES,Empirical therapy,Antimalarials,topp,phsu,1,USES_TOPPusesPHSU
+C1299597,C0041044,USES,Empirical therapy,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C1299597,C1136254,USES,Empirical therapy,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C1299622,C0250480,USES,Empirical antibiotic therapy,piperacillin-tazobactam combination,topp,phsu,2,USES_TOPPusesPHSU
+C1320678,C0003209,USES,Pharmacological assessment,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1328526,C4305807,USES,Primary Immunologic Sensitization,LC16M8,topp,phsu,2,USES_TOPPusesPHSU
+C1443861,C0003451,USES,Post-Exposure Prophylaxis,Antiviral Agents,topp,phsu,4,USES_TOPPusesPHSU
+C1443867,C1874451,USES,Standard precautions,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C1504473,C0003402,USES,Herbal Supplements,Antioxidants,topp,phsu,2,USES_TOPPusesPHSU
+C1510425,C0003451,USES,Anti-HIV Therapy,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1510425,C0013162,USES,Anti-HIV Therapy,Drug Combinations,topp,phsu,1,USES_TOPPusesPHSU
+C1510425,C0033607,USES,Anti-HIV Therapy,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C1511300,C1563757,USES,Breast Cancer Therapeutic Procedure,Tubulin Modulators,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C0003280,USES,Detection,Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C0003451,USES,Detection,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C0358591,USES,Detection,Proton Pump Inhibitors,topp,phsu,4,USES_TOPPusesPHSU
+C1511790,C0699540,USES,Detection,Predate,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C1328200,USES,Detection,NM-3,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C1874451,USES,Detection,Basis,topp,phsu,13,USES_TOPPusesPHSU
+C1511790,C2954564,USES,Detection,Suppressor,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C3241999,USES,Detection,limited use,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C3539125,USES,Detection,other medicated shampoos in ATC,topp,phsu,5,USES_TOPPusesPHSU
+C1515119,C0003280,USES,systemic therapy,Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C1515119,C0010858,USES,systemic therapy,Cytostatic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1515119,C0016018,USES,systemic therapy,Fibrinolytic Agents,topp,phsu,2,USES_TOPPusesPHSU
+C1515119,C1874271,USES,systemic therapy,Topical antibacterial,topp,phsu,1,USES_TOPPusesPHSU
+C1515985,C1518041,USES,androgen suppression,Luteinizing Hormone-releasing Hormone Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C1517925,C0042397,USES,Local Therapy,Vasoconstrictor Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1522449,C0456388,USES,Therapeutic radiology procedure,Blood product,topp,phsu,1,USES_TOPPusesPHSU
+C1563738,C1520007,USES,Oncolytic Virotherapy,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C1567676,C0719214,USES,Variolation,century,topp,phsu,1,USES_TOPPusesPHSU
+C1656259,C0003289,USES,preventive Drugs,Antidepressive Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1656259,C0041044,USES,preventive Drugs,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C1656259,C1136254,USES,preventive Drugs,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C1659427,C1136254,USES,Nebulization,Microbicides,topp,phsu,2,USES_TOPPusesPHSU
+C1659427,C2987634,USES,Nebulization,Agonist,topp,phsu,1,USES_TOPPusesPHSU
+C1707479,C0041044,USES,Concomitant Therapy,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C1707479,C2987634,USES,Concomitant Therapy,Agonist,topp,phsu,2,USES_TOPPusesPHSU
+C1708063,C0003419,USES,First line treatment,Antipyretics,topp,phsu,2,USES_TOPPusesPHSU
+C1708063,C0016018,USES,First line treatment,Fibrinolytic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1708063,C0041044,USES,First line treatment,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C1710038,C0003204,USES,Second line treatment,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1963724,C0003451,USES,Antiretroviral therapy,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C1963758,C1874451,USES,Immunomodulation,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C1964029,C0003451,USES,early/brief intervention/therapy (treatment),Antiviral Agents,topp,phsu,2,USES_TOPPusesPHSU
+C1964029,C1874451,USES,early/brief intervention/therapy (treatment),Basis,topp,phsu,1,USES_TOPPusesPHSU
+C1979617,C1718097,USES,Alzheimer's disease treatment,New medications,topp,phsu,1,USES_TOPPusesPHSU
+C2348331,C0036557,USES,Dose Regimen,Sedatives,topp,phsu,1,USES_TOPPusesPHSU
+C2348331,C2698842,USES,Dose Regimen,hiltonol,topp,phsu,2,USES_TOPPusesPHSU
+C2363964,C0003451,USES,Antiviral Administration,Antiviral Agents,topp,phsu,2,USES_TOPPusesPHSU
+C2368628,C1966497,USES,Vaccine Administration,Afluria,topp,phsu,1,USES_TOPPusesPHSU
+C2733531,C0003280,USES,Low molecular weight heparin therapy,Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
+C2827774,C0003195,USES,Current Therapy,Anti-Arrhythmia Agents,topp,phsu,1,USES_TOPPusesPHSU
+C2827774,C0003209,USES,Current Therapy,Anti-Inflammatory Agents,topp,phsu,4,USES_TOPPusesPHSU
+C2827774,C0003374,USES,Current Therapy,Antimalarials,topp,phsu,1,USES_TOPPusesPHSU
+C2827774,C0003451,USES,Current Therapy,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
+C2827774,C0016018,USES,Current Therapy,Fibrinolytic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C2827774,C0376565,USES,Current Therapy,Anti-HIV Agents,topp,phsu,1,USES_TOPPusesPHSU
+C2827774,C1874451,USES,Current Therapy,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C2827950,C0003209,USES,Previous and Current Therapy,Anti-Inflammatory Agents,topp,phsu,2,USES_TOPPusesPHSU
+C2936497,C1874451,USES,Hemovigilance,Basis,topp,phsu,2,USES_TOPPusesPHSU
+C2936643,C0003297,USES,Standard of Care,Antiemetics,topp,phsu,1,USES_TOPPusesPHSU
+C2945704,C0003209,USES,Conventional Treatment,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C2945704,C0003211,USES,Conventional Treatment,"Anti-Inflammatory Agents, Non-Steroidal",topp,phsu,1,USES_TOPPusesPHSU
+C2945704,C0026256,USES,Conventional Treatment,Mitotane,topp,phsu,1,USES_TOPPusesPHSU
+C2945704,C0242708,USES,Conventional Treatment,"Antirheumatic Drugs, Disease-Modifying",topp,phsu,2,USES_TOPPusesPHSU
+C2985566,C0003374,USES,Targeted Therapy,Antimalarials,topp,phsu,1,USES_TOPPusesPHSU
+C2985566,C0033607,USES,Targeted Therapy,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C2985566,C1136254,USES,Targeted Therapy,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C2985566,C1874451,USES,Targeted Therapy,Basis,topp,phsu,1,USES_TOPPusesPHSU
+C3160898,C0015896,USES,Controlled ovarian stimulation,Fertility Agents,topp,phsu,1,USES_TOPPusesPHSU
+C3177188,C0003209,USES,Early Therapy,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C3177188,C0003295,USES,Early Therapy,Antidote,topp,phsu,1,USES_TOPPusesPHSU
+C3177188,C0016018,USES,Early Therapy,Fibrinolytic Agents,topp,phsu,1,USES_TOPPusesPHSU
+C3177188,C0041044,USES,Early Therapy,Trimethoprim-Sulfamethoxazole Combination,topp,phsu,1,USES_TOPPusesPHSU
+C3177188,C0042397,USES,Early Therapy,Vasoconstrictor Agents,topp,phsu,1,USES_TOPPusesPHSU
+C3177188,C3537218,USES,Early Therapy,Neuraminidase Inhibitor [EPC],topp,phsu,1,USES_TOPPusesPHSU
+C3489705,C1520007,USES,Genetic Therapy,viral vector,topp,phsu,1,USES_TOPPusesPHSU
+C3540512,C0012798,USES,Circumferential Supracrestal Fiberotomy,Diuretics,topp,phsu,1,USES_TOPPusesPHSU
+C3650840,C0012798,USES,Traditional therapy,Diuretics,topp,phsu,1,USES_TOPPusesPHSU
+C3825792,C1527991,USES,Pressure breathing,Vigil,topp,phsu,1,USES_TOPPusesPHSU
+C3850098,C0003451,USES,Pre-Exposure Prophylaxis,Antiviral Agents,topp,phsu,4,USES_TOPPusesPHSU
+C3858690,C0003209,USES,adjunctive treatment,Anti-Inflammatory Agents,topp,phsu,1,USES_TOPPusesPHSU
+C3858690,C2936609,USES,adjunctive treatment,Phosphodiesterase 4 Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
+C4520447,C1136255,USES,Decolonization,"Microbicides, Topical",topp,phsu,1,USES_TOPPusesPHSU

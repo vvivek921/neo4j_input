@@ -1,0 +1,135 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005612,C0004610,PREDISPOSES,Birth Weight,Bacteremia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0005612,C0032285,PREDISPOSES,Birth Weight,Pneumonia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0005612,C0035220,PREDISPOSES,Birth Weight,"Respiratory Distress Syndrome, Newborn",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0005612,C1861303,PREDISPOSES,Birth Weight,"SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0005910,C0035222,PREDISPOSES,Body Weight,"Respiratory Distress Syndrome, Adult",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0005910,C0238124,PREDISPOSES,Body Weight,Necrotizing fasciitis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0017504,C0020305,PREDISPOSES,Gestational Age,Hydrops Fetalis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0017504,C0035220,PREDISPOSES,Gestational Age,"Respiratory Distress Syndrome, Newborn",orga,dsyn,3,PREDISPOSES_ORGApredDSYN
+C0017504,C0035235,PREDISPOSES,Gestational Age,Respiratory Syncytial Virus Infections,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0017504,C0036690,PREDISPOSES,Gestational Age,Septicemia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0017504,C0275544,PREDISPOSES,Gestational Age,Congenital infectious disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019425,C0276500,PREDISPOSES,Heterozygote,Human immunodeficiency virus I infection,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019425,C3899988,PREDISPOSES,Heterozygote,Autosomal Recessive Disorder,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019904,C0016627,PREDISPOSES,Homozygote,Influenza in Birds,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019904,C0021400,PREDISPOSES,Homozygote,Influenza,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019904,C0028754,PREDISPOSES,Homozygote,Obesity,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019904,C0276500,PREDISPOSES,Homozygote,Human immunodeficiency virus I infection,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019904,C0376329,PREDISPOSES,Homozygote,New Variant Creutzfeldt-Jakob Disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0019904,C1175175,PREDISPOSES,Homozygote,Severe Acute Respiratory Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0003850,PREDISPOSES,"Immunity, Innate",Arteriosclerosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0004626,PREDISPOSES,"Immunity, Innate","Pneumonia, Bacterial",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0006274,PREDISPOSES,"Immunity, Innate","Bronchiolitis, Viral",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0009450,PREDISPOSES,"Immunity, Innate",Communicable Diseases,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0011847,PREDISPOSES,"Immunity, Innate",Diabetes,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0011860,PREDISPOSES,"Immunity, Innate","Diabetes Mellitus, Non-Insulin-Dependent",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0021400,PREDISPOSES,"Immunity, Innate",Influenza,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0032285,PREDISPOSES,"Immunity, Innate",Pneumonia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0042131,PREDISPOSES,"Immunity, Innate",Uterine Diseases,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0042749,PREDISPOSES,"Immunity, Innate",Viremia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0442886,PREDISPOSES,"Immunity, Innate",Secondary Infections,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C0748168,PREDISPOSES,"Immunity, Innate",Pulmonary Pathology,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0020969,C1264606,PREDISPOSES,"Immunity, Innate",Persistent infection,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0030834,C0004610,PREDISPOSES,Penicillin Resistance,Bacteremia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0079399,C0022658,PREDISPOSES,Gender,Kidney Diseases,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0079399,C0028754,PREDISPOSES,Gender,Obesity,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0079399,C0029408,PREDISPOSES,Gender,Degenerative polyarthritis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0079399,C0036690,PREDISPOSES,Gender,Septicemia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0079399,C0265514,PREDISPOSES,Gender,Dermatofibrosis lenticularis disseminata,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0079399,C1175175,PREDISPOSES,Gender,Severe Acute Respiratory Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0002395,PREDISPOSES,Ability,Alzheimer's Disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0003850,PREDISPOSES,Ability,Arteriosclerosis,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0004096,PREDISPOSES,Ability,Asthma,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0004610,PREDISPOSES,Ability,Bacteremia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0008679,PREDISPOSES,Ability,Chronic disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0009450,PREDISPOSES,Ability,Communicable Diseases,orga,dsyn,3,PREDISPOSES_ORGApredDSYN
+C0085732,C0021400,PREDISPOSES,Ability,Influenza,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0021845,PREDISPOSES,Ability,Intestinal Perforation,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0022660,PREDISPOSES,Ability,"Kidney Failure, Acute",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0022661,PREDISPOSES,Ability,"Kidney Failure, Chronic",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0023240,PREDISPOSES,Ability,Legionellosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0024198,PREDISPOSES,Ability,Lyme Disease,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0024523,PREDISPOSES,Ability,Malabsorption Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0025309,PREDISPOSES,Ability,Meningoencephalitis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0032285,PREDISPOSES,Ability,Pneumonia,orga,dsyn,6,PREDISPOSES_ORGApredDSYN
+C0085732,C0035204,PREDISPOSES,Ability,Respiration Disorders,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0036690,PREDISPOSES,Ability,Septicemia,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0038353,PREDISPOSES,Ability,Gastric Dilatation,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0038826,PREDISPOSES,Ability,Superinfection,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0042769,PREDISPOSES,Ability,Virus Diseases,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0043395,PREDISPOSES,Ability,Yellow Fever,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0085702,PREDISPOSES,Ability,Monocytosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0151317,PREDISPOSES,Ability,Chronic infectious disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0155862,PREDISPOSES,Ability,Streptococcal pneumonia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0162429,PREDISPOSES,Ability,Malnutrition,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0206750,PREDISPOSES,Ability,Coronavirus Infections,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0275524,PREDISPOSES,Ability,Coinfection,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0085732,C0872315,PREDISPOSES,Ability,"Communicable Diseases, Emerging",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C0876973,PREDISPOSES,Ability,Infectious disease of lung,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C1145670,PREDISPOSES,Ability,Respiratory Failure,orga,dsyn,3,PREDISPOSES_ORGApredDSYN
+C0085732,C1561643,PREDISPOSES,Ability,Chronic Kidney Diseases,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0085732,C1861303,PREDISPOSES,Ability,"SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0020676,PREDISPOSES,Females,Hypothyroidism,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0022660,PREDISPOSES,Females,"Kidney Failure, Acute",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0023530,PREDISPOSES,Females,Leukopenia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0026769,PREDISPOSES,Females,Multiple Sclerosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0029456,PREDISPOSES,Females,Osteoporosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0042029,PREDISPOSES,Females,Urinary tract infection,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0162429,PREDISPOSES,Females,Malnutrition,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0205721,PREDISPOSES,Females,"Infections, Hospital",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0206062,PREDISPOSES,Females,"Lung Diseases, Interstitial",orga,dsyn,4,PREDISPOSES_ORGApredDSYN
+C0086287,C0521657,PREDISPOSES,Females,Allergic encephalitis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086287,C0948343,PREDISPOSES,Females,Transfusion-Related Acute Lung Injury,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0009443,PREDISPOSES,Males,Common Cold,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0010054,PREDISPOSES,Males,Coronary Arteriosclerosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0018801,PREDISPOSES,Males,Heart failure,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0032285,PREDISPOSES,Males,Pneumonia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0035243,PREDISPOSES,Males,Respiratory Tract Infections,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0086582,C0042749,PREDISPOSES,Males,Viremia,orga,dsyn,5,PREDISPOSES_ORGApredDSYN
+C0086582,C0085692,PREDISPOSES,Males,Hemorrhagic cystitis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0206062,PREDISPOSES,Males,"Lung Diseases, Interstitial",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0343525,PREDISPOSES,Males,Lemierre Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0400966,PREDISPOSES,Males,Non-alcoholic Fatty Liver Disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0451641,PREDISPOSES,Males,Urolithiasis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0694549,PREDISPOSES,Males,Community acquired pneumonia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C0729531,PREDISPOSES,Males,Viral respiratory infection,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0086582,C2945566,PREDISPOSES,Males,Chronic mucus hypersecretion,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0002395,PREDISPOSES,Predisposition -- attribute,Alzheimer's Disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0004096,PREDISPOSES,Predisposition -- attribute,Asthma,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0008679,PREDISPOSES,Predisposition -- attribute,Chronic disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0009450,PREDISPOSES,Predisposition -- attribute,Communicable Diseases,orga,dsyn,3,PREDISPOSES_ORGApredDSYN
+C0220898,C0010054,PREDISPOSES,Predisposition -- attribute,Coronary Arteriosclerosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0011615,PREDISPOSES,Predisposition -- attribute,"Dermatitis, Atopic",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0018801,PREDISPOSES,Predisposition -- attribute,Heart failure,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0021400,PREDISPOSES,Predisposition -- attribute,Influenza,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0023530,PREDISPOSES,Predisposition -- attribute,Leukopenia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0024535,PREDISPOSES,Predisposition -- attribute,"Malaria, Falciparum",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0029118,PREDISPOSES,Predisposition -- attribute,Opportunistic Infections,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0035222,PREDISPOSES,Predisposition -- attribute,"Respiratory Distress Syndrome, Adult",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0035235,PREDISPOSES,Predisposition -- attribute,Respiratory Syncytial Virus Infections,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0036690,PREDISPOSES,Predisposition -- attribute,Septicemia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0042769,PREDISPOSES,Predisposition -- attribute,Virus Diseases,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0343537,PREDISPOSES,Predisposition -- attribute,Specific viral infections,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C0442886,PREDISPOSES,Predisposition -- attribute,Secondary Infections,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C1175175,PREDISPOSES,Predisposition -- attribute,Severe Acute Respiratory Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C1290884,PREDISPOSES,Predisposition -- attribute,Inflammatory disorder,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0220898,C1609538,PREDISPOSES,Predisposition -- attribute,Latent Tuberculosis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0314657,C0004096,PREDISPOSES,Genetic Predisposition to Disease,Asthma,orga,dsyn,2,PREDISPOSES_ORGApredDSYN
+C0314657,C0035222,PREDISPOSES,Genetic Predisposition to Disease,"Respiratory Distress Syndrome, Adult",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0314657,C0149725,PREDISPOSES,Genetic Predisposition to Disease,Lower respiratory tract infection,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0314657,C1175175,PREDISPOSES,Genetic Predisposition to Disease,Severe Acute Respiratory Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0489625,C0040479,PREDISPOSES,qtc interval,Torsades de Pointes,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0489625,C0085612,PREDISPOSES,qtc interval,Ventricular arrhythmia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0489767,C0020538,PREDISPOSES,salt intake,Hypertensive disease,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0489767,C1565489,PREDISPOSES,salt intake,Renal Insufficiency,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0597140,C0026267,PREDISPOSES,oral tolerance,Mitral Valve Prolapse Syndrome,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0597653,C0004096,PREDISPOSES,virus infection mechanism,Asthma,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0678922,C0007785,PREDISPOSES,genetic trait,Cerebral Infarction,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C0949670,C0021400,PREDISPOSES,"Drug Resistance, Viral",Influenza,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C1136169,C0001883,PREDISPOSES,Pathogenicity,Airway Obstruction,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C1136169,C0008677,PREDISPOSES,Pathogenicity,"Bronchitis, Chronic",orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C1136169,C0030552,PREDISPOSES,Pathogenicity,Paresis,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C1136169,C0032285,PREDISPOSES,Pathogenicity,Pneumonia,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C1254472,C0030469,PREDISPOSES,anatomic variant,Paranasal Sinus Diseases,orga,dsyn,1,PREDISPOSES_ORGApredDSYN
+C4042916,C0014059,PREDISPOSES,Genetic Background,"Encephalomyelitis, Acute Disseminated",orga,dsyn,1,PREDISPOSES_ORGApredDSYN

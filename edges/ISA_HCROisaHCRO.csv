@@ -1,0 +1,91 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000872,C0018704,ISA,Academic Medical Centers,Health care facility,hcro,hcro,2,ISA_HCROisaHCRO
+C0002424,C0018704,ISA,Ambulatory Care Facilities,Health care facility,hcro,hcro,5,ISA_HCROisaHCRO
+C0007670,C0041711,ISA,Centers for Disease Control and Prevention (U.S.),United States Dept. of Health and Human Services,hcro,hcro,4,ISA_HCROisaHCRO
+C0009469,C0018704,ISA,Community Health Centers,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0009478,C0018704,ISA,Community Pharmacies,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0009478,C0031322,ISA,Community Pharmacies,Pharmacy facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0010066,C0021708,ISA,Coronary Care Units,intensive care unit,hcro,hcro,1,ISA_HCROisaHCRO
+C0011344,C0018704,ISA,Dental Clinics,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0018720,C0002424,ISA,Health Maintenance Organizations,Ambulatory Care Facilities,hcro,hcro,1,ISA_HCROisaHCRO
+C0018720,C1708333,ISA,Health Maintenance Organizations,Health Care Organization,hcro,hcro,1,ISA_HCROisaHCRO
+C0019947,C0037265,ISA,hospice environment,skilled nursing facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0019994,C0018704,ISA,Hospitals,Health care facility,hcro,hcro,75,ISA_HCROisaHCRO
+C0019994,C0037265,ISA,Hospitals,skilled nursing facility,hcro,hcro,9,ISA_HCROisaHCRO
+C0019996,C0018704,ISA,"Hospitals, Animal",Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0020003,C0019994,ISA,"Hospitals, Community",Hospitals,hcro,hcro,7,ISA_HCROisaHCRO
+C0020005,C0019994,ISA,"Hospitals, County",Hospitals,hcro,hcro,3,ISA_HCROisaHCRO
+C0020006,C0019994,ISA,"Hospitals, District",Hospitals,hcro,hcro,10,ISA_HCROisaHCRO
+C0020008,C0018704,ISA,"Hospitals, General",Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0020008,C0019994,ISA,"Hospitals, General",Hospitals,hcro,hcro,11,ISA_HCROisaHCRO
+C0020013,C0019994,ISA,"Hospitals, Municipal",Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0020017,C0019994,ISA,"Hospitals, Pediatric",Hospitals,hcro,hcro,19,ISA_HCROisaHCRO
+C0020021,C0018704,ISA,Psychiatric hospital,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0020021,C0019994,ISA,Psychiatric hospital,Hospitals,hcro,hcro,2,ISA_HCROisaHCRO
+C0020022,C0019994,ISA,"Hospitals, Public",Hospitals,hcro,hcro,6,ISA_HCROisaHCRO
+C0020023,C0019994,ISA,"Hospitals, Rural",Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0020025,C0018704,ISA,special hospital,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0020025,C0019994,ISA,special hospital,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0020027,C0019994,ISA,Teaching Hospitals,Hospitals,hcro,hcro,2,ISA_HCROisaHCRO
+C0020028,C0000872,ISA,"Hospitals, University",Academic Medical Centers,hcro,hcro,1,ISA_HCROisaHCRO
+C0020028,C0018704,ISA,"Hospitals, University",Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0020028,C0019994,ISA,"Hospitals, University",Hospitals,hcro,hcro,22,ISA_HCROisaHCRO
+C0020029,C0019994,ISA,"Hospitals, Urban",Hospitals,hcro,hcro,4,ISA_HCROisaHCRO
+C0021708,C0018704,ISA,intensive care unit,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0021708,C0019988,ISA,intensive care unit,Hospital Units,hcro,hcro,2,ISA_HCROisaHCRO
+C0021708,C0019994,ISA,intensive care unit,Hospitals,hcro,hcro,61,ISA_HCROisaHCRO
+C0021709,C0019994,ISA,"Intensive Care Units, Neonatal",Hospitals,hcro,hcro,2,ISA_HCROisaHCRO
+C0021709,C0021708,ISA,"Intensive Care Units, Neonatal",intensive care unit,hcro,hcro,3,ISA_HCROisaHCRO
+C0021710,C0021708,ISA,Pediatric intensive care unit,intensive care unit,hcro,hcro,1,ISA_HCROisaHCRO
+C0022877,C0018704,ISA,Laboratory,Health care facility,hcro,hcro,7,ISA_HCROisaHCRO
+C0022879,C0019994,ISA,"Laboratories, Hospital",Hospitals,hcro,hcro,3,ISA_HCROisaHCRO
+C0022879,C0022877,ISA,"Laboratories, Hospital",Laboratory,hcro,hcro,1,ISA_HCROisaHCRO
+C0027450,C0007670,ISA,National Center for Health Statistics (U.S.),Centers for Disease Control and Prevention (U.S.),hcro,hcro,1,ISA_HCROisaHCRO
+C0027463,C0007670,ISA,National Institute for Occupational Safety and Health (U.S.),Centers for Disease Control and Prevention (U.S.),hcro,hcro,2,ISA_HCROisaHCRO
+C0027468,C0041711,ISA,United States National Institutes of Health,United States Dept. of Health and Human Services,hcro,hcro,4,ISA_HCROisaHCRO
+C0028688,C0018704,ISA,Nursing Homes,Health care facility,hcro,hcro,3,ISA_HCROisaHCRO
+C0028688,C0035186,ISA,Nursing Homes,Residential Facilities,hcro,hcro,1,ISA_HCROisaHCRO
+C0028688,C0037265,ISA,Nursing Homes,skilled nursing facility,hcro,hcro,9,ISA_HCROisaHCRO
+C0029064,C0019994,ISA,Operating Room,Hospitals,hcro,hcro,5,ISA_HCROisaHCRO
+C0031322,C0018704,ISA,Pharmacy facility,Health care facility,hcro,hcro,2,ISA_HCROisaHCRO
+C0033173,C0019994,ISA,"Hospitals, Private",Hospitals,hcro,hcro,5,ISA_HCROisaHCRO
+C0034871,C0021708,ISA,Postoperative anesthesia care unit (PACU),intensive care unit,hcro,hcro,2,ISA_HCROisaHCRO
+C0034993,C0019994,ISA,Rehabilitation Centers,Hospitals,hcro,hcro,2,ISA_HCROisaHCRO
+C0034993,C0020025,ISA,Rehabilitation Centers,special hospital,hcro,hcro,1,ISA_HCROisaHCRO
+C0035215,C0021708,ISA,Respiratory Care Units,intensive care unit,hcro,hcro,1,ISA_HCROisaHCRO
+C0036378,C0000872,ISA,"Schools, Medical",Academic Medical Centers,hcro,hcro,1,ISA_HCROisaHCRO
+C0036378,C0018704,ISA,"Schools, Medical",Health care facility,hcro,hcro,3,ISA_HCROisaHCRO
+C0040786,C0019994,ISA,Trauma Centers,Hospitals,hcro,hcro,6,ISA_HCROisaHCRO
+C0041704,C0041711,ISA,United States Substance Abuse and Mental Health Services Administration,United States Dept. of Health and Human Services,hcro,hcro,2,ISA_HCROisaHCRO
+C0041714,C0041711,ISA,United States Food and Drug Administration,United States Dept. of Health and Human Services,hcro,hcro,4,ISA_HCROisaHCRO
+C0041718,C0041711,ISA,Centers for Medicare and Medicaid Services,United States Dept. of Health and Human Services,hcro,hcro,1,ISA_HCROisaHCRO
+C0041734,C0041711,ISA,United States Public Health Service,United States Dept. of Health and Human Services,hcro,hcro,1,ISA_HCROisaHCRO
+C0221502,C0019994,ISA,infirmaries,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0260015,C0018704,ISA,Field Hospitals,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C0260015,C0019994,ISA,Field Hospitals,Hospitals,hcro,hcro,5,ISA_HCROisaHCRO
+C0442592,C0002424,ISA,Clinic,Ambulatory Care Facilities,hcro,hcro,5,ISA_HCROisaHCRO
+C0442592,C0018704,ISA,Clinic,Health care facility,hcro,hcro,6,ISA_HCROisaHCRO
+C0558280,C0019994,ISA,Morgue,Hospitals,hcro,hcro,2,ISA_HCROisaHCRO
+C0562508,C0018704,ISA,Accident and Emergency department,Health care facility,hcro,hcro,2,ISA_HCROisaHCRO
+C0562508,C0019994,ISA,Accident and Emergency department,Hospitals,hcro,hcro,11,ISA_HCROisaHCRO
+C0565990,C0018704,ISA,Medical center,Health care facility,hcro,hcro,2,ISA_HCROisaHCRO
+C0565990,C0019994,ISA,Medical center,Hospitals,hcro,hcro,26,ISA_HCROisaHCRO
+C0587437,C0018704,ISA,Tertiary Care Centers,Health care facility,hcro,hcro,4,ISA_HCROisaHCRO
+C0587437,C0019994,ISA,Tertiary Care Centers,Hospitals,hcro,hcro,34,ISA_HCROisaHCRO
+C0587444,C0019994,ISA,Radiotherapy department,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0587445,C0019994,ISA,Adult intensive care unit,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0587445,C0021708,ISA,Adult intensive care unit,intensive care unit,hcro,hcro,1,ISA_HCROisaHCRO
+C0587494,C0019994,ISA,Psychiatry department,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0587500,C0019994,ISA,Radiology department,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0587501,C0019994,ISA,Occupational health department,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C0587503,C0019994,ISA,Surgical department,Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C1274027,C0442592,ISA,Antenatal clinic,Clinic,hcro,hcro,1,ISA_HCROisaHCRO
+C1305702,C0018704,ISA,Ward (environment),Health care facility,hcro,hcro,2,ISA_HCROisaHCRO
+C1305702,C0019994,ISA,Ward (environment),Hospitals,hcro,hcro,9,ISA_HCROisaHCRO
+C1513882,C0027468,ISA,National Cancer Institute,United States National Institutes of Health,hcro,hcro,14,ISA_HCROisaHCRO
+C1513882,C0041711,ISA,National Cancer Institute,United States Dept. of Health and Human Services,hcro,hcro,2,ISA_HCROisaHCRO
+C1513895,C0027468,ISA,National Institute of Allergy and Infectious Diseases (U.S.),United States National Institutes of Health,hcro,hcro,21,ISA_HCROisaHCRO
+C2350580,C0019994,ISA,"Hospitals, Isolation",Hospitals,hcro,hcro,1,ISA_HCROisaHCRO
+C3242770,C0018704,ISA,Medical Laboratory,Health care facility,hcro,hcro,1,ISA_HCROisaHCRO
+C3658282,C0019994,ISA,Secondary Care Centers,Hospitals,hcro,hcro,2,ISA_HCROisaHCRO
+C4047661,C0021708,ISA,Trauma intensive care unit,intensive care unit,hcro,hcro,1,ISA_HCROisaHCRO

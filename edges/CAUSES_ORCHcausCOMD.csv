@@ -1,0 +1,102 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0596402,CAUSES,Acetaminophen,cytotoxicity,orch,comd,2,CAUSES_ORCHcausCOMD
+C0001962,C0027746,CAUSES,Ethanol,Nerve Degeneration,orch,comd,1,CAUSES_ORCHcausCOMD
+C0001962,C0242606,CAUSES,Ethanol,Oxidative Stress,orch,comd,2,CAUSES_ORCHcausCOMD
+C0002062,C0242606,CAUSES,Alkaloids,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0002403,C0596402,CAUSES,Amantadine,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0002502,C0596402,CAUSES,Amiloride,cytotoxicity,orch,comd,2,CAUSES_ORCHcausCOMD
+C0003392,C0596402,CAUSES,Antineoplastic Agents,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0003392,C0919532,CAUSES,Antineoplastic Agents,Genomic Instability,orch,comd,1,CAUSES_ORCHcausCOMD
+C0005026,C0598309,CAUSES,Benzalkonium Chloride,genotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0006507,C0012860,CAUSES,Butylated Hydroxytoluene,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0006507,C0242606,CAUSES,Butylated Hydroxytoluene,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0006863,C0012860,CAUSES,Cannabidiol,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0008269,C0596402,CAUSES,Chloroquine,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0008269,C0599732,CAUSES,Chloroquine,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0010583,C0242606,CAUSES,Cyclophosphamide,Oxidative Stress,orch,comd,5,CAUSES_ORCHcausCOMD
+C0010583,C0919532,CAUSES,Cyclophosphamide,Genomic Instability,orch,comd,1,CAUSES_ORCHcausCOMD
+C0011777,C0242606,CAUSES,Dexamethasone,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0012403,C0242606,CAUSES,Dimethyl Sulfoxide,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0012403,C0596402,CAUSES,Dimethyl Sulfoxide,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0012403,C0599732,CAUSES,Dimethyl Sulfoxide,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0012403,C1516373,CAUSES,Dimethyl Sulfoxide,Cellular Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0015075,C0302113,CAUSES,Ethylene,Fragility,orch,comd,1,CAUSES_ORCHcausCOMD
+C0015133,C0012860,CAUSES,Etoposide,DNA Damage,orch,comd,4,CAUSES_ORCHcausCOMD
+C0015688,C0242606,CAUSES,Nonesterified Fatty Acids,Oxidative Stress,orch,comd,2,CAUSES_ORCHcausCOMD
+C0015688,C3178870,CAUSES,Nonesterified Fatty Acids,Endoplasmic Reticulum Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0016410,C0008629,CAUSES,Folic Acid,Chromosome Fragility,orch,comd,1,CAUSES_ORCHcausCOMD
+C0020336,C0596402,CAUSES,Hydroxychloroquine,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0022239,C1517332,CAUSES,Isopropyl Thiogalactoside,Fusion Protein Expression,orch,comd,1,CAUSES_ORCHcausCOMD
+C0023779,C0242606,CAUSES,Lipids,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0023779,C0599732,CAUSES,Lipids,cell injury,orch,comd,3,CAUSES_ORCHcausCOMD
+C0023810,C0025568,CAUSES,Lipopolysaccharides,Metaplasia,orch,comd,2,CAUSES_ORCHcausCOMD
+C0023810,C0242606,CAUSES,Lipopolysaccharides,Oxidative Stress,orch,comd,7,CAUSES_ORCHcausCOMD
+C0023810,C0398740,CAUSES,Lipopolysaccharides,Impaired phagocytosis,orch,comd,1,CAUSES_ORCHcausCOMD
+C0023810,C0596402,CAUSES,Lipopolysaccharides,cytotoxicity,orch,comd,2,CAUSES_ORCHcausCOMD
+C0023810,C0599732,CAUSES,Lipopolysaccharides,cell injury,orch,comd,2,CAUSES_ORCHcausCOMD
+C0023810,C4505047,CAUSES,Lipopolysaccharides,Nitrosative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0025270,C0242606,CAUSES,Vitamin K 3,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0027375,C0596402,CAUSES,Naphthalene,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0028017,C0162735,CAUSES,Niclosamide,Point Mutation,orch,comd,1,CAUSES_ORCHcausCOMD
+C0028073,C0242606,CAUSES,Nifurtimox,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0028203,C0597561,CAUSES,Nitrosoguanidines,temperature sensitive mutant,orch,comd,1,CAUSES_ORCHcausCOMD
+C0031701,C0242606,CAUSES,Phosphoric Acid Esters,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0032594,C0596402,CAUSES,Polysaccharides,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0033223,C0919532,CAUSES,Procarbazine,Genomic Instability,orch,comd,1,CAUSES_ORCHcausCOMD
+C0034392,C0242606,CAUSES,Quercetin,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0034392,C0596402,CAUSES,Quercetin,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0034435,C0012860,CAUSES,Quinones,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0035549,C0599732,CAUSES,Ribose,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0036189,C0596402,CAUSES,Saponins,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0037556,C0596402,CAUSES,Sodium Tetradecyl Sulfate,cytotoxicity,orch,comd,2,CAUSES_ORCHcausCOMD
+C0038317,C0242606,CAUSES,Steroids,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0039245,C0596402,CAUSES,Tacrine,cytotoxicity,orch,comd,2,CAUSES_ORCHcausCOMD
+C0039848,C0596402,CAUSES,Thiamine Pyrophosphate,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0042839,C0025568,CAUSES,Vitamin A,Metaplasia,orch,comd,1,CAUSES_ORCHcausCOMD
+C0045137,C0596402,CAUSES,isoliquiritigenin,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0046563,C0242606,CAUSES,2-tert-butylhydroquinone,Oxidative Stress,orch,comd,2,CAUSES_ORCHcausCOMD
+C0057642,C0012860,CAUSES,di-(4-aminophenyl)ether,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0059438,C0242606,CAUSES,epigallocatechin gallate,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0059804,C0012860,CAUSES,ethylene diurea,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0060425,C0596402,CAUSES,flavanone,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0061751,C0596402,CAUSES,Glycyrrhizic Acid,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0064494,C0599732,CAUSES,carboxyamido-triazole,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0066350,C0596402,CAUSES,methylene dimethanesulfonate,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0067068,C0242606,CAUSES,myricitrin,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0068314,C0012860,CAUSES,valrubicin,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0068788,C3178870,CAUSES,nitazoxanide,Endoplasmic Reticulum Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0070799,C0541642,CAUSES,phosphatidylinositol 4-phosphate,Membrane Alteration,orch,comd,1,CAUSES_ORCHcausCOMD
+C0071649,C0242606,CAUSES,polyphenols,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0073096,C0596402,CAUSES,resveratrol,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0074002,C0596402,CAUSES,Salsolinol,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0075193,C0596402,CAUSES,Staurosporine,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0077938,C0596402,CAUSES,ursolic acid,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0078260,C0596402,CAUSES,vinyl acetate,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0079225,C0012860,CAUSES,Dextran Sulfate Sodium,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0085196,C0596402,CAUSES,Oxidopamine,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0085752,C0596402,CAUSES,Adriamycin,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0144576,C0002938,CAUSES,Paclitaxel,Aneuploidy,orch,comd,1,CAUSES_ORCHcausCOMD
+C0166979,C0242606,CAUSES,dimethyl mercury,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C0178638,C0596402,CAUSES,Folate,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0520481,C0596402,CAUSES,Saponin,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0525082,C0599732,CAUSES,linsidomine,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0525678,C0027746,CAUSES,rasagiline,Nerve Degeneration,orch,comd,1,CAUSES_ORCHcausCOMD
+C0525678,C0242606,CAUSES,rasagiline,Oxidative Stress,orch,comd,2,CAUSES_ORCHcausCOMD
+C0605290,C0596402,CAUSES,SAS,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0637815,C0599732,CAUSES,eckol,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0669017,C0596402,CAUSES,DY 9760e,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0718566,C0599732,CAUSES,Anti-Fungal,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C0723179,C0242606,CAUSES,SSD,Oxidative Stress,orch,comd,2,CAUSES_ORCHcausCOMD
+C0905527,C0012860,CAUSES,gypenoside,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0909820,C0012860,CAUSES,salvicine,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C0909820,C0596402,CAUSES,salvicine,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C0949665,C1511665,CAUSES,Fluoroquinolones,DNA Crosslinking,orch,comd,1,CAUSES_ORCHcausCOMD
+C1176309,C0596402,CAUSES,bortezomib,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C1516873,C0012860,CAUSES,Enediyne Antineoplastic Antibiotic,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C1723699,C0596402,CAUSES,liquiritin,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C1955897,C0242606,CAUSES,Withanolides,Oxidative Stress,orch,comd,1,CAUSES_ORCHcausCOMD
+C1956368,C0596402,CAUSES,nutlin-3A,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD
+C1958391,C0012860,CAUSES,chimmitecan,DNA Damage,orch,comd,1,CAUSES_ORCHcausCOMD
+C2728259,C0002938,CAUSES,Program,Aneuploidy,orch,comd,1,CAUSES_ORCHcausCOMD
+C2931926,C0599732,CAUSES,ruxolitinib,cell injury,orch,comd,1,CAUSES_ORCHcausCOMD
+C4050026,C0596402,CAUSES,Matrix,cytotoxicity,orch,comd,1,CAUSES_ORCHcausCOMD

@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004048,C0005775,PRECEDES,Inspiration function,Blood Circulation,orgf,phsf,5,PRECEDES_ORGFprcdPHSF
+C0004048,C0035245,PRECEDES,Inspiration function,Respiratory physiology,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0004048,C0243144,PRECEDES,Inspiration function,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0004048,C0678662,PRECEDES,Inspiration function,regulatory loop,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0004048,C1514892,PRECEDES,Inspiration function,Resistance Process,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C0005775,PRECEDES,Birth,Blood Circulation,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C0020964,PRECEDES,Birth,Immunity,orgf,phsf,3,PRECEDES_ORGFprcdPHSF
+C0005615,C0242732,PRECEDES,Birth,Tropism,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C0243144,PRECEDES,Birth,Uptake,orgf,phsf,3,PRECEDES_ORGFprcdPHSF
+C0005615,C2370956,PRECEDES,Birth,Proprioceptive function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C3179230,PRECEDES,Birth,Anti-Angiogenesis Effect,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0011065,C0020964,PRECEDES,Cessation of life,Immunity,orgf,phsf,2,PRECEDES_ORGFprcdPHSF
+C0011065,C0442696,PRECEDES,Cessation of life,Waking,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C0243144,PRECEDES,Digestion,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0231800,C0035203,PRECEDES,"Expiration, function",Respiration,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0301887,C0020964,PRECEDES,Low dose immunologic tolerance,Immunity,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1160185,C0243144,PRECEDES,transduction,Uptake,orgf,phsf,4,PRECEDES_ORGFprcdPHSF
+C1749719,C0221102,PRECEDES,Adaptive Immune Response,Excretory function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C2985494,C0005775,PRECEDES,Resorption,Blood Circulation,orgf,phsf,1,PRECEDES_ORGFprcdPHSF

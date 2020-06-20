@@ -1,0 +1,378 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0026597,AUGMENTS,Actins,Motion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0001271,C0031164,AUGMENTS,Actins,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0001271,C0042784,AUGMENTS,Actins,Viscosity,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0001291,C0026597,AUGMENTS,Actomyosin,Motion,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0001924,C0031164,AUGMENTS,Albumins,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0002520,C0007382,AUGMENTS,Amino Acids,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0002520,C0016315,AUGMENTS,Amino Acids,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0002520,C0031164,AUGMENTS,Amino Acids,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0002723,C2348693,AUGMENTS,Serum amyloid A protein,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003009,C0031164,AUGMENTS,angiotensin II,Permeability,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C0003011,C0031164,AUGMENTS,"Receptor, Angiotensin II",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003241,C0017982,AUGMENTS,Antibodies,glycosylation,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0003241,C0031164,AUGMENTS,Antibodies,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003241,C0162524,AUGMENTS,Antibodies,Chemiluminescence,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0003241,C2348693,AUGMENTS,Antibodies,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003241,C3826426,AUGMENTS,Antibodies,Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003241,C4042908,AUGMENTS,Antibodies,Seroconversion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003242,C0032931,AUGMENTS,"Antibodies, Anti-Idiotypic",Precipitation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003242,C0038887,AUGMENTS,"Antibodies, Anti-Idiotypic",Surface Tension,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003250,C0016315,AUGMENTS,Monoclonal Antibodies,Fluorescence,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0003250,C0017982,AUGMENTS,Monoclonal Antibodies,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0003765,C0031164,AUGMENTS,Arginine,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0006100,C0031164,AUGMENTS,Bradykinin,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0006685,C0031164,AUGMENTS,Calcium Channel,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0006938,C0042333,AUGMENTS,Captopril,Variation (Genetics),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0007578,C0022702,AUGMENTS,Cell Adhesion Molecules,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0008356,C2348693,AUGMENTS,Cholera Toxin,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0009498,C0004645,AUGMENTS,Complement System Proteins,Bacteriolysis,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0010289,C0016701,AUGMENTS,"Creatine Kinase, BB Form",Freezing,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0010590,C0022702,AUGMENTS,Cycloserine,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0010654,C0376525,AUGMENTS,Cysteine,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0010656,C0031164,AUGMENTS,caspase,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0014294,C0029391,AUGMENTS,"Enkephalin, Leucine",Osmosis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0016006,C3826426,AUGMENTS,Fibrinogen,Dynamics,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0016055,C0031164,AUGMENTS,Fibronectins,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0017278,C0031164,AUGMENTS,"Gene Products, env",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0017375,C0459800,AUGMENTS,tat Genes,Vibration - physical agent,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0017645,C0020291,AUGMENTS,Globin,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0017649,C1514217,AUGMENTS,Globulins,Polyvalence,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0017757,C0376525,AUGMENTS,Glucosephosphate Dehydrogenase,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0017817,C1709375,AUGMENTS,Glutathione,Oxidation-Reduction Potential,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0017968,C2717975,AUGMENTS,Glycoproteins,Virus Release,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0018284,C0005495,AUGMENTS,Growth Factor,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0018284,C0337026,AUGMENTS,Growth Factor,Blast (physical force),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0018296,C0020291,AUGMENTS,Guanosine Triphosphate Phosphohydrolases,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0019046,C0012222,AUGMENTS,Hemoglobin,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0019046,C0020291,AUGMENTS,Hemoglobin,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0019602,C0010546,AUGMENTS,Histidine,Cyclization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0019602,C0020276,AUGMENTS,Histidine,Hydrogen Bonding,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0020197,C0012222,AUGMENTS,Hyaluronidase,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0020731,C0031164,AUGMENTS,Pertussis Toxin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021088,C1948023,AUGMENTS,IMP Dehydrogenase,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021699,C0031164,AUGMENTS,Integral Membrane Proteins,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021699,C2717975,AUGMENTS,Integral Membrane Proteins,Virus Release,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0021743,C1948023,AUGMENTS,Interferon Type I,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021747,C0031164,AUGMENTS,Interferons,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021747,C0243052,AUGMENTS,Interferons,Virus Physiological Phenomena,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0021753,C0031164,AUGMENTS,Interleukin-1 beta,Permeability,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C0021753,C0042730,AUGMENTS,Interleukin-1 beta,Viral Interference,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021755,C0031164,AUGMENTS,Interleukin-1,Permeability,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C0021755,C3826426,AUGMENTS,Interleukin-1,Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021758,C0031164,AUGMENTS,Interleukin-4,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0021760,C0017982,AUGMENTS,Interleukin-6,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0021760,C0031164,AUGMENTS,Interleukin-6,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0022009,C0806140,AUGMENTS,Ion Channel,Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0022009,C2717975,AUGMENTS,Ion Channel,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0023206,C0016315,AUGMENTS,Lectin,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0024075,C1450275,AUGMENTS,Luciferases,luminescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0024337,C0010546,AUGMENTS,Lysine,Cyclization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0024337,C0597571,AUGMENTS,Lysine,thermostability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0025252,C0031164,AUGMENTS,Membrane Proteins,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0025252,C2717975,AUGMENTS,Membrane Proteins,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0025543,C0007382,AUGMENTS,Metalloproteases,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0026682,C0031164,AUGMENTS,Mucins,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0026682,C0042784,AUGMENTS,Mucins,Viscosity,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0026682,C0162358,AUGMENTS,Mucins,Ecosystem,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0026682,C0178576,AUGMENTS,Mucins,Cross link,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0026794,C3850077,AUGMENTS,Muramidase,Drug Liberation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0027803,C0012222,AUGMENTS,Neuraminidase,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0027803,C0678595,AUGMENTS,Neuraminidase,peptide bond,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0027803,C2717975,AUGMENTS,Neuraminidase,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0030940,C0016315,AUGMENTS,Peptide Hydrolases,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0030940,C0031164,AUGMENTS,Peptide Hydrolases,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0030940,C2717975,AUGMENTS,Peptide Hydrolases,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0030940,C2936413,AUGMENTS,Peptide Hydrolases,Host Range,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0030946,C0016315,AUGMENTS,Endopeptidases,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0030946,C0376525,AUGMENTS,Endopeptidases,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0031453,C0017982,AUGMENTS,Phenylalanine,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0031727,C0376525,AUGMENTS,Phosphotransferases,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0033164,C0596583,AUGMENTS,Prions,Food Chain,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0033382,C0010546,AUGMENTS,Proline,Cyclization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0033634,C2348693,AUGMENTS,Protein Kinase C,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0034800,C1948023,AUGMENTS,"Receptors, Cell Surface",Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0034800,C2717975,AUGMENTS,"Receptors, Cell Surface",Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0034802,C0376525,AUGMENTS,Epidermal Growth Factor Receptor,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0034848,C0031164,AUGMENTS,"Receptors, Virus",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0034861,C0007382,AUGMENTS,Recombinant Proteins,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0036720,C0017982,AUGMENTS,Serine,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0036774,C0016315,AUGMENTS,"Serum Albumin, Bovine",Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0040005,C0017982,AUGMENTS,Threonine,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0040018,C0016248,AUGMENTS,Thrombin,Floods,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0040018,C0020291,AUGMENTS,Thrombin,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0040018,C0031164,AUGMENTS,Thrombin,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0040648,C1948023,AUGMENTS,TRANSCRIPTION FACTOR,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0040691,C0031164,AUGMENTS,Transforming Growth Factors,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0040691,C0376525,AUGMENTS,Transforming Growth Factors,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0041368,C0031164,AUGMENTS,Tumor Necrosis Factors,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0041485,C0178576,AUGMENTS,Tyrosine,Cross link,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042085,C0016315,AUGMENTS,UROPORPHYRINOGEN DECARBOXYLASE,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042172,C0031164,AUGMENTS,E-Cadherin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042720,C2717976,AUGMENTS,Viral Genome,Virus Budding,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042736,C0017982,AUGMENTS,Viral Proteins,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042736,C0031164,AUGMENTS,Viral Proteins,Permeability,aapp,npop,5,AUGMENTS_AAPPaugmNPOP
+C0042736,C0042730,AUGMENTS,Viral Proteins,Viral Interference,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042736,C2717975,AUGMENTS,Viral Proteins,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0042736,C3826426,AUGMENTS,Viral Proteins,Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0043316,C0031164,AUGMENTS,Xanthine Dehydrogenase,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0051978,C0596836,AUGMENTS,Anti-Immunoglobulin E antibody,Light intensity,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0051979,C0016315,AUGMENTS,anti-IgG,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0053932,C0020291,AUGMENTS,Bone Morphogenetic Proteins,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0054450,C1948023,AUGMENTS,Calcineurin,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0054878,C0031164,AUGMENTS,cationic antimicrobial protein CAP 37,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0055633,C0376525,AUGMENTS,Chromogranin A,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0056080,C0022702,AUGMENTS,cofilin,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0056864,C0022702,AUGMENTS,"cystatin, egg-white",Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0061472,C0010546,AUGMENTS,Glutamic Acid,Cyclization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0063695,C0001515,AUGMENTS,Intercellular adhesion molecule 1,Adhesiveness,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0063695,C0031164,AUGMENTS,Intercellular adhesion molecule 1,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0063695,C0376525,AUGMENTS,Intercellular adhesion molecule 1,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0065827,C0007382,AUGMENTS,Measles Virus Nucleoprotein,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0066030,C0012222,AUGMENTS,messenger ribonucleoprotein,Diffusion,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0068355,C0162524,AUGMENTS,NADPH Oxidase,Chemiluminescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0068355,C2348693,AUGMENTS,NADPH Oxidase,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0069151,C0012222,AUGMENTS,Nucleoside Transporter,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0070410,C0031164,AUGMENTS,perforin,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0071795,C0376525,AUGMENTS,2-5A-dependent ribonuclease,Dimerization,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0072978,C0022702,AUGMENTS,RANTES,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0075278,C0806140,AUGMENTS,Streptavidin,Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0078057,C0031164,AUGMENTS,vascular factor,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0079050,C0178576,AUGMENTS,c-abl Proto-Oncogenes,Cross link,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0079073,C1948023,AUGMENTS,c-src Genes,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0079189,C0031164,AUGMENTS,cytokine,Permeability,aapp,npop,12,AUGMENTS_AAPPaugmNPOP
+C0079189,C1563772,AUGMENTS,cytokine,Bacterial Viability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0079419,C0851346,AUGMENTS,TP53 gene,Radiation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0079459,C0031164,AUGMENTS,Granulocyte Colony-Stimulating Factor,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0079471,C0012222,AUGMENTS,HRAS gene,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0084692,C0017982,AUGMENTS,Pulmonary Surfactant-Associated Protein D,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0084697,C0022702,AUGMENTS,Synaptotagmins,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0085139,C0020291,AUGMENTS,Kinesin,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0085139,C3826426,AUGMENTS,Kinesin,Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0085249,C0017982,AUGMENTS,glycosyltransferase,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0085295,C0031164,AUGMENTS,Interleukin-10,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0085297,C0042784,AUGMENTS,"Immunoglobulins, Intravenous",Viscosity,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0086376,C4042908,AUGMENTS,GTP-Binding Proteins,Seroconversion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0101725,C0031164,AUGMENTS,receptor for advanced glycation endproducts,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0114967,C0031164,AUGMENTS,Dermatophagoides pteronyssinus antigen p 1,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0115305,C0031164,AUGMENTS,E-Selectin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0120285,C0016315,AUGMENTS,Green Fluorescent Proteins,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0120465,C0031164,AUGMENTS,Guanine Nucleotide Exchange Factors,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0128897,C0031164,AUGMENTS,Monocyte Chemoattractant Protein-1,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0143247,C0020291,AUGMENTS,Saposin B,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0162768,C2717975,AUGMENTS,Fusion protein,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0165519,C0031164,AUGMENTS,Matrix Metalloproteinase 9,Permeability,aapp,npop,4,AUGMENTS_AAPPaugmNPOP
+C0172537,C0031164,AUGMENTS,Matrix Metalloproteinase 2,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0206364,C0376525,AUGMENTS,Receptor Protein-Tyrosine Kinases,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0214743,C0031164,AUGMENTS,Interleukin-13,Permeability,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C0243041,C0009264,AUGMENTS,Molecular Chaperones,Cold Temperature,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0243041,C0017982,AUGMENTS,Molecular Chaperones,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0243043,C2348693,AUGMENTS,Heat-Shock Proteins 70,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0243795,C0020291,AUGMENTS,Aminopeptidase P,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0250400,C0031164,AUGMENTS,occludin,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0250400,C0162535,AUGMENTS,occludin,electrical resistance,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0256083,C0376525,AUGMENTS,p300-CBP Transcription Factors,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0282554,C0031164,AUGMENTS,chemokine,Permeability,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C0287990,C0022702,AUGMENTS,paired basic amino acid cleaving enzyme,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0294869,C0020291,AUGMENTS,RAN GTPase Activating Protein 1,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0300423,C0031164,AUGMENTS,cadherin 5,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0313532,C0031164,AUGMENTS,Plasma Kallikrein,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0377274,C0017982,AUGMENTS,Collectins,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0378910,C0376525,AUGMENTS,Lymphocyte antigen CD66A,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0387583,C0031164,AUGMENTS,cyclooxygenase 2,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0389071,C0031164,AUGMENTS,Adiponectin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0389916,C0007382,AUGMENTS,"nucleocapsid protein, Coronavirus",Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0389918,C1171318,AUGMENTS,"ADAMTS13 protein, human",shear stress,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0440471,C0042333,AUGMENTS,Genetic Materials,Variation (Genetics),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0527841,C0022702,AUGMENTS,Small Inducible Cytokine B6,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0528008,C0005495,AUGMENTS,Coat Protein Complex I,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0530129,C0376525,AUGMENTS,TNF receptor-associated factor 6,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0530467,C0031164,AUGMENTS,"2B protein, poliovirus",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0534519,C0376525,AUGMENTS,Caspase-1,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0582119,C0020291,AUGMENTS,Translocase,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0582263,C0376525,AUGMENTS,Structural protein,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0597357,C0031164,AUGMENTS,receptor,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0597357,C0376525,AUGMENTS,receptor,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0597357,C2717975,AUGMENTS,receptor,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0597551,C0806140,AUGMENTS,synthetic peptide,Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0597721,C0376525,AUGMENTS,Janus kinase,Dimerization,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0599220,C0020291,AUGMENTS,Protein Subunits,Hydrolysis,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0599220,C0022702,AUGMENTS,Protein Subunits,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0599561,C0031164,AUGMENTS,e protein,Permeability,aapp,npop,9,AUGMENTS_AAPPaugmNPOP
+C0599561,C2717976,AUGMENTS,e protein,Virus Budding,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0599874,C0007382,AUGMENTS,Dioxygenases,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0599947,C0020291,AUGMENTS,release factor,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0623362,C0031164,AUGMENTS,Matrix Metalloproteinases,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0649853,C1450275,AUGMENTS,"N(3)-(chloroacetyl)-2,3-diaminopropanoic acid",luminescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0663914,C0376525,AUGMENTS,IkappaB kinase,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0664943,C0022702,AUGMENTS,tapasin,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0666361,C1948023,AUGMENTS,"TNFSF11 protein, human",Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0669365,C0031164,AUGMENTS,"NOS3 protein, human",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0671695,C0016315,AUGMENTS,ubiquitin C-terminal 7-amido-4-methylcoumarin,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0672596,C0020167,AUGMENTS,palivizumab,Humidity,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0672596,C0041625,AUGMENTS,palivizumab,Ultraviolet Rays,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0699918,C0031164,AUGMENTS,Elastases,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C0752085,C0005495,AUGMENTS,Small Nucleolar Ribonucleoproteins,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0753802,C0043085,AUGMENTS,"Neuro-Oncological Ventral Antigen 2, Human",Weather,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0872141,C1948023,AUGMENTS,cytosolic receptor,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0916194,C0022702,AUGMENTS,dectin 1,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0920283,C0016315,AUGMENTS,DNA Helicases,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0920330,C0020309,AUGMENTS,Pancreatic enzyme,Hydrostatic Pressure,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0963992,C0031164,AUGMENTS,resistin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0968037,C3826426,AUGMENTS,myocardin,Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C0969669,C0016315,AUGMENTS,Fibrillar Collagen,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1136102,C0029393,AUGMENTS,Capsid Proteins,Osmotic Pressure,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1136102,C0031164,AUGMENTS,Capsid Proteins,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1143949,C0031164,AUGMENTS,"TNFSF10 protein, human",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1179435,C0031164,AUGMENTS,Protein Component,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1180307,C0031164,AUGMENTS,F-Actin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1180347,C0010423,AUGMENTS,Protein complex,Crystallization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1256770,C0031164,AUGMENTS,Vascular Endothelial Growth Factors,Permeability,aapp,npop,14,AUGMENTS_AAPPaugmNPOP
+C1256770,C0806140,AUGMENTS,Vascular Endothelial Growth Factors,Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1305923,C0031164,AUGMENTS,Polypeptides,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1309483,C0522534,AUGMENTS,"DICER1 protein, human",Saturated,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1310463,C0022702,AUGMENTS,"IFIH1 protein, human",Kinetics,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1310468,C0022702,AUGMENTS,"DDX58 protein, human",Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1311453,C2717976,AUGMENTS,Nedd4 Ubiquitin Protein Ligases,Virus Budding,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1332823,C0806140,AUGMENTS,CXCR4 gene,Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1333723,C2348693,AUGMENTS,GTF2H1 gene,Flux,aapp,npop,4,AUGMENTS_AAPPaugmNPOP
+C1333908,C2348693,AUGMENTS,HMGB1 gene,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1334043,C0022702,AUGMENTS,Homologous Gene,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1334083,C0376525,AUGMENTS,IFNGR1 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1334084,C0376525,AUGMENTS,IFNGR2 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1334139,C0376525,AUGMENTS,IRF3 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1335144,C1171356,AUGMENTS,Orthologous Gene,metacyclogenesis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1335837,C0031164,AUGMENTS,SLC2A1 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1335837,C1948023,AUGMENTS,SLC2A1 gene,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1336636,C1948023,AUGMENTS,TLR4 gene,Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1336763,C0022702,AUGMENTS,Toll-Like Receptor Family Gene,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1366557,C0031164,AUGMENTS,TGFB1 gene,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1366763,C0031164,AUGMENTS,ELF3 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1367710,C0031164,AUGMENTS,C5 gene,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1412053,C0031164,AUGMENTS,AANAT gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1412215,C0042333,AUGMENTS,ADAR gene,Variation (Genetics),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1412494,C2348693,AUGMENTS,AQP4 gene,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1412831,C2717975,AUGMENTS,BST2 gene,Virus Release,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1413086,C1563772,AUGMENTS,CALD1 gene,Bacterial Viability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1413107,C0017982,AUGMENTS,CANX gene,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1413336,C0016315,AUGMENTS,CEL gene,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1413469,C0031164,AUGMENTS,CLDN2 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1413473,C0031164,AUGMENTS,CLDN3 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1413475,C0031164,AUGMENTS,CLDN5 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1413966,C0376525,AUGMENTS,DHX9 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1414141,C0017982,AUGMENTS,DPP4 gene,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1414141,C0376525,AUGMENTS,DPP4 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1414359,C0020291,AUGMENTS,EIF5 gene,Hydrolysis,aapp,npop,7,AUGMENTS_AAPPaugmNPOP
+C1414805,C0005495,AUGMENTS,MTOR gene,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1414968,C0007382,AUGMENTS,GAPDH gene,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415188,C0010423,AUGMENTS,GP2 gene,Crystallization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415188,C0597571,AUGMENTS,GP2 gene,thermostability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415273,C0031164,AUGMENTS,TECR gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415634,C0022702,AUGMENTS,HNRNPA1 gene,Kinetics,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1415761,C0017982,AUGMENTS,HSPA5 gene,glycosylation,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1415761,C2936626,AUGMENTS,HSPA5 gene,Tumor Microenvironment,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415782,C0806140,AUGMENTS,HSPD1 gene,Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415898,C0042333,AUGMENTS,IFITM3 gene,Variation (Genetics),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1415898,C0376525,AUGMENTS,IFITM3 gene,Dimerization,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1415900,C4042908,AUGMENTS,IFNA1 gene,Seroconversion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1416521,C0678592,AUGMENTS,ITSN2 gene,free energy change,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1417222,C0012222,AUGMENTS,MNT gene,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1417950,C0016315,AUGMENTS,OMP gene,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1418392,C0031164,AUGMENTS,PCSK7 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1418789,C0005495,AUGMENTS,PPFIBP1 gene,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1418975,C0020291,AUGMENTS,PSAP gene,Hydrolysis,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1419258,C0020291,AUGMENTS,RANBP1 gene,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1420002,C0017982,AUGMENTS,SFTPA1 gene,glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1420234,C0031164,AUGMENTS,SLC9A3 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1420699,C2348693,AUGMENTS,TFEB gene,Flux,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1420744,C0031164,AUGMENTS,TJP1 gene,Permeability,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C1421313,C0031164,AUGMENTS,UCP1 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1421429,C0599882,AUGMENTS,VTRNA1-1 gene,Melting,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1421924,C0007382,AUGMENTS,GABARAPL2 gene,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1421924,C1171356,AUGMENTS,GABARAPL2 gene,metacyclogenesis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1422064,C0007382,AUGMENTS,ACE2 gene,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1422064,C0020291,AUGMENTS,ACE2 gene,Hydrolysis,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1422064,C0022702,AUGMENTS,ACE2 gene,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1422064,C0031164,AUGMENTS,ACE2 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1422064,C0243052,AUGMENTS,ACE2 gene,Virus Physiological Phenomena,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1422424,C0428692,AUGMENTS,ARHGAP9 gene,Ambient temperature,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1423506,C0012222,AUGMENTS,SPINK5 gene,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1423506,C0042784,AUGMENTS,SPINK5 gene,Viscosity,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1424232,C0376525,AUGMENTS,TRIM32 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1424319,C0023693,AUGMENTS,ADAP2 gene,Light,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1424502,C0376525,AUGMENTS,DHX30 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1425138,C0020291,AUGMENTS,SENP3 gene,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1425473,C4042908,AUGMENTS,IFNL1 gene,Seroconversion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1425775,C0243052,AUGMENTS,KLRK1 gene,Virus Physiological Phenomena,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1425964,C0376525,AUGMENTS,TRIM56 gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1426104,C0022702,AUGMENTS,NANS gene,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1426344,C2717975,AUGMENTS,PLK2 gene,Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1427699,C0005495,AUGMENTS,GET4 gene,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1428531,C0031164,AUGMENTS,AFAP1L2 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1433062,C0016315,AUGMENTS,"3C-like protease, SARS coronavirus",Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1435283,C2717975,AUGMENTS,"MHC2TA protein, human",Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1439284,C0031164,AUGMENTS,AGTR1 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1439329,C0016315,AUGMENTS,CBS gene,Fluorescence,aapp,npop,9,AUGMENTS_AAPPaugmNPOP
+C1442757,C0038884,AUGMENTS,SFTPB gene,Surface Properties,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1442758,C0038884,AUGMENTS,SFTPC gene,Surface Properties,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1446601,C0031164,AUGMENTS,lactoglobulin,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1448177,C0178576,AUGMENTS,"TNF protein, human",Cross link,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1449159,C0031164,AUGMENTS,"CCL2 protein, human",Permeability,aapp,npop,8,AUGMENTS_AAPPaugmNPOP
+C1449886,C3826426,AUGMENTS,"Adaptor Proteins, Signal Transducing",Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1456447,C0031164,AUGMENTS,"SLC6A2 protein, human",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1522002,C0010423,AUGMENTS,RNA Recognition Motif,Crystallization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1522002,C0376525,AUGMENTS,RNA Recognition Motif,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1522002,C1537001,AUGMENTS,RNA Recognition Motif,chemical interaction,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1522712,C0022702,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1537811,C0031164,AUGMENTS,MIR155 gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1539227,C0020291,AUGMENTS,DCP2 gene,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1564139,C0597571,AUGMENTS,Mutant Proteins,thermostability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1570531,C0031164,AUGMENTS,"E protein, SARS coronavirus",Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1571580,C0678544,AUGMENTS,Smad Proteins,wave - physical agent,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1705590,C0031164,AUGMENTS,PIK3CB wt Allele,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1705982,C0010546,AUGMENTS,KRAS wt Allele,Cyclization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1706869,C0022702,AUGMENTS,BAG1 wt Allele,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1710602,C0020291,AUGMENTS,VIPR1 wt Allele,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1710602,C0022702,AUGMENTS,VIPR1 wt Allele,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1741193,C0016315,AUGMENTS,hnRNP A2,Fluorescence,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1742862,C0007382,AUGMENTS,"CISH protein, human",Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1823139,C0017982,AUGMENTS,STT3B gene,glycosylation,aapp,npop,5,AUGMENTS_AAPPaugmNPOP
+C1823437,C0376525,AUGMENTS,TMEM173 gene,Dimerization,aapp,npop,4,AUGMENTS_AAPPaugmNPOP
+C1825057,C0085406,AUGMENTS,EPGN gene,Anisotropy,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1825497,C0022702,AUGMENTS,ATG5 gene,Kinetics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1825598,C0012222,AUGMENTS,IMPACT gene,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1825598,C1959569,AUGMENTS,IMPACT gene,Volatility,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1825598,C2718051,AUGMENTS,IMPACT gene,Climate Change,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1825598,C3826426,AUGMENTS,IMPACT gene,Dynamics,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1825621,C0020291,AUGMENTS,ISG15 gene,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1826583,C0376525,AUGMENTS,PICK1 gene,Dimerization,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C1826724,C0012222,AUGMENTS,PRRT2 gene,Diffusion,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1826724,C0020291,AUGMENTS,PRRT2 gene,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1853152,C0238617,AUGMENTS,PAPPA-AS1 gene,High altitude (physical force),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1861617,C0031164,AUGMENTS,CCI gene,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1864770,C0376525,AUGMENTS,MAVS gene,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C1999501,C0031164,AUGMENTS,vascular endothelial growth factor-165,Permeability,aapp,npop,4,AUGMENTS_AAPPaugmNPOP
+C2717831,C0376525,AUGMENTS,Dynein Light Chains,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C2717971,C0020291,AUGMENTS,Serine Proteases,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C2743006,C0031164,AUGMENTS,NaKtide,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C2744535,C0678578,AUGMENTS,"CD69 protein, human",brightness,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C2744535,C0868933,AUGMENTS,"CD69 protein, human",Climatic factors,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C2744579,C0376525,AUGMENTS,"ATP8A2 protein, human",Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C2936243,C0031164,AUGMENTS,Cell-Penetrating Peptides,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3494363,C0031164,AUGMENTS,Tight Junction Proteins,Permeability,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C3529856,C0031164,AUGMENTS,pep2-SVKI,Permeability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3538714,C0376525,AUGMENTS,TTN wt Allele,Dimerization,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3540622,C0020291,AUGMENTS,PLA2G1B wt Allele,Hydrolysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3540818,C0005495,AUGMENTS,LAMP1 wt Allele,Origin of Life,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3642279,C2348693,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Flux,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3710914,C0376525,AUGMENTS,"EIF2AK2 protein, human",Dimerization,aapp,npop,3,AUGMENTS_AAPPaugmNPOP
+C3710967,C0597571,AUGMENTS,"latent Orf73 antigen, human herpesvirus 8",thermostability,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3813609,C0008946,AUGMENTS,TBX4 wt Allele,Climate,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3849574,C1948023,AUGMENTS,"EPHB2 protein, human",Stimulation (motivation),aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C3887958,C0007382,AUGMENTS,"Indoleamine 2,3-Dioxygenase, human",Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C4048280,C2717975,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Virus Release,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C4281804,C0337037,AUGMENTS,"Substance-P Receptor, Human",Electric field,aapp,npop,2,AUGMENTS_AAPPaugmNPOP
+C4281807,C0017982,AUGMENTS,"Vitronectin, human",glycosylation,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C4317106,C0042784,AUGMENTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Viscosity,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C4319650,C0007382,AUGMENTS,Heterogeneous Nuclear Ribonucleoprotein A1,Catalysis,aapp,npop,1,AUGMENTS_AAPPaugmNPOP
+C4520829,C0806140,AUGMENTS,"Cholecystokinin, human",Flow,aapp,npop,1,AUGMENTS_AAPPaugmNPOP

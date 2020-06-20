@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010222,C1705920,USES,Couples (persons),Species,famg,clas,1,USES_FAMGusesCLAS
+C0015576,C0441729,USES,Family,Type 1,famg,clas,4,USES_FAMGusesCLAS
+C0015576,C0441730,USES,Family,Type 2,famg,clas,2,USES_FAMGusesCLAS
+C0015576,C0441731,USES,Family,Type 3,famg,clas,4,USES_FAMGusesCLAS
+C0015576,C0441885,USES,Family,Class 1,famg,clas,4,USES_FAMGusesCLAS
+C0015576,C0449560,USES,Family,Subtype (attribute),famg,clas,3,USES_FAMGusesCLAS
+C0015576,C1705920,USES,Family,Species,famg,clas,16,USES_FAMGusesCLAS
+C0015576,C1708235,USES,Family,Genus,famg,clas,4,USES_FAMGusesCLAS
+C0015576,C1708611,USES,Family,Kingdom,famg,clas,1,USES_FAMGusesCLAS
+C0015576,C1710441,USES,Family,Total Nottingham Score,famg,clas,1,USES_FAMGusesCLAS
+C0015576,C1711207,USES,Family,Subfamily,famg,clas,1,USES_FAMGusesCLAS
+C0015576,C2827421,USES,Family,Construct,famg,clas,1,USES_FAMGusesCLAS
+C0015576,C4049623,USES,Family,Intrusions,famg,clas,1,USES_FAMGusesCLAS
+C0020052,C0441838,USES,Households,Group D,famg,clas,1,USES_FAMGusesCLAS
+C0020052,C1705920,USES,Households,Species,famg,clas,1,USES_FAMGusesCLAS
+C0030551,C4287887,USES,parent,HLA Mismatch,famg,clas,1,USES_FAMGusesCLAS
+C0080103,C1705920,USES,Relative (related person),Species,famg,clas,1,USES_FAMGusesCLAS
+C0080103,C2827421,USES,Relative (related person),Construct,famg,clas,1,USES_FAMGusesCLAS
+C0086282,C0005810,USES,Family member,Blood Group (classification),famg,clas,1,USES_FAMGusesCLAS
+C0086282,C0441885,USES,Family member,Class 1,famg,clas,1,USES_FAMGusesCLAS
+C0086282,C1705920,USES,Family member,Species,famg,clas,1,USES_FAMGusesCLAS
+C0337527,C4330149,USES,Brothers,HLA Match,famg,clas,1,USES_FAMGusesCLAS
+C0680063,C0441885,USES,Offspring,Class 1,famg,clas,1,USES_FAMGusesCLAS
+C0682323,C0441729,USES,Partner in relationship,Type 1,famg,clas,1,USES_FAMGusesCLAS
+C0682323,C1705920,USES,Partner in relationship,Species,famg,clas,1,USES_FAMGusesCLAS
+C0682323,C2825217,USES,Partner in relationship,Union,famg,clas,1,USES_FAMGusesCLAS
+C0870134,C1515021,USES,ancestors,Subgroup,famg,clas,1,USES_FAMGusesCLAS
+C0870134,C1705920,USES,ancestors,Species,famg,clas,4,USES_FAMGusesCLAS
+C0870134,C1708235,USES,ancestors,Genus,famg,clas,1,USES_FAMGusesCLAS
+C0870134,C2828024,USES,ancestors,Default,famg,clas,1,USES_FAMGusesCLAS

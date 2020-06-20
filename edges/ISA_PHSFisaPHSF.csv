@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C1999107,ISA,Blood Circulation,Circulatory System Process,phsf,phsf,1,ISA_PHSFisaPHSF
+C0035203,C0035245,ISA,Respiration,Respiratory physiology,phsf,phsf,2,ISA_PHSFisaPHSF
+C0231999,C0035203,ISA,Airflow,Respiration,phsf,phsf,18,ISA_PHSFisaPHSF
+C0232001,C0035203,ISA,Laminar airflow,Respiration,phsf,phsf,1,ISA_PHSFisaPHSF
+C0282498,C0149784,ISA,Heat-Shock Response,biological adaptation to stress,phsf,phsf,3,ISA_PHSFisaPHSF
+C0678209,C0020964,ISA,Adaptive Immunity,Immunity,phsf,phsf,9,ISA_PHSFisaPHSF
+C1135927,C0020964,ISA,"Immunity, Herd",Immunity,phsf,phsf,5,ISA_PHSFisaPHSF

@@ -1,0 +1,75 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009817,C0037088,DIAGNOSES,Consultant,Signs and Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0018724,C0003578,DIAGNOSES,Health Personnel,Apnea,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0018724,C0015967,DIAGNOSES,Health Personnel,Fever,humn,sosy,4,DIAGNOSES_HUMNdiagSOSY
+C0018724,C0018681,DIAGNOSES,Health Personnel,Headache,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0018724,C0037090,DIAGNOSES,Health Personnel,"Signs and Symptoms, Respiratory",humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C0018724,C0086132,DIAGNOSES,Health Personnel,Depressive Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0018724,C0231218,DIAGNOSES,Health Personnel,Malaise,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0025106,C0086132,DIAGNOSES,Medical Staff,Depressive Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0028661,C0015967,DIAGNOSES,Nurses,Fever,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0028661,C0037088,DIAGNOSES,Nurses,Signs and Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0028661,C0085631,DIAGNOSES,Nurses,Agitation,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0028661,C0231239,DIAGNOSES,Nurses,Fluctuation,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0028661,C0392674,DIAGNOSES,Nurses,Exhaustion,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0010200,DIAGNOSES,Physicians,Coughing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0011991,DIAGNOSES,Physicians,Diarrhea,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0030193,DIAGNOSES,Physicians,Pain,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0043144,DIAGNOSES,Physicians,Wheezing,humn,sosy,19,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0231528,DIAGNOSES,Physicians,Myalgia,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0392171,DIAGNOSES,Physicians,Influenza-like symptoms,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C0031831,C0850149,DIAGNOSES,Physicians,Dry cough,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0010200,DIAGNOSES,Research Personnel,Coughing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0011991,DIAGNOSES,Research Personnel,Diarrhea,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0026837,DIAGNOSES,Research Personnel,Muscle Rigidity,humn,sosy,3,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0037088,DIAGNOSES,Research Personnel,Signs and Symptoms,humn,sosy,4,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0037090,DIAGNOSES,Research Personnel,"Signs and Symptoms, Respiratory",humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0392674,DIAGNOSES,Research Personnel,Exhaustion,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0035173,C0427008,DIAGNOSES,Research Personnel,Stiffness,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0035173,C3714552,DIAGNOSES,Research Personnel,Weakness,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0042960,C0231218,DIAGNOSES,Voluntary Workers,Malaise,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0042960,C0235290,DIAGNOSES,Voluntary Workers,bitter taste,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C0085537,C0015967,DIAGNOSES,Caregiver,Fever,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0085537,C0030193,DIAGNOSES,Caregiver,Pain,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0085537,C0037090,DIAGNOSES,Caregiver,"Signs and Symptoms, Respiratory",humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0221460,C0011991,DIAGNOSES,Farmers,Diarrhea,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C0221460,C0235031,DIAGNOSES,Farmers,Neurologic Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0238703,C0037090,DIAGNOSES,Athletes,"Signs and Symptoms, Respiratory",humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0238703,C0231218,DIAGNOSES,Athletes,Malaise,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0238703,C0476270,DIAGNOSES,Athletes,Cardiovascular symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0334889,C0037090,DIAGNOSES,Rheumatologist,"Signs and Symptoms, Respiratory",humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0401805,C0037088,DIAGNOSES,Estimator,Signs and Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0524647,C0085636,DIAGNOSES,Soldiers,Photophobia,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0524647,C0151315,DIAGNOSES,Soldiers,Neck stiffness,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0524647,C0476273,DIAGNOSES,Soldiers,Respiratory distress,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0557520,C0015967,DIAGNOSES,Triage nurse,Fever,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0586873,C0476273,DIAGNOSES,Infectious disease specialist,Respiratory distress,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0679924,C0015967,DIAGNOSES,professional occupation status,Fever,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0851286,C0010200,DIAGNOSES,Staff,Coughing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0851286,C0037383,DIAGNOSES,Staff,Sneezing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0851286,C0231218,DIAGNOSES,Staff,Malaise,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0851286,C0521989,DIAGNOSES,Staff,Associated symptom,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0871685,C0011991,DIAGNOSES,Clinician,Diarrhea,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0871685,C0015967,DIAGNOSES,Clinician,Fever,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0871685,C0030193,DIAGNOSES,Clinician,Pain,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0871685,C0037090,DIAGNOSES,Clinician,"Signs and Symptoms, Respiratory",humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C0871685,C0392171,DIAGNOSES,Clinician,Influenza-like symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C1552089,C0231218,DIAGNOSES,Staff Member,Malaise,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C1552363,C0013604,DIAGNOSES,Radiologic Technologist - Radiography,Edema,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C1709627,C0392171,DIAGNOSES,Practitioner,Influenza-like symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C2362565,C0086437,DIAGNOSES,Physical Therapist,Joint laxity,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C2827466,C0010200,DIAGNOSES,Central Site,Coughing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3494258,C0010200,DIAGNOSES,Inventors,Coughing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0004134,DIAGNOSES,Author,Ataxia,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0010200,DIAGNOSES,Author,Coughing,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0011991,DIAGNOSES,Author,Diarrhea,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0013604,DIAGNOSES,Author,Edema,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0015967,DIAGNOSES,Author,Fever,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0036572,DIAGNOSES,Author,Seizures,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0037088,DIAGNOSES,Author,Signs and Symptoms,humn,sosy,2,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0037090,DIAGNOSES,Author,"Signs and Symptoms, Respiratory",humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0231918,DIAGNOSES,Author,Nose symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C3812881,C0426576,DIAGNOSES,Author,Gastrointestinal symptom,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C4522252,C0037088,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Signs and Symptoms,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C4522252,C0043144,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Wheezing,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY
+C4522252,C4527152,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Tricuspid Valve Regurgitation Velocity,humn,sosy,1,DIAGNOSES_HUMNdiagSOSY

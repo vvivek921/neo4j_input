@@ -1,0 +1,150 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0220825,ISA,angiogram,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0002978,C1261322,ISA,angiogram,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0004286,C0220825,ISA,Audiometry,Evaluation,diap,hlca,3,ISA_DIAPisaHLCA
+C0004339,C0031809,ISA,Auscultation,Physical Examination,diap,hlca,5,ISA_DIAPisaHLCA
+C0004339,C0220825,ISA,Auscultation,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0004339,C1261322,ISA,Auscultation,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0004398,C0031809,ISA,Autopsy,Physical Examination,diap,hlca,23,ISA_DIAPisaHLCA
+C0004398,C0220825,ISA,Autopsy,Evaluation,diap,hlca,30,ISA_DIAPisaHLCA
+C0004398,C0582103,ISA,Autopsy,Medical Examination,diap,hlca,6,ISA_DIAPisaHLCA
+C0004398,C1261322,ISA,Autopsy,Evaluation procedure,diap,hlca,4,ISA_DIAPisaHLCA
+C0005558,C0220825,ISA,Biopsy,Evaluation,diap,hlca,14,ISA_DIAPisaHLCA
+C0005558,C1261322,ISA,Biopsy,Evaluation procedure,diap,hlca,4,ISA_DIAPisaHLCA
+C0006290,C0031809,ISA,Bronchoscopy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0006290,C0199171,ISA,Bronchoscopy,Medical procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0006290,C0220825,ISA,Bronchoscopy,Evaluation,diap,hlca,3,ISA_DIAPisaHLCA
+C0006290,C1261322,ISA,Bronchoscopy,Evaluation procedure,diap,hlca,3,ISA_DIAPisaHLCA
+C0009378,C0031809,ISA,colonoscopy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0009378,C0220825,ISA,colonoscopy,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0010702,C0031809,ISA,Cystoscopy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0011906,C1261322,ISA,Differential Diagnosis,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0011923,C1261322,ISA,Diagnostic Imaging,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0013516,C0220825,ISA,Echocardiography,Evaluation,diap,hlca,17,ISA_DIAPisaHLCA
+C0013516,C1261322,ISA,Echocardiography,Evaluation procedure,diap,hlca,12,ISA_DIAPisaHLCA
+C0013524,C0220825,ISA,2D Echocardiography,Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C0013524,C1261322,ISA,2D Echocardiography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0013526,C0031809,ISA,Echoencephalography,Physical Examination,diap,hlca,2,ISA_DIAPisaHLCA
+C0013819,C0220825,ISA,Electroencephalography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0013819,C1261322,ISA,Electroencephalography,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0013839,C0220825,ISA,Electromyography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0014245,C0220825,ISA,Endoscopy (procedure),Evaluation,diap,hlca,21,ISA_DIAPisaHLCA
+C0014245,C0582103,ISA,Endoscopy (procedure),Medical Examination,diap,hlca,6,ISA_DIAPisaHLCA
+C0014245,C1261322,ISA,Endoscopy (procedure),Evaluation procedure,diap,hlca,3,ISA_DIAPisaHLCA
+C0015260,C1261322,ISA,Exercise stress test,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0016313,C0220825,ISA,Fluorescein Angiography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0016313,C1261322,ISA,Fluorescein Angiography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0017195,C1261322,ISA,Endoscopy of stomach,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0017654,C0220825,ISA,Glomerular Filtration Rate,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0018793,C0031809,ISA,Heart Auscultation,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0021044,C0220825,ISA,Immunohistochemistry,Evaluation,diap,hlca,4,ISA_DIAPisaHLCA
+C0021044,C1261322,ISA,Immunohistochemistry,Evaluation procedure,diap,hlca,5,ISA_DIAPisaHLCA
+C0023016,C0220825,ISA,Language Tests,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0023072,C0031809,ISA,Laryngoscopy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0023072,C1261322,ISA,Laryngoscopy,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0024119,C0220825,ISA,Pulmonary function tests,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0024119,C1261322,ISA,Pulmonary function tests,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0024485,C0220825,ISA,Magnetic Resonance Imaging,Evaluation,diap,hlca,13,ISA_DIAPisaHLCA
+C0024485,C1261322,ISA,Magnetic Resonance Imaging,Evaluation procedure,diap,hlca,9,ISA_DIAPisaHLCA
+C0027853,C0031809,ISA,Neurologic Examination,Physical Examination,diap,hlca,2,ISA_DIAPisaHLCA
+C0027853,C0220825,ISA,Neurologic Examination,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0029090,C0220825,ISA,Ophthalmoscopy,Evaluation,diap,hlca,3,ISA_DIAPisaHLCA
+C0029090,C0582103,ISA,Ophthalmoscopy,Medical Examination,diap,hlca,5,ISA_DIAPisaHLCA
+C0029090,C1261322,ISA,Ophthalmoscopy,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0030247,C0031809,ISA,Palpation,Physical Examination,diap,hlca,2,ISA_DIAPisaHLCA
+C0030247,C1261322,ISA,Palpation,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0030987,C0031809,ISA,Percussion,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0030987,C0220825,ISA,Percussion,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0031150,C0031809,ISA,Laparoscopy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0031150,C0220825,ISA,Laparoscopy,Evaluation,diap,hlca,4,ISA_DIAPisaHLCA
+C0032743,C0220825,ISA,Positron-Emission Tomography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0033920,C0220825,ISA,Psychometrics,Evaluation,diap,hlca,22,ISA_DIAPisaHLCA
+C0033920,C1261322,ISA,Psychometrics,Evaluation procedure,diap,hlca,3,ISA_DIAPisaHLCA
+C0034108,C0031809,ISA,"Oximetry, Pulse",Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0034108,C0220825,ISA,"Oximetry, Pulse",Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C0034606,C1261322,ISA,Radionuclide Imaging,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0037981,C0220825,ISA,Spirometry,Evaluation,diap,hlca,3,ISA_DIAPisaHLCA
+C0037981,C1261322,ISA,Spirometry,Evaluation procedure,diap,hlca,3,ISA_DIAPisaHLCA
+C0039985,C0220825,ISA,Plain chest X-ray,Evaluation,diap,hlca,9,ISA_DIAPisaHLCA
+C0039985,C1261322,ISA,Plain chest X-ray,Evaluation procedure,diap,hlca,4,ISA_DIAPisaHLCA
+C0040395,C0220825,ISA,tomography,Evaluation,diap,hlca,6,ISA_DIAPisaHLCA
+C0040405,C0220825,ISA,X-Ray Computed Tomography,Evaluation,diap,hlca,5,ISA_DIAPisaHLCA
+C0040405,C1261322,ISA,X-Ray Computed Tomography,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0040706,C0220825,ISA,Transillumination,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0041290,C0220908,ISA,Tuberculin Test,Screening procedure,diap,hlca,3,ISA_DIAPisaHLCA
+C0041618,C0220825,ISA,Ultrasonography,Evaluation,diap,hlca,31,ISA_DIAPisaHLCA
+C0041618,C1261322,ISA,Ultrasonography,Evaluation procedure,diap,hlca,22,ISA_DIAPisaHLCA
+C0042815,C0220825,ISA,Visual Analog Pain Scale,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0042815,C0582103,ISA,Visual Analog Pain Scale,Medical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0042815,C1261322,ISA,Visual Analog Pain Scale,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0043299,C1261322,ISA,Diagnostic radiologic examination,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0085532,C0220825,ISA,Coronary angiography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0085853,C0031809,ISA,Tympanometry,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0085853,C0220825,ISA,Tympanometry,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0086143,C1261322,ISA,Diagnostic tests,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0150866,C0199171,ISA,Biopsy of skin procedure,Medical procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0150866,C1261322,ISA,Biopsy of skin procedure,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0162502,C1261322,ISA,Fetal Ultrasonography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0189024,C0031809,ISA,Endoscopy of nose,Physical Examination,diap,hlca,3,ISA_DIAPisaHLCA
+C0189024,C1261322,ISA,Endoscopy of nose,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0189025,C1261322,ISA,Nasopharyngoscopy,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0189896,C1261322,ISA,Catheterization of right heart,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0190979,C0220825,ISA,Venous blood sampling,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0199236,C1261322,ISA,family investigation,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0200008,C1261322,ISA,Uroflowmetry,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0200152,C0031809,ISA,Schirmer tear test procedure,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0200152,C0220825,ISA,Schirmer tear test procedure,Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C0200778,C0220825,ISA,"Necropsy (autopsy), gross examination only; without CNS",Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0202681,C0220825,ISA,X-ray of skull,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0202691,C0220825,ISA,CAT scan of head,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0202757,C1261322,ISA,Radiographic procedure on neck,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0202823,C0220825,ISA,Chest CT,Evaluation,diap,hlca,3,ISA_DIAPisaHLCA
+C0202823,C1261322,ISA,Chest CT,Evaluation procedure,diap,hlca,3,ISA_DIAPisaHLCA
+C0203779,C0220825,ISA,Radionuclide thyroid imaging study,Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C0206054,C1261322,ISA,"Echocardiography, Transesophageal",Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0206077,C1261322,ISA,"Ultrasonography, Doppler, Transcranial",Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0242890,C1261322,ISA,Toxicity Tests,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0260180,C1261322,ISA,Pupillometry,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0278247,C1261322,ISA,Weber's test,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0278372,C1261322,ISA,Functional assessment,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0374190,C0220825,ISA,Anorectal manometry,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0376306,C0582103,ISA,Oral Examination,Medical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0376306,C1261322,ISA,Oral Examination,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0376443,C0220825,ISA,Endoscopic Ultrasound,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0376529,C0220825,ISA,Capnography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0396283,C1261322,ISA,Sleep nasendoscopy,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0412675,C0220825,ISA,MRI brain procedure,Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C0412675,C0582103,ISA,MRI brain procedure,Medical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0412692,C1261322,ISA,Magnetic Resonance Imaging (MRI) of Heart,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0430456,C1261322,ISA,12 lead ECG,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0430462,C0220825,ISA,Transthoracic echocardiography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0430462,C1261322,ISA,Transthoracic echocardiography,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0430501,C0582103,ISA,Microscopic Angioscopy,Medical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0430511,C1261322,ISA,Vital capacity test,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0430942,C1261322,ISA,Amsler chart assessment,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0431080,C1261322,ISA,Diagnostic assessment,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0451306,C1261322,ISA,Mini-mental state examination,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0560738,C1261322,ISA,VQ - Ventilation perfusion scan,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0596473,C1261322,ISA,Early Diagnosis,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0598801,C0220825,ISA,Diffusion weighted imaging,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0679575,C1261322,ISA,Neuroimaging,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0740178,C0220908,ISA,Antenatal screening procedures,Screening procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0750430,C1261322,ISA,work up,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0813145,C0220908,ISA,Genetic Screening (procedure),Screening procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C0860888,C0220825,ISA,"Tomography, Spiral Computed",Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0863477,C0220825,ISA,transbronchial lung biopsy,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0863477,C1261322,ISA,transbronchial lung biopsy,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0877853,C0220825,ISA,"Spectroscopy, Nuclear Magnetic Resonance",Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C0948073,C0220825,ISA,Biopsy of uterus,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C1293088,C1261322,ISA,Therapeutic evaluation,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1306645,C0220825,ISA,Plain x-ray,Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C1510483,C0034117,ISA,Fine needle aspiration biopsy,Puncture procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C1512457,C0220825,ISA,High Resolution Computed Tomography,Evaluation,diap,hlca,1,ISA_DIAPisaHLCA
+C1512457,C1261322,ISA,High Resolution Computed Tomography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1513743,C1261322,ISA,Multimodal Imaging,Evaluation procedure,diap,hlca,2,ISA_DIAPisaHLCA
+C1881134,C1261322,ISA,Image Study,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1964257,C1261322,ISA,Observation - diagnostic procedure,Evaluation procedure,diap,hlca,6,ISA_DIAPisaHLCA
+C2348813,C0220825,ISA,Transabdominal Ultrasound,Evaluation,diap,hlca,3,ISA_DIAPisaHLCA
+C2350281,C0220825,ISA,X-Ray Microtomography,Evaluation,diap,hlca,2,ISA_DIAPisaHLCA
+C2350281,C1261322,ISA,X-Ray Microtomography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C4085887,C1261322,ISA,Inspiratory Vital Capacity Test,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA

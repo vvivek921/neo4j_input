@@ -1,0 +1,406 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0009013,AFFECTS,Actins,Clone Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0001347,C0023516,AFFECTS,Acute-Phase Proteins,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0002199,C0024432,AFFECTS,Interferon-alpha,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0002199,C0039194,AFFECTS,Interferon-alpha,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003018,C0018956,AFFECTS,Angiotensins,Hematopoietic stem cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003241,C0221284,AFFECTS,Antibodies,Leptocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003241,C0334227,AFFECTS,Antibodies,"Tumor cells, malignant",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003241,C1253961,AFFECTS,Antibodies,Colligocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003250,C0026473,AFFECTS,Monoclonal Antibodies,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003250,C0039194,AFFECTS,Monoclonal Antibodies,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003250,C0334227,AFFECTS,Monoclonal Antibodies,"Tumor cells, malignant",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0003250,C2936239,AFFECTS,Monoclonal Antibodies,HEK293 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0006639,C0027950,AFFECTS,Ceruletide,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0008546,C0014597,AFFECTS,Chromatin,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0008546,C0596981,AFFECTS,Chromatin,Muscle Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0008905,C0085087,AFFECTS,Clathrin,3T3 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0009325,C0162597,AFFECTS,Collagen,Stromal Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0009630,C0039194,AFFECTS,Concanavalin A,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0010590,C0444746,AFFECTS,Cycloserine,Endocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0010590,C1267822,AFFECTS,Cycloserine,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0010590,C1513872,AFFECTS,Cycloserine,Naive Pregerminal Center B-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0010590,C1956385,AFFECTS,Cycloserine,Plasmacytoid Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0010590,C3641722,AFFECTS,Cycloserine,Effector T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0012888,C1883178,AFFECTS,DNA Polymerase I,Subclone,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0013729,C0026473,AFFECTS,Eukaryotic Initiation Factor-2,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0014063,C0039194,AFFECTS,Myelin Basic Proteins,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0015980,C0007600,AFFECTS,Interferon-beta,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0015980,C0024432,AFFECTS,Interferon-beta,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0016055,C1135918,AFFECTS,Fibronectins,"Myocytes, Smooth Muscle",aapp,cell,2,AFFECTS_AAPPafctCELL
+C0017362,C0024432,AFFECTS,"Genes, Regulator",macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0017757,C0029974,AFFECTS,Glucosephosphate Dehydrogenase,Ovum,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0017757,C0552337,AFFECTS,Glucosephosphate Dehydrogenase,bladder cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0017968,C0007600,AFFECTS,Glycoproteins,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0020960,C0039195,AFFECTS,Immune Sera,Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021701,C0005821,AFFECTS,Integrins,Blood Platelets,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021701,C3686472,AFFECTS,Integrins,Biliary epithelial cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021740,C0016030,AFFECTS,Recombinant Interferon-gamma,Fibroblasts,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021740,C0024264,AFFECTS,Recombinant Interferon-gamma,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021740,C0028944,AFFECTS,Recombinant Interferon-gamma,Oligodendroglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021740,C0039194,AFFECTS,Recombinant Interferon-gamma,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021740,C0039198,AFFECTS,Recombinant Interferon-gamma,Regulatory T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021743,C0005955,AFFECTS,Interferon Type I,Bone Marrow Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021747,C0024432,AFFECTS,Interferons,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021753,C0004112,AFFECTS,Interleukin-1 beta,Astrocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021753,C0085236,AFFECTS,Interleukin-1 beta,"Macrophages, Alveolar",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021755,C1519449,AFFECTS,Interleukin-1,Spermatogenic Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021755,C1523993,AFFECTS,Interleukin-1,Leukocyte - Monocyte - Macrophage (MMHCC),aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021755,C4505192,AFFECTS,Interleukin-1,THP-1 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021756,C0024264,AFFECTS,Interleukin-2,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021756,C0039194,AFFECTS,Interleukin-2,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021758,C0007600,AFFECTS,Interleukin-4,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021758,C0024880,AFFECTS,Interleukin-4,mast cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021758,C0039194,AFFECTS,Interleukin-4,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021760,C0004561,AFFECTS,Interleukin-6,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021760,C0024432,AFFECTS,Interleukin-6,macrophage,aapp,cell,3,AFFECTS_AAPPafctCELL
+C0021760,C0024880,AFFECTS,Interleukin-6,mast cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021760,C0029431,AFFECTS,Interleukin-6,Osteoclasts,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0021760,C0085236,AFFECTS,Interleukin-6,"Macrophages, Alveolar",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0024075,C0018873,AFFECTS,Luciferases,HeLa Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0025248,C0221284,AFFECTS,Membrane Glycoproteins,Leptocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0030940,C0005773,AFFECTS,Peptide Hydrolases,Blood Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0031667,C1269647,AFFECTS,Phospholipases A2,Entire cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0033362,C0030281,AFFECTS,Proinsulin,Structure of beta Cell of islet,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0034790,C0024264,AFFECTS,T-Cell Receptor,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0034790,C0039194,AFFECTS,T-Cell Receptor,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0034804,C1512505,AFFECTS,Estrogen Receptors,Breast Cancer Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0034805,C0011306,AFFECTS,Fc Receptor,Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0038585,C2936411,AFFECTS,Substance P,Th17 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0039350,C0031760,AFFECTS,Taurine,Photoreceptors,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0040691,C0814997,AFFECTS,Transforming Growth Factors,Intestinal cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0040691,C1267822,AFFECTS,Transforming Growth Factors,CD4+ CD25+ Regulatory T Cells,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0041361,C0039195,AFFECTS,Tumor Antigens,Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0041368,C0026473,AFFECTS,Tumor Necrosis Factors,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0042666,C0014597,AFFECTS,Vimentin,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0042711,C0011306,AFFECTS,Viral Envelope Proteins,Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0051978,C0004827,AFFECTS,Anti-Immunoglobulin E antibody,Basophils,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0054757,C0042542,AFFECTS,carboxypeptidase H,Vero Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0056373,C0027882,AFFECTS,"Receptors, Corticotropin-Releasing Hormone",Neurons,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0058988,C0018873,AFFECTS,Eukaryotic Initiation Factor-4E,HeLa Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0059563,C0027950,AFFECTS,cytochrome P450 3A,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0065827,C0020204,AFFECTS,Measles Virus Nucleoprotein,Hybridomas,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0065827,C0225700,AFFECTS,Measles Virus Nucleoprotein,Type-II Pneumocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0068355,C4082861,AFFECTS,NADPH Oxidase,Vascular smooth muscle cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0071795,C0004112,AFFECTS,2-5A-dependent ribonuclease,Astrocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0071795,C0028944,AFFECTS,2-5A-dependent ribonuclease,Oligodendroglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0072108,C0042542,AFFECTS,Proliferating Cell Nuclear Antigen,Vero Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0073237,C0011306,AFFECTS,ribonuclease E,Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0077503,C0039194,AFFECTS,Tumor Necrosis Factor Receptor,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0078056,C0808143,AFFECTS,Vascular Cell Adhesion Molecule-1,Synovial lining cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0078077,C4330475,AFFECTS,Vasopressin Receptor,Immune Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0004112,AFFECTS,cytokine,Astrocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0022688,AFFECTS,cytokine,Natural Killer Cells,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0079189,C0023516,AFFECTS,cytokine,Leukocytes,aapp,cell,3,AFFECTS_AAPPafctCELL
+C0079189,C0024264,AFFECTS,cytokine,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0024432,AFFECTS,cytokine,macrophage,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0079189,C0024880,AFFECTS,cytokine,mast cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0026473,AFFECTS,cytokine,Monocytes,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0079189,C0027950,AFFECTS,cytokine,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0039194,AFFECTS,cytokine,T-Lymphocyte,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0079189,C0039195,AFFECTS,cytokine,Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0039198,AFFECTS,cytokine,Regulatory T-Lymphocytes,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0079189,C0085236,AFFECTS,cytokine,"Macrophages, Alveolar",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0206116,AFFECTS,cytokine,Microglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C0682639,AFFECTS,cytokine,Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C1267822,AFFECTS,cytokine,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C1321301,AFFECTS,cytokine,Peripheral blood mononuclear cell (cell),aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079189,C4330475,AFFECTS,cytokine,Immune Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079459,C0027950,AFFECTS,Granulocyte Colony-Stimulating Factor,neutrophil,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0079459,C1148382,AFFECTS,Granulocyte Colony-Stimulating Factor,Monocytes+Macrophages,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079460,C0023516,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079460,C0024432,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079460,C1956385,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Plasmacytoid Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079633,C0004827,AFFECTS,Interleukin-8,Basophils,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079633,C0014467,AFFECTS,Interleukin-8,eosinophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079633,C0022688,AFFECTS,Interleukin-8,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079633,C0027950,AFFECTS,Interleukin-8,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079784,C0024432,AFFECTS,Macrophage Colony-Stimulating Factor,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0079904,C0334227,AFFECTS,NF-kappa B,"Tumor cells, malignant",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0080058,C0038250,AFFECTS,Proto-Oncogene Proteins p21(ras),Stem cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0080090,C0027950,AFFECTS,Granulocyte Colony-Stimulating Factor Receptors,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0081714,C0016390,AFFECTS,"Antigens, CD147",Foam Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0081714,C1512505,AFFECTS,"Antigens, CD147",Breast Cancer Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0083031,C0014597,AFFECTS,Interleukin-11,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0084692,C0024432,AFFECTS,Pulmonary Surfactant-Associated Protein D,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0084692,C0027950,AFFECTS,Pulmonary Surfactant-Associated Protein D,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0084795,C0001280,AFFECTS,Tristetraprolin,Armed macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0085295,C0022688,AFFECTS,Interleukin-10,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0085295,C0039194,AFFECTS,Interleukin-10,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0085295,C0312737,AFFECTS,Interleukin-10,Immunologic cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0085295,C1267822,AFFECTS,Interleukin-10,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0085297,C0005821,AFFECTS,"Immunoglobulins, Intravenous",Blood Platelets,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0085297,C0023516,AFFECTS,"Immunoglobulins, Intravenous",Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0086344,C0023516,AFFECTS,Immune response gene,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0087071,C0039194,AFFECTS,Telomerase,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0107053,C0029418,AFFECTS,Bradykinin Receptor,Osteoblasts,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0111215,C0596630,AFFECTS,CTOP,granule cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0118522,C0027950,AFFECTS,GA-Binding Protein Transcription Factor,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0123759,C0024432,AFFECTS,Interleukin-12,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0123759,C0039194,AFFECTS,Interleukin-12,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0123759,C0682639,AFFECTS,Interleukin-12,Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0134835,C0026473,AFFECTS,P-Selectin,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0162508,C1711178,AFFECTS,JUN gene,Bronchial Epithelial Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0164786,C3826603,AFFECTS,Proto-Oncogene Proteins c-akt,Cell metabolism,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0166417,C0206131,AFFECTS,PPAR gamma,Adipocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0172537,C1512505,AFFECTS,Matrix Metalloproteinase 2,Breast Cancer Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0174680,C0334227,AFFECTS,Cyclin D1,"Tumor cells, malignant",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0178663,C0018873,AFFECTS,globular protein,HeLa Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0214743,C0024880,AFFECTS,Interleukin-13,mast cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0214743,C0085236,AFFECTS,Interleukin-13,"Macrophages, Alveolar",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0215469,C0039194,AFFECTS,"CXCL9 protein, human",T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0215469,C0085080,AFFECTS,"CXCL9 protein, human",Chinese Hamster Ovary Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0215848,C0023516,AFFECTS,Hypoxia-Inducible Factor 1,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0218504,C0039194,AFFECTS,Chemokine CXCL12,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0243041,C1512977,AFFECTS,Molecular Chaperones,Mammalian Cell,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0243043,C0027950,AFFECTS,Heat-Shock Proteins 70,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0245109,C0005821,AFFECTS,anakinra,Blood Platelets,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0245109,C0027950,AFFECTS,anakinra,neutrophil,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0253781,C0312738,AFFECTS,"Immunoglobulin Light Chains, Surrogate",Pre-B Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0254610,C0242629,AFFECTS,Interleukin-15,CD8-Positive T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0004112,AFFECTS,chemokine,Astrocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0004827,AFFECTS,chemokine,Basophils,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0014467,AFFECTS,chemokine,eosinophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0023516,AFFECTS,chemokine,Leukocytes,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0282554,C0024264,AFFECTS,chemokine,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0024432,AFFECTS,chemokine,macrophage,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0282554,C0027950,AFFECTS,chemokine,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0039194,AFFECTS,chemokine,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0221284,AFFECTS,chemokine,Leptocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0440752,AFFECTS,chemokine,Inflammatory cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282554,C0682639,AFFECTS,chemokine,Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282625,C3714800,AFFECTS,src-Family Kinases,SCID-Repopulating Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0282682,C1321301,AFFECTS,"Antibodies, Blocking",Peripheral blood mononuclear cell (cell),aapp,cell,1,AFFECTS_AAPPafctCELL
+C0287990,C0022688,AFFECTS,paired basic amino acid cleaving enzyme,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0287990,C0039195,AFFECTS,paired basic amino acid cleaving enzyme,Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0298911,C0038250,AFFECTS,"TAR1 protein, Colocasia esculenta",Stem cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0299544,C0039194,AFFECTS,Interferon Regulatory Factor 4,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0299583,C0027882,AFFECTS,leptin,Neurons,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0305052,C0227525,AFFECTS,Gamma globulin serum,Hepatocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0376515,C0334227,AFFECTS,BCL2 gene,"Tumor cells, malignant",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0376515,C1513095,AFFECTS,BCL2 gene,Melanoma Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0376515,C3896693,AFFECTS,BCL2 gene,Bone Marrow-Derived Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0384768,C0947286,AFFECTS,"IRF3 protein, human",Cell positive for CD14 antigen,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0393022,C0018894,AFFECTS,rituximab,Helper-Inducer T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0443640,C0039194,AFFECTS,Specific antibody,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0443640,C0242632,AFFECTS,Specific antibody,T-helper cell type 1,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0475463,C0039194,AFFECTS,"Antibodies, Neutralizing",T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0529196,C0225828,AFFECTS,ADAM17 Protein,"Myocytes, Cardiac",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0534519,C0007600,AFFECTS,Caspase-1,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0534519,C0026473,AFFECTS,Caspase-1,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0535298,C0206116,AFFECTS,Fractalkine,Microglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0537423,C0206131,AFFECTS,Transcription Factor 7-Like 2,Adipocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0538091,C0039194,AFFECTS,caspase-6,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0004827,AFFECTS,receptor,Basophils,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0007600,AFFECTS,receptor,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0011306,AFFECTS,receptor,Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0014597,AFFECTS,receptor,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0022688,AFFECTS,receptor,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0024432,AFFECTS,receptor,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0026473,AFFECTS,receptor,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0027950,AFFECTS,receptor,neutrophil,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0597357,C0039194,AFFECTS,receptor,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C0444746,AFFECTS,receptor,Endocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597357,C1328818,AFFECTS,receptor,Podocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0597551,C1321301,AFFECTS,synthetic peptide,Peripheral blood mononuclear cell (cell),aapp,cell,1,AFFECTS_AAPPafctCELL
+C0599874,C0080202,AFFECTS,Dioxygenases,T-Lymphocyte Subsets,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0599947,C0016030,AFFECTS,release factor,Fibroblasts,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0599947,C1135918,AFFECTS,release factor,"Myocytes, Smooth Muscle",aapp,cell,1,AFFECTS_AAPPafctCELL
+C0666173,C0022801,AFFECTS,"RANTES, Met-",Hepatic macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0669372,C0007600,AFFECTS,"NOS2A protein, human",Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0669372,C0024432,AFFECTS,"NOS2A protein, human",macrophage,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0669372,C0027882,AFFECTS,"NOS2A protein, human",Neurons,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0699917,C0023516,AFFECTS,N acetylglucosaminidase,Leukocytes,aapp,cell,2,AFFECTS_AAPPafctCELL
+C0795677,C0022801,AFFECTS,"von Willebrand factor, human",Hepatic macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0795677,C0024432,AFFECTS,"von Willebrand factor, human",macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0796385,C0024432,AFFECTS,Fc-Gamma Receptor II,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0812303,C0004561,AFFECTS,FYN gene,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0962190,C0312737,AFFECTS,interleukin-21,Immunologic cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C0965245,C0039194,AFFECTS,"CD274 protein, human",T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1099914,C1321301,AFFECTS,"IL12B protein, human",Peripheral blood mononuclear cell (cell),aapp,cell,1,AFFECTS_AAPPafctCELL
+C1100850,C0024880,AFFECTS,"TPT1 protein, human",mast cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1120843,C0014597,AFFECTS,mitogen-activated protein kinase p38,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1120843,C0024432,AFFECTS,mitogen-activated protein kinase p38,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1143976,C0887899,AFFECTS,"TREM2 protein, human",Myeloid Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1172366,C0029974,AFFECTS,CTLA-4-Ig,Ovum,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1179841,C0225336,AFFECTS,Plasma membrane protein,Endothelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1256770,C0206116,AFFECTS,Vascular Endothelial Growth Factors,Microglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1256770,C0334227,AFFECTS,Vascular Endothelial Growth Factors,"Tumor cells, malignant",aapp,cell,1,AFFECTS_AAPPafctCELL
+C1259013,C2708700,AFFECTS,"IL2RB protein, human",Immature cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1307407,C0015161,AFFECTS,"FRAP1 protein, human",Eukaryotic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1310468,C2936239,AFFECTS,"DDX58 protein, human",HEK293 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1311116,C0024432,AFFECTS,"RBPJ protein, human",macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1312154,C0225336,AFFECTS,"BMPR2 protein, human",Endothelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1313290,C3714800,AFFECTS,"ADAM15 protein, human",SCID-Repopulating Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332110,C1441322,AFFECTS,ARHGEF1 gene,Viable cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332397,C0227525,AFFECTS,BCL2L1 gene,Hepatocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332673,C0027950,AFFECTS,ACKR2 gene,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332682,C0039194,AFFECTS,CCL19 gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332684,C0023516,AFFECTS,CCL21 gene,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332692,C0026473,AFFECTS,CCL7 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332699,C0026473,AFFECTS,CCR1 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332699,C0242632,AFFECTS,CCR1 gene,T-helper cell type 1,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332700,C0007600,AFFECTS,CCR5 gene,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332700,C0682639,AFFECTS,CCR5 gene,Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332817,C0023516,AFFECTS,CXCL12 gene,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332817,C0032112,AFFECTS,CXCL12 gene,Plasma Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332822,C0039194,AFFECTS,CXCR3 gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332822,C0242629,AFFECTS,CXCR3 gene,CD8-Positive T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332822,C0682639,AFFECTS,CXCR3 gene,Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1332838,C0038250,AFFECTS,Candidate Disease Gene,Stem cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1333723,C0024432,AFFECTS,GTF2H1 gene,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1334139,C0206116,AFFECTS,IRF3 gene,Microglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1334139,C1514760,AFFECTS,IRF3 gene,Receptor Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1334877,C1514760,AFFECTS,NFKBIA gene,Receptor Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1335283,C0024432,AFFECTS,PTPN6 gene,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1335283,C2323499,AFFECTS,PTPN6 gene,Hematopoietic cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1335872,C0022688,AFFECTS,STAT1 gene,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1335872,C0024432,AFFECTS,STAT1 gene,macrophage,aapp,cell,2,AFFECTS_AAPPafctCELL
+C1335872,C0162597,AFFECTS,STAT1 gene,Stromal Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1335872,C3896693,AFFECTS,STAT1 gene,Bone Marrow-Derived Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1335875,C0039198,AFFECTS,STAT5A gene,Regulatory T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1336596,C0004561,AFFECTS,TCF3 gene,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1336624,C1321301,AFFECTS,TGFBR1 gene,Peripheral blood mononuclear cell (cell),aapp,cell,1,AFFECTS_AAPPafctCELL
+C1336763,C0018873,AFFECTS,Toll-Like Receptor Family Gene,HeLa Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1366565,C0027950,AFFECTS,SLPI gene,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1366753,C0014597,AFFECTS,STAT protein,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1367307,C0004561,AFFECTS,STAT3 gene,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1367307,C0039215,AFFECTS,STAT3 gene,CD4 Positive T Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1367710,C0004827,AFFECTS,C5 gene,Basophils,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1367710,C0005955,AFFECTS,C5 gene,Bone Marrow Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1384672,C0017471,AFFECTS,HPT gene,Germ Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1412511,C0815000,AFFECTS,ARF6 gene,neuroblastoma cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1412526,C0007600,AFFECTS,ARHGDIB gene,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1413188,C0023516,AFFECTS,CCR2 gene,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1413188,C1515881,AFFECTS,CCR2 gene,Activated Natural Killer Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1413191,C0024432,AFFECTS,CCR7 gene,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1414133,C0022567,AFFECTS,DPAGT1 gene,keratinocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1414334,C0039194,AFFECTS,EIF2S1 gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1414609,C0024432,AFFECTS,FGL2 gene,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1414609,C0039198,AFFECTS,FGL2 gene,Regulatory T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1414609,C1267822,AFFECTS,FGL2 gene,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1415284,C0027882,AFFECTS,GRAP2 gene,Neurons,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1415321,C0225336,AFFECTS,GSK3B gene,Endothelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1415894,C0027882,AFFECTS,IFIT2 gene,Neurons,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1416167,C2936239,AFFECTS,IGKJ2 gene,HEK293 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1416467,C0039194,AFFECTS,FOXP3 gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1416469,C0039194,AFFECTS,IPP gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1417496,C4277577,AFFECTS,MUC4 gene,A549 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1417510,C0007600,AFFECTS,MX1 gene,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1417719,C0027883,AFFECTS,NGF gene,Afferent neuron,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1417914,C0024432,AFFECTS,OAS3 gene,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1418401,C0031307,AFFECTS,PDCD1 gene,Phagocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1418401,C0242629,AFFECTS,PDCD1 gene,CD8-Positive T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1418401,C3899239,AFFECTS,PDCD1 gene,Exhausted T-Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1418597,C0039194,AFFECTS,PITX3 gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1418715,C0027882,AFFECTS,PNN gene,Neurons,aapp,cell,2,AFFECTS_AAPPafctCELL
+C1418793,C4330475,AFFECTS,PPIA gene,Immune Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1419941,C0596208,AFFECTS,SELPLG gene,brain cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1420120,C0004112,AFFECTS,SLC1A2 gene,Astrocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1420122,C0028944,AFFECTS,SLC1A4 gene,Oligodendroglia,aapp,cell,2,AFFECTS_AAPPafctCELL
+C1420192,C0018873,AFFECTS,SLC3A2 gene,HeLa Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1420313,C0024264,AFFECTS,SORT1 gene,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1420313,C0024432,AFFECTS,SORT1 gene,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1420426,C0026473,AFFECTS,SSFA2 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1420744,C0004561,AFFECTS,TJP1 gene,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1421245,C0206116,AFFECTS,TWSG1 gene,Microglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1421504,C3273371,AFFECTS,FOXN1 gene,CD4 Positive Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1422014,C0039194,AFFECTS,UNC93B1 gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1422055,C0026473,AFFECTS,POLE3 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1422064,C0018873,AFFECTS,ACE2 gene,HeLa Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1422064,C3850017,AFFECTS,ACE2 gene,Endothelial Progenitor Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1422064,C4082861,AFFECTS,ACE2 gene,Vascular smooth muscle cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1423039,C0014597,AFFECTS,IL22RA2 gene,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1423633,C0004561,AFFECTS,TLR9 gene,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1423633,C0039215,AFFECTS,TLR9 gene,CD4 Positive T Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1423633,C1956385,AFFECTS,TLR9 gene,Plasmacytoid Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1423842,C0039195,AFFECTS,NELFCD gene,Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1423884,C0022688,AFFECTS,WNT3A gene,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1424158,C0887899,AFFECTS,TRIM33 gene,Myeloid Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1424460,C4322670,AFFECTS,CXCL16 gene,CD3+ T lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1425322,C3714800,AFFECTS,KHDRBS1 gene,SCID-Repopulating Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1425475,C0039198,AFFECTS,IFNL3 gene,Regulatory T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1425964,C0682689,AFFECTS,TRIM56 gene,neuron type,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1426113,C0242629,AFFECTS,TERF2IP gene,CD8-Positive T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1427373,C0227525,AFFECTS,RNF135 gene,Hepatocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1427382,C0030281,AFFECTS,RHOT1 gene,Structure of beta Cell of islet,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1427984,C4505192,AFFECTS,HBP1 gene,THP-1 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1442738,C0596890,AFFECTS,PABPC1 gene,MCF-7 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1448177,C0024432,AFFECTS,"TNF protein, human",macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1449159,C0026473,AFFECTS,"CCL2 protein, human",Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1449159,C1522173,AFFECTS,"CCL2 protein, human",CNS - Brain - Astrocyte (MMHCC),aapp,cell,1,AFFECTS_AAPPafctCELL
+C1453853,C0596979,AFFECTS,"WNK1 protein, human",Muller Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1454489,C0027882,AFFECTS,"MAPT protein, human",Neurons,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1521898,C0031307,AFFECTS,"FCGR3A protein, human",Phagocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1522712,C3641722,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Effector T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1528365,C1512505,AFFECTS,FITC-annexin A5,Breast Cancer Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1528378,C0024432,AFFECTS,"IL13RA1 protein, human",macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1533698,C4277577,AFFECTS,Nitric Oxide Synthase Type II,A549 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1537730,C0027882,AFFECTS,MIR27B gene,Neurons,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1537781,C0022688,AFFECTS,MIR132 gene,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1537781,C0026473,AFFECTS,MIR132 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1537811,C0026473,AFFECTS,MIR155 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1538586,C0007600,AFFECTS,PARP9 gene,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1539098,C1257739,AFFECTS,CLEC4G gene,NIH 3T3 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1539847,C1512899,AFFECTS,SRFBP1 gene,Interphase Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1540210,C0230517,AFFECTS,ASZ1 gene,Dividing cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1540210,C1440394,AFFECTS,ASZ1 gene,Cells.S phase,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1540290,C0596993,AFFECTS,CD200R1 gene,Myeloid Progenitor Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1564904,C0039194,AFFECTS,Catenins,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1565115,C0039194,AFFECTS,Apoptosis Inducing Proteins,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1624602,C0024432,AFFECTS,Anti-Antibodies,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1624602,C0598829,AFFECTS,Anti-Antibodies,Madin Darby Canine Kidney Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1624602,C1563925,AFFECTS,Anti-Antibodies,Tr1 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1675724,C0039195,AFFECTS,"FASLG protein, human",Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1679839,C0312737,AFFECTS,"PRDM1 protein, human",Immunologic cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1698754,C0026473,AFFECTS,"IL6 protein, human",Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1698754,C0225828,AFFECTS,"IL6 protein, human","Myocytes, Cardiac",aapp,cell,1,AFFECTS_AAPPafctCELL
+C1701032,C1956385,AFFECTS,"ITGAM protein, human",Plasmacytoid Dendritic Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1701084,C0039194,AFFECTS,"CD9 protein, human",T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1701790,C0027950,AFFECTS,"IL17A protein, human",neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1702088,C0023516,AFFECTS,"IL5 protein, human",Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1702088,C0024880,AFFECTS,"IL5 protein, human",mast cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1704691,C0022688,AFFECTS,FCGR3A wt Allele,Natural Killer Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1704691,C0024432,AFFECTS,FCGR3A wt Allele,macrophage,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1704691,C0027950,AFFECTS,FCGR3A wt Allele,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1705316,C0004561,AFFECTS,TERT wt Allele,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1705316,C0007600,AFFECTS,TERT wt Allele,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1706005,C0029974,AFFECTS,CD40LG wt Allele,Ovum,aapp,cell,2,AFFECTS_AAPPafctCELL
+C1708015,C0007600,AFFECTS,FGF2 wt Allele,Cultured Cell Line,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1708015,C0028944,AFFECTS,FGF2 wt Allele,Oligodendroglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1822723,C0004561,AFFECTS,SIAE gene,B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1824430,C0206116,AFFECTS,IL34 gene,Microglia,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1824884,C0027950,AFFECTS,ACKR1 gene,neutrophil,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1825368,C0599455,AFFECTS,GLIPR1L1 gene,sperm protein,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1825598,C0039194,AFFECTS,IMPACT gene,T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1825598,C0312737,AFFECTS,IMPACT gene,Immunologic cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1825632,C0599455,AFFECTS,IZUMO1 gene,sperm protein,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1826435,C0026473,AFFECTS,NLRP1 gene,Monocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1826560,C0524984,AFFECTS,PDPN gene,Somatostatin-Secreting Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1865043,C2717940,AFFECTS,ATG12 gene,Hep G2 Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1881023,C0009013,AFFECTS,"HLA Class II Histocompatibility Antigen, DRB1-4 Beta Chain Protein",Clone Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1883559,C0598829,AFFECTS,Wild Type,Madin Darby Canine Kidney Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C1955907,C0206131,AFFECTS,Adipokines,Adipocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C2350389,C0003273,AFFECTS,Growth Differentiation Factors,Antibody-Producing Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C2698903,C1711178,AFFECTS,"JAG1 protein, human",Bronchial Epithelial Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C2826021,C4330475,AFFECTS,MIR223 wt Allele,Immune Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C2936401,C0014597,AFFECTS,"Receptors, Purinergic P2Y",Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C2945724,C0017526,AFFECTS,f-protein,Giant Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C2986868,C0682639,AFFECTS,TNFRSF4 wt Allele,Memory T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3491973,C0227525,AFFECTS,myrcludex-B,Hepatocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3538735,C1321301,AFFECTS,AMH wt Allele,Peripheral blood mononuclear cell (cell),aapp,cell,1,AFFECTS_AAPPafctCELL
+C3540571,C0014597,AFFECTS,MT1G wt Allele,Epithelial Cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3540595,C0023516,AFFECTS,CD8A wt Allele,Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3540595,C0242629,AFFECTS,CD8A wt Allele,CD8-Positive T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3710914,C0206190,AFFECTS,"EIF2AK2 protein, human","Macrophages, Peritoneal",aapp,cell,2,AFFECTS_AAPPafctCELL
+C3839127,C0024264,AFFECTS,Protein coding gene,Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3887683,C0023516,AFFECTS,"T-Cell Surface Glycoprotein CD5, human",Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3887683,C0039194,AFFECTS,"T-Cell Surface Glycoprotein CD5, human",T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C3891562,C3641722,AFFECTS,"CD45RB, human",Effector T-Lymphocyte,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4038479,C0039195,AFFECTS,HLA class I,Cytotoxic T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4048280,C0023516,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Leukocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4048280,C0242629,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",CD8-Positive T-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4048302,C0004561,AFFECTS,"T-Lymphocyte Activation Antigen CD80, human",B-Lymphocytes,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4084937,C0038250,AFFECTS,Antimicrobial Peptide,Stem cells,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4084937,C1707937,AFFECTS,Antimicrobial Peptide,Epithelial Stem Cell,aapp,cell,1,AFFECTS_AAPPafctCELL
+C4281805,C0039194,AFFECTS,"T-Cell-Specific Surface Glycoprotein CD28, human",T-Lymphocyte,aapp,cell,2,AFFECTS_AAPPafctCELL

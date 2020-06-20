@@ -1,0 +1,39 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0015737,C0018104,ISA,Federal Government,Government,orgt,orgt,1,ISA_ORGTisaORGT
+C0015737,C0029246,ISA,Federal Government,Organization administrative structures,orgt,orgt,10,ISA_ORGTisaORGT
+C0016617,C0029246,ISA,Foundations,Organization administrative structures,orgt,orgt,8,ISA_ORGTisaORGT
+C0016617,C0029247,ISA,Foundations,Nonprofit Organizations,orgt,orgt,2,ISA_ORGTisaORGT
+C0018104,C0029246,ISA,Government,Organization administrative structures,orgt,orgt,95,ISA_ORGTisaORGT
+C0018105,C0018104,ISA,Government Agencies,Government,orgt,orgt,1,ISA_ORGTisaORGT
+C0018105,C0029246,ISA,Government Agencies,Organization administrative structures,orgt,orgt,6,ISA_ORGTisaORGT
+C0021622,C0029246,ISA,Institutes,Organization administrative structures,orgt,orgt,4,ISA_ORGTisaORGT
+C0021784,C0029246,ISA,International Agencies,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0026788,C0029246,ISA,Local Government,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0029247,C0029246,ISA,Nonprofit Organizations,Organization administrative structures,orgt,orgt,5,ISA_ORGTisaORGT
+C0035172,C0029246,ISA,Research Institutes,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0041677,C0029246,ISA,UNESCO,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0041682,C0021784,ISA,UNICEF,International Agencies,orgt,orgt,1,ISA_ORGTisaORGT
+C0041682,C0029246,ISA,UNICEF,Organization administrative structures,orgt,orgt,2,ISA_ORGTisaORGT
+C0041701,C0021784,ISA,United Nations,International Agencies,orgt,orgt,1,ISA_ORGTisaORGT
+C0041701,C0029246,ISA,United Nations,Organization administrative structures,orgt,orgt,12,ISA_ORGTisaORGT
+C0043234,C0029246,ISA,World Bank,Organization administrative structures,orgt,orgt,9,ISA_ORGTisaORGT
+C0043234,C0041701,ISA,World Bank,United Nations,orgt,orgt,1,ISA_ORGTisaORGT
+C0085410,C0029246,ISA,United States Department of Agriculture,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0242527,C0021784,ISA,UNHCR,International Agencies,orgt,orgt,1,ISA_ORGTisaORGT
+C0282271,C0029246,ISA,Non-Governmental Organizations,Organization administrative structures,orgt,orgt,7,ISA_ORGTisaORGT
+C0557799,C1510747,ISA,Grammar school,Academia (organization),orgt,orgt,1,ISA_ORGTisaORGT
+C0600216,C0015179,ISA,European Common Market,European Union,orgt,orgt,3,ISA_ORGTisaORGT
+C0600274,C0026788,ISA,County Government,Local Government,orgt,orgt,1,ISA_ORGTisaORGT
+C0680774,C0018104,ISA,independent agency,Government,orgt,orgt,3,ISA_ORGTisaORGT
+C0680775,C0018104,ISA,regulatory agency,Government,orgt,orgt,1,ISA_ORGTisaORGT
+C0680778,C0018104,ISA,army,Government,orgt,orgt,1,ISA_ORGTisaORGT
+C0680779,C0018104,ISA,national guard,Government,orgt,orgt,1,ISA_ORGTisaORGT
+C0680779,C0680778,ISA,national guard,army,orgt,orgt,3,ISA_ORGTisaORGT
+C0680936,C0029246,ISA,trade association,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0681331,C1510747,ISA,higher education institution,Academia (organization),orgt,orgt,1,ISA_ORGTisaORGT
+C0683756,C0029246,ISA,Business Organization,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C0683758,C0029246,ISA,corporation,Organization administrative structures,orgt,orgt,6,ISA_ORGTisaORGT
+C1608220,C0018104,ISA,federal agency,Government,orgt,orgt,2,ISA_ORGTisaORGT
+C1608220,C0029246,ISA,federal agency,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT
+C2350578,C0029246,ISA,Public-Private Sector Partnerships,Organization administrative structures,orgt,orgt,3,ISA_ORGTisaORGT
+C4042919,C0029246,ISA,African Union,Organization administrative structures,orgt,orgt,1,ISA_ORGTisaORGT

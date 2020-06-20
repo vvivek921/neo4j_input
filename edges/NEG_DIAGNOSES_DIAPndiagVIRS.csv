@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0042776,NEG_DIAGNOSES,Autopsy,Virus,diap,virs,2,NEG_DIAGNOSES_DIAPndiagVIRS
+C0005558,C0042776,NEG_DIAGNOSES,Biopsy,Virus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0006290,C0010825,NEG_DIAGNOSES,Bronchoscopy,Cytomegalovirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0006290,C0029341,NEG_DIAGNOSES,Bronchoscopy,Orthomyxoviridae,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0006290,C0042776,NEG_DIAGNOSES,Bronchoscopy,Virus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0006290,C3698360,NEG_DIAGNOSES,Bronchoscopy,Middle East Respiratory Syndrome Coronavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0011906,C0021344,NEG_DIAGNOSES,Differential Diagnosis,Human Papillomavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0021044,C0029341,NEG_DIAGNOSES,Immunohistochemistry,Orthomyxoviridae,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0021044,C0042776,NEG_DIAGNOSES,Immunohistochemistry,Virus,diap,virs,3,NEG_DIAGNOSES_DIAPndiagVIRS
+C0021044,C0206419,NEG_DIAGNOSES,Immunohistochemistry,Genus: Coronavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0021044,C0318855,NEG_DIAGNOSES,Immunohistochemistry,Porcine epidemic diarrhea virus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0021044,C1175743,NEG_DIAGNOSES,Immunohistochemistry,SARS coronavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0086143,C0042776,NEG_DIAGNOSES,Diagnostic tests,Virus,diap,virs,2,NEG_DIAGNOSES_DIAPndiagVIRS
+C0086143,C0318855,NEG_DIAGNOSES,Diagnostic tests,Porcine epidemic diarrhea virus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0086143,C1258014,NEG_DIAGNOSES,Diagnostic tests,Human Metapneumovirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0430022,C0021335,NEG_DIAGNOSES,diagnostic procedure,Bovine herpesvirus 1,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0430022,C0032556,NEG_DIAGNOSES,diagnostic procedure,Polyomavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0430022,C0042776,NEG_DIAGNOSES,diagnostic procedure,Virus,diap,virs,2,NEG_DIAGNOSES_DIAPndiagVIRS
+C0430022,C0206545,NEG_DIAGNOSES,diagnostic procedure,Human respiratory syncytial virus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0430022,C0949920,NEG_DIAGNOSES,diagnostic procedure,Norovirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0430022,C0950102,NEG_DIAGNOSES,diagnostic procedure,Parechovirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0750430,C0001483,NEG_DIAGNOSES,work up,Adenoviruses,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0750430,C0035473,NEG_DIAGNOSES,work up,Rhinovirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C0872186,C0949883,NEG_DIAGNOSES,high throughput analysis,Bornavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C1318310,C0026394,NEG_DIAGNOSES,Red cell mass procedure,Molluscum contagiosum virus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C1964257,C0085512,NEG_DIAGNOSES,Observation - diagnostic procedure,Torovirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C1964257,C0206419,NEG_DIAGNOSES,Observation - diagnostic procedure,Genus: Coronavirus,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS
+C1964257,C0597404,NEG_DIAGNOSES,Observation - diagnostic procedure,Respiratory viruses,diap,virs,1,NEG_DIAGNOSES_DIAPndiagVIRS

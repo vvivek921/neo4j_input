@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0086413,CONVERTS_TO,Immunologic Adjuvants,HIV Vaccine,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0002092,C0003316,CONVERTS_TO,Allergens,Epitopes,imft,imft,6,CONVERTS_TO_IMFTcvttIMFT
+C0002092,C0003320,CONVERTS_TO,Allergens,Antigens,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0003316,C0003320,CONVERTS_TO,Epitopes,Antigens,imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C0003316,CONVERTS_TO,Antigens,Epitopes,imft,imft,5,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C0282580,CONVERTS_TO,Antigens,"Epitopes, T-Lymphocyte",imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C1883036,CONVERTS_TO,Antigens,Single-Chain Antibodies,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0003342,C0003320,CONVERTS_TO,"Antigens, Viral",Antigens,imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C0003445,C0456981,CONVERTS_TO,Antitoxins,Specific antigen,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0004359,C0282580,CONVERTS_TO,Autoantigens,"Epitopes, T-Lymphocyte",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0019168,C0887892,CONVERTS_TO,Hepatitis B Surface Antigens,"Vaccines, Subunit",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0042210,C0021403,CONVERTS_TO,Vaccines,Influenza virus vaccine,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0042210,C0032375,CONVERTS_TO,Vaccines,Oral Poliovirus Vaccine,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0042210,C0042212,CONVERTS_TO,Vaccines,"Vaccines, Inactivated",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0042211,C0042210,CONVERTS_TO,"Vaccines, Attenuated",Vaccines,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0042211,C2352429,CONVERTS_TO,"Vaccines, Attenuated",imvamune,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0552764,C0042210,CONVERTS_TO,Hepatitis B virus core Ag,Vaccines,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C1291777,C0003316,CONVERTS_TO,Protein antigen,Epitopes,imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C1291777,C0282580,CONVERTS_TO,Protein antigen,"Epitopes, T-Lymphocyte",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C1320239,C0003316,CONVERTS_TO,Food allergen,Epitopes,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C1545500,C0003316,CONVERTS_TO,Influenza virus A hemagglutinin,Epitopes,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT

@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0001551,HIGHER_THAN,Immunization,Immunologic Adjuvants,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0020971,C0003316,HIGHER_THAN,Immunization,Epitopes,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0020971,C0003320,HIGHER_THAN,Immunization,Antigens,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0020975,C0003316,HIGHER_THAN,Secondary Immunization,Epitopes,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0040808,C0042210,HIGHER_THAN,Treatment Protocols,Vaccines,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0003320,HIGHER_THAN,Vaccination,Antigens,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0021403,HIGHER_THAN,Vaccination,Influenza virus vaccine,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0037355,HIGHER_THAN,Vaccination,Smallpox Vaccine,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0042210,HIGHER_THAN,Vaccination,Vaccines,topp,imft,4,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0042211,HIGHER_THAN,Vaccination,"Vaccines, Attenuated",topp,imft,2,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0042742,HIGHER_THAN,Vaccination,Viral Vaccines,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0301838,HIGHER_THAN,Vaccination,Soluble antigen,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0281176,C0042210,HIGHER_THAN,antibody therapy,Vaccines,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C1511790,C0003316,HIGHER_THAN,Detection,Epitopes,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT

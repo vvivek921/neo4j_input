@@ -1,0 +1,64 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001418,C0007137,PRECEDES,Adenocarcinoma,Squamous cell carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0001418,C0007138,PRECEDES,Adenocarcinoma,"Carcinoma, Transitional Cell",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0001418,C0242379,PRECEDES,Adenocarcinoma,Malignant neoplasm of lung,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0004114,C0025149,PRECEDES,Astrocytoma,Medulloblastoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006118,C0024299,PRECEDES,Brain Neoplasms,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006142,C0751623,PRECEDES,Malignant neoplasm of breast,Second Primary Cancers,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006826,C0006142,PRECEDES,Malignant Neoplasms,Malignant neoplasm of breast,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006826,C0007137,PRECEDES,Malignant Neoplasms,Squamous cell carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006826,C0010606,PRECEDES,Malignant Neoplasms,Adenoid Cystic Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006826,C0024299,PRECEDES,Malignant Neoplasms,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006826,C0024305,PRECEDES,Malignant Neoplasms,"Lymphoma, Non-Hodgkin",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0006826,C0035412,PRECEDES,Malignant Neoplasms,Rhabdomyosarcoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007134,C0023467,PRECEDES,Renal Cell Carcinoma,"Leukemia, Myelocytic, Acute",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007134,C0024299,PRECEDES,Renal Cell Carcinoma,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007134,C0027651,PRECEDES,Renal Cell Carcinoma,Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007137,C0010606,PRECEDES,Squamous cell carcinoma,Adenoid Cystic Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007138,C0001418,PRECEDES,"Carcinoma, Transitional Cell",Adenocarcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0010606,C0007137,PRECEDES,Adenoid Cystic Carcinoma,Squamous cell carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0019829,C0024305,PRECEDES,Hodgkin Disease,"Lymphoma, Non-Hodgkin",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0019829,C0035412,PRECEDES,Hodgkin Disease,Rhabdomyosarcoma,neop,neop,2,PRECEDES_NEOPprcdNEOP
+C0019829,C0549473,PRECEDES,Hodgkin Disease,Thyroid carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023418,C0024299,PRECEDES,leukemia,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023418,C0024305,PRECEDES,leukemia,"Lymphoma, Non-Hodgkin",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023418,C0035412,PRECEDES,leukemia,Rhabdomyosarcoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023449,C0019829,PRECEDES,Acute lymphocytic leukemia,Hodgkin Disease,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023449,C0085136,PRECEDES,Acute lymphocytic leukemia,Central Nervous System Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023467,C0023449,PRECEDES,"Leukemia, Myelocytic, Acute",Acute lymphocytic leukemia,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023467,C0026764,PRECEDES,"Leukemia, Myelocytic, Acute",Multiple Myeloma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024299,C0007134,PRECEDES,Lymphoma,Renal Cell Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024299,C0023467,PRECEDES,Lymphoma,"Leukemia, Myelocytic, Acute",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024299,C0027651,PRECEDES,Lymphoma,Neoplasms,neop,neop,2,PRECEDES_NEOPprcdNEOP
+C0024299,C0037286,PRECEDES,Lymphoma,Skin Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024305,C0006826,PRECEDES,"Lymphoma, Non-Hodgkin",Malignant Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024305,C0019829,PRECEDES,"Lymphoma, Non-Hodgkin",Hodgkin Disease,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024305,C0024299,PRECEDES,"Lymphoma, Non-Hodgkin",Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024305,C0035412,PRECEDES,"Lymphoma, Non-Hodgkin",Rhabdomyosarcoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024305,C0549473,PRECEDES,"Lymphoma, Non-Hodgkin",Thyroid carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024623,C0220630,PRECEDES,Malignant neoplasm of stomach,Adult Liver Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024623,C0242379,PRECEDES,Malignant neoplasm of stomach,Malignant neoplasm of lung,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0025149,C0004114,PRECEDES,Medulloblastoma,Astrocytoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027627,C0027651,PRECEDES,Neoplasm Metastasis,Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027651,C0001418,PRECEDES,Neoplasms,Adenocarcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027651,C0007097,PRECEDES,Neoplasms,Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027651,C0007138,PRECEDES,Neoplasms,"Carcinoma, Transitional Cell",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027651,C0027627,PRECEDES,Neoplasms,Neoplasm Metastasis,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027651,C0085136,PRECEDES,Neoplasms,Central Nervous System Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027819,C0024305,PRECEDES,Neuroblastoma,"Lymphoma, Non-Hodgkin",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027819,C0025149,PRECEDES,Neuroblastoma,Medulloblastoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0027819,C0035412,PRECEDES,Neuroblastoma,Rhabdomyosarcoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0029295,C0376545,PRECEDES,Oropharyngeal Neoplasms,Hematologic Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0035412,C1261473,PRECEDES,Rhabdomyosarcoma,Sarcoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0085136,C0019829,PRECEDES,Central Nervous System Neoplasms,Hodgkin Disease,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0085669,C0023449,PRECEDES,Acute leukemia,Acute lymphocytic leukemia,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0085669,C0024299,PRECEDES,Acute leukemia,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0085669,C1332225,PRECEDES,Acute leukemia,Aggressive Non-Hodgkin Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0242379,C0006142,PRECEDES,Malignant neoplasm of lung,Malignant neoplasm of breast,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0278584,C0001418,PRECEDES,Metastatic Carcinoma to the Uterine Cervix,Adenocarcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0278996,C0376545,PRECEDES,Malignant Head and Neck Neoplasm,Hematologic Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0376358,C0085183,PRECEDES,Malignant neoplasm of prostate,"Neoplasms, Second Primary",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0376545,C0006826,PRECEDES,Hematologic Neoplasms,Malignant Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0376545,C0009402,PRECEDES,Hematologic Neoplasms,Colorectal Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C1301355,C1279296,PRECEDES,Myelodysplastic-Myeloproliferative Diseases,Chronic leukemia (category),neop,neop,1,PRECEDES_NEOPprcdNEOP
+C3463824,C0024299,PRECEDES,MYELODYSPLASTIC SYNDROME,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP

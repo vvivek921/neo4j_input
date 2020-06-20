@@ -1,0 +1,65 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009449,C0042210,USES,Communicable Disease Control,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0009818,C0042210,USES,Consultation,Vaccines,hlca,imft,3,USES_HLCAusesIMFT
+C0023977,C0021081,USES,long-term care,Immunosuppressive Agents,hlca,imft,1,USES_HLCAusesIMFT
+C0023977,C0907160,USES,long-term care,pegylated interferon alfa,hlca,imft,1,USES_HLCAusesIMFT
+C0030685,C0001551,USES,Patient Discharge,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C0030685,C0019168,USES,Patient Discharge,Hepatitis B Surface Antigens,hlca,imft,2,USES_HLCAusesIMFT
+C0030685,C0042210,USES,Patient Discharge,Vaccines,hlca,imft,8,USES_HLCAusesIMFT
+C0033333,C0001551,USES,Program Development,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C0033333,C0042210,USES,Program Development,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0033333,C0086413,USES,Program Development,HIV Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0033333,C1548477,USES,Program Development,Dengue fever vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0039343,C0086413,USES,Tattooing,HIV Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0039423,C0042210,USES,"Technology Assessment, Biomedical",Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0085557,C0042210,USES,Infectious disease prevention / control,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0086930,C0001551,USES,Risk Assessment,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C0204695,C0042210,USES,Feeding patient,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0204695,C0310663,USES,Feeding patient,Animal disease vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0205787,C0042210,USES,Health Campaigns,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0206082,C0042210,USES,Immunization Programs,Vaccines,hlca,imft,12,USES_HLCAusesIMFT
+C0206082,C0042211,USES,Immunization Programs,"Vaccines, Attenuated",hlca,imft,3,USES_HLCAusesIMFT
+C0206082,C0078048,USES,Immunization Programs,Chickenpox Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0206082,C0717718,USES,Immunization Programs,"diphtheria/pertussis, whole cell/tetanus",hlca,imft,1,USES_HLCAusesIMFT
+C0206082,C1528013,USES,Immunization Programs,RotaTeq,hlca,imft,1,USES_HLCAusesIMFT
+C0206082,C1579314,USES,Immunization Programs,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed,hlca,imft,1,USES_HLCAusesIMFT
+C0206082,C2003457,USES,Immunization Programs,MenACWY,hlca,imft,1,USES_HLCAusesIMFT
+C0220825,C0021403,USES,Evaluation,Influenza virus vaccine,hlca,imft,2,USES_HLCAusesIMFT
+C0220825,C0042210,USES,Evaluation,Vaccines,hlca,imft,8,USES_HLCAusesIMFT
+C0220825,C0042211,USES,Evaluation,"Vaccines, Attenuated",hlca,imft,1,USES_HLCAusesIMFT
+C0220825,C0042212,USES,Evaluation,"Vaccines, Inactivated",hlca,imft,1,USES_HLCAusesIMFT
+C0220825,C0086413,USES,Evaluation,HIV Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0220825,C0376613,USES,Evaluation,"Vaccines, DNA",hlca,imft,1,USES_HLCAusesIMFT
+C0220825,C0887902,USES,Evaluation,"Vaccines, Edible",hlca,imft,1,USES_HLCAusesIMFT
+C0220825,C1541366,USES,Evaluation,allogeneic GM-CSF-secreting breast cancer vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0220908,C0001551,USES,Screening procedure,Immunologic Adjuvants,hlca,imft,2,USES_HLCAusesIMFT
+C0220908,C0019168,USES,Screening procedure,Hepatitis B Surface Antigens,hlca,imft,4,USES_HLCAusesIMFT
+C0220908,C0042210,USES,Screening procedure,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0220908,C0042742,USES,Screening procedure,Viral Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0441587,C0042210,USES,Clinical act of insertion,Vaccines,hlca,imft,3,USES_HLCAusesIMFT
+C0585648,C0021403,USES,Registration procedure,Influenza virus vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0700325,C0001551,USES,Patient observation,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C0805586,C0042210,USES,Challenge,Vaccines,hlca,imft,10,USES_HLCAusesIMFT
+C0805586,C0042211,USES,Challenge,"Vaccines, Attenuated",hlca,imft,1,USES_HLCAusesIMFT
+C0805586,C0376613,USES,Challenge,"Vaccines, DNA",hlca,imft,1,USES_HLCAusesIMFT
+C1261322,C0001551,USES,Evaluation procedure,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C1261322,C0042210,USES,Evaluation procedure,Vaccines,hlca,imft,4,USES_HLCAusesIMFT
+C1261322,C0358314,USES,Evaluation procedure,Pneumococcal vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C1331096,C0001551,USES,vaccine delivery,Immunologic Adjuvants,hlca,imft,3,USES_HLCAusesIMFT
+C1331096,C0042210,USES,vaccine delivery,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C1331096,C1519887,USES,vaccine delivery,Vaccine Antigen,hlca,imft,1,USES_HLCAusesIMFT
+C1514821,C0042210,USES,Registration,Vaccines,hlca,imft,2,USES_HLCAusesIMFT
+C1516615,C0005525,USES,Clinical Management,Biological Response Modifiers,hlca,imft,1,USES_HLCAusesIMFT
+C1516615,C0042210,USES,Clinical Management,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C1516879,C0376613,USES,Enrollment,"Vaccines, DNA",hlca,imft,1,USES_HLCAusesIMFT
+C2718016,C0042210,USES,Compassionate Use,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C4036459,C0042210,USES,Contacts,Vaccines,hlca,imft,3,USES_HLCAusesIMFT
+C4279933,C0025010,USES,Vaccination Campaign,Measles Vaccine,hlca,imft,2,USES_HLCAusesIMFT
+C4279933,C0032375,USES,Vaccination Campaign,Oral Poliovirus Vaccine,hlca,imft,4,USES_HLCAusesIMFT
+C4279933,C0034496,USES,Vaccination Campaign,Rabies Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C4279933,C0037355,USES,Vaccination Campaign,Smallpox Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C4279933,C0042210,USES,Vaccination Campaign,Vaccines,hlca,imft,8,USES_HLCAusesIMFT
+C4279933,C0042211,USES,Vaccination Campaign,"Vaccines, Attenuated",hlca,imft,1,USES_HLCAusesIMFT
+C4279933,C0042212,USES,Vaccination Campaign,"Vaccines, Inactivated",hlca,imft,1,USES_HLCAusesIMFT
+C4288300,C0042210,USES,Report Adverse Events,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C4505148,C0358314,USES,Vaccination Coverage,Pneumococcal vaccine,hlca,imft,1,USES_HLCAusesIMFT

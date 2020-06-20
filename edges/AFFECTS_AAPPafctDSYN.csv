@@ -1,0 +1,1607 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0009450,AFFECTS,Actins,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0001347,C0042749,AFFECTS,Acute-Phase Proteins,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0001347,C0042769,AFFECTS,Acute-Phase Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0001347,C0151317,AFFECTS,Acute-Phase Proteins,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0001898,C0042769,AFFECTS,Alanine,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0001924,C1565489,AFFECTS,Albumins,Renal Insufficiency,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002191,C0010674,AFFECTS,alpha 1-Antitrypsin,Cystic Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002191,C0011854,AFFECTS,alpha 1-Antitrypsin,"Diabetes Mellitus, Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002191,C0018133,AFFECTS,alpha 1-Antitrypsin,Graft-vs-Host Disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0002191,C0024117,AFFECTS,alpha 1-Antitrypsin,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002191,C0042769,AFFECTS,alpha 1-Antitrypsin,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002199,C0002871,AFFECTS,Interferon-alpha,Anemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002199,C0004364,AFFECTS,Interferon-alpha,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002199,C0004623,AFFECTS,Interferon-alpha,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002199,C0024440,AFFECTS,Interferon-alpha,"Macular Edema, Cystoid",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002210,C0848548,AFFECTS,alpha-Fetoproteins,hypertensive nephropathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002520,C0013570,AFFECTS,Amino Acids,"Ecthyma, Contagious",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002520,C0028326,AFFECTS,Amino Acids,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002520,C0042769,AFFECTS,Amino Acids,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002520,C0243026,AFFECTS,Amino Acids,Sepsis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0002520,C0263214,AFFECTS,Amino Acids,Pyotraumatic dermatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002520,C0343641,AFFECTS,Amino Acids,Human papilloma virus infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002520,C0392475,AFFECTS,Amino Acids,Roberts-SC phocomelia syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002529,C0021053,AFFECTS,Amino Acyl-tRNA Synthetases,Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002716,C0002726,AFFECTS,Amyloid,Amyloidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002716,C0042769,AFFECTS,Amyloid,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002716,C0232197,AFFECTS,Amyloid,Fibrillation,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002721,C0679225,AFFECTS,Serum Amyloid P-Component,multiple pathologies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002723,C0042769,AFFECTS,Serum amyloid A protein,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0002723,C1299888,AFFECTS,Serum amyloid A protein,Laminitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003009,C0017661,AFFECTS,angiotensin II,IGA Glomerulonephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003009,C0034069,AFFECTS,angiotensin II,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003009,C0035222,AFFECTS,angiotensin II,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003009,C0239946,AFFECTS,angiotensin II,"Fibrosis, Liver",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0003175,AFFECTS,Antibodies,Anthrax disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0004364,AFFECTS,Antibodies,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0004623,AFFECTS,Antibodies,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0009450,AFFECTS,Antibodies,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0010823,AFFECTS,Antibodies,Cytomegalovirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0017178,AFFECTS,Antibodies,Gastrointestinal Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0019693,AFFECTS,Antibodies,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0027873,AFFECTS,Antibodies,Neuromyelitis Optica,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0032300,AFFECTS,Antibodies,Lobar Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0033770,AFFECTS,Antibodies,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0035369,AFFECTS,Antibodies,Retroviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0035869,AFFECTS,Antibodies,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0042749,AFFECTS,Antibodies,Viremia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003241,C0042769,AFFECTS,Antibodies,Virus Diseases,aapp,dsyn,9,AFFECTS_AAPPafctDSYN
+C0003241,C0043124,AFFECTS,Antibodies,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0276500,AFFECTS,Antibodies,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0282687,AFFECTS,Antibodies,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0343537,AFFECTS,Antibodies,Specific viral infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0442886,AFFECTS,Antibodies,Secondary Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0748168,AFFECTS,Antibodies,Pulmonary Pathology,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0857836,AFFECTS,Antibodies,JC Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C0948343,AFFECTS,Antibodies,Transfusion-Related Acute Lung Injury,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C1096155,AFFECTS,Antibodies,Macrophage Activation Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003241,C1141957,AFFECTS,Antibodies,HIV Disease Course,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C1175175,AFFECTS,Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003241,C1264606,AFFECTS,Antibodies,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C1443953,AFFECTS,Antibodies,Acute viral disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C1535939,AFFECTS,Antibodies,Pneumocystis jiroveci pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C1698484,AFFECTS,Antibodies,Mucosal Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C1843013,AFFECTS,Antibodies,"Alzheimer disease, familial, type 3",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C2931826,AFFECTS,Antibodies,Potassium aggravated myotonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003241,C4288963,AFFECTS,Antibodies,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003242,C0027341,AFFECTS,"Antibodies, Anti-Idiotypic",Nail-Patella Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003242,C0033770,AFFECTS,"Antibodies, Anti-Idiotypic",Prune Belly Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003242,C0042769,AFFECTS,"Antibodies, Anti-Idiotypic",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003242,C0948343,AFFECTS,"Antibodies, Anti-Idiotypic",Transfusion-Related Acute Lung Injury,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003242,C1175175,AFFECTS,"Antibodies, Anti-Idiotypic",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003248,C0442886,AFFECTS,Heterophile Antibodies,Secondary Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0004364,AFFECTS,Monoclonal Antibodies,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0011303,AFFECTS,Monoclonal Antibodies,Demyelinating Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0014836,AFFECTS,Monoclonal Antibodies,Escherichia coli Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0036202,AFFECTS,Monoclonal Antibodies,Sarcoidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0042749,AFFECTS,Monoclonal Antibodies,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0042769,AFFECTS,Monoclonal Antibodies,Virus Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0003250,C0087031,AFFECTS,Monoclonal Antibodies,Juvenile-Onset Still Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0151317,AFFECTS,Monoclonal Antibodies,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0151798,AFFECTS,Monoclonal Antibodies,Hepatic necrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C0276289,AFFECTS,Monoclonal Antibodies,Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003250,C1175175,AFFECTS,Monoclonal Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003250,C2674218,AFFECTS,Monoclonal Antibodies,"SPHEROCYTOSIS, TYPE 1 (disorder)",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003253,C0021053,AFFECTS,"Antibodies, Viral",Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003253,C0042769,AFFECTS,"Antibodies, Viral",Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0003313,C0017658,AFFECTS,Immune complex,Glomerulonephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003313,C0042165,AFFECTS,Immune complex,Anterior uveitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003313,C0042384,AFFECTS,Immune complex,Vasculitis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0003313,C0042769,AFFECTS,Immune complex,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003323,C0019693,AFFECTS,CD4 Antigens,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003440,C0005779,AFFECTS,Antithrombins,Blood Coagulation Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003692,C0007222,AFFECTS,Arachidonate 15-Lipoxygenase,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0003693,C0007222,AFFECTS,Arachidonate 5-Lipoxygenase,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0004358,C0002871,AFFECTS,Autoantibodies,Anemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0004358,C0002878,AFFECTS,Autoantibodies,"Anemia, Hemolytic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0004358,C0003864,AFFECTS,Autoantibodies,Arthritis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0004358,C0014038,AFFECTS,Autoantibodies,Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0004358,C0034069,AFFECTS,Autoantibodies,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0004358,C0040034,AFFECTS,Autoantibodies,Thrombocytopenia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0004358,C0847092,AFFECTS,Autoantibodies,blood autoimmune disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0004630,C0036690,AFFECTS,Bacterial Toxins,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0006100,C0034063,AFFECTS,Bradykinin,Pulmonary Edema,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0006560,C0679225,AFFECTS,C-reactive protein,multiple pathologies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0006938,C0022658,AFFECTS,Captopril,Kidney Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0007267,C0035222,AFFECTS,Carnosine,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0007367,C0020538,AFFECTS,CATALASE,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0007428,C0003873,AFFECTS,Cathepsins,Rheumatoid Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0007578,C0019158,AFFECTS,Cell Adhesion Molecules,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0007578,C0032285,AFFECTS,Cell Adhesion Molecules,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0008145,C0010709,AFFECTS,Chitinases,Cyst,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0008546,C0042769,AFFECTS,Chromatin,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009316,C0010674,AFFECTS,Colistin,Cystic Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009316,C0032285,AFFECTS,Colistin,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009325,C0003864,AFFECTS,Collagen,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0003864,AFFECTS,Complement System Proteins,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0004364,AFFECTS,Complement System Proteins,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0009319,AFFECTS,Complement System Proteins,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0018081,AFFECTS,Complement System Proteins,Gonorrhea,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0034155,AFFECTS,Complement System Proteins,"Purpura, Thrombotic Thrombocytopenic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0035222,AFFECTS,Complement System Proteins,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0036690,AFFECTS,Complement System Proteins,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0042384,AFFECTS,Complement System Proteins,Vasculitis,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0009498,C0043124,AFFECTS,Complement System Proteins,West Nile Fever,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0009498,C0155765,AFFECTS,Complement System Proteins,Disease of capillaries,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0009498,C0206750,AFFECTS,Complement System Proteins,Coronavirus Infections,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0009498,C0276367,AFFECTS,Complement System Proteins,Chandipura virus disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C0948343,AFFECTS,Complement System Proteins,Transfusion-Related Acute Lung Injury,aapp,dsyn,7,AFFECTS_AAPPafctDSYN
+C0009498,C1175175,AFFECTS,Complement System Proteins,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C1290884,AFFECTS,Complement System Proteins,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C1519680,AFFECTS,Complement System Proteins,Tumor Immunity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009498,C2717961,AFFECTS,Complement System Proteins,Thrombotic Microangiopathies,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0009521,C0242966,AFFECTS,Complement C5a,Systemic Inflammatory Response Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009630,C0019158,AFFECTS,Concanavalin A,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0009630,C0032285,AFFECTS,Concanavalin A,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010590,C0024440,AFFECTS,Cycloserine,"Macular Edema, Cystoid",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0010590,C0032285,AFFECTS,Cycloserine,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010590,C0033036,AFFECTS,Cycloserine,Atrial Premature Complexes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010590,C0275518,AFFECTS,Cycloserine,Acute infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010592,C0019061,AFFECTS,Cyclosporine,Hemolytic-Uremic Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010592,C0021400,AFFECTS,Cyclosporine,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010592,C0034155,AFFECTS,Cyclosporine,"Purpura, Thrombotic Thrombocytopenic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010592,C0151317,AFFECTS,Cyclosporine,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010762,C0042769,AFFECTS,Cytochrome P450,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0010852,C0042769,AFFECTS,Cytoskeletal Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0012020,C0014038,AFFECTS,Diazooxonorleucine,Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0012512,C0042769,AFFECTS,Dipeptides,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0013765,C3178782,AFFECTS,Elastin,Aortic Stiffness,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0014242,C0007682,AFFECTS,Endorphins,CNS disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0014372,C0013369,AFFECTS,Enterotoxins,Dysentery,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0014372,C0267557,AFFECTS,Enterotoxins,Secretory diarrhea,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0015518,C0028754,AFFECTS,factor X,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0015980,C0343641,AFFECTS,Interferon-beta,Human papilloma virus infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0016904,C0027765,AFFECTS,gamma-Aminobutyric Acid,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017151,C1699136,AFFECTS,Gastrins,Gastric Mucositis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017278,C0042769,AFFECTS,"Gene Products, env",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0017376,C0042769,AFFECTS,"Genes, Viral",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0017429,C0024530,AFFECTS,"Genome, Human",Malaria,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017429,C0376538,AFFECTS,"Genome, Human",Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017687,C0020459,AFFECTS,Glucagon,Hyperinsulinism,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017757,C0700323,AFFECTS,Glucosephosphate Dehydrogenase,Observation of Neuromuscular Block,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017968,C0017162,AFFECTS,Glycoproteins,"Gastroenteritis, Transmissible, of Swine",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017968,C0033839,AFFECTS,Glycoproteins,Pseudorabies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017968,C0042769,AFFECTS,Glycoproteins,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0017968,C0206750,AFFECTS,Glycoproteins,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0017968,C1518296,AFFECTS,Glycoproteins,Neuropathogenesis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018284,C0004096,AFFECTS,Growth Factor,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018284,C0014175,AFFECTS,Growth Factor,Endometriosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018284,C0024117,AFFECTS,Growth Factor,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018284,C0699949,AFFECTS,Growth Factor,airway disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018358,C0027341,AFFECTS,Guanylate Cyclase,Nail-Patella Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018595,C0155765,AFFECTS,Haptoglobins,Disease of capillaries,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018847,C0276500,AFFECTS,Heat Shock Protein 27,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018850,C0004623,AFFECTS,Heat shock proteins,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0018850,C0036690,AFFECTS,Heat shock proteins,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0019046,C0002871,AFFECTS,Hemoglobin,Anemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0019629,C0042749,AFFECTS,Histocompatibility Antigens Class I,Viremia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0019652,C0042769,AFFECTS,Histones,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0019652,C0149871,AFFECTS,Histones,Deep Vein Thrombosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0019759,C0019163,AFFECTS,HLA-DP Antigens,Hepatitis B,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0019759,C1264606,AFFECTS,HLA-DP Antigens,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0019761,C1264606,AFFECTS,HLA-DQ Antigens,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0020838,C0004096,AFFECTS,Secretory Immunoglobulin A,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0020838,C0009450,AFFECTS,Secretory Immunoglobulin A,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0020960,C0276289,AFFECTS,Immune Sera,Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0020960,C1175175,AFFECTS,Immune Sera,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021017,C0033770,AFFECTS,Immunoglobulin Isotypes,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021027,C0025007,AFFECTS,Immunoglobulins,Measles,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021027,C0038054,AFFECTS,Immunoglobulins,"Sprue, Tropical",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021027,C0740766,AFFECTS,Immunoglobulins,acute pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021027,C3534575,AFFECTS,Immunoglobulins,Animal Health,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021641,C0003123,AFFECTS,Insulin,Anorexia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021641,C0011860,AFFECTS,Insulin,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021641,C0035222,AFFECTS,Insulin,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021641,C0085207,AFFECTS,Insulin,Gestational Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021641,C1096155,AFFECTS,Insulin,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021666,C0017661,AFFECTS,insulin-like growth factor 2,IGA Glomerulonephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021699,C0002792,AFFECTS,Integral Membrane Proteins,anaphylaxis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021699,C0006267,AFFECTS,Integral Membrane Proteins,Bronchiectasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021701,C0001486,AFFECTS,Integrins,Adenovirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021740,C0004623,AFFECTS,Recombinant Interferon-gamma,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021740,C1264606,AFFECTS,Recombinant Interferon-gamma,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021743,C0004623,AFFECTS,Interferon Type I,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021743,C0019693,AFFECTS,Interferon Type I,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021743,C0041296,AFFECTS,Interferon Type I,Tuberculosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021743,C0042769,AFFECTS,Interferon Type I,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0021743,C0524909,AFFECTS,Interferon Type I,"Hepatitis B, Chronic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021747,C0004096,AFFECTS,Interferons,Asthma,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0021747,C0010278,AFFECTS,Interferons,Craniosynostosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021747,C0019348,AFFECTS,Interferons,Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021747,C0042769,AFFECTS,Interferons,Virus Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0021747,C0275518,AFFECTS,Interferons,Acute infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021747,C0699949,AFFECTS,Interferons,airway disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0021747,C1290884,AFFECTS,Interferons,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021747,C4288963,AFFECTS,Interferons,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021753,C0035222,AFFECTS,Interleukin-1 beta,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0021753,C1860224,AFFECTS,Interleukin-1 beta,ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0004623,AFFECTS,Interleukin-1,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0011860,AFFECTS,Interleukin-1,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0016053,AFFECTS,Interleukin-1,Fibromyalgia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0016627,AFFECTS,Interleukin-1,Influenza in Birds,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0021400,AFFECTS,Interleukin-1,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0024117,AFFECTS,Interleukin-1,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0032285,AFFECTS,Interleukin-1,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0035222,AFFECTS,Interleukin-1,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0036690,AFFECTS,Interleukin-1,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0085306,AFFECTS,Interleukin-1,Feline infectious peritonitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0266313,AFFECTS,Interleukin-1,Allanson Pantzar McLeod syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0947961,AFFECTS,Interleukin-1,Atopic condition,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C0948245,AFFECTS,Interleukin-1,Cytokine release syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C2074898,AFFECTS,Interleukin-1,chronic Lung Inflammations,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021755,C2939465,AFFECTS,Interleukin-1,Deficiency of glucose-6-phosphate dehydrogenase,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021756,C0016053,AFFECTS,Interleukin-2,Fibromyalgia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021756,C0021051,AFFECTS,Interleukin-2,Immunologic Deficiency Syndromes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021758,C0004096,AFFECTS,Interleukin-4,Asthma,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0021758,C0019340,AFFECTS,Interleukin-4,herpes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021758,C0030499,AFFECTS,Interleukin-4,Parasitic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021758,C0033770,AFFECTS,Interleukin-4,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021758,C0042769,AFFECTS,Interleukin-4,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0004153,AFFECTS,Interleukin-6,Atherosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0004364,AFFECTS,Interleukin-6,Autoimmune Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0021760,C0009319,AFFECTS,Interleukin-6,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0010340,AFFECTS,Interleukin-6,Critical Illness,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0021760,C0013264,AFFECTS,Interleukin-6,"Muscular Dystrophy, Duchenne",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0021400,AFFECTS,Interleukin-6,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0024312,AFFECTS,Interleukin-6,Lymphopenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0032285,AFFECTS,Interleukin-6,Pneumonia,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C0021760,C0085306,AFFECTS,Interleukin-6,Feline infectious peritonitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0275518,AFFECTS,Interleukin-6,Acute infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0348165,AFFECTS,Interleukin-6,Central Nervous System Viral Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C0948245,AFFECTS,Interleukin-6,Cytokine release syndrome,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0021760,C1096155,AFFECTS,Interleukin-6,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C1175175,AFFECTS,Interleukin-6,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021760,C1290884,AFFECTS,Interleukin-6,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021764,C0010278,AFFECTS,Interleukins,Craniosynostosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021764,C0036391,AFFECTS,Interleukins,Schwartz-Jampel Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0021764,C0264220,AFFECTS,Interleukins,Chronic disease of respiratory system,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0022009,C0004096,AFFECTS,Ion Channel,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0022009,C0035204,AFFECTS,Ion Channel,Respiration Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0022917,C0042749,AFFECTS,Lactate Dehydrogenase,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0023206,C0019693,AFFECTS,Lectin,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0023206,C0023895,AFFECTS,Lectin,Liver diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0023206,C0042769,AFFECTS,Lectin,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0023206,C0276500,AFFECTS,Lectin,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0023570,C0009443,AFFECTS,Levodopa,Common Cold,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0023610,C0032002,AFFECTS,Gonadorelin,Pituitary Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0023820,C4288963,AFFECTS,Lipoproteins,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0024429,C0036690,AFFECTS,Migration Inhibitory Factor,Septicemia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0024429,C1290884,AFFECTS,Migration Inhibitory Factor,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0024518,C0033860,AFFECTS,Major Histocompatibility Complex,Psoriasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0025248,C0042769,AFFECTS,Membrane Glycoproteins,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0025252,C0033770,AFFECTS,Membrane Proteins,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0025252,C0042769,AFFECTS,Membrane Proteins,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0025252,C0206750,AFFECTS,Membrane Proteins,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0025252,C0554628,AFFECTS,Membrane Proteins,Group A Streptococcal Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0025543,C0035222,AFFECTS,Metalloproteases,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0025543,C2047215,AFFECTS,Metalloproteases,Herpesvirus 5 infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0026682,C0010278,AFFECTS,Mucins,Craniosynostosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0026682,C0010674,AFFECTS,Mucins,Cystic Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0026682,C0017563,AFFECTS,Mucins,Gingival Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0026972,C0014059,AFFECTS,Myelin Proteins,"Encephalomyelitis, Acute Disseminated",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027021,C0033770,AFFECTS,Peroxidase,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027021,C0036690,AFFECTS,Peroxidase,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027021,C0268165,AFFECTS,Peroxidase,Primary hyperoxaluria type 2,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027752,C0002395,AFFECTS,Nerve Growth Factor,Alzheimer's Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027803,C0042769,AFFECTS,Neuraminidase,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027893,C0878544,AFFECTS,neuropeptide Y,Cardiomyopathies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027895,C0006111,AFFECTS,Neuropeptides,Brain Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0027895,C0027765,AFFECTS,Neuropeptides,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0028608,C1258039,AFFECTS,Nucleolar Proteins,Henipavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030935,C0741949,AFFECTS,Peptide Fragments,Cardiovascular Pathology,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030940,C0004096,AFFECTS,Peptide Hydrolases,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030940,C0014175,AFFECTS,Peptide Hydrolases,Endometriosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030940,C0035222,AFFECTS,Peptide Hydrolases,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030940,C0036457,AFFECTS,Peptide Hydrolases,Scrapie,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030940,C0042769,AFFECTS,Peptide Hydrolases,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0030940,C0275524,AFFECTS,Peptide Hydrolases,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030940,C1175175,AFFECTS,Peptide Hydrolases,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030943,C0035869,AFFECTS,Peptide Initiation Factors,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030946,C0014518,AFFECTS,Endopeptidases,Toxic Epidermal Necrolysis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030946,C0206750,AFFECTS,Endopeptidases,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030946,C0699949,AFFECTS,Endopeptidases,airway disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0030946,C1175175,AFFECTS,Endopeptidases,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0031453,C0035222,AFFECTS,Phenylalanine,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0031678,C0004135,AFFECTS,Phosphoric Monoester Hydrolases,Ataxia Telangiectasia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0031727,C0009450,AFFECTS,Phosphotransferases,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0031727,C0042769,AFFECTS,Phosphotransferases,Virus Diseases,aapp,dsyn,5,AFFECTS_AAPPafctDSYN
+C0031727,C0206750,AFFECTS,Phosphotransferases,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0032120,C0004096,AFFECTS,Plasma Proteins,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0032143,C0206750,AFFECTS,alteplase,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0032183,C0036690,AFFECTS,Platelet Factor 4,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0032539,C0004610,AFFECTS,Polymyxins,Bacteremia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0032583,C0042769,AFFECTS,Polyproteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0032923,C0002726,AFFECTS,Prealbumin,Amyloidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033164,C0162534,AFFECTS,Prions,Prion Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0033164,C0376329,AFFECTS,Prions,New Variant Creutzfeldt-Jakob Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033164,C1135993,AFFECTS,Prions,"Wasting Disease, Chronic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033382,C0042769,AFFECTS,Proline,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033551,C0007222,AFFECTS,Prostaglandin-Endoperoxide Synthase,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033551,C0011847,AFFECTS,Prostaglandin-Endoperoxide Synthase,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033551,C0027765,AFFECTS,Prostaglandin-Endoperoxide Synthase,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033551,C0028754,AFFECTS,Prostaglandin-Endoperoxide Synthase,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033551,C0042769,AFFECTS,Prostaglandin-Endoperoxide Synthase,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033551,C1290884,AFFECTS,Prostaglandin-Endoperoxide Synthase,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033640,C0016627,AFFECTS,Protein Kinases,Influenza in Birds,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0033640,C1264606,AFFECTS,Protein Kinases,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034783,C0035222,AFFECTS,Adrenergic Receptor,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034789,C0024141,AFFECTS,"Receptors, Antigen, B-Cell","Lupus Erythematosus, Systemic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034790,C0004364,AFFECTS,T-Cell Receptor,Autoimmune Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0034798,C0030567,AFFECTS,Dopamine Receptor,Parkinson Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034800,C0042769,AFFECTS,"Receptors, Cell Surface",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0034800,C4288963,AFFECTS,"Receptors, Cell Surface",Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034805,C0004364,AFFECTS,Fc Receptor,Autoimmune Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0034805,C0033770,AFFECTS,Fc Receptor,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034805,C1290884,AFFECTS,Fc Receptor,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034817,C0034069,AFFECTS,"Receptors, Immunologic",Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034819,C0016053,AFFECTS,Interleukin 2 Receptor,Fibromyalgia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0034848,C0042769,AFFECTS,"Receptors, Virus",Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0034861,C1145670,AFFECTS,Recombinant Proteins,Respiratory Failure,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0035342,C0035690,AFFECTS,Retinol Binding Proteins,RNA Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0035342,C0042769,AFFECTS,Retinol Binding Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0035552,C0042769,AFFECTS,Ribosomal Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0036764,C0024115,AFFECTS,Serpins,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0036774,C0848548,AFFECTS,"Serum Albumin, Bovine",hypertensive nephropathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0037167,C0520680,AFFECTS,Sincalide,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0037903,C0003850,AFFECTS,SPHINGOMYELINASE,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0039350,C0878544,AFFECTS,Taurine,Cardiomyopathies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0039350,C4529962,AFFECTS,Taurine,Fatty Liver Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040048,C0005779,AFFECTS,Thromboplastin,Blood Coagulation Disorders,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0040627,C0872054,AFFECTS,Trans-Activators,latent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040648,C0004096,AFFECTS,TRANSCRIPTION FACTOR,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040648,C0004623,AFFECTS,TRANSCRIPTION FACTOR,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040648,C0030499,AFFECTS,TRANSCRIPTION FACTOR,Parasitic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040648,C0042769,AFFECTS,TRANSCRIPTION FACTOR,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0040648,C0730328,AFFECTS,TRANSCRIPTION FACTOR,Central Serous Chorioretinopathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040679,C1281914,AFFECTS,Transferrin,Corneal allograft rejection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040690,C0029882,AFFECTS,Transforming Growth Factor beta,Otitis Media,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040691,C0004364,AFFECTS,Transforming Growth Factors,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040691,C0034069,AFFECTS,Transforming Growth Factors,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040691,C0268733,AFFECTS,Transforming Growth Factors,Acute nephritis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0040691,C0730328,AFFECTS,Transforming Growth Factors,Central Serous Chorioretinopathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0040691,C1175175,AFFECTS,Transforming Growth Factors,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0041199,C0002965,AFFECTS,Troponin,"Angina, Unstable",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0041236,C0035204,AFFECTS,TRYPSIN,Respiration Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0041236,C0206750,AFFECTS,TRYPSIN,Coronavirus Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0041368,C0001175,AFFECTS,Tumor Necrosis Factors,Acquired Immunodeficiency Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0041368,C1290884,AFFECTS,Tumor Necrosis Factors,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0041538,C0042769,AFFECTS,Ubiquitin,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042071,C1175175,AFFECTS,Urokinase,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042313,C0000833,AFFECTS,Vancomycin,Abscess,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042313,C0036285,AFFECTS,Vancomycin,Scarlet Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042313,C0275524,AFFECTS,Vancomycin,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042711,C0042769,AFFECTS,Viral Envelope Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042720,C0042769,AFFECTS,Viral Genome,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042720,C0276289,AFFECTS,Viral Genome,Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042720,C4288963,AFFECTS,Viral Genome,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0001126,AFFECTS,Viral Proteins,Renal tubular acidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0001752,AFFECTS,Viral Proteins,African swine fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0004096,AFFECTS,Viral Proteins,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0020179,AFFECTS,Viral Proteins,Huntington Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0027983,AFFECTS,Viral Proteins,Newcastle Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0042769,AFFECTS,Viral Proteins,Virus Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0042736,C0275518,AFFECTS,Viral Proteins,Acute infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042736,C0276289,AFFECTS,Viral Proteins,Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042982,C0042769,AFFECTS,VP(2),Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0042983,C0042769,AFFECTS,VP(3),Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0051846,C0003850,AFFECTS,angiopeptin,Arteriosclerosis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0052193,C0001787,AFFECTS,apolipoprotein D,"Osteoporosis, Age-Related",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0052193,C0003850,AFFECTS,apolipoprotein D,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0052201,C0002395,AFFECTS,Apolipoprotein E4,Alzheimer's Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054015,C0028754,AFFECTS,Nesiritide,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054450,C0520680,AFFECTS,Calcineurin,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054757,C0038395,AFFECTS,carboxypeptidase H,Streptococcal Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054757,C0042769,AFFECTS,carboxypeptidase H,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054871,C0023281,AFFECTS,Cathepsin L,Leishmaniasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054871,C0282687,AFFECTS,Cathepsin L,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054874,C0003850,AFFECTS,cathepsin S,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0054943,C2047215,AFFECTS,ALANINE AMINOPEPTIDASE,Herpesvirus 5 infection,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0055817,C0042769,AFFECTS,citrate carrier,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0056182,C0268732,AFFECTS,Complement 3b Receptor,Nephritic syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0056695,C2938905,AFFECTS,Cyclic AMP-Responsive DNA-Binding Protein,Central Nervous System Sensitization,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0056889,C0032285,AFFECTS,Cystic Fibrosis Transmembrane Conductance Regulator,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0057256,C0019693,AFFECTS,Defensins,HIV Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0057256,C0042769,AFFECTS,Defensins,Virus Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0058988,C0035869,AFFECTS,Eukaryotic Initiation Factor-4E,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0058988,C0042769,AFFECTS,Eukaryotic Initiation Factor-4E,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0060320,C0042769,AFFECTS,fibrillarin,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0060828,C0004364,AFFECTS,Fumarylacetoacetase,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0061057,C0175713,AFFECTS,gamma-glutamylaminomethylsulfonic acid,Aicardi's syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0061355,C0009319,AFFECTS,Glucagon-Like Peptide 1,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0061355,C0856169,AFFECTS,Glucagon-Like Peptide 1,endothelial dysfunction,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0061878,C0348165,AFFECTS,granzyme B,Central Nervous System Viral Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0062503,C0042769,AFFECTS,Heparan Sulfate Proteoglycans,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0062503,C1175175,AFFECTS,Heparan Sulfate Proteoglycans,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0062503,C4288963,AFFECTS,Heparan Sulfate Proteoglycans,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0063355,C0003047,AFFECTS,IgY,Animal Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0063355,C0009450,AFFECTS,IgY,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0063355,C0024894,AFFECTS,IgY,Mastitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0063355,C0030499,AFFECTS,IgY,Parasitic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0063695,C0178468,AFFECTS,Intercellular adhesion molecule 1,Autoimmune thyroid disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0063695,C0282548,AFFECTS,Intercellular adhesion molecule 1,Leukostasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0065693,C0206750,AFFECTS,Mannose-Binding Lectins,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0065827,C0019158,AFFECTS,Measles Virus Nucleoprotein,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0065827,C0035235,AFFECTS,Measles Virus Nucleoprotein,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0065827,C0035690,AFFECTS,Measles Virus Nucleoprotein,RNA Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0065827,C0206750,AFFECTS,Measles Virus Nucleoprotein,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0065827,C1175175,AFFECTS,Measles Virus Nucleoprotein,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0068707,C0028754,AFFECTS,Nicotinamide Phosphoribosyltransferase,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0069304,C0730328,AFFECTS,"POU5F1 protein, human",Central Serous Chorioretinopathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0069676,C0021053,AFFECTS,osteopontin,Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0069856,C0032285,AFFECTS,"oxytocin, 1-penicillamyl-Leu(2)-",Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0069906,C0520680,AFFECTS,P-Glycoproteins,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0070410,C0348165,AFFECTS,perforin,Central Nervous System Viral Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0070627,C0035222,AFFECTS,phenylacetylglutamine,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0070829,C0019693,AFFECTS,"Cyclic Nucleotide Phosphodiesterases, Type 4",HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0071346,C0028326,AFFECTS,Poly(A)-Binding Proteins,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0071795,C0042769,AFFECTS,2-5A-dependent ribonuclease,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0071795,C0267797,AFFECTS,2-5A-dependent ribonuclease,Acute hepatitis,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0071827,C0014544,AFFECTS,pre-prodynorphin,Epilepsy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0072027,C0004096,AFFECTS,procalcitonin,Asthma,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0072027,C0024117,AFFECTS,procalcitonin,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0072027,C0035078,AFFECTS,procalcitonin,Kidney Failure,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0072269,C0004096,AFFECTS,prostaglandin D receptor,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0072296,C0004096,AFFECTS,prostaglandin R2 D-isomerase,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0072978,C0004096,AFFECTS,RANTES,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0074512,C0266789,AFFECTS,Signal Recognition Particle,Velamentous insertion of umbilical cord (disorder),aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0075372,C0004096,AFFECTS,Substance K Receptor,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0076628,C0001883,AFFECTS,thymus-leukemia antigens,Airway Obstruction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0077678,C0028326,AFFECTS,ubiquitin-protein ligase,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0077918,C0023364,AFFECTS,Tamm-Horsfall protein,Leptospirosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0078056,C0178468,AFFECTS,Vascular Cell Adhesion Molecule-1,Autoimmune thyroid disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0078077,C0042769,AFFECTS,Vasopressin Receptor,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079184,C0276500,AFFECTS,Cyclin A,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0004096,AFFECTS,cytokine,Asthma,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0079189,C0004364,AFFECTS,cytokine,Autoimmune Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079189,C0009443,AFFECTS,cytokine,Common Cold,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0009450,AFFECTS,cytokine,Communicable Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0079189,C0009952,AFFECTS,cytokine,Febrile Convulsions,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0012739,AFFECTS,cytokine,Disseminated Intravascular Coagulation,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0014175,AFFECTS,cytokine,Endometriosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0014457,AFFECTS,cytokine,Eosinophilia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0019158,AFFECTS,cytokine,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0019360,AFFECTS,cytokine,Herpes zoster disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0021053,AFFECTS,cytokine,Immune System Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079189,C0021390,AFFECTS,cytokine,Inflammatory Bowel Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0022660,AFFECTS,cytokine,"Kidney Failure, Acute",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079189,C0024117,AFFECTS,cytokine,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0026946,AFFECTS,cytokine,Mycoses,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0029882,AFFECTS,cytokine,Otitis Media,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079189,C0030499,AFFECTS,cytokine,Parasitic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0032285,AFFECTS,cytokine,Pneumonia,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0079189,C0033770,AFFECTS,cytokine,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0034069,AFFECTS,cytokine,Pulmonary Fibrosis,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0079189,C0035204,AFFECTS,cytokine,Respiration Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0035222,AFFECTS,cytokine,"Respiratory Distress Syndrome, Adult",aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0079189,C0036690,AFFECTS,cytokine,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0042769,AFFECTS,cytokine,Virus Diseases,aapp,dsyn,7,AFFECTS_AAPPafctDSYN
+C0079189,C0151317,AFFECTS,cytokine,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0239946,AFFECTS,cytokine,"Fibrosis, Liver",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0268733,AFFECTS,cytokine,Acute nephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0275518,AFFECTS,cytokine,Acute infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0275524,AFFECTS,cytokine,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0393483,AFFECTS,cytokine,Brainstem encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0679225,AFFECTS,cytokine,multiple pathologies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0729531,AFFECTS,cytokine,Viral respiratory infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0748168,AFFECTS,cytokine,Pulmonary Pathology,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079189,C0947961,AFFECTS,cytokine,Atopic condition,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C0949091,AFFECTS,cytokine,candida sepsis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079189,C1175175,AFFECTS,cytokine,Severe Acute Respiratory Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079189,C1290884,AFFECTS,cytokine,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079323,C0027707,AFFECTS,Extracellular Matrix Proteins,"Nephritis, Interstitial",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079349,C0017661,AFFECTS,fibroblast growth factor-1,IGA Glomerulonephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079419,C0035112,AFFECTS,TP53 gene,Reoviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079419,C0042769,AFFECTS,TP53 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079419,C0231341,AFFECTS,TP53 gene,Premature aging syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079419,C3160909,AFFECTS,TP53 gene,Autoimmune arthritis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079423,C0032080,AFFECTS,"Genes, vpr",Plant Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079459,C0024291,AFFECTS,Granulocyte Colony-Stimulating Factor,"Lymphohistiocytosis, Hemophagocytic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079459,C0024312,AFFECTS,Granulocyte Colony-Stimulating Factor,Lymphopenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079459,C0035222,AFFECTS,Granulocyte Colony-Stimulating Factor,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079459,C0038362,AFFECTS,Granulocyte Colony-Stimulating Factor,Stomatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079460,C0009443,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Common Cold,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079460,C0024291,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,"Lymphohistiocytosis, Hemophagocytic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079460,C0029882,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Otitis Media,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079460,C0034069,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0003850,AFFECTS,Interleukin-8,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0004096,AFFECTS,Interleukin-8,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0009450,AFFECTS,Interleukin-8,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0016053,AFFECTS,Interleukin-8,Fibromyalgia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0024117,AFFECTS,Interleukin-8,Chronic Obstructive Airway Disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079633,C0024312,AFFECTS,Interleukin-8,Lymphopenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0032285,AFFECTS,Interleukin-8,Pneumonia,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0079633,C0034068,AFFECTS,Interleukin-8,Pulmonary Eosinophilia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0034069,AFFECTS,Interleukin-8,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0035222,AFFECTS,Interleukin-8,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0079633,C0348165,AFFECTS,Interleukin-8,Central Nervous System Viral Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C0746102,AFFECTS,Interleukin-8,Chronic lung disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079633,C1290884,AFFECTS,Interleukin-8,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079686,C0022660,AFFECTS,Leucine Zippers,"Kidney Failure, Acute",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079904,C0032285,AFFECTS,NF-kappa B,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079904,C0035235,AFFECTS,NF-kappa B,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079904,C0036690,AFFECTS,NF-kappa B,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079904,C0400966,AFFECTS,NF-kappa B,Non-alcoholic Fatty Liver Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0079941,C0042769,AFFECTS,Open Reading Frames,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0080054,C0276500,AFFECTS,CDC2 Protein Kinase,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0080058,C0003850,AFFECTS,Proto-Oncogene Proteins p21(ras),Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0080058,C0276500,AFFECTS,Proto-Oncogene Proteins p21(ras),Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0081714,C0007222,AFFECTS,"Antigens, CD147",Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0081938,C0035869,AFFECTS,CD29 Antigen,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0083031,C0035222,AFFECTS,Interleukin-11,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084178,C1518296,AFFECTS,prohibitin,Neuropathogenesis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084378,C0042769,AFFECTS,RNA Helicase,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C0004096,AFFECTS,Pulmonary Surfactant-Associated Protein D,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C0022660,AFFECTS,Pulmonary Surfactant-Associated Protein D,"Kidney Failure, Acute",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0084692,C0024115,AFFECTS,Pulmonary Surfactant-Associated Protein D,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C0024117,AFFECTS,Pulmonary Surfactant-Associated Protein D,Chronic Obstructive Airway Disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0084692,C0032285,AFFECTS,Pulmonary Surfactant-Associated Protein D,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C0035204,AFFECTS,Pulmonary Surfactant-Associated Protein D,Respiration Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C0740766,AFFECTS,Pulmonary Surfactant-Associated Protein D,acute pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C0876973,AFFECTS,Pulmonary Surfactant-Associated Protein D,Infectious disease of lung,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C1175175,AFFECTS,Pulmonary Surfactant-Associated Protein D,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084692,C3662483,AFFECTS,Pulmonary Surfactant-Associated Protein D,Allergic sensitization,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0084795,C0018213,AFFECTS,Tristetraprolin,Graves Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085177,C0002736,AFFECTS,RNA-Binding Proteins,Amyotrophic Lateral Sclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0003850,AFFECTS,Interleukin-10,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0004364,AFFECTS,Interleukin-10,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0009319,AFFECTS,Interleukin-10,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0021053,AFFECTS,Interleukin-10,Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0024115,AFFECTS,Interleukin-10,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0032285,AFFECTS,Interleukin-10,Pneumonia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0085295,C0033770,AFFECTS,Interleukin-10,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0035222,AFFECTS,Interleukin-10,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0042769,AFFECTS,Interleukin-10,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0085295,C0149678,AFFECTS,Interleukin-10,Epstein-Barr Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0151317,AFFECTS,Interleukin-10,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0268733,AFFECTS,Interleukin-10,Acute nephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0271441,AFFECTS,Interleukin-10,Chronic otitis media,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C0876973,AFFECTS,Interleukin-10,Infectious disease of lung,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C1264606,AFFECTS,Interleukin-10,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085295,C1290886,AFFECTS,Interleukin-10,Chronic inflammatory disorder,aapp,dsyn,27,AFFECTS_AAPPafctDSYN
+C0085295,C4288963,AFFECTS,Interleukin-10,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C0009450,AFFECTS,"Immunoglobulins, Intravenous",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C0021053,AFFECTS,"Immunoglobulins, Intravenous",Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C0026691,AFFECTS,"Immunoglobulins, Intravenous",Mucocutaneous Lymph Node Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C0035222,AFFECTS,"Immunoglobulins, Intravenous","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C0035235,AFFECTS,"Immunoglobulins, Intravenous",Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C0036690,AFFECTS,"Immunoglobulins, Intravenous",Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085297,C2732890,AFFECTS,"Immunoglobulins, Intravenous",Necrotizing soft tissue infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0085828,C0032285,AFFECTS,Transcription Factor AP-1,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0086376,C0035235,AFFECTS,GTP-Binding Proteins,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0087071,C0206062,AFFECTS,Telomerase,"Lung Diseases, Interstitial",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0103306,C0003850,AFFECTS,angiotensin I (1-7),Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0103306,C0009319,AFFECTS,angiotensin I (1-7),Colitis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0103306,C0042373,AFFECTS,angiotensin I (1-7),Vascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0103306,C1096155,AFFECTS,angiotensin I (1-7),Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0103839,C0007222,AFFECTS,Apolipoprotein B-48,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0104398,C0033770,AFFECTS,asparaginylendopeptidase,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0108801,C0042769,AFFECTS,"TFRC protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0109272,C0004364,AFFECTS,Chaperonin 60,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0109329,C0036690,AFFECTS,Aquaporin 1,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0111208,C0221725,AFFECTS,cytotoxic T-lymphocyte antigen 4,Obstruction of bronchus,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0115305,C0020538,AFFECTS,E-Selectin,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0120285,C0266427,AFFECTS,Green Fluorescent Proteins,Testicular regression syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0121463,C0019158,AFFECTS,"nucleocapsid protein, Hepatitis C virus",Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0123759,C0011847,AFFECTS,Interleukin-12,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0123759,C0019348,AFFECTS,Interleukin-12,Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0123759,C0026918,AFFECTS,Interleukin-12,Mycobacterium Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0123759,C0275524,AFFECTS,Interleukin-12,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0123759,C0338474,AFFECTS,Interleukin-12,Central nervous system demyelination,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0136073,C0520680,AFFECTS,Peptidylprolyl Isomerase,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0142580,C0021390,AFFECTS,"PI3 protein, human",Inflammatory Bowel Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0145779,C0035222,AFFECTS,Thrombomodulin,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0145947,C0019247,AFFECTS,Tissue-Inhibitor of Metalloproteinase-1,Hereditary Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0162595,C0024115,AFFECTS,Antiphospholipid Antibodies,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0162768,C0206750,AFFECTS,Fusion protein,Coronavirus Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0164613,C1175175,AFFECTS,interferon alfacon-1,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0164696,C0003873,AFFECTS,Protein-arginine deiminase,Rheumatoid Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0164696,C0004364,AFFECTS,Protein-arginine deiminase,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0164696,C0026769,AFFECTS,Protein-arginine deiminase,Multiple Sclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0164707,C0005779,AFFECTS,Tissue factor pathway inhibitor,Blood Coagulation Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0164786,C0002792,AFFECTS,Proto-Oncogene Proteins c-akt,anaphylaxis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0164786,C1175175,AFFECTS,Proto-Oncogene Proteins c-akt,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0165519,C0034069,AFFECTS,Matrix Metalloproteinase 9,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0165519,C0035222,AFFECTS,Matrix Metalloproteinase 9,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166049,C0520680,AFFECTS,Hepatitis C Antibodies,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166059,C0034069,AFFECTS,Matrix Metalloproteinase 7,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166418,C0009319,AFFECTS,Peroxisome Proliferator-Activated Receptors,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166418,C0020538,AFFECTS,Peroxisome Proliferator-Activated Receptors,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166418,C0028754,AFFECTS,Peroxisome Proliferator-Activated Receptors,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166418,C0242339,AFFECTS,Peroxisome Proliferator-Activated Receptors,Dyslipidemias,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166418,C1719672,AFFECTS,Peroxisome Proliferator-Activated Receptors,Severe Sepsis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0166814,C0042769,AFFECTS,integrin alphavbeta6,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0169661,C0019189,AFFECTS,Janus kinase 2,"Hepatitis, Chronic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0171484,C0524851,AFFECTS,secretase,Neurodegenerative Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0172537,C0035222,AFFECTS,Matrix Metalloproteinase 2,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0174680,C0017661,AFFECTS,Cyclin D1,IGA Glomerulonephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0178663,C1854469,AFFECTS,globular protein,Noonan Syndrome 2,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0178774,C0206750,AFFECTS,Nucleocapsid,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0205753,C0023895,AFFECTS,Opioid Peptide,Liver diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0205923,C1096155,AFFECTS,Benzodiazepine Receptor,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0206364,C0042373,AFFECTS,Receptor Protein-Tyrosine Kinases,Vascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0206414,C0266427,AFFECTS,"Genes, Reporter",Testicular regression syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0206492,C0206750,AFFECTS,"Antibodies, Bispecific",Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0206527,C0600327,AFFECTS,Superantigens,Toxic Shock Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0207072,C0030567,AFFECTS,Glial Cell Line-Derived Neurotrophic Factor,Parkinson Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0208355,C0010246,AFFECTS,multicatalytic endopeptidase complex,Coxsackievirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0208355,C0014078,AFFECTS,multicatalytic endopeptidase complex,Venezuelan equine encephalomyelitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0208355,C0042769,AFFECTS,multicatalytic endopeptidase complex,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0208355,C0162534,AFFECTS,multicatalytic endopeptidase complex,Prion Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0208355,C1832648,AFFECTS,multicatalytic endopeptidase complex,Hypoparathyroidism familial isolated,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0210492,C0011881,AFFECTS,Tissue Inhibitor of Metalloproteinase-3,Diabetic Nephropathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0210666,C0149778,AFFECTS,Panton-Valentine leukocidin,Soft Tissue Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0214743,C0004096,AFFECTS,Interleukin-13,Asthma,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0214743,C0030499,AFFECTS,Interleukin-13,Parasitic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0214743,C0042769,AFFECTS,Interleukin-13,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0214743,C1175175,AFFECTS,Interleukin-13,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0215848,C0021400,AFFECTS,Hypoxia-Inducible Factor 1,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0215848,C0024117,AFFECTS,Hypoxia-Inducible Factor 1,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0217532,C0004623,AFFECTS,ficolin,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0218504,C0007222,AFFECTS,Chemokine CXCL12,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0218504,C0011847,AFFECTS,Chemokine CXCL12,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0218504,C0018801,AFFECTS,Chemokine CXCL12,Heart failure,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0218504,C0027051,AFFECTS,Chemokine CXCL12,Myocardial Infarction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0219433,C0034069,AFFECTS,"POSTN protein, human",Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0236493,C0021400,AFFECTS,Influenza antibody,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0242275,C0014335,AFFECTS,Epidermal Growth Factor,Enteritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0243036,C0853897,AFFECTS,"Genes, erbB",Diabetic Cardiomyopathies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0243041,C0276289,AFFECTS,Molecular Chaperones,Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0243043,C0266789,AFFECTS,Heat-Shock Proteins 70,Velamentous insertion of umbilical cord (disorder),aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0243044,C0042769,AFFECTS,HSP90 Heat-Shock Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0243044,C3534585,AFFECTS,HSP90 Heat-Shock Proteins,Infection caused by Norovirus,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0245109,C0032285,AFFECTS,anakinra,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0248441,C0022650,AFFECTS,"Ribosomal Protein S6 Kinases, 90-kDa",Kidney Calculi,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0248441,C0878544,AFFECTS,"Ribosomal Protein S6 Kinases, 90-kDa",Cardiomyopathies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0250400,C0030305,AFFECTS,occludin,Pancreatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0250783,C0042769,AFFECTS,adenovirus receptor,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0253050,C1096155,AFFECTS,Stat3 protein,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0255156,C0271650,AFFECTS,Protein Phosphatase 2A Regulatory Subunit PR53,Impaired glucose tolerance,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0255813,C0024117,AFFECTS,"Receptors, Tumor Necrosis Factor, Type II",Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0258439,C0003850,AFFECTS,TNF receptor-associated factor 1,Arteriosclerosis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0282554,C0004096,AFFECTS,chemokine,Asthma,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C0282554,C0004364,AFFECTS,chemokine,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0009450,AFFECTS,chemokine,Communicable Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0282554,C0011302,AFFECTS,chemokine,Demyelinating disease of central nervous system,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0011303,AFFECTS,chemokine,Demyelinating Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0014175,AFFECTS,chemokine,Endometriosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0019348,AFFECTS,chemokine,Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0019693,AFFECTS,chemokine,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0021390,AFFECTS,chemokine,Inflammatory Bowel Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0027765,AFFECTS,chemokine,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0042769,AFFECTS,chemokine,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0282554,C0243010,AFFECTS,chemokine,Viral Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0266313,AFFECTS,chemokine,Allanson Pantzar McLeod syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0393483,AFFECTS,chemokine,Brainstem encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0524910,AFFECTS,chemokine,"Hepatitis C, Chronic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0699949,AFFECTS,chemokine,airway disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C0748168,AFFECTS,chemokine,Pulmonary Pathology,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0282554,C0751583,AFFECTS,chemokine,"Encephalitis, West Nile Fever",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C1175175,AFFECTS,chemokine,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282554,C1290884,AFFECTS,chemokine,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282651,C3875321,AFFECTS,Selectins,Inflammatory dermatosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282682,C0019158,AFFECTS,"Antibodies, Blocking",Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282682,C0042769,AFFECTS,"Antibodies, Blocking",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0282682,C0276500,AFFECTS,"Antibodies, Blocking",Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0284930,C0266313,AFFECTS,cathepsin K,Allanson Pantzar McLeod syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0285558,C0019693,AFFECTS,RAC-Alpha Serine/Threonine Kinase,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0287990,C0042769,AFFECTS,paired basic amino acid cleaving enzyme,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0292777,C0027873,AFFECTS,aquaporin 4,Neuromyelitis Optica,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0293650,C0027341,AFFECTS,atrial natriuretic factor receptor A,Nail-Patella Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0299544,C0004623,AFFECTS,Interferon Regulatory Factor 4,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0299583,C0028754,AFFECTS,leptin,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0300140,C1175175,AFFECTS,"EEF1A1 protein, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0301714,C0042769,AFFECTS,"Amino Acids, Basic",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0301714,C0263214,AFFECTS,"Amino Acids, Basic",Pyotraumatic dermatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0301852,C0009443,AFFECTS,Complement fixing antibody,Common Cold,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0304052,C0004623,AFFECTS,Plant Lectins,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0304052,C1290884,AFFECTS,Plant Lectins,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0305052,C0004364,AFFECTS,Gamma globulin serum,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0305052,C0004623,AFFECTS,Gamma globulin serum,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0305052,C0010278,AFFECTS,Gamma globulin serum,Craniosynostosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0305052,C0042769,AFFECTS,Gamma globulin serum,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0305052,C0520680,AFFECTS,Gamma globulin serum,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0305052,C4288963,AFFECTS,Gamma globulin serum,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0311444,C0042769,AFFECTS,Serum amyloid protein,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0376436,C0276500,AFFECTS,Peptide Library,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0376515,C1264606,AFFECTS,BCL2 gene,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0378910,C0020459,AFFECTS,Lymphocyte antigen CD66A,Hyperinsulinism,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0378910,C0151317,AFFECTS,Lymphocyte antigen CD66A,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0379339,C0009319,AFFECTS,beta-arrestin 1,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0383327,C0004096,AFFECTS,Interleukin-18,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0384648,C0004096,AFFECTS,Interleukin-17,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0384768,C0028326,AFFECTS,"IRF3 protein, human",Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0384768,C1264606,AFFECTS,"IRF3 protein, human",Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0386040,C1258039,AFFECTS,Ephrin-B2,Henipavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0387583,C0032285,AFFECTS,cyclooxygenase 2,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0388911,C0033770,AFFECTS,Vascular Endothelial Growth Factor C,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0389071,C0011860,AFFECTS,Adiponectin,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0389071,C0028754,AFFECTS,Adiponectin,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0389916,C0035690,AFFECTS,"nucleocapsid protein, Coronavirus",RNA Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0389995,C0004096,AFFECTS,rho-Associated Kinases,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0393022,C0002880,AFFECTS,rituximab,Autoimmune hemolytic anemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0393022,C0040034,AFFECTS,rituximab,Thrombocytopenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0440471,C1175175,AFFECTS,Genetic Materials,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C0003123,AFFECTS,Specific antibody,Anorexia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C0003864,AFFECTS,Specific antibody,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C0033770,AFFECTS,Specific antibody,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C0035235,AFFECTS,Specific antibody,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C0042769,AFFECTS,Specific antibody,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C0158945,AFFECTS,Specific antibody,Congenital cytomegalovirus infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443640,C1175175,AFFECTS,Specific antibody,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443783,C0032285,AFFECTS,Neutrophil myeloperoxidase,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0443803,C0151317,AFFECTS,e antigen,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0004096,AFFECTS,"Antibodies, Neutralizing",Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0035235,AFFECTS,"Antibodies, Neutralizing",Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0035869,AFFECTS,"Antibodies, Neutralizing",Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0042749,AFFECTS,"Antibodies, Neutralizing",Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0042769,AFFECTS,"Antibodies, Neutralizing",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0475463,C0275518,AFFECTS,"Antibodies, Neutralizing",Acute infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0343537,AFFECTS,"Antibodies, Neutralizing",Specific viral infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C0376538,AFFECTS,"Antibodies, Neutralizing",Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C1175175,AFFECTS,"Antibodies, Neutralizing",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0475463,C3534575,AFFECTS,"Antibodies, Neutralizing",Animal Health,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0483249,C0036690,AFFECTS,Protein C (activated),Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0524889,C0004364,AFFECTS,"Genes, T-Cell Receptor",Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0524914,C0004364,AFFECTS,chemokine receptor,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0524914,C0019693,AFFECTS,chemokine receptor,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0524914,C0243010,AFFECTS,chemokine receptor,Viral Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0529196,C0011881,AFFECTS,ADAM17 Protein,Diabetic Nephropathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0529196,C1175175,AFFECTS,ADAM17 Protein,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0529196,C1290884,AFFECTS,ADAM17 Protein,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0530129,C0003850,AFFECTS,TNF receptor-associated factor 6,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0530129,C0032285,AFFECTS,TNF receptor-associated factor 6,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0530129,C0042769,AFFECTS,TNF receptor-associated factor 6,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0530993,C0004364,AFFECTS,antigen CYFRA21.1,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0533668,C0035078,AFFECTS,"ANGPT1 protein, human",Kidney Failure,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0534519,C0011860,AFFECTS,Caspase-1,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0534519,C0032285,AFFECTS,Caspase-1,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0582263,C0042769,AFFECTS,Structural protein,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0582263,C0206604,AFFECTS,Structural protein,Arterivirus Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0591224,C0020538,AFFECTS,Capoten,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0596626,C0042769,AFFECTS,glycoprotein structure,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0596902,C0025517,AFFECTS,Membrane Transport Proteins,Metabolic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597298,C0042769,AFFECTS,Protein Isoforms,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597336,C0003864,AFFECTS,Quantitative Trait Loci,Arthritis,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C0597336,C0035243,AFFECTS,Quantitative Trait Loci,Respiratory Tract Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597357,C0040034,AFFECTS,receptor,Thrombocytopenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597357,C0042769,AFFECTS,receptor,Virus Diseases,aapp,dsyn,7,AFFECTS_AAPPafctDSYN
+C0597357,C0376538,AFFECTS,receptor,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597357,C1175175,AFFECTS,receptor,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597357,C1290884,AFFECTS,receptor,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597357,C1707758,AFFECTS,receptor,Direct Contact Transmission Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0597427,C0004096,AFFECTS,secretory protein,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0598995,C0021400,AFFECTS,virus core,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0599220,C0024198,AFFECTS,Protein Subunits,Lyme Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0599220,C0042769,AFFECTS,Protein Subunits,Virus Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C0599561,C0042769,AFFECTS,e protein,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C0599635,C0006114,AFFECTS,water channel,Cerebral Edema,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0599635,C0026850,AFFECTS,water channel,Muscular Dystrophy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0599635,C0036690,AFFECTS,water channel,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0599797,C0004364,AFFECTS,hla gene,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0599874,C0014057,AFFECTS,Dioxygenases,Japanese Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0600388,C0042769,AFFECTS,Extracellular Signal Regulated Kinases,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0623362,C0003850,AFFECTS,Matrix Metalloproteinases,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0623362,C0021053,AFFECTS,Matrix Metalloproteinases,Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0623362,C0024117,AFFECTS,Matrix Metalloproteinases,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0623362,C0027765,AFFECTS,Matrix Metalloproteinases,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0623362,C0266313,AFFECTS,Matrix Metalloproteinases,Allanson Pantzar McLeod syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0623362,C1285162,AFFECTS,Matrix Metalloproteinases,Degenerative disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0663914,C0028326,AFFECTS,IkappaB kinase,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0663914,C1854469,AFFECTS,IkappaB kinase,Noonan Syndrome 2,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0666173,C0014457,AFFECTS,"RANTES, Met-",Eosinophilia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0666173,C1290884,AFFECTS,"RANTES, Met-",Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0667477,C0009450,AFFECTS,"TNFRSF11A protein, human",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0669372,C1290884,AFFECTS,"NOS2A protein, human",Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0694888,C3160909,AFFECTS,PTEN gene,Autoimmune arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0699918,C0035204,AFFECTS,Elastases,Respiration Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0699918,C0851980,AFFECTS,Elastases,peritoneal infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0700271,C0042769,AFFECTS,"M Protein, multiple myeloma",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0700271,C1175175,AFFECTS,"M Protein, multiple myeloma",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0728747,C0746883,AFFECTS,trastuzumab,Febrile Neutropenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0729663,C0035235,AFFECTS,Maternal antibody,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0751455,C0014122,AFFECTS,"Gene Products, Protein",Subacute Bacterial Endocarditis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0751973,C0009450,AFFECTS,Proteome,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0751973,C0023364,AFFECTS,Proteome,Leptospirosis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0752312,C0028754,AFFECTS,Mitogen-Activated Protein Kinases,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0756547,C0206750,AFFECTS,scFv 425,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0758336,C4288963,AFFECTS,trypsin-like serine protease,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0759784,C0042769,AFFECTS,site-1 protease,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0763396,C0024312,AFFECTS,Apoptosis Inducing Factor,Lymphopenia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0769345,C0027765,AFFECTS,caspase-5,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0795635,C0033770,AFFECTS,"Regular Insulin, Human",Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0812234,C0035869,AFFECTS,RHOA gene,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0812257,C0042769,AFFECTS,DDX6 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0812305,C2076600,AFFECTS,EPCAM gene,Influenza due to Influenza A virus subtype H1N1,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0887901,C0577631,AFFECTS,Caveolins,Carotid Atherosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0887943,C0085293,AFFECTS,alpha-Defensins,Hepatitis E,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0900627,C0948008,AFFECTS,"Disks Large Homolog 4, Human",Ischemic stroke,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0907411,C0042769,AFFECTS,"Lectins, C-Type",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0907734,C0019348,AFFECTS,nectin-1,Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0907779,C1175175,AFFECTS,"interferon receptor, type II",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0908145,C0011860,AFFECTS,"protein tyrosine phosphatase, non-receptor type 1","Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0909826,C0030305,AFFECTS,claudin 4,Pancreatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0912761,C0004364,AFFECTS,syncytin,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0912761,C1518296,AFFECTS,syncytin,Neuropathogenesis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0913092,C0019693,AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0913092,C0276289,AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0914069,C1257915,AFFECTS,lipoprotein-associated phospholipase A(2),Intestinal Polyposis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0914136,C0858318,AFFECTS,scorpine,Plasmodium falciparum infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0915178,C0009450,AFFECTS,"NCOA6 protein, human",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0916120,C0010340,AFFECTS,glucocorticoid receptor alpha,Critical Illness,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0917877,C0019693,AFFECTS,Cyclophilins,HIV Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0917877,C0206750,AFFECTS,Cyclophilins,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0919453,C0002395,AFFECTS,cancer-predisposing genes,Alzheimer's Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0919453,C0026769,AFFECTS,cancer-predisposing genes,Multiple Sclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0919490,C0013570,AFFECTS,SPI1 gene,"Ecthyma, Contagious",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0919550,C0004096,AFFECTS,FURIN gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0919550,C0206750,AFFECTS,FURIN gene,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0920330,C0267963,AFFECTS,Pancreatic enzyme,Exocrine pancreatic insufficiency,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0960880,C0007222,AFFECTS,angiotensin converting enzyme 2,Cardiovascular Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0960880,C0020538,AFFECTS,angiotensin converting enzyme 2,Hypertensive disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C0963236,C0020538,AFFECTS,nischarin,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0964863,C4288963,AFFECTS,HSC70 Heat-Shock Proteins,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0965245,C0033036,AFFECTS,"CD274 protein, human",Atrial Premature Complexes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0966225,C0004096,AFFECTS,omalizumab,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0966553,C0004096,AFFECTS,Toll-Like Receptor 5,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0966870,C0520680,AFFECTS,S100 calcium binding protein A10,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C0966870,C1860224,AFFECTS,S100 calcium binding protein A10,ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1099812,C0032285,AFFECTS,"SOD3 protein, human",Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1100642,C1290884,AFFECTS,"phospholipase A2, group X protein",Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1120843,C1290886,AFFECTS,mitogen-activated protein kinase p38,Chronic inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1135987,C0035235,AFFECTS,Clathrin Light Chains,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1136102,C0042769,AFFECTS,Capsid Proteins,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1142652,C1175175,AFFECTS,"NR4A2 protein, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1144709,C0028754,AFFECTS,Natriuretic Peptides,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1174094,C0019196,AFFECTS,"IL28B protein, human",Hepatitis C,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1176244,C0039292,AFFECTS,"DARC protein, human",Tangier Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1179132,C0001126,AFFECTS,Scaffold protein,Renal tubular acidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1256770,C0011884,AFFECTS,Vascular Endothelial Growth Factors,Diabetic Retinopathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1256801,C0042769,AFFECTS,"FPR1 protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1305628,C0035078,AFFECTS,Urine protein,Kidney Failure,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1305923,C0020437,AFFECTS,Polypeptides,Hypercalcemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1305923,C0024449,AFFECTS,Polypeptides,Mycetoma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1305923,C0042769,AFFECTS,Polypeptides,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1305923,C0266789,AFFECTS,Polypeptides,Velamentous insertion of umbilical cord (disorder),aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1307407,C0035869,AFFECTS,"FRAP1 protein, human",Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1307407,C0042769,AFFECTS,"FRAP1 protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1307407,C0276289,AFFECTS,"FRAP1 protein, human",Zika Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1307598,C0431375,AFFECTS,"GATA3 protein, human",Classical Lissencephaly,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1309025,C1175175,AFFECTS,"SH2D3A protein, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1310463,C0042769,AFFECTS,"IFIH1 protein, human",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1310463,C0206608,AFFECTS,"IFIH1 protein, human",Flavivirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1310468,C0031887,AFFECTS,"DDX58 protein, human",Picornaviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1310468,C0042769,AFFECTS,"DDX58 protein, human",Virus Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1313359,C0024115,AFFECTS,"oxoguanine glycosylase 1, human",Lung diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1313359,C0026946,AFFECTS,"oxoguanine glycosylase 1, human",Mycoses,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1313407,C0042749,AFFECTS,"HAVCR1 protein, human",Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1313407,C0042769,AFFECTS,"HAVCR1 protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1313494,C0009319,AFFECTS,"TLR3 protein, human",Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1321919,C0009450,AFFECTS,"TLR4 protein, human",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1321919,C1290884,AFFECTS,"TLR4 protein, human",Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1328027,C0149725,AFFECTS,SULT gene,Lower respiratory tract infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1328825,C0524851,AFFECTS,ADAMTS,Neurodegenerative Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332386,C0206750,AFFECTS,BCAR3 gene,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332397,C1264606,AFFECTS,BCL2L1 gene,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332680,C0004096,AFFECTS,CCL17 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332680,C0014457,AFFECTS,CCL17 gene,Eosinophilia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332685,C0004096,AFFECTS,CCL22 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332685,C0014457,AFFECTS,CCL22 gene,Eosinophilia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1332699,C0042749,AFFECTS,CCR1 gene,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332700,C0019342,AFFECTS,CCR5 gene,Genital Herpes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332700,C0043124,AFFECTS,CCR5 gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332701,C0019158,AFFECTS,CCR6 gene,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332733,C0276500,AFFECTS,CDK2 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332816,C0042769,AFFECTS,CXCL11 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332817,C0276500,AFFECTS,CXCL12 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332821,C0004364,AFFECTS,CXCL9 gene,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332821,C0035222,AFFECTS,CXCL9 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332821,C0748168,AFFECTS,CXCL9 gene,Pulmonary Pathology,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332821,C1443953,AFFECTS,CXCL9 gene,Acute viral disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332822,C0027765,AFFECTS,CXCR3 gene,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332822,C0042769,AFFECTS,CXCR3 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332822,C1112211,AFFECTS,CXCR3 gene,liver infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332823,C0003850,AFFECTS,CXCR4 gene,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332823,C0276500,AFFECTS,CXCR4 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332838,C0019693,AFFECTS,Candidate Disease Gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1332838,C0033770,AFFECTS,Candidate Disease Gene,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1333198,C0035369,AFFECTS,Cytoplasmic Protein,Retroviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1333682,C0042769,AFFECTS,NOP53 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1333723,C0004096,AFFECTS,GTF2H1 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1333908,C0040021,AFFECTS,HMGB1 gene,Thromboangiitis Obliterans,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1333908,C1290884,AFFECTS,HMGB1 gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1333908,C4288963,AFFECTS,HMGB1 gene,Hepatitis C Virus Infection,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1333928,C0042769,AFFECTS,HSPB1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334033,C0019693,AFFECTS,"HDAC5 protein, human",HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334033,C0276500,AFFECTS,"HDAC5 protein, human",Human immunodeficiency virus I infection,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1334033,C0343641,AFFECTS,"HDAC5 protein, human",Human papilloma virus infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334043,C0021390,AFFECTS,Homologous Gene,Inflammatory Bowel Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334078,C0341858,AFFECTS,IFITM1 gene,Endometriosis of uterus,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334078,C4288963,AFFECTS,IFITM1 gene,Hepatitis C Virus Infection,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1334081,C0004610,AFFECTS,IFNAR1 gene,Bacteremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334081,C0019158,AFFECTS,IFNAR1 gene,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334081,C0035112,AFFECTS,IFNAR1 gene,Reoviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334090,C0524851,AFFECTS,IGF2R gene,Neurodegenerative Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334098,C0004096,AFFECTS,IL10 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334103,C0004096,AFFECTS,IL13 gene,Asthma,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1334103,C0024117,AFFECTS,IL13 gene,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334125,C0001175,AFFECTS,CXCR1 gene,Acquired Immunodeficiency Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334126,C0001175,AFFECTS,CXCR2 gene,Acquired Immunodeficiency Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334139,C0016627,AFFECTS,IRF3 gene,Influenza in Birds,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334139,C0042769,AFFECTS,IRF3 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1334139,C0043124,AFFECTS,IRF3 gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334335,C0276500,AFFECTS,LGALS3BP gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334435,C0042769,AFFECTS,Luc Gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334435,C0266427,AFFECTS,Luc Gene,Testicular regression syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1334545,C0009187,AFFECTS,Major histocompatibility complex gene,Coccidiosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1334867,C0043124,AFFECTS,NCOA2 gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335057,C0025007,AFFECTS,"PTPN22 protein, human",Measles,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335267,C0024117,AFFECTS,PRTN3 gene,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335283,C0026769,AFFECTS,PTPN6 gene,Multiple Sclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335439,C0442886,AFFECTS,Polymerase,Secondary Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335818,C0206750,AFFECTS,SH2D3C gene,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335872,C0004623,AFFECTS,STAT1 gene,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335872,C0042769,AFFECTS,STAT1 gene,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1335872,C1258039,AFFECTS,STAT1 gene,Henipavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335876,C0035222,AFFECTS,STAT5B gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1335877,C0011303,AFFECTS,STAT6 gene,Demyelinating Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336579,C0042769,AFFECTS,TBK1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336636,C0006309,AFFECTS,TLR4 gene,Brucellosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336636,C0007785,AFFECTS,TLR4 gene,Cerebral Infarction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336636,C0032285,AFFECTS,TLR4 gene,Pneumonia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1336636,C0035235,AFFECTS,TLR4 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1336636,C0036686,AFFECTS,TLR4 gene,Gram positive sepsis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336636,C0742343,AFFECTS,TLR4 gene,Acute Chest Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336636,C0948149,AFFECTS,TLR4 gene,Infection of spleen,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336636,C1290884,AFFECTS,TLR4 gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336641,C0004096,AFFECTS,TMPRSS2 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336641,C0021400,AFFECTS,TMPRSS2 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336641,C0028754,AFFECTS,TMPRSS2 gene,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336641,C1175175,AFFECTS,TMPRSS2 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1336644,C1175175,AFFECTS,TNFRSF10B gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336670,C1290884,AFFECTS,TREX1 gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336681,C0004096,AFFECTS,TSLP gene,Asthma,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1336763,C0001883,AFFECTS,Toll-Like Receptor Family Gene,Airway Obstruction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C0004364,AFFECTS,Toll-Like Receptor Family Gene,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C0009450,AFFECTS,Toll-Like Receptor Family Gene,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C0021831,AFFECTS,Toll-Like Receptor Family Gene,Intestinal Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C0024117,AFFECTS,Toll-Like Receptor Family Gene,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C0024141,AFFECTS,Toll-Like Receptor Family Gene,"Lupus Erythematosus, Systemic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C0027765,AFFECTS,Toll-Like Receptor Family Gene,nervous system disorder,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1336763,C0035235,AFFECTS,Toll-Like Receptor Family Gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C1290884,AFFECTS,Toll-Like Receptor Family Gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336763,C4505065,AFFECTS,Toll-Like Receptor Family Gene,Noncommunicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336776,C0001126,AFFECTS,Transcription Coactivator,Renal tubular acidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336936,C4288963,AFFECTS,VIPR1 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336986,C0019693,AFFECTS,WFDC1 gene,HIV Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1336986,C0024205,AFFECTS,WFDC1 gene,Lymphadenitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1336986,C0042769,AFFECTS,WFDC1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366449,C0032285,AFFECTS,F2R gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366449,C0042769,AFFECTS,F2R gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366487,C0003873,AFFECTS,FAP gene,Rheumatoid Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366516,C0004096,AFFECTS,IRF1 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366524,C0004096,AFFECTS,CCL20 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366527,C0020541,AFFECTS,RTN4 gene,"Hypertension, Portal",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366557,C0032285,AFFECTS,TGFB1 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366557,C0034069,AFFECTS,TGFB1 gene,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1366557,C0035222,AFFECTS,TGFB1 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367307,C0019189,AFFECTS,STAT3 gene,"Hepatitis, Chronic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367307,C0026848,AFFECTS,STAT3 gene,Myopathy,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1367307,C0027121,AFFECTS,STAT3 gene,Myositis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367307,C0042769,AFFECTS,STAT3 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1367475,C0520680,AFFECTS,CD2 gene,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367477,C0004096,AFFECTS,CD14 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367477,C0032285,AFFECTS,CD14 gene,Pneumonia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1367477,C0033770,AFFECTS,CD14 gene,Prune Belly Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1367477,C0035235,AFFECTS,CD14 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367595,C0266313,AFFECTS,EXTL3 gene,Allanson Pantzar McLeod syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367710,C0342959,AFFECTS,C5 gene,Sepsis-associated organ dysfunction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1367731,C0019158,AFFECTS,MAPK8 gene,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412113,C0007222,AFFECTS,SLC33A1 gene,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412113,C0034069,AFFECTS,SLC33A1 gene,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412192,C0035235,AFFECTS,ADAM22 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412215,C0042769,AFFECTS,ADAR gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412356,C0007222,AFFECTS,ALOX12 gene,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412361,C0011615,AFFECTS,ALOX5 gene,"Dermatitis, Atopic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412485,C0029408,AFFECTS,APOL1 gene,Degenerative polyarthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412496,C0042769,AFFECTS,AQP6 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1412533,C0003123,AFFECTS,ARIH1 gene,Anorexia,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1412533,C0004096,AFFECTS,ARIH1 gene,Asthma,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1412533,C0021400,AFFECTS,ARIH1 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412533,C0699949,AFFECTS,ARIH1 gene,airway disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412533,C2076600,AFFECTS,ARIH1 gene,Influenza due to Influenza A virus subtype H1N1,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412617,C0042769,AFFECTS,ATF4 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412622,C0152200,AFFECTS,ATF6 gene,Achromatopsia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412628,C0035235,AFFECTS,ATP1A1 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1412653,C0042769,AFFECTS,ATP5B gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412727,C0002395,AFFECTS,BACE1 gene,Alzheimer's Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412777,C0162429,AFFECTS,BCS1L gene,Malnutrition,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412785,C0033770,AFFECTS,BECN1 gene,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412821,C0042769,AFFECTS,BRD3 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412854,C0239946,AFFECTS,BUB1B gene,"Fibrosis, Liver",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1412922,C0376704,AFFECTS,SERPING1 gene,Clinical Capillary Leak Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1412937,C0028326,AFFECTS,C1S gene,Noonan Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1413188,C0014038,AFFECTS,CCR2 gene,Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413284,C0042769,AFFECTS,CDIPT gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413284,C1175175,AFFECTS,CDIPT gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413287,C0276500,AFFECTS,CDK6 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413290,C0042769,AFFECTS,CDK9 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413426,C0022660,AFFECTS,CIRBP gene,"Kidney Failure, Acute",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413475,C0030305,AFFECTS,CLDN5 gene,Pancreatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413503,C1265792,AFFECTS,CLOCK gene,Chronic emphysema,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413512,C0009450,AFFECTS,CLTC gene,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413546,C0035086,AFFECTS,CNGB1 gene,Renal Osteodystrophy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413754,C0001126,AFFECTS,CSHL1 gene,Renal tubular acidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413772,C0002395,AFFECTS,CST3 gene,Alzheimer's Disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1413772,C0679225,AFFECTS,CST3 gene,multiple pathologies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413844,C0032285,AFFECTS,CYBB gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413844,C0856169,AFFECTS,CYBB gene,endothelial dysfunction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1413961,C0276500,AFFECTS,DDX21 gene,Human immunodeficiency virus I infection,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1413966,C0276500,AFFECTS,DHX9 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414141,C0011847,AFFECTS,DPP4 gene,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414141,C0015695,AFFECTS,DPP4 gene,Fatty Liver,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414141,C0024117,AFFECTS,DPP4 gene,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414141,C0028754,AFFECTS,DPP4 gene,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414168,C0033770,AFFECTS,DSG1 gene,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414199,C0022660,AFFECTS,DVL1 gene,"Kidney Failure, Acute",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414204,C0013080,AFFECTS,DYRK1A gene,Down Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414234,C0026918,AFFECTS,EBI3 gene,Mycobacterium Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414270,C0042769,AFFECTS,EEF1A1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414342,C1096155,AFFECTS,EIF3F gene,Macrophage Activation Syndrome,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1414349,C0035869,AFFECTS,EIF4A2 gene,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414356,C0028326,AFFECTS,EIF4G1 gene,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414406,C0020538,AFFECTS,ENPEP gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414444,C0042769,AFFECTS,ERN1 gene,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1414444,C0206750,AFFECTS,ERN1 gene,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414605,C0085682,AFFECTS,FGF23 gene,Hypophosphatemia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1414624,C0520680,AFFECTS,FKBP2 gene,"Sleep Apnea, Central",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414635,C0019693,AFFECTS,FLNA gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414805,C0001126,AFFECTS,MTOR gene,Renal tubular acidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414872,C0238288,AFFECTS,FXR1 gene,"Muscular Dystrophy, Facioscapulohumeral",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414926,C0014544,AFFECTS,GAD2 gene,Epilepsy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1414968,C0042769,AFFECTS,GAPDH gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415002,C0042769,AFFECTS,GBF1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415002,C4288963,AFFECTS,GBF1 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415375,C0023092,AFFECTS,GYPC gene,Lassa Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415375,C0043395,AFFECTS,GYPC gene,Yellow Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415489,C0020097,AFFECTS,HBZ gene,HTLV-I Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415503,C0027765,AFFECTS,HCVS gene,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415529,C0268060,AFFECTS,HFE2 gene,Juvenile hemochromatosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415585,C0276500,AFFECTS,HLA-E gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415619,C0004096,AFFECTS,HMOX1 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415619,C0854416,AFFECTS,HMOX1 gene,Pulmonary Vascular Disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415619,C2711227,AFFECTS,HMOX1 gene,Steatohepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415634,C0042769,AFFECTS,HNRNPA1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415764,C0042769,AFFECTS,HSPA8 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415790,C0020456,AFFECTS,HSPE1 gene,Hyperglycemia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1415790,C0020473,AFFECTS,HSPE1 gene,Hyperlipidemia,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1415892,C0042769,AFFECTS,IFIT1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415892,C4288963,AFFECTS,IFIT1 gene,Hepatitis C Virus Infection,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1415898,C0003864,AFFECTS,IFITM3 gene,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415898,C0004623,AFFECTS,IFITM3 gene,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415898,C0021400,AFFECTS,IFITM3 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1415898,C0042769,AFFECTS,IFITM3 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1416402,C0003864,AFFECTS,IL1RN gene,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416425,C0021400,AFFECTS,IMPA1 gene,Influenza,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1416425,C0856238,AFFECTS,IMPA1 gene,influenza (epidemic),aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416467,C0004364,AFFECTS,FOXP3 gene,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416473,C0043124,AFFECTS,IRF5 gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416475,C0035222,AFFECTS,IRF7 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416478,C0149678,AFFECTS,ISG20 gene,Epstein-Barr Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416478,C0243026,AFFECTS,ISG20 gene,Sepsis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416479,C0042769,AFFECTS,IRF9 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1416521,C0019159,AFFECTS,ITSN2 gene,Hepatitis A,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416608,C0042769,AFFECTS,KCNN1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416682,C0275524,AFFECTS,KLRC1 gene,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416797,C0018572,AFFECTS,STMN1 gene,"Hand, Foot and Mouth Disease",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416877,C0026848,AFFECTS,LMNA gene,Myopathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1416989,C0037052,AFFECTS,MAL gene,Sick Sinus Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417023,C0020538,AFFECTS,MAP7 gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417032,C0021400,AFFECTS,MARCO gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417036,C0023343,AFFECTS,MASP1 gene,Leprosy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417196,C1565489,AFFECTS,MLYCD gene,Renal Insufficiency,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417200,C0042769,AFFECTS,MMP10 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417510,C0042769,AFFECTS,MX1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417510,C0729531,AFFECTS,MX1 gene,Viral respiratory infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417530,C0006309,AFFECTS,MYD88 gene,Brucellosis,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1417530,C0729555,AFFECTS,MYD88 gene,Infection of digestive system,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417608,C0003864,AFFECTS,NCF1 gene,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417608,C0003873,AFFECTS,NCF1 gene,Rheumatoid Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417613,C0022660,AFFECTS,NCL gene,"Kidney Failure, Acute",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1417613,C0027697,AFFECTS,NCL gene,Nephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417613,C0032285,AFFECTS,NCL gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417613,C0035235,AFFECTS,NCL gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417771,C0856169,AFFECTS,NOX4 gene,endothelial dysfunction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417819,C0268595,AFFECTS,NPY6R gene,"Glutaric aciduria, type 1",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417821,C0035436,AFFECTS,NR1D1 gene,Rheumatic Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417825,C0020473,AFFECTS,NR1H4 gene,Hyperlipidemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417898,C0028326,AFFECTS,NXF1 gene,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417912,C0035690,AFFECTS,OAS1 gene,RNA Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1417916,C0029408,AFFECTS,OASL gene,Degenerative polyarthritis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1417947,C0020538,AFFECTS,OLR1 gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418224,C1849334,AFFECTS,P4HB gene,"Robinow syndrome, autosomal recessive",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418252,C0206751,AFFECTS,SERPINE1 gene,Rhabdoviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418401,C0021400,AFFECTS,PDCD1 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418401,C0042749,AFFECTS,PDCD1 gene,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418401,C0042769,AFFECTS,PDCD1 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1418401,C1264606,AFFECTS,PDCD1 gene,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418404,C0035869,AFFECTS,PDCD4 gene,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418464,C0019158,AFFECTS,PER1 gene,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418485,C0748168,AFFECTS,PFDN4 gene,Pulmonary Pathology,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418551,C0019693,AFFECTS,SERPINB6 gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418582,C0276500,AFFECTS,PIN1 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418596,C0679225,AFFECTS,PITX2 gene,multiple pathologies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418597,C0006111,AFFECTS,PITX3 gene,Brain Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418597,C0013371,AFFECTS,PITX3 gene,Shigella Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1418597,C0032285,AFFECTS,PITX3 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418597,C0036690,AFFECTS,PITX3 gene,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418616,C0032285,AFFECTS,PLA2G10 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418616,C0035222,AFFECTS,PLA2G10 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1418727,C0011847,AFFECTS,POLD1 gene,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C0002395,AFFECTS,PPIA gene,Alzheimer's Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C0003850,AFFECTS,PPIA gene,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C0019163,AFFECTS,PPIA gene,Hepatitis B,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C0019693,AFFECTS,PPIA gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C0042769,AFFECTS,PPIA gene,Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1418793,C0276500,AFFECTS,PPIA gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C0947751,AFFECTS,PPIA gene,vascular inflammations,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C2047215,AFFECTS,PPIA gene,Herpesvirus 5 infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C3277428,AFFECTS,PPIA gene,Severe viral infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418793,C4288963,AFFECTS,PPIA gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418919,C0010054,AFFECTS,PRKCG gene,Coronary Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418944,C0035222,AFFECTS,PROCR gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418944,C0036690,AFFECTS,PROCR gene,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1418944,C1719672,AFFECTS,PROCR gene,Severe Sepsis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419054,C0268696,AFFECTS,PTBP1 gene,Feline urological syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419129,C3694279,AFFECTS,PTS gene,Middle East Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419142,C0024117,AFFECTS,NECTIN1 gene,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419212,C0035235,AFFECTS,RAB5A gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419212,C0856169,AFFECTS,RAB5A gene,endothelial dysfunction,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1419215,C0042769,AFFECTS,RAB6A gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419227,C0019100,AFFECTS,RAC1 gene,Severe Dengue,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419227,C0035869,AFFECTS,RAC1 gene,Rotavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419227,C0042769,AFFECTS,RAC1 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1419325,C0376538,AFFECTS,OPN1LW gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1419348,C1175175,AFFECTS,RFC1 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1419413,C0042769,AFFECTS,RNASEL gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1419419,C0024141,AFFECTS,RNF2 gene,"Lupus Erythematosus, Systemic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0004031,AFFECTS,SFTPA1 gene,"Aspergillosis, Allergic Bronchopulmonary",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0004943,AFFECTS,SFTPA1 gene,Behcet Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0011615,AFFECTS,SFTPA1 gene,"Dermatitis, Atopic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0023646,AFFECTS,SFTPA1 gene,Lichen Planus,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0024115,AFFECTS,SFTPA1 gene,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0032285,AFFECTS,SFTPA1 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0033860,AFFECTS,SFTPA1 gene,Psoriasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0035220,AFFECTS,SFTPA1 gene,"Respiratory Distress Syndrome, Newborn",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1420002,C0085786,AFFECTS,SFTPA1 gene,Hamman-Rich syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C0876973,AFFECTS,SFTPA1 gene,Infectious disease of lung,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420002,C3662483,AFFECTS,SFTPA1 gene,Allergic sensitization,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420068,C0014335,AFFECTS,SIM2 gene,Enteritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420084,C0042769,AFFECTS,SLAMF1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420160,C0024530,AFFECTS,SLC25A3 gene,Malaria,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420234,C0020538,AFFECTS,SLC9A3 gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420234,C1290807,AFFECTS,SLC9A3 gene,Diarrheal disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420393,C0042769,AFFECTS,SQSTM1 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420469,C0004364,AFFECTS,STK17B gene,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420636,C0014175,AFFECTS,HNF1B gene,Endometriosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420816,C0034069,AFFECTS,TNFSF13B gene,Pulmonary Fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1420876,C0042769,AFFECTS,TPP2 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1421231,C0042769,AFFECTS,TUBB gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421245,C0020473,AFFECTS,TWSG1 gene,Hyperlipidemia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1421318,C0033770,AFFECTS,SCGB1A1 gene,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421395,C0004623,AFFECTS,USP18 gene,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421395,C0011847,AFFECTS,USP18 gene,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421424,C0042769,AFFECTS,VAPA gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421479,C0021400,AFFECTS,WASF1 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421479,C2676739,AFFECTS,WASF1 gene,Chromosome 2q32-Q33 Deletion Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421554,C0376538,AFFECTS,YME1L1 gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421554,C2930619,AFFECTS,YME1L1 gene,Sex Differentiation Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1421913,C0276500,AFFECTS,DDX24 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422014,C0023895,AFFECTS,UNC93B1 gene,Liver diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422036,C0042769,AFFECTS,ERVW-1 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422036,C4288963,AFFECTS,ERVW-1 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0003850,AFFECTS,ACE2 gene,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0004096,AFFECTS,ACE2 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0007222,AFFECTS,ACE2 gene,Cardiovascular Diseases,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C1422064,C0007286,AFFECTS,ACE2 gene,Carpal Tunnel Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0009319,AFFECTS,ACE2 gene,Colitis,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0011847,AFFECTS,ACE2 gene,Diabetes,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1422064,C0011881,AFFECTS,ACE2 gene,Diabetic Nephropathy,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1422064,C0015695,AFFECTS,ACE2 gene,Fatty Liver,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1422064,C0018799,AFFECTS,ACE2 gene,Heart Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0020456,AFFECTS,ACE2 gene,Hyperglycemia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0020538,AFFECTS,ACE2 gene,Hypertensive disease,aapp,dsyn,16,AFFECTS_AAPPafctDSYN
+C1422064,C0022658,AFFECTS,ACE2 gene,Kidney Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0024115,AFFECTS,ACE2 gene,Lung diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0027697,AFFECTS,ACE2 gene,Nephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0028754,AFFECTS,ACE2 gene,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0032285,AFFECTS,ACE2 gene,Pneumonia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0034063,AFFECTS,ACE2 gene,Pulmonary Edema,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0035222,AFFECTS,ACE2 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0042373,AFFECTS,ACE2 gene,Vascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0042769,AFFECTS,ACE2 gene,Virus Diseases,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C1422064,C0206750,AFFECTS,ACE2 gene,Coronavirus Infections,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1422064,C0565599,AFFECTS,ACE2 gene,Maternal hypertension,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C0597048,AFFECTS,ACE2 gene,neurogenic hypertension,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1422064,C0948755,AFFECTS,ACE2 gene,Pulmonary failure,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C1096155,AFFECTS,ACE2 gene,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C1135196,AFFECTS,ACE2 gene,"Heart Failure, Diastolic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422064,C1175175,AFFECTS,ACE2 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,24,AFFECTS_AAPPafctDSYN
+C1422271,C0021364,AFFECTS,BAG6 gene,Male infertility,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422599,C0242917,AFFECTS,PPP1R15A gene,Filoviridae Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1422750,C0032285,AFFECTS,IKBKE gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423082,C0016627,AFFECTS,PPP1R14C gene,Influenza in Birds,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423506,C0035222,AFFECTS,SPINK5 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423506,C0699949,AFFECTS,SPINK5 gene,airway disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1423633,C0042769,AFFECTS,TLR9 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423706,C0004096,AFFECTS,SDCBP2 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0004096,AFFECTS,NELFCD gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0004364,AFFECTS,NELFCD gene,Autoimmune Diseases,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C1423842,C0009319,AFFECTS,NELFCD gene,Colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0011303,AFFECTS,NELFCD gene,Demyelinating Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0011847,AFFECTS,NELFCD gene,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0011854,AFFECTS,NELFCD gene,"Diabetes Mellitus, Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0242723,AFFECTS,NELFCD gene,Parasitemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0267375,AFFECTS,NELFCD gene,Chronic colitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1423842,C0748168,AFFECTS,NELFCD gene,Pulmonary Pathology,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424146,C0019693,AFFECTS,TRIM5 gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424146,C0042769,AFFECTS,TRIM5 gene,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1424231,C0042769,AFFECTS,TRIM22 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424242,C0021400,AFFECTS,CARD9 gene,Influenza,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1424242,C0032285,AFFECTS,CARD9 gene,Pneumonia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1424250,C0011860,AFFECTS,NLRP3 gene,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424250,C0032285,AFFECTS,NLRP3 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424250,C0400966,AFFECTS,NLRP3 gene,Non-alcoholic Fatty Liver Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424743,C0019693,AFFECTS,TNPO3 gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424792,C1290884,AFFECTS,PRDX4 gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424920,C0042769,AFFECTS,DDX23 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1424920,C0276500,AFFECTS,DDX23 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425066,C0004364,AFFECTS,TREM1 gene,Autoimmune Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1425076,C0009450,AFFECTS,LIN7B gene,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425219,C0009450,AFFECTS,SLC22A12 gene,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425219,C0032285,AFFECTS,SLC22A12 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425370,C0043124,AFFECTS,DDX56 gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425473,C0004096,AFFECTS,IFNL1 gene,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425745,C1860224,AFFECTS,PDCD1LG2 gene,ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1425830,C0032285,AFFECTS,SPHK2 gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1425964,C0276289,AFFECTS,TRIM56 gene,Zika Virus Infection,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1426208,C0431375,AFFECTS,SOCS1 gene,Classical Lissencephaly,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1426212,C0036202,AFFECTS,SOCS3 gene,Sarcoidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1426511,C0376538,AFFECTS,GBP5 gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1426592,C4288963,AFFECTS,PCSK9 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1426803,C0028754,AFFECTS,FNDC5 gene,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1427150,C0282687,AFFECTS,TPCN2 gene,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1427378,C0035235,AFFECTS,MDC1 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1428114,C0009450,AFFECTS,TBATA gene,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1428114,C0011615,AFFECTS,TBATA gene,"Dermatitis, Atopic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1428114,C0277548,AFFECTS,TBATA gene,Epidemic disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1428654,C0158940,AFFECTS,RBM20 gene,Transitory tachypnea of newborn,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1428890,C0027765,AFFECTS,SGMS1 gene,nervous system disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1432728,C0085653,AFFECTS,"CD244 protein, human",Pyogenic granuloma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1432728,C0263859,AFFECTS,"CD244 protein, human","Synovitis, Acne, Pustulosis, Hyperostosis, and Osteitis Syndrome",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1439284,C0011175,AFFECTS,AGTR1 gene,Dehydration,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1439284,C0020538,AFFECTS,AGTR1 gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1439284,C0022658,AFFECTS,AGTR1 gene,Kidney Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1439284,C0034063,AFFECTS,AGTR1 gene,Pulmonary Edema,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1442753,C0043124,AFFECTS,SLC7A5 gene,West Nile Fever,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1442757,C0024115,AFFECTS,SFTPB gene,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1442757,C0035220,AFFECTS,SFTPB gene,"Respiratory Distress Syndrome, Newborn",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1443145,C0010340,AFFECTS,BPI gene,Critical Illness,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1445860,C0014038,AFFECTS,Protein antibody,Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1446659,C0524851,AFFECTS,MAPT gene,Neurodegenerative Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1447045,C0001126,AFFECTS,"EGR1 protein, human",Renal tubular acidosis,aapp,dsyn,7,AFFECTS_AAPPafctDSYN
+C1448177,C0021053,AFFECTS,"TNF protein, human",Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1448177,C0024117,AFFECTS,"TNF protein, human",Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1448177,C0042769,AFFECTS,"TNF protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1448177,C0085129,AFFECTS,"TNF protein, human",Bronchial Hyperreactivity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1448177,C0947961,AFFECTS,"TNF protein, human",Atopic condition,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1448177,C1175175,AFFECTS,"TNF protein, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1449159,C0348165,AFFECTS,"CCL2 protein, human",Central Nervous System Viral Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1449651,C0042769,AFFECTS,Amyloid Fibrils,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1449886,C0004623,AFFECTS,"Adaptor Proteins, Signal Transducing",Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1450173,C0009450,AFFECTS,"ICAM3 protein, human",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1450173,C0178468,AFFECTS,"ICAM3 protein, human",Autoimmune thyroid disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1451001,C0009450,AFFECTS,"GUCY2C protein, human",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1452607,C0085436,AFFECTS,"FCGR2B protein, human","Meningitis, Cryptococcal",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1456389,C0856169,AFFECTS,NOX1 gene,endothelial dysfunction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1456447,C0016052,AFFECTS,"SLC6A2 protein, human",Fibromuscular Dysplasia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1456447,C0206750,AFFECTS,"SLC6A2 protein, human",Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1456447,C0442886,AFFECTS,"SLC6A2 protein, human",Secondary Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1456447,C3541994,AFFECTS,"SLC6A2 protein, human",Drug Hypersensitivity Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1506697,C0022660,AFFECTS,"CD47 protein, human","Kidney Failure, Acute",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1515370,C0035222,AFFECTS,Recombinant Fas Ligand,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1522002,C0042769,AFFECTS,RNA Recognition Motif,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1522537,C0019693,AFFECTS,Recombinant Interferon,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1522537,C1175175,AFFECTS,Recombinant Interferon,Severe Acute Respiratory Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1522537,C3694279,AFFECTS,Recombinant Interferon,Middle East Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1522559,C0004096,AFFECTS,Recombinant RANTES,Asthma,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1522712,C0347950,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Asthma attack,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1522712,C0348165,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Central Nervous System Viral Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1525410,C0003873,AFFECTS,Cyclic citrullinated peptide antibody,Rheumatoid Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1527233,C0042769,AFFECTS,Recombinant Immune Globulin,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1527865,C0014335,AFFECTS,"CAV1 protein, human",Enteritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1530281,C0043124,AFFECTS,"IRF7 protein, human",West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1531217,C0343537,AFFECTS,"DSP protein, human",Specific viral infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1533585,C0266427,AFFECTS,Fusion Gene,Testicular regression syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1537719,C0003850,AFFECTS,MIR21 gene,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1537719,C0020538,AFFECTS,MIR21 gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1537935,C0003864,AFFECTS,MRAP gene,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1537935,C0949691,AFFECTS,MRAP gene,Spondylarthropathies,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1538071,C1290884,AFFECTS,VSIG4 gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1538391,C0007222,AFFECTS,RNLS gene,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1538391,C0022661,AFFECTS,RNLS gene,"Kidney Failure, Chronic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1538915,C0018801,AFFECTS,APLN gene,Heart failure,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1538915,C0020538,AFFECTS,APLN gene,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1539098,C0024440,AFFECTS,CLEC4G gene,"Macular Edema, Cystoid",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1539099,C0019693,AFFECTS,CLEC4M gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1539103,C0042214,AFFECTS,CLEC9A gene,Vaccinia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1539225,C0033770,AFFECTS,DCP1A gene,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1539703,C0019693,AFFECTS,RSAD2 gene,HIV Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1539703,C0029408,AFFECTS,RSAD2 gene,Degenerative polyarthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1539847,C4288963,AFFECTS,SRFBP1 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1540027,C1175175,AFFECTS,TMPRSS11E gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1540042,C0679225,AFFECTS,TPP1 gene,multiple pathologies,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1540210,C0151317,AFFECTS,ASZ1 gene,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1564892,C0032285,AFFECTS,Complement Inactivating Agents,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1564892,C0032310,AFFECTS,Complement Inactivating Agents,"Pneumonia, Viral",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1564907,C0004096,AFFECTS,"Receptors, Pattern Recognition",Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1564907,C1290884,AFFECTS,"Receptors, Pattern Recognition",Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1565020,C0948807,AFFECTS,monomethyl auristatin E,Hepatic impairment,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1565114,C1264606,AFFECTS,Apoptosis Inhibiting Proteins,Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1565830,C0041582,AFFECTS,"PTGS1 protein, human",Ulcer,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1567160,C0019348,AFFECTS,"GZMB protein, human",Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1568204,C0020541,AFFECTS,"IFNAR1 protein, human","Hypertension, Portal",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1620077,C0004096,AFFECTS,"IL4R protein, human",Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1624602,C0005779,AFFECTS,Anti-Antibodies,Blood Coagulation Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1624602,C0010823,AFFECTS,Anti-Antibodies,Cytomegalovirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1624602,C0151313,AFFECTS,Anti-Antibodies,Sensory neuropathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1624602,C1175175,AFFECTS,Anti-Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1667752,C0033770,AFFECTS,"IL33 protein, human",Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1667752,C0042721,AFFECTS,"IL33 protein, human",Viral hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1698754,C0027697,AFFECTS,"IL6 protein, human",Nephritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701084,C0042749,AFFECTS,"CD9 protein, human",Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C0004364,AFFECTS,"IL17A protein, human",Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C0018203,AFFECTS,"IL17A protein, human",Chronic granulomatous disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C0021053,AFFECTS,"IL17A protein, human",Immune System Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C0035222,AFFECTS,"IL17A protein, human","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C0042769,AFFECTS,"IL17A protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C0266313,AFFECTS,"IL17A protein, human",Allanson Pantzar McLeod syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1701790,C2074898,AFFECTS,"IL17A protein, human",chronic Lung Inflammations,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1702088,C0004096,AFFECTS,"IL5 protein, human",Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1702088,C0009450,AFFECTS,"IL5 protein, human",Communicable Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1702088,C0014457,AFFECTS,"IL5 protein, human",Eosinophilia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1702088,C0030499,AFFECTS,"IL5 protein, human",Parasitic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1704691,C0033036,AFFECTS,FCGR3A wt Allele,Atrial Premature Complexes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1704691,C0042749,AFFECTS,FCGR3A wt Allele,Viremia,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1705010,C0272302,AFFECTS,TNC wt Allele,Gray Platelet Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1705519,C0028326,AFFECTS,NRAS wt Allele,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1705590,C0002792,AFFECTS,PIK3CB wt Allele,anaphylaxis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1705590,C0004096,AFFECTS,PIK3CB wt Allele,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1705947,C0003872,AFFECTS,Interleukin-17A,"Arthritis, Psoriatic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1705947,C0003873,AFFECTS,Interleukin-17A,Rheumatoid Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1706005,C0036690,AFFECTS,CD40LG wt Allele,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1706005,C0042749,AFFECTS,CD40LG wt Allele,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1706902,C0028326,AFFECTS,BRAF wt Allele,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1707156,C1096155,AFFECTS,CTBP1 wt Allele,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1708010,C0039240,AFFECTS,FES wt Allele,Supraventricular tachycardia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1708438,C0275522,AFFECTS,IL8RA wt Allele,Asymptomatic Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1710701,C0206750,AFFECTS,YES1 wt Allele,Coronavirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823138,C0276500,AFFECTS,STT3A gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823437,C0007682,AFFECTS,TMEM173 gene,CNS disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823437,C0019348,AFFECTS,TMEM173 gene,Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823437,C0043124,AFFECTS,TMEM173 gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823437,C1290884,AFFECTS,TMEM173 gene,Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823458,C0034063,AFFECTS,TNFAIP8L2 gene,Pulmonary Edema,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823491,C0003850,AFFECTS,TRIM69 gene,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823509,C1175175,AFFECTS,TRNAU1AP gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1823796,C0205721,AFFECTS,TSACC gene,"Infections, Hospital",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1824902,C0042769,AFFECTS,DDX19A gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1824903,C0042769,AFFECTS,DDX19B gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825593,C0243026,AFFECTS,IL17RA gene,Sepsis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0001175,AFFECTS,IMPACT gene,Acquired Immunodeficiency Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1825598,C0004096,AFFECTS,IMPACT gene,Asthma,aapp,dsyn,5,AFFECTS_AAPPafctDSYN
+C1825598,C0009450,AFFECTS,IMPACT gene,Communicable Diseases,aapp,dsyn,12,AFFECTS_AAPPafctDSYN
+C1825598,C0010418,AFFECTS,IMPACT gene,Cryptosporidiosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0011847,AFFECTS,IMPACT gene,Diabetes,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0016514,AFFECTS,IMPACT gene,Foot-and-Mouth Disease,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1825598,C0016627,AFFECTS,IMPACT gene,Influenza in Birds,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1825598,C0018572,AFFECTS,IMPACT gene,"Hand, Foot and Mouth Disease",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1825598,C0018889,AFFECTS,IMPACT gene,Helminthiasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0021400,AFFECTS,IMPACT gene,Influenza,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C1825598,C0023364,AFFECTS,IMPACT gene,Leptospirosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0024117,AFFECTS,IMPACT gene,Chronic Obstructive Airway Disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1825598,C0025229,AFFECTS,IMPACT gene,Melioidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0026780,AFFECTS,IMPACT gene,Mumps,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0032285,AFFECTS,IMPACT gene,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0035204,AFFECTS,IMPACT gene,Respiration Disorders,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0037354,AFFECTS,IMPACT gene,Smallpox,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0041296,AFFECTS,IMPACT gene,Tuberculosis,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1825598,C0043528,AFFECTS,IMPACT gene,Zoonoses,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1825598,C0206750,AFFECTS,IMPACT gene,Coronavirus Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1825598,C0270724,AFFECTS,IMPACT gene,Infantile Neuroaxonal Dystrophy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0282687,AFFECTS,IMPACT gene,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0339901,AFFECTS,IMPACT gene,Acute respiratory infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0376538,AFFECTS,IMPACT gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0442893,AFFECTS,IMPACT gene,Systemic disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C0872315,AFFECTS,IMPACT gene,"Communicable Diseases, Emerging",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C1175175,AFFECTS,IMPACT gene,Severe Acute Respiratory Syndrome,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1825598,C1849718,AFFECTS,IMPACT gene,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C1854664,AFFECTS,IMPACT gene,LETHAL CONGENITAL CONTRACTURE SYNDROME 1,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C2931826,AFFECTS,IMPACT gene,Potassium aggravated myotonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C3534575,AFFECTS,IMPACT gene,Animal Health,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825598,C4288963,AFFECTS,IMPACT gene,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825621,C0004623,AFFECTS,ISG15 gene,Bacterial Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825621,C0026946,AFFECTS,ISG15 gene,Mycoses,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825621,C0042769,AFFECTS,ISG15 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1825621,C0854706,AFFECTS,ISG15 gene,neonatal infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826412,C0021400,AFFECTS,BATF2 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826412,C0042769,AFFECTS,BATF2 gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826412,C0275524,AFFECTS,BATF2 gene,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826435,C0010340,AFFECTS,NLRP1 gene,Critical Illness,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826439,C0341439,AFFECTS,NLRP6 gene,Chronic liver disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826439,C0400966,AFFECTS,NLRP6 gene,Non-alcoholic Fatty Liver Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826439,C0745754,AFFECTS,NLRP6 gene,Hepatic granuloma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826448,C0876973,AFFECTS,NOD1 gene,Infectious disease of lung,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826724,C0271650,AFFECTS,PRRT2 gene,Impaired glucose tolerance,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1826968,C0019348,AFFECTS,SAMD4A gene,Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1835886,C0007222,AFFECTS,ACKR3 gene,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1847590,C0042769,AFFECTS,ENDOU gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1864770,C0028326,AFFECTS,MAVS gene,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1864770,C0042769,AFFECTS,MAVS gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1864770,C0043124,AFFECTS,MAVS gene,West Nile Fever,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1865043,C1096155,AFFECTS,ATG12 gene,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1870006,C0004135,AFFECTS,"PTPRC protein, human",Ataxia Telangiectasia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1883559,C0023895,AFFECTS,Wild Type,Liver diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C1883559,C0028326,AFFECTS,Wild Type,Noonan Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1883559,C0035400,AFFECTS,Wild Type,Reye Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1883559,C0206608,AFFECTS,Wild Type,Flavivirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1955876,C0019693,AFFECTS,Human Immunodeficiency Virus Proteins,HIV Infections,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C1955894,C0042769,AFFECTS,Viral Accessory Proteins,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1955907,C0020443,AFFECTS,Adipokines,Hypercholesterolemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1955907,C0025517,AFFECTS,Adipokines,Metabolic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1955907,C0028754,AFFECTS,Adipokines,Obesity,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C1956109,C0004364,AFFECTS,Human Microbiome,Autoimmune Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C2002636,C0042769,AFFECTS,3C proteases,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2239342,C0343641,AFFECTS,DDX60 gene,Human papilloma virus infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2239486,C0009443,AFFECTS,GEN1 gene,Common Cold,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2239486,C0021400,AFFECTS,GEN1 gene,Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2239486,C1175175,AFFECTS,GEN1 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2346906,C0403529,AFFECTS,Lupus Anticoagulant Antibody,Anti-Glomerular Basement Membrane Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2346906,C0409974,AFFECTS,Lupus Anticoagulant Antibody,Lupus Erythematosus,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2346906,C3495801,AFFECTS,Lupus Anticoagulant Antibody,Granulomatosis with polyangiitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2350701,C0004096,AFFECTS,Macrophage Inflammatory Protein-1,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2697657,C0008679,AFFECTS,ITGA2B wt Allele,Chronic disease,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C2717970,C0031099,AFFECTS,Cysteine Proteases,Periodontitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0004096,AFFECTS,"CD69 protein, human",Asthma,aapp,dsyn,6,AFFECTS_AAPPafctDSYN
+C2744535,C0006267,AFFECTS,"CD69 protein, human",Bronchiectasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0009450,AFFECTS,"CD69 protein, human",Communicable Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C2744535,C0010678,AFFECTS,"CD69 protein, human",Cysticercosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0018799,AFFECTS,"CD69 protein, human",Heart Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0019348,AFFECTS,"CD69 protein, human",Herpes Simplex Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0021400,AFFECTS,"CD69 protein, human",Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0023281,AFFECTS,"CD69 protein, human",Leishmaniasis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0024117,AFFECTS,"CD69 protein, human",Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0032285,AFFECTS,"CD69 protein, human",Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0035222,AFFECTS,"CD69 protein, human","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0035235,AFFECTS,"CD69 protein, human",Respiratory Syncytial Virus Infections,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C2744535,C0036117,AFFECTS,"CD69 protein, human",Salmonella infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0037116,AFFECTS,"CD69 protein, human",Silicosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0042769,AFFECTS,"CD69 protein, human",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C2744535,C0151317,AFFECTS,"CD69 protein, human",Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0151650,AFFECTS,"CD69 protein, human",Renal fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0175697,AFFECTS,"CD69 protein, human",Van der Woude syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C0338437,AFFECTS,"CD69 protein, human",Neurocysticercosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C1175175,AFFECTS,"CD69 protein, human",Severe Acute Respiratory Syndrome,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C2744535,C1264606,AFFECTS,"CD69 protein, human",Persistent infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C1565489,AFFECTS,"CD69 protein, human",Renal Insufficiency,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744535,C1701940,AFFECTS,"CD69 protein, human","Pneumonia, Ventilator-Associated",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C2744535,C4529962,AFFECTS,"CD69 protein, human",Fatty Liver Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744579,C0024141,AFFECTS,"ATP8A2 protein, human","Lupus Erythematosus, Systemic",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744579,C0034063,AFFECTS,"ATP8A2 protein, human",Pulmonary Edema,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2744579,C0042769,AFFECTS,"ATP8A2 protein, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0014356,AFFECTS,Inflammasomes,Enterocolitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0016627,AFFECTS,Inflammasomes,Influenza in Birds,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0024115,AFFECTS,Inflammasomes,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0035690,AFFECTS,Inflammasomes,RNA Virus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0042769,AFFECTS,Inflammasomes,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0162309,AFFECTS,Inflammasomes,Adrenoleukodystrophy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0400966,AFFECTS,Inflammasomes,Non-alcoholic Fatty Liver Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2936529,C0948780,AFFECTS,Inflammasomes,Rhinosinusitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2945724,C1096155,AFFECTS,f-protein,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2985160,C0014661,AFFECTS,ARID1A wt Allele,Equine Infectious Anemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2985160,C0042769,AFFECTS,ARID1A wt Allele,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2985546,C0042769,AFFECTS,"Antibodies, Monoclonal, Humanized",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2986620,C0032285,AFFECTS,BECN1 wt Allele,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C2986870,C0275522,AFFECTS,LEP wt Allele,Asymptomatic Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3147110,C0033770,AFFECTS,DSCAM-AS1 gene,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3179274,C0003850,AFFECTS,electronegative low-density lipoprotein,Arteriosclerosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3273474,C0520680,AFFECTS,Cytospin-B,"Sleep Apnea, Central",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3273837,C1096155,AFFECTS,S100B wt Allele,Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3470196,C0034902,AFFECTS,EVA1C gene,Pure Red-Cell Aplasia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3470196,C0035243,AFFECTS,EVA1C gene,Respiratory Tract Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3470196,C0275524,AFFECTS,EVA1C gene,Coinfection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3494454,C0004364,AFFECTS,Sialic Acid Binding Immunoglobulin-like Lectins,Autoimmune Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3494454,C0009450,AFFECTS,Sialic Acid Binding Immunoglobulin-like Lectins,Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3538708,C0024115,AFFECTS,GZMB wt Allele,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3538735,C0276088,AFFECTS,AMH wt Allele,Escherichia coli septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3538735,C0856169,AFFECTS,AMH wt Allele,endothelial dysfunction,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3538756,C0032285,AFFECTS,NLRP1 wt Allele,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3538756,C0034063,AFFECTS,NLRP1 wt Allele,Pulmonary Edema,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3538756,C0035222,AFFECTS,NLRP1 wt Allele,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3539618,C0206062,AFFECTS,TSC22D3 wt Allele,"Lung Diseases, Interstitial",aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3540252,C1096155,AFFECTS,PYURF gene,Macrophage Activation Syndrome,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3540595,C0032285,AFFECTS,CD8A wt Allele,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3540595,C0042749,AFFECTS,CD8A wt Allele,Viremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3540595,C0042769,AFFECTS,CD8A wt Allele,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3540595,C0151317,AFFECTS,CD8A wt Allele,Chronic infectious disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3540595,C0442886,AFFECTS,CD8A wt Allele,Secondary Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3540622,C0024115,AFFECTS,PLA2G1B wt Allele,Lung diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3541878,C0265514,AFFECTS,USP9X wt Allele,Dermatofibrosis lenticularis disseminata,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3541980,C0036690,AFFECTS,ESM1 wt Allele,Septicemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3642279,C0033770,AFFECTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3658243,C0042769,AFFECTS,"Spike Glycoprotein, Coronavirus",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3710914,C0004096,AFFECTS,"EIF2AK2 protein, human",Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3710914,C0014378,AFFECTS,"EIF2AK2 protein, human",Enterovirus Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3710914,C0029408,AFFECTS,"EIF2AK2 protein, human",Degenerative polyarthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3710914,C0042769,AFFECTS,"EIF2AK2 protein, human",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3710914,C0276226,AFFECTS,"EIF2AK2 protein, human",Herpes encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3711684,C0042769,AFFECTS,"S protein, severe acute respiratory syndrome coronavirus",Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3715044,C0007222,AFFECTS,AKR1A1 wt Allele,Cardiovascular Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3715044,C0020437,AFFECTS,AKR1A1 wt Allele,Hypercalcemia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3715044,C0042769,AFFECTS,AKR1A1 wt Allele,Virus Diseases,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C3810054,C0035243,AFFECTS,APELA gene,Respiratory Tract Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3811063,C0009450,AFFECTS,SLC27A4 wt Allele,Communicable Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C3811063,C0265514,AFFECTS,SLC27A4 wt Allele,Dermatofibrosis lenticularis disseminata,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3812373,C0730328,AFFECTS,CHAF1A wt Allele,Central Serous Chorioretinopathy,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3813609,C0032285,AFFECTS,TBX4 wt Allele,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3818725,C1175175,AFFECTS,"corticotropin, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3825076,C0030305,AFFECTS,Complement inhibition,Pancreatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3839127,C0042769,AFFECTS,Protein coding gene,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3849511,C0042384,AFFECTS,"ANGPT2 protein, human",Vasculitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3849511,C1290884,AFFECTS,"ANGPT2 protein, human",Inflammatory disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3849574,C0014078,AFFECTS,"EPHB2 protein, human",Venezuelan equine encephalomyelitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3849701,C1096155,AFFECTS,"interleukin 18 protein, human",Macrophage Activation Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3852780,C1142127,AFFECTS,PCV7 vaccine,pneumococcal bacteremia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3884528,C0021400,AFFECTS,"HBEGF protein, human",Influenza,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3884535,C0009450,AFFECTS,"AREG protein, human",Communicable Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887559,C0004096,AFFECTS,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887559,C0019158,AFFECTS,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Hepatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887582,C0015695,AFFECTS,"Peroxisome Proliferator-Activated Receptor Gamma, human",Fatty Liver,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887624,C0030305,AFFECTS,Human Neprilysin,Pancreatitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887624,C0341858,AFFECTS,Human Neprilysin,Endometriosis of uterus,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887680,C0042769,AFFECTS,Human Aminopeptidase N,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3887682,C0015695,AFFECTS,"Platelet Glycoprotein 4, human",Fatty Liver,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3889161,C0036202,AFFECTS,LTBR wt Allele,Sarcoidosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3890397,C0015695,AFFECTS,PRKAA1 wt Allele,Fatty Liver,aapp,dsyn,4,AFFECTS_AAPPafctDSYN
+C3890397,C0025517,AFFECTS,PRKAA1 wt Allele,Metabolic Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3890397,C0042769,AFFECTS,PRKAA1 wt Allele,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C3890397,C4288963,AFFECTS,PRKAA1 wt Allele,Hepatitis C Virus Infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4048280,C0001175,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Acquired Immunodeficiency Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4048280,C0011302,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Demyelinating disease of central nervous system,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4048280,C0032285,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4048280,C0041296,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Tuberculosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4048280,C0042769,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4048280,C0442886,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Secondary Infections,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4082262,C0014057,AFFECTS,"Integrin Alpha-X , human",Japanese Encephalitis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4084937,C0024117,AFFECTS,Antimicrobial Peptide,Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4084937,C0032285,AFFECTS,Antimicrobial Peptide,Pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4084937,C0877008,AFFECTS,Antimicrobial Peptide,Enzyme inhibition disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4086522,C0042769,AFFECTS,Interferon-Induced Protein with Tetratricopeptide Repeats Family,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4086522,C1319860,AFFECTS,Interferon-Induced Protein with Tetratricopeptide Repeats Family,Sendai virus infection,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4281712,C0035222,AFFECTS,Tetrahydrobiopterin,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4281807,C0033770,AFFECTS,"Vitronectin, human",Prune Belly Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4281807,C0042769,AFFECTS,"Vitronectin, human",Virus Diseases,aapp,dsyn,3,AFFECTS_AAPPafctDSYN
+C4281807,C1175175,AFFECTS,"Vitronectin, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4283741,C0151650,AFFECTS,"Neuromedin N, human",Renal fibrosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4283742,C0004096,AFFECTS,"Ceramide Glucosyltransferase, human",Asthma,aapp,dsyn,2,AFFECTS_AAPPafctDSYN
+C4283742,C0024117,AFFECTS,"Ceramide Glucosyltransferase, human",Chronic Obstructive Airway Disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4283882,C0877008,AFFECTS,NR1I2 wt Allele,Enzyme inhibition disorder,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4284283,C0002106,AFFECTS,"C-C Chemokine Receptor Type 4, human",Allergic pneumonia,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4284302,C0003864,AFFECTS,EHD1 wt Allele,Arthritis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4284302,C0004096,AFFECTS,EHD1 wt Allele,Asthma,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4284302,C0009443,AFFECTS,EHD1 wt Allele,Common Cold,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4284302,C0016627,AFFECTS,EHD1 wt Allele,Influenza in Birds,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4284302,C0041296,AFFECTS,EHD1 wt Allele,Tuberculosis,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4321235,C0376538,AFFECTS,OCA2 wt Allele,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4505041,C0042769,AFFECTS,SEC61 Translocon,Virus Diseases,aapp,dsyn,1,AFFECTS_AAPPafctDSYN
+C4505191,C0020538,AFFECTS,Sodium-Hydrogen Exchanger 3,Hypertensive disease,aapp,dsyn,1,AFFECTS_AAPPafctDSYN

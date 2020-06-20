@@ -1,0 +1,372 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0085672,USES,angiogram,Microbiology procedure,diap,lbpr,2,USES_DIAPusesLBPR
+C0004398,C0014441,USES,Autopsy,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0004398,C0019637,USES,Autopsy,Histological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0004398,C0022885,USES,Autopsy,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0004398,C0026019,USES,Autopsy,Electron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0004398,C0032102,USES,Autopsy,plaque assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0004398,C0200931,USES,Autopsy,Polymerase chain reaction analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0004398,C0200955,USES,Autopsy,Viral culture procedure,diap,lbpr,2,USES_DIAPusesLBPR
+C0004398,C0949466,USES,Autopsy,Western Blot,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0019637,USES,Biopsy,Histological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0022885,USES,Biopsy,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0026019,USES,Biopsy,Electron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0200953,USES,Biopsy,Mycobacteria culture,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0200954,USES,Biopsy,Mycology culture,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0200955,USES,Biopsy,Viral culture procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C0282648,USES,Biopsy,Direct immunofluorescence,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C1294287,USES,Biopsy,Fungus identification,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C1318786,USES,Biopsy,Fluorescent stain method,diap,lbpr,1,USES_DIAPusesLBPR
+C0005558,C1510438,USES,Biopsy,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0005834,C0580327,USES,Collection of blood specimen for laboratory procedure,Antibody studies (procedure),diap,lbpr,1,USES_DIAPusesLBPR
+C0006153,C0022885,USES,Breath Tests,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0006290,C0019637,USES,Bronchoscopy,Histological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0006290,C0201253,USES,Bronchoscopy,Colony count on plate,diap,lbpr,3,USES_DIAPusesLBPR
+C0009378,C0019637,USES,colonoscopy,Histological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0011906,C0032181,USES,Differential Diagnosis,Platelet Count measurement,diap,lbpr,1,USES_DIAPusesLBPR
+C0011906,C0430172,USES,Differential Diagnosis,Xylose absorption test (procedure),diap,lbpr,1,USES_DIAPusesLBPR
+C0011906,C0729856,USES,Differential Diagnosis,Antigen test,diap,lbpr,1,USES_DIAPusesLBPR
+C0011906,C3516661,USES,Differential Diagnosis,Antibody evaluation,diap,lbpr,1,USES_DIAPusesLBPR
+C0011911,C0014441,USES,Laboratory Diagnosis,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0011911,C0016318,USES,Laboratory Diagnosis,Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0011911,C0200955,USES,Laboratory Diagnosis,Viral culture procedure,diap,lbpr,2,USES_DIAPusesLBPR
+C0011911,C1510438,USES,Laboratory Diagnosis,Assay,diap,lbpr,3,USES_DIAPusesLBPR
+C0011911,C1513388,USES,Laboratory Diagnosis,Molecular Diagnosis,diap,lbpr,1,USES_DIAPusesLBPR
+C0011911,C1705913,USES,Laboratory Diagnosis,Rapid Antigen Test,diap,lbpr,1,USES_DIAPusesLBPR
+C0013516,C0022885,USES,Echocardiography,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0017654,C0033085,USES,Glomerular Filtration Rate,Biologic Preservation,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0007584,USES,Immunohistochemistry,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0007703,USES,Immunohistochemistry,Centrifugation,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0014441,USES,Immunohistochemistry,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0016318,USES,Immunohistochemistry,Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0021067,USES,Immunohistochemistry,Immunoperoxidase Techniques,diap,lbpr,2,USES_DIAPusesLBPR
+C0021044,C0200765,USES,Immunohistochemistry,Image analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0201467,USES,Immunohistochemistry,Immunoglobulin typing,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0441073,USES,Immunohistochemistry,Bright field,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C0523207,USES,Immunohistochemistry,Hematoxylin and eosin stain method,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C1510438,USES,Immunohistochemistry,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C4049944,USES,Immunohistochemistry,Ki67 Measurement,diap,lbpr,1,USES_DIAPusesLBPR
+C0021044,C4054450,USES,Immunohistochemistry,Myelin Basic Protein Measurement,diap,lbpr,1,USES_DIAPusesLBPR
+C0021881,C0022885,USES,Intradermal Tests,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0024485,C0037812,USES,Magnetic Resonance Imaging,Spectrum Analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0024485,C0085672,USES,Magnetic Resonance Imaging,Microbiology procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0024485,C0201943,USES,Magnetic Resonance Imaging,Cerebrospinal Fluid Protein Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0024485,C1719039,USES,Magnetic Resonance Imaging,High resolution,diap,lbpr,9,USES_DIAPusesLBPR
+C0030646,C0007584,USES,Patch Tests,Cell Count,diap,lbpr,3,USES_DIAPusesLBPR
+C0030646,C1510438,USES,Patch Tests,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0031746,C0600209,USES,Photofluorography,SDS-PAGE,diap,lbpr,1,USES_DIAPusesLBPR
+C0032743,C0004400,USES,Positron-Emission Tomography,Autoradiography,diap,lbpr,1,USES_DIAPusesLBPR
+C0032743,C0007584,USES,Positron-Emission Tomography,Cell Count,diap,lbpr,2,USES_DIAPusesLBPR
+C0032743,C0026006,USES,Positron-Emission Tomography,Micronucleus Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0032743,C1441554,USES,Positron-Emission Tomography,Direct assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0032743,C1510438,USES,Positron-Emission Tomography,Assay,diap,lbpr,6,USES_DIAPusesLBPR
+C0033053,C0007584,USES,Prenatal Diagnosis,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0014441,USES,Radionuclide Imaging,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0020985,USES,Radionuclide Imaging,Immunoblotting,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0022885,USES,Radionuclide Imaging,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0026018,USES,Radionuclide Imaging,Microscopy,diap,lbpr,3,USES_DIAPusesLBPR
+C0034606,C0026019,USES,Radionuclide Imaging,Electron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0031752,USES,Radionuclide Imaging,Photometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0037805,USES,Radionuclide Imaging,Spectrophotometry,diap,lbpr,2,USES_DIAPusesLBPR
+C0034606,C0037812,USES,Radionuclide Imaging,Spectrum Analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0085672,USES,Radionuclide Imaging,Microbiology procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0162801,USES,Radionuclide Imaging,Sequence Analysis,diap,lbpr,2,USES_DIAPusesLBPR
+C0034606,C0242849,USES,Radionuclide Imaging,"Microscopy, Atomic Force",diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0260250,USES,Radionuclide Imaging,Ultraviolet spectroscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0523459,USES,Radionuclide Imaging,Alanine measurement,diap,lbpr,3,USES_DIAPusesLBPR
+C0034606,C0598827,USES,Radionuclide Imaging,selected ion monitoring,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C0683134,USES,Radionuclide Imaging,voltammetry,diap,lbpr,2,USES_DIAPusesLBPR
+C0034606,C1510438,USES,Radionuclide Imaging,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0034606,C1719039,USES,Radionuclide Imaging,High resolution,diap,lbpr,8,USES_DIAPusesLBPR
+C0034606,C2347644,USES,Radionuclide Imaging,Positive Selection,diap,lbpr,2,USES_DIAPusesLBPR
+C0037296,C0036743,USES,Hypersensitivity skin testing,Serologic tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0037981,C0022885,USES,Spirometry,Laboratory Procedures,diap,lbpr,2,USES_DIAPusesLBPR
+C0039985,C0042014,USES,Plain chest X-ray,Urinalysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0040395,C0597705,USES,tomography,Cryoelectron Microscopy,diap,lbpr,3,USES_DIAPusesLBPR
+C0040395,C1719039,USES,tomography,High resolution,diap,lbpr,2,USES_DIAPusesLBPR
+C0040398,C0085672,USES,"Tomography, Emission-Computed",Microbiology procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0040405,C0026040,USES,X-Ray Computed Tomography,Microtomy,diap,lbpr,18,USES_DIAPusesLBPR
+C0040405,C1719039,USES,X-Ray Computed Tomography,High resolution,diap,lbpr,4,USES_DIAPusesLBPR
+C0040405,C3820394,USES,X-Ray Computed Tomography,Thrombin to Antithrombin Ratio Measurement,diap,lbpr,1,USES_DIAPusesLBPR
+C0041618,C0022885,USES,Ultrasonography,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0041618,C0376519,USES,Ultrasonography,"Spectroscopy, Near-Infrared",diap,lbpr,1,USES_DIAPusesLBPR
+C0041618,C1719039,USES,Ultrasonography,High resolution,diap,lbpr,4,USES_DIAPusesLBPR
+C0043223,C1707903,USES,Word Association Tests,Embedding,diap,lbpr,3,USES_DIAPusesLBPR
+C0043299,C0026018,USES,Diagnostic radiologic examination,Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0079104,C0010818,USES,Pap smear,Cytological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0079595,C0021730,USES,Imaging Techniques,Interferometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0079595,C1719039,USES,Imaging Techniques,High resolution,diap,lbpr,4,USES_DIAPusesLBPR
+C0079835,C0021067,USES,"Microscopy, Immunoelectron",Immunoperoxidase Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0007584,USES,Diagnostic tests,Cell Count,diap,lbpr,2,USES_DIAPusesLBPR
+C0086143,C0014441,USES,Diagnostic tests,Enzyme-Linked Immunosorbent Assay,diap,lbpr,7,USES_DIAPusesLBPR
+C0086143,C0016318,USES,Diagnostic tests,Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0020980,USES,Diagnostic tests,Immunoassay method,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0020985,USES,Diagnostic tests,Immunoblotting,diap,lbpr,2,USES_DIAPusesLBPR
+C0086143,C0022885,USES,Diagnostic tests,Laboratory Procedures,diap,lbpr,3,USES_DIAPusesLBPR
+C0086143,C0086231,USES,Diagnostic tests,Enzyme Immunoassay,diap,lbpr,2,USES_DIAPusesLBPR
+C0086143,C0200932,USES,Diagnostic tests,Nucleic Acid Amplification Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0200955,USES,Diagnostic tests,Viral culture procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0430389,USES,Diagnostic tests,Light Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0430420,USES,Diagnostic tests,Antigen assay,diap,lbpr,2,USES_DIAPusesLBPR
+C0086143,C0581714,USES,Diagnostic tests,Buccal smear procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C0796357,USES,Diagnostic tests,Genetic Variation Analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C1441604,USES,Diagnostic tests,High sensitivity,diap,lbpr,7,USES_DIAPusesLBPR
+C0086143,C1510438,USES,Diagnostic tests,Assay,diap,lbpr,9,USES_DIAPusesLBPR
+C0086143,C2697666,USES,Diagnostic tests,Immunoenzyme Procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C3178849,USES,Diagnostic tests,Immunochromatography,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C3872568,USES,Diagnostic tests,Rapid immunoassay,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C4264425,USES,Diagnostic tests,Culture-independent,diap,lbpr,1,USES_DIAPusesLBPR
+C0086143,C4321306,USES,Diagnostic tests,Nasal Wash and Collection,diap,lbpr,1,USES_DIAPusesLBPR
+C0150866,C0007584,USES,Biopsy of skin procedure,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0150866,C0200955,USES,Biopsy of skin procedure,Viral culture procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0150866,C0282648,USES,Biopsy of skin procedure,Direct immunofluorescence,diap,lbpr,1,USES_DIAPusesLBPR
+C0150866,C1882516,USES,Biopsy of skin procedure,Quick Freeze,diap,lbpr,1,USES_DIAPusesLBPR
+C0190979,C0007703,USES,Venous blood sampling,Centrifugation,diap,lbpr,2,USES_DIAPusesLBPR
+C0190979,C0018941,USES,Venous blood sampling,Hematologic Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0190979,C1510438,USES,Venous blood sampling,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0192867,C0597452,USES,Biopsy of colon,Single-Cell Analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0193388,C1707903,USES,Biopsy of liver (procedure),Embedding,diap,lbpr,1,USES_DIAPusesLBPR
+C0194073,C0200761,USES,Kidney biopsy,"Morphometry, quantitative",diap,lbpr,1,USES_DIAPusesLBPR
+C0199236,C0014441,USES,family investigation,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0200000,C0523207,USES,Cystometrogram,Hematoxylin and eosin stain method,diap,lbpr,1,USES_DIAPusesLBPR
+C0200008,C0022885,USES,Uroflowmetry,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0202823,C0026040,USES,Chest CT,Microtomy,diap,lbpr,4,USES_DIAPusesLBPR
+C0202823,C1719039,USES,Chest CT,High resolution,diap,lbpr,8,USES_DIAPusesLBPR
+C0203634,C0008562,USES,Nuclear medicine procedure,High pressure liquid chromatography procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C0022885,USES,Nuclear medicine procedure,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C0024868,USES,Nuclear medicine procedure,Gas Chromatography-Mass Spectrometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C0032102,USES,Nuclear medicine procedure,plaque assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C0700320,USES,Nuclear medicine procedure,Sectioning technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C1510438,USES,Nuclear medicine procedure,Assay,diap,lbpr,3,USES_DIAPusesLBPR
+C0203634,C1882368,USES,Nuclear medicine procedure,Photon Correlation Spectroscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C2350499,USES,Nuclear medicine procedure,Electrochemical Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0203634,C4528399,USES,Nuclear medicine procedure,A260 to A230 Ratio,diap,lbpr,1,USES_DIAPusesLBPR
+C0242890,C0014441,USES,Toxicity Tests,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0243032,C0026024,USES,Magnetic Resonance Angiography,"Microscopy, Phase-Contrast",diap,lbpr,1,USES_DIAPusesLBPR
+C0262485,C0026024,USES,Flash,"Microscopy, Phase-Contrast",diap,lbpr,1,USES_DIAPusesLBPR
+C0278260,C0085672,USES,scopy,Microbiology procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0278372,C0016263,USES,Functional assessment,Flow Cytometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0280606,C3850137,USES,metabolic abnormality assessment,In Vitro Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0282662,C0086890,USES,Bedside Testing,Quick Test for Liver Function,diap,lbpr,1,USES_DIAPusesLBPR
+C0302357,C0007584,USES,Test of Visual Evoked Responses in Children,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0332140,C0014441,USES,"Diagnosis, clinical",Enzyme-Linked Immunosorbent Assay,diap,lbpr,3,USES_DIAPusesLBPR
+C0332140,C0016318,USES,"Diagnosis, clinical",Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0332140,C0200932,USES,"Diagnosis, clinical",Nucleic Acid Amplification Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0332140,C0851096,USES,"Diagnosis, clinical",serum Antibody test,diap,lbpr,1,USES_DIAPusesLBPR
+C0332140,C1441604,USES,"Diagnosis, clinical",High sensitivity,diap,lbpr,1,USES_DIAPusesLBPR
+C0332140,C1510438,USES,"Diagnosis, clinical",Assay,diap,lbpr,9,USES_DIAPusesLBPR
+C0374190,C1719039,USES,Anorectal manometry,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C0376443,C0523207,USES,Endoscopic Ultrasound,Hematoxylin and eosin stain method,diap,lbpr,1,USES_DIAPusesLBPR
+C0396473,C0010818,USES,Bronchoscopic irrigation,Cytological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C0412611,C0026040,USES,CT of lungs,Microtomy,diap,lbpr,1,USES_DIAPusesLBPR
+C0419358,C0004400,USES,Exploration with a probe,Autoradiography,diap,lbpr,1,USES_DIAPusesLBPR
+C0419358,C0005863,USES,Exploration with a probe,Western Blotting,diap,lbpr,1,USES_DIAPusesLBPR
+C0419358,C0013064,USES,Exploration with a probe,Dot Immunoblotting,diap,lbpr,2,USES_DIAPusesLBPR
+C0419358,C0037813,USES,Exploration with a probe,Mass Spectrometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0420052,C0022885,USES,Skin disease screening,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C0006779,USES,diagnostic procedure,Calorimetry,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C0014441,USES,diagnostic procedure,Enzyme-Linked Immunosorbent Assay,diap,lbpr,4,USES_DIAPusesLBPR
+C0430022,C0022885,USES,diagnostic procedure,Laboratory Procedures,diap,lbpr,2,USES_DIAPusesLBPR
+C0430022,C0026019,USES,diagnostic procedure,Electron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C0441707,USES,diagnostic procedure,Biotyping,diap,lbpr,2,USES_DIAPusesLBPR
+C0430022,C1285573,USES,diagnostic procedure,Genotype determination,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C1294356,USES,diagnostic procedure,Detection of virus procedure,diap,lbpr,3,USES_DIAPusesLBPR
+C0430022,C1441604,USES,diagnostic procedure,High sensitivity,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C1510438,USES,diagnostic procedure,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C1720909,USES,diagnostic procedure,Kirby-Bauer Disk-Diffusion Method,diap,lbpr,1,USES_DIAPusesLBPR
+C0430022,C4264425,USES,diagnostic procedure,Culture-independent,diap,lbpr,1,USES_DIAPusesLBPR
+C0430456,C4038411,USES,12 lead ECG,Bazett formula,diap,lbpr,1,USES_DIAPusesLBPR
+C0430561,C0022885,USES,Skin prick test,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0430876,C0026018,USES,Fluorescence Imaging,Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0431080,C0022885,USES,Diagnostic assessment,Laboratory Procedures,diap,lbpr,5,USES_DIAPusesLBPR
+C0431080,C0036743,USES,Diagnostic assessment,Serologic tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0431080,C0079240,USES,Diagnostic assessment,Dilution technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0431080,C0200949,USES,Diagnostic assessment,Blood culture,diap,lbpr,1,USES_DIAPusesLBPR
+C0444186,C0009555,USES,Smear test,Complete Blood Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0444186,C0010818,USES,Smear test,Cytological Techniques,diap,lbpr,3,USES_DIAPusesLBPR
+C0444186,C0016318,USES,Smear test,Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0444186,C0086890,USES,Smear test,Quick Test for Liver Function,diap,lbpr,1,USES_DIAPusesLBPR
+C0444186,C0200974,USES,Smear test,Acid fast stain procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0444186,C0487602,USES,Smear test,Staining method,diap,lbpr,2,USES_DIAPusesLBPR
+C0444186,C0581714,USES,Smear test,Buccal smear procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0444186,C1441758,USES,Smear test,Thick film,diap,lbpr,2,USES_DIAPusesLBPR
+C0444186,C1707759,USES,Smear test,Direct Fluorescent Antibody Test,diap,lbpr,2,USES_DIAPusesLBPR
+C0449900,C0007584,USES,Contrast used,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0451111,C0014441,USES,Rapid screening test,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0455252,C0026018,USES,Collection of sputum (procedure),Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0457276,C0010424,USES,Radiographic imaging - action,Crystallography,diap,lbpr,4,USES_DIAPusesLBPR
+C0497093,C0022885,USES,Sensitivity test,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0497093,C0079240,USES,Sensitivity test,Dilution technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0497093,C0200932,USES,Sensitivity test,Nucleic Acid Amplification Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0497093,C0871511,USES,Sensitivity test,Test Method,diap,lbpr,1,USES_DIAPusesLBPR
+C0497093,C1510438,USES,Sensitivity test,Assay,diap,lbpr,2,USES_DIAPusesLBPR
+C0497093,C1553146,USES,Sensitivity test,VITEK 2,diap,lbpr,1,USES_DIAPusesLBPR
+C0497093,C2827787,USES,Sensitivity test,Disk Diffusion Method,diap,lbpr,5,USES_DIAPusesLBPR
+C0546783,C1719039,USES,vascular imaging,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C0549075,C0474651,USES,Assessment: Respiration,Viral antibody titer measurement,diap,lbpr,1,USES_DIAPusesLBPR
+C0596350,C0020980,USES,communicable disease diagnosis (procedure),Immunoassay method,diap,lbpr,1,USES_DIAPusesLBPR
+C0596350,C0022885,USES,communicable disease diagnosis (procedure),Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0596473,C0014441,USES,Early Diagnosis,Enzyme-Linked Immunosorbent Assay,diap,lbpr,6,USES_DIAPusesLBPR
+C0596473,C0016318,USES,Early Diagnosis,Fluorescent Antibody Technique,diap,lbpr,2,USES_DIAPusesLBPR
+C0596473,C0022885,USES,Early Diagnosis,Laboratory Procedures,diap,lbpr,4,USES_DIAPusesLBPR
+C0596473,C0023117,USES,Early Diagnosis,Latex Fixation Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0596473,C1294356,USES,Early Diagnosis,Detection of virus procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0596473,C1441604,USES,Early Diagnosis,High sensitivity,diap,lbpr,1,USES_DIAPusesLBPR
+C0596473,C1449575,USES,Early Diagnosis,Microarray Analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C0596473,C2979983,USES,Early Diagnosis,Urine cytology,diap,lbpr,2,USES_DIAPusesLBPR
+C0596473,C4318939,USES,Early Diagnosis,Nasal Swab (procedure),diap,lbpr,1,USES_DIAPusesLBPR
+C0596608,C0013855,USES,gel mobility shift assay,Electrophoresis,diap,lbpr,1,USES_DIAPusesLBPR
+C0596608,C0949632,USES,gel mobility shift assay,Electrophoretic Mobility Shift Assay,diap,lbpr,3,USES_DIAPusesLBPR
+C0597356,C0014441,USES,rapid diagnosis,Enzyme-Linked Immunosorbent Assay,diap,lbpr,2,USES_DIAPusesLBPR
+C0597356,C0016318,USES,rapid diagnosis,Fluorescent Antibody Technique,diap,lbpr,5,USES_DIAPusesLBPR
+C0597356,C0022885,USES,rapid diagnosis,Laboratory Procedures,diap,lbpr,3,USES_DIAPusesLBPR
+C0597356,C0026019,USES,rapid diagnosis,Electron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C0200955,USES,rapid diagnosis,Viral culture procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C0282647,USES,rapid diagnosis,"Fluorescent Antibody Technique, Indirect",diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C0282648,USES,rapid diagnosis,Direct immunofluorescence,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C0282649,USES,rapid diagnosis,"Fluorescent Antibody Technique, Direct",diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C0430420,USES,rapid diagnosis,Antigen assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C0430425,USES,rapid diagnosis,Procedure to identify antibody,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C1261149,USES,rapid diagnosis,Viral antigen assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C1441604,USES,rapid diagnosis,High sensitivity,diap,lbpr,2,USES_DIAPusesLBPR
+C0597356,C1510438,USES,rapid diagnosis,Assay,diap,lbpr,6,USES_DIAPusesLBPR
+C0597356,C1707759,USES,rapid diagnosis,Direct Fluorescent Antibody Test,diap,lbpr,1,USES_DIAPusesLBPR
+C0597356,C3539922,USES,rapid diagnosis,Loop-mediated Isothermal Amplification,diap,lbpr,1,USES_DIAPusesLBPR
+C0683441,C0005863,USES,serologic diagnosis,Western Blotting,diap,lbpr,2,USES_DIAPusesLBPR
+C0683441,C0014441,USES,serologic diagnosis,Enzyme-Linked Immunosorbent Assay,diap,lbpr,2,USES_DIAPusesLBPR
+C0683441,C0016318,USES,serologic diagnosis,Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0683441,C0282646,USES,serologic diagnosis,Indirect Immunofluorescence,diap,lbpr,1,USES_DIAPusesLBPR
+C0683441,C1510438,USES,serologic diagnosis,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0683443,C0079240,USES,tests and testing,Dilution technique,diap,lbpr,1,USES_DIAPusesLBPR
+C0683443,C0282648,USES,tests and testing,Direct immunofluorescence,diap,lbpr,1,USES_DIAPusesLBPR
+C0683444,C1285572,USES,Behavior Test,Phenotype determination,diap,lbpr,1,USES_DIAPusesLBPR
+C0683457,C0022885,USES,State-trait anger expression inventory,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR
+C0695448,C0683134,USES,tests and measurements,voltammetry,diap,lbpr,1,USES_DIAPusesLBPR
+C0729707,C1293950,USES,"Computerized tomography, 3 dimensional reconstruction",Silver stain method,diap,lbpr,1,USES_DIAPusesLBPR
+C0740178,C1510438,USES,Antenatal screening procedures,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0750294,C0242841,USES,Biopsy of vocal cord,"Microscopy, Confocal, Laser Scanning",diap,lbpr,1,USES_DIAPusesLBPR
+C0750430,C0008550,USES,work up,Chromatography,diap,lbpr,7,USES_DIAPusesLBPR
+C0750430,C0678628,USES,work up,membrane filtration,diap,lbpr,1,USES_DIAPusesLBPR
+C0796359,C0016263,USES,DNA ploidy analysis,Flow Cytometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0807679,C0010424,USES,Radiology studies,Crystallography,diap,lbpr,40,USES_DIAPusesLBPR
+C0849666,C1441441,USES,cardiogram,2D ECHO,diap,lbpr,1,USES_DIAPusesLBPR
+C0860888,C0007584,USES,"Tomography, Spiral Computed",Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0860888,C0026040,USES,"Tomography, Spiral Computed",Microtomy,diap,lbpr,2,USES_DIAPusesLBPR
+C0860888,C0430244,USES,"Tomography, Spiral Computed",Sickling test,diap,lbpr,1,USES_DIAPusesLBPR
+C0860888,C1441488,USES,"Tomography, Spiral Computed",Auto,diap,lbpr,61,USES_DIAPusesLBPR
+C0871060,C0022885,USES,performance tests,Laboratory Procedures,diap,lbpr,2,USES_DIAPusesLBPR
+C0871060,C1705192,USES,performance tests,Seeding,diap,lbpr,4,USES_DIAPusesLBPR
+C0872102,C0014441,USES,assay development,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0872102,C0920508,USES,assay development,Enzyme-Linked Immunospot Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0872102,C1510438,USES,assay development,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0872186,C0016263,USES,high throughput analysis,Flow Cytometry,diap,lbpr,4,USES_DIAPusesLBPR
+C0872186,C0037813,USES,high throughput analysis,Mass Spectrometry,diap,lbpr,3,USES_DIAPusesLBPR
+C0872187,C0007584,USES,high throughput screening,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C0014441,USES,high throughput screening,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C0026018,USES,high throughput screening,Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C0037813,USES,high throughput screening,Mass Spectrometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C0282608,USES,high throughput screening,Image Cytometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C0597717,USES,high throughput screening,Fluorescence Resonance Energy Transfer,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C0920508,USES,high throughput screening,Enzyme-Linked Immunospot Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C1285573,USES,high throughput screening,Genotype determination,diap,lbpr,1,USES_DIAPusesLBPR
+C0872187,C1510438,USES,high throughput screening,Assay,diap,lbpr,2,USES_DIAPusesLBPR
+C0872187,C2347338,USES,high throughput screening,Negative Selection,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0008550,USES,rapid technique,Chromatography,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0014441,USES,rapid technique,Enzyme-Linked Immunosorbent Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0016318,USES,rapid technique,Fluorescent Antibody Technique,diap,lbpr,2,USES_DIAPusesLBPR
+C0872257,C0020985,USES,rapid technique,Immunoblotting,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0021052,USES,rapid technique,Immunodiagnosis,diap,lbpr,3,USES_DIAPusesLBPR
+C0872257,C0037793,USES,rapid technique,Specimen processing (procedure),diap,lbpr,2,USES_DIAPusesLBPR
+C0872257,C0200363,USES,rapid technique,Specimen preparation,diap,lbpr,4,USES_DIAPusesLBPR
+C0872257,C0200932,USES,rapid technique,Nucleic Acid Amplification Tests,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0200955,USES,rapid technique,Viral culture procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0201699,USES,rapid technique,"Electrophoresis, Capillary",diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0430420,USES,rapid technique,Antigen assay,diap,lbpr,6,USES_DIAPusesLBPR
+C0872257,C0436196,USES,rapid technique,Spectrometry,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0599616,USES,rapid technique,Virus identification,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C0752248,USES,rapid technique,Gene Expression Profiling,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C1285572,USES,rapid technique,Phenotype determination,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C1510438,USES,rapid technique,Assay,diap,lbpr,3,USES_DIAPusesLBPR
+C0872257,C1707903,USES,rapid technique,Embedding,diap,lbpr,3,USES_DIAPusesLBPR
+C0872257,C1719048,USES,rapid technique,Shell Vial Culture,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C2986505,USES,rapid technique,Genomic Profile,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C3146302,USES,rapid technique,Mutagenesis Procedure,diap,lbpr,1,USES_DIAPusesLBPR
+C0872257,C3178849,USES,rapid technique,Immunochromatography,diap,lbpr,3,USES_DIAPusesLBPR
+C0877853,C0599734,USES,"Spectroscopy, Nuclear Magnetic Resonance",Denaturing Gradient Gel Electrophoresis,diap,lbpr,1,USES_DIAPusesLBPR
+C0877853,C0947630,USES,"Spectroscopy, Nuclear Magnetic Resonance",Scientific Study,diap,lbpr,2,USES_DIAPusesLBPR
+C0877853,C1719039,USES,"Spectroscopy, Nuclear Magnetic Resonance",High resolution,diap,lbpr,4,USES_DIAPusesLBPR
+C0887832,C0242842,USES,"Imaging, Three-Dimensional","Microscopy, Confocal",diap,lbpr,1,USES_DIAPusesLBPR
+C0887832,C1719039,USES,"Imaging, Three-Dimensional",High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C0887832,C2350255,USES,"Imaging, Three-Dimensional",Electron Microscope Tomography,diap,lbpr,1,USES_DIAPusesLBPR
+C1167856,C0010818,USES,blood smear test,Cytological Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C1167856,C0016318,USES,blood smear test,Fluorescent Antibody Technique,diap,lbpr,1,USES_DIAPusesLBPR
+C1167856,C0036743,USES,blood smear test,Serologic tests,diap,lbpr,1,USES_DIAPusesLBPR
+C1167856,C0206161,USES,blood smear test,Reticulocyte count (procedure),diap,lbpr,1,USES_DIAPusesLBPR
+C1167856,C0523205,USES,blood smear test,Giemsa stain method,diap,lbpr,1,USES_DIAPusesLBPR
+C1167856,C1520152,USES,blood smear test,Wilson's Staining Method,diap,lbpr,2,USES_DIAPusesLBPR
+C1306645,C1719039,USES,Plain x-ray,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C1327806,C0282597,USES,Surface Enhanced Laser Desorption Ionization Mass Spectrometry,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",diap,lbpr,1,USES_DIAPusesLBPR
+C1327806,C1510438,USES,Surface Enhanced Laser Desorption Ionization Mass Spectrometry,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C1518156,C0026022,USES,Magnetic Resonance Elastography,"Microscopy, Fluorescence",diap,lbpr,1,USES_DIAPusesLBPR
+C1537000,C4505114,USES,cellular imaging,Coherent Anti-Stokes Raman Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1537028,C1719039,USES,Molecular Imaging,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C1548722,C0282597,USES,"Plates, Blood Agar","Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",diap,lbpr,1,USES_DIAPusesLBPR
+C1548722,C0430027,USES,"Plates, Blood Agar",biochemical test,diap,lbpr,1,USES_DIAPusesLBPR
+C1548722,C1449619,USES,"Plates, Blood Agar",Culture Techniques,diap,lbpr,1,USES_DIAPusesLBPR
+C1548752,C0430402,USES,"Transport Media,",Bacterial culture (procedure),diap,lbpr,1,USES_DIAPusesLBPR
+C1567151,C1510438,USES,Antemortem Diagnosis,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C1623258,C0022885,USES,Electrocardiography,Laboratory Procedures,diap,lbpr,10,USES_DIAPusesLBPR
+C1623258,C1719039,USES,Electrocardiography,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C1699633,C1446165,USES,PET/CT scan,Immature reticulocyte fraction,diap,lbpr,1,USES_DIAPusesLBPR
+C1831737,C0200765,USES,infrared thermography,Image analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C1881134,C0242842,USES,Image Study,"Microscopy, Confocal",diap,lbpr,1,USES_DIAPusesLBPR
+C1881134,C1719039,USES,Image Study,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0007584,USES,Observation - diagnostic procedure,Cell Count,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0016263,USES,Observation - diagnostic procedure,Flow Cytometry,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0016318,USES,Observation - diagnostic procedure,Fluorescent Antibody Technique,diap,lbpr,2,USES_DIAPusesLBPR
+C1964257,C0021730,USES,Observation - diagnostic procedure,Interferometry,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0022885,USES,Observation - diagnostic procedure,Laboratory Procedures,diap,lbpr,2,USES_DIAPusesLBPR
+C1964257,C0026018,USES,Observation - diagnostic procedure,Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0026019,USES,Observation - diagnostic procedure,Electron Microscopy,diap,lbpr,17,USES_DIAPusesLBPR
+C1964257,C0026020,USES,Observation - diagnostic procedure,Scanning Electron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0026022,USES,Observation - diagnostic procedure,"Microscopy, Fluorescence",diap,lbpr,6,USES_DIAPusesLBPR
+C1964257,C0036743,USES,Observation - diagnostic procedure,Serologic tests,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0037813,USES,Observation - diagnostic procedure,Mass Spectrometry,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0041609,USES,Observation - diagnostic procedure,Ultracentrifugation,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0079604,USES,Observation - diagnostic procedure,Immunofluorescence Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0200723,USES,Observation - diagnostic procedure,Stereo microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0200728,USES,Observation - diagnostic procedure,Tissue processing technique,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0200931,USES,Observation - diagnostic procedure,Polymerase chain reaction analysis,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0206755,USES,Observation - diagnostic procedure,"Crystallography, X-Ray",diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0242841,USES,Observation - diagnostic procedure,"Microscopy, Confocal, Laser Scanning",diap,lbpr,3,USES_DIAPusesLBPR
+C1964257,C0242842,USES,Observation - diagnostic procedure,"Microscopy, Confocal",diap,lbpr,4,USES_DIAPusesLBPR
+C1964257,C0242940,USES,Observation - diagnostic procedure,"Microscopy, Video",diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0282646,USES,Observation - diagnostic procedure,Indirect Immunofluorescence,diap,lbpr,2,USES_DIAPusesLBPR
+C1964257,C0430389,USES,Observation - diagnostic procedure,Light Microscopy,diap,lbpr,5,USES_DIAPusesLBPR
+C1964257,C0596795,USES,Observation - diagnostic procedure,Intravital Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0597705,USES,Observation - diagnostic procedure,Cryoelectron Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0600070,USES,Observation - diagnostic procedure,Direct microscopy,diap,lbpr,2,USES_DIAPusesLBPR
+C1964257,C0600209,USES,Observation - diagnostic procedure,SDS-PAGE,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0678118,USES,Observation - diagnostic procedure,Transmission Electron Microscopy,diap,lbpr,5,USES_DIAPusesLBPR
+C1964257,C0871511,USES,Observation - diagnostic procedure,Test Method,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C0949466,USES,Observation - diagnostic procedure,Western Blot,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C1441647,USES,Observation - diagnostic procedure,Microscopy.electron.negative stain,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C1510438,USES,Observation - diagnostic procedure,Assay,diap,lbpr,5,USES_DIAPusesLBPR
+C1964257,C1710378,USES,Observation - diagnostic procedure,Thaw,diap,lbpr,1,USES_DIAPusesLBPR
+C1964257,C4054524,USES,Observation - diagnostic procedure,Microneutralization Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C2350281,C1719039,USES,X-Ray Microtomography,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C2986383,C0026018,USES,Lesion Identification,Microscopy,diap,lbpr,1,USES_DIAPusesLBPR
+C3161394,C0016263,USES,Mini-bronchoalveolar lavage,Flow Cytometry,diap,lbpr,1,USES_DIAPusesLBPR
+C3161394,C0079366,USES,Mini-bronchoalveolar lavage,Fluorescence-Activated Cell Sorting,diap,lbpr,1,USES_DIAPusesLBPR
+C3179130,C0026040,USES,Multidetector Computed Tomography,Microtomy,diap,lbpr,1,USES_DIAPusesLBPR
+C3273281,C1510438,USES,Antral Follicle Count,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C3472245,C1719039,USES,Single Photon Emission Computed Tomography Computed Tomography,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C3494219,C1719039,USES,Optical Imaging,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C3661505,C1510438,USES,Thromboelastometry,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C3829180,C1516801,USES,Mass Measurement,Electrospray Ionization,diap,lbpr,1,USES_DIAPusesLBPR
+C3829180,C1719039,USES,Mass Measurement,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C3829180,C3641325,USES,Mass Measurement,High Performance Liquid Chromatography Mass Spectrometry,diap,lbpr,1,USES_DIAPusesLBPR
+C4042877,C1510438,USES,Clinical Decision-Making,Assay,diap,lbpr,1,USES_DIAPusesLBPR
+C4304110,C0026040,USES,Expiratory CT,Microtomy,diap,lbpr,2,USES_DIAPusesLBPR
+C4304110,C1719039,USES,Expiratory CT,High resolution,diap,lbpr,1,USES_DIAPusesLBPR
+C4528280,C0022885,USES,New Target Lesion Identification,Laboratory Procedures,diap,lbpr,1,USES_DIAPusesLBPR

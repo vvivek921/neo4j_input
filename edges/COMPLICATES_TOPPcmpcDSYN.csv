@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002903,C0007222,COMPLICATES,Anesthesia procedures,Cardiovascular Diseases,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0009429,C1536220,COMPLICATES,Combined Modality Therapy,ST segment elevation myocardial infarction,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0011946,C1565489,COMPLICATES,Dialysis procedure,Renal Insufficiency,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0016286,C0340194,COMPLICATES,Fluid Therapy,Respiratory failure without hypercapnia,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0032740,C0006114,COMPLICATES,Positive End-Expiratory Pressure,Cerebral Edema,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0033573,C0021167,COMPLICATES,Prostatectomy,Incontinence,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0042196,C0021053,COMPLICATES,Vaccination,Immune System Diseases,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0042196,C0021400,COMPLICATES,Vaccination,Influenza,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0042196,C1565489,COMPLICATES,Vaccination,Renal Insufficiency,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0083765,C3694279,COMPLICATES,fluorouracil/methotrexate/mitoxantrone protocol,Middle East Respiratory Syndrome,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0149783,C0205721,COMPLICATES,Steroid therapy,"Infections, Hospital",topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0149783,C0276156,COMPLICATES,Steroid therapy,Adenoviral pneumonia,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0199470,C0025062,COMPLICATES,Mechanical ventilation,Mediastinal Emphysema,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0199470,C0034069,COMPLICATES,Mechanical ventilation,Pulmonary Fibrosis,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0199470,C0035222,COMPLICATES,Mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,COMPLICATES_TOPPcmpcDSYN
+C0206074,C1719672,COMPLICATES,Renal Replacement Therapy,Severe Sepsis,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0280604,C1302790,COMPLICATES,altretamine/cisplatin/cyclophosphamide protocol,Congenital malformation syndrome,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0349707,C0031157,COMPLICATES,Aspiration-action,Peritonsillar Abscess,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0349707,C0038353,COMPLICATES,Aspiration-action,Gastric Dilatation,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0349707,C0343525,COMPLICATES,Aspiration-action,Lemierre Syndrome,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0376518,C0042769,COMPLICATES,Adoptive Transfer,Virus Diseases,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0396599,C0010674,COMPLICATES,Double lung transplant,Cystic Fibrosis,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0439775,C0239946,COMPLICATES,Elevation procedure,"Fibrosis, Liver",topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0439775,C0694549,COMPLICATES,Elevation procedure,Community acquired pneumonia,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0441509,C0011127,COMPLICATES,Coagulation procedure,Pressure Ulcer,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0441509,C0036690,COMPLICATES,Coagulation procedure,Septicemia,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0543467,C0035222,COMPLICATES,Operative Surgical Procedures,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0547070,C1397307,COMPLICATES,Ablation,Cardiac fibrosis,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0554804,C0849867,COMPLICATES,Assisted breathing,Widespread Disease,topp,dsyn,2,COMPLICATES_TOPPcmpcDSYN
+C0574032,C0011881,COMPLICATES,Infusion procedures,Diabetic Nephropathy,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0574032,C0034063,COMPLICATES,Infusion procedures,Pulmonary Edema,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0742344,C0021051,COMPLICATES,chest tube placement,Immunologic Deficiency Syndromes,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0742344,C0035222,COMPLICATES,chest tube placement,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0742344,C0036690,COMPLICATES,chest tube placement,Septicemia,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0744381,C1565662,COMPLICATES,GENTAMICIN Administration,Acute Kidney Insufficiency,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C0948575,C0948268,COMPLICATES,Diuretic therapy,Hemodynamic instability,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C1261381,C0032285,COMPLICATES,Destructive procedure (surgical),Pneumonia,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C1511790,C0275524,COMPLICATES,Detection,Coinfection,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C2945704,C0034063,COMPLICATES,Conventional Treatment,Pulmonary Edema,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C2973270,C0149931,COMPLICATES,Health Checkup,Migraine Disorders,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN
+C3540512,C0006114,COMPLICATES,Circumferential Supracrestal Fiberotomy,Cerebral Edema,topp,dsyn,1,COMPLICATES_TOPPcmpcDSYN

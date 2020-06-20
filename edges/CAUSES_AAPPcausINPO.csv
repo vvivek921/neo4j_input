@@ -1,0 +1,299 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001044,C0600688,CAUSES,Acetylcholinesterase,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0002520,C0521819,CAUSES,Amino Acids,Vaccination failure,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0002716,C0600688,CAUSES,Amyloid,Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0002791,C0441718,CAUSES,Anaphylatoxins,Direct trauma,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003009,C0242488,CAUSES,angiotensin II,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003009,C0273115,CAUSES,angiotensin II,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003241,C0010957,CAUSES,Antibodies,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003241,C0242488,CAUSES,Antibodies,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003241,C0521819,CAUSES,Antibodies,Vaccination failure,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003241,C0600688,CAUSES,Antibodies,Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0003241,C2905612,CAUSES,Antibodies,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003242,C0242488,CAUSES,"Antibodies, Anti-Idiotypic",Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003253,C0004063,CAUSES,"Antibodies, Viral",Assault,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003313,C0273115,CAUSES,Immune complex,Lung Injury,aapp,inpo,3,CAUSES_AAPPcausINPO
+C0003369,C0273115,CAUSES,Antilymphocyte Antibodies,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0003595,C0560617,CAUSES,Apolipoprotein E,knocked out,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0004358,C0010957,CAUSES,Autoantibodies,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0004358,C0273115,CAUSES,Autoantibodies,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0004630,C0043250,CAUSES,Bacterial Toxins,Injury wounds,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0004630,C0600688,CAUSES,Bacterial Toxins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0005740,C0010957,CAUSES,Bleomycin,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0005740,C0035126,CAUSES,Bleomycin,Reperfusion Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0005740,C0242488,CAUSES,Bleomycin,Acute Lung Injury,aapp,inpo,12,CAUSES_AAPPcausINPO
+C0005740,C0273115,CAUSES,Bleomycin,Lung Injury,aapp,inpo,47,CAUSES_AAPPcausINPO
+C0005740,C0600688,CAUSES,Bleomycin,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0006055,C0032343,CAUSES,Botulinum Toxins,Poisoning,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0007578,C0273115,CAUSES,Cell Adhesion Molecules,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0008145,C3203359,CAUSES,Chitinases,Rupture,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0009316,C0599918,CAUSES,Colistin,nephrotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0009498,C0010957,CAUSES,Complement System Proteins,Tissue damage,aapp,inpo,5,CAUSES_AAPPcausINPO
+C0009498,C0273115,CAUSES,Complement System Proteins,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0009498,C0560617,CAUSES,Complement System Proteins,knocked out,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0009498,C2905612,CAUSES,Complement System Proteins,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0009630,C0160390,CAUSES,Concanavalin A,Injury of liver,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0010290,C0018805,CAUSES,Creatine Kinase MB Isoenzyme,Heart Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0010592,C0160420,CAUSES,Cyclosporine,Injury of kidney,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0010592,C0599918,CAUSES,Cyclosporine,nephrotoxicity,aapp,inpo,3,CAUSES_AAPPcausINPO
+C0010592,C0600688,CAUSES,Cyclosporine,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0010760,C0600688,CAUSES,CYTOCHROME C OXIDASE,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0014372,C0016479,CAUSES,Enterotoxins,Food Poisoning,aapp,inpo,4,CAUSES_AAPPcausINPO
+C0014894,C0600688,CAUSES,Esterases,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0015982,C0178324,CAUSES,Fibrin,Vascular System Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0017135,C0010957,CAUSES,Gastric Mucins,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0017360,C0600688,CAUSES,pol genes,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0017789,C0600688,CAUSES,Glutamates,Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0017817,C0600688,CAUSES,Glutathione,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0017968,C0600688,CAUSES,Glycoproteins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0018974,C0600688,CAUSES,Hemeproteins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0019046,C0600688,CAUSES,Hemoglobin,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0019652,C0026771,CAUSES,Histones,Multiple Trauma,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0019652,C0273115,CAUSES,Histones,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0019652,C0600688,CAUSES,Histones,Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0021701,C0273115,CAUSES,Integrins,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021740,C2905612,CAUSES,Recombinant Interferon-gamma,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021743,C2905612,CAUSES,Interferon Type I,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021747,C0600688,CAUSES,Interferons,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021753,C0010957,CAUSES,Interleukin-1 beta,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021753,C0273115,CAUSES,Interleukin-1 beta,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021755,C0010957,CAUSES,Interleukin-1,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021755,C0242488,CAUSES,Interleukin-1,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021755,C0600688,CAUSES,Interleukin-1,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021755,C2905612,CAUSES,Interleukin-1,Storm NOS,aapp,inpo,3,CAUSES_AAPPcausINPO
+C0021756,C0273115,CAUSES,Interleukin-2,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021760,C0010957,CAUSES,Interleukin-6,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0021760,C0273115,CAUSES,Interleukin-6,Lung Injury,aapp,inpo,4,CAUSES_AAPPcausINPO
+C0021760,C0600688,CAUSES,Interleukin-6,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0021760,C2905612,CAUSES,Interleukin-6,Storm NOS,aapp,inpo,5,CAUSES_AAPPcausINPO
+C0023206,C0600688,CAUSES,Lectin,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0025241,C0600688,CAUSES,Melphalan,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0025741,C0235378,CAUSES,Methyldopa,Hepatotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0027021,C0242488,CAUSES,Peroxidase,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0027597,C0010957,CAUSES,Zinostatin,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0027803,C0242488,CAUSES,Neuraminidase,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0027895,C0600467,CAUSES,Neuropeptides,Neurogenic Inflammation,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0030940,C0010957,CAUSES,Peptide Hydrolases,Tissue damage,aapp,inpo,5,CAUSES_AAPPcausINPO
+C0030940,C0441718,CAUSES,Peptide Hydrolases,Direct trauma,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0034135,C0600688,CAUSES,Purine-Nucleoside Phosphorylase,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0034348,C0600688,CAUSES,Pyruvate Kinase,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0034805,C0273115,CAUSES,Fc Receptor,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0034848,C0273115,CAUSES,"Receptors, Virus",Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0035285,C3203359,CAUSES,Reticulin,Rupture,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0035569,C0032343,CAUSES,Ricin,Poisoning,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0036825,C0600688,CAUSES,Serum Proteins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0038585,C0600467,CAUSES,Substance P,Neurogenic Inflammation,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0038838,C0035126,CAUSES,Superoxide Dismutase,Reperfusion Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0039241,C0600467,CAUSES,Tachykinin,Neurogenic Inflammation,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0040139,C0751792,CAUSES,Thyroid stimulating immunoglobulins,"Trauma, Nervous System",aapp,inpo,1,CAUSES_AAPPcausINPO
+C0040691,C0010957,CAUSES,Transforming Growth Factors,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0040691,C0273115,CAUSES,Transforming Growth Factors,Lung Injury,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0040691,C2905612,CAUSES,Transforming Growth Factors,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0041368,C0010957,CAUSES,Tumor Necrosis Factors,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0042071,C0273115,CAUSES,Urokinase,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0042313,C0599918,CAUSES,Vancomycin,nephrotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0042720,C0521819,CAUSES,Viral Genome,Vaccination failure,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0042736,C0012691,CAUSES,Viral Proteins,Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0042736,C0242488,CAUSES,Viral Proteins,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0042736,C0418416,CAUSES,Viral Proteins,Pinched,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0043316,C0273115,CAUSES,Xanthine Dehydrogenase,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0051124,C0600688,CAUSES,Aldehyde oxidase,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0054757,C0012691,CAUSES,carboxypeptidase H,Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0056182,C0010957,CAUSES,Complement 3b Receptor,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0059291,C0242488,CAUSES,"endotoxin, Escherichia coli",Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0059291,C0273115,CAUSES,"endotoxin, Escherichia coli",Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0059386,C0016479,CAUSES,"enterotoxin B, staphylococcal",Food Poisoning,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0063355,C0600688,CAUSES,IgY,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0063717,C2905612,CAUSES,Interleukin 6 Receptor,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0064833,C0010957,CAUSES,Leukocyte Elastane,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0064833,C0273115,CAUSES,Leukocyte Elastane,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0065827,C0242488,CAUSES,Measles Virus Nucleoprotein,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0069856,C0242488,CAUSES,"oxytocin, 1-penicillamyl-Leu(2)-",Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0069906,C0600688,CAUSES,P-Glycoproteins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0071313,C0273115,CAUSES,"plY protein, Streptococcus pneumoniae",Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0072544,C0600688,CAUSES,"toxA protein, Pseudomonas aeruginosa",Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0072978,C0160390,CAUSES,RANTES,Injury of liver,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0075029,C0016479,CAUSES,spleen fibrinolytic proteinase (human),Food Poisoning,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079189,C0010957,CAUSES,cytokine,Tissue damage,aapp,inpo,13,CAUSES_AAPPcausINPO
+C0079189,C0035126,CAUSES,cytokine,Reperfusion Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079189,C0242488,CAUSES,cytokine,Acute Lung Injury,aapp,inpo,3,CAUSES_AAPPcausINPO
+C0079189,C0270611,CAUSES,cytokine,Brain Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079189,C0273115,CAUSES,cytokine,Lung Injury,aapp,inpo,8,CAUSES_AAPPcausINPO
+C0079189,C0600688,CAUSES,cytokine,Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0079189,C1264238,CAUSES,cytokine,Injury of central nervous system,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079189,C2905612,CAUSES,cytokine,Storm NOS,aapp,inpo,18,CAUSES_AAPPcausINPO
+C0079259,C0600688,CAUSES,Dystrophin,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079459,C0273115,CAUSES,Granulocyte Colony-Stimulating Factor,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079460,C0600688,CAUSES,Granulocyte-Macrophage Colony-Stimulating Factor,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079633,C0010957,CAUSES,Interleukin-8,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0079633,C2905612,CAUSES,Interleukin-8,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079784,C0564444,CAUSES,Macrophage Colony-Stimulating Factor,Wound of skin,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0079904,C0242488,CAUSES,NF-kappa B,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0083528,C0273115,CAUSES,N(6)-carboxymethyllysine,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0083772,C0032343,CAUSES,nodularin,Poisoning,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0085177,C0600688,CAUSES,RNA-Binding Proteins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0085295,C0273115,CAUSES,Interleukin-10,Lung Injury,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0085295,C2905612,CAUSES,Interleukin-10,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0123759,C0010957,CAUSES,Interleukin-12,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0123759,C0600688,CAUSES,Interleukin-12,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0123759,C2905612,CAUSES,Interleukin-12,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0134835,C0273115,CAUSES,P-Selectin,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0165519,C0270611,CAUSES,Matrix Metalloproteinase 9,Brain Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0178774,C0418416,CAUSES,Nucleocapsid,Pinched,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0206527,C2905612,CAUSES,Superantigens,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0211296,C0032343,CAUSES,Microcystin,Poisoning,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0221141,C0273115,CAUSES,Blood group antibody S,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0243043,C0242488,CAUSES,Heat-Shock Proteins 70,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0245382,C0010957,CAUSES,Galectin 3,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0282553,C0273115,CAUSES,CXC Chemokines,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0282554,C0010957,CAUSES,chemokine,Tissue damage,aapp,inpo,4,CAUSES_AAPPcausINPO
+C0282554,C0035126,CAUSES,chemokine,Reperfusion Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0282554,C0264221,CAUSES,chemokine,Disorder of upper respiratory system,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0282554,C0273115,CAUSES,chemokine,Lung Injury,aapp,inpo,6,CAUSES_AAPPcausINPO
+C0282554,C2905612,CAUSES,chemokine,Storm NOS,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0301521,C0600688,CAUSES,therapeutic vaccine,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0312586,C0521819,CAUSES,Polyclonal antibody,Vaccination failure,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0384768,C0012691,CAUSES,"IRF3 protein, human",Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0391845,C0178324,CAUSES,Lysosomal enzyme,Vascular System Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0393022,C0273115,CAUSES,rituximab,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0475463,C0600688,CAUSES,"Antibodies, Neutralizing",Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0528480,C0600688,CAUSES,Presenilin-2,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0597357,C0010957,CAUSES,receptor,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0597357,C3203359,CAUSES,receptor,Rupture,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0599220,C0600688,CAUSES,Protein Subunits,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0623362,C0010957,CAUSES,Matrix Metalloproteinases,Tissue damage,aapp,inpo,5,CAUSES_AAPPcausINPO
+C0665820,C0032343,CAUSES,"DMBT1 protein, human",Poisoning,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0669365,C0010957,CAUSES,"NOS3 protein, human",Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0669372,C0010957,CAUSES,"NOS2A protein, human",Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0684287,C0600688,CAUSES,aldehyde dehydrogenases,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0699918,C0010957,CAUSES,Elastases,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0699918,C0242488,CAUSES,Elastases,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0699918,C0273115,CAUSES,Elastases,Lung Injury,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0700271,C0242488,CAUSES,"M Protein, multiple myeloma",Acute Lung Injury,aapp,inpo,2,CAUSES_AAPPcausINPO
+C0700271,C0273115,CAUSES,"M Protein, multiple myeloma",Lung Injury,aapp,inpo,5,CAUSES_AAPPcausINPO
+C0700271,C0418416,CAUSES,"M Protein, multiple myeloma",Pinched,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0728747,C0876994,CAUSES,trastuzumab,Cardiotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0950373,C0010957,CAUSES,Eosinophil cationic protein,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0960880,C0010957,CAUSES,angiotensin converting enzyme 2,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0960880,C0242488,CAUSES,angiotensin converting enzyme 2,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0961324,C0600688,CAUSES,penetratin,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C0969703,C0599918,CAUSES,Organic Anion Transporters,nephrotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1099812,C0273115,CAUSES,"SOD3 protein, human",Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1136102,C0600688,CAUSES,Capsid Proteins,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1256770,C0267716,CAUSES,Vascular Endothelial Growth Factors,Incisional hernia,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1256770,C2905612,CAUSES,Vascular Endothelial Growth Factors,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1292056,C0242488,CAUSES,Anti-leukocyte antibody,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1292267,C0273454,CAUSES,Procoagulant,Pulmonary blood vessel injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1313359,C0273115,CAUSES,"oxoguanine glycosylase 1, human",Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1313407,C2905612,CAUSES,"HAVCR1 protein, human",Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1328053,C0560617,CAUSES,NOS3 gene,knocked out,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1330099,C2362502,CAUSES,Biothrax,Safety Issues,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1333908,C0010957,CAUSES,HMGB1 gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1333908,C0035126,CAUSES,HMGB1 gene,Reperfusion Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1334126,C0273115,CAUSES,CXCR2 gene,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1334477,C0160390,CAUSES,MAP3K7 gene,Injury of liver,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1335267,C0010957,CAUSES,PRTN3 gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1335439,C0600688,CAUSES,Polymerase,Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1336636,C0010957,CAUSES,TLR4 gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1336763,C0273115,CAUSES,Toll-Like Receptor Family Gene,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1336763,C0600688,CAUSES,Toll-Like Receptor Family Gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1367202,C0273115,CAUSES,ipilimumab,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1367710,C0242488,CAUSES,C5 gene,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1367710,C0273115,CAUSES,C5 gene,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1367710,C2905612,CAUSES,C5 gene,Storm NOS,aapp,inpo,3,CAUSES_AAPPcausINPO
+C1412113,C0242488,CAUSES,SLC33A1 gene,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1412268,C0600688,CAUSES,AES gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1412922,C0264221,CAUSES,SERPING1 gene,Disorder of upper respiratory system,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1413357,C3203359,CAUSES,CFLAR gene,Rupture,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1413426,C0273115,CAUSES,CIRBP gene,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1413514,C0178324,CAUSES,CLU gene,Vascular System Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1413666,C0600688,CAUSES,CPB2 gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1413814,C0010957,CAUSES,CTSG gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1413850,C0242488,CAUSES,CYLD gene,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1414369,C0010957,CAUSES,ELANE gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1414863,C0560617,CAUSES,FUT2 gene,knocked out,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1414945,C0160390,CAUSES,GAL gene,Injury of liver,aapp,inpo,6,CAUSES_AAPPcausINPO
+C1415181,C0160390,CAUSES,GOT1 gene,Injury of liver,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1416602,C0010957,CAUSES,KCNMA1 gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1417154,C0270611,CAUSES,MIA gene,Brain Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1418482,C0238327,CAUSES,CFP gene,Oxygen toxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1418652,C0600688,CAUSES,PLOD2 gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1420192,C0012691,CAUSES,SLC3A2 gene,Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1420221,C0242488,CAUSES,SLC7A10 gene,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1420267,C0600688,CAUSES,SNAI1 gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1421381,C0012691,CAUSES,USH2A gene,Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1421479,C0043250,CAUSES,WASF1 gene,Injury wounds,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1421479,C1828252,CAUSES,WASF1 gene,Blunt injury of thorax,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1422064,C0160420,CAUSES,ACE2 gene,Injury of kidney,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1422064,C0242488,CAUSES,ACE2 gene,Acute Lung Injury,aapp,inpo,3,CAUSES_AAPPcausINPO
+C1422064,C0264221,CAUSES,ACE2 gene,Disorder of upper respiratory system,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1422064,C0270611,CAUSES,ACE2 gene,Brain Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1422064,C0273115,CAUSES,ACE2 gene,Lung Injury,aapp,inpo,14,CAUSES_AAPPcausINPO
+C1422064,C0746730,CAUSES,ACE2 gene,myocardial injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1422064,C2905612,CAUSES,ACE2 gene,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1423506,C0010957,CAUSES,SPINK5 gene,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1423506,C0273115,CAUSES,SPINK5 gene,Lung Injury,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1423524,C0600688,CAUSES,NCKIPSD gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1423633,C2905612,CAUSES,TLR9 gene,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1425101,C0160420,CAUSES,NT5C1A gene,Injury of kidney,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1425650,C0600688,CAUSES,LRRK2 gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1427812,C0242488,CAUSES,PDLIM7 gene,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1428889,C0876994,CAUSES,MTUS1 gene,Cardiotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1428890,C0015408,CAUSES,SGMS1 gene,Eye Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1439030,C0160420,CAUSES,"SHORT ROOT protein, Arabidopsis",Injury of kidney,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1439284,C0010957,CAUSES,AGTR1 gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1448177,C0010957,CAUSES,"TNF protein, human",Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1448177,C0178324,CAUSES,"TNF protein, human",Vascular System Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1448177,C0273115,CAUSES,"TNF protein, human",Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1449159,C2905612,CAUSES,"CCL2 protein, human",Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1456447,C0242488,CAUSES,"SLC6A2 protein, human",Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1512488,C0600688,CAUSES,Homologous Protein,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1515370,C0273115,CAUSES,Recombinant Fas Ligand,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1522712,C2905612,CAUSES,Recombinant Interferon-alpha Inducible Protein 10,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1539620,C0270611,CAUSES,GSDMD gene,Brain Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1565427,C0273115,CAUSES,"PTK2 protein, human",Lung Injury,aapp,inpo,3,CAUSES_AAPPcausINPO
+C1568891,C0160420,CAUSES,"HGS protein, human",Injury of kidney,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1609165,C0160390,CAUSES,tocilizumab,Injury of liver,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1610422,C0160390,CAUSES,"ACE2 protein, human",Injury of liver,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1624602,C0242488,CAUSES,Anti-Antibodies,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1698270,C2905612,CAUSES,TGN-1412 monoclonal antibody,Storm NOS,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1698754,C0242488,CAUSES,"IL6 protein, human",Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1701790,C0010957,CAUSES,"IL17A protein, human",Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1706289,C0273115,CAUSES,Interleukin-27,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1707156,C0032343,CAUSES,CTBP1 wt Allele,Poisoning,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1742862,C0441718,CAUSES,"CISH protein, human",Direct trauma,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1743775,C0235378,CAUSES,"IL18BP protein, human",Hepatotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0009938,CAUSES,IMPACT gene,Contusions,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1825598,C0010957,CAUSES,IMPACT gene,Tissue damage,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1825598,C0016658,CAUSES,IMPACT gene,Fracture,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0035522,CAUSES,IMPACT gene,Rib Fractures,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0043246,CAUSES,IMPACT gene,Laceration,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0043251,CAUSES,IMPACT gene,Wounds and Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0043253,CAUSES,IMPACT gene,Nonpenetrating Wounds,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0149531,CAUSES,IMPACT gene,Fracture of pelvis,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0160420,CAUSES,IMPACT gene,Injury of kidney,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0273112,CAUSES,IMPACT gene,Myocardial Contusions,aapp,inpo,2,CAUSES_AAPPcausINPO
+C1825598,C0600688,CAUSES,IMPACT gene,Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C0876926,CAUSES,IMPACT gene,Traumatic Brain Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1825598,C3263723,CAUSES,IMPACT gene,Traumatic injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1826412,C0242488,CAUSES,BATF2 gene,Acute Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1864770,C0012691,CAUSES,MAVS gene,Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C1969646,C0010957,CAUSES,CXCL17 gene,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C2239486,C0599918,CAUSES,GEN1 gene,nephrotoxicity,aapp,inpo,2,CAUSES_AAPPcausINPO
+C2350701,C0273115,CAUSES,Macrophage Inflammatory Protein-1,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C2936529,C0242488,CAUSES,Inflammasomes,Acute Lung Injury,aapp,inpo,3,CAUSES_AAPPcausINPO
+C2936529,C0273115,CAUSES,Inflammasomes,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C3470196,C0273115,CAUSES,EVA1C gene,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C3658247,C0005700,CAUSES,Intrinsically Disordered Proteins,Blast Injuries,aapp,inpo,1,CAUSES_AAPPcausINPO
+C3715044,C0876994,CAUSES,AKR1A1 wt Allele,Cardiotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C3849574,C0600688,CAUSES,"EPHB2 protein, human",Toxic effect,aapp,inpo,2,CAUSES_AAPPcausINPO
+C3849701,C2905612,CAUSES,"interleukin 18 protein, human",Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C3887559,C0235378,CAUSES,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Hepatotoxicity,aapp,inpo,1,CAUSES_AAPPcausINPO
+C3891560,C2905612,CAUSES,Alarmins,Storm NOS,aapp,inpo,1,CAUSES_AAPPcausINPO
+C4048280,C0012691,CAUSES,"T-Cell Surface Glycoprotein CD4, human",Dislocations,aapp,inpo,1,CAUSES_AAPPcausINPO
+C4049611,C0043254,CAUSES,CD48 wt Allele,"Wounds, Penetrating",aapp,inpo,1,CAUSES_AAPPcausINPO
+C4049611,C0332679,CAUSES,CD48 wt Allele,Crushing injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C4055105,C0273115,CAUSES,EGFR Antibody,Lung Injury,aapp,inpo,1,CAUSES_AAPPcausINPO
+C4084937,C0010957,CAUSES,Antimicrobial Peptide,Tissue damage,aapp,inpo,1,CAUSES_AAPPcausINPO
+C4086522,C0560617,CAUSES,Interferon-Induced Protein with Tetratricopeptide Repeats Family,knocked out,aapp,inpo,1,CAUSES_AAPPcausINPO
+C4318401,C0600688,CAUSES,"Cytochrome C, human",Toxic effect,aapp,inpo,1,CAUSES_AAPPcausINPO

@@ -1,0 +1,882 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0271468,PREVENTS,Adenoidectomy,Eustachian tube disorder,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C0004096,PREVENTS,"Administration, Intranasal",Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C0009443,PREVENTS,"Administration, Intranasal",Common Cold,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C0021400,PREVENTS,"Administration, Intranasal",Influenza,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0001560,C0032371,PREVENTS,"Administration, Intranasal",Poliomyelitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C0035235,PREVENTS,"Administration, Intranasal",Respiratory Syncytial Virus Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0001560,C0037199,PREVENTS,"Administration, Intranasal",Sinusitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C0042769,PREVENTS,"Administration, Intranasal",Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C0876973,PREVENTS,"Administration, Intranasal",Infectious disease of lung,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001560,C1175175,PREVENTS,"Administration, Intranasal",Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0004096,PREVENTS,"Administration, Oral",Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0011884,PREVENTS,"Administration, Oral",Diabetic Retinopathy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0020443,PREVENTS,"Administration, Oral",Hypercholesterolemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0020538,PREVENTS,"Administration, Oral",Hypertensive disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0020557,PREVENTS,"Administration, Oral",Hypertriglyceridemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0022568,PREVENTS,"Administration, Oral",Keratitis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0001563,C0028754,PREVENTS,"Administration, Oral",Obesity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0029883,PREVENTS,"Administration, Oral",Otitis Media with Effusion,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0036690,PREVENTS,"Administration, Oral",Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0042164,PREVENTS,"Administration, Oral",Uveitis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0001563,C0206061,PREVENTS,"Administration, Oral","Pneumonia, Interstitial",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0242723,PREVENTS,"Administration, Oral",Parasitemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0265514,PREVENTS,"Administration, Oral",Dermatofibrosis lenticularis disseminata,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C0876973,PREVENTS,"Administration, Oral",Infectious disease of lung,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001563,C1112734,PREVENTS,"Administration, Oral",gastric infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001566,C0011334,PREVENTS,"Administration, Topical",Dental caries,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0001632,C2945695,PREVENTS,Adrenalectomy,Limb ischemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0002766,C0032285,PREVENTS,Pain management,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0002766,C0742343,PREVENTS,Pain management,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0002903,C0205710,PREVENTS,Anesthesia procedures,Alpers Syndrome (disorder),topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0004764,C0024530,PREVENTS,"Contraception, Barrier",Malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0004764,C0036916,PREVENTS,"Contraception, Barrier",Sexually Transmitted Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0004933,C0021167,PREVENTS,Behavior Therapy,Incontinence,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0004933,C0028754,PREVENTS,Behavior Therapy,Obesity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0005527,C0027430,PREVENTS,Biological Response Modifier Therapy,Nasal Polyps,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0005841,C0010823,PREVENTS,Blood Transfusion,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0005841,C0038454,PREVENTS,Blood Transfusion,Cerebrovascular accident,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0005841,C0149871,PREVENTS,Blood Transfusion,Deep Vein Thrombosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0005961,C0001486,PREVENTS,Bone Marrow Transplantation,Adenovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0005961,C0032285,PREVENTS,Bone Marrow Transplantation,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0007430,C0042029,PREVENTS,Catheterization,Urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0007430,C0205721,PREVENTS,Catheterization,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0007430,C0262380,PREVENTS,Catheterization,Asymptomatic bacteriuria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0007876,C0019348,PREVENTS,Cesarean section,Herpes Simplex Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0007876,C0155760,PREVENTS,Cesarean section,Rupture of artery,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0008971,C0021167,PREVENTS,Clinical Protocols,Incontinence,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0009429,C0022660,PREVENTS,Combined Modality Therapy,"Kidney Failure, Acute",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0009429,C0032285,PREVENTS,Combined Modality Therapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0009429,C0263641,PREVENTS,Combined Modality Therapy,Epithelial hyperplasia of skin,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0009429,C0748168,PREVENTS,Combined Modality Therapy,Pulmonary Pathology,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0010055,C0027051,PREVENTS,Coronary Artery Bypass Surgery,Myocardial Infarction,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011121,C0004610,PREVENTS,Decontamination,Bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011121,C0856825,PREVENTS,Decontamination,Acute GVH disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011121,C4289590,PREVENTS,Decontamination,Endogenous Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011307,C0020538,PREVENTS,Denervation,Hypertensive disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011331,C0004610,PREVENTS,Dental Procedures,Bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011593,C0021400,PREVENTS,Dermabrasion,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0011593,C0277528,PREVENTS,Dermabrasion,Traveler's diarrhea,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0012683,C0035243,PREVENTS,Disinfection,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0012683,C0041473,PREVENTS,Disinfection,"Typhus, Epidemic Louse-Borne",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0012683,C0042769,PREVENTS,Disinfection,Virus Diseases,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0012683,C0205721,PREVENTS,Disinfection,"Infections, Hospital",topp,dsyn,6,PREVENTS_TOPPprevDSYN
+C0012683,C0206750,PREVENTS,Disinfection,Coronavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0012683,C0442886,PREVENTS,Disinfection,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0012683,C0854706,PREVENTS,Disinfection,neonatal infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0012683,C1175175,PREVENTS,Disinfection,Severe Acute Respiratory Syndrome,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0013103,C0031046,PREVENTS,Drainage procedure,Pericarditis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013103,C0940933,PREVENTS,Drainage procedure,infection as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013216,C0004623,PREVENTS,Pharmacotherapy,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013216,C0019693,PREVENTS,Pharmacotherapy,HIV Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013216,C0032285,PREVENTS,Pharmacotherapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013216,C0035243,PREVENTS,Pharmacotherapy,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013216,C0152964,PREVENTS,Pharmacotherapy,streptococcal bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013457,C0034065,PREVENTS,Early Ambulation,Pulmonary Embolism,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013457,C0149871,PREVENTS,Early Ambulation,Deep Vein Thrombosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013459,C0011127,PREVENTS,Early Mobilization,Pressure Ulcer,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013459,C0149871,PREVENTS,Early Mobilization,Deep Vein Thrombosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013459,C0742343,PREVENTS,Early Mobilization,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013459,C0872084,PREVENTS,Early Mobilization,Sarcopenia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013459,C1701940,PREVENTS,Early Mobilization,"Pneumonia, Ventilator-Associated",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013778,C0042510,PREVENTS,Electric Countershock,Ventricular Fibrillation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013804,C0339837,PREVENTS,Electrocoagulation,Nasopharyngeal stenosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013806,C0740304,PREVENTS,Electroconvulsive Therapy,copd exacerbation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013969,C0004096,PREVENTS,Emergency treatment,Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013969,C0024530,PREVENTS,Emergency treatment,Malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0013969,C0035078,PREVENTS,Emergency treatment,Kidney Failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0014327,C0032290,PREVENTS,Enteral Nutrition,Aspiration Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0014327,C0400807,PREVENTS,Enteral Nutrition,Stress ulcer of stomach,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0014327,C0940933,PREVENTS,Enteral Nutrition,infection as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0014935,C0029458,PREVENTS,Estrogen Replacement Therapy,"Osteoporosis, Postmenopausal",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0015236,C0242723,PREVENTS,"Exchange Transfusion, Whole Blood",Parasitemia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0015252,C0007682,PREVENTS,removal technique,CNS disorder,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0015252,C0036690,PREVENTS,removal technique,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0015357,C0022660,PREVENTS,Extracorporeal Membrane Oxygenation,"Kidney Failure, Acute",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0015357,C0032285,PREVENTS,Extracorporeal Membrane Oxygenation,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0016286,C0011175,PREVENTS,Fluid Therapy,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0016286,C0022660,PREVENTS,Fluid Therapy,"Kidney Failure, Acute",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017118,C0940931,PREVENTS,Gastrectomy,hemorrhage as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017125,C0940931,PREVENTS,Gastric Bypass,hemorrhage as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017296,C0011847,PREVENTS,gene therapy,Diabetes,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017296,C0019693,PREVENTS,gene therapy,HIV Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017296,C0029342,PREVENTS,gene therapy,Orthomyxoviridae Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017296,C0034069,PREVENTS,gene therapy,Pulmonary Fibrosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0017296,C0042769,PREVENTS,gene therapy,Virus Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0017296,C0085109,PREVENTS,gene therapy,Corneal Neovascularization,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020311,C0009443,PREVENTS,Hydrotherapy,Common Cold,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020971,C0002871,PREVENTS,Immunization,Anemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0003850,PREVENTS,Immunization,Arteriosclerosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0009450,PREVENTS,Immunization,Communicable Diseases,topp,dsyn,10,PREVENTS_TOPPprevDSYN
+C0020971,C0016627,PREVENTS,Immunization,Influenza in Birds,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0017162,PREVENTS,Immunization,"Gastroenteritis, Transmissible, of Swine",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0019159,PREVENTS,Immunization,Hepatitis A,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0019342,PREVENTS,Immunization,Genital Herpes,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0021400,PREVENTS,Immunization,Influenza,topp,dsyn,10,PREVENTS_TOPPprevDSYN
+C0020971,C0021933,PREVENTS,Immunization,Intussusception,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0025007,PREVENTS,Immunization,Measles,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0029882,PREVENTS,Immunization,Otitis Media,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0029883,PREVENTS,Immunization,Otitis Media with Effusion,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020971,C0031350,PREVENTS,Immunization,Pharyngitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0032285,PREVENTS,Immunization,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0034494,PREVENTS,Immunization,Rabies (disorder),topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0035235,PREVENTS,Immunization,Respiratory Syncytial Virus Infections,topp,dsyn,5,PREVENTS_TOPPprevDSYN
+C0020971,C0035243,PREVENTS,Immunization,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0035869,PREVENTS,Immunization,Rotavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0040560,PREVENTS,Immunization,"Toxoplasmosis, Congenital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0041327,PREVENTS,Immunization,"Tuberculosis, Pulmonary",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020971,C0042749,PREVENTS,Immunization,Viremia,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0020971,C0042769,PREVENTS,Immunization,Virus Diseases,topp,dsyn,7,PREVENTS_TOPPprevDSYN
+C0020971,C0043167,PREVENTS,Immunization,Pertussis,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0020971,C0043395,PREVENTS,Immunization,Yellow Fever,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0043528,PREVENTS,Immunization,Zoonoses,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0162700,PREVENTS,Immunization,Tick-Borne Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0243026,PREVENTS,Immunization,Sepsis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020971,C0267454,PREVENTS,Immunization,Necrotic enteritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0276289,PREVENTS,Immunization,Zika Virus Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0277560,PREVENTS,Immunization,Infantile disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0282687,PREVENTS,Immunization,"Hemorrhagic Fever, Ebola",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0442886,PREVENTS,Immunization,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0741923,PREVENTS,Immunization,cardiac event,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0748412,PREVENTS,Immunization,rhinitis viral,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C0854706,PREVENTS,Immunization,neonatal infection,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020971,C0876973,PREVENTS,Immunization,Infectious disease of lung,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C1112211,PREVENTS,Immunization,liver infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020971,C1175175,PREVENTS,Immunization,Severe Acute Respiratory Syndrome,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0020971,C2062441,PREVENTS,Immunization,Influenza A,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020972,C0021933,PREVENTS,Immunization Schedule,Intussusception,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0001311,PREVENTS,passive immunization procedure,Acute bronchiolitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0004096,PREVENTS,passive immunization procedure,Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0009450,PREVENTS,passive immunization procedure,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0011334,PREVENTS,passive immunization procedure,Dental caries,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0019159,PREVENTS,passive immunization procedure,Hepatitis A,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0035235,PREVENTS,passive immunization procedure,Respiratory Syncytial Virus Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020974,C0039614,PREVENTS,passive immunization procedure,Tetanus,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0042769,PREVENTS,passive immunization procedure,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0155502,PREVENTS,passive immunization procedure,Benign Paroxysmal Positional Vertigo,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0275544,PREVENTS,passive immunization procedure,Congenital infectious disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0276500,PREVENTS,passive immunization procedure,Human immunodeficiency virus I infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020974,C0343560,PREVENTS,passive immunization procedure,Congenital Varicella Syndrome,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0020975,C0025007,PREVENTS,Secondary Immunization,Measles,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0020975,C1175175,PREVENTS,Secondary Immunization,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021079,C0004364,PREVENTS,Therapeutic immunosuppression,Autoimmune Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021079,C0442886,PREVENTS,Therapeutic immunosuppression,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C0002792,PREVENTS,Immunotherapy,anaphylaxis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C0003850,PREVENTS,Immunotherapy,Arteriosclerosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C0035235,PREVENTS,Immunotherapy,Respiratory Syncytial Virus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C0042749,PREVENTS,Immunotherapy,Viremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C0042769,PREVENTS,Immunotherapy,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C0149825,PREVENTS,Immunotherapy,Hypertrophy of adenoids,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C1836764,PREVENTS,Immunotherapy,RESPIRATORY RHYTHMICITY IN SLEEP,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021083,C3824825,PREVENTS,Immunotherapy,SARS (Disease),topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021107,C0004623,PREVENTS,Implantation procedure,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021107,C0019158,PREVENTS,Implantation procedure,Hepatitis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0021107,C0243010,PREVENTS,Implantation procedure,Viral Encephalitis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0021485,C0011847,PREVENTS,Injection of therapeutic agent,Diabetes,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021485,C0024198,PREVENTS,Injection of therapeutic agent,Lyme Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021485,C0034494,PREVENTS,Injection of therapeutic agent,Rabies (disorder),topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021485,C0232191,PREVENTS,Injection of therapeutic agent,Reflex bradycardia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021587,C0009450,PREVENTS,Artificial Insemination,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021925,C1175175,PREVENTS,Intubation,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021925,C1701940,PREVENTS,Intubation,"Pneumonia, Ventilator-Associated",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021932,C0035078,PREVENTS,"Intubation, Intratracheal",Kidney Failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021932,C0264490,PREVENTS,"Intubation, Intratracheal",Acute respiratory failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0021932,C0520562,PREVENTS,"Intubation, Intratracheal",Dilatation of intestine,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0023038,C0742343,PREVENTS,Laparotomy,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0029216,C0018133,PREVENTS,Organ Transplantation,Graft-vs-Host Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0030547,C0853892,PREVENTS,Parenteral Nutrition,catabolic state,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0030693,C0205721,PREVENTS,Patient Isolation,"Infections, Hospital",topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0032042,C0004096,PREVENTS,Placebos,Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032042,C0009443,PREVENTS,Placebos,Common Cold,topp,dsyn,11,PREVENTS_TOPPprevDSYN
+C0032042,C0010823,PREVENTS,Placebos,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032042,C0021400,PREVENTS,Placebos,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032042,C0339901,PREVENTS,Placebos,Acute respiratory infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032042,C0863093,PREVENTS,Placebos,cold symptoms,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032042,C2062441,PREVENTS,Placebos,Influenza A,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032134,C0442874,PREVENTS,Plasmapheresis,Neuropathy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032740,C0034063,PREVENTS,Positive End-Expiratory Pressure,Pulmonary Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0032740,C0242676,PREVENTS,Positive End-Expiratory Pressure,"Positive-Pressure Respiration, Intrinsic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033045,C0029118,PREVENTS,Premedication,Opportunistic Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033144,C0024117,PREVENTS,Primary Prevention,Chronic Obstructive Airway Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033144,C0149725,PREVENTS,Primary Prevention,Lower respiratory tract infection,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0033144,C0746883,PREVENTS,Primary Prevention,Febrile Neutropenia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033144,C1175175,PREVENTS,Primary Prevention,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033144,C1265792,PREVENTS,Primary Prevention,Chronic emphysema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033144,C3662483,PREVENTS,Primary Prevention,Allergic sensitization,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0033144,C4505065,PREVENTS,Primary Prevention,Noncommunicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0033972,C0036916,PREVENTS,"Psychotherapy, Multiple",Sexually Transmitted Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0034386,C0009450,PREVENTS,Quarantine,Communicable Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0034386,C0024530,PREVENTS,Quarantine,Malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0034386,C0442886,PREVENTS,Quarantine,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0034386,C1175175,PREVENTS,Quarantine,Severe Acute Respiratory Syndrome,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0034533,C0009450,PREVENTS,Radiation Protection,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0034533,C0151650,PREVENTS,Radiation Protection,Renal fibrosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0034997,C0014544,PREVENTS,Rehydration,Epilepsy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0034997,C0442886,PREVENTS,Rehydration,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035052,C0152964,PREVENTS,Remission Induction,streptococcal bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035139,C0004623,PREVENTS,Surgical Replantation,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035139,C0042580,PREVENTS,Surgical Replantation,Vesico-Ureteral Reflux,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035139,C0151467,PREVENTS,Surgical Replantation,Addisonian crisis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035273,C0005779,PREVENTS,Resuscitation procedure,Blood Coagulation Disorders,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035273,C0032285,PREVENTS,Resuscitation procedure,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035273,C0036690,PREVENTS,Resuscitation procedure,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035273,C0149871,PREVENTS,Resuscitation procedure,Deep Vein Thrombosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0035822,C0021400,PREVENTS,Role playing therapy,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0037995,C0005779,PREVENTS,Splenectomy,Blood Coagulation Disorders,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0038280,C0019693,PREVENTS,Sterilization for infection control,HIV Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0038280,C0025007,PREVENTS,Sterilization for infection control,Measles,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0038280,C0042769,PREVENTS,Sterilization for infection control,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0038280,C1535917,PREVENTS,Sterilization for infection control,Nipah Virus Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0038288,C0205721,PREVENTS,Sexual sterilization,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0038847,C0009450,PREVENTS,Supplementary Feeding,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040440,C0004610,PREVENTS,Tooth Extraction,Bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040461,C0011334,PREVENTS,Toothbrushing,Dental caries,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040591,C0032285,PREVENTS,Tracheotomy procedure,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0004364,PREVENTS,Transplantation,Autoimmune Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0010823,PREVENTS,Transplantation,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0011847,PREVENTS,Transplantation,Diabetes,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0019348,PREVENTS,Transplantation,Herpes Simplex Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0020615,PREVENTS,Transplantation,Hypoglycemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0032285,PREVENTS,Transplantation,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0042029,PREVENTS,Transplantation,Urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0153252,PREVENTS,Transplantation,Systemic candidiasis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C0276253,PREVENTS,Transplantation,Cytomegaloviral pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040732,C1535939,PREVENTS,Transplantation,Pneumocystis jiroveci pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040739,C0004623,PREVENTS,"Transplantation, Homologous",Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040739,C0018133,PREVENTS,"Transplantation, Homologous",Graft-vs-Host Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040739,C0085808,PREVENTS,"Transplantation, Homologous","Aneurysm, Mycotic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040739,C0265514,PREVENTS,"Transplantation, Homologous",Dermatofibrosis lenticularis disseminata,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0004096,PREVENTS,Treatment Protocols,Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0009450,PREVENTS,Treatment Protocols,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0011175,PREVENTS,Treatment Protocols,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0014599,PREVENTS,Treatment Protocols,Epithelial hyperplasia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0024291,PREVENTS,Treatment Protocols,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0025637,PREVENTS,Treatment Protocols,Methemoglobinemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0032285,PREVENTS,Treatment Protocols,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0041296,PREVENTS,Treatment Protocols,Tuberculosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0042769,PREVENTS,Treatment Protocols,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0085083,PREVENTS,Treatment Protocols,Ovarian Hyperstimulation Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C0276500,PREVENTS,Treatment Protocols,Human immunodeficiency virus I infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040808,C1175175,PREVENTS,Treatment Protocols,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040861,C0009450,PREVENTS,Triage,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040861,C0032285,PREVENTS,Triage,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040861,C0205721,PREVENTS,Triage,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0040861,C1175175,PREVENTS,Triage,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0001175,PREVENTS,Vaccination,Acquired Immunodeficiency Syndrome,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0002726,PREVENTS,Vaccination,Amyloidosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0003175,PREVENTS,Vaccination,Anthrax disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0004096,PREVENTS,Vaccination,Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0004364,PREVENTS,Vaccination,Autoimmune Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0004623,PREVENTS,Vaccination,Bacterial Infections,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0042196,C0006309,PREVENTS,Vaccination,Brucellosis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0008049,PREVENTS,Vaccination,Chickenpox,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0008679,PREVENTS,Vaccination,Chronic disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0009187,PREVENTS,Vaccination,Coccidiosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0009443,PREVENTS,Vaccination,Common Cold,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0009450,PREVENTS,Vaccination,Communicable Diseases,topp,dsyn,41,PREVENTS_TOPPprevDSYN
+C0042196,C0010418,PREVENTS,Vaccination,Cryptosporidiosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0012546,PREVENTS,Vaccination,Diphtheria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0014009,PREVENTS,Vaccination,Empyema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0014059,PREVENTS,Vaccination,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0014070,PREVENTS,Vaccination,Encephalomyelitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0014335,PREVENTS,Vaccination,Enteritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0014518,PREVENTS,Vaccination,Toxic Epidermal Necrolysis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0014836,PREVENTS,Vaccination,Escherichia coli Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0016052,PREVENTS,Vaccination,Fibromuscular Dysplasia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0016397,PREVENTS,Vaccination,Focal Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0016627,PREVENTS,Vaccination,Influenza in Birds,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0042196,C0017160,PREVENTS,Vaccination,Gastroenteritis,topp,dsyn,6,PREVENTS_TOPPprevDSYN
+C0042196,C0017162,PREVENTS,Vaccination,"Gastroenteritis, Transmissible, of Swine",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0017178,PREVENTS,Vaccination,Gastrointestinal Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0018572,PREVENTS,Vaccination,"Hand, Foot and Mouth Disease",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0018889,PREVENTS,Vaccination,Helminthiasis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0019100,PREVENTS,Vaccination,Severe Dengue,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0019159,PREVENTS,Vaccination,Hepatitis A,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0019163,PREVENTS,Vaccination,Hepatitis B,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0019360,PREVENTS,Vaccination,Herpes zoster disease,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0042196,C0021334,PREVENTS,Vaccination,Infectious Bovine Rhinotracheitis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0021400,PREVENTS,Vaccination,Influenza,topp,dsyn,74,PREVENTS_TOPPprevDSYN
+C0042196,C0022658,PREVENTS,Vaccination,Kidney Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0023290,PREVENTS,Vaccination,"Leishmaniasis, Visceral",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0024198,PREVENTS,Vaccination,Lyme Disease,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0042196,C0024530,PREVENTS,Vaccination,Malaria,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0024894,PREVENTS,Vaccination,Mastitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0025007,PREVENTS,Vaccination,Measles,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0042196,C0025289,PREVENTS,Vaccination,Meningitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0026780,PREVENTS,Vaccination,Mumps,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0027059,PREVENTS,Vaccination,Myocarditis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0027983,PREVENTS,Vaccination,Newcastle Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0028754,PREVENTS,Vaccination,Obesity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0029342,PREVENTS,Vaccination,Orthomyxoviridae Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0029877,PREVENTS,Vaccination,Ear Inflammation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0030499,PREVENTS,Vaccination,Parasitic Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0032269,PREVENTS,Vaccination,Pneumococcal Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0032285,PREVENTS,Vaccination,Pneumonia,topp,dsyn,11,PREVENTS_TOPPprevDSYN
+C0042196,C0032300,PREVENTS,Vaccination,Lobar Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0032371,PREVENTS,Vaccination,Poliomyelitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0032851,PREVENTS,Vaccination,Poultry Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0033770,PREVENTS,Vaccination,Prune Belly Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0035204,PREVENTS,Vaccination,Respiration Disorders,topp,dsyn,5,PREVENTS_TOPPprevDSYN
+C0042196,C0035235,PREVENTS,Vaccination,Respiratory Syncytial Virus Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0035243,PREVENTS,Vaccination,Respiratory Tract Infections,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0042196,C0035637,PREVENTS,Vaccination,Rinderpest,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0035869,PREVENTS,Vaccination,Rotavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0035920,PREVENTS,Vaccination,Rubella,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0035921,PREVENTS,Vaccination,Congenital Rubella Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0036117,PREVENTS,Vaccination,Salmonella infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0037140,PREVENTS,Vaccination,B Virus Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0037354,PREVENTS,Vaccination,Smallpox,topp,dsyn,22,PREVENTS_TOPPprevDSYN
+C0042196,C0038826,PREVENTS,Vaccination,Superinfection,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0039614,PREVENTS,Vaccination,Tetanus,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0040196,PREVENTS,Vaccination,Tick Infestations,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0041234,PREVENTS,Vaccination,Chagas Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0041296,PREVENTS,Vaccination,Tuberculosis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0041466,PREVENTS,Vaccination,Typhoid Fever,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0041912,PREVENTS,Vaccination,Upper Respiratory Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0042029,PREVENTS,Vaccination,Urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0042749,PREVENTS,Vaccination,Viremia,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0042196,C0042769,PREVENTS,Vaccination,Virus Diseases,topp,dsyn,25,PREVENTS_TOPPprevDSYN
+C0042196,C0043167,PREVENTS,Vaccination,Pertussis,topp,dsyn,5,PREVENTS_TOPPprevDSYN
+C0042196,C0043395,PREVENTS,Vaccination,Yellow Fever,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0043528,PREVENTS,Vaccination,Zoonoses,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0155502,PREVENTS,Vaccination,Benign Paroxysmal Positional Vertigo,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0155919,PREVENTS,Vaccination,Acute pulmonary edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0158944,PREVENTS,Vaccination,Infections specific to perinatal period,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0162429,PREVENTS,Vaccination,Malnutrition,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0205740,PREVENTS,Vaccination,Canine Distemper,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0206750,PREVENTS,Vaccination,Coronavirus Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0264219,PREVENTS,Vaccination,Acute respiratory disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0264222,PREVENTS,Vaccination,Acute upper respiratory infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0275524,PREVENTS,Vaccination,Coinfection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0276311,PREVENTS,Vaccination,Bovine viral diarrhea,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0276479,PREVENTS,Vaccination,Murine hepatitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0277548,PREVENTS,Vaccination,Epidemic disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0277556,PREVENTS,Vaccination,Recurrent disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0282687,PREVENTS,Vaccination,"Hemorrhagic Fever, Ebola",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0343560,PREVENTS,Vaccination,Congenital Varicella Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0348165,PREVENTS,Vaccination,Central Nervous System Viral Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0376538,PREVENTS,Vaccination,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0442886,PREVENTS,Vaccination,Secondary Infections,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0042196,C0748168,PREVENTS,Vaccination,Pulmonary Pathology,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0854706,PREVENTS,Vaccination,neonatal infection,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0856238,PREVENTS,Vaccination,influenza (epidemic),topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0872315,PREVENTS,Vaccination,"Communicable Diseases, Emerging",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C0876973,PREVENTS,Vaccination,Infectious disease of lung,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C0948998,PREVENTS,Vaccination,Viral Contagious disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C1175175,PREVENTS,Vaccination,Severe Acute Respiratory Syndrome,topp,dsyn,7,PREVENTS_TOPPprevDSYN
+C0042196,C1263835,PREVENTS,Vaccination,Infectious disorder of the fetus,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C1320214,PREVENTS,Vaccination,Invasive Streptococcus pneumoniae disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C2062441,PREVENTS,Vaccination,Influenza A,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0042196,C2364009,PREVENTS,Vaccination,Pneumococcal lobar pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C4505331,PREVENTS,Vaccination,Travel-Associated Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042196,C4543807,PREVENTS,Vaccination,Clinical malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0018801,PREVENTS,Influenza vaccination,Heart failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0019061,PREVENTS,Influenza vaccination,Hemolytic-Uremic Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0021400,PREVENTS,Influenza vaccination,Influenza,topp,dsyn,30,PREVENTS_TOPPprevDSYN
+C0042200,C0032285,PREVENTS,Influenza vaccination,Pneumonia,topp,dsyn,7,PREVENTS_TOPPprevDSYN
+C0042200,C0035243,PREVENTS,Influenza vaccination,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0038826,PREVENTS,Influenza vaccination,Superinfection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0042769,PREVENTS,Influenza vaccination,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0205721,PREVENTS,Influenza vaccination,"Infections, Hospital",topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0042200,C0740304,PREVENTS,Influenza vaccination,copd exacerbation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C0877203,PREVENTS,Influenza vaccination,Viral Respiratory Tract Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C1175175,PREVENTS,Influenza vaccination,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C2062441,PREVENTS,Influenza vaccination,Influenza A,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042200,C2076600,PREVENTS,Influenza vaccination,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042201,C0038522,PREVENTS,Measles vaccination,Subacute Sclerosing Panencephalitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0042203,C0043167,PREVENTS,Pertussis vaccination,Pertussis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0052712,C0032870,PREVENTS,doxorubicin/mitomycin/vinblastine protocol,Poxviridae Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0052712,C0035243,PREVENTS,doxorubicin/mitomycin/vinblastine protocol,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0052712,C0037354,PREVENTS,doxorubicin/mitomycin/vinblastine protocol,Smallpox,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0056633,C0042769,PREVENTS,cyclophosphamide/prednisone/vincristine protocol,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0057163,C1175175,PREVENTS,DAV regimen,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0065772,C0042769,PREVENTS,MCC protocol,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0079613,C0042769,PREVENTS,Adoptive Immunotherapy,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0079613,C0043124,PREVENTS,Adoptive Immunotherapy,West Nile Fever,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0083355,C0003177,PREVENTS,amsacrine/azacitidine/etoposide,Cutaneous anthrax,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0085162,C0152020,PREVENTS,Pancreaticoduodenectomy,Gastroparesis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0085430,C0948201,PREVENTS,Blood Component Transfusion,alloimmunization,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0085430,C0948343,PREVENTS,Blood Component Transfusion,Transfusion-Related Acute Lung Injury,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0086153,C0275524,PREVENTS,Dietary Modification,Coinfection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0086252,C0742343,PREVENTS,Red Blood Cell Transfusion,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0086258,C0010054,PREVENTS,Estrogen Replacements,Coronary Arteriosclerosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0086818,C0005779,PREVENTS,Platelet Transfusion,Blood Coagulation Disorders,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0086818,C0018133,PREVENTS,Platelet Transfusion,Graft-vs-Host Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0086818,C0040034,PREVENTS,Platelet Transfusion,Thrombocytopenia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0086818,C0940931,PREVENTS,Platelet Transfusion,hemorrhage as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0149615,C0010823,PREVENTS,Allogeneic bone marrow transplantation,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0149615,C0940933,PREVENTS,Allogeneic bone marrow transplantation,infection as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0149783,C0031046,PREVENTS,Steroid therapy,Pericarditis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0149783,C1175175,PREVENTS,Steroid therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0149783,C1856053,PREVENTS,Steroid therapy,Hydranencephaly with Renal Aplasia-Dysplasia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0150141,C0205721,PREVENTS,Bathing,"Infections, Hospital",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0150141,C0442886,PREVENTS,Bathing,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0150413,C0036916,PREVENTS,HIV prevention,Sexually Transmitted Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0150457,C0940931,PREVENTS,Anticoagulant therapy,hemorrhage as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0152060,C0026946,PREVENTS,Transection (procedure),Mycoses,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0152060,C0043528,PREVENTS,Transection (procedure),Zoonoses,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0162352,C0149725,PREVENTS,Allergen Immunotherapy,Lower respiratory tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0162352,C0577625,PREVENTS,Allergen Immunotherapy,Shellfish allergy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0162352,C3662483,PREVENTS,Allergen Immunotherapy,Allergic sensitization,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0162522,C0008325,PREVENTS,"Cholecystectomy, Laparoscopic",Cholecystitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185003,C0009450,PREVENTS,Reparative closure,Communicable Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0185026,C0042769,PREVENTS,Plication,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185033,C0948343,PREVENTS,Diversion procedure,Transfusion-Related Acute Lung Injury,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185111,C0004364,PREVENTS,Surgical Manipulation,Autoimmune Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185115,C0004364,PREVENTS,Extraction,Autoimmune Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0185115,C0018133,PREVENTS,Extraction,Graft-vs-Host Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185115,C0024198,PREVENTS,Extraction,Lyme Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185115,C0024530,PREVENTS,Extraction,Malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185115,C0032269,PREVENTS,Extraction,Pneumococcal Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185115,C0036690,PREVENTS,Extraction,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0185115,C0042769,PREVENTS,Extraction,Virus Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0185115,C0149993,PREVENTS,Extraction,Febrile transfusion reaction,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0189557,C0032326,PREVENTS,Pleurodesis,Pneumothorax,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0189621,C0034063,PREVENTS,Injection of cardiovascular system,Pulmonary Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0192456,C0011175,PREVENTS,Nasogastric feeding,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0193594,C0152020,PREVENTS,Operation on pancreas,Gastroparesis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0193959,C0031350,PREVENTS,Tonsillectomy and adenoidectomy,Pharyngitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0193959,C0271468,PREVENTS,Tonsillectomy and adenoidectomy,Eustachian tube disorder,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0194422,C0042029,PREVENTS,Removal of bladder catheter,Urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0194423,C0004659,PREVENTS,Bladder irrigation procedure,Bacteriuria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0194825,C0001883,PREVENTS,Radical retropubic prostatectomy,Airway Obstruction,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0002170,PREVENTS,Prophylactic treatment,Alopecia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0002792,PREVENTS,Prophylactic treatment,anaphylaxis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0003047,PREVENTS,Prophylactic treatment,Animal Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0004096,PREVENTS,Prophylactic treatment,Asthma,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199176,C0006818,PREVENTS,Prophylactic treatment,Campylobacter infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0007222,PREVENTS,Prophylactic treatment,Cardiovascular Diseases,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0199176,C0008679,PREVENTS,Prophylactic treatment,Chronic disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199176,C0009443,PREVENTS,Prophylactic treatment,Common Cold,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0009450,PREVENTS,Prophylactic treatment,Communicable Diseases,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0199176,C0010054,PREVENTS,Prophylactic treatment,Coronary Arteriosclerosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0011860,PREVENTS,Prophylactic treatment,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0014544,PREVENTS,Prophylactic treatment,Epilepsy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0014836,PREVENTS,Prophylactic treatment,Escherichia coli Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0016052,PREVENTS,Prophylactic treatment,Fibromuscular Dysplasia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0016627,PREVENTS,Prophylactic treatment,Influenza in Birds,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0021400,PREVENTS,Prophylactic treatment,Influenza,topp,dsyn,6,PREVENTS_TOPPprevDSYN
+C0199176,C0022882,PREVENTS,Prophylactic treatment,Laboratory Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0024117,PREVENTS,Prophylactic treatment,Chronic Obstructive Airway Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0024198,PREVENTS,Prophylactic treatment,Lyme Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0024530,PREVENTS,Prophylactic treatment,Malaria,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199176,C0029118,PREVENTS,Prophylactic treatment,Opportunistic Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199176,C0032285,PREVENTS,Prophylactic treatment,Pneumonia,topp,dsyn,5,PREVENTS_TOPPprevDSYN
+C0199176,C0032851,PREVENTS,Prophylactic treatment,Poultry Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0034041,PREVENTS,Prophylactic treatment,Puerperal Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0034069,PREVENTS,Prophylactic treatment,Pulmonary Fibrosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0035222,PREVENTS,Prophylactic treatment,"Respiratory Distress Syndrome, Adult",topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0199176,C0035235,PREVENTS,Prophylactic treatment,Respiratory Syncytial Virus Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199176,C0038454,PREVENTS,Prophylactic treatment,Cerebrovascular accident,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0039614,PREVENTS,Prophylactic treatment,Tetanus,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0040921,PREVENTS,Prophylactic treatment,Trichomonas Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0042029,PREVENTS,Prophylactic treatment,Urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0042769,PREVENTS,Prophylactic treatment,Virus Diseases,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0199176,C0043528,PREVENTS,Prophylactic treatment,Zoonoses,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0178238,PREVENTS,Prophylactic treatment,Intestinal infectious disease (disorder),topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0205721,PREVENTS,Prophylactic treatment,"Infections, Hospital",topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0199176,C0264408,PREVENTS,Prophylactic treatment,Childhood asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0264490,PREVENTS,Prophylactic treatment,Acute respiratory failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0271428,PREVENTS,Prophylactic treatment,Disorder of middle ear,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0276081,PREVENTS,Prophylactic treatment,Tyzzer's disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0276289,PREVENTS,Prophylactic treatment,Zika Virus Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0277528,PREVENTS,Prophylactic treatment,Traveler's diarrhea,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0277548,PREVENTS,Prophylactic treatment,Epidemic disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0343641,PREVENTS,Prophylactic treatment,Human papilloma virus infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0578159,PREVENTS,Prophylactic treatment,Antibiotic-associated diarrhea,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0729531,PREVENTS,Prophylactic treatment,Viral respiratory infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0741282,PREVENTS,Prophylactic treatment,atrial fibrillation recurrent,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C0856825,PREVENTS,Prophylactic treatment,Acute GVH disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199176,C0872315,PREVENTS,Prophylactic treatment,"Communicable Diseases, Emerging",topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0199176,C1175175,PREVENTS,Prophylactic treatment,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C1299888,PREVENTS,Prophylactic treatment,Laminitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C1301700,PREVENTS,Prophylactic treatment,Cardiovascular morbidity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C1301752,PREVENTS,Prophylactic treatment,Respiratory morbidity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C1535917,PREVENTS,Prophylactic treatment,Nipah Virus Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C3277428,PREVENTS,Prophylactic treatment,Severe viral infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199176,C4505065,PREVENTS,Prophylactic treatment,Noncommunicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199451,C0006271,PREVENTS,Continuous Positive Airway Pressure,Bronchiolitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199451,C1145670,PREVENTS,Continuous Positive Airway Pressure,Respiratory Failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199470,C0032285,PREVENTS,Mechanical ventilation,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199470,C0035078,PREVENTS,Mechanical ventilation,Kidney Failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199470,C0036690,PREVENTS,Mechanical ventilation,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199470,C0264490,PREVENTS,Mechanical ventilation,Acute respiratory failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199470,C1145670,PREVENTS,Mechanical ventilation,Respiratory Failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199470,C1701940,PREVENTS,Mechanical ventilation,"Pneumonia, Ventilator-Associated",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199779,C0003864,PREVENTS,Administration of antibiotic,Arthritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0004364,PREVENTS,Administration of antibiotic,Autoimmune Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0019061,PREVENTS,Administration of antibiotic,Hemolytic-Uremic Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0023364,PREVENTS,Administration of antibiotic,Leptospirosis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199779,C0024904,PREVENTS,Administration of antibiotic,Mastoiditis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0029888,PREVENTS,Administration of antibiotic,Suppurative otitis media,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0032285,PREVENTS,Administration of antibiotic,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0034155,PREVENTS,Administration of antibiotic,"Purpura, Thrombotic Thrombocytopenic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0035436,PREVENTS,Administration of antibiotic,Rheumatic Fever,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0199779,C0036690,PREVENTS,Administration of antibiotic,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0038826,PREVENTS,Administration of antibiotic,Superinfection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0040592,PREVENTS,Administration of antibiotic,Trachoma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199779,C0694549,PREVENTS,Administration of antibiotic,Community acquired pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199798,C0009450,PREVENTS,human vaccination,Communicable Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199798,C0032064,PREVENTS,human vaccination,Plague,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199798,C0037354,PREVENTS,human vaccination,Smallpox,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199798,C0041327,PREVENTS,human vaccination,"Tuberculosis, Pulmonary",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199798,C0206608,PREVENTS,human vaccination,Flavivirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199798,C1175175,PREVENTS,human vaccination,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0009450,PREVENTS,Vaccination against tuberculosis,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0024205,PREVENTS,Vaccination against tuberculosis,Lymphadenitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0041296,PREVENTS,Vaccination against tuberculosis,Tuberculosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0041327,PREVENTS,Vaccination against tuberculosis,"Tuberculosis, Pulmonary",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0042749,PREVENTS,Vaccination against tuberculosis,Viremia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0199804,C0042769,PREVENTS,Vaccination against tuberculosis,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0152915,PREVENTS,Vaccination against tuberculosis,Acute miliary tuberculosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0206750,PREVENTS,Vaccination against tuberculosis,Coronavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199804,C0339901,PREVENTS,Vaccination against tuberculosis,Acute respiratory infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199807,C0343312,PREVENTS,Tetanus vaccination,Tetanus neonatorum,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199807,C0854706,PREVENTS,Tetanus vaccination,neonatal infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199848,C1175175,PREVENTS,Coronavirus vaccination,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199859,C0030499,PREVENTS,Deworming,Parasitic Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0199961,C0948343,PREVENTS,Whole blood transfusion,Transfusion-Related Acute Lung Injury,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0203597,C1562907,PREVENTS,hyperthermia treatment,Food-borne gastroenteritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0204727,C0004623,PREVENTS,Isolation procedure,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0204727,C0009450,PREVENTS,Isolation procedure,Communicable Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0204727,C0205721,PREVENTS,Isolation procedure,"Infections, Hospital",topp,dsyn,9,PREVENTS_TOPPprevDSYN
+C0204727,C0206750,PREVENTS,Isolation procedure,Coronavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0204727,C0442886,PREVENTS,Isolation procedure,Secondary Infections,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0204727,C4082764,PREVENTS,Isolation procedure,Gastrointestinal infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0204861,C0742343,PREVENTS,Application of splint,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0206058,C0205721,PREVENTS,Elective Surgical Procedures,"Infections, Hospital",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0206153,C0032285,PREVENTS,Cell Transplantation,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0206153,C0034063,PREVENTS,Cell Transplantation,Pulmonary Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0235062,C1175175,PREVENTS,Induction of neuromuscular blockade,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0242602,C0940933,PREVENTS,Peripheral Stem Cell Transplantation,infection as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0242739,C0015695,PREVENTS,Nutritional Support,Fatty Liver,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0242739,C0029118,PREVENTS,Nutritional Support,Opportunistic Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0242883,C0019693,PREVENTS,Needle-Exchange Programs,HIV Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0279030,C0004623,PREVENTS,interferon therapy,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0279033,C0032285,PREVENTS,Replacement therapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0010823,PREVENTS,Antiviral Therapy,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0021400,PREVENTS,Antiviral Therapy,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0032285,PREVENTS,Antiviral Therapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0032310,PREVENTS,Antiviral Therapy,"Pneumonia, Viral",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0042769,PREVENTS,Antiviral Therapy,Virus Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0280274,C0206019,PREVENTS,Antiviral Therapy,HIV Encephalopathy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0265514,PREVENTS,Antiviral Therapy,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0271428,PREVENTS,Antiviral Therapy,Disorder of middle ear,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C0442886,PREVENTS,Antiviral Therapy,Secondary Infections,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0280274,C0740304,PREVENTS,Antiviral Therapy,copd exacerbation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C1145670,PREVENTS,Antiviral Therapy,Respiratory Failure,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C2977062,PREVENTS,Antiviral Therapy,Influenzal otitis media NOS,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0280274,C4288963,PREVENTS,Antiviral Therapy,Hepatitis C Virus Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281163,C0205721,PREVENTS,educational intervention,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281176,C0005741,PREVENTS,antibody therapy,Blepharitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281176,C0012546,PREVENTS,antibody therapy,Diphtheria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281176,C0019357,PREVENTS,antibody therapy,"Keratitis, Herpetic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281176,C0021400,PREVENTS,antibody therapy,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281176,C0022081,PREVENTS,antibody therapy,Iritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281176,C0039614,PREVENTS,antibody therapy,Tetanus,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0281481,C0042769,PREVENTS,anti-tumor necrosis factor therapy,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282077,C0009450,PREVENTS,Qigong,Communicable Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0282402,C0002395,PREVENTS,Hormone replacement therapy,Alzheimer's Disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0282402,C0007222,PREVENTS,Hormone replacement therapy,Cardiovascular Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0282402,C0038454,PREVENTS,Hormone replacement therapy,Cerebrovascular accident,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282515,C0003850,PREVENTS,Chemoprevention,Arteriosclerosis,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0282515,C0010823,PREVENTS,Chemoprevention,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282515,C0016627,PREVENTS,Chemoprevention,Influenza in Birds,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282515,C0018572,PREVENTS,Chemoprevention,"Hand, Foot and Mouth Disease",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282515,C0021400,PREVENTS,Chemoprevention,Influenza,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0282515,C0024530,PREVENTS,Chemoprevention,Malaria,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0282515,C0036690,PREVENTS,Chemoprevention,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0004623,PREVENTS,Antibiotic Prophylaxis,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0005779,PREVENTS,Antibiotic Prophylaxis,Blood Coagulation Disorders,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0282638,C0025289,PREVENTS,Antibiotic Prophylaxis,Meningitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0032285,PREVENTS,Antibiotic Prophylaxis,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0035243,PREVENTS,Antibiotic Prophylaxis,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0205721,PREVENTS,Antibiotic Prophylaxis,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0269048,PREVENTS,Antibiotic Prophylaxis,Metritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0395866,PREVENTS,Antibiotic Prophylaxis,Recurrent acute otitis media,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0456103,PREVENTS,Antibiotic Prophylaxis,Sepsis of the newborn,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C0949083,PREVENTS,Antibiotic Prophylaxis,Hospital acquired pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0282638,C1112157,PREVENTS,Antibiotic Prophylaxis,intrauterine infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0004610,PREVENTS,Antibiotic therapy,Bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0014009,PREVENTS,Antibiotic therapy,Empyema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0023364,PREVENTS,Antibiotic therapy,Leptospirosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0025289,PREVENTS,Antibiotic therapy,Meningitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0032285,PREVENTS,Antibiotic therapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0035436,PREVENTS,Antibiotic therapy,Rheumatic Fever,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0338237,C0036689,PREVENTS,Antibiotic therapy,Streptococcal sore throat,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0036690,PREVENTS,Antibiotic therapy,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0038826,PREVENTS,Antibiotic therapy,Superinfection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0338237,C0156221,PREVENTS,Antibiotic therapy,Acute glomerulonephritis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0009421,PREVENTS,Supportive care,Comatose,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0009450,PREVENTS,Supportive care,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0011175,PREVENTS,Supportive care,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0035222,PREVENTS,Supportive care,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0344211,C0036690,PREVENTS,Supportive care,Septicemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0238644,PREVENTS,Supportive care,"Anemia, severe",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0339952,PREVENTS,Supportive care,Secondary bacterial pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0344211,C0442886,PREVENTS,Supportive care,Secondary Infections,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C0344211,C1527311,PREVENTS,Supportive care,Brain Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0349707,C0017168,PREVENTS,Aspiration-action,Gastroesophageal reflux disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0349707,C0032285,PREVENTS,Aspiration-action,Pneumonia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0349707,C0037278,PREVENTS,Aspiration-action,"Skin Diseases, Infectious",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0376287,C0021400,PREVENTS,Behavior Control,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0376518,C0001314,PREVENTS,Adoptive Transfer,Acute Disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0376518,C0004364,PREVENTS,Adoptive Transfer,Autoimmune Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0376518,C0042769,PREVENTS,Adoptive Transfer,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0376530,C0151740,PREVENTS,"Decompression, Surgical",Intracranial Hypertension,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0392920,C1535939,PREVENTS,Chemotherapy Regimen,Pneumocystis jiroveci pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C0004623,PREVENTS,Pneumococcal vaccination,Bacterial Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C0029883,PREVENTS,Pneumococcal vaccination,Otitis Media with Effusion,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C0032285,PREVENTS,Pneumococcal vaccination,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C0032300,PREVENTS,Pneumococcal vaccination,Lobar Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C1142127,PREVENTS,Pneumococcal vaccination,pneumococcal bacteremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C1301752,PREVENTS,Pneumococcal vaccination,Respiratory morbidity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0419707,C1320214,PREVENTS,Pneumococcal vaccination,Invasive Streptococcus pneumoniae disease,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C0419786,C0009450,PREVENTS,Infection surveillance,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0420175,C0019087,PREVENTS,Vitamin prophylaxis,Hemorrhagic Disorders,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0420176,C0035243,PREVENTS,Vitamin D supplement therapy,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0420176,C0035579,PREVENTS,Vitamin D supplement therapy,Rickets,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0439775,C0019158,PREVENTS,Elevation procedure,Hepatitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0441509,C0034065,PREVENTS,Coagulation procedure,Pulmonary Embolism,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0441509,C0398623,PREVENTS,Coagulation procedure,Thrombophilia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0444735,C0030312,PREVENTS,Intermittent administration,Pancytopenia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0444735,C1096155,PREVENTS,Intermittent administration,Macrophage Activation Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0452410,C0035243,PREVENTS,Balanced diet,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0452415,C0020598,PREVENTS,Healthy Diet,Hypocalcemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0454512,C0032285,PREVENTS,Incentive spirometry,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0454512,C0742343,PREVENTS,Incentive spirometry,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0455052,C0940933,PREVENTS,Bowel preparation,infection as a complication,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0459914,C0034063,PREVENTS,Conservative Treatment,Pulmonary Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0472699,C0004626,PREVENTS,Hemopoietic stem cell transplant,"Pneumonia, Bacterial",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0472699,C0029118,PREVENTS,Hemopoietic stem cell transplant,Opportunistic Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0472699,C0032285,PREVENTS,Hemopoietic stem cell transplant,Pneumonia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0472699,C0035235,PREVENTS,Hemopoietic stem cell transplant,Respiratory Syncytial Virus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0472699,C0877203,PREVENTS,Hemopoietic stem cell transplant,Viral Respiratory Tract Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0475771,C0265514,PREVENTS,Bronchial revascularization,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0513686,C0162830,PREVENTS,Pulse oximetry monitoring,"Dermatitis, Phototoxic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0520484,C0005779,PREVENTS,Xenograft procedure,Blood Coagulation Disorders,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0521302,C0011175,PREVENTS,Fluid replacement,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0524865,C0205721,PREVENTS,Reconstructive Surgical Procedures,"Infections, Hospital",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0543467,C0005779,PREVENTS,Operative Surgical Procedures,Blood Coagulation Disorders,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0543467,C0008679,PREVENTS,Operative Surgical Procedures,Chronic disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0543467,C0009450,PREVENTS,Operative Surgical Procedures,Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0543467,C0265514,PREVENTS,Operative Surgical Procedures,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0543467,C1175175,PREVENTS,Operative Surgical Procedures,Severe Acute Respiratory Syndrome,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0547070,C0015695,PREVENTS,Ablation,Fatty Liver,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0547070,C0019158,PREVENTS,Ablation,Hepatitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0547070,C0023860,PREVENTS,Ablation,Listeriosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0547070,C0856169,PREVENTS,Ablation,endothelial dysfunction,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0547070,C1096352,PREVENTS,Ablation,PANCREAS Hypertrophy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0547070,C1264606,PREVENTS,Ablation,Persistent infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0547605,C0205721,PREVENTS,prevention of infection,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0554804,C0022660,PREVENTS,Assisted breathing,"Kidney Failure, Acute",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0554804,C0025062,PREVENTS,Assisted breathing,Mediastinal Emphysema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0554804,C0035222,PREVENTS,Assisted breathing,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0574032,C0042384,PREVENTS,Infusion procedures,Vasculitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0574032,C0275518,PREVENTS,Infusion procedures,Acute infectious disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0581602,C0011119,PREVENTS,Structural modification,Decompression Sickness,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0585941,C0038454,PREVENTS,Antihypertensive therapy,Cerebrovascular accident,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0596197,C0032285,PREVENTS,blood treatment,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0597815,C0442886,PREVENTS,crystal healing,Secondary Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0599917,C0021400,PREVENTS,intervention program,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0600249,C0042769,PREVENTS,"Immunotherapy, Passive",Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0618956,C0042769,PREVENTS,UFD-1,Virus Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0677850,C0021400,PREVENTS,adjuvant therapy,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0677850,C0035243,PREVENTS,adjuvant therapy,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0677850,C0042769,PREVENTS,adjuvant therapy,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0677850,C2076600,PREVENTS,adjuvant therapy,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0678026,C1262313,PREVENTS,Antifungal therapy,Invasive Fungal Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0678812,C0004096,PREVENTS,systemic administration,Asthma,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0678812,C0162557,PREVENTS,systemic administration,"Liver Failure, Acute",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0678823,C0014836,PREVENTS,parenteral administration,Escherichia coli Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0678823,C0032285,PREVENTS,parenteral administration,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0678823,C0035243,PREVENTS,parenteral administration,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679624,C0042029,PREVENTS,medical treatment method,Urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679651,C0034063,PREVENTS,directive therapy,Pulmonary Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679698,C0009450,PREVENTS,disease prevention,Communicable Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0679698,C0011860,PREVENTS,disease prevention,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679698,C0162429,PREVENTS,disease prevention,Malnutrition,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679698,C0242994,PREVENTS,disease prevention,Hantavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679698,C1443237,PREVENTS,disease prevention,Healthcare associated pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679698,C3694279,PREVENTS,disease prevention,Middle East Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679699,C0553576,PREVENTS,Secondary Prevention,Systemic mycosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0679721,C0008679,PREVENTS,prevention service,Chronic disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0683174,C0015397,PREVENTS,topical application,Disorder of eye,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0683174,C0019348,PREVENTS,topical application,Herpes Simplex Infections,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0683465,C0035222,PREVENTS,novel AODU treatment method,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0683465,C0740304,PREVENTS,novel AODU treatment method,copd exacerbation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0683525,C0021400,PREVENTS,treatment options,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0684199,C0206750,PREVENTS,Homeopathy,Coronavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0700589,C0004364,PREVENTS,Contraceptive methods,Autoimmune Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0730426,C0497169,PREVENTS,HIV counseling,hiv-infection/aids,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0740221,C0038454,PREVENTS,Hypertension screen,Cerebrovascular accident,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0747314,C0040558,PREVENTS,pcp prophylaxis,Toxoplasmosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0747314,C1535939,PREVENTS,pcp prophylaxis,Pneumocystis jiroveci pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0751363,C2076600,PREVENTS,natural remedies,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0752151,C0014009,PREVENTS,"Thoracic Surgery, Video-Assisted",Empyema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0752151,C0032285,PREVENTS,"Thoracic Surgery, Video-Assisted",Pneumonia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0752151,C0919907,PREVENTS,"Thoracic Surgery, Video-Assisted",pleural infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0808232,C3662483,PREVENTS,Therapeutic Intervention,Allergic sensitization,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0814357,C0004030,PREVENTS,universal prevention,Aspergillosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0814357,C0042749,PREVENTS,universal prevention,Viremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0814360,C0004096,PREVENTS,targeted prevention,Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0814361,C0814120,PREVENTS,selective prevention,early disease onset,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0815154,C1290807,PREVENTS,selective intervention,Diarrheal disorder,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0848112,C0010054,PREVENTS,on anti-coagulants,Coronary Arteriosclerosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0851604,C0262655,PREVENTS,Vaginal Therapy,Recurrent urinary tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857208,C0025007,PREVENTS,routine immunization,Measles,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857208,C0032285,PREVENTS,routine immunization,Pneumonia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0857208,C0032371,PREVENTS,routine immunization,Poliomyelitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857208,C0035920,PREVENTS,routine immunization,Rubella,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0857208,C0041466,PREVENTS,routine immunization,Typhoid Fever,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857208,C0042769,PREVENTS,routine immunization,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857208,C0043167,PREVENTS,routine immunization,Pertussis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857208,C0748452,PREVENTS,routine immunization,rubella syndrome,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C0857208,C1320214,PREVENTS,routine immunization,Invasive Streptococcus pneumoniae disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0857209,C0035869,PREVENTS,Routine childhood vaccinations,Rotavirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0860359,C0032285,PREVENTS,Reintubation Procedure,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0872361,C0035220,PREVENTS,prenatal therapy,"Respiratory Distress Syndrome, Newborn",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0877137,C0019348,PREVENTS,antiviral drug prophylaxis,Herpes Simplex Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0877629,C0003047,PREVENTS,infection prophylaxis,Animal Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0887947,C0001175,PREVENTS,"Antiretroviral Therapy, Highly Active",Acquired Immunodeficiency Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0887947,C0010414,PREVENTS,"Antiretroviral Therapy, Highly Active",Infection by Cryptococcus neoformans,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0887947,C0041296,PREVENTS,"Antiretroviral Therapy, Highly Active",Tuberculosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0887947,C0078911,PREVENTS,"Antiretroviral Therapy, Highly Active",AIDS-Associated Nephropathy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0887947,C0221026,PREVENTS,"Antiretroviral Therapy, Highly Active",X-linked agammaglobulinemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0887947,C1142553,PREVENTS,"Antiretroviral Therapy, Highly Active",primary HIV infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0920467,C0009450,PREVENTS,disorder control (procedure),Communicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0920467,C0948998,PREVENTS,disorder control (procedure),Viral Contagious disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0935882,C0242917,PREVENTS,antisense therapy,Filoviridae Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0947647,C0028754,PREVENTS,Manipulation procedure,Obesity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0948575,C0022660,PREVENTS,Diuretic therapy,"Kidney Failure, Acute",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0949216,C0021400,PREVENTS,Alternative Therapies,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C0949266,C0034069,PREVENTS,"Therapies, Investigational",Pulmonary Fibrosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1096745,C0020598,PREVENTS,Calcium supplement therapy,Hypocalcemia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1135929,C0021400,PREVENTS,Mass Vaccination,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1138412,C0007222,PREVENTS,"Diet, Mediterranean",Cardiovascular Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1261381,C0004096,PREVENTS,Destructive procedure (surgical),Asthma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1261381,C0017563,PREVENTS,Destructive procedure (surgical),Gingival Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1261381,C0024117,PREVENTS,Destructive procedure (surgical),Chronic Obstructive Airway Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1261381,C0042769,PREVENTS,Destructive procedure (surgical),Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1273412,C0021400,PREVENTS,Chinese herbal medicine,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1273412,C0042769,PREVENTS,Chinese herbal medicine,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1273412,C1175175,PREVENTS,Chinese herbal medicine,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1274143,C0162700,PREVENTS,Communication interventions,Tick-Borne Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1276413,C0011854,PREVENTS,Therapeutic regimen,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1276413,C0035222,PREVENTS,Therapeutic regimen,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1278454,C0004238,PREVENTS,Statin prophylaxis,Atrial Fibrillation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1278454,C0265514,PREVENTS,Statin prophylaxis,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1280903,C0016627,PREVENTS,Exploration procedure,Influenza in Birds,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1283040,C0009763,PREVENTS,Autogenous vaccination,Conjunctivitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293116,C0011175,PREVENTS,Introduction procedure,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293116,C0019693,PREVENTS,Introduction procedure,HIV Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293116,C0021832,PREVENTS,Introduction procedure,"Intestinal Diseases, Parasitic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293116,C0032285,PREVENTS,Introduction procedure,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293116,C0035920,PREVENTS,Introduction procedure,Rubella,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293116,C1096155,PREVENTS,Introduction procedure,Macrophage Activation Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293130,C0011881,PREVENTS,Stabilization,Diabetic Nephropathy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1293365,C0549493,PREVENTS,Lung destructive procedure,Alveolitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1321916,C1861452,PREVENTS,cisplatin/etoposide/vindesine protocol,Storm Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443861,C0009443,PREVENTS,Post-Exposure Prophylaxis,Common Cold,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443861,C0021400,PREVENTS,Post-Exposure Prophylaxis,Influenza,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1443861,C0032064,PREVENTS,Post-Exposure Prophylaxis,Plague,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443861,C0035243,PREVENTS,Post-Exposure Prophylaxis,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443861,C0275544,PREVENTS,Post-Exposure Prophylaxis,Congenital infectious disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443861,C1321098,PREVENTS,Post-Exposure Prophylaxis,Human rabies,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1443867,C0205721,PREVENTS,Standard precautions,"Infections, Hospital",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1443870,C0022882,PREVENTS,Respiratory secretion precautions,Laboratory Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443870,C0032064,PREVENTS,Respiratory secretion precautions,Plague,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443870,C0205721,PREVENTS,Respiratory secretion precautions,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1443921,C0205721,PREVENTS,Transmission-based precautions,"Infections, Hospital",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1455871,C0032285,PREVENTS,Non-invasive positive pressure (NIPPV),Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0009952,PREVENTS,Childhood Immunization,Febrile Convulsions,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0012546,PREVENTS,Childhood Immunization,Diphtheria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0019163,PREVENTS,Childhood Immunization,Hepatitis B,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0025289,PREVENTS,Childhood Immunization,Meningitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0032285,PREVENTS,Childhood Immunization,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0035243,PREVENTS,Childhood Immunization,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0043167,PREVENTS,Childhood Immunization,Pertussis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1456647,C0162429,PREVENTS,Childhood Immunization,Malnutrition,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0003047,PREVENTS,Detection,Animal Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0009443,PREVENTS,Detection,Common Cold,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0009450,PREVENTS,Detection,Communicable Diseases,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C1511790,C0010709,PREVENTS,Detection,Cyst,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0019100,PREVENTS,Detection,Severe Dengue,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0021400,PREVENTS,Detection,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0024530,PREVENTS,Detection,Malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0032269,PREVENTS,Detection,Pneumococcal Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0042769,PREVENTS,Detection,Virus Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C0043528,PREVENTS,Detection,Zoonoses,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C1511790,C0205721,PREVENTS,Detection,"Infections, Hospital",topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1511790,C0275524,PREVENTS,Detection,Coinfection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C1096155,PREVENTS,Detection,Macrophage Activation Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C1290886,PREVENTS,Detection,Chronic inflammatory disorder,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C1707758,PREVENTS,Detection,Direct Contact Transmission Infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1511790,C3873487,PREVENTS,Detection,Waterborne Diseases,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1512034,C0277556,PREVENTS,Donor Lymphocyte Infusion,Recurrent disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1512034,C3826786,PREVENTS,Donor Lymphocyte Infusion,Adenovirus diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1512721,C0740304,PREVENTS,Inferential Current Treatment,copd exacerbation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1515884,C1175175,PREVENTS,Acupuncture and Oriental Medicine,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1515884,C1850106,PREVENTS,Acupuncture and Oriental Medicine,RAINE SYNDROME,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1522449,C0018133,PREVENTS,Therapeutic radiology procedure,Graft-vs-Host Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1527077,C0010418,PREVENTS,Peripheral Electronic Nerve Stimulation,Cryptosporidiosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1527077,C0021290,PREVENTS,Peripheral Electronic Nerve Stimulation,Neonatal disorder,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1527077,C0035204,PREVENTS,Peripheral Electronic Nerve Stimulation,Respiration Disorders,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1567676,C0037354,PREVENTS,Variolation,Smallpox,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C1656259,C0029118,PREVENTS,preventive Drugs,Opportunistic Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1704535,C0158962,PREVENTS,Passive Method,Hemolytic disease of fetus OR newborn due to RhD isoimmunization,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1708063,C0006114,PREVENTS,First line treatment,Cerebral Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1708063,C0149721,PREVENTS,First line treatment,Left Ventricular Hypertrophy,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1708063,C0853662,PREVENTS,First line treatment,estrogen deficiency,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1708063,C1619733,PREVENTS,First line treatment,Gout flare,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1720825,C0876973,PREVENTS,Therapeutic Drug Monitoring,Infectious disease of lung,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1868981,C1701940,PREVENTS,Invasive mechanical ventilation NOS,"Pneumonia, Ventilator-Associated",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1883583,C4505065,PREVENTS,Yoga,Noncommunicable Diseases,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1963724,C0001314,PREVENTS,Antiretroviral therapy,Acute Disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1963724,C0042749,PREVENTS,Antiretroviral therapy,Viremia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1963724,C0694549,PREVENTS,Antiretroviral therapy,Community acquired pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1963758,C0021400,PREVENTS,Immunomodulation,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1964029,C0243026,PREVENTS,early/brief intervention/therapy (treatment),Sepsis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1964029,C0271428,PREVENTS,early/brief intervention/therapy (treatment),Disorder of middle ear,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1997883,C0949083,PREVENTS,Noninvasive Ventilation,Hospital acquired pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C1997883,C1701940,PREVENTS,Noninvasive Ventilation,"Pneumonia, Ventilator-Associated",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2242628,C0009319,PREVENTS,Fecal Microbiota Transplantation,Colitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2242628,C0009450,PREVENTS,Fecal Microbiota Transplantation,Communicable Diseases,topp,dsyn,3,PREVENTS_TOPPprevDSYN
+C2242628,C0520459,PREVENTS,Fecal Microbiota Transplantation,Necrotizing Enterocolitis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2348331,C0002792,PREVENTS,Dose Regimen,anaphylaxis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2368628,C0021400,PREVENTS,Vaccine Administration,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2713304,C0041296,PREVENTS,Revaccination,Tuberculosis,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2827774,C0003175,PREVENTS,Current Therapy,Anthrax disease,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2827774,C0011175,PREVENTS,Current Therapy,Dehydration,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C2827774,C0024530,PREVENTS,Current Therapy,Malaria,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2827774,C4085595,PREVENTS,Current Therapy,AL-RAQAD SYNDROME,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2936643,C0035243,PREVENTS,Standard of Care,Respiratory Tract Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2936643,C0878544,PREVENTS,Standard of Care,Cardiomyopathies,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2945704,C0034063,PREVENTS,Conventional Treatment,Pulmonary Edema,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C2985557,C0018133,PREVENTS,Gamma Irradiation,Graft-vs-Host Disease,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C2987620,C0008049,PREVENTS,Inoculation,Chickenpox,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3164735,C0035222,PREVENTS,Noninvasive positive pressure ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3177188,C0019189,PREVENTS,Early Therapy,"Hepatitis, Chronic",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3177188,C0032285,PREVENTS,Early Therapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3177188,C0149725,PREVENTS,Early Therapy,Lower respiratory tract infection,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3177188,C1394891,PREVENTS,Early Therapy,Intrinsic Factor Deficiency,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3179010,C0032285,PREVENTS,Induction Chemotherapy,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3540512,C0023530,PREVENTS,Circumferential Supracrestal Fiberotomy,Leukopenia,topp,dsyn,2,PREVENTS_TOPPprevDSYN
+C3650834,C0011175,PREVENTS,Electrolyte therapy,Dehydration,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3658308,C1701940,PREVENTS,Patient Care Bundles,"Pneumonia, Ventilator-Associated",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3661918,C0032285,PREVENTS,Pneumococcal conjugate vaccination,Pneumonia,topp,dsyn,5,PREVENTS_TOPPprevDSYN
+C3661922,C0035220,PREVENTS,Surfactant replacement therapy,"Respiratory Distress Syndrome, Newborn",topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3665674,C1167782,PREVENTS,Warburg Therapy,Lung hyperinflation,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3828439,C0021400,PREVENTS,Pulmonary Hygiene,Influenza,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3828439,C0035243,PREVENTS,Pulmonary Hygiene,Respiratory Tract Infections,topp,dsyn,4,PREVENTS_TOPPprevDSYN
+C3828439,C0742343,PREVENTS,Pulmonary Hygiene,Acute Chest Syndrome,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3849996,C0271650,PREVENTS,"Diet, Western",Impaired glucose tolerance,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3850098,C0019693,PREVENTS,Pre-Exposure Prophylaxis,HIV Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C3858690,C0032285,PREVENTS,adjunctive treatment,Pneumonia,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4039912,C0085129,PREVENTS,Inhaled steroid therapy,Bronchial Hyperreactivity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4277645,C0555973,PREVENTS,Phage Therapy,Infection of foot,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4303340,C0038454,PREVENTS,Warfarin therapy,Cerebrovascular accident,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4303556,C0085129,PREVENTS,Aspirin therapy,Bronchial Hyperreactivity,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4505223,C0040592,PREVENTS,Mass Drug Administration,Trachoma,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4511941,C0010823,PREVENTS,Sirolimus therapy,Cytomegalovirus Infections,topp,dsyn,1,PREVENTS_TOPPprevDSYN
+C4520447,C0205721,PREVENTS,Decolonization,"Infections, Hospital",topp,dsyn,1,PREVENTS_TOPPprevDSYN

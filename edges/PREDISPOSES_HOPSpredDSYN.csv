@@ -1,0 +1,55 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000379,C0014518,PREDISPOSES,"3,4-Methylenedioxyamphetamine",Toxic Epidermal Necrolysis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0002073,C0029118,PREDISPOSES,Alkylating Agents,Opportunistic Infections,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0002073,C0034069,PREDISPOSES,Alkylating Agents,Pulmonary Fibrosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0004519,C1698510,PREDISPOSES,Azoxymethane,Bacterial otitis media,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0006463,C0034069,PREDISPOSES,Busulfan,Pulmonary Fibrosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0006463,C4225412,PREDISPOSES,Busulfan,Spondylo-ocular syndrome,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0007018,C0035222,PREDISPOSES,Carbon Monoxide,"Respiratory Distress Syndrome, Adult",hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0007090,C0022408,PREDISPOSES,Carcinogens,Arthropathy,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0014264,C0035222,PREDISPOSES,Endotoxins,"Respiratory Distress Syndrome, Adult",hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0019453,C0263214,PREDISPOSES,Altretamine,Pyotraumatic dermatitis,hops,dsyn,2,PREDISPOSES_HOPSpredDSYN
+C0022108,C0010054,PREDISPOSES,Irritants,Coronary Arteriosclerosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0025611,C0019191,PREDISPOSES,Methamphetamine,Infectious Canine Hepatitis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0026879,C0022408,PREDISPOSES,Mutagens,Arthropathy,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0026955,C0041582,PREDISPOSES,Mycotoxins,Ulcer,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0028160,C0004096,PREDISPOSES,Nitrogen Dioxide,Asthma,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0028160,C0034069,PREDISPOSES,Nitrogen Dioxide,Pulmonary Fibrosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0028160,C0035204,PREDISPOSES,Nitrogen Dioxide,Respiration Disorders,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0031253,C0004096,PREDISPOSES,Pesticides,Asthma,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0037366,C0004096,PREDISPOSES,Smoke,Asthma,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0037366,C0008679,PREDISPOSES,Smoke,Chronic disease,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0037366,C0024117,PREDISPOSES,Smoke,Chronic Obstructive Airway Disease,hops,dsyn,3,PREDISPOSES_HOPSpredDSYN
+C0037366,C0027051,PREDISPOSES,Smoke,Myocardial Infarction,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0037366,C0034069,PREDISPOSES,Smoke,Pulmonary Fibrosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0037366,C0162429,PREDISPOSES,Smoke,Malnutrition,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0037366,C1301752,PREDISPOSES,Smoke,Respiratory morbidity,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0039536,C0002871,PREDISPOSES,Teratogens,Anemia,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0039635,C0011860,PREDISPOSES,Tetrachlorodibenzodioxin,"Diabetes Mellitus, Non-Insulin-Dependent",hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0040329,C0006271,PREDISPOSES,Tobacco,Bronchiolitis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0040329,C0032285,PREDISPOSES,Tobacco,Pneumonia,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0040329,C0339961,PREDISPOSES,Tobacco,Fungal pneumonia,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0043031,C0005779,PREDISPOSES,Warfarin,Blood Coagulation Disorders,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0043031,C0034069,PREDISPOSES,Warfarin,Pulmonary Fibrosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0079483,C0043528,PREDISPOSES,health hazards,Zoonoses,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0007222,PREDISPOSES,Cigarette smoke (substance),Cardiovascular Diseases,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0008677,PREDISPOSES,Cigarette smoke (substance),"Bronchitis, Chronic",hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0008679,PREDISPOSES,Cigarette smoke (substance),Chronic disease,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0024117,PREDISPOSES,Cigarette smoke (substance),Chronic Obstructive Airway Disease,hops,dsyn,3,PREDISPOSES_HOPSpredDSYN
+C0239059,C0029456,PREDISPOSES,Cigarette smoke (substance),Osteoporosis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0032285,PREDISPOSES,Cigarette smoke (substance),Pneumonia,hops,dsyn,2,PREDISPOSES_HOPSpredDSYN
+C0239059,C0042769,PREDISPOSES,Cigarette smoke (substance),Virus Diseases,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0699949,PREDISPOSES,Cigarette smoke (substance),airway disease,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0876973,PREDISPOSES,Cigarette smoke (substance),Infectious disease of lung,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C0877430,PREDISPOSES,Cigarette smoke (substance),asthma chronic,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C1262006,PREDISPOSES,Cigarette smoke (substance),Bacterial sinusitis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0239059,C1320214,PREDISPOSES,Cigarette smoke (substance),Invasive Streptococcus pneumoniae disease,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0439994,C0024117,PREDISPOSES,Tobacco smoke,Chronic Obstructive Airway Disease,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0439994,C0037199,PREDISPOSES,Tobacco smoke,Sinusitis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0444414,C0008679,PREDISPOSES,Biocides,Chronic disease,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0444414,C0243026,PREDISPOSES,Biocides,Sepsis,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0599786,C0007222,PREDISPOSES,pollutant,Cardiovascular Diseases,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0599786,C0023895,PREDISPOSES,pollutant,Liver diseases,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0599787,C0009450,PREDISPOSES,toxicant,Communicable Diseases,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0813971,C0004096,PREDISPOSES,Environmental Tobacco Smoke,Asthma,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN
+C0813971,C0038644,PREDISPOSES,Environmental Tobacco Smoke,Sudden infant death syndrome,hops,dsyn,1,PREDISPOSES_HOPSpredDSYN

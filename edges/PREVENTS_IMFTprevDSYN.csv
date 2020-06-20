@@ -1,0 +1,476 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0004096,PREVENTS,Immunologic Adjuvants,Asthma,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0001551,C0009450,PREVENTS,Immunologic Adjuvants,Communicable Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0001551,C0019360,PREVENTS,Immunologic Adjuvants,Herpes zoster disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0001551,C0021400,PREVENTS,Immunologic Adjuvants,Influenza,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0001551,C0042769,PREVENTS,Immunologic Adjuvants,Virus Diseases,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0001551,C0243026,PREVENTS,Immunologic Adjuvants,Sepsis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0001551,C0339901,PREVENTS,Immunologic Adjuvants,Acute respiratory infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0001551,C0376538,PREVENTS,Immunologic Adjuvants,Porcine Reproductive and Respiratory Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0001551,C0404521,PREVENTS,Immunologic Adjuvants,Infective vaginitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0001551,C0947961,PREVENTS,Immunologic Adjuvants,Atopic condition,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0002092,C0002792,PREVENTS,Allergens,anaphylaxis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0002092,C0004096,PREVENTS,Allergens,Asthma,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0002092,C0035243,PREVENTS,Allergens,Respiratory Tract Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0002092,C0149725,PREVENTS,Allergens,Lower respiratory tract infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0002092,C0155877,PREVENTS,Allergens,Allergic asthma,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C0009450,PREVENTS,Epitopes,Communicable Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003316,C0014038,PREVENTS,Epitopes,Encephalitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C0021400,PREVENTS,Epitopes,Influenza,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003316,C0023860,PREVENTS,Epitopes,Listeriosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C0042749,PREVENTS,Epitopes,Viremia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C0042769,PREVENTS,Epitopes,Virus Diseases,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0003316,C0276289,PREVENTS,Epitopes,Zika Virus Infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C0276500,PREVENTS,Epitopes,Human immunodeficiency virus I infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C0442886,PREVENTS,Epitopes,Secondary Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C1175175,PREVENTS,Epitopes,Severe Acute Respiratory Syndrome,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003316,C1443953,PREVENTS,Epitopes,Acute viral disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C2062441,PREVENTS,Epitopes,Influenza A,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003316,C3874414,PREVENTS,Epitopes,Human metapneumovirus infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003320,C0003175,PREVENTS,Antigens,Anthrax disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0003950,PREVENTS,Antigens,Ascariasis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0004364,PREVENTS,Antigens,Autoimmune Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003320,C0009450,PREVENTS,Antigens,Communicable Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003320,C0011847,PREVENTS,Antigens,Diabetes,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0011854,PREVENTS,Antigens,"Diabetes Mellitus, Insulin-Dependent",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0019360,PREVENTS,Antigens,Herpes zoster disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0021400,PREVENTS,Antigens,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0023886,PREVENTS,Antigens,"Liver Abscess, Amebic",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0024198,PREVENTS,Antigens,Lyme Disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0024530,PREVENTS,Antigens,Malaria,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0024535,PREVENTS,Antigens,"Malaria, Falciparum",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0025289,PREVENTS,Antigens,Meningitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0026946,PREVENTS,Antigens,Mycoses,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0027765,PREVENTS,Antigens,nervous system disorder,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0029191,PREVENTS,Antigens,Orchitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0032285,PREVENTS,Antigens,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0035235,PREVENTS,Antigens,Respiratory Syncytial Virus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0036690,PREVENTS,Antigens,Septicemia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0040954,PREVENTS,Antigens,Infection by Trichuris trichiura,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0042749,PREVENTS,Antigens,Viremia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0042769,PREVENTS,Antigens,Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0043167,PREVENTS,Antigens,Pertussis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0155866,PREVENTS,Antigens,Inhalational anthrax,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0206750,PREVENTS,Antigens,Coronavirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0235840,PREVENTS,Antigens,Neonatal diarrhea,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0267454,PREVENTS,Antigens,Necrotic enteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0276289,PREVENTS,Antigens,Zika Virus Infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0276500,PREVENTS,Antigens,Human immunodeficiency virus I infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0497169,PREVENTS,Antigens,hiv-infection/aids,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C0679225,PREVENTS,Antigens,multiple pathologies,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003320,C0747820,PREVENTS,Antigens,antepartum malaria,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C1175175,PREVENTS,Antigens,Severe Acute Respiratory Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003320,C1535939,PREVENTS,Antigens,Pneumocystis jiroveci pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003321,C0009450,PREVENTS,"Antigens, Bacterial",Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003339,C0019163,PREVENTS,Surface Antigens,Hepatitis B,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003342,C0009450,PREVENTS,"Antigens, Viral",Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003342,C0042769,PREVENTS,"Antigens, Viral",Virus Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0003342,C0152517,PREVENTS,"Antigens, Viral",Enteritis due to specified virus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0003342,C0242301,PREVENTS,"Antigens, Viral",furuncle,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004359,C0004364,PREVENTS,Autoantigens,Autoimmune Diseases,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0004632,C0025294,PREVENTS,Bacterial Vaccines,Meningococcal meningitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004632,C0032285,PREVENTS,Bacterial Vaccines,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004632,C0035204,PREVENTS,Bacterial Vaccines,Respiration Disorders,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004632,C0271429,PREVENTS,Bacterial Vaccines,Acute otitis media,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0004886,C0006840,PREVENTS,BCG Vaccine,Candidiasis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004886,C0009450,PREVENTS,BCG Vaccine,Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004886,C0041296,PREVENTS,BCG Vaccine,Tuberculosis,imft,dsyn,6,PREVENTS_IMFTprevDSYN
+C0004886,C0041318,PREVENTS,BCG Vaccine,"Tuberculosis, Meningeal",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0004886,C0041327,PREVENTS,BCG Vaccine,"Tuberculosis, Pulmonary",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0004886,C0876973,PREVENTS,BCG Vaccine,Infectious disease of lung,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0005525,C0021400,PREVENTS,Biological Response Modifiers,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0005525,C0035222,PREVENTS,Biological Response Modifiers,"Respiratory Distress Syndrome, Adult",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0008359,C0008354,PREVENTS,Cholera Vaccine,Cholera,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0008359,C0009450,PREVENTS,Cholera Vaccine,Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0018909,C0021400,PREVENTS,Hemagglutinin,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0003175,PREVENTS,Influenza virus vaccine,Anthrax disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0016627,PREVENTS,Influenza virus vaccine,Influenza in Birds,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0021400,PREVENTS,Influenza virus vaccine,Influenza,imft,dsyn,23,PREVENTS_IMFTprevDSYN
+C0021403,C0029342,PREVENTS,Influenza virus vaccine,Orthomyxoviridae Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0029882,PREVENTS,Influenza virus vaccine,Otitis Media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0032285,PREVENTS,Influenza virus vaccine,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0038826,PREVENTS,Influenza virus vaccine,Superinfection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0042769,PREVENTS,Influenza virus vaccine,Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0043167,PREVENTS,Influenza virus vaccine,Pertussis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021403,C0271429,PREVENTS,Influenza virus vaccine,Acute otitis media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0021742,C0009443,PREVENTS,Interferon Inducers,Common Cold,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0025010,C0025007,PREVENTS,Measles Vaccine,Measles,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0032374,C0032371,PREVENTS,Poliovirus Vaccines,Poliomyelitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0032375,C0029882,PREVENTS,Oral Poliovirus Vaccine,Otitis Media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0032375,C0032371,PREVENTS,Oral Poliovirus Vaccine,Poliomyelitis,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0032375,C0041296,PREVENTS,Oral Poliovirus Vaccine,Tuberculosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0032595,C0004623,PREVENTS,"Polysaccharides, Bacterial",Bacterial Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0034496,C0034494,PREVENTS,Rabies Vaccines,Rabies (disorder),imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0034496,C0041296,PREVENTS,Rabies Vaccines,Tuberculosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0037355,C0035243,PREVENTS,Smallpox Vaccine,Respiratory Tract Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0037355,C2367622,PREVENTS,Smallpox Vaccine,Orthopoxvirus infection NOS,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0039620,C0043167,PREVENTS,Tetanus Vaccine,Pertussis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0040673,C0277548,PREVENTS,Transfer Factor,Epidemic disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0041305,C0041296,PREVENTS,Tuberculosis Vaccines,Tuberculosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0001175,PREVENTS,Vaccines,Acquired Immunodeficiency Syndrome,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0003175,PREVENTS,Vaccines,Anthrax disease,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0003723,PREVENTS,Vaccines,Arbovirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0003864,PREVENTS,Vaccines,Arthritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0004096,PREVENTS,Vaccines,Asthma,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0005716,PREVENTS,Vaccines,Blastomycosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0006309,PREVENTS,Vaccines,Brucellosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0008049,PREVENTS,Vaccines,Chickenpox,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0008354,PREVENTS,Vaccines,Cholera,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0008679,PREVENTS,Vaccines,Chronic disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0009443,PREVENTS,Vaccines,Common Cold,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0009450,PREVENTS,Vaccines,Communicable Diseases,imft,dsyn,51,PREVENTS_IMFTprevDSYN
+C0042210,C0009663,PREVENTS,Vaccines,Condylomata Acuminata,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0010418,PREVENTS,Vaccines,Cryptosporidiosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0010823,PREVENTS,Vaccines,Cytomegalovirus Infections,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0011311,PREVENTS,Vaccines,Dengue Fever,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0011636,PREVENTS,Vaccines,Dermatophytosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0012546,PREVENTS,Vaccines,Diphtheria,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0012979,PREVENTS,Vaccines,Dog Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0013369,PREVENTS,Vaccines,Dysentery,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0013371,PREVENTS,Vaccines,Shigella Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0014057,PREVENTS,Vaccines,Japanese Encephalitis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0014335,PREVENTS,Vaccines,Enteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0014518,PREVENTS,Vaccines,Toxic Epidermal Necrolysis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0015765,PREVENTS,Vaccines,Feline Panleukopenia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0016052,PREVENTS,Vaccines,Fibromuscular Dysplasia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0016154,PREVENTS,Vaccines,Fish Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0016627,PREVENTS,Vaccines,Influenza in Birds,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0016867,PREVENTS,Vaccines,Furunculosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0017160,PREVENTS,Vaccines,Gastroenteritis,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0017162,PREVENTS,Vaccines,"Gastroenteritis, Transmissible, of Swine",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0018572,PREVENTS,Vaccines,"Hand, Foot and Mouth Disease",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0019099,PREVENTS,Vaccines,"Hemorrhagic Fever, Crimean",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0019158,PREVENTS,Vaccines,Hepatitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0019159,PREVENTS,Vaccines,Hepatitis A,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0019163,PREVENTS,Vaccines,Hepatitis B,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0019191,PREVENTS,Vaccines,Infectious Canine Hepatitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0019196,PREVENTS,Vaccines,Hepatitis C,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0019360,PREVENTS,Vaccines,Herpes zoster disease,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0042210,C0019693,PREVENTS,Vaccines,HIV Infections,imft,dsyn,8,PREVENTS_IMFTprevDSYN
+C0042210,C0019841,PREVENTS,Vaccines,Classical Swine Fever,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0021290,PREVENTS,Vaccines,Neonatal disorder,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0021345,PREVENTS,Vaccines,Infectious Mononucleosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0021400,PREVENTS,Vaccines,Influenza,imft,dsyn,45,PREVENTS_IMFTprevDSYN
+C0042210,C0022882,PREVENTS,Vaccines,Laboratory Infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0023092,PREVENTS,Vaccines,Lassa Fever,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0023281,PREVENTS,Vaccines,Leishmaniasis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0023290,PREVENTS,Vaccines,"Leishmaniasis, Visceral",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0023364,PREVENTS,Vaccines,Leptospirosis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0023860,PREVENTS,Vaccines,Listeriosis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0023886,PREVENTS,Vaccines,"Liver Abscess, Amebic",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0024115,PREVENTS,Vaccines,Lung diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0024198,PREVENTS,Vaccines,Lyme Disease,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0042210,C0024530,PREVENTS,Vaccines,Malaria,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0042210,C0024537,PREVENTS,Vaccines,"Malaria, Vivax",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0025007,PREVENTS,Vaccines,Measles,imft,dsyn,8,PREVENTS_IMFTprevDSYN
+C0042210,C0025289,PREVENTS,Vaccines,Meningitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0025303,PREVENTS,Vaccines,Meningococcal Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0026780,PREVENTS,Vaccines,Mumps,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0026946,PREVENTS,Vaccines,Mycoses,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0029882,PREVENTS,Vaccines,Otitis Media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0030389,PREVENTS,Vaccines,Parainfluenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0030499,PREVENTS,Vaccines,Parasitic Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0032064,PREVENTS,Vaccines,Plague,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0032269,PREVENTS,Vaccines,Pneumococcal Infections,imft,dsyn,7,PREVENTS_IMFTprevDSYN
+C0042210,C0032285,PREVENTS,Vaccines,Pneumonia,imft,dsyn,12,PREVENTS_IMFTprevDSYN
+C0042210,C0032300,PREVENTS,Vaccines,Lobar Pneumonia,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0032310,PREVENTS,Vaccines,"Pneumonia, Viral",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0032371,PREVENTS,Vaccines,Poliomyelitis,imft,dsyn,6,PREVENTS_IMFTprevDSYN
+C0042210,C0032768,PREVENTS,Vaccines,Postherpetic neuralgia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0033839,PREVENTS,Vaccines,Pseudorabies,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0035204,PREVENTS,Vaccines,Respiration Disorders,imft,dsyn,6,PREVENTS_IMFTprevDSYN
+C0042210,C0035235,PREVENTS,Vaccines,Respiratory Syncytial Virus Infections,imft,dsyn,8,PREVENTS_IMFTprevDSYN
+C0042210,C0035242,PREVENTS,Vaccines,Respiratory Tract Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0035243,PREVENTS,Vaccines,Respiratory Tract Infections,imft,dsyn,9,PREVENTS_IMFTprevDSYN
+C0042210,C0035369,PREVENTS,Vaccines,Retroviridae Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0035439,PREVENTS,Vaccines,Rheumatic Heart Disease,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0035613,PREVENTS,Vaccines,Rift Valley Fever,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0035690,PREVENTS,Vaccines,RNA Virus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0035869,PREVENTS,Vaccines,Rotavirus Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0035920,PREVENTS,Vaccines,Rubella,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0035921,PREVENTS,Vaccines,Congenital Rubella Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0036117,PREVENTS,Vaccines,Salmonella infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0036472,PREVENTS,Vaccines,Scrub Typhus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0037354,PREVENTS,Vaccines,Smallpox,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0042210,C0039006,PREVENTS,Vaccines,Swine Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0039614,PREVENTS,Vaccines,Tetanus,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0040558,PREVENTS,Vaccines,Toxoplasmosis,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0042210,C0040843,PREVENTS,Vaccines,Treponemal Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0041296,PREVENTS,Vaccines,Tuberculosis,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0041318,PREVENTS,Vaccines,"Tuberculosis, Meningeal",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0041327,PREVENTS,Vaccines,"Tuberculosis, Pulmonary",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0041351,PREVENTS,Vaccines,Tularemia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0041912,PREVENTS,Vaccines,Upper Respiratory Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0042584,PREVENTS,Vaccines,Vesicular Exanthema of Swine,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0042749,PREVENTS,Vaccines,Viremia,imft,dsyn,11,PREVENTS_IMFTprevDSYN
+C0042210,C0042769,PREVENTS,Vaccines,Virus Diseases,imft,dsyn,29,PREVENTS_IMFTprevDSYN
+C0042210,C0043124,PREVENTS,Vaccines,West Nile Fever,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0043167,PREVENTS,Vaccines,Pertussis,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0043395,PREVENTS,Vaccines,Yellow Fever,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0043407,PREVENTS,Vaccines,Yersinia infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0043528,PREVENTS,Vaccines,Zoonoses,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0149725,PREVENTS,Vaccines,Lower respiratory tract infection,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0151317,PREVENTS,Vaccines,Chronic infectious disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0152517,PREVENTS,Vaccines,Enteritis due to specified virus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0152915,PREVENTS,Vaccines,Acute miliary tuberculosis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0155866,PREVENTS,Vaccines,Inhalational anthrax,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0162699,PREVENTS,Vaccines,Tick-Borne Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0178829,PREVENTS,Vaccines,reproductive system disorder,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0206061,PREVENTS,Vaccines,"Pneumonia, Interstitial",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0206750,PREVENTS,Vaccines,Coronavirus Infections,imft,dsyn,6,PREVENTS_IMFTprevDSYN
+C0042210,C0206752,PREVENTS,Vaccines,Alphavirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0235840,PREVENTS,Vaccines,Neonatal diarrhea,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0242917,PREVENTS,Vaccines,Filoviridae Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0242994,PREVENTS,Vaccines,Hantavirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0264219,PREVENTS,Vaccines,Acute respiratory disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0267230,PREVENTS,Vaccines,Abomasitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0271429,PREVENTS,Vaccines,Acute otitis media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0275518,PREVENTS,Vaccines,Acute infectious disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0275524,PREVENTS,Vaccines,Coinfection,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0275544,PREVENTS,Vaccines,Congenital infectious disease,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0275731,PREVENTS,Vaccines,Fowl cholera,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0275965,PREVENTS,Vaccines,Reactivation tuberculosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276170,PREVENTS,Vaccines,Infectious canine tracheobronchitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276289,PREVENTS,Vaccines,Zika Virus Infection,imft,dsyn,9,PREVENTS_IMFTprevDSYN
+C0042210,C0276357,PREVENTS,Vaccines,Swine influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276386,PREVENTS,Vaccines,Oropouche virus disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276447,PREVENTS,Vaccines,Rhinovirus infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276467,PREVENTS,Vaccines,Neonatal calf diarrhea,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276480,PREVENTS,Vaccines,Canine coronaviral gastroenteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0276500,PREVENTS,Vaccines,Human immunodeficiency virus I infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0277528,PREVENTS,Vaccines,Traveler's diarrhea,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0277548,PREVENTS,Vaccines,Epidemic disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0277550,PREVENTS,Vaccines,Endemic Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0277554,PREVENTS,Vaccines,primary disorders,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0277560,PREVENTS,Vaccines,Infantile disease,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C0282312,PREVENTS,Vaccines,Bubonic Plague,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0282687,PREVENTS,Vaccines,"Hemorrhagic Fever, Ebola",imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0302507,PREVENTS,Vaccines,Parainfluenza Virus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0339901,PREVENTS,Vaccines,Acute respiratory infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0343641,PREVENTS,Vaccines,Human papilloma virus infection,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C0376538,PREVENTS,Vaccines,Porcine Reproductive and Respiratory Syndrome,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0042210,C0442886,PREVENTS,Vaccines,Secondary Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0497169,PREVENTS,Vaccines,hiv-infection/aids,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0524688,PREVENTS,Vaccines,Pneumonic Plague,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0599941,PREVENTS,Vaccines,arbovirus disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0694549,PREVENTS,Vaccines,Community acquired pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0729531,PREVENTS,Vaccines,Viral respiratory infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0747820,PREVENTS,Vaccines,antepartum malaria,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0748168,PREVENTS,Vaccines,Pulmonary Pathology,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0796126,PREVENTS,Vaccines,AICARDI-GOUTIERES SYNDROME 1,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0849784,PREVENTS,Vaccines,bacterial diarrhea,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0849867,PREVENTS,Vaccines,Widespread Disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0850666,PREVENTS,Vaccines,Infection caused by Helicobacter pylori,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0851341,PREVENTS,Vaccines,Infestation,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0851901,PREVENTS,Vaccines,Rhinovirus infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0854530,PREVENTS,Vaccines,Infection by human herpesvirus 6,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0856238,PREVENTS,Vaccines,influenza (epidemic),imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0858318,PREVENTS,Vaccines,Plasmodium falciparum infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C0872315,PREVENTS,Vaccines,"Communicable Diseases, Emerging",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0876973,PREVENTS,Vaccines,Infectious disease of lung,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C0877203,PREVENTS,Vaccines,Viral Respiratory Tract Infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1096155,PREVENTS,Vaccines,Macrophage Activation Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1175175,PREVENTS,Vaccines,Severe Acute Respiratory Syndrome,imft,dsyn,25,PREVENTS_IMFTprevDSYN
+C0042210,C1263835,PREVENTS,Vaccines,Infectious disorder of the fetus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1264606,PREVENTS,Vaccines,Persistent infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1290325,PREVENTS,Vaccines,Disorder of lower respiratory system,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1290807,PREVENTS,Vaccines,Diarrheal disorder,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C1320214,PREVENTS,Vaccines,Invasive Streptococcus pneumoniae disease,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0042210,C1443953,PREVENTS,Vaccines,Acute viral disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1698484,PREVENTS,Vaccines,Mucosal Infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C1852551,PREVENTS,Vaccines,Epithelial Recurrent Erosion Dystrophy,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C1868677,PREVENTS,Vaccines,PHOTOPAROXYSMAL RESPONSE 1,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C2076600,PREVENTS,Vaccines,Influenza due to Influenza A virus subtype H1N1,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C2712971,PREVENTS,Vaccines,Enteritis due to Norovirus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C3534585,PREVENTS,Vaccines,Infection caused by Norovirus,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042210,C3687254,PREVENTS,Vaccines,Enteric coronavirus infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C3694279,PREVENTS,Vaccines,Middle East Respiratory Syndrome,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C3873492,PREVENTS,Vaccines,Epidemic gastroenteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042210,C4288963,PREVENTS,Vaccines,Hepatitis C Virus Infection,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042210,C4543807,PREVENTS,Vaccines,Clinical malaria,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042211,C0008049,PREVENTS,"Vaccines, Attenuated",Chickenpox,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0008354,PREVENTS,"Vaccines, Attenuated",Cholera,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0009450,PREVENTS,"Vaccines, Attenuated",Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0013371,PREVENTS,"Vaccines, Attenuated",Shigella Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0014038,PREVENTS,"Vaccines, Attenuated",Encephalitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0017160,PREVENTS,"Vaccines, Attenuated",Gastroenteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0017162,PREVENTS,"Vaccines, Attenuated","Gastroenteritis, Transmissible, of Swine",imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042211,C0019097,PREVENTS,"Vaccines, Attenuated","Hemorrhagic Fever, Argentinian",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0019360,PREVENTS,"Vaccines, Attenuated",Herpes zoster disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0021400,PREVENTS,"Vaccines, Attenuated",Influenza,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042211,C0025007,PREVENTS,"Vaccines, Attenuated",Measles,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0027697,PREVENTS,"Vaccines, Attenuated",Nephritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0032285,PREVENTS,"Vaccines, Attenuated",Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0032371,PREVENTS,"Vaccines, Attenuated",Poliomyelitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0035243,PREVENTS,"Vaccines, Attenuated",Respiratory Tract Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0039006,PREVENTS,"Vaccines, Attenuated",Swine Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0041318,PREVENTS,"Vaccines, Attenuated","Tuberculosis, Meningeal",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0042769,PREVENTS,"Vaccines, Attenuated",Virus Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042211,C0043395,PREVENTS,"Vaccines, Attenuated",Yellow Fever,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0152915,PREVENTS,"Vaccines, Attenuated",Acute miliary tuberculosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0153112,PREVENTS,"Vaccines, Attenuated",Arenaviral hemorrhagic fever,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0205740,PREVENTS,"Vaccines, Attenuated",Canine Distemper,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0206750,PREVENTS,"Vaccines, Attenuated",Coronavirus Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042211,C0264219,PREVENTS,"Vaccines, Attenuated",Acute respiratory disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0276483,PREVENTS,"Vaccines, Attenuated",Infectious bursal disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C0524688,PREVENTS,"Vaccines, Attenuated",Pneumonic Plague,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042211,C1301752,PREVENTS,"Vaccines, Attenuated",Respiratory morbidity,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0009450,PREVENTS,"Vaccines, Inactivated",Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0016052,PREVENTS,"Vaccines, Inactivated",Fibromuscular Dysplasia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0016627,PREVENTS,"Vaccines, Inactivated",Influenza in Birds,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0017160,PREVENTS,"Vaccines, Inactivated",Gastroenteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0021400,PREVENTS,"Vaccines, Inactivated",Influenza,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0042212,C0035243,PREVENTS,"Vaccines, Inactivated",Respiratory Tract Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0042769,PREVENTS,"Vaccines, Inactivated",Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0205882,PREVENTS,"Vaccines, Inactivated","Infections, Parvovirus",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0206750,PREVENTS,"Vaccines, Inactivated",Coronavirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0395866,PREVENTS,"Vaccines, Inactivated",Recurrent acute otitis media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C0743841,PREVENTS,"Vaccines, Inactivated",Disorder characterized by fever,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042212,C1175175,PREVENTS,"Vaccines, Inactivated",Severe Acute Respiratory Syndrome,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0042212,C3694279,PREVENTS,"Vaccines, Inactivated",Middle East Respiratory Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042742,C0030486,PREVENTS,Viral Vaccines,Paraplegia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042742,C0035204,PREVENTS,Viral Vaccines,Respiration Disorders,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042742,C0035400,PREVENTS,Viral Vaccines,Reye Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042742,C0041912,PREVENTS,Viral Vaccines,Upper Respiratory Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042742,C0042769,PREVENTS,Viral Vaccines,Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0042742,C0043528,PREVENTS,Viral Vaccines,Zoonoses,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0062086,C0014541,PREVENTS,Haemophilus influenzae type b polysaccharide vaccine,Epiglottitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0062086,C0032285,PREVENTS,Haemophilus influenzae type b polysaccharide vaccine,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0062086,C0543829,PREVENTS,Haemophilus influenzae type b polysaccharide vaccine,pneumonia clinical,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0065828,C0025007,PREVENTS,Measles-Mumps-Rubella Vaccine,Measles,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0078048,C0019360,PREVENTS,Chickenpox Vaccine,Herpes zoster disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0086413,C1175175,PREVENTS,HIV Vaccine,Severe Acute Respiratory Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0206253,C0872315,PREVENTS,"Vaccines, Combined","Communicable Diseases, Emerging",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0206255,C0024530,PREVENTS,Malaria Vaccines,Malaria,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0206515,C0032269,PREVENTS,"Vaccines, Conjugate",Pneumococcal Infections,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0206515,C2028293,PREVENTS,"Vaccines, Conjugate",Haemophilus influenzae Type b Infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0282580,C0023860,PREVENTS,"Epitopes, T-Lymphocyte",Listeriosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0282580,C1175175,PREVENTS,"Epitopes, T-Lymphocyte",Severe Acute Respiratory Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0282581,C0040558,PREVENTS,"Epitopes, B-Lymphocyte",Toxoplasmosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0301838,C0854268,PREVENTS,Soluble antigen,fetal damage,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0305065,C0032285,PREVENTS,Polyvalent pneumococcal vaccine,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0305065,C0152966,PREVENTS,Polyvalent pneumococcal vaccine,pneumococcal sepsis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0305065,C0442893,PREVENTS,Polyvalent pneumococcal vaccine,Systemic disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0310663,C0003047,PREVENTS,Animal disease vaccine,Animal Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0310663,C0679225,PREVENTS,Animal disease vaccine,multiple pathologies,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358297,C0155866,PREVENTS,Anthrax Vaccines,Inhalational anthrax,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0004096,PREVENTS,Pneumococcal vaccine,Asthma,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0029882,PREVENTS,Pneumococcal vaccine,Otitis Media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0032269,PREVENTS,Pneumococcal vaccine,Pneumococcal Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0358314,C0032285,PREVENTS,Pneumococcal vaccine,Pneumonia,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0358314,C0032300,PREVENTS,Pneumococcal vaccine,Lobar Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0149514,PREVENTS,Pneumococcal vaccine,Acute bronchitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0442886,PREVENTS,Pneumococcal vaccine,Secondary Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0694549,PREVENTS,Pneumococcal vaccine,Community acquired pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C0740304,PREVENTS,Pneumococcal vaccine,copd exacerbation,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0358314,C1320214,PREVENTS,Pneumococcal vaccine,Invasive Streptococcus pneumoniae disease,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0358314,C3837051,PREVENTS,Pneumococcal vaccine,invasive Pneumococcal Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0369952,C0035869,PREVENTS,Rotavirus antigen,Rotavirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0376613,C0006057,PREVENTS,"Vaccines, DNA",Botulism,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0376613,C0009450,PREVENTS,"Vaccines, DNA",Communicable Diseases,imft,dsyn,4,PREVENTS_IMFTprevDSYN
+C0376613,C0035243,PREVENTS,"Vaccines, DNA",Respiratory Tract Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0376613,C0042769,PREVENTS,"Vaccines, DNA",Virus Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0376613,C0221760,PREVENTS,"Vaccines, DNA",brain cyst,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0376613,C0242994,PREVENTS,"Vaccines, DNA",Hantavirus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0376613,C0748168,PREVENTS,"Vaccines, DNA",Pulmonary Pathology,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0376613,C0872315,PREVENTS,"Vaccines, DNA","Communicable Diseases, Emerging",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0456981,C0009450,PREVENTS,Specific antigen,Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0535644,C0012546,PREVENTS,Diphtheria-Tetanus-acellular Pertussis Vaccines,Diphtheria,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0535644,C0039614,PREVENTS,Diphtheria-Tetanus-acellular Pertussis Vaccines,Tetanus,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0535644,C0043167,PREVENTS,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pertussis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0540128,C0348754,PREVENTS,G250 monoclonal antibody,Toxic liver disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0596696,C0729552,PREVENTS,Herpesviridae vaccine,Genital infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0597641,C0017162,PREVENTS,plasmid vaccine,"Gastroenteritis, Transmissible, of Swine",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0597641,C0035235,PREVENTS,plasmid vaccine,Respiratory Syncytial Virus Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0599597,C0010418,PREVENTS,genetic vaccine,Cryptosporidiosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0599934,C0004096,PREVENTS,"Vaccines, Peptide",Asthma,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0656326,C0037354,PREVENTS,DryVax vaccine,Smallpox,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0694750,C0042769,PREVENTS,Rubella/Mumps vaccine,Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0700144,C0025303,PREVENTS,Meningococcal vaccine,Meningococcal Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0700881,C0019159,PREVENTS,Havrix,Hepatitis A,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0718003,C0032371,PREVENTS,"Poliovirus Vaccine, Inactivated",Poliomyelitis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0770694,C0021400,PREVENTS,trivalent influenza vaccine,Influenza,imft,dsyn,5,PREVENTS_IMFTprevDSYN
+C0887892,C0009450,PREVENTS,"Vaccines, Subunit",Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887892,C0019163,PREVENTS,"Vaccines, Subunit",Hepatitis B,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887892,C0021400,PREVENTS,"Vaccines, Subunit",Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887892,C0021933,PREVENTS,"Vaccines, Subunit",Intussusception,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887892,C0042769,PREVENTS,"Vaccines, Subunit",Virus Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0887892,C0276289,PREVENTS,"Vaccines, Subunit",Zika Virus Infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887892,C1175175,PREVENTS,"Vaccines, Subunit",Severe Acute Respiratory Syndrome,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C0887894,C0442886,PREVENTS,Respiratory Syncytial Virus Vaccines,Secondary Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887895,C0043167,PREVENTS,"Vaccines, Acellular",Pertussis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0887902,C0025007,PREVENTS,"Vaccines, Edible",Measles,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0947642,C1320214,PREVENTS,Pneumovax 23,Invasive Streptococcus pneumoniae disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0961101,C0277562,PREVENTS,23-valent pneumococcal capsular polysaccharide vaccine,Adult disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0979582,C0029882,PREVENTS,Pneumococcal 7-valent conjugate vaccine,Otitis Media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C0979582,C0032269,PREVENTS,Pneumococcal 7-valent conjugate vaccine,Pneumococcal Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0979582,C0032285,PREVENTS,Pneumococcal 7-valent conjugate vaccine,Pneumonia,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C0979582,C1320214,PREVENTS,Pneumococcal 7-valent conjugate vaccine,Invasive Streptococcus pneumoniae disease,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1291777,C0009450,PREVENTS,Protein antigen,Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1320239,C3662483,PREVENTS,Food allergen,Allergic sensitization,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1449622,C0042769,PREVENTS,Plantibodies,Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1456404,C0339952,PREVENTS,Trivalent Live Attenuated Influenza Vaccine,Secondary bacterial pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1512318,C0343641,PREVENTS,HPV 16 L1-VLP,Human papilloma virus infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1514218,C0014335,PREVENTS,Polyvalent Vaccine,Enteritis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1514218,C0021400,PREVENTS,Polyvalent Vaccine,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1514218,C0025007,PREVENTS,Polyvalent Vaccine,Measles,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1514218,C0025303,PREVENTS,Polyvalent Vaccine,Meningococcal Infections,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1516086,C0282192,PREVENTS,Attenuated Live Virus Vaccine,"Hemorrhagic Fever, Bolivian",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1519887,C0009450,PREVENTS,Vaccine Antigen,Communicable Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1519887,C0021400,PREVENTS,Vaccine Antigen,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1519887,C0524688,PREVENTS,Vaccine Antigen,Pneumonic Plague,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1519904,C0042769,PREVENTS,Vaccinia Vaccine,Virus Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1520145,C0043167,PREVENTS,Whole Cell Vaccine,Pertussis,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1520145,C0282312,PREVENTS,Whole Cell Vaccine,Bubonic Plague,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1520145,C0524688,PREVENTS,Whole Cell Vaccine,Pneumonic Plague,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1520145,C1263835,PREVENTS,Whole Cell Vaccine,Infectious disorder of the fetus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1528012,C0017160,PREVENTS,Rotarix,Gastroenteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1528013,C0017160,PREVENTS,RotaTeq,Gastroenteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1548478,C0028961,PREVENTS,hantavirus vaccine,Oliguria,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1579319,C0029882,PREVENTS,Pneumococcal conjugate vaccine,Otitis Media,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1579319,C0032269,PREVENTS,Pneumococcal conjugate vaccine,Pneumococcal Infections,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C1579319,C0032285,PREVENTS,Pneumococcal conjugate vaccine,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1579319,C0038826,PREVENTS,Pneumococcal conjugate vaccine,Superinfection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1579319,C0277562,PREVENTS,Pneumococcal conjugate vaccine,Adult disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1579319,C0694549,PREVENTS,Pneumococcal conjugate vaccine,Community acquired pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1579319,C1320214,PREVENTS,Pneumococcal conjugate vaccine,Invasive Streptococcus pneumoniae disease,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1699926,C0752304,PREVENTS,fingolimod,Hypoxic-Ischemic Encephalopathy,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1720918,C0019360,PREVENTS,Herpes Zoster Vaccine,Herpes zoster disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1720919,C0019360,PREVENTS,Zostavax,Herpes zoster disease,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1720919,C0032768,PREVENTS,Zostavax,Postherpetic neuralgia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1721787,C0009663,PREVENTS,Gardasil,Condylomata Acuminata,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C1721789,C0343641,PREVENTS,Cervarix,Human papilloma virus infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1883036,C0009450,PREVENTS,Single-Chain Antibodies,Communicable Diseases,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1883036,C0042769,PREVENTS,Single-Chain Antibodies,Virus Diseases,imft,dsyn,3,PREVENTS_IMFTprevDSYN
+C1883036,C0276500,PREVENTS,Single-Chain Antibodies,Human immunodeficiency virus I infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C1883036,C2712971,PREVENTS,Single-Chain Antibodies,Enteritis due to Norovirus,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2352429,C1282998,PREVENTS,imvamune,Human monkeypox,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2825347,C0009450,PREVENTS,"Immunoglobulin A, Human",Communicable Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C2825347,C0014335,PREVENTS,"Immunoglobulin A, Human",Enteritis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2825347,C0017162,PREVENTS,"Immunoglobulin A, Human","Gastroenteritis, Transmissible, of Swine",imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2825347,C0031350,PREVENTS,"Immunoglobulin A, Human",Pharyngitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2825347,C0042769,PREVENTS,"Immunoglobulin A, Human",Virus Diseases,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C2825347,C1096155,PREVENTS,"Immunoglobulin A, Human",Macrophage Activation Syndrome,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2825347,C1112734,PREVENTS,"Immunoglobulin A, Human",gastric infection,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C2825347,C1698484,PREVENTS,"Immunoglobulin A, Human",Mucosal Infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C2986386,C0854706,PREVENTS,Virus-neutralizing Antibody,neonatal infection,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C3152625,C0021400,PREVENTS,Pneumococcal 13-valent conjugate vaccine,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3152625,C0032269,PREVENTS,Pneumococcal 13-valent conjugate vaccine,Pneumococcal Infections,imft,dsyn,2,PREVENTS_IMFTprevDSYN
+C3152625,C0032285,PREVENTS,Pneumococcal 13-valent conjugate vaccine,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3178367,C0042749,PREVENTS,MVA vaccine,Viremia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3257575,C0019360,PREVENTS,Live Attenuated Herpes Zoster Virus Vaccine [EPC],Herpes zoster disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3257575,C0032768,PREVENTS,Live Attenuated Herpes Zoster Virus Vaccine [EPC],Postherpetic neuralgia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3272757,C0021400,PREVENTS,Live Attenuated Influenza Vaccine,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3273243,C0004610,PREVENTS,Polysaccharide Vaccine,Bacteremia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3273243,C0032285,PREVENTS,Polysaccharide Vaccine,Pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3273243,C0694549,PREVENTS,Polysaccharide Vaccine,Community acquired pneumonia,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3273243,C1320214,PREVENTS,Polysaccharide Vaccine,Invasive Streptococcus pneumoniae disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3493632,C0025289,PREVENTS,MenAfriVac,Meningitis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3526553,C0043167,PREVENTS,"diphtheria, tetanus toxoids and acellular pertussis vaccine",Pertussis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3849486,C0021400,PREVENTS,10-valent pneumococcal conjugate vaccine,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C3849486,C1320214,PREVENTS,10-valent pneumococcal conjugate vaccine,Invasive Streptococcus pneumoniae disease,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C4276833,C0040558,PREVENTS,glucopyranosyl lipid-A,Toxoplasmosis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C4505396,C0021400,PREVENTS,High-Dose Trivalent Influenza Vaccine,Influenza,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C4524703,C0750151,PREVENTS,Crizanlizumab,Vaso-Occlusive Crisis,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C4541385,C0019163,PREVENTS,Heplisav-B,Hepatitis B,imft,dsyn,1,PREVENTS_IMFTprevDSYN
+C4549503,C0149931,PREVENTS,fremanezumab,Migraine Disorders,imft,dsyn,1,PREVENTS_IMFTprevDSYN

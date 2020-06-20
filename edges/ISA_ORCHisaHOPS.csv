@@ -1,0 +1,110 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0002771,ISA,Acetaminophen,Analgesics,orch,hops,20,ISA_ORCHisaHOPS
+C0001159,C0032346,ISA,Aconitine,Poisons,orch,hops,1,ISA_ORCHisaHOPS
+C0001962,C0028470,ISA,Ethanol,Noxae,orch,hops,1,ISA_ORCHisaHOPS
+C0001962,C0687130,ISA,Ethanol,Substance of abuse,orch,hops,1,ISA_ORCHisaHOPS
+C0002026,C0242402,ISA,Alfentanil,Opioids,orch,hops,1,ISA_ORCHisaHOPS
+C0002072,C0002073,ISA,Alkanesulfonates,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0002772,C0002771,ISA,"Analgesics, Opioid",Analgesics,orch,hops,4,ISA_ORCHisaHOPS
+C0004057,C0002771,ISA,Aspirin,Analgesics,orch,hops,3,ISA_ORCHisaHOPS
+C0006405,C0002771,ISA,Buprenorphine,Analgesics,orch,hops,3,ISA_ORCHisaHOPS
+C0007257,C0002073,ISA,Carmustine,Alkylating Agents,orch,hops,2,ISA_ORCHisaHOPS
+C0008163,C0002073,ISA,Chlorambucil,Alkylating Agents,orch,hops,6,ISA_ORCHisaHOPS
+C0008163,C0028165,ISA,Chlorambucil,Nitrogen Mustard Compounds,orch,hops,1,ISA_ORCHisaHOPS
+C0008164,C0444414,ISA,Chloramines,Biocides,orch,hops,2,ISA_ORCHisaHOPS
+C0008932,C0014417,ISA,Clenbuterol,Environmental Pollutants,orch,hops,1,ISA_ORCHisaHOPS
+C0009214,C0221793,ISA,Codeine,Opiate Alkaloids,orch,hops,4,ISA_ORCHisaHOPS
+C0009214,C0242402,ISA,Codeine,Opioids,orch,hops,2,ISA_ORCHisaHOPS
+C0009214,C0376196,ISA,Codeine,Opiates,orch,hops,1,ISA_ORCHisaHOPS
+C0009262,C0032346,ISA,Colchicine,Poisons,orch,hops,1,ISA_ORCHisaHOPS
+C0010583,C0002073,ISA,Cyclophosphamide,Alkylating Agents,orch,hops,16,ISA_ORCHisaHOPS
+C0010583,C0028165,ISA,Cyclophosphamide,Nitrogen Mustard Compounds,orch,hops,1,ISA_ORCHisaHOPS
+C0011816,C0221793,ISA,Dextromethorphan,Opiate Alkaloids,orch,hops,1,ISA_ORCHisaHOPS
+C0012306,C0242402,ISA,Hydromorphone,Opioids,orch,hops,1,ISA_ORCHisaHOPS
+C0015133,C0032346,ISA,Etoposide,Poisons,orch,hops,1,ISA_ORCHisaHOPS
+C0015846,C0002771,ISA,Fentanyl,Analgesics,orch,hops,4,ISA_ORCHisaHOPS
+C0015846,C0027415,ISA,Fentanyl,Narcotics,orch,hops,4,ISA_ORCHisaHOPS
+C0015846,C0242402,ISA,Fentanyl,Opioids,orch,hops,1,ISA_ORCHisaHOPS
+C0015846,C0376196,ISA,Fentanyl,Opiates,orch,hops,1,ISA_ORCHisaHOPS
+C0019873,C0026879,ISA,Ethidium Bromide,Mutagens,orch,hops,7,ISA_ORCHisaHOPS
+C0020264,C0002771,ISA,Hydrocodone,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0020264,C0027415,ISA,Hydrocodone,Narcotics,orch,hops,1,ISA_ORCHisaHOPS
+C0020264,C0221793,ISA,Hydrocodone,Opiate Alkaloids,orch,hops,1,ISA_ORCHisaHOPS
+C0020740,C0002771,ISA,Ibuprofen,Analgesics,orch,hops,3,ISA_ORCHisaHOPS
+C0020823,C0002073,ISA,Ifosfamide,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0022322,C0021576,ISA,Ivermectin,Insecticides,orch,hops,1,ISA_ORCHisaHOPS
+C0022614,C0002771,ISA,Ketamine,Analgesics,orch,hops,2,ISA_ORCHisaHOPS
+C0022635,C0002771,ISA,Ketoprofen,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0023660,C0002771,ISA,Lidocaine,Analgesics,orch,hops,3,ISA_ORCHisaHOPS
+C0023810,C0014264,ISA,Lipopolysaccharides,Endotoxins,orch,hops,120,ISA_ORCHisaHOPS
+C0023992,C0242402,ISA,Loperamide,Opioids,orch,hops,2,ISA_ORCHisaHOPS
+C0025605,C0027415,ISA,Methadone,Narcotics,orch,hops,2,ISA_ORCHisaHOPS
+C0025677,C0002583,ISA,Methotrexate,Aminopterin,orch,hops,2,ISA_ORCHisaHOPS
+C0026549,C0002771,ISA,Morphine,Analgesics,orch,hops,3,ISA_ORCHisaHOPS
+C0026549,C0027415,ISA,Morphine,Narcotics,orch,hops,2,ISA_ORCHisaHOPS
+C0026549,C0221793,ISA,Morphine,Opiate Alkaloids,orch,hops,2,ISA_ORCHisaHOPS
+C0026549,C0242402,ISA,Morphine,Opioids,orch,hops,1,ISA_ORCHisaHOPS
+C0026549,C0376196,ISA,Morphine,Opiates,orch,hops,1,ISA_ORCHisaHOPS
+C0028017,C0026392,ISA,Niclosamide,Molluscacides,orch,hops,2,ISA_ORCHisaHOPS
+C0028067,C0002771,ISA,Niflumic Acid,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0028210,C0002073,ISA,Nitrosourea Compounds,Alkylating Agents,orch,hops,4,ISA_ORCHisaHOPS
+C0028210,C0007090,ISA,Nitrosourea Compounds,Carcinogens,orch,hops,1,ISA_ORCHisaHOPS
+C0028426,C0221793,ISA,Noscapine,Opiate Alkaloids,orch,hops,1,ISA_ORCHisaHOPS
+C0030049,C0027415,ISA,Oxycodone,Narcotics,orch,hops,1,ISA_ORCHisaHOPS
+C0030350,C0221793,ISA,Papaverine,Opiate Alkaloids,orch,hops,1,ISA_ORCHisaHOPS
+C0033223,C0002073,ISA,Procarbazine,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0036075,C0002771,ISA,salicylate,Analgesics,orch,hops,2,ISA_ORCHisaHOPS
+C0040383,C0005036,ISA,Toluene,Benzene,orch,hops,6,ISA_ORCHisaHOPS
+C0040610,C0242402,ISA,Tramadol,Opioids,orch,hops,1,ISA_ORCHisaHOPS
+C0052745,C0021576,ISA,azadirachtin,Insecticides,orch,hops,1,ISA_ORCHisaHOPS
+C0053258,C0009170,ISA,Benzoylecgonine,Cocaine,orch,hops,1,ISA_ORCHisaHOPS
+C0053546,C0019236,ISA,bialaphos,Herbicides,orch,hops,2,ISA_ORCHisaHOPS
+C0054038,C0242402,ISA,bremazocine,Opioids,orch,hops,1,ISA_ORCHisaHOPS
+C0054827,C0002771,ISA,carprofen,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0054876,C0682880,ISA,cathinone,Psychoactive substance,orch,hops,1,ISA_ORCHisaHOPS
+C0057165,C0444414,ISA,dazomet,Biocides,orch,hops,1,ISA_ORCHisaHOPS
+C0066333,C0007090,ISA,methylazoxymethanol,Carcinogens,orch,hops,1,ISA_ORCHisaHOPS
+C0066646,C0021576,ISA,abamectin,Insecticides,orch,hops,1,ISA_ORCHisaHOPS
+C0066776,C0014264,ISA,monophosphoryl lipid A,Endotoxins,orch,hops,2,ISA_ORCHisaHOPS
+C0066814,C0027415,ISA,Morphine Sulfate,Narcotics,orch,hops,1,ISA_ORCHisaHOPS
+C0068820,C0003036,ISA,nitroaniline,Aniline,orch,hops,1,ISA_ORCHisaHOPS
+C0070222,C0019236,ISA,pendimethalin,Herbicides,orch,hops,1,ISA_ORCHisaHOPS
+C0070302,C0019453,ISA,pentamethylmelamine,Altretamine,orch,hops,1,ISA_ORCHisaHOPS
+C0070742,C0221793,ISA,pholcodine,Opiate Alkaloids,orch,hops,1,ISA_ORCHisaHOPS
+C0071530,C4277576,ISA,Polychlorodibenzo-4-dioxin,Polychlorinated Dibenzodioxins,orch,hops,1,ISA_ORCHisaHOPS
+C0072652,C0002771,ISA,pyranoprofen,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0075577,C0019236,ISA,sulfometuron methyl,Herbicides,orch,hops,1,ISA_ORCHisaHOPS
+C0076080,C0002073,ISA,temozolomide,Alkylating Agents,orch,hops,6,ISA_ORCHisaHOPS
+C0076299,C0035805,ISA,tetramethylenedisulfotetramine,Rodenticides,orch,hops,3,ISA_ORCHisaHOPS
+C0078187,C0026955,ISA,verrucarol,Mycotoxins,orch,hops,1,ISA_ORCHisaHOPS
+C0078433,C0007991,ISA,methylphosphonothioic acid S-(2-(bis(1-methylethyl)amino)ethyl) O-ethyl ester,Chemical Warfare Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0083381,C0002771,ISA,meloxicam,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0085181,C0026955,ISA,Aflatoxin M1,Mycotoxins,orch,hops,1,ISA_ORCHisaHOPS
+C0113293,C0002771,ISA,Dexmedetomidine,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C0136960,C0031253,ISA,phthalates,Pesticides,orch,hops,2,ISA_ORCHisaHOPS
+C0166979,C0014417,ISA,dimethyl mercury,Environmental Pollutants,orch,hops,1,ISA_ORCHisaHOPS
+C0175964,C0007090,ISA,Trichlorophenol,Carcinogens,orch,hops,1,ISA_ORCHisaHOPS
+C0246631,C0242402,ISA,remifentanil,Opioids,orch,hops,3,ISA_ORCHisaHOPS
+C0279151,C0002073,ISA,DHEA mustard,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0282108,C0009170,ISA,Cocaine Hydrochloride,Cocaine,orch,hops,1,ISA_ORCHisaHOPS
+C0388976,C0002073,ISA,Ecteinascidin 743,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0525079,C0002073,ISA,bendamustine,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0678476,C0009170,ISA,coca paste,Cocaine,orch,hops,1,ISA_ORCHisaHOPS
+C0687700,C0002073,ISA,CCNU,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0699129,C0043031,ISA,Coumadin,Warfarin,orch,hops,2,ISA_ORCHisaHOPS
+C0699279,C0004482,ISA,Imuran,Azathioprine,orch,hops,3,ISA_ORCHisaHOPS
+C0699321,C0002073,ISA,Neosar,Alkylating Agents,orch,hops,1,ISA_ORCHisaHOPS
+C0700191,C0032334,ISA,Vepesid,podofilox,orch,hops,1,ISA_ORCHisaHOPS
+C0700702,C0027934,ISA,Botox,Neurotoxins,orch,hops,1,ISA_ORCHisaHOPS
+C0876117,C0024547,ISA,Ovide,Malathion,orch,hops,1,ISA_ORCHisaHOPS
+C0939273,C0006463,ISA,Busulfex,Busulfan,orch,hops,1,ISA_ORCHisaHOPS
+C0961664,C0032334,ISA,picropodophyllin,podofilox,orch,hops,1,ISA_ORCHisaHOPS
+C1135145,C0039736,ISA,Revlimid,Thalidomide,orch,hops,1,ISA_ORCHisaHOPS
+C1173231,C0019236,ISA,glufosinate,Herbicides,orch,hops,1,ISA_ORCHisaHOPS
+C1257954,C0002771,ISA,Cyclooxygenase 2 Inhibitors,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C1743345,C0002771,ISA,noraminophenazone,Analgesics,orch,hops,1,ISA_ORCHisaHOPS
+C1869561,C0031253,ISA,Rynaxypyr,Pesticides,orch,hops,1,ISA_ORCHisaHOPS
+C2347624,C0039736,ISA,pomalidomide,Thalidomide,orch,hops,1,ISA_ORCHisaHOPS
+C2728259,C0021576,ISA,Program,Insecticides,orch,hops,1,ISA_ORCHisaHOPS
+C2728259,C0444414,ISA,Program,Biocides,orch,hops,6,ISA_ORCHisaHOPS
+C2962502,C0002771,ISA,Metacam,Analgesics,orch,hops,1,ISA_ORCHisaHOPS

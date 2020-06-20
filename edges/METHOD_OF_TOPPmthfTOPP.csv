@@ -1,0 +1,919 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0042196,METHOD_OF,"Administration, Intranasal",Vaccination,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0001563,C0006042,METHOD_OF,"Administration, Oral",Bottle feeding,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0001563,C0017296,METHOD_OF,"Administration, Oral",gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001563,C0020971,METHOD_OF,"Administration, Oral",Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001563,C0020974,METHOD_OF,"Administration, Oral",passive immunization procedure,topp,topp,8,METHOD_OF_TOPPmthfTOPP
+C0001563,C0035139,METHOD_OF,"Administration, Oral",Surgical Replantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0001563,C0042196,METHOD_OF,"Administration, Oral",Vaccination,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0001563,C0052712,METHOD_OF,"Administration, Oral",doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001563,C0199176,METHOD_OF,"Administration, Oral",Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0001563,C0199779,METHOD_OF,"Administration, Oral",Administration of antibiotic,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001563,C0949266,METHOD_OF,"Administration, Oral","Therapies, Investigational",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001563,C1511790,METHOD_OF,"Administration, Oral",Detection,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0001563,C2242628,METHOD_OF,"Administration, Oral",Fecal Microbiota Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001566,C0009429,METHOD_OF,"Administration, Topical",Combined Modality Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0001566,C0678812,METHOD_OF,"Administration, Topical",systemic administration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002766,C0199470,METHOD_OF,Pain management,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002766,C0752151,METHOD_OF,Pain management,"Thoracic Surgery, Video-Assisted",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002769,C0002766,METHOD_OF,"Analgesia, Epidural",Pain management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002769,C0002915,METHOD_OF,"Analgesia, Epidural",General Anesthesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002804,C1293556,METHOD_OF,Roux-en-Y Anastomosis,Biliary tract reconstruction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C0007876,METHOD_OF,Anesthesia procedures,Cesarean section,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0002903,C0011079,METHOD_OF,Anesthesia procedures,Debridement,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C0021932,METHOD_OF,Anesthesia procedures,"Intubation, Intratracheal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C0022100,METHOD_OF,Anesthesia procedures,Irrigation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C0040732,METHOD_OF,Anesthesia procedures,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C0405956,METHOD_OF,Anesthesia procedures,Operation on pleural cavity,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C0543467,METHOD_OF,Anesthesia procedures,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002903,C2349740,METHOD_OF,Anesthesia procedures,Non-invasive mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002913,C0007876,METHOD_OF,Epidural Anesthesia,Cesarean section,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0010055,METHOD_OF,General Anesthesia,Coronary Artery Bypass Surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0010408,METHOD_OF,General Anesthesia,Cryosurgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0017296,METHOD_OF,General Anesthesia,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0020944,METHOD_OF,General Anesthesia,Immobilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0035139,METHOD_OF,General Anesthesia,Surgical Replantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0002915,C0038904,METHOD_OF,General Anesthesia,Minor Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0189381,METHOD_OF,General Anesthesia,Bronchial Lavage,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0206058,METHOD_OF,General Anesthesia,Elective Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0600406,METHOD_OF,General Anesthesia,venipuncture,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C0679637,METHOD_OF,General Anesthesia,major surgery,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0002915,C0869904,METHOD_OF,General Anesthesia,Obstetric procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002915,C1293130,METHOD_OF,General Anesthesia,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002928,C0007876,METHOD_OF,Spinal Anesthesia,Cesarean section,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0002996,C0162577,METHOD_OF,"Angioplasty, Balloon",Angioplasty,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0004933,C0005961,METHOD_OF,Behavior Therapy,Bone Marrow Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0004933,C0040732,METHOD_OF,Behavior Therapy,Transplantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0004933,C0040739,METHOD_OF,Behavior Therapy,"Transplantation, Homologous",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0004933,C0199176,METHOD_OF,Behavior Therapy,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0004933,C0472699,METHOD_OF,Behavior Therapy,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0004933,C2242529,METHOD_OF,Behavior Therapy,Allogeneic Stem Cell Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0004933,C4255274,METHOD_OF,Behavior Therapy,allogeneic hematopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005841,C0011946,METHOD_OF,Blood Transfusion,Dialysis procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005841,C0029216,METHOD_OF,Blood Transfusion,Organ Transplantation,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0005841,C0037297,METHOD_OF,Blood Transfusion,Skin Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005841,C0040732,METHOD_OF,Blood Transfusion,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005841,C0199176,METHOD_OF,Blood Transfusion,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0005841,C1293116,METHOD_OF,Blood Transfusion,Introduction procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0005841,C1293130,METHOD_OF,Blood Transfusion,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005841,C1511790,METHOD_OF,Blood Transfusion,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005842,C0019144,METHOD_OF,"Blood Transfusion, Autologous",Hepatectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005857,C0032134,METHOD_OF,Bloodletting,Plasmapheresis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005976,C0037935,METHOD_OF,Bone Transplantation,Spinal fusion (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0005976,C0524852,METHOD_OF,Bone Transplantation,Orthopedic Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007202,C0018821,METHOD_OF,Cardiopulmonary Bypass,Cardiac Surgery procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007202,C0038897,METHOD_OF,Cardiopulmonary Bypass,Cardiovascular Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007203,C1511790,METHOD_OF,Cardiopulmonary Resuscitation,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007344,C0002913,METHOD_OF,Castration,Epidural Anesthesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007344,C0185115,METHOD_OF,Castration,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007471,C0185115,METHOD_OF,Cauterization - action,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007876,C0034386,METHOD_OF,Cesarean section,Quarantine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007876,C0195696,METHOD_OF,Cesarean section,Obstetrics manipulation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007876,C0199176,METHOD_OF,Cesarean section,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0007876,C0282638,METHOD_OF,Cesarean section,Antibiotic Prophylaxis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007876,C0391874,METHOD_OF,Cesarean section,Manual extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0007876,C0679699,METHOD_OF,Cesarean section,Secondary Prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0008819,C0150413,METHOD_OF,Male Circumcision,HIV prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0008971,C0011946,METHOD_OF,Clinical Protocols,Dialysis procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0009068,C0009410,METHOD_OF,Closure by suture,Colostomy Procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0009068,C0015252,METHOD_OF,Closure by suture,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0009244,C0035139,METHOD_OF,Cognitive Therapy,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0009429,C0199176,METHOD_OF,Combined Modality Therapy,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0009429,C0279023,METHOD_OF,Combined Modality Therapy,chemosensitization/potentiation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0009429,C0280604,METHOD_OF,Combined Modality Therapy,altretamine/cisplatin/cyclophosphamide protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0010280,C0185010,METHOD_OF,Craniotomy,Closure by clip procedure,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0010280,C0195775,METHOD_OF,Craniotomy,Operation on brain,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0010280,C1282573,METHOD_OF,Craniotomy,Evacuation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0010408,C0185115,METHOD_OF,Cryosurgery,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0010408,C0199176,METHOD_OF,Cryosurgery,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0010468,C0002915,METHOD_OF,Curettage procedure,General Anesthesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0011079,C0543467,METHOD_OF,Debridement,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0011121,C2987620,METHOD_OF,Decontamination,Inoculation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0011121,C4520447,METHOD_OF,Decontamination,Decolonization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0011946,C0019014,METHOD_OF,Dialysis procedure,Hemofiltration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0011946,C0020971,METHOD_OF,Dialysis procedure,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0011946,C0185115,METHOD_OF,Dialysis procedure,Extraction,topp,topp,6,METHOD_OF_TOPPmthfTOPP
+C0011946,C0206074,METHOD_OF,Dialysis procedure,Renal Replacement Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0012002,C0543467,METHOD_OF,Diathermy,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0012683,C0152054,METHOD_OF,Disinfection,Therapeutic tactile stimulation,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0012683,C0185115,METHOD_OF,Disinfection,Extraction,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0012737,C1511790,METHOD_OF,Tissue Dissection,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013103,C0189559,METHOD_OF,Drainage procedure,Chemical pleurodesis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013103,C0741847,METHOD_OF,Drainage procedure,Bypass,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C0015250,METHOD_OF,Pharmacotherapy,Complete excision,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C0037995,METHOD_OF,Pharmacotherapy,Splenectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C0042196,METHOD_OF,Pharmacotherapy,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C0199176,METHOD_OF,Pharmacotherapy,Prophylactic treatment,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0013216,C0472699,METHOD_OF,Pharmacotherapy,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C0679637,METHOD_OF,Pharmacotherapy,major surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C0920425,METHOD_OF,Pharmacotherapy,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013216,C3850079,METHOD_OF,Pharmacotherapy,Cytoreductive Surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013218,C0035052,METHOD_OF,Combination Drug Therapy,Remission Induction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013806,C0079613,METHOD_OF,Electroconvulsive Therapy,Adoptive Immunotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0013931,C0023690,METHOD_OF,"Embolization, Therapeutic",Ligation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015250,C0015252,METHOD_OF,Complete excision,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015252,C0023690,METHOD_OF,removal technique,Ligation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015252,C0035139,METHOD_OF,removal technique,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015252,C0037297,METHOD_OF,removal technique,Skin Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015252,C0185115,METHOD_OF,removal technique,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0015357,C0185115,METHOD_OF,Extracorporeal Membrane Oxygenation,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015357,C0344211,METHOD_OF,Extracorporeal Membrane Oxygenation,Supportive care,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0015915,C0204727,METHOD_OF,Fertilization in Vitro,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0016286,C0035273,METHOD_OF,Fluid Therapy,Resuscitation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0016286,C0040808,METHOD_OF,Fluid Therapy,Treatment Protocols,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017196,C0086225,METHOD_OF,Gastrostomy,Enteral Feeding,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0020974,METHOD_OF,gene therapy,passive immunization procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0021083,METHOD_OF,gene therapy,Immunotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0035139,METHOD_OF,gene therapy,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0040732,METHOD_OF,gene therapy,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0152060,METHOD_OF,gene therapy,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0376495,METHOD_OF,gene therapy,Retreatments,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0920425,METHOD_OF,gene therapy,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C0947647,METHOD_OF,gene therapy,Manipulation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C1511790,METHOD_OF,gene therapy,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C1515035,METHOD_OF,gene therapy,Suicide Gene Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0017296,C3275122,METHOD_OF,gene therapy,Pacemaker Procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0018807,C0007203,METHOD_OF,Heart Massage,Cardiopulmonary Resuscitation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0018821,C0280604,METHOD_OF,Cardiac Surgery procedures,altretamine/cisplatin/cyclophosphamide protocol,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0019004,C0011946,METHOD_OF,Hemodialysis,Dialysis procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0019004,C0185115,METHOD_OF,Hemodialysis,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0019004,C0206074,METHOD_OF,Hemodialysis,Renal Replacement Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0019004,C0206075,METHOD_OF,Hemodialysis,Hemodiafiltration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0019063,C0185115,METHOD_OF,Hemoperfusion,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0019144,C0679700,METHOD_OF,Hepatectomy,Tertiary Prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020548,C0920425,METHOD_OF,Induced Hyperthermia,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020699,C0000820,METHOD_OF,Hysterectomy,Therapeutic abortion (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020699,C0035139,METHOD_OF,Hysterectomy,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020699,C0042196,METHOD_OF,Hysterectomy,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020699,C0204727,METHOD_OF,Hysterectomy,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020711,C0000820,METHOD_OF,Hysterotomy,Therapeutic abortion (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020944,C0042196,METHOD_OF,Immobilization,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020944,C0152060,METHOD_OF,Immobilization,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020944,C0185115,METHOD_OF,Immobilization,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020944,C1511790,METHOD_OF,Immobilization,Detection,topp,topp,7,METHOD_OF_TOPPmthfTOPP
+C0020971,C0001560,METHOD_OF,Immunization,"Administration, Intranasal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0013216,METHOD_OF,Immunization,Pharmacotherapy,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0020971,C0020972,METHOD_OF,Immunization,Immunization Schedule,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0020975,METHOD_OF,Immunization,Secondary Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0033144,METHOD_OF,Immunization,Primary Prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0034386,METHOD_OF,Immunization,Quarantine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0040808,METHOD_OF,Immunization,Treatment Protocols,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0042196,METHOD_OF,Immunization,Vaccination,topp,topp,11,METHOD_OF_TOPPmthfTOPP
+C0020971,C0042200,METHOD_OF,Immunization,Influenza vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0057163,METHOD_OF,Immunization,DAV regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0199176,METHOD_OF,Immunization,Prophylactic treatment,topp,topp,8,METHOD_OF_TOPPmthfTOPP
+C0020971,C0683174,METHOD_OF,Immunization,topical application,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C0700589,METHOD_OF,Immunization,Contraceptive methods,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020971,C1511790,METHOD_OF,Immunization,Detection,topp,topp,6,METHOD_OF_TOPPmthfTOPP
+C0020971,C2348331,METHOD_OF,Immunization,Dose Regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020972,C0021485,METHOD_OF,Immunization Schedule,Injection of therapeutic agent,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020972,C0042196,METHOD_OF,Immunization Schedule,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020974,C0020971,METHOD_OF,passive immunization procedure,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020974,C0199176,METHOD_OF,passive immunization procedure,Prophylactic treatment,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0020975,C0020971,METHOD_OF,Secondary Immunization,Immunization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0020975,C0042196,METHOD_OF,Secondary Immunization,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020975,C0071973,METHOD_OF,Secondary Immunization,Ifosfamide/Methotrexate/Procarbazine protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0020975,C1511790,METHOD_OF,Secondary Immunization,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021079,C0018823,METHOD_OF,Therapeutic immunosuppression,Heart Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021079,C0022671,METHOD_OF,Therapeutic immunosuppression,Kidney Transplantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021079,C0029216,METHOD_OF,Therapeutic immunosuppression,Organ Transplantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021079,C0040732,METHOD_OF,Therapeutic immunosuppression,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021079,C0199176,METHOD_OF,Therapeutic immunosuppression,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021079,C0472699,METHOD_OF,Therapeutic immunosuppression,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021083,C0020971,METHOD_OF,Immunotherapy,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021083,C0199176,METHOD_OF,Immunotherapy,Prophylactic treatment,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0021083,C0280118,METHOD_OF,Immunotherapy,infection prophylaxis/management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021083,C0920425,METHOD_OF,Immunotherapy,cancer therapy,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0021083,C0920467,METHOD_OF,Immunotherapy,disorder control (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021083,C4289797,METHOD_OF,Immunotherapy,Chimeric Antigen Receptor T-Cell Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0017296,METHOD_OF,Implantation procedure,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0025991,METHOD_OF,Implantation procedure,Microinjections,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0035139,METHOD_OF,Implantation procedure,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0052712,METHOD_OF,Implantation procedure,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0087123,METHOD_OF,Implantation procedure,Tympanostomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0280603,METHOD_OF,Implantation procedure,fluorouracil/methotrexate protocol,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021107,C0349707,METHOD_OF,Implantation procedure,Aspiration-action,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0436307,METHOD_OF,Implantation procedure,Chemoradiotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0472473,METHOD_OF,Implantation procedure,Topical local anesthetic,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0600080,METHOD_OF,Implantation procedure,Stretching exercises,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C0947647,METHOD_OF,Implantation procedure,Manipulation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C1293116,METHOD_OF,Implantation procedure,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C1293130,METHOD_OF,Implantation procedure,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021107,C1511790,METHOD_OF,Implantation procedure,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021440,C0032042,METHOD_OF,Intravenous infusion procedures,Placebos,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021485,C0017296,METHOD_OF,Injection of therapeutic agent,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021485,C0020971,METHOD_OF,Injection of therapeutic agent,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021485,C0042196,METHOD_OF,Injection of therapeutic agent,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021485,C0199176,METHOD_OF,Injection of therapeutic agent,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021489,C0042196,METHOD_OF,intradermal injection,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021489,C0063264,METHOD_OF,intradermal injection,Cisplatin/Doxorubicin/Ifosfamide protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021489,C0730246,METHOD_OF,intradermal injection,Viral immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021489,C1697762,METHOD_OF,intradermal injection,Booster Immunization - ActSubstanceAdministrationCode,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021493,C0001560,METHOD_OF,"Injections, Intraperitoneal","Administration, Intranasal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021493,C0002903,METHOD_OF,"Injections, Intraperitoneal",Anesthesia procedures,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0021493,C0020971,METHOD_OF,"Injections, Intraperitoneal",Immunization,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0021493,C0020974,METHOD_OF,"Injections, Intraperitoneal",passive immunization procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021493,C0020975,METHOD_OF,"Injections, Intraperitoneal",Secondary Immunization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021493,C0032042,METHOD_OF,"Injections, Intraperitoneal",Placebos,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0021493,C0042196,METHOD_OF,"Injections, Intraperitoneal",Vaccination,topp,topp,7,METHOD_OF_TOPPmthfTOPP
+C0021493,C0065764,METHOD_OF,"Injections, Intraperitoneal",bleomycin/cisplatin/methotrexate protocol,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0021493,C0204727,METHOD_OF,"Injections, Intraperitoneal",Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021493,C0543467,METHOD_OF,"Injections, Intraperitoneal",Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021493,C0849679,METHOD_OF,"Injections, Intraperitoneal",blood injection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021493,C1704535,METHOD_OF,"Injections, Intraperitoneal",Passive Method,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021587,C0947647,METHOD_OF,Artificial Insemination,Manipulation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021778,C0199470,METHOD_OF,Intermittent Positive-Pressure Ventilation,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021925,C0002903,METHOD_OF,Intubation,Anesthesia procedures,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021925,C0002915,METHOD_OF,Intubation,General Anesthesia,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021925,C0011946,METHOD_OF,Intubation,Dialysis procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021925,C0015354,METHOD_OF,Intubation,Extracorporeal Circulation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021925,C0035205,METHOD_OF,Intubation,"Respiration, Artificial",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021925,C0035273,METHOD_OF,Intubation,Resuscitation procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021925,C0150126,METHOD_OF,Intubation,Airway Management,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021925,C0199470,METHOD_OF,Intubation,Mechanical ventilation,topp,topp,6,METHOD_OF_TOPPmthfTOPP
+C0021925,C0521302,METHOD_OF,Intubation,Fluid replacement,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021925,C2242628,METHOD_OF,Intubation,Fecal Microbiota Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021931,C0014327,METHOD_OF,"Intubation, Gastrointestinal",Enteral Nutrition,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021932,C0002915,METHOD_OF,"Intubation, Intratracheal",General Anesthesia,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0021932,C0021925,METHOD_OF,"Intubation, Intratracheal",Intubation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021932,C0150126,METHOD_OF,"Intubation, Intratracheal",Airway Management,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0021932,C0184893,METHOD_OF,"Intubation, Intratracheal",Emergency operation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0021932,C0199470,METHOD_OF,"Intubation, Intratracheal",Mechanical ventilation,topp,topp,8,METHOD_OF_TOPPmthfTOPP
+C0021932,C0554804,METHOD_OF,"Intubation, Intratracheal",Assisted breathing,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0022100,C0002903,METHOD_OF,Irrigation,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022100,C0184933,METHOD_OF,Irrigation,Scraping,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022100,C0189381,METHOD_OF,Irrigation,Bronchial Lavage,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022100,C0204727,METHOD_OF,Irrigation,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022100,C0520251,METHOD_OF,Irrigation,Multiple interventional procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022100,C1293116,METHOD_OF,Irrigation,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022671,C0040732,METHOD_OF,Kidney Transplantation,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0022983,C0021493,METHOD_OF,Laminectomy,"Injections, Intraperitoneal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023038,C0003611,METHOD_OF,Laparotomy,Appendectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023038,C0015252,METHOD_OF,Laparotomy,removal technique,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0023038,C0021107,METHOD_OF,Laparotomy,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023038,C0038902,METHOD_OF,Laparotomy,Gynecologic Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023038,C0194083,METHOD_OF,Laparotomy,Unilateral nephrectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023416,C0040732,METHOD_OF,Leukapheresis,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023416,C0204727,METHOD_OF,Leukapheresis,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023690,C0020944,METHOD_OF,Ligation,Immobilization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0023690,C0021107,METHOD_OF,Ligation,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023690,C0038005,METHOD_OF,Ligation,"Splenorenal Shunt, Surgical",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023690,C0074125,METHOD_OF,Ligation,bleomycin/doxorubicin/lomustine/streptozocin protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023690,C0152060,METHOD_OF,Ligation,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0023690,C1511790,METHOD_OF,Ligation,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0023911,C0015252,METHOD_OF,Transplantation of liver,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0024875,C0011121,METHOD_OF,Massage,Decontamination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0024875,C0023038,METHOD_OF,Massage,Laparotomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0025974,C0020944,METHOD_OF,Microencapsulation,Immobilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0025991,C1293116,METHOD_OF,Microinjections,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0025991,C1511790,METHOD_OF,Microinjections,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0027741,C0019328,METHOD_OF,Nerve Block,Herniorrhaphy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0029216,C0005841,METHOD_OF,Organ Transplantation,Blood Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0029216,C0011946,METHOD_OF,Organ Transplantation,Dialysis procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0029468,C2037866,METHOD_OF,Osteotomy,surgical drainage (treatment) (general),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0030275,C0040732,METHOD_OF,Pancreas Transplantation,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0031139,C0472683,METHOD_OF,Peritoneal Dialysis,Continuous hemofiltration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0031740,C0021925,METHOD_OF,Photochemotherapy,Intubation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032042,C0199176,METHOD_OF,Placebos,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032113,C0185115,METHOD_OF,Plasma Exchange,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0032113,C0279694,METHOD_OF,Plasma Exchange,Monoclonal Antibody Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032134,C0005841,METHOD_OF,Plasmapheresis,Blood Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032134,C0005857,METHOD_OF,Plasmapheresis,Bloodletting,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032134,C0040732,METHOD_OF,Plasmapheresis,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032134,C0185115,METHOD_OF,Plasmapheresis,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0032284,C0015252,METHOD_OF,Pneumonectomy,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032740,C0199451,METHOD_OF,Positive End-Expiratory Pressure,Continuous Positive Airway Pressure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0032740,C0199470,METHOD_OF,Positive End-Expiratory Pressure,Mechanical ventilation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0032740,C0419011,METHOD_OF,Positive End-Expiratory Pressure,Controlled ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0033045,C0574032,METHOD_OF,Premedication,Infusion procedures,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0033972,C0199176,METHOD_OF,"Psychotherapy, Multiple",Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0034386,C0020971,METHOD_OF,Quarantine,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0034386,C0204727,METHOD_OF,Quarantine,Isolation procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0034386,C0920467,METHOD_OF,Quarantine,disorder control (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0034386,C1511790,METHOD_OF,Quarantine,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0034386,C4505223,METHOD_OF,Quarantine,Mass Drug Administration,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0035139,C0015252,METHOD_OF,Surgical Replantation,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C0017296,METHOD_OF,Surgical Replantation,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C0021107,METHOD_OF,Surgical Replantation,Implantation procedure,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0035139,C0040732,METHOD_OF,Surgical Replantation,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C0185115,METHOD_OF,Surgical Replantation,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C0199470,METHOD_OF,Surgical Replantation,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C1293116,METHOD_OF,Surgical Replantation,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C1443867,METHOD_OF,Surgical Replantation,Standard precautions,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0035139,C1511790,METHOD_OF,Surgical Replantation,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0035139,C3274787,METHOD_OF,Surgical Replantation,Diabetes Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0038288,C0011121,METHOD_OF,Sexual sterilization,Decontamination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0038288,C0012683,METHOD_OF,Sexual sterilization,Disinfection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0038638,C0021925,METHOD_OF,Suction drainage,Intubation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0038638,C0185115,METHOD_OF,Suction drainage,Extraction,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0038638,C1511790,METHOD_OF,Suction drainage,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0039991,C0002903,METHOD_OF,Thoracotomy,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0039991,C0010408,METHOD_OF,Thoracotomy,Cryosurgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0039991,C0021107,METHOD_OF,Thoracotomy,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0039991,C0021925,METHOD_OF,Thoracotomy,Intubation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0039991,C0035205,METHOD_OF,Thoracotomy,"Respiration, Artificial",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0039991,C0184898,METHOD_OF,Thoracotomy,Surgical incisions,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040044,C0035273,METHOD_OF,Thrombolytic Therapy,Resuscitation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040461,C0002903,METHOD_OF,Toothbrushing,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040461,C1527077,METHOD_OF,Toothbrushing,Peripheral Electronic Nerve Stimulation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040590,C0021778,METHOD_OF,Tracheostomy procedure,Intermittent Positive-Pressure Ventilation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040590,C0021925,METHOD_OF,Tracheostomy procedure,Intubation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040590,C0199451,METHOD_OF,Tracheostomy procedure,Continuous Positive Airway Pressure,topp,topp,6,METHOD_OF_TOPPmthfTOPP
+C0040590,C0199470,METHOD_OF,Tracheostomy procedure,Mechanical ventilation,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0040590,C1611149,METHOD_OF,Tracheostomy procedure,Biphasic Positive Airway Pressure,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0040590,C1868981,METHOD_OF,Tracheostomy procedure,Invasive mechanical ventilation NOS,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040590,C2242650,METHOD_OF,Tracheostomy procedure,Norwood Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040590,C3665674,METHOD_OF,Tracheostomy procedure,Warburg Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040591,C0021932,METHOD_OF,Tracheotomy procedure,"Intubation, Intratracheal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040591,C0199470,METHOD_OF,Tracheotomy procedure,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040674,C0021107,METHOD_OF,Transposition procedure,Implantation procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040732,C0020971,METHOD_OF,Transplantation,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040732,C0185110,METHOD_OF,Transplantation,Tissue Harvesting,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040732,C0472699,METHOD_OF,Transplantation,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040732,C0543467,METHOD_OF,Transplantation,Operative Surgical Procedures,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040736,C0013216,METHOD_OF,"Transplantation, Autologous",Pharmacotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040736,C0524865,METHOD_OF,"Transplantation, Autologous",Reconstructive Surgical Procedures,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040739,C0024128,METHOD_OF,"Transplantation, Homologous",Lung Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040739,C0035139,METHOD_OF,"Transplantation, Homologous",Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040739,C0040732,METHOD_OF,"Transplantation, Homologous",Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040739,C0524865,METHOD_OF,"Transplantation, Homologous",Reconstructive Surgical Procedures,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0040808,C0002766,METHOD_OF,Treatment Protocols,Pain management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040808,C0022671,METHOD_OF,Treatment Protocols,Kidney Transplantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040808,C0032740,METHOD_OF,Treatment Protocols,Positive End-Expiratory Pressure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040808,C0199176,METHOD_OF,Treatment Protocols,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040808,C0472699,METHOD_OF,Treatment Protocols,Hemopoietic stem cell transplant,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040808,C0887947,METHOD_OF,Treatment Protocols,"Antiretroviral Therapy, Highly Active",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040808,C0920619,METHOD_OF,Treatment Protocols,neoplasm therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040808,C3850098,METHOD_OF,Treatment Protocols,Pre-Exposure Prophylaxis,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0040808,C4520447,METHOD_OF,Treatment Protocols,Decolonization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040808,C4526535,METHOD_OF,Treatment Protocols,Bendamustine/Lenalidomide/Dexamethasone Regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040861,C0034386,METHOD_OF,Triage,Quarantine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040861,C0184893,METHOD_OF,Triage,Emergency operation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0040861,C3828439,METHOD_OF,Triage,Pulmonary Hygiene,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C0001563,METHOD_OF,Tube feeding of patient,"Administration, Oral",topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0041281,C0009429,METHOD_OF,Tube feeding of patient,Combined Modality Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C0020971,METHOD_OF,Tube feeding of patient,Immunization,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0041281,C0042196,METHOD_OF,Tube feeding of patient,Vaccination,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0041281,C0199779,METHOD_OF,Tube feeding of patient,Administration of antibiotic,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C0204727,METHOD_OF,Tube feeding of patient,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C0242739,METHOD_OF,Tube feeding of patient,Nutritional Support,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C1261381,METHOD_OF,Tube feeding of patient,Destructive procedure (surgical),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C1533734,METHOD_OF,Tube feeding of patient,Administration procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0041281,C2242628,METHOD_OF,Tube feeding of patient,Fecal Microbiota Transplantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C0002903,METHOD_OF,Vaccination,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0020971,METHOD_OF,Vaccination,Immunization,topp,topp,12,METHOD_OF_TOPPmthfTOPP
+C0042196,C0020972,METHOD_OF,Vaccination,Immunization Schedule,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0020974,METHOD_OF,Vaccination,passive immunization procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C0020975,METHOD_OF,Vaccination,Secondary Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0021589,METHOD_OF,Vaccination,"Insemination, Artificial, Homologous",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0032042,METHOD_OF,Vaccination,Placebos,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C0033144,METHOD_OF,Vaccination,Primary Prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0035016,METHOD_OF,Vaccination,Rejuvenation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0040808,METHOD_OF,Vaccination,Treatment Protocols,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C0042200,METHOD_OF,Vaccination,Influenza vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0052712,METHOD_OF,Vaccination,doxorubicin/mitomycin/vinblastine protocol,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0042196,C0057163,METHOD_OF,Vaccination,DAV regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0079612,METHOD_OF,Vaccination,"Immunotherapy, Active",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0085430,METHOD_OF,Vaccination,Blood Component Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0185115,METHOD_OF,Vaccination,Extraction,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0042196,C0199176,METHOD_OF,Vaccination,Prophylactic treatment,topp,topp,36,METHOD_OF_TOPPmthfTOPP
+C0042196,C0199798,METHOD_OF,Vaccination,human vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0204727,METHOD_OF,Vaccination,Isolation procedure,topp,topp,12,METHOD_OF_TOPPmthfTOPP
+C0042196,C0280603,METHOD_OF,Vaccination,fluorouracil/methotrexate protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0555961,METHOD_OF,Vaccination,travel vaccinations,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0679698,METHOD_OF,Vaccination,disease prevention,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0042196,C0700589,METHOD_OF,Vaccination,Contraceptive methods,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0857127,METHOD_OF,Vaccination,Induction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0920425,METHOD_OF,Vaccination,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C0920467,METHOD_OF,Vaccination,disorder control (procedure),topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0042196,C1135929,METHOD_OF,Vaccination,Mass Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C1293116,METHOD_OF,Vaccination,Introduction procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C1443861,METHOD_OF,Vaccination,Post-Exposure Prophylaxis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C1511790,METHOD_OF,Vaccination,Detection,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0042196,C1567676,METHOD_OF,Vaccination,Variolation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C1704535,METHOD_OF,Vaccination,Passive Method,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C2986592,METHOD_OF,Vaccination,Definitive Treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C3540512,METHOD_OF,Vaccination,Circumferential Supracrestal Fiberotomy,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C3850098,METHOD_OF,Vaccination,Pre-Exposure Prophylaxis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042196,C4526534,METHOD_OF,Vaccination,Bendamustine/Bortezomib/Dexamethasone Regimen,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0042196,C4526535,METHOD_OF,Vaccination,Bendamustine/Lenalidomide/Dexamethasone Regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042200,C0199176,METHOD_OF,Influenza vaccination,Prophylactic treatment,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0042223,C1282573,METHOD_OF,Vacuum Curettage,Evacuation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0042490,C3649547,METHOD_OF,Venovenous Hemofiltration,Continuous renal replacement therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0052712,C0020975,METHOD_OF,doxorubicin/mitomycin/vinblastine protocol,Secondary Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0052712,C0042196,METHOD_OF,doxorubicin/mitomycin/vinblastine protocol,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0052712,C0184907,METHOD_OF,doxorubicin/mitomycin/vinblastine protocol,Scarification,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0052712,C1328526,METHOD_OF,doxorubicin/mitomycin/vinblastine protocol,Primary Immunologic Sensitization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0056633,C0185115,METHOD_OF,cyclophosphamide/prednisone/vincristine protocol,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0078944,C0002766,METHOD_OF,Patient-Controlled Analgesia,Pain management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0078944,C0451615,METHOD_OF,Patient-Controlled Analgesia,Pain relief,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0079613,C0034386,METHOD_OF,Adoptive Immunotherapy,Quarantine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0079613,C0042196,METHOD_OF,Adoptive Immunotherapy,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0080232,C0079646,METHOD_OF,Tissue Transplantation,Islets of Langerhans Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0085198,C0015252,METHOD_OF,Esophagectomy,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0085203,C0547070,METHOD_OF,Radiosurgery,Ablation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0085430,C0005841,METHOD_OF,Blood Component Transfusion,Blood Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0086153,C0430604,METHOD_OF,Dietary Modification,Direct calorimetry,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0086252,C0029209,METHOD_OF,Red Blood Cell Transfusion,Organ Preservation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0086818,C0086252,METHOD_OF,Platelet Transfusion,Red Blood Cell Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0086818,C0150457,METHOD_OF,Platelet Transfusion,Anticoagulant therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0087123,C0280603,METHOD_OF,Tympanostomy,fluorouracil/methotrexate protocol,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0149750,C0192871,METHOD_OF,Partial resection of colon,Total colectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0149783,C0013216,METHOD_OF,Steroid therapy,Pharmacotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0149783,C0022671,METHOD_OF,Steroid therapy,Kidney Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0150135,C0204727,METHOD_OF,Alleviating anxiety,Isolation procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0150136,C0185115,METHOD_OF,Area restriction,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0150238,C0035273,METHOD_OF,Fluid resuscitation,Resuscitation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0150594,C0199470,METHOD_OF,gastric feeding,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152054,C0011121,METHOD_OF,Therapeutic tactile stimulation,Decontamination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152054,C0012683,METHOD_OF,Therapeutic tactile stimulation,Disinfection,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0152054,C0184958,METHOD_OF,Therapeutic tactile stimulation,Toilet procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152060,C0032042,METHOD_OF,Transection (procedure),Placebos,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152060,C0040591,METHOD_OF,Transection (procedure),Tracheotomy procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152060,C0042196,METHOD_OF,Transection (procedure),Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152060,C0185115,METHOD_OF,Transection (procedure),Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0152060,C0199176,METHOD_OF,Transection (procedure),Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152060,C0543467,METHOD_OF,Transection (procedure),Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152060,C1511790,METHOD_OF,Transection (procedure),Detection,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C0152060,C2973270,METHOD_OF,Transection (procedure),Health Checkup,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152277,C0020971,METHOD_OF,Incision and drainage,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152277,C1533734,METHOD_OF,Incision and drainage,Administration procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0152277,C2368628,METHOD_OF,Incision and drainage,Vaccine Administration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0162522,C0008320,METHOD_OF,"Cholecystectomy, Laparoscopic",Cholecystectomy procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0162575,C0034771,METHOD_OF,Embolectomy,Recanalization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184898,C0011307,METHOD_OF,Surgical incisions,Denervation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184898,C0022671,METHOD_OF,Surgical incisions,Kidney Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184898,C0040590,METHOD_OF,Surgical incisions,Tracheostomy procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184898,C0195499,METHOD_OF,Surgical incisions,Ovariohysterectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184898,C0543467,METHOD_OF,Surgical incisions,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184898,C1511790,METHOD_OF,Surgical incisions,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184904,C0338248,METHOD_OF,Slitting,carmustine/cytarabine/etoposide/melphalan regimen,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0184907,C0020975,METHOD_OF,Scarification,Secondary Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184907,C0042196,METHOD_OF,Scarification,Vaccination,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0184907,C0052712,METHOD_OF,Scarification,doxorubicin/mitomycin/vinblastine protocol,topp,topp,6,METHOD_OF_TOPPmthfTOPP
+C0184933,C0042196,METHOD_OF,Scraping,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184933,C0189381,METHOD_OF,Scraping,Bronchial Lavage,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184933,C0204727,METHOD_OF,Scraping,Isolation procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0184933,C0349707,METHOD_OF,Scraping,Aspiration-action,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184967,C0021107,METHOD_OF,Insertion of pack (procedure),Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0184967,C0404136,METHOD_OF,Insertion of pack (procedure),Uterine pack procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185010,C0185115,METHOD_OF,Closure by clip procedure,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185014,C1511790,METHOD_OF,Banding procedure,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185026,C0079613,METHOD_OF,Plication,Adoptive Immunotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185026,C1293132,METHOD_OF,Plication,Anchoring procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185033,C0022100,METHOD_OF,Diversion procedure,Irrigation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185112,C0679771,METHOD_OF,Therapeutic Mobilization,Harm Reduction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0020971,METHOD_OF,Extraction,Immunization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0185115,C0021932,METHOD_OF,Extraction,"Intubation, Intratracheal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0023690,METHOD_OF,Extraction,Ligation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0185115,C0040732,METHOD_OF,Extraction,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0042196,METHOD_OF,Extraction,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0185110,METHOD_OF,Extraction,Tissue Harvesting,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0189381,METHOD_OF,Extraction,Bronchial Lavage,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0185115,C0204514,METHOD_OF,Extraction,Structural analysis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0204727,METHOD_OF,Extraction,Isolation procedure,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C0185115,C0282515,METHOD_OF,Extraction,Chemoprevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0419997,METHOD_OF,Extraction,Viral screening,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0455164,METHOD_OF,Extraction,"Sperm Injections, Intracytoplasmic",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0547070,METHOD_OF,Extraction,Ablation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0554804,METHOD_OF,Extraction,Assisted breathing,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0597815,METHOD_OF,Extraction,crystal healing,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C0947647,METHOD_OF,Extraction,Manipulation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C1096745,METHOD_OF,Extraction,Calcium supplement therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C1261381,METHOD_OF,Extraction,Destructive procedure (surgical),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C1282573,METHOD_OF,Extraction,Evacuation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C1293132,METHOD_OF,Extraction,Anchoring procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C1511790,METHOD_OF,Extraction,Detection,topp,topp,9,METHOD_OF_TOPPmthfTOPP
+C0185115,C1515884,METHOD_OF,Extraction,Acupuncture and Oriental Medicine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C1706406,METHOD_OF,Extraction,Debulking Procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185115,C3540512,METHOD_OF,Extraction,Circumferential Supracrestal Fiberotomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185181,C0190043,METHOD_OF,Myotomy,Open chest cardiac massage,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0185216,C0011079,METHOD_OF,Sequestrectomy,Debridement,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0189231,C0439631,METHOD_OF,Total laryngectomy,Primary operation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0189381,C0204727,METHOD_OF,Bronchial Lavage,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0189381,C0419994,METHOD_OF,Bronchial Lavage,Infection screening,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0189381,C1511790,METHOD_OF,Bronchial Lavage,Detection,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0189559,C0199176,METHOD_OF,Chemical pleurodesis,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0190043,C0035273,METHOD_OF,Open chest cardiac massage,Resuscitation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0191234,C0185115,METHOD_OF,Pericardiocentesis,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0192456,C0012164,METHOD_OF,Nasogastric feeding,Formula - diet,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0193398,C0023911,METHOD_OF,Partial hepatectomy,Transplantation of liver,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0193549,C0185033,METHOD_OF,Cholecystoduodenostomy,Diversion procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0194056,C0185115,METHOD_OF,Incision of kidney (procedure),Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0195499,C0392535,METHOD_OF,Ovariohysterectomy,Induced abortion (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0195877,C3540512,METHOD_OF,Cisternal tap,Circumferential Supracrestal Fiberotomy,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0196728,C0011307,METHOD_OF,Injection of anesthetic agent into stellate ganglion,Denervation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0197409,C0015252,METHOD_OF,Keratectomy,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199176,C0042196,METHOD_OF,Prophylactic treatment,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199176,C0441509,METHOD_OF,Prophylactic treatment,Coagulation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199176,C0679700,METHOD_OF,Prophylactic treatment,Tertiary Prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199451,C0419011,METHOD_OF,Continuous Positive Airway Pressure,Controlled ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199451,C1997883,METHOD_OF,Continuous Positive Airway Pressure,Noninvasive Ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199451,C3665674,METHOD_OF,Continuous Positive Airway Pressure,Warburg Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0002903,METHOD_OF,Mechanical ventilation,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0015357,METHOD_OF,Mechanical ventilation,Extracorporeal Membrane Oxygenation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0022100,METHOD_OF,Mechanical ventilation,Irrigation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0023690,METHOD_OF,Mechanical ventilation,Ligation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0032740,METHOD_OF,Mechanical ventilation,Positive End-Expiratory Pressure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0035273,METHOD_OF,Mechanical ventilation,Resuscitation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0199176,METHOD_OF,Mechanical ventilation,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0199470,C0206058,METHOD_OF,Mechanical ventilation,Elective Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0344211,METHOD_OF,Mechanical ventilation,Supportive care,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C0521302,METHOD_OF,Mechanical ventilation,Fluid replacement,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199470,C1997883,METHOD_OF,Mechanical ventilation,Noninvasive Ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199779,C0038280,METHOD_OF,Administration of antibiotic,Sterilization for infection control,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199779,C0185115,METHOD_OF,Administration of antibiotic,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199779,C0547070,METHOD_OF,Administration of antibiotic,Ablation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199779,C0920467,METHOD_OF,Administration of antibiotic,disorder control (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199779,C1096288,METHOD_OF,Administration of antibiotic,perioperative analgesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199779,C4526535,METHOD_OF,Administration of antibiotic,Bendamustine/Lenalidomide/Dexamethasone Regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199798,C0042196,METHOD_OF,human vaccination,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199798,C0199176,METHOD_OF,human vaccination,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199804,C0040808,METHOD_OF,Vaccination against tuberculosis,Treatment Protocols,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199804,C0042196,METHOD_OF,Vaccination against tuberculosis,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0199806,C0042196,METHOD_OF,Administration of diphtheria toxoid,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203597,C0057163,METHOD_OF,hyperthermia treatment,DAV regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203597,C0185115,METHOD_OF,hyperthermia treatment,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203597,C1511790,METHOD_OF,hyperthermia treatment,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203597,C1522449,METHOD_OF,hyperthermia treatment,Therapeutic radiology procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203939,C0152060,METHOD_OF,Indirect Treatment,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203939,C1511790,METHOD_OF,Indirect Treatment,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0203939,C1704536,METHOD_OF,Indirect Treatment,Direct Method,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0034386,METHOD_OF,Isolation procedure,Quarantine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0042196,METHOD_OF,Isolation procedure,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0052712,METHOD_OF,Isolation procedure,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0079613,METHOD_OF,Isolation procedure,Adoptive Immunotherapy,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0204727,C0152060,METHOD_OF,Isolation procedure,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0185003,METHOD_OF,Isolation procedure,Reparative closure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0185115,METHOD_OF,Isolation procedure,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0199176,METHOD_OF,Isolation procedure,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0280603,METHOD_OF,Isolation procedure,fluorouracil/methotrexate protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0281176,METHOD_OF,Isolation procedure,antibody therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0419997,METHOD_OF,Isolation procedure,Viral screening,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C0543467,METHOD_OF,Isolation procedure,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0204727,C1511790,METHOD_OF,Isolation procedure,Detection,topp,topp,7,METHOD_OF_TOPPmthfTOPP
+C0204727,C2825182,METHOD_OF,Isolation procedure,Atrial Ablation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0206074,C0185115,METHOD_OF,Renal Replacement Therapy,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0206074,C0553741,METHOD_OF,Renal Replacement Therapy,Fluid Management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0206075,C3698381,METHOD_OF,Hemodiafiltration,Sustained low-efficiency dialysis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0206078,C0543467,METHOD_OF,Diskectomy,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0242389,C0920425,METHOD_OF,Folk Remedies,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0242427,C0002903,METHOD_OF,Pericardiotomy,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0242427,C0035205,METHOD_OF,Pericardiotomy,"Respiration, Artificial",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0242602,C1328050,METHOD_OF,Peripheral Stem Cell Transplantation,high-dose chemotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0242739,C0021910,METHOD_OF,Nutritional Support,Intravenous Feeding,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0259962,C0042196,METHOD_OF,"Injections, Hypodermic",Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0259962,C2368628,METHOD_OF,"Injections, Hypodermic",Vaccine Administration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0269694,C0007876,METHOD_OF,Normal delivery procedure,Cesarean section,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0279023,C0002766,METHOD_OF,chemosensitization/potentiation,Pain management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0279033,C0020632,METHOD_OF,Replacement therapy,Hypophysectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0279033,C0193735,METHOD_OF,Replacement therapy,Complete excision of pineal gland,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0279391,C0035139,METHOD_OF,mercaptopurine/methotrexate/vincristine,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0279470,C0185115,METHOD_OF,altretamine/cyclophosphamide/doxorubicin,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0279934,C0185115,METHOD_OF,chlorambucil/etoposide/lomustine,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0280274,C0015357,METHOD_OF,Antiviral Therapy,Extracorporeal Membrane Oxygenation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0280274,C0199176,METHOD_OF,Antiviral Therapy,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0280462,C1511790,METHOD_OF,Cyclophosphamide/Fluorouracil/Tamoxifen,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0280603,C1511790,METHOD_OF,fluorouracil/methotrexate protocol,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0281176,C0199176,METHOD_OF,antibody therapy,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0281176,C0204727,METHOD_OF,antibody therapy,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0282077,C0199176,METHOD_OF,Qigong,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0282515,C0199176,METHOD_OF,Chemoprevention,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0282545,C0007389,METHOD_OF,Phacoemulsification,Cataract Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0282638,C0007876,METHOD_OF,Antibiotic Prophylaxis,Cesarean section,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0282638,C0011121,METHOD_OF,Antibiotic Prophylaxis,Decontamination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0282638,C0024128,METHOD_OF,Antibiotic Prophylaxis,Lung Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0282638,C0199176,METHOD_OF,Antibiotic Prophylaxis,Prophylactic treatment,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0286540,C0185115,METHOD_OF,MAV protocol,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0302189,C0920425,METHOD_OF,Cell Therapy,cancer therapy,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0338237,C4526535,METHOD_OF,Antibiotic therapy,Bendamustine/Lenalidomide/Dexamethasone Regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0339897,C0543467,METHOD_OF,Transjugular intrahepatic portosystemic shunt procedure,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0339897,C0557964,METHOD_OF,Transjugular intrahepatic portosystemic shunt procedure,Motivating patient,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0344093,C0013931,METHOD_OF,Interventional radiologic procedures,"Embolization, Therapeutic",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0349707,C0087123,METHOD_OF,Aspiration-action,Tympanostomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0349707,C0185115,METHOD_OF,Aspiration-action,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0349707,C0199176,METHOD_OF,Aspiration-action,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0349707,C0678812,METHOD_OF,Aspiration-action,systemic administration,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0372516,C0278355,METHOD_OF,Electroejaculation procedure,Semen specimen collection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376450,C0040739,METHOD_OF,Transplantation Conditioning,"Transplantation, Homologous",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376450,C0472699,METHOD_OF,Transplantation Conditioning,Hemopoietic stem cell transplant,topp,topp,8,METHOD_OF_TOPPmthfTOPP
+C0376450,C1504389,METHOD_OF,Transplantation Conditioning,Stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376450,C2242529,METHOD_OF,Transplantation Conditioning,Allogeneic Stem Cell Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376518,C0020971,METHOD_OF,Adoptive Transfer,Immunization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0376518,C0021083,METHOD_OF,Adoptive Transfer,Immunotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376518,C0040071,METHOD_OF,Adoptive Transfer,Thymectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376518,C0040808,METHOD_OF,Adoptive Transfer,Treatment Protocols,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376518,C0042196,METHOD_OF,Adoptive Transfer,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376518,C1293116,METHOD_OF,Adoptive Transfer,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0376518,C3805099,METHOD_OF,Adoptive Transfer,Liver Destruction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0391874,C0185115,METHOD_OF,Manual extraction,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0392877,C0017296,METHOD_OF,infusion of drug,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0392920,C0021079,METHOD_OF,Chemotherapy Regimen,Therapeutic immunosuppression,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0392920,C1511790,METHOD_OF,Chemotherapy Regimen,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0393005,C0184967,METHOD_OF,chlorodihydroxypyridine/potassium oxonate/tegafur,Insertion of pack (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0393023,C3850079,METHOD_OF,cyclophosphamide/doxorubicin/prednisone/rituximab/vincristine,Cytoreductive Surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0394664,C2350432,METHOD_OF,Acupuncture procedure,Vagus Nerve Stimulation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0394835,C0853389,METHOD_OF,Local anesthetic thoracic epidural block,postoperative analgesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0396621,C0040591,METHOD_OF,Orotracheal intubation,Tracheotomy procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0396621,C0199470,METHOD_OF,Orotracheal intubation,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0398307,C0206058,METHOD_OF,Blood unit collection for autotransfusion,Elective Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0407295,C0009429,METHOD_OF,Fixation of fracture using plate,Combined Modality Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0407295,C0042196,METHOD_OF,Fixation of fracture using plate,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0407295,C1659427,METHOD_OF,Fixation of fracture using plate,Nebulization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0407333,C1293130,METHOD_OF,External skeletal fixation procedure,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0412767,C0021925,METHOD_OF,Rapid sequence induction,Intubation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0412792,C0199451,METHOD_OF,Preoxygenation,Continuous Positive Airway Pressure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0413381,C0162352,METHOD_OF,Subcutaneous immunotherapy,Allergen Immunotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0419001,C0419000,METHOD_OF,Lung inflation by intermittent compression of reservoir bag,"Respiratory assist, manual",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0419023,C0199176,METHOD_OF,"Positive end expiratory pressure ventilation therapy, initiation and management",Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0419707,C0547605,METHOD_OF,Pneumococcal vaccination,prevention of infection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0420045,C0812192,METHOD_OF,Respiratory disease screening,Communicable disease management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0420205,C1293130,METHOD_OF,Intensive care monitoring,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0439775,C0042196,METHOD_OF,Elevation procedure,Vaccination,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0439775,C1261381,METHOD_OF,Elevation procedure,Destructive procedure (surgical),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441474,C0015252,METHOD_OF,Chemical destruction,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441509,C0005841,METHOD_OF,Coagulation procedure,Blood Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441509,C0185115,METHOD_OF,Coagulation procedure,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0441516,C0042196,METHOD_OF,Demand (clinical),Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441516,C0085430,METHOD_OF,Demand (clinical),Blood Component Transfusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441516,C0185115,METHOD_OF,Demand (clinical),Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441516,C0302189,METHOD_OF,Demand (clinical),Cell Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0441516,C1511790,METHOD_OF,Demand (clinical),Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0441701,C0189476,METHOD_OF,Seldinger technique,Insertion of pleural tube drain,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0442934,C0021493,METHOD_OF,Partial laminectomy,"Injections, Intraperitoneal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0442944,C0543467,METHOD_OF,Incision of neck,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0444889,C0002766,METHOD_OF,Continuous infusion,Pain management,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0444889,C0002903,METHOD_OF,Continuous infusion,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0450011,C1511790,METHOD_OF,Present procedure,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0451615,C1096288,METHOD_OF,Pain relief,perioperative analgesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0452410,C0035139,METHOD_OF,Balanced diet,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0455052,C0206058,METHOD_OF,Bowel preparation,Elective Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0456276,C0023038,METHOD_OF,Midline incision,Laparotomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0456276,C0038288,METHOD_OF,Midline incision,Sexual sterilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0456979,C0185115,METHOD_OF,Automated endodontic technique,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0456979,C1511790,METHOD_OF,Automated endodontic technique,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0457431,C0038005,METHOD_OF,Percutaneous techniques,"Splenorenal Shunt, Surgical",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0472699,C0021022,METHOD_OF,Hemopoietic stem cell transplant,Immunoglobulin Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0472699,C0021079,METHOD_OF,Hemopoietic stem cell transplant,Therapeutic immunosuppression,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0472699,C0040732,METHOD_OF,Hemopoietic stem cell transplant,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0472699,C0872278,METHOD_OF,Hemopoietic stem cell transplant,stem cell therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0473965,C0002903,METHOD_OF,Total intravenous anesthesia,Anesthesia procedures,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0475411,C0204727,METHOD_OF,Standardized technique,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0475411,C1511790,METHOD_OF,Standardized technique,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0475745,C0021925,METHOD_OF,Apneic oxygenation,Intubation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0475745,C1293116,METHOD_OF,Apneic oxygenation,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0520251,C1511790,METHOD_OF,Multiple interventional procedures,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0520484,C1511790,METHOD_OF,Xenograft procedure,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0521213,C0015252,METHOD_OF,Closure by clamp,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0521213,C0021107,METHOD_OF,Closure by clamp,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0521974,C0439775,METHOD_OF,"Diet, High-Fat",Elevation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0522772,C1293132,METHOD_OF,Shaving - surgical procedure,Anchoring procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0524832,C0015252,METHOD_OF,Thoracic Surgical Procedures,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0524832,C0396565,METHOD_OF,Thoracic Surgical Procedures,Lung excision,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0524865,C1511790,METHOD_OF,Reconstructive Surgical Procedures,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0001425,METHOD_OF,Operative Surgical Procedures,Adenoidectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0011121,METHOD_OF,Operative Surgical Procedures,Decontamination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0021493,METHOD_OF,Operative Surgical Procedures,"Injections, Intraperitoneal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0035139,METHOD_OF,Operative Surgical Procedures,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0185115,METHOD_OF,Operative Surgical Procedures,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0543467,C0206058,METHOD_OF,Operative Surgical Procedures,Elective Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0451615,METHOD_OF,Operative Surgical Procedures,Pain relief,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C0565460,METHOD_OF,Operative Surgical Procedures,Bone reconstruction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0543467,C1511790,METHOD_OF,Operative Surgical Procedures,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0547070,C0013804,METHOD_OF,Ablation,Electrocoagulation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0547070,C0280603,METHOD_OF,Ablation,fluorouracil/methotrexate protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0547070,C0410872,METHOD_OF,Ablation,Fetal procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0547070,C0556662,METHOD_OF,Ablation,Rhythmic stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0547070,C1446301,METHOD_OF,Ablation,Tumor destruction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0547070,C1511790,METHOD_OF,Ablation,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0554804,C0011946,METHOD_OF,Assisted breathing,Dialysis procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0554804,C0199470,METHOD_OF,Assisted breathing,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0565867,C0017296,METHOD_OF,delivery method,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0565867,C0020971,METHOD_OF,delivery method,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0574032,C0002903,METHOD_OF,Infusion procedures,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0574032,C0021440,METHOD_OF,Infusion procedures,Intravenous infusion procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0574032,C0039040,METHOD_OF,Infusion procedures,"Sympathectomy, Chemical",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0574032,C0679637,METHOD_OF,Infusion procedures,major surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0574032,C1512034,METHOD_OF,Infusion procedures,Donor Lymphocyte Infusion,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0574032,C1880814,METHOD_OF,Infusion procedures,Fluorouracil-Leucovorin Regimen (FU-LV Regimen),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0582026,C0854477,METHOD_OF,Fusion of thoracic spine,scoliosis surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0589567,C0152060,METHOD_OF,Placement procedure,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0596742,C0920467,METHOD_OF,hyperimmunization,disorder control (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0597092,C0204727,METHOD_OF,nosocomial infection control,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0600406,C1511790,METHOD_OF,venipuncture,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0600521,C0021079,METHOD_OF,"Radiotherapy, Conformal",Therapeutic immunosuppression,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0677850,C0149533,METHOD_OF,adjuvant therapy,Control of hemorrhage,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0677850,C0376495,METHOD_OF,adjuvant therapy,Retreatments,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0677850,C1511300,METHOD_OF,adjuvant therapy,Breast Cancer Therapeutic Procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678026,C2986592,METHOD_OF,Antifungal therapy,Definitive Treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678812,C0001563,METHOD_OF,systemic administration,"Administration, Oral",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678812,C0020971,METHOD_OF,systemic administration,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678812,C0042196,METHOD_OF,systemic administration,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678815,C0042196,METHOD_OF,"Administration, Mucosal",Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678823,C0001563,METHOD_OF,parenteral administration,"Administration, Oral",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678823,C0013969,METHOD_OF,parenteral administration,Emergency treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678823,C0020974,METHOD_OF,parenteral administration,passive immunization procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0678823,C0242739,METHOD_OF,parenteral administration,Nutritional Support,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679651,C0035139,METHOD_OF,directive therapy,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C0021485,METHOD_OF,disease prevention,Injection of therapeutic agent,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C0034386,METHOD_OF,disease prevention,Quarantine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C0040808,METHOD_OF,disease prevention,Treatment Protocols,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C0042200,METHOD_OF,disease prevention,Influenza vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C0151201,METHOD_OF,disease prevention,Bilateral conjunctival injection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C0199176,METHOD_OF,disease prevention,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0679698,C0394799,METHOD_OF,disease prevention,Sphenopalatine Ganglion Block,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0679698,C1511790,METHOD_OF,disease prevention,Detection,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0679750,C0199176,METHOD_OF,prevention through information dissemination,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0683465,C0451615,METHOD_OF,novel AODU treatment method,Pain relief,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0683465,C0920425,METHOD_OF,novel AODU treatment method,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0683517,C4526535,METHOD_OF,Involuntary Treatment,Bendamustine/Lenalidomide/Dexamethasone Regimen,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0683525,C0185115,METHOD_OF,treatment options,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0695341,C0021107,METHOD_OF,common procedures,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0695341,C0185115,METHOD_OF,common procedures,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0695341,C0199176,METHOD_OF,common procedures,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0695341,C1511790,METHOD_OF,common procedures,Detection,topp,topp,7,METHOD_OF_TOPPmthfTOPP
+C0728940,C0039038,METHOD_OF,Excision,Sympathectomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0742417,C0150413,METHOD_OF,circumcision adult,HIV prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0747973,C0185115,METHOD_OF,Elective procedure,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0752151,C0185115,METHOD_OF,"Thoracic Surgery, Video-Assisted",Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0752151,C0189557,METHOD_OF,"Thoracic Surgery, Video-Assisted",Pleurodesis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0752151,C0199176,METHOD_OF,"Thoracic Surgery, Video-Assisted",Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0765585,C1511790,METHOD_OF,OPEN protocol,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0808232,C0199176,METHOD_OF,Therapeutic Intervention,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0812144,C0853389,METHOD_OF,Medication administration: epidural,postoperative analgesia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0813207,C0021107,METHOD_OF,Creation of shunt,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0813207,C0410872,METHOD_OF,Creation of shunt,Fetal procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0814435,C0199176,METHOD_OF,early identification,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0841790,C0040732,METHOD_OF,caudal injection,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0841790,C0376518,METHOD_OF,caudal injection,Adoptive Transfer,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0841790,C1704535,METHOD_OF,caudal injection,Passive Method,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C0848112,C0199176,METHOD_OF,on anti-coagulants,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0849359,C0002903,METHOD_OF,remove blood,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0849359,C0015357,METHOD_OF,remove blood,Extracorporeal Membrane Oxygenation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0850168,C0023694,METHOD_OF,Laser treatment,Light Coagulation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0850292,C0011307,METHOD_OF,radiofrequency ablation,Denervation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0857208,C0042196,METHOD_OF,routine immunization,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0917707,C0007202,METHOD_OF,Cannulation,Cardiopulmonary Bypass,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0917707,C0015357,METHOD_OF,Cannulation,Extracorporeal Membrane Oxygenation,topp,topp,8,METHOD_OF_TOPPmthfTOPP
+C0917707,C0079159,METHOD_OF,Cannulation,Conscious Sedation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0917707,C0475745,METHOD_OF,Cannulation,Apneic oxygenation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0917707,C0700586,METHOD_OF,Cannulation,Blalock Hanlon operation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0920425,C1280903,METHOD_OF,cancer therapy,Exploration procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0920467,C0021925,METHOD_OF,disorder control (procedure),Intubation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0920467,C0042196,METHOD_OF,disorder control (procedure),Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0920467,C0204727,METHOD_OF,disorder control (procedure),Isolation procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0920467,C0281163,METHOD_OF,disorder control (procedure),educational intervention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0920467,C0597092,METHOD_OF,disorder control (procedure),nosocomial infection control,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0947647,C0040732,METHOD_OF,Manipulation procedure,Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0947647,C0042196,METHOD_OF,Manipulation procedure,Vaccination,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0947647,C0204727,METHOD_OF,Manipulation procedure,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0947647,C0407295,METHOD_OF,Manipulation procedure,Fixation of fracture using plate,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0947647,C1293116,METHOD_OF,Manipulation procedure,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0947647,C1511790,METHOD_OF,Manipulation procedure,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C0947734,C0185115,METHOD_OF,Vascular Therapies,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C0948145,C0015236,METHOD_OF,Erythrocytapheresis,"Exchange Transfusion, Whole Blood",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1096021,C0547070,METHOD_OF,antiplatelet therapy,Ablation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1116142,C0043162,METHOD_OF,Transfusion of granulocytes,Whole-Body Irradiation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1135929,C0042196,METHOD_OF,Mass Vaccination,Vaccination,topp,topp,3,METHOD_OF_TOPPmthfTOPP
+C1136080,C0850173,METHOD_OF,Innovative Therapies,skin Healing,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1261381,C0017296,METHOD_OF,Destructive procedure (surgical),gene therapy,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1261381,C0152060,METHOD_OF,Destructive procedure (surgical),Transection (procedure),topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1261381,C0185047,METHOD_OF,Destructive procedure (surgical),Stripping,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1261381,C0185115,METHOD_OF,Destructive procedure (surgical),Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1261381,C0280603,METHOD_OF,Destructive procedure (surgical),fluorouracil/methotrexate protocol,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1261381,C1511790,METHOD_OF,Destructive procedure (surgical),Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1273412,C0920425,METHOD_OF,Chinese herbal medicine,cancer therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1273428,C0920425,METHOD_OF,Total mesorectal excision,cancer therapy,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1278454,C0199176,METHOD_OF,Statin prophylaxis,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1280903,C0035139,METHOD_OF,Exploration procedure,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1282573,C0185115,METHOD_OF,Evacuation procedure,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1293116,C0005527,METHOD_OF,Introduction procedure,Biological Response Modifier Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C0017296,METHOD_OF,Introduction procedure,gene therapy,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C1293116,C0019009,METHOD_OF,Introduction procedure,Hemodilution,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C0023690,METHOD_OF,Introduction procedure,Ligation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C0035139,METHOD_OF,Introduction procedure,Surgical Replantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1293116,C0042196,METHOD_OF,Introduction procedure,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C0185115,METHOD_OF,Introduction procedure,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1293116,C0199176,METHOD_OF,Introduction procedure,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C0695434,METHOD_OF,Introduction procedure,oscillations,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C1293130,METHOD_OF,Introduction procedure,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C1511790,METHOD_OF,Introduction procedure,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C1737226,METHOD_OF,Introduction procedure,Allergy Prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293116,C3540512,METHOD_OF,Introduction procedure,Circumferential Supracrestal Fiberotomy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293132,C0021107,METHOD_OF,Anchoring procedure,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293132,C0035139,METHOD_OF,Anchoring procedure,Surgical Replantation,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1293132,C1293130,METHOD_OF,Anchoring procedure,Stabilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1293500,C0349707,METHOD_OF,Tongue closure,Aspiration-action,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1297885,C0543467,METHOD_OF,Open reduction with internal fixation,Operative Surgical Procedures,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1298802,C0199176,METHOD_OF,Emergency procedure,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1298805,C0003424,METHOD_OF,Routine procedure,Antisepsis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1298805,C1511790,METHOD_OF,Routine procedure,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1300200,C1298802,METHOD_OF,Anesthesia management,Emergency procedure,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1318457,C0043162,METHOD_OF,Linear accelerator electrons procedure,Whole-Body Irradiation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1328527,C0199176,METHOD_OF,Post exposure immunoprophylaxis,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1443867,C0199176,METHOD_OF,Standard precautions,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1443867,C0679698,METHOD_OF,Standard precautions,disease prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1443921,C0199176,METHOD_OF,Transmission-based precautions,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1504389,C1112785,METHOD_OF,Stem cell transplant,cartilage repair,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511497,C0002903,METHOD_OF,Continuous Intravenous Infusion,Anesthesia procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0020548,METHOD_OF,Detection,Induced Hyperthermia,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0020971,METHOD_OF,Detection,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0021079,METHOD_OF,Detection,Therapeutic immunosuppression,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0023690,METHOD_OF,Detection,Ligation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0042196,METHOD_OF,Detection,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0150141,METHOD_OF,Detection,Bathing,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0152060,METHOD_OF,Detection,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0185027,METHOD_OF,Detection,Imbrication (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0185115,METHOD_OF,Detection,Extraction,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C1511790,C0204727,METHOD_OF,Detection,Isolation procedure,topp,topp,5,METHOD_OF_TOPPmthfTOPP
+C1511790,C0242972,METHOD_OF,Detection,"Diet, Protein-Restricted",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0278911,METHOD_OF,Detection,ifosfamide/lomustine/vinblastine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0376518,METHOD_OF,Detection,Adoptive Transfer,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0543467,METHOD_OF,Detection,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0702249,METHOD_OF,Detection,Infiltration (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C0814435,METHOD_OF,Detection,early identification,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1511790,C1293116,METHOD_OF,Detection,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1512034,C0079613,METHOD_OF,Donor Lymphocyte Infusion,Adoptive Immunotherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1512721,C0948092,METHOD_OF,Inferential Current Treatment,diabetes mellitus management,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1513784,C0472699,METHOD_OF,Myeloablative Chemotherapy,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1515884,C0199176,METHOD_OF,Acupuncture and Oriental Medicine,Prophylactic treatment,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1517033,C0006098,METHOD_OF,External Beam Radiation Therapy,Brachytherapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1522449,C0005961,METHOD_OF,Therapeutic radiology procedure,Bone Marrow Transplantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1522449,C0020944,METHOD_OF,Therapeutic radiology procedure,Immobilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1522449,C0038288,METHOD_OF,Therapeutic radiology procedure,Sexual sterilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1522449,C0185115,METHOD_OF,Therapeutic radiology procedure,Extraction,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1522449,C1504389,METHOD_OF,Therapeutic radiology procedure,Stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1527077,C0199176,METHOD_OF,Peripheral Electronic Nerve Stimulation,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1533734,C0020971,METHOD_OF,Administration procedure,Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1533734,C0199176,METHOD_OF,Administration procedure,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1533734,C1515884,METHOD_OF,Administration procedure,Acupuncture and Oriental Medicine,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1541822,C0007876,METHOD_OF,Vaginal delivery procedure,Cesarean section,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C1541822,C0199176,METHOD_OF,Vaginal delivery procedure,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1567676,C0042196,METHOD_OF,Variolation,Vaccination,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1571809,C0021107,METHOD_OF,Visceral manipulation,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1571809,C0543467,METHOD_OF,Visceral manipulation,Operative Surgical Procedures,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1659427,C0017296,METHOD_OF,Nebulization,gene therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1659427,C0021493,METHOD_OF,Nebulization,"Injections, Intraperitoneal",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1659427,C0042196,METHOD_OF,Nebulization,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1659427,C0683174,METHOD_OF,Nebulization,topical application,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1659427,C1135493,METHOD_OF,Nebulization,Whole lung lavage,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1659427,C1293116,METHOD_OF,Nebulization,Introduction procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704535,C0199176,METHOD_OF,Passive Method,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C0009429,METHOD_OF,Direct Method,Combined Modality Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C0020944,METHOD_OF,Direct Method,Immobilization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C0020974,METHOD_OF,Direct Method,passive immunization procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C0152060,METHOD_OF,Direct Method,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C0203939,METHOD_OF,Direct Method,Indirect Treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C0204727,METHOD_OF,Direct Method,Isolation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1704536,C1511790,METHOD_OF,Direct Method,Detection,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C1708063,C0035273,METHOD_OF,First line treatment,Resuscitation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1708063,C0199176,METHOD_OF,First line treatment,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1708063,C0451615,METHOD_OF,First line treatment,Pain relief,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1827140,C0015252,METHOD_OF,Bronchoscopic procedure,removal technique,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1880152,C0394664,METHOD_OF,Complementary or Alternative Medical Procedure,Acupuncture procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1881363,C1511790,METHOD_OF,Laser Fluorescence,Detection,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1882454,C0040739,METHOD_OF,Preparative Regimen,"Transplantation, Homologous",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1882454,C0472699,METHOD_OF,Preparative Regimen,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1882454,C0547070,METHOD_OF,Preparative Regimen,Ablation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1882454,C1504389,METHOD_OF,Preparative Regimen,Stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1955637,C0152060,METHOD_OF,Intra-operative neurophysiologic monitoring,Transection (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1960499,C0015357,METHOD_OF,Clearance of secretions of respiratory tract,Extracorporeal Membrane Oxygenation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1963724,C0920551,METHOD_OF,Antiretroviral therapy,HIV therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C1997883,C0199451,METHOD_OF,Noninvasive Ventilation,Continuous Positive Airway Pressure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2037866,C0185115,METHOD_OF,surgical drainage (treatment) (general),Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2242626,C0877137,METHOD_OF,Probiotic therapy,antiviral drug prophylaxis,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2242628,C0035139,METHOD_OF,Fecal Microbiota Transplantation,Surgical Replantation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2242628,C0199176,METHOD_OF,Fecal Microbiota Transplantation,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2242628,C0947647,METHOD_OF,Fecal Microbiota Transplantation,Manipulation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2827774,C0037935,METHOD_OF,Current Therapy,Spinal fusion (procedure),topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2930473,C0404136,METHOD_OF,Balloon Tamponade,Uterine pack procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2936405,C0013218,METHOD_OF,Drug Repositioning,Combination Drug Therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2936405,C0013969,METHOD_OF,Drug Repositioning,Emergency treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2936405,C0199176,METHOD_OF,Drug Repositioning,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2936405,C1511300,METHOD_OF,Drug Repositioning,Breast Cancer Therapeutic Procedure,topp,topp,4,METHOD_OF_TOPPmthfTOPP
+C2936643,C0021589,METHOD_OF,Standard of Care,"Insemination, Artificial, Homologous",topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2936643,C0199451,METHOD_OF,Standard of Care,Continuous Positive Airway Pressure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2945704,C0150457,METHOD_OF,Conventional Treatment,Anticoagulant therapy,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2945704,C0185115,METHOD_OF,Conventional Treatment,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2945704,C0581602,METHOD_OF,Conventional Treatment,Structural modification,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2945704,C1708063,METHOD_OF,Conventional Treatment,First line treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2985557,C0185115,METHOD_OF,Gamma Irradiation,Extraction,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2985557,C1522449,METHOD_OF,Gamma Irradiation,Therapeutic radiology procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2986502,C0917927,METHOD_OF,Zheng,Breast-Conserving Surgery,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C2987620,C0042196,METHOD_OF,Inoculation,Vaccination,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3177188,C0199470,METHOD_OF,Early Therapy,Mechanical ventilation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3178854,C0554804,METHOD_OF,Neurally Adjusted Ventilatory Assist,Assisted breathing,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3178951,C0020971,METHOD_OF,"Administration, Ophthalmic",Immunization,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3179010,C0472699,METHOD_OF,Induction Chemotherapy,Hemopoietic stem cell transplant,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3272275,C1171194,METHOD_OF,Urgent Procedure,Fertility Preservation,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3274791,C1293130,METHOD_OF,Mechanical Circulatory Support,Stabilization,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C3275122,C0021107,METHOD_OF,Pacemaker Procedure,Implantation procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3540512,C0199176,METHOD_OF,Circumferential Supracrestal Fiberotomy,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3665674,C0521300,METHOD_OF,Warburg Therapy,Life support procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3825792,C0040590,METHOD_OF,Pressure breathing,Tracheostomy procedure,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3850098,C0150413,METHOD_OF,Pre-Exposure Prophylaxis,HIV prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C3897943,C0150773,METHOD_OF,Peripheral Vascular Intervention,Skin Care,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C4042855,C0199176,METHOD_OF,RNAi Therapeutics,Prophylactic treatment,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C4042855,C0679698,METHOD_OF,RNAi Therapeutics,disease prevention,topp,topp,1,METHOD_OF_TOPPmthfTOPP
+C4489703,C0023416,METHOD_OF,Peripheral venous access,Leukapheresis,topp,topp,2,METHOD_OF_TOPPmthfTOPP
+C4526535,C0814435,METHOD_OF,Bendamustine/Lenalidomide/Dexamethasone Regimen,early identification,topp,topp,1,METHOD_OF_TOPPmthfTOPP

@@ -1,0 +1,68 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0678935,AUGMENTS,Autophagy,RNA translation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0004391,C1158817,AUGMENTS,Autophagy,viral transcription,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0004391,C1514849,AUGMENTS,Autophagy,Replication-Associated Process,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007586,C0598312,AUGMENTS,Cell Cycle,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007586,C1751194,AUGMENTS,Cell Cycle,DNA damage checkpoint,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007595,C1171362,AUGMENTS,cell growth,protein expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007613,C0012899,AUGMENTS,Cell physiology,DNA Repair,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007613,C0017262,AUGMENTS,Cell physiology,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007613,C1136031,AUGMENTS,Cell physiology,RNA Interference,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007613,C1156210,AUGMENTS,Cell physiology,chromatin remodeling,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C0040649,AUGMENTS,Cytokinesis,"Transcription, Genetic",celf,genf,3,AUGMENTS_CELFaugmGENF
+C0010813,C1152412,AUGMENTS,Cytokinesis,RNA-directed RNA polymerase activity,celf,genf,2,AUGMENTS_CELFaugmGENF
+C0010813,C1158480,AUGMENTS,Cytokinesis,Depurination,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1158513,AUGMENTS,Cytokinesis,double-strand break repair via homologous recombination,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1511695,AUGMENTS,Cytokinesis,DNA Sequence Rearrangement,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1518406,AUGMENTS,Cytokinesis,Non-Homologous DNA End-Joining,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1519619,AUGMENTS,Cytokinesis,Translational Repression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C2260797,AUGMENTS,Cytokinesis,RNase activity,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0015283,C0598312,AUGMENTS,Exocytosis,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0031308,C0598496,AUGMENTS,Phagocytosis,Gene Silencing,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0037083,C0040649,AUGMENTS,Signal Transduction,"Transcription, Genetic",celf,genf,6,AUGMENTS_CELFaugmGENF
+C0037083,C0162493,AUGMENTS,Signal Transduction,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0037083,C1157567,AUGMENTS,Signal Transduction,translational termination,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0037083,C1519614,AUGMENTS,Signal Transduction,Genetic Translation Process,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0042774,C0040649,AUGMENTS,Virus Replication,"Transcription, Genetic",celf,genf,3,AUGMENTS_CELFaugmGENF
+C0042774,C1136031,AUGMENTS,Virus Replication,RNA Interference,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0042774,C1148807,AUGMENTS,Virus Replication,endonuclease activity,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0042774,C1257756,AUGMENTS,Virus Replication,RNA Degradation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0042774,C1328949,AUGMENTS,Virus Replication,RNA replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0042774,C1511695,AUGMENTS,Virus Replication,DNA Sequence Rearrangement,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0042774,C1519614,AUGMENTS,Virus Replication,Genetic Translation Process,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0162638,C0040649,AUGMENTS,Apoptosis,"Transcription, Genetic",celf,genf,3,AUGMENTS_CELFaugmGENF
+C0162638,C1257756,AUGMENTS,Apoptosis,RNA Degradation,celf,genf,2,AUGMENTS_CELFaugmGENF
+C0162638,C1257758,AUGMENTS,Apoptosis,mRNA Decay,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0162638,C1512167,AUGMENTS,Apoptosis,Ectopic Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0302167,C1519613,AUGMENTS,capping,Translation Initiation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0597361,C1511695,AUGMENTS,Receptor Mediated Endocytosis,DNA Sequence Rearrangement,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0600430,C0017262,AUGMENTS,Calcium Waves,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0600430,C0040649,AUGMENTS,Calcium Waves,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C0887839,C1148754,AUGMENTS,Nuclear Import,single-stranded DNA binding,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155008,C0026882,AUGMENTS,b-cell proliferation,Mutation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155065,C0162493,AUGMENTS,T-Cell Activation,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155342,C0017262,AUGMENTS,cellular response to unfolded protein,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155342,C0040649,AUGMENTS,cellular response to unfolded protein,"Transcription, Genetic",celf,genf,4,AUGMENTS_CELFaugmGENF
+C1155342,C0599177,AUGMENTS,cellular response to unfolded protein,protein activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155873,C0598312,AUGMENTS,Cell Cycle Arrest,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155873,C1751194,AUGMENTS,Cell Cycle Arrest,DNA damage checkpoint,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1156140,C0040649,AUGMENTS,ribosome biogenesis,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1160700,C1158820,AUGMENTS,viral gene expression,late viral transcription,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1160716,C0598312,AUGMENTS,viral transmission,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1318468,C0017262,AUGMENTS,cell mediated immune response,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1326121,C0017262,AUGMENTS,astrocyte activation,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1327414,C0040649,AUGMENTS,cytokine secretion,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1523936,C0017262,AUGMENTS,cellular biosynthetic process,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1524026,C1257756,AUGMENTS,"Metabolic Process, Cellular",RNA Degradation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1622911,C1149630,AUGMENTS,Anaphase,NAD-dependent histone deacetylase activity,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1622911,C1156152,AUGMENTS,Anaphase,rRNA processing,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2610960,C0162493,AUGMENTS,Pyroptosis,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2611812,C0040649,AUGMENTS,signaling cascade,"Transcription, Genetic",celf,genf,2,AUGMENTS_CELFaugmGENF
+C2611812,C0162493,AUGMENTS,signaling cascade,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2611812,C1148673,AUGMENTS,signaling cascade,dna binding,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2613145,C0040649,AUGMENTS,response to endoplasmic reticulum stress,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C2755756,C0017262,AUGMENTS,cellular transcription,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2755756,C0020202,AUGMENTS,cellular transcription,Crossbreeding,celf,genf,1,AUGMENTS_CELFaugmGENF
+C3178831,C0012899,AUGMENTS,G1 Phase Cell Cycle Checkpoints,DNA Repair,celf,genf,1,AUGMENTS_CELFaugmGENF
+C3825288,C0040649,AUGMENTS,Cellular signal transduction,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C4277581,C0040649,AUGMENTS,Tumor Hypoxia,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF

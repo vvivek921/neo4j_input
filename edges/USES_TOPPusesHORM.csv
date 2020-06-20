@@ -1,0 +1,106 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0001617,USES,"Administration, Intranasal",Adrenal Cortex Hormones,topp,horm,2,USES_TOPPusesHORM
+C0001563,C0001617,USES,"Administration, Oral",Adrenal Cortex Hormones,topp,horm,7,USES_TOPPusesHORM
+C0001563,C0014927,USES,"Administration, Oral",Estriol,topp,horm,1,USES_TOPPusesHORM
+C0001563,C0032952,USES,"Administration, Oral",Prednisone,topp,horm,2,USES_TOPPusesHORM
+C0001566,C0001617,USES,"Administration, Topical",Adrenal Cortex Hormones,topp,horm,3,USES_TOPPusesHORM
+C0009429,C0025815,USES,Combined Modality Therapy,Methylprednisolone,topp,horm,1,USES_TOPPusesHORM
+C0009429,C0032952,USES,Combined Modality Therapy,Prednisone,topp,horm,2,USES_TOPPusesHORM
+C0009429,C0732611,USES,Combined Modality Therapy,Selective Estrogen Receptor Modulators,topp,horm,1,USES_TOPPusesHORM
+C0012683,C0001617,USES,Disinfection,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0013216,C0014939,USES,Pharmacotherapy,Estrogens,topp,horm,1,USES_TOPPusesHORM
+C0013216,C0772289,USES,Pharmacotherapy,"corticotropin-releasing factor, human",topp,horm,1,USES_TOPPusesHORM
+C0015250,C0014939,USES,Complete excision,Estrogens,topp,horm,1,USES_TOPPusesHORM
+C0021079,C0001617,USES,Therapeutic immunosuppression,Adrenal Cortex Hormones,topp,horm,4,USES_TOPPusesHORM
+C0021079,C0032952,USES,Therapeutic immunosuppression,Prednisone,topp,horm,1,USES_TOPPusesHORM
+C0021083,C0025219,USES,Immunotherapy,Melatonin,topp,horm,1,USES_TOPPusesHORM
+C0021440,C0028351,USES,Intravenous infusion procedures,Norepinephrine,topp,horm,3,USES_TOPPusesHORM
+C0021459,C0001617,USES,Inhalation Therapy,Adrenal Cortex Hormones,topp,horm,17,USES_TOPPusesHORM
+C0021485,C0001617,USES,Injection of therapeutic agent,Adrenal Cortex Hormones,topp,horm,2,USES_TOPPusesHORM
+C0021485,C0002844,USES,Injection of therapeutic agent,Androgens,topp,horm,1,USES_TOPPusesHORM
+C0021485,C0010137,USES,Injection of therapeutic agent,Cortisone,topp,horm,1,USES_TOPPusesHORM
+C0021485,C0025219,USES,Injection of therapeutic agent,Melatonin,topp,horm,4,USES_TOPPusesHORM
+C0021490,C0001617,USES,"Injections, Intralesional",Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0024875,C0014563,USES,Massage,Epinephrine,topp,horm,1,USES_TOPPusesHORM
+C0030231,C0025815,USES,Palliative Care,Methylprednisolone,topp,horm,1,USES_TOPPusesHORM
+C0030231,C0032952,USES,Palliative Care,Prednisone,topp,horm,1,USES_TOPPusesHORM
+C0032042,C0020268,USES,Placebos,Hydrocortisone,topp,horm,1,USES_TOPPusesHORM
+C0032113,C0001617,USES,Plasma Exchange,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0033045,C0001617,USES,Premedication,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0033045,C0014563,USES,Premedication,Epinephrine,topp,horm,1,USES_TOPPusesHORM
+C0033971,C0001617,USES,Group Psychotherapy,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0033972,C0001617,USES,"Psychotherapy, Multiple",Adrenal Cortex Hormones,topp,horm,2,USES_TOPPusesHORM
+C0035139,C0001617,USES,Surgical Replantation,Adrenal Cortex Hormones,topp,horm,2,USES_TOPPusesHORM
+C0035139,C0002844,USES,Surgical Replantation,Androgens,topp,horm,1,USES_TOPPusesHORM
+C0035139,C0014912,USES,Surgical Replantation,Estradiol,topp,horm,3,USES_TOPPusesHORM
+C0035139,C0026160,USES,Surgical Replantation,Mineralocorticoids,topp,horm,1,USES_TOPPusesHORM
+C0035139,C0036884,USES,Surgical Replantation,Gonadal Steroid Hormones,topp,horm,2,USES_TOPPusesHORM
+C0035139,C0039601,USES,Surgical Replantation,Testosterone,topp,horm,1,USES_TOPPusesHORM
+C0040808,C0001617,USES,Treatment Protocols,Adrenal Cortex Hormones,topp,horm,25,USES_TOPPusesHORM
+C0040808,C0010961,USES,Treatment Protocols,Danazol,topp,horm,1,USES_TOPPusesHORM
+C0040808,C0020268,USES,Treatment Protocols,Hydrocortisone,topp,horm,3,USES_TOPPusesHORM
+C0040808,C0032952,USES,Treatment Protocols,Prednisone,topp,horm,3,USES_TOPPusesHORM
+C0040808,C0813203,USES,Treatment Protocols,Desoxycorticosterone acetate,topp,horm,1,USES_TOPPusesHORM
+C0056167,C0032952,USES,cyclophosphamide/methotrexate/prednisone/vincristine protocol,Prednisone,topp,horm,13,USES_TOPPusesHORM
+C0079613,C0012472,USES,Adoptive Immunotherapy,Dinoprostone,topp,horm,2,USES_TOPPusesHORM
+C0079613,C0033554,USES,Adoptive Immunotherapy,Prostaglandins,topp,horm,1,USES_TOPPusesHORM
+C0086258,C0033308,USES,Estrogen Replacements,Progesterone,topp,horm,1,USES_TOPPusesHORM
+C0149783,C0025815,USES,Steroid therapy,Methylprednisolone,topp,horm,1,USES_TOPPusesHORM
+C0150238,C0028351,USES,Fluid resuscitation,Norepinephrine,topp,horm,1,USES_TOPPusesHORM
+C0185027,C0732611,USES,Imbrication (procedure),Selective Estrogen Receptor Modulators,topp,horm,1,USES_TOPPusesHORM
+C0185115,C0020268,USES,Extraction,Hydrocortisone,topp,horm,1,USES_TOPPusesHORM
+C0185115,C0032952,USES,Extraction,Prednisone,topp,horm,1,USES_TOPPusesHORM
+C0185115,C0772289,USES,Extraction,"corticotropin-releasing factor, human",topp,horm,3,USES_TOPPusesHORM
+C0199176,C0001617,USES,Prophylactic treatment,Adrenal Cortex Hormones,topp,horm,3,USES_TOPPusesHORM
+C0279025,C0002845,USES,Hormone Therapy,"Androgens, Synthetic",topp,horm,1,USES_TOPPusesHORM
+C0279025,C0014939,USES,Hormone Therapy,Estrogens,topp,horm,1,USES_TOPPusesHORM
+C0279025,C0025815,USES,Hormone Therapy,Methylprednisolone,topp,horm,1,USES_TOPPusesHORM
+C0279033,C0020268,USES,Replacement therapy,Hydrocortisone,topp,horm,1,USES_TOPPusesHORM
+C0279033,C0025219,USES,Replacement therapy,Melatonin,topp,horm,1,USES_TOPPusesHORM
+C0282402,C0014912,USES,Hormone replacement therapy,Estradiol,topp,horm,1,USES_TOPPusesHORM
+C0282402,C0014939,USES,Hormone replacement therapy,Estrogens,topp,horm,1,USES_TOPPusesHORM
+C0282402,C0699710,USES,Hormone replacement therapy,Premarin,topp,horm,1,USES_TOPPusesHORM
+C0338237,C0001617,USES,Antibiotic therapy,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0374505,C0020268,USES,Group Therapies,Hydrocortisone,topp,horm,1,USES_TOPPusesHORM
+C0376495,C0014563,USES,Retreatments,Epinephrine,topp,horm,1,USES_TOPPusesHORM
+C0439775,C0020268,USES,Elevation procedure,Hydrocortisone,topp,horm,1,USES_TOPPusesHORM
+C0441516,C0002845,USES,Demand (clinical),"Androgens, Synthetic",topp,horm,1,USES_TOPPusesHORM
+C0455142,C0001617,USES,Intravenous therapy,Adrenal Cortex Hormones,topp,horm,3,USES_TOPPusesHORM
+C0455142,C0025815,USES,Intravenous therapy,Methylprednisolone,topp,horm,3,USES_TOPPusesHORM
+C0565861,C0028351,USES,Intravenous blood transfusion,Norepinephrine,topp,horm,1,USES_TOPPusesHORM
+C0600558,C0001617,USES,Neoadjuvant Therapy,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0600558,C0025815,USES,Neoadjuvant Therapy,Methylprednisolone,topp,horm,1,USES_TOPPusesHORM
+C0677850,C0001617,USES,adjuvant therapy,Adrenal Cortex Hormones,topp,horm,23,USES_TOPPusesHORM
+C0677850,C0014939,USES,adjuvant therapy,Estrogens,topp,horm,1,USES_TOPPusesHORM
+C0677850,C0025815,USES,adjuvant therapy,Methylprednisolone,topp,horm,1,USES_TOPPusesHORM
+C0677908,C0001617,USES,Maintenance therapy,Adrenal Cortex Hormones,topp,horm,4,USES_TOPPusesHORM
+C0677908,C0032952,USES,Maintenance therapy,Prednisone,topp,horm,2,USES_TOPPusesHORM
+C0678812,C0001617,USES,systemic administration,Adrenal Cortex Hormones,topp,horm,40,USES_TOPPusesHORM
+C0678812,C0033308,USES,systemic administration,Progesterone,topp,horm,1,USES_TOPPusesHORM
+C0848063,C0001617,USES,joint injection,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0851604,C0014939,USES,Vaginal Therapy,Estrogens,topp,horm,3,USES_TOPPusesHORM
+C0872361,C0001617,USES,prenatal therapy,Adrenal Cortex Hormones,topp,horm,2,USES_TOPPusesHORM
+C0887947,C0001617,USES,"Antiretroviral Therapy, Highly Active",Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0887947,C0014939,USES,"Antiretroviral Therapy, Highly Active",Estrogens,topp,horm,1,USES_TOPPusesHORM
+C0935576,C0001617,USES,treatment guideline,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C0949266,C0014939,USES,"Therapies, Investigational",Estrogens,topp,horm,1,USES_TOPPusesHORM
+C1293116,C0001617,USES,Introduction procedure,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C1293130,C0002845,USES,Stabilization,"Androgens, Synthetic",topp,horm,1,USES_TOPPusesHORM
+C1299597,C0001617,USES,Empirical therapy,Adrenal Cortex Hormones,topp,horm,3,USES_TOPPusesHORM
+C1299597,C0020268,USES,Empirical therapy,Hydrocortisone,topp,horm,1,USES_TOPPusesHORM
+C1511790,C0014912,USES,Detection,Estradiol,topp,horm,2,USES_TOPPusesHORM
+C1511790,C0028351,USES,Detection,Norepinephrine,topp,horm,1,USES_TOPPusesHORM
+C1515119,C0001617,USES,systemic therapy,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C1515119,C0032952,USES,systemic therapy,Prednisone,topp,horm,1,USES_TOPPusesHORM
+C1517925,C0001617,USES,Local Therapy,Adrenal Cortex Hormones,topp,horm,3,USES_TOPPusesHORM
+C1562158,C0001617,USES,"Injections, Periocular",Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C1659427,C0014563,USES,Nebulization,Epinephrine,topp,horm,2,USES_TOPPusesHORM
+C1707479,C0001617,USES,Concomitant Therapy,Adrenal Cortex Hormones,topp,horm,3,USES_TOPPusesHORM
+C1708063,C0001617,USES,First line treatment,Adrenal Cortex Hormones,topp,horm,4,USES_TOPPusesHORM
+C1708063,C0014563,USES,First line treatment,Epinephrine,topp,horm,1,USES_TOPPusesHORM
+C1963758,C0001617,USES,Immunomodulation,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C2735670,C0001617,USES,Medication intervention,Adrenal Cortex Hormones,topp,horm,1,USES_TOPPusesHORM
+C2945704,C0001617,USES,Conventional Treatment,Adrenal Cortex Hormones,topp,horm,2,USES_TOPPusesHORM
+C3177188,C0001617,USES,Early Therapy,Adrenal Cortex Hormones,topp,horm,20,USES_TOPPusesHORM
+C3177188,C0020268,USES,Early Therapy,Hydrocortisone,topp,horm,4,USES_TOPPusesHORM
+C3858690,C0001617,USES,adjunctive treatment,Adrenal Cortex Hormones,topp,horm,4,USES_TOPPusesHORM

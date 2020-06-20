@@ -1,0 +1,243 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000545,C0015689,ISA,Eicosapentaenoic Acid,Omega-3 Fatty Acids,bacs,bacs,2,ISA_BACSisaBACS
+C0000545,C0032615,ISA,Eicosapentaenoic Acid,Polyunsaturated Fatty Acids,bacs,bacs,3,ISA_BACSisaBACS
+C0000702,C0012854,ISA,"DNA, A-Form",DNA,bacs,bacs,2,ISA_BACSisaBACS
+C0001041,C0008405,ISA,Acetylcholine,Choline,bacs,bacs,1,ISA_BACSisaBACS
+C0001041,C0027908,ISA,Acetylcholine,Neurotransmitters,bacs,bacs,18,ISA_BACSisaBACS
+C0001443,C0028606,ISA,Adenosine,Nucleic Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0001455,C1519315,ISA,Cyclic AMP,Signaling Molecule,bacs,bacs,1,ISA_BACSisaBACS
+C0001480,C0001443,ISA,Adenosine Triphosphate,Adenosine,bacs,bacs,1,ISA_BACSisaBACS
+C0002358,C0012854,ISA,Alu Elements,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0002728,C0038179,ISA,Amylopectin,Starch,bacs,bacs,2,ISA_BACSisaBACS
+C0003284,C0035711,ISA,Anticodon,Transfer RNA,bacs,bacs,32,ISA_BACSisaBACS
+C0005437,C0005402,ISA,Bilirubin,Bile Pigments,bacs,bacs,1,ISA_BACSisaBACS
+C0005444,C0005402,ISA,Biliverdin IX,Bile Pigments,bacs,bacs,1,ISA_BACSisaBACS
+C0005446,C0005437,ISA,Biliverdine,Bilirubin,bacs,bacs,1,ISA_BACSisaBACS
+C0005496,C0027908,ISA,Biogenic Amines,Neurotransmitters,bacs,bacs,1,ISA_BACSisaBACS
+C0007269,C0007271,ISA,Carotene,Carotenoids,bacs,bacs,3,ISA_BACSisaBACS
+C0007269,C0039561,ISA,Carotene,Terpenes,bacs,bacs,1,ISA_BACSisaBACS
+C0007271,C0039561,ISA,Carotenoids,Terpenes,bacs,bacs,1,ISA_BACSisaBACS
+C0007412,C0001041,ISA,Catecholamines,Acetylcholine,bacs,bacs,2,ISA_BACSisaBACS
+C0007412,C0027908,ISA,Catecholamines,Neurotransmitters,bacs,bacs,4,ISA_BACSisaBACS
+C0008024,C0005390,ISA,Chenodeoxycholic Acid,Bile Acids,bacs,bacs,2,ISA_BACSisaBACS
+C0008260,C0032712,ISA,Chlorophyll,Porphyrins,bacs,bacs,1,ISA_BACSisaBACS
+C0008377,C0031866,ISA,Cholesterol,Phytosterols,bacs,bacs,4,ISA_BACSisaBACS
+C0008387,C0008377,ISA,Cholesterol Esters,Cholesterol,bacs,bacs,3,ISA_BACSisaBACS
+C0008466,C0017973,ISA,Chondroitin Sulfates,Glycosaminoglycans,bacs,bacs,4,ISA_BACSisaBACS
+C0009148,C0040577,ISA,Cobalt,Trace Elements,bacs,bacs,1,ISA_BACSisaBACS
+C0009968,C0040577,ISA,Copper,Trace Elements,bacs,bacs,8,ISA_BACSisaBACS
+C0010167,C0012854,ISA,Cosmids,DNA,bacs,bacs,4,ISA_BACSisaBACS
+C0010167,C0032136,ISA,Cosmids,Plasmids,bacs,bacs,1,ISA_BACSisaBACS
+C0010843,C0012854,ISA,Cytosine,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0010843,C0034289,ISA,Cytosine,Pyrimidines,bacs,bacs,1,ISA_BACSisaBACS
+C0010868,C0040549,ISA,Cytotoxin,Toxin,bacs,bacs,4,ISA_BACSisaBACS
+C0011145,C0142281,ISA,Deferoxamine,Siderophores,bacs,bacs,2,ISA_BACSisaBACS
+C0011602,C0017973,ISA,Dermatan Sulfate,Glycosaminoglycans,bacs,bacs,2,ISA_BACSisaBACS
+C0012854,C0028606,ISA,DNA,Nucleic Acids,bacs,bacs,69,ISA_BACSisaBACS
+C0012925,C0012854,ISA,"DNA, Circular",DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0012929,C0012854,ISA,"DNA, Mitochondrial",DNA,bacs,bacs,3,ISA_BACSisaBACS
+C0012929,C0012925,ISA,"DNA, Mitochondrial","DNA, Circular",bacs,bacs,1,ISA_BACSisaBACS
+C0012968,C0015689,ISA,Docosahexaenoic Acids,Omega-3 Fatty Acids,bacs,bacs,4,ISA_BACSisaBACS
+C0012968,C0032615,ISA,Docosahexaenoic Acids,Polyunsaturated Fatty Acids,bacs,bacs,2,ISA_BACSisaBACS
+C0013030,C0001041,ISA,Dopamine,Acetylcholine,bacs,bacs,1,ISA_BACSisaBACS
+C0013030,C0007412,ISA,Dopamine,Catecholamines,bacs,bacs,4,ISA_BACSisaBACS
+C0013030,C0027908,ISA,Dopamine,Neurotransmitters,bacs,bacs,24,ISA_BACSisaBACS
+C0014290,C0012854,ISA,"Enhancer Elements, Genetic",DNA,bacs,bacs,2,ISA_BACSisaBACS
+C0014290,C0034987,ISA,"Enhancer Elements, Genetic","Regulatory Sequences, Nucleic Acid",bacs,bacs,2,ISA_BACSisaBACS
+C0015435,C0032136,ISA,F Factor,Plasmids,bacs,bacs,1,ISA_BACSisaBACS
+C0015540,C0178555,ISA,Flavin-Adenine Dinucleotide,chemical cofactor,bacs,bacs,1,ISA_BACSisaBACS
+C0015689,C0032615,ISA,Omega-3 Fatty Acids,Polyunsaturated Fatty Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0016895,C0017950,ISA,Ganglioside GM1,Glycolipids,bacs,bacs,1,ISA_BACSisaBACS
+C0016960,C0017950,ISA,Galactosylceramides,Glycolipids,bacs,bacs,3,ISA_BACSisaBACS
+C0017647,C0017950,ISA,Globosides,Glycolipids,bacs,bacs,1,ISA_BACSisaBACS
+C0017770,C0017950,ISA,Glucosylceramides,Glycolipids,bacs,bacs,1,ISA_BACSisaBACS
+C0018338,C0018346,ISA,Cyclic GMP,Guanosine Monophosphate,bacs,bacs,1,ISA_BACSisaBACS
+C0018966,C0032712,ISA,Heme,Porphyrins,bacs,bacs,3,ISA_BACSisaBACS
+C0018988,C0015877,ISA,Hemin,Ferriprotoporphyrin IX,bacs,bacs,2,ISA_BACSisaBACS
+C0019053,C0010868,ISA,Hemolysin,Cytotoxin,bacs,bacs,2,ISA_BACSisaBACS
+C0019053,C0040549,ISA,Hemolysin,Toxin,bacs,bacs,8,ISA_BACSisaBACS
+C0019134,C0017973,ISA,heparin,Glycosaminoglycans,bacs,bacs,7,ISA_BACSisaBACS
+C0019143,C0017973,ISA,Heparitin Sulfate,Glycosaminoglycans,bacs,bacs,16,ISA_BACSisaBACS
+C0019588,C0005496,ISA,Histamine,Biogenic Amines,bacs,bacs,4,ISA_BACSisaBACS
+C0019588,C0027908,ISA,Histamine,Neurotransmitters,bacs,bacs,1,ISA_BACSisaBACS
+C0019588,C0037343,ISA,Histamine,Autacoids,bacs,bacs,3,ISA_BACSisaBACS
+C0020196,C0017973,ISA,Hyaluronic Acid,Glycosaminoglycans,bacs,bacs,1,ISA_BACSisaBACS
+C0022030,C0007289,ISA,iota-Carrageenan,Carrageenan,bacs,bacs,1,ISA_BACSisaBACS
+C0023542,C0023545,ISA,Leukotriene C4,Leukotrienes,bacs,bacs,1,ISA_BACSisaBACS
+C0023545,C1519315,ISA,Leukotrienes,Signaling Molecule,bacs,bacs,1,ISA_BACSisaBACS
+C0023546,C0023545,ISA,Leukotriene B4,Leukotrienes,bacs,bacs,10,ISA_BACSisaBACS
+C0023749,C0032615,ISA,Linoleic Acid,Polyunsaturated Fatty Acids,bacs,bacs,5,ISA_BACSisaBACS
+C0023822,C0008377,ISA,High Density Lipoprotein Cholesterol,Cholesterol,bacs,bacs,1,ISA_BACSisaBACS
+C0023875,C0005390,ISA,Lithocholic Acid,Bile Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0024706,C0040577,ISA,Manganese,Trace Elements,bacs,bacs,3,ISA_BACSisaBACS
+C0026402,C0040577,ISA,Molybdenum,Trace Elements,bacs,bacs,4,ISA_BACSisaBACS
+C0027270,C0009235,ISA,Nicotinamide adenine dinucleotide (NAD),Coenzymes,bacs,bacs,2,ISA_BACSisaBACS
+C0027270,C0178555,ISA,Nicotinamide adenine dinucleotide (NAD),chemical cofactor,bacs,bacs,1,ISA_BACSisaBACS
+C0027303,C0009235,ISA,NADP,Coenzymes,bacs,bacs,1,ISA_BACSisaBACS
+C0027303,C0178555,ISA,NADP,chemical cofactor,bacs,bacs,3,ISA_BACSisaBACS
+C0028128,C0016693,ISA,Nitric Oxide,Free Radicals,bacs,bacs,13,ISA_BACSisaBACS
+C0028128,C0027908,ISA,Nitric Oxide,Neurotransmitters,bacs,bacs,1,ISA_BACSisaBACS
+C0028128,C0969698,ISA,Nitric Oxide,Reactive Nitrogen Species,bacs,bacs,2,ISA_BACSisaBACS
+C0028403,C0041479,ISA,Octopamine,Tyramine,bacs,bacs,1,ISA_BACSisaBACS
+C0031614,C0031676,ISA,Phosphatidyl glycerol,Phospholipids,bacs,bacs,2,ISA_BACSisaBACS
+C0031617,C0031676,ISA,Lecithin,Phospholipids,bacs,bacs,11,ISA_BACSisaBACS
+C0031618,C0031676,ISA,Phosphatidylethanolamines,Phospholipids,bacs,bacs,8,ISA_BACSisaBACS
+C0031621,C0017950,ISA,Phosphatidylinositols,Glycolipids,bacs,bacs,2,ISA_BACSisaBACS
+C0031621,C0031676,ISA,Phosphatidylinositols,Phospholipids,bacs,bacs,4,ISA_BACSisaBACS
+C0031866,C0577749,ISA,Phytosterols,Phytochemicals,bacs,bacs,1,ISA_BACSisaBACS
+C0032136,C0012854,ISA,Plasmids,DNA,bacs,bacs,312,ISA_BACSisaBACS
+C0032136,C0012925,ISA,Plasmids,"DNA, Circular",bacs,bacs,17,ISA_BACSisaBACS
+C0032136,C0028606,ISA,Plasmids,Nucleic Acids,bacs,bacs,5,ISA_BACSisaBACS
+C0032136,C0311474,ISA,Plasmids,"DNA, Double-Stranded",bacs,bacs,1,ISA_BACSisaBACS
+C0032136,C0919262,ISA,Plasmids,"DNA, B-Form",bacs,bacs,1,ISA_BACSisaBACS
+C0032403,C0001461,ISA,Poly Adenosine Diphosphate Ribose,Adenosine Diphosphate Ribose,bacs,bacs,1,ISA_BACSisaBACS
+C0032403,C0028606,ISA,Poly Adenosine Diphosphate Ribose,Nucleic Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0032712,C0076335,ISA,Porphyrins,Tetrapyrroles,bacs,bacs,1,ISA_BACSisaBACS
+C0033567,C0205911,ISA,Epoprostenol,Prostaglandins I,bacs,bacs,3,ISA_BACSisaBACS
+C0034085,C0031676,ISA,Pulmonary Surfactants,Phospholipids,bacs,bacs,43,ISA_BACSisaBACS
+C0034471,C0032136,ISA,R Factors,Plasmids,bacs,bacs,2,ISA_BACSisaBACS
+C0034987,C0012854,ISA,"Regulatory Sequences, Nucleic Acid",DNA,bacs,bacs,9,ISA_BACSisaBACS
+C0035142,C0012854,ISA,Replicon,DNA,bacs,bacs,13,ISA_BACSisaBACS
+C0035142,C0028606,ISA,Replicon,Nucleic Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0035693,C0028606,ISA,"RNA, Double-Stranded",Nucleic Acids,bacs,bacs,8,ISA_BACSisaBACS
+C0035695,C0035700,ISA,Heterogeneous Nuclear RNA,"RNA, Nuclear",bacs,bacs,2,ISA_BACSisaBACS
+C0035696,C0028606,ISA,"RNA, Messenger",Nucleic Acids,bacs,bacs,6,ISA_BACSisaBACS
+C0035701,C0028606,ISA,Ribosomal RNA,Nucleic Acids,bacs,bacs,4,ISA_BACSisaBACS
+C0035703,C0035701,ISA,"RNA, Ribosomal, 18S",Ribosomal RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0035709,C0035700,ISA,Small Nuclear RNA,"RNA, Nuclear",bacs,bacs,2,ISA_BACSisaBACS
+C0035716,C0035711,ISA,Asparagine-Specific tRNA,Transfer RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0035719,C0035711,ISA,Glutamine-Specific tRNA,Transfer RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0035724,C0035711,ISA,Leucine-Specific tRNA,Transfer RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0035728,C0035711,ISA,Phenylalanine-Specific tRNA,Transfer RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0035731,C0035711,ISA,Serine-Specific tRNA,Transfer RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0036248,C0040549,ISA,Saxitoxin,Toxin,bacs,bacs,5,ISA_BACSisaBACS
+C0036450,C0040549,ISA,Scorpion Venoms,Toxin,bacs,bacs,2,ISA_BACSisaBACS
+C0036581,C0040577,ISA,Selenium,Trace Elements,bacs,bacs,21,ISA_BACSisaBACS
+C0036581,C0282575,ISA,Selenium,Micronutrients,bacs,bacs,1,ISA_BACSisaBACS
+C0036751,C0001041,ISA,Serotonin,Acetylcholine,bacs,bacs,1,ISA_BACSisaBACS
+C0036751,C0005496,ISA,Serotonin,Biogenic Amines,bacs,bacs,1,ISA_BACSisaBACS
+C0036751,C0027908,ISA,Serotonin,Neurotransmitters,bacs,bacs,13,ISA_BACSisaBACS
+C0036751,C0037343,ISA,Serotonin,Autacoids,bacs,bacs,1,ISA_BACSisaBACS
+C0037494,C0037473,ISA,Sodium Chloride,Sodium,bacs,bacs,1,ISA_BACSisaBACS
+C0037871,C0034170,ISA,spermidine,Putrescine,bacs,bacs,1,ISA_BACSisaBACS
+C0037874,C0034170,ISA,spermine,Putrescine,bacs,bacs,1,ISA_BACSisaBACS
+C0037874,C0037871,ISA,spermine,spermidine,bacs,bacs,1,ISA_BACSisaBACS
+C0037906,C0007745,ISA,Sphingomyelins,Ceramides,bacs,bacs,7,ISA_BACSisaBACS
+C0038727,C0017950,ISA,Sulfoglycosphingolipids,Glycolipids,bacs,bacs,1,ISA_BACSisaBACS
+C0039554,C0012854,ISA,"Terminator Regions, Genetic",DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0039554,C0034987,ISA,"Terminator Regions, Genetic","Regulatory Sequences, Nucleic Acid",bacs,bacs,1,ISA_BACSisaBACS
+C0039705,C1566558,ISA,Tetrodotoxin,Natural Products,bacs,bacs,1,ISA_BACSisaBACS
+C0040059,C0040061,ISA,Thromboxane B2,Thromboxanes,bacs,bacs,1,ISA_BACSisaBACS
+C0040087,C0034289,ISA,Thymine,Pyrimidines,bacs,bacs,2,ISA_BACSisaBACS
+C0040087,C0041917,ISA,Thymine,Uracil,bacs,bacs,6,ISA_BACSisaBACS
+C0040952,C0040549,ISA,Trichothecenes,Toxin,bacs,bacs,5,ISA_BACSisaBACS
+C0041479,C0005496,ISA,Tyramine,Biogenic Amines,bacs,bacs,1,ISA_BACSisaBACS
+C0041525,C0035709,ISA,U1 small nuclear RNA,Small Nuclear RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0041526,C0035709,ISA,U2 small nuclear RNA,Small Nuclear RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0041532,C0035709,ISA,U6 small nuclear RNA,Small Nuclear RNA,bacs,bacs,1,ISA_BACSisaBACS
+C0041917,C0034289,ISA,Uracil,Pyrimidines,bacs,bacs,1,ISA_BACSisaBACS
+C0041987,C0041995,ISA,Uridine Diphosphate Galactose,Uridine Diphosphate Sugars,bacs,bacs,1,ISA_BACSisaBACS
+C0041988,C0041995,ISA,Uridine Diphosphate Glucose,Uridine Diphosphate Sugars,bacs,bacs,1,ISA_BACSisaBACS
+C0041991,C0027303,ISA,Uridine Diphosphate Glucuronic Acid,NADP,bacs,bacs,1,ISA_BACSisaBACS
+C0042105,C0005390,ISA,Ursodiol,Bile Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0043328,C0007271,ISA,Lutein,Carotenoids,bacs,bacs,2,ISA_BACSisaBACS
+C0043328,C0949636,ISA,Lutein,Xanthophylls,bacs,bacs,1,ISA_BACSisaBACS
+C0043481,C0040577,ISA,Zinc,Trace Elements,bacs,bacs,23,ISA_BACSisaBACS
+C0043481,C0282575,ISA,Zinc,Micronutrients,bacs,bacs,3,ISA_BACSisaBACS
+C0043791,C1519315,ISA,"1,2-diacylglycerol",Signaling Molecule,bacs,bacs,1,ISA_BACSisaBACS
+C0044800,C0020349,ISA,"12-Hydroxy-5,8,10,14-eicosatetraenoic Acid",Hydroxyeicosatetraenoic Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0044887,C0020349,ISA,"15-hydroxy-5,8,11,13-eicosatetraenoic acid",Hydroxyeicosatetraenoic Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0048893,C0599689,ISA,lipoxin A4,Lipoxins,bacs,bacs,2,ISA_BACSisaBACS
+C0049308,C0010843,ISA,5-Methylcytosine,Cytosine,bacs,bacs,2,ISA_BACSisaBACS
+C0051405,C0015686,ISA,alpha-Linolenic Acid,"Fatty Acids, Essential",bacs,bacs,1,ISA_BACSisaBACS
+C0051405,C0015689,ISA,alpha-Linolenic Acid,Omega-3 Fatty Acids,bacs,bacs,2,ISA_BACSisaBACS
+C0051405,C0032615,ISA,alpha-Linolenic Acid,Polyunsaturated Fatty Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0053738,C0031676,ISA,bis(monoacylglyceryl)phosphate,Phospholipids,bacs,bacs,3,ISA_BACSisaBACS
+C0056912,C0012854,ISA,cytidylyl-3'-5'-guanosine,DNA,bacs,bacs,168,ISA_BACSisaBACS
+C0056912,C0028606,ISA,cytidylyl-3'-5'-guanosine,Nucleic Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0060955,C0017950,ISA,galactocerebroside,Glycolipids,bacs,bacs,1,ISA_BACSisaBACS
+C0061105,C0017950,ISA,"ganglioside, GD3",Glycolipids,bacs,bacs,1,ISA_BACSisaBACS
+C0064855,C0023545,ISA,Leukotrienes E,Leukotrienes,bacs,bacs,2,ISA_BACSisaBACS
+C0065266,C0040549,ISA,luteoskyrin,Toxin,bacs,bacs,1,ISA_BACSisaBACS
+C0065331,C0007271,ISA,lycopene,Carotenoids,bacs,bacs,4,ISA_BACSisaBACS
+C0067762,C0027801,ISA,N-Acetylneuraminic Acid,Neuraminic acid,bacs,bacs,5,ISA_BACSisaBACS
+C0068545,C0007271,ISA,neoxanthin,Carotenoids,bacs,bacs,1,ISA_BACSisaBACS
+C0071655,C0031676,ISA,Phosphatidylinositol Phosphates,Phospholipids,bacs,bacs,1,ISA_BACSisaBACS
+C0074565,C0016693,ISA,Singlet Oxygen,Free Radicals,bacs,bacs,1,ISA_BACSisaBACS
+C0074565,C0162772,ISA,Singlet Oxygen,Reactive Oxygen Species,bacs,bacs,2,ISA_BACSisaBACS
+C0075182,C0007271,ISA,staphyloxanthin,Carotenoids,bacs,bacs,1,ISA_BACSisaBACS
+C0075301,C0019053,ISA,streptolysin O,Hemolysin,bacs,bacs,1,ISA_BACSisaBACS
+C0075301,C0040549,ISA,streptolysin O,Toxin,bacs,bacs,5,ISA_BACSisaBACS
+C0075338,C0126771,ISA,Struvite,Magnesium Ammonium Phosphate,bacs,bacs,8,ISA_BACSisaBACS
+C0079925,C0012854,ISA,Antisense Oligonucleotides,DNA,bacs,bacs,15,ISA_BACSisaBACS
+C0079925,C0028606,ISA,Antisense Oligonucleotides,Nucleic Acids,bacs,bacs,4,ISA_BACSisaBACS
+C0085717,C0035323,ISA,11-cis-Retinal,Retinal Pigments,bacs,bacs,1,ISA_BACSisaBACS
+C0086008,C0017973,ISA,Chondroitin 4-Sulfate,Glycosaminoglycans,bacs,bacs,1,ISA_BACSisaBACS
+C0086126,C0040077,ISA,2'-Deoxythymidine,Thymidine,bacs,bacs,2,ISA_BACSisaBACS
+C0086356,C0005390,ISA,Glycine Cholate,Bile Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0086564,C0005390,ISA,Lithocholate,Bile Acids,bacs,bacs,2,ISA_BACSisaBACS
+C0086860,C0012854,ISA,promoter,DNA,bacs,bacs,3,ISA_BACSisaBACS
+C0086860,C0034987,ISA,promoter,"Regulatory Sequences, Nucleic Acid",bacs,bacs,8,ISA_BACSisaBACS
+C0109497,C0005390,ISA,cholate,Bile Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0136157,C0969698,ISA,Peroxynitrite,Reactive Nitrogen Species,bacs,bacs,9,ISA_BACSisaBACS
+C0137714,C0035696,ISA,"RNA, Polyadenylated","RNA, Messenger",bacs,bacs,1,ISA_BACSisaBACS
+C0162772,C0016693,ISA,Reactive Oxygen Species,Free Radicals,bacs,bacs,8,ISA_BACSisaBACS
+C0178695,C0017973,ISA,hyaluronate,Glycosaminoglycans,bacs,bacs,1,ISA_BACSisaBACS
+C0211726,C1172779,ISA,anandamide,Endocannabinoids,bacs,bacs,3,ISA_BACSisaBACS
+C0220804,C0007745,ISA,ceramide trihexoside,Ceramides,bacs,bacs,1,ISA_BACSisaBACS
+C0220804,C0017647,ISA,ceramide trihexoside,Globosides,bacs,bacs,1,ISA_BACSisaBACS
+C0236556,C0005437,ISA,Direct reacting bilirubin,Bilirubin,bacs,bacs,7,ISA_BACSisaBACS
+C0242494,C0035696,ISA,Poly(A) Tail,"RNA, Messenger",bacs,bacs,1,ISA_BACSisaBACS
+C0242827,C0039290,ISA,Minisatellite Repeats,Tandem Repeat Sequences,bacs,bacs,1,ISA_BACSisaBACS
+C0282524,C1519302,ISA,Dinucleotide Repeats,Short Tandem Repeat,bacs,bacs,1,ISA_BACSisaBACS
+C0282537,C1519302,ISA,Trinucleotide Repeats,Short Tandem Repeat,bacs,bacs,1,ISA_BACSisaBACS
+C0301719,C0005437,ISA,Indirect reacting bilirubin,Bilirubin,bacs,bacs,1,ISA_BACSisaBACS
+C0302583,C0040577,ISA,Iron,Trace Elements,bacs,bacs,7,ISA_BACSisaBACS
+C0302583,C0282575,ISA,Iron,Micronutrients,bacs,bacs,2,ISA_BACSisaBACS
+C0311474,C0012854,ISA,"DNA, Double-Stranded",DNA,bacs,bacs,8,ISA_BACSisaBACS
+C0369169,C0012854,ISA,Epstein-Barr virus DNA,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0369343,C0012854,ISA,Herpes simplex virus DNA,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0376202,C0815278,ISA,Sepranolone,Neurosteroids,bacs,bacs,1,ISA_BACSisaBACS
+C0486948,C0012854,ISA,Human immunodeficiency virus 1 DNA,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0486959,C0012854,ISA,Human immunodeficiency virus DNA,DNA,bacs,bacs,2,ISA_BACSisaBACS
+C0528415,C0040549,ISA,Clostridium botulinum C2 toxin,Toxin,bacs,bacs,1,ISA_BACSisaBACS
+C0536566,C0019053,ISA,suilysin,Hemolysin,bacs,bacs,1,ISA_BACSisaBACS
+C0597508,C0040549,ISA,Staphylococcal Enterotoxins,Toxin,bacs,bacs,1,ISA_BACSisaBACS
+C0600493,C0035696,ISA,5' Untranslated Regions,"RNA, Messenger",bacs,bacs,1,ISA_BACSisaBACS
+C0600508,C0012854,ISA,Response Elements,DNA,bacs,bacs,6,ISA_BACSisaBACS
+C0606354,C0007271,ISA,sarcinaxanthin,Carotenoids,bacs,bacs,1,ISA_BACSisaBACS
+C0751969,C0035709,ISA,Small Nucleolar RNA,Small Nuclear RNA,bacs,bacs,4,ISA_BACSisaBACS
+C0770546,C0019134,ISA,"heparin, porcine",heparin,bacs,bacs,2,ISA_BACSisaBACS
+C0813622,C0017973,ISA,Hyaluronan,Glycosaminoglycans,bacs,bacs,6,ISA_BACSisaBACS
+C0887859,C0012854,ISA,Intergenic Region,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C0887977,C0035711,ISA,"RNA, Transfer, Initiator",Transfer RNA,bacs,bacs,2,ISA_BACSisaBACS
+C0912903,C0015689,ISA,Lovaza,Omega-3 Fatty Acids,bacs,bacs,1,ISA_BACSisaBACS
+C0919262,C0012854,ISA,"DNA, B-Form",DNA,bacs,bacs,3,ISA_BACSisaBACS
+C0935992,C4048588,ISA,Telomerase RNA Component,telomerase RNA,bacs,bacs,2,ISA_BACSisaBACS
+C0949636,C0007271,ISA,Xanthophylls,Carotenoids,bacs,bacs,1,ISA_BACSisaBACS
+C1098399,C0039561,ISA,caesalmin B,Terpenes,bacs,bacs,1,ISA_BACSisaBACS
+C1099354,C0012854,ISA,"RNA, Small Interfering",DNA,bacs,bacs,3,ISA_BACSisaBACS
+C1099354,C0028606,ISA,"RNA, Small Interfering",Nucleic Acids,bacs,bacs,13,ISA_BACSisaBACS
+C1099354,C0079925,ISA,"RNA, Small Interfering",Antisense Oligonucleotides,bacs,bacs,1,ISA_BACSisaBACS
+C1099354,C0080124,ISA,"RNA, Small Interfering",Antisense RNA,bacs,bacs,1,ISA_BACSisaBACS
+C1101610,C0028606,ISA,MicroRNAs,Nucleic Acids,bacs,bacs,5,ISA_BACSisaBACS
+C1135894,C0012854,ISA,Isochores,DNA,bacs,bacs,1,ISA_BACSisaBACS
+C1136170,C0040549,ISA,Virulence Factors,Toxin,bacs,bacs,18,ISA_BACSisaBACS
+C1136185,C0012854,ISA,"Silencer Elements, Transcriptional",DNA,bacs,bacs,1,ISA_BACSisaBACS
+C1179920,C0012854,ISA,Nuclear deoxyribonucleic acid,DNA,bacs,bacs,2,ISA_BACSisaBACS
+C1291185,C0012854,ISA,Microbial DNA,DNA,bacs,bacs,2,ISA_BACSisaBACS
+C1291218,C0041942,ISA,Carbonyldiamide,Urea,bacs,bacs,1,ISA_BACSisaBACS
+C1337053,C1101610,ISA,pre-miRNA,MicroRNAs,bacs,bacs,4,ISA_BACSisaBACS
+C1337054,C1101610,ISA,Primary MicroRNA,MicroRNAs,bacs,bacs,3,ISA_BACSisaBACS
+C1519302,C0039290,ISA,Short Tandem Repeat,Tandem Repeat Sequences,bacs,bacs,1,ISA_BACSisaBACS
+C1956352,C1099354,ISA,Piwi-Interacting RNA,"RNA, Small Interfering",bacs,bacs,3,ISA_BACSisaBACS
+C1959616,C0031676,ISA,Phosphatidylcholines,Phospholipids,bacs,bacs,2,ISA_BACSisaBACS
+C2327880,C0017973,ISA,Heparan,Glycosaminoglycans,bacs,bacs,3,ISA_BACSisaBACS
+C2350877,C0034987,ISA,"Promoter, Genetic","Regulatory Sequences, Nucleic Acid",bacs,bacs,1,ISA_BACSisaBACS
+C2936590,C0034987,ISA,Riboswitch,"Regulatory Sequences, Nucleic Acid",bacs,bacs,3,ISA_BACSisaBACS
+C2936590,C0035696,ISA,Riboswitch,"RNA, Messenger",bacs,bacs,1,ISA_BACSisaBACS
+C3494205,C0014290,ISA,Antioxidant Response Elements,"Enhancer Elements, Genetic",bacs,bacs,1,ISA_BACSisaBACS
+C3494461,C0035696,ISA,AU Rich Elements,"RNA, Messenger",bacs,bacs,1,ISA_BACSisaBACS
+C3494793,C1764827,ISA,Bacterial isolate,Isolate - microorganism,bacs,bacs,1,ISA_BACSisaBACS
+C3494870,C1764827,ISA,Viral isolate,Isolate - microorganism,bacs,bacs,3,ISA_BACSisaBACS
+C4277571,C0031866,ISA,Oxysterols,Phytosterols,bacs,bacs,1,ISA_BACSisaBACS

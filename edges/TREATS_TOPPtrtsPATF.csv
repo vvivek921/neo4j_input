@@ -1,0 +1,819 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0020564,TREATS,Adenoidectomy,Hypertrophy,topp,patf,3,TREATS_TOPPtrtsPATF
+C0001560,C0021375,TREATS,"Administration, Intranasal",allergic inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001560,C0700148,TREATS,"Administration, Intranasal",Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001560,C3714514,TREATS,"Administration, Intranasal",Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001563,C0020564,TREATS,"Administration, Oral",Hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001563,C0030922,TREATS,"Administration, Oral",Peptic Ulcer Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001563,C0332448,TREATS,"Administration, Oral",Infiltration,topp,patf,2,TREATS_TOPPtrtsPATF
+C0001563,C3714514,TREATS,"Administration, Oral",Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001566,C0043241,TREATS,"Administration, Topical",Wound Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0001566,C3714514,TREATS,"Administration, Topical",Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0002766,C0019080,TREATS,Pain management,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002766,C0243087,TREATS,Pain management,concomitant disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002766,C0543419,TREATS,Pain management,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002903,C0031557,TREATS,Anesthesia procedures,Phlegmon,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002915,C0151526,TREATS,General Anesthesia,Premature Birth,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002915,C0281169,TREATS,General Anesthesia,pulmonary complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002996,C0028778,TREATS,"Angioplasty, Balloon",Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0002996,C0333186,TREATS,"Angioplasty, Balloon",Restenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0003281,C0019123,TREATS,Anticoagulation Therapy,Hemothorax,topp,patf,1,TREATS_TOPPtrtsPATF
+C0003281,C0028778,TREATS,Anticoagulation Therapy,Obstruction,topp,patf,2,TREATS_TOPPtrtsPATF
+C0003893,C3887513,TREATS,Arthroplasty,Avascular necrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0004704,C0021368,TREATS,Balloon Dilatation,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0004704,C1261287,TREATS,Balloon Dilatation,Stenosis,topp,patf,2,TREATS_TOPPtrtsPATF
+C0004764,C0860239,TREATS,"Contraception, Barrier",Catheter related infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005491,C0403659,TREATS,Biofeedback,Dysfunctional voiding,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005841,C0019080,TREATS,Blood Transfusion,Hemorrhage,topp,patf,4,TREATS_TOPPtrtsPATF
+C0005841,C0032797,TREATS,Blood Transfusion,Postpartum Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005841,C0036982,TREATS,Blood Transfusion,"Shock, Hemorrhagic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0005857,C0019080,TREATS,Bloodletting,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005961,C0021655,TREATS,Bone Marrow Transplantation,Insulin Resistance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005961,C0242656,TREATS,Bone Marrow Transplantation,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005961,C0544791,TREATS,Bone Marrow Transplantation,Inflammatory fistula,topp,patf,1,TREATS_TOPPtrtsPATF
+C0005961,C1262018,TREATS,Bone Marrow Transplantation,Graft failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0006155,C0161818,TREATS,Breathing Exercises,Respiratory complication,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007202,C0020542,TREATS,Cardiopulmonary Bypass,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007202,C0231176,TREATS,Cardiopulmonary Bypass,Acute failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007202,C0242973,TREATS,Cardiopulmonary Bypass,Ventricular Dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007202,C1155266,TREATS,Cardiopulmonary Bypass,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007203,C0600228,TREATS,Cardiopulmonary Resuscitation,Cardiopulmonary Arrest,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007203,C2936490,TREATS,Cardiopulmonary Resuscitation,Out-of-Hospital Cardiac Arrest,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007344,C0005001,TREATS,Castration,Benign prostatic hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007471,C0019080,TREATS,Cauterization - action,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007876,C0152156,TREATS,Cesarean section,Obstructed labor,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007876,C0266763,TREATS,Cesarean section,Placenta previa centralis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0007876,C3714514,TREATS,Cesarean section,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0008971,C0020517,TREATS,Clinical Protocols,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0008971,C3714514,TREATS,Clinical Protocols,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0009429,C0021368,TREATS,Combined Modality Therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0009429,C0036983,TREATS,Combined Modality Therapy,Septic Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C0009429,C1155266,TREATS,Combined Modality Therapy,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0009429,C3714514,TREATS,Combined Modality Therapy,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0010280,C0751741,TREATS,Craniotomy,Putaminal Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0010651,C0333279,TREATS,Cystectomy,Massive hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0011079,C0029445,TREATS,Debridement,Bone necrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0011079,C0036983,TREATS,Debridement,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0011946,C0019080,TREATS,Dialysis procedure,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0011946,C0151746,TREATS,Dialysis procedure,Abnormal renal function,topp,patf,1,TREATS_TOPPtrtsPATF
+C0011946,C0342579,TREATS,Dialysis procedure,Electrolyte imbalance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0012358,C0032776,TREATS,Dilatation and Curettage,Postmenopausal bleeding,topp,patf,1,TREATS_TOPPtrtsPATF
+C0012683,C0010356,TREATS,Disinfection,Cross Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0012683,C3714514,TREATS,Disinfection,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013103,C0032787,TREATS,Drainage procedure,Postoperative Complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0010828,TREATS,Pharmacotherapy,Cytopenia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0020564,TREATS,Pharmacotherapy,Hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0030660,TREATS,Pharmacotherapy,Pathologic Processes,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0151654,TREATS,Pharmacotherapy,Myocardial fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0281169,TREATS,Pharmacotherapy,pulmonary complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0520863,TREATS,Pharmacotherapy,Diastolic dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C0543419,TREATS,Pharmacotherapy,Sequela of disorder,topp,patf,2,TREATS_TOPPtrtsPATF
+C0013216,C1373218,TREATS,Pharmacotherapy,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0013216,C3714514,TREATS,Pharmacotherapy,Infection,topp,patf,9,TREATS_TOPPtrtsPATF
+C0013216,C4061114,TREATS,Pharmacotherapy,Acute illness,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013804,C0019080,TREATS,Electrocoagulation,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013931,C0019080,TREATS,"Embolization, Therapeutic",Hemorrhage,topp,patf,3,TREATS_TOPPtrtsPATF
+C0013931,C0341750,TREATS,"Embolization, Therapeutic",Bladder hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0013969,C0016470,TREATS,Emergency treatment,Food Allergy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0014327,C0036983,TREATS,Enteral Nutrition,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0014327,C1155266,TREATS,Enteral Nutrition,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0014327,C3714514,TREATS,Enteral Nutrition,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015250,C0021368,TREATS,Complete excision,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015252,C0019080,TREATS,removal technique,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015252,C0020564,TREATS,removal technique,Hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015252,C0028778,TREATS,removal technique,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015252,C0151799,TREATS,removal technique,Skin necrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015252,C0920563,TREATS,removal technique,Insulin Sensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015252,C3714514,TREATS,removal technique,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0003130,TREATS,Extracorporeal Membrane Oxygenation,Anoxia,topp,patf,4,TREATS_TOPPtrtsPATF
+C0015357,C0019080,TREATS,Extracorporeal Membrane Oxygenation,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0020507,TREATS,Extracorporeal Membrane Oxygenation,Hyperplasia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0020542,TREATS,Extracorporeal Membrane Oxygenation,Pulmonary Hypertension,topp,patf,3,TREATS_TOPPtrtsPATF
+C0015357,C0021308,TREATS,Extracorporeal Membrane Oxygenation,Infarction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0021368,TREATS,Extracorporeal Membrane Oxygenation,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0026766,TREATS,Extracorporeal Membrane Oxygenation,Multiple Organ Failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0036974,TREATS,Extracorporeal Membrane Oxygenation,Shock,topp,patf,4,TREATS_TOPPtrtsPATF
+C0015357,C0036980,TREATS,Extracorporeal Membrane Oxygenation,"Shock, Cardiogenic",topp,patf,4,TREATS_TOPPtrtsPATF
+C0015357,C0036983,TREATS,Extracorporeal Membrane Oxygenation,Septic Shock,topp,patf,5,TREATS_TOPPtrtsPATF
+C0015357,C0231176,TREATS,Extracorporeal Membrane Oxygenation,Acute failure,topp,patf,3,TREATS_TOPPtrtsPATF
+C0015357,C0242707,TREATS,Extracorporeal Membrane Oxygenation,"Ventricular Dysfunction, Right",topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0243083,TREATS,Extracorporeal Membrane Oxygenation,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0302148,TREATS,Extracorporeal Membrane Oxygenation,Blood Clot,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0543419,TREATS,Extracorporeal Membrane Oxygenation,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C0546817,TREATS,Extracorporeal Membrane Oxygenation,Fluid overload,topp,patf,2,TREATS_TOPPtrtsPATF
+C0015357,C0948031,TREATS,Extracorporeal Membrane Oxygenation,Primary Graft Dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0015357,C3887486,TREATS,Extracorporeal Membrane Oxygenation,Interstitial lung fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016286,C0020683,TREATS,Fluid Therapy,Hypovolemic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016286,C0036974,TREATS,Fluid Therapy,Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C0016286,C0036983,TREATS,Fluid Therapy,Septic Shock,topp,patf,4,TREATS_TOPPtrtsPATF
+C0016286,C0442856,TREATS,Fluid Therapy,Hypoperfusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016286,C0565653,TREATS,Fluid Therapy,Immunization reaction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016286,C0857353,TREATS,Fluid Therapy,Hypotensive,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016286,C3714514,TREATS,Fluid Therapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016419,C0021368,TREATS,"Medicine, Folk",Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0016419,C0700148,TREATS,"Medicine, Folk",Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017118,C0032787,TREATS,Gastrectomy,Postoperative Complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017125,C0032787,TREATS,Gastric Bypass,Postoperative Complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0020517,TREATS,gene therapy,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0020522,TREATS,gene therapy,Delayed Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0027686,TREATS,gene therapy,Pathologic Neovascularization,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0036974,TREATS,gene therapy,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0036983,TREATS,gene therapy,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0017296,C0151763,TREATS,gene therapy,Liver damage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0242656,TREATS,gene therapy,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C0428977,TREATS,gene therapy,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C1510411,TREATS,gene therapy,metaplastic cell transformation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C1520005,TREATS,gene therapy,Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C2586211,TREATS,gene therapy,Thrombosis of blood vessel,topp,patf,1,TREATS_TOPPtrtsPATF
+C0017296,C3714514,TREATS,gene therapy,Infection,topp,patf,4,TREATS_TOPPtrtsPATF
+C0018821,C0032787,TREATS,Cardiac Surgery procedures,Postoperative Complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0018821,C0038941,TREATS,Cardiac Surgery procedures,Surgical Wound Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0018821,C0087086,TREATS,Cardiac Surgery procedures,Thrombus,topp,patf,1,TREATS_TOPPtrtsPATF
+C0018823,C0231178,TREATS,Heart Transplantation,Chronic failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0018823,C1373218,TREATS,Heart Transplantation,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0018833,C0020542,TREATS,Heart-Lung Transplantation,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0019004,C0020517,TREATS,Hemodialysis,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0019004,C0235723,TREATS,Hemodialysis,reaction febrile,topp,patf,1,TREATS_TOPPtrtsPATF
+C0019004,C0242781,TREATS,Hemodialysis,disease transmission,topp,patf,1,TREATS_TOPPtrtsPATF
+C0019014,C0036974,TREATS,Hemofiltration,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0019014,C0036983,TREATS,Hemofiltration,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0019063,C0026766,TREATS,Hemoperfusion,Multiple Organ Failure,topp,patf,2,TREATS_TOPPtrtsPATF
+C0019063,C0036983,TREATS,Hemoperfusion,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0020674,C1140716,TREATS,"Hypothermia, Induced",Hypoxic Brain Damage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020674,C2936490,TREATS,"Hypothermia, Induced",Out-of-Hospital Cardiac Arrest,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020699,C0000786,TREATS,Hysterectomy,Spontaneous abortion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020699,C0021359,TREATS,Hysterectomy,Infertility,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020971,C0543419,TREATS,Immunization,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020971,C0878751,TREATS,Immunization,late pregnancy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020971,C1373218,TREATS,Immunization,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0020971,C1520005,TREATS,Immunization,Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020971,C3714514,TREATS,Immunization,Infection,topp,patf,5,TREATS_TOPPtrtsPATF
+C0020972,C0020517,TREATS,Immunization Schedule,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020972,C3714514,TREATS,Immunization Schedule,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0020974,C3714514,TREATS,passive immunization procedure,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0021022,C3714514,TREATS,Immunoglobulin Therapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021079,C0013687,TREATS,Therapeutic immunosuppression,effusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021079,C0036983,TREATS,Therapeutic immunosuppression,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021079,C0242656,TREATS,Therapeutic immunosuppression,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021079,C0543419,TREATS,Therapeutic immunosuppression,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021079,C1373218,TREATS,Therapeutic immunosuppression,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0021079,C3714514,TREATS,Therapeutic immunosuppression,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0021083,C0016470,TREATS,Immunotherapy,Food Allergy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021083,C0020517,TREATS,Immunotherapy,Hypersensitivity,topp,patf,4,TREATS_TOPPtrtsPATF
+C0021083,C1155266,TREATS,Immunotherapy,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021083,C3714514,TREATS,Immunotherapy,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0021107,C0013990,TREATS,Implantation procedure,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021107,C0020517,TREATS,Implantation procedure,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021107,C0032987,TREATS,Implantation procedure,Ectopic Pregnancy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021107,C0036974,TREATS,Implantation procedure,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021107,C0428977,TREATS,Implantation procedure,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021459,C0020542,TREATS,Inhalation Therapy,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021485,C0020522,TREATS,Injection of therapeutic agent,Delayed Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021485,C0333197,TREATS,Injection of therapeutic agent,Fibrin blood clot,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021493,C0021368,TREATS,"Injections, Intraperitoneal",Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021493,C0021655,TREATS,"Injections, Intraperitoneal",Insulin Resistance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021493,C0028778,TREATS,"Injections, Intraperitoneal",Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021778,C0264306,TREATS,Intermittent Positive-Pressure Ventilation,Obstruction of larynx,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021860,C0036980,TREATS,Intra-Aortic Balloon Pumping,"Shock, Cardiogenic",topp,patf,3,TREATS_TOPPtrtsPATF
+C0021925,C0026766,TREATS,Intubation,Multiple Organ Failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021925,C0036983,TREATS,Intubation,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021925,C0242656,TREATS,Intubation,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021925,C0398353,TREATS,Intubation,Hypercapnic respiratory failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021925,C0549401,TREATS,Intubation,Difficult intubation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021932,C0036983,TREATS,"Intubation, Intratracheal",Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0021932,C0151701,TREATS,"Intubation, Intratracheal",Pulmonary hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021932,C0231176,TREATS,"Intubation, Intratracheal",Acute failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0021932,C3714514,TREATS,"Intubation, Intratracheal",Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0022100,C0031154,TREATS,Irrigation,Peritonitis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0022671,C1373218,TREATS,Kidney Transplantation,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0023038,C0013922,TREATS,Laparotomy,Embolism,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023038,C0019080,TREATS,Laparotomy,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023038,C0031154,TREATS,Laparotomy,Peritonitis,topp,patf,2,TREATS_TOPPtrtsPATF
+C0023038,C0878751,TREATS,Laparotomy,late pregnancy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023038,C4290181,TREATS,Laparotomy,thrombotic occlusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023690,C0001511,TREATS,Ligation,Tissue Adhesions,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023690,C0016059,TREATS,Ligation,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023690,C0019080,TREATS,Ligation,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023690,C0333106,TREATS,Ligation,Bleeding varices,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023690,C1299621,TREATS,Ligation,Intrahepatic portal shunt malfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0023911,C1373218,TREATS,Transplantation of liver,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0024128,C0231178,TREATS,Lung Transplantation,Chronic failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0024128,C0301947,TREATS,Lung Transplantation,Hyperacute graft rejection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0024128,C0333168,TREATS,Lung Transplantation,Progressive obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0024128,C0948031,TREATS,Lung Transplantation,Primary Graft Dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0024257,C0021368,TREATS,Lymphocyte Depletion,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0029168,C0235395,TREATS,Oral Rehydration Therapy,Fluid loss,topp,patf,1,TREATS_TOPPtrtsPATF
+C0029216,C0026766,TREATS,Organ Transplantation,Multiple Organ Failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0030547,C0036983,TREATS,Parenteral Nutrition,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0030548,C0036983,TREATS,"Parenteral Nutrition, Total",Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0030693,C3714514,TREATS,Patient Isolation,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0031139,C0546817,TREATS,Peritoneal Dialysis,Fluid overload,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032042,C0019080,TREATS,Placebos,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032042,C0036983,TREATS,Placebos,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032042,C0162633,TREATS,Placebos,Viral Shedding,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032042,C0549614,TREATS,Placebos,gastric/duodenal,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032042,C0700148,TREATS,Placebos,Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032042,C3714514,TREATS,Placebos,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0032113,C0021368,TREATS,Plasma Exchange,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032113,C0036974,TREATS,Plasma Exchange,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032113,C0036983,TREATS,Plasma Exchange,Septic Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C0032284,C0281169,TREATS,Pneumonectomy,pulmonary complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0032740,C0003130,TREATS,Positive End-Expiratory Pressure,Anoxia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0033045,C0020517,TREATS,Premedication,Hypersensitivity,topp,patf,2,TREATS_TOPPtrtsPATF
+C0033144,C0017181,TREATS,Primary Prevention,Gastrointestinal Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0033144,C0019080,TREATS,Primary Prevention,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0033144,C0040053,TREATS,Primary Prevention,Thrombosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0033972,C0028778,TREATS,"Psychotherapy, Multiple",Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0033972,C3714514,TREATS,"Psychotherapy, Multiple",Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0034386,C0010356,TREATS,Quarantine,Cross Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0034386,C0020517,TREATS,Quarantine,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0034386,C0242781,TREATS,Quarantine,disease transmission,topp,patf,1,TREATS_TOPPtrtsPATF
+C0034386,C3714514,TREATS,Quarantine,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0034991,C3714514,TREATS,Rehabilitation therapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0034997,C0235395,TREATS,Rehydration,Fluid loss,topp,patf,2,TREATS_TOPPtrtsPATF
+C0035110,C0019080,TREATS,Repeat Surgery,Hemorrhage,topp,patf,5,TREATS_TOPPtrtsPATF
+C0035110,C0031154,TREATS,Repeat Surgery,Peritonitis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035110,C0032788,TREATS,Repeat Surgery,Postoperative Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035110,C3714514,TREATS,Repeat Surgery,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0011071,TREATS,Surgical Replantation,Sudden death,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0019080,TREATS,Surgical Replantation,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0020517,TREATS,Surgical Replantation,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0021308,TREATS,Surgical Replantation,Infarction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0021368,TREATS,Surgical Replantation,Inflammation,topp,patf,2,TREATS_TOPPtrtsPATF
+C0035139,C0036974,TREATS,Surgical Replantation,Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0035139,C0036983,TREATS,Surgical Replantation,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0085660,TREATS,Surgical Replantation,Aseptic necrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035139,C0333279,TREATS,Surgical Replantation,Massive hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035273,C0017181,TREATS,Resuscitation procedure,Gastrointestinal Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0035273,C0019080,TREATS,Resuscitation procedure,Hemorrhage,topp,patf,5,TREATS_TOPPtrtsPATF
+C0035273,C0020683,TREATS,Resuscitation procedure,Hypovolemic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035273,C0036974,TREATS,Resuscitation procedure,Shock,topp,patf,8,TREATS_TOPPtrtsPATF
+C0035273,C0036982,TREATS,Resuscitation procedure,"Shock, Hemorrhagic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0035273,C0036983,TREATS,Resuscitation procedure,Septic Shock,topp,patf,4,TREATS_TOPPtrtsPATF
+C0035273,C0036986,TREATS,Resuscitation procedure,"Shock, Traumatic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0035273,C0342579,TREATS,Resuscitation procedure,Electrolyte imbalance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0035822,C0021368,TREATS,Role playing therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0038897,C0231178,TREATS,Cardiovascular Surgical Procedures,Chronic failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0038913,C0028778,TREATS,Urologic Surgical Procedures,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0039991,C0019080,TREATS,Thoracotomy,Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0040044,C0020581,TREATS,Thrombolytic Therapy,Hyphema,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040044,C0036983,TREATS,Thrombolytic Therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040044,C0333565,TREATS,Thrombolytic Therapy,Fibrin deposition,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040044,C1265808,TREATS,Thrombolytic Therapy,Loculated effusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040508,C0085660,TREATS,Total Hip Replacement (procedure),Aseptic necrosis,topp,patf,8,TREATS_TOPPtrtsPATF
+C0040508,C3887513,TREATS,Total Hip Replacement (procedure),Avascular necrosis,topp,patf,9,TREATS_TOPPtrtsPATF
+C0040591,C0004044,TREATS,Tracheotomy procedure,Asphyxia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040591,C0023052,TREATS,Tracheotomy procedure,Laryngeal Edema,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040591,C0549401,TREATS,Tracheotomy procedure,Difficult intubation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0011304,TREATS,Transplantation,Demyelination,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0013990,TREATS,Transplantation,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0016059,TREATS,Transplantation,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0020542,TREATS,Transplantation,Pulmonary Hypertension,topp,patf,3,TREATS_TOPPtrtsPATF
+C0040732,C0021368,TREATS,Transplantation,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0301952,TREATS,Transplantation,Primary graft failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0349725,TREATS,Transplantation,Graft infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0700148,TREATS,Transplantation,Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C0920027,TREATS,Transplantation,Cholestatic hepatic disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C1262018,TREATS,Transplantation,Graft failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C1373218,TREATS,Transplantation,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C2936381,TREATS,Transplantation,Neointima Formation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C3670572,TREATS,Transplantation,Perivascular hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C3698200,TREATS,Transplantation,Postoperative sepsis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040732,C3714514,TREATS,Transplantation,Infection,topp,patf,5,TREATS_TOPPtrtsPATF
+C0040736,C0019080,TREATS,"Transplantation, Autologous",Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040808,C0021368,TREATS,Treatment Protocols,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040808,C0030660,TREATS,Treatment Protocols,Pathologic Processes,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040808,C0036983,TREATS,Treatment Protocols,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0040808,C0087086,TREATS,Treatment Protocols,Thrombus,topp,patf,1,TREATS_TOPPtrtsPATF
+C0040808,C1373218,TREATS,Treatment Protocols,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0040808,C3714514,TREATS,Treatment Protocols,Infection,topp,patf,7,TREATS_TOPPtrtsPATF
+C0042020,C0333279,TREATS,Urinary Diversion,Massive hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0042196,C0011304,TREATS,Vaccination,Demyelination,topp,patf,3,TREATS_TOPPtrtsPATF
+C0042196,C0020517,TREATS,Vaccination,Hypersensitivity,topp,patf,3,TREATS_TOPPtrtsPATF
+C0042196,C0021368,TREATS,Vaccination,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0042196,C0028778,TREATS,Vaccination,Obstruction,topp,patf,2,TREATS_TOPPtrtsPATF
+C0042196,C0162633,TREATS,Vaccination,Viral Shedding,topp,patf,1,TREATS_TOPPtrtsPATF
+C0042196,C0543419,TREATS,Vaccination,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0042196,C0878751,TREATS,Vaccination,late pregnancy,topp,patf,5,TREATS_TOPPtrtsPATF
+C0042196,C1520005,TREATS,Vaccination,Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0042196,C3714514,TREATS,Vaccination,Infection,topp,patf,18,TREATS_TOPPtrtsPATF
+C0042381,C0019080,TREATS,Vascular Surgical Procedures,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0042903,C0027686,TREATS,Vitrectomy,Pathologic Neovascularization,topp,patf,1,TREATS_TOPPtrtsPATF
+C0055670,C0030660,TREATS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Pathologic Processes,topp,patf,1,TREATS_TOPPtrtsPATF
+C0056633,C0036983,TREATS,cyclophosphamide/prednisone/vincristine protocol,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0057163,C0021368,TREATS,DAV regimen,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0057163,C3714514,TREATS,DAV regimen,Infection,topp,patf,6,TREATS_TOPPtrtsPATF
+C0063264,C0242656,TREATS,Cisplatin/Doxorubicin/Ifosfamide protocol,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0066495,C0020517,TREATS,fluorouracil/leucovorin calcium/methotrexate protocol,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0074125,C2004491,TREATS,bleomycin/doxorubicin/lomustine/streptozocin protocol,Cicatrix,topp,patf,2,TREATS_TOPPtrtsPATF
+C0079613,C0021368,TREATS,Adoptive Immunotherapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0079613,C1155266,TREATS,Adoptive Immunotherapy,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0079613,C3714514,TREATS,Adoptive Immunotherapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0083089,C0028778,TREATS,IVA protocol,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0085198,C0019080,TREATS,Esophagectomy,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0085405,C0036980,TREATS,Salvage Therapy,"Shock, Cardiogenic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0085405,C0333106,TREATS,Salvage Therapy,Bleeding varices,topp,patf,1,TREATS_TOPPtrtsPATF
+C0085430,C0036982,TREATS,Blood Component Transfusion,"Shock, Hemorrhagic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0085430,C0333279,TREATS,Blood Component Transfusion,Massive hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0085430,C3826020,TREATS,Blood Component Transfusion,Medical emergencies,topp,patf,1,TREATS_TOPPtrtsPATF
+C0085873,C2936490,TREATS,Basic life support,Out-of-Hospital Cardiac Arrest,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086153,C0021368,TREATS,Dietary Modification,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086153,C1155266,TREATS,Dietary Modification,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086225,C0036983,TREATS,Enteral Feeding,Septic Shock,topp,patf,5,TREATS_TOPPtrtsPATF
+C0086225,C0151526,TREATS,Enteral Feeding,Premature Birth,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086252,C0036983,TREATS,Red Blood Cell Transfusion,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0086818,C0019080,TREATS,Platelet Transfusion,Hemorrhage,topp,patf,5,TREATS_TOPPtrtsPATF
+C0086818,C0036983,TREATS,Platelet Transfusion,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086818,C0679429,TREATS,Platelet Transfusion,platelet dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086818,C3662030,TREATS,Platelet Transfusion,Spontaneous cerebral hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0086904,C0220981,TREATS,Oral rehydration procedure,Metabolic acidosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149615,C3658208,TREATS,Allogeneic bone marrow transplantation,Dysbiosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0016059,TREATS,Steroid therapy,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0021368,TREATS,Steroid therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0029445,TREATS,Steroid therapy,Bone necrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0036974,TREATS,Steroid therapy,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0036983,TREATS,Steroid therapy,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0149783,C0036986,TREATS,Steroid therapy,"Shock, Traumatic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0392707,TREATS,Steroid therapy,Atopy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0745283,TREATS,Steroid therapy,INFECTIOUS PROCESS,topp,patf,1,TREATS_TOPPtrtsPATF
+C0149783,C0919924,TREATS,Steroid therapy,pulmonary toxicity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0150141,C0038941,TREATS,Bathing,Surgical Wound Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0150234,C3714514,TREATS,Fever treatment,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0150238,C0036982,TREATS,Fluid resuscitation,"Shock, Hemorrhagic",topp,patf,1,TREATS_TOPPtrtsPATF
+C0150238,C0036983,TREATS,Fluid resuscitation,Septic Shock,topp,patf,17,TREATS_TOPPtrtsPATF
+C0150238,C3714514,TREATS,Fluid resuscitation,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0150457,C0087086,TREATS,Anticoagulant therapy,Thrombus,topp,patf,1,TREATS_TOPPtrtsPATF
+C0150523,C0036983,TREATS,Encouragement of compliance,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0150685,C0014591,TREATS,nasal packing,Epistaxis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0152060,C0011304,TREATS,Transection (procedure),Demyelination,topp,patf,1,TREATS_TOPPtrtsPATF
+C0152060,C0020517,TREATS,Transection (procedure),Hypersensitivity,topp,patf,2,TREATS_TOPPtrtsPATF
+C0152060,C0021368,TREATS,Transection (procedure),Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0152060,C0028778,TREATS,Transection (procedure),Obstruction,topp,patf,3,TREATS_TOPPtrtsPATF
+C0152060,C0332448,TREATS,Transection (procedure),Infiltration,topp,patf,1,TREATS_TOPPtrtsPATF
+C0152060,C0684320,TREATS,Transection (procedure),Disease regression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0152060,C3714514,TREATS,Transection (procedure),Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0152277,C0036983,TREATS,Incision and drainage,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0161922,C1261287,TREATS,Repair of urethra,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162352,C0020517,TREATS,Allergen Immunotherapy,Hypersensitivity,topp,patf,2,TREATS_TOPPtrtsPATF
+C0162352,C0020963,TREATS,Allergen Immunotherapy,Immune Tolerance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162363,C0020542,TREATS,Thromboendarterectomy,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162428,C3698200,TREATS,"Nephrolithotomy, Percutaneous",Postoperative sepsis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162513,C0333186,TREATS,Atherectomy,Restenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162563,C1261287,TREATS,Cardiac ablation,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162575,C1265797,TREATS,Embolectomy,Recent embolus,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162575,C1265799,TREATS,Embolectomy,Massive embolus,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162577,C0022116,TREATS,Angioplasty,Ischemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162577,C0040053,TREATS,Angioplasty,Thrombosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162577,C0877042,TREATS,Angioplasty,graft loss,topp,patf,1,TREATS_TOPPtrtsPATF
+C0162578,C0087086,TREATS,Thrombectomy,Thrombus,topp,patf,2,TREATS_TOPPtrtsPATF
+C0162655,C1261287,TREATS,Rotational Atherectomy,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0184633,C0036974,TREATS,Oxygen Therapy Care,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0184893,C0019080,TREATS,Emergency operation,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0184893,C0022116,TREATS,Emergency operation,Ischemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0184967,C0333279,TREATS,Insertion of pack (procedure),Massive hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185027,C0020517,TREATS,Imbrication (procedure),Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185027,C3714514,TREATS,Imbrication (procedure),Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185047,C0036679,TREATS,Stripping,Diastasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185111,C0015376,TREATS,Surgical Manipulation,Extravasation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185111,C0333288,TREATS,Surgical Manipulation,Dissecting hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C0017181,TREATS,Extraction,Gastrointestinal Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C0020517,TREATS,Extraction,Hypersensitivity,topp,patf,4,TREATS_TOPPtrtsPATF
+C0185115,C0021368,TREATS,Extraction,Inflammation,topp,patf,2,TREATS_TOPPtrtsPATF
+C0185115,C0028778,TREATS,Extraction,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C0036679,TREATS,Extraction,Diastasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C0036983,TREATS,Extraction,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0185115,C0745283,TREATS,Extraction,INFECTIOUS PROCESS,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C0860239,TREATS,Extraction,Catheter related infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C1155266,TREATS,Extraction,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0185115,C3714514,TREATS,Extraction,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0189381,C4061114,TREATS,Bronchial Lavage,Acute illness,topp,patf,3,TREATS_TOPPtrtsPATF
+C0189476,C0013687,TREATS,Insertion of pleural tube drain,effusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0189745,C0019080,TREATS,Open heart surgery,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0189745,C0032788,TREATS,Open heart surgery,Postoperative Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0189745,C1262023,TREATS,Open heart surgery,dilutional coagulopathy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0191309,C0521172,TREATS,Escharotomy,Eschar,topp,patf,2,TREATS_TOPPtrtsPATF
+C0193959,C0020564,TREATS,Tonsillectomy and adenoidectomy,Hypertrophy,topp,patf,2,TREATS_TOPPtrtsPATF
+C0193997,C0021655,TREATS,Partial splenectomy,Insulin Resistance,topp,patf,2,TREATS_TOPPtrtsPATF
+C0194825,C0020517,TREATS,Radical retropubic prostatectomy,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0010356,TREATS,Prophylactic treatment,Cross Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0199176,C0019080,TREATS,Prophylactic treatment,Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0199176,C0021368,TREATS,Prophylactic treatment,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0021376,TREATS,Prophylactic treatment,Chronic inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0036974,TREATS,Prophylactic treatment,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0151526,TREATS,Prophylactic treatment,Premature Birth,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0242781,TREATS,Prophylactic treatment,disease transmission,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0266815,TREATS,Prophylactic treatment,Cow milk allergy,topp,patf,2,TREATS_TOPPtrtsPATF
+C0199176,C0274435,TREATS,Prophylactic treatment,Transfusion Reaction,topp,patf,2,TREATS_TOPPtrtsPATF
+C0199176,C0333276,TREATS,Prophylactic treatment,Acute hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0199176,C0333641,TREATS,Prophylactic treatment,Atrophic,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C0342579,TREATS,Prophylactic treatment,Electrolyte imbalance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C1383860,TREATS,Prophylactic treatment,Cardiac Hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C1520005,TREATS,Prophylactic treatment,Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C1566590,TREATS,Prophylactic treatment,Delayed Graft Function,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C2587212,TREATS,Prophylactic treatment,Parturient paresis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199176,C3714514,TREATS,Prophylactic treatment,Infection,topp,patf,21,TREATS_TOPPtrtsPATF
+C0199438,C0004144,TREATS,Respiration monitoring,Atelectasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199451,C0553692,TREATS,Continuous Positive Airway Pressure,Brain hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0003130,TREATS,Mechanical ventilation,Anoxia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0020542,TREATS,Mechanical ventilation,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0026766,TREATS,Mechanical ventilation,Multiple Organ Failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0034088,TREATS,Mechanical ventilation,Pulmonary Valve Insufficiency,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0036974,TREATS,Mechanical ventilation,Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0199470,C0036983,TREATS,Mechanical ventilation,Septic Shock,topp,patf,10,TREATS_TOPPtrtsPATF
+C0199470,C0220981,TREATS,Mechanical ventilation,Metabolic acidosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0231176,TREATS,Mechanical ventilation,Acute failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C0919924,TREATS,Mechanical ventilation,pulmonary toxicity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199470,C4061114,TREATS,Mechanical ventilation,Acute illness,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199640,C0428977,TREATS,Cardiac pacing,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199640,C0749225,TREATS,Cardiac pacing,Systolic dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199641,C0428977,TREATS,Demand pacing,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199779,C0013687,TREATS,Administration of antibiotic,effusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199779,C0242656,TREATS,Administration of antibiotic,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199779,C3714514,TREATS,Administration of antibiotic,Infection,topp,patf,6,TREATS_TOPPtrtsPATF
+C0199779,C4061114,TREATS,Administration of antibiotic,Acute illness,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199798,C3714514,TREATS,human vaccination,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199939,C3714514,TREATS,"Oncologic procedure, NOS",Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0199961,C0036974,TREATS,Whole blood transfusion,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0203597,C0024348,TREATS,hyperthermia treatment,Lysis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0204700,C0546817,TREATS,Fluid restriction,Fluid overload,topp,patf,1,TREATS_TOPPtrtsPATF
+C0204727,C0010356,TREATS,Isolation procedure,Cross Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0204727,C0013687,TREATS,Isolation procedure,effusion,topp,patf,2,TREATS_TOPPtrtsPATF
+C0204727,C0020517,TREATS,Isolation procedure,Hypersensitivity,topp,patf,4,TREATS_TOPPtrtsPATF
+C0204727,C0242656,TREATS,Isolation procedure,Disease Progression,topp,patf,2,TREATS_TOPPtrtsPATF
+C0204727,C3714514,TREATS,Isolation procedure,Infection,topp,patf,7,TREATS_TOPPtrtsPATF
+C0205991,C0020517,TREATS,Administration of vaccine to produce active immunity,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0206058,C0019080,TREATS,Elective Surgical Procedures,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0206074,C0001122,TREATS,Renal Replacement Therapy,Acidosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0206074,C0010392,TREATS,Renal Replacement Therapy,Crush syndrome,topp,patf,1,TREATS_TOPPtrtsPATF
+C0206074,C0036983,TREATS,Renal Replacement Therapy,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0206074,C0546817,TREATS,Renal Replacement Therapy,Fluid overload,topp,patf,5,TREATS_TOPPtrtsPATF
+C0237125,C0243083,TREATS,Drugs regimen,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0242348,C3714514,TREATS,Serotherapy,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0242602,C0242656,TREATS,Peripheral Stem Cell Transplantation,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C0262718,C0152245,TREATS,Pelvic floor exercises,Extravasation of urine,topp,patf,1,TREATS_TOPPtrtsPATF
+C0279033,C0019080,TREATS,Replacement therapy,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0279033,C0036983,TREATS,Replacement therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0279033,C3714514,TREATS,Replacement therapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0279694,C0021368,TREATS,Monoclonal Antibody Therapy,Inflammation,topp,patf,2,TREATS_TOPPtrtsPATF
+C0279934,C0036679,TREATS,chlorambucil/etoposide/lomustine,Diastasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0280274,C0021368,TREATS,Antiviral Therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0280274,C0235029,TREATS,Antiviral Therapy,neurological complication,topp,patf,1,TREATS_TOPPtrtsPATF
+C0280274,C0543419,TREATS,Antiviral Therapy,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0280274,C1373218,TREATS,Antiviral Therapy,Decreased Immunologic Activity [PE],topp,patf,3,TREATS_TOPPtrtsPATF
+C0280274,C3714514,TREATS,Antiviral Therapy,Infection,topp,patf,12,TREATS_TOPPtrtsPATF
+C0281176,C0543419,TREATS,antibody therapy,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0281176,C3714514,TREATS,antibody therapy,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0281318,C0027686,TREATS,antiangiogenesis therapy,Pathologic Neovascularization,topp,patf,2,TREATS_TOPPtrtsPATF
+C0282515,C1373218,TREATS,Chemoprevention,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0282638,C0017181,TREATS,Antibiotic Prophylaxis,Gastrointestinal Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0282638,C0036983,TREATS,Antibiotic Prophylaxis,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0282638,C0392618,TREATS,Antibiotic Prophylaxis,Postoperative infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0302189,C0021368,TREATS,Cell Therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0338237,C0021368,TREATS,Antibiotic therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0338237,C0036983,TREATS,Antibiotic therapy,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C0338237,C0860239,TREATS,Antibiotic therapy,Catheter related infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0338237,C3714514,TREATS,Antibiotic therapy,Infection,topp,patf,13,TREATS_TOPPtrtsPATF
+C0339897,C0019080,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0339897,C0333106,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Bleeding varices,topp,patf,1,TREATS_TOPPtrtsPATF
+C0341616,C0005001,TREATS,Open prostatectomy,Benign prostatic hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0344211,C0003130,TREATS,Supportive care,Anoxia,topp,patf,2,TREATS_TOPPtrtsPATF
+C0344211,C0019080,TREATS,Supportive care,Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0344211,C0021368,TREATS,Supportive care,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0344211,C0026766,TREATS,Supportive care,Multiple Organ Failure,topp,patf,2,TREATS_TOPPtrtsPATF
+C0344211,C0087086,TREATS,Supportive care,Thrombus,topp,patf,1,TREATS_TOPPtrtsPATF
+C0344211,C0342579,TREATS,Supportive care,Electrolyte imbalance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0344211,C0543419,TREATS,Supportive care,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0344211,C0749225,TREATS,Supportive care,Systolic dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0344211,C1373218,TREATS,Supportive care,Decreased Immunologic Activity [PE],topp,patf,6,TREATS_TOPPtrtsPATF
+C0344211,C3714514,TREATS,Supportive care,Infection,topp,patf,4,TREATS_TOPPtrtsPATF
+C0348007,C0027686,TREATS,Laser ablation,Pathologic Neovascularization,topp,patf,1,TREATS_TOPPtrtsPATF
+C0349707,C0016059,TREATS,Aspiration-action,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0349707,C0036974,TREATS,Aspiration-action,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0376518,C0011304,TREATS,Adoptive Transfer,Demyelination,topp,patf,1,TREATS_TOPPtrtsPATF
+C0376518,C0035228,TREATS,Adoptive Transfer,Respiratory Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0376518,C3714514,TREATS,Adoptive Transfer,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0376530,C4545429,TREATS,"Decompression, Surgical",Perioperative complication,topp,patf,1,TREATS_TOPPtrtsPATF
+C0392877,C0021359,TREATS,infusion of drug,Infertility,topp,patf,2,TREATS_TOPPtrtsPATF
+C0392920,C0333355,TREATS,Chemotherapy Regimen,Inflammatory disease of mucous membrane,topp,patf,1,TREATS_TOPPtrtsPATF
+C0392920,C1373218,TREATS,Chemotherapy Regimen,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0393293,C1261287,TREATS,Endoscopic dilatation,Stenosis,topp,patf,2,TREATS_TOPPtrtsPATF
+C0394374,C0428977,TREATS,Vagotomy,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0394664,C0020564,TREATS,Acupuncture procedure,Hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0394664,C0700148,TREATS,Acupuncture procedure,Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0395467,C0021368,TREATS,Sector iridectomy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0396565,C0020542,TREATS,Lung excision,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0396599,C0013990,TREATS,Double lung transplant,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C0397437,C0428977,TREATS,Transthoracic cardiac pacing procedure,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0399935,C0333279,TREATS,Ileectomy,Massive hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0400076,C0243083,TREATS,Proctocolectomy,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0413381,C0020517,TREATS,Subcutaneous immunotherapy,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0418981,C0243083,TREATS,Medical therapy,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0439775,C0151763,TREATS,Elevation procedure,Liver damage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0439775,C3714514,TREATS,Elevation procedure,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0441509,C0006110,TREATS,Coagulation procedure,Brain Death,topp,patf,1,TREATS_TOPPtrtsPATF
+C0441509,C0019080,TREATS,Coagulation procedure,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0441509,C0021368,TREATS,Coagulation procedure,Inflammation,topp,patf,2,TREATS_TOPPtrtsPATF
+C0441509,C0030660,TREATS,Coagulation procedure,Pathologic Processes,topp,patf,1,TREATS_TOPPtrtsPATF
+C0441509,C0333565,TREATS,Coagulation procedure,Fibrin deposition,topp,patf,1,TREATS_TOPPtrtsPATF
+C0441509,C0878751,TREATS,Coagulation procedure,late pregnancy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0450076,C0036679,TREATS,Gradient method,Diastasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0451615,C0021368,TREATS,Pain relief,Inflammation,topp,patf,2,TREATS_TOPPtrtsPATF
+C0454104,C0036983,TREATS,Yttrium 90 therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0455052,C0919691,TREATS,Bowel preparation,Anastomotic Leak,topp,patf,1,TREATS_TOPPtrtsPATF
+C0455142,C0021368,TREATS,Intravenous therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0455142,C0036974,TREATS,Intravenous therapy,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0455142,C0543419,TREATS,Intravenous therapy,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0455142,C3714514,TREATS,Intravenous therapy,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0456226,C1261287,TREATS,Percutaneous balloon angioplasty of artery,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0456675,C0017181,TREATS,Massive blood transfusion,Gastrointestinal Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0459914,C0019080,TREATS,Conservative Treatment,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0459914,C0546817,TREATS,Conservative Treatment,Fluid overload,topp,patf,1,TREATS_TOPPtrtsPATF
+C0472676,C0546817,TREATS,Intermittent hemodialysis,Fluid overload,topp,patf,1,TREATS_TOPPtrtsPATF
+C0472684,C0546817,TREATS,Continuous venovenous hemofiltration,Fluid overload,topp,patf,2,TREATS_TOPPtrtsPATF
+C0472688,C0546817,TREATS,Continuous venovenous hemodiafiltration,Fluid overload,topp,patf,1,TREATS_TOPPtrtsPATF
+C0472699,C0036983,TREATS,Hemopoietic stem cell transplant,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0472699,C0281169,TREATS,Hemopoietic stem cell transplant,pulmonary complications,topp,patf,2,TREATS_TOPPtrtsPATF
+C0472699,C1155266,TREATS,Hemopoietic stem cell transplant,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0472699,C1373218,TREATS,Hemopoietic stem cell transplant,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0472699,C3714514,TREATS,Hemopoietic stem cell transplant,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0475411,C0036679,TREATS,Standardized technique,Diastasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0520251,C3714514,TREATS,Multiple interventional procedures,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0520484,C0027686,TREATS,Xenograft procedure,Pathologic Neovascularization,topp,patf,1,TREATS_TOPPtrtsPATF
+C0521213,C0151526,TREATS,Closure by clamp,Premature Birth,topp,patf,1,TREATS_TOPPtrtsPATF
+C0522776,C1261287,TREATS,Placement of stent,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0524722,C0036983,TREATS,Gastrointestinal Surgical Procedure,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0524722,C0221791,TREATS,Gastrointestinal Surgical Procedure,medical complication,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0004058,TREATS,Operative Surgical Procedures,Aspirin allergy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0017181,TREATS,Operative Surgical Procedures,Gastrointestinal Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C0543467,C0018944,TREATS,Operative Surgical Procedures,Hematoma,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0019080,TREATS,Operative Surgical Procedures,Hemorrhage,topp,patf,12,TREATS_TOPPtrtsPATF
+C0543467,C0020517,TREATS,Operative Surgical Procedures,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0022116,TREATS,Operative Surgical Procedures,Ischemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0028778,TREATS,Operative Surgical Procedures,Obstruction,topp,patf,2,TREATS_TOPPtrtsPATF
+C0543467,C0029445,TREATS,Operative Surgical Procedures,Bone necrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0040038,TREATS,Operative Surgical Procedures,Thromboembolism,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C0333106,TREATS,Operative Surgical Procedures,Bleeding varices,topp,patf,2,TREATS_TOPPtrtsPATF
+C0543467,C0588128,TREATS,Operative Surgical Procedures,Infection and inflammatory reaction due to internal orthopedic fixation device,topp,patf,1,TREATS_TOPPtrtsPATF
+C0543467,C3714514,TREATS,Operative Surgical Procedures,Infection,topp,patf,4,TREATS_TOPPtrtsPATF
+C0545309,C0020517,TREATS,Rapid desensitization,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0547070,C0014591,TREATS,Ablation,Epistaxis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0547070,C0021308,TREATS,Ablation,Infarction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0547070,C0332448,TREATS,Ablation,Infiltration,topp,patf,1,TREATS_TOPPtrtsPATF
+C0547070,C0920563,TREATS,Ablation,Insulin Sensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0547070,C2004491,TREATS,Ablation,Cicatrix,topp,patf,1,TREATS_TOPPtrtsPATF
+C0547070,C3714514,TREATS,Ablation,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0553741,C0035410,TREATS,Fluid Management,Rhabdomyolysis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0553741,C0036974,TREATS,Fluid Management,Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C0554804,C0020542,TREATS,Assisted breathing,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C0558380,C0022876,TREATS,Emergency cesarean section,Premature Obstetric Labor,topp,patf,1,TREATS_TOPPtrtsPATF
+C0558380,C0035956,TREATS,Emergency cesarean section,"Rupture, Spontaneous",topp,patf,1,TREATS_TOPPtrtsPATF
+C0559692,C0036974,TREATS,Intravenous fluid replacement,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0564457,C0028778,TREATS,percutaneous nephrostomy procedure,Obstruction,topp,patf,2,TREATS_TOPPtrtsPATF
+C0574032,C0016059,TREATS,Infusion procedures,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0574032,C0019080,TREATS,Infusion procedures,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0574032,C0036974,TREATS,Infusion procedures,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0574138,C0036983,TREATS,Intravenous hydrocortisone therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0580646,C0340565,TREATS,Integumentary system repair,Lower limb ischemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0581528,C0019080,TREATS,Close observation,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0581601,C1520005,TREATS,Functional modification,Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0597409,C2586211,TREATS,retransplantation,Thrombosis of blood vessel,topp,patf,1,TREATS_TOPPtrtsPATF
+C0599346,C0231178,TREATS,second transplant,Chronic failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C0600249,C3714514,TREATS,"Immunotherapy, Passive",Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0600558,C1373218,TREATS,Neoadjuvant Therapy,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0618956,C3714514,TREATS,UFD-1,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C0020517,TREATS,adjuvant therapy,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C0020963,TREATS,adjuvant therapy,Immune Tolerance,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C0031154,TREATS,adjuvant therapy,Peritonitis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C0036983,TREATS,adjuvant therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C0341950,TREATS,adjuvant therapy,Severe pre-eclampsia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C0700148,TREATS,adjuvant therapy,Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0677850,C3714514,TREATS,adjuvant therapy,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C0677881,C0243083,TREATS,Cytotoxic Chemotherapy,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0678026,C0015376,TREATS,Antifungal therapy,Extravasation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0678026,C0036983,TREATS,Antifungal therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0678812,C0020564,TREATS,systemic administration,Hypertrophy,topp,patf,1,TREATS_TOPPtrtsPATF
+C0678812,C0035228,TREATS,systemic administration,Respiratory Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0678812,C3714514,TREATS,systemic administration,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0678823,C3714514,TREATS,parenteral administration,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0679625,C0333165,TREATS,general therapeutic measure,Acute obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0679628,C3887486,TREATS,blood modification,Interstitial lung fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0679637,C0032787,TREATS,major surgery,Postoperative Complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C0679651,C1155266,TREATS,directive therapy,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0679698,C3714514,TREATS,disease prevention,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0683174,C0021368,TREATS,topical application,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683465,C0016059,TREATS,novel AODU treatment method,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683465,C0020517,TREATS,novel AODU treatment method,Hypersensitivity,topp,patf,2,TREATS_TOPPtrtsPATF
+C0683465,C0021368,TREATS,novel AODU treatment method,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683465,C3714514,TREATS,novel AODU treatment method,Infection,topp,patf,4,TREATS_TOPPtrtsPATF
+C0683517,C0036983,TREATS,Involuntary Treatment,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0013990,TREATS,treatment options,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0036983,TREATS,treatment options,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0042024,TREATS,treatment options,Urinary Incontinence,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0161818,TREATS,treatment options,Respiratory complication,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0243083,TREATS,treatment options,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0333138,TREATS,treatment options,Stasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0683525,C0543419,TREATS,treatment options,Sequela of disorder,topp,patf,2,TREATS_TOPPtrtsPATF
+C0683525,C3714514,TREATS,treatment options,Infection,topp,patf,15,TREATS_TOPPtrtsPATF
+C0684199,C0020517,TREATS,Homeopathy,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0695341,C0020517,TREATS,common procedures,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0695341,C1563937,TREATS,common procedures,Atherogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0695434,C0012359,TREATS,oscillations,Pathological Dilatation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0700589,C0020517,TREATS,Contraceptive methods,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0700589,C0021368,TREATS,Contraceptive methods,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0728940,C0028778,TREATS,Excision,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0728940,C1155266,TREATS,Excision,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C0747973,C0242781,TREATS,Elective procedure,disease transmission,topp,patf,1,TREATS_TOPPtrtsPATF
+C0747973,C3714514,TREATS,Elective procedure,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0748725,C0043241,TREATS,sinus surgery,Wound Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0752151,C0013687,TREATS,"Thoracic Surgery, Video-Assisted",effusion,topp,patf,1,TREATS_TOPPtrtsPATF
+C0808232,C0021368,TREATS,Therapeutic Intervention,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C0808232,C0032914,TREATS,Therapeutic Intervention,Pre-Eclampsia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0808232,C0035228,TREATS,Therapeutic Intervention,Respiratory Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0808232,C0543419,TREATS,Therapeutic Intervention,Sequela of disorder,topp,patf,1,TREATS_TOPPtrtsPATF
+C0813207,C0019080,TREATS,Creation of shunt,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0815154,C0020517,TREATS,selective intervention,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C0846507,C0004144,TREATS,Continuous negative pressure ventilation,Atelectasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0846507,C0013990,TREATS,Continuous negative pressure ventilation,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C0848112,C3714514,TREATS,on anti-coagulants,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0854632,C3714514,TREATS,electrolyte replacement,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0869904,C0040038,TREATS,Obstetric procedure,Thromboembolism,topp,patf,1,TREATS_TOPPtrtsPATF
+C0872104,C0021359,TREATS,Assisted Reproductive Technologies,Infertility,topp,patf,2,TREATS_TOPPtrtsPATF
+C0872278,C1373218,TREATS,stem cell therapy,Decreased Immunologic Activity [PE],topp,patf,1,TREATS_TOPPtrtsPATF
+C0877341,C1261287,TREATS,coronary revascularization,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0886052,C0019080,TREATS,wound care,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C0887907,C0600228,TREATS,Advanced Cardiac Life Support,Cardiopulmonary Arrest,topp,patf,1,TREATS_TOPPtrtsPATF
+C0887947,C0022116,TREATS,"Antiretroviral Therapy, Highly Active",Ischemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0887947,C0282474,TREATS,"Antiretroviral Therapy, Highly Active",Maternal-Fetal Infection Transmission,topp,patf,1,TREATS_TOPPtrtsPATF
+C0887947,C1373218,TREATS,"Antiretroviral Therapy, Highly Active",Decreased Immunologic Activity [PE],topp,patf,2,TREATS_TOPPtrtsPATF
+C0887947,C1520005,TREATS,"Antiretroviral Therapy, Highly Active",Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C0917707,C0948031,TREATS,Cannulation,Primary Graft Dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C0920467,C3714514,TREATS,disorder control (procedure),Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C0935576,C3714514,TREATS,treatment guideline,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0936077,C0030660,TREATS,Complementary therapies,Pathologic Processes,topp,patf,1,TREATS_TOPPtrtsPATF
+C0947746,C0022116,TREATS,Gastrointestinal Therapies,Ischemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C0948575,C0546817,TREATS,Diuretic therapy,Fluid overload,topp,patf,1,TREATS_TOPPtrtsPATF
+C0949216,C3714514,TREATS,Alternative Therapies,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C0949266,C0028778,TREATS,"Therapies, Investigational",Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C1096021,C0040053,TREATS,antiplatelet therapy,Thrombosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1116142,C0007642,TREATS,Transfusion of granulocytes,Cellulitis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1116142,C3714514,TREATS,Transfusion of granulocytes,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C1135929,C3714514,TREATS,Mass Vaccination,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1148475,C0020517,TREATS,Complementary and alternative medicine,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C1167956,C0749225,TREATS,Cardiac Resynchronization Therapy,Systolic dysfunction,topp,patf,1,TREATS_TOPPtrtsPATF
+C1167956,C1398354,TREATS,Cardiac Resynchronization Therapy,Conduction delay,topp,patf,1,TREATS_TOPPtrtsPATF
+C1171177,C4061114,TREATS,Adult care,Acute illness,topp,patf,1,TREATS_TOPPtrtsPATF
+C1257990,C3714514,TREATS,Mesenchymal Stem Cell Transplantation,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1258045,C0151526,TREATS,Nasal Continuous Positive Airway Pressure,Premature Birth,topp,patf,1,TREATS_TOPPtrtsPATF
+C1261381,C0011304,TREATS,Destructive procedure (surgical),Demyelination,topp,patf,1,TREATS_TOPPtrtsPATF
+C1261381,C0013990,TREATS,Destructive procedure (surgical),Pathological accumulation of air in tissues,topp,patf,3,TREATS_TOPPtrtsPATF
+C1261381,C0443146,TREATS,Destructive procedure (surgical),Autoimmune reaction,topp,patf,1,TREATS_TOPPtrtsPATF
+C1261381,C1155266,TREATS,Destructive procedure (surgical),inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C1261381,C3714514,TREATS,Destructive procedure (surgical),Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1273412,C0017181,TREATS,Chinese herbal medicine,Gastrointestinal Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C1273412,C0021368,TREATS,Chinese herbal medicine,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C1276413,C0038941,TREATS,Therapeutic regimen,Surgical Wound Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1276417,C0010392,TREATS,Burn care,Crush syndrome,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293116,C0020517,TREATS,Introduction procedure,Hypersensitivity,topp,patf,4,TREATS_TOPPtrtsPATF
+C1293116,C0021368,TREATS,Introduction procedure,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293116,C0036974,TREATS,Introduction procedure,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293116,C0036983,TREATS,Introduction procedure,Septic Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C1293116,C3714514,TREATS,Introduction procedure,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C1293130,C0019080,TREATS,Stabilization,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293130,C0021308,TREATS,Stabilization,Infarction,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293130,C0036974,TREATS,Stabilization,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293130,C0036983,TREATS,Stabilization,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293130,C0040053,TREATS,Stabilization,Thrombosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293130,C3714514,TREATS,Stabilization,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293132,C0001511,TREATS,Anchoring procedure,Tissue Adhesions,topp,patf,1,TREATS_TOPPtrtsPATF
+C1293365,C0013990,TREATS,Lung destructive procedure,Pathological accumulation of air in tissues,topp,patf,3,TREATS_TOPPtrtsPATF
+C1293365,C0021368,TREATS,Lung destructive procedure,Inflammation,topp,patf,2,TREATS_TOPPtrtsPATF
+C1298805,C0333288,TREATS,Routine procedure,Dissecting hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C1299597,C0036983,TREATS,Empirical therapy,Septic Shock,topp,patf,2,TREATS_TOPPtrtsPATF
+C1321145,C0878751,TREATS,Dialectical behavior therapy,late pregnancy,topp,patf,1,TREATS_TOPPtrtsPATF
+C1321916,C0021368,TREATS,cisplatin/etoposide/vindesine protocol,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C1443867,C0010356,TREATS,Standard precautions,Cross Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C1443867,C1261287,TREATS,Standard precautions,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1443867,C3714514,TREATS,Standard precautions,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1443869,C3714514,TREATS,Airborne precautions,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1443870,C3714514,TREATS,Respiratory secretion precautions,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C1504389,C0544791,TREATS,Stem cell transplant,Inflammatory fistula,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511237,C0281169,TREATS,bolus infusion,pulmonary complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0013687,TREATS,Detection,effusion,topp,patf,2,TREATS_TOPPtrtsPATF
+C1511790,C0013990,TREATS,Detection,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0018188,TREATS,Detection,Granuloma,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0019080,TREATS,Detection,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0020517,TREATS,Detection,Hypersensitivity,topp,patf,17,TREATS_TOPPtrtsPATF
+C1511790,C0022876,TREATS,Detection,Premature Obstetric Labor,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0024348,TREATS,Detection,Lysis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0028778,TREATS,Detection,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0036679,TREATS,Detection,Diastasis,topp,patf,3,TREATS_TOPPtrtsPATF
+C1511790,C0162633,TREATS,Detection,Viral Shedding,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0242656,TREATS,Detection,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0392707,TREATS,Detection,Atopy,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0549614,TREATS,Detection,gastric/duodenal,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C0917808,TREATS,Detection,Vegetative State,topp,patf,1,TREATS_TOPPtrtsPATF
+C1511790,C1520005,TREATS,Detection,Viral Pathogenesis,topp,patf,8,TREATS_TOPPtrtsPATF
+C1511790,C3714514,TREATS,Detection,Infection,topp,patf,12,TREATS_TOPPtrtsPATF
+C1511790,C4061114,TREATS,Detection,Acute illness,topp,patf,2,TREATS_TOPPtrtsPATF
+C1512721,C0020517,TREATS,Inferential Current Treatment,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C1515119,C0013922,TREATS,systemic therapy,Embolism,topp,patf,1,TREATS_TOPPtrtsPATF
+C1515119,C3714514,TREATS,systemic therapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1515884,C0005001,TREATS,Acupuncture and Oriental Medicine,Benign prostatic hypertrophy,topp,patf,3,TREATS_TOPPtrtsPATF
+C1515884,C0026766,TREATS,Acupuncture and Oriental Medicine,Multiple Organ Failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C1515884,C3714514,TREATS,Acupuncture and Oriental Medicine,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1518010,C0021368,TREATS,Low Dose Radiation Therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C1522449,C0020517,TREATS,Therapeutic radiology procedure,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C1522449,C0028778,TREATS,Therapeutic radiology procedure,Obstruction,topp,patf,1,TREATS_TOPPtrtsPATF
+C1522449,C4505499,TREATS,Therapeutic radiology procedure,Transfusion-Transmitted Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1527077,C0010356,TREATS,Peripheral Electronic Nerve Stimulation,Cross Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1531518,C0021368,TREATS,Biological treatment,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C1532786,C3714514,TREATS,Rotavirus vaccination,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1562158,C0027686,TREATS,"Injections, Periocular",Pathologic Neovascularization,topp,patf,1,TREATS_TOPPtrtsPATF
+C1611149,C0004144,TREATS,Biphasic Positive Airway Pressure,Atelectasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1627346,C0036974,TREATS,Feeding regime,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C1659427,C0004144,TREATS,Nebulization,Atelectasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C1704537,C0020517,TREATS,Osteopathic Combined Method,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C1706406,C0243083,TREATS,Debulking Procedure,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0019080,TREATS,First line treatment,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0020517,TREATS,First line treatment,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0020542,TREATS,First line treatment,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0031526,TREATS,First line treatment,Philadelphia Chromosome,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0032797,TREATS,First line treatment,Postpartum Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0036974,TREATS,First line treatment,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0036983,TREATS,First line treatment,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0040038,TREATS,First line treatment,Thromboembolism,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0042024,TREATS,First line treatment,Urinary Incontinence,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0242656,TREATS,First line treatment,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0281169,TREATS,First line treatment,pulmonary complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0398353,TREATS,First line treatment,Hypercapnic respiratory failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0700148,TREATS,First line treatment,Congestion,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C0857353,TREATS,First line treatment,Hypotensive,topp,patf,1,TREATS_TOPPtrtsPATF
+C1708063,C2985554,TREATS,First line treatment,In-Transit Metastasis,topp,patf,2,TREATS_TOPPtrtsPATF
+C1708063,C3714514,TREATS,First line treatment,Infection,topp,patf,5,TREATS_TOPPtrtsPATF
+C1710089,C0013990,TREATS,Single Lung Transplantation,Pathological accumulation of air in tissues,topp,patf,1,TREATS_TOPPtrtsPATF
+C1737238,C0029445,TREATS,Extracorporeal Shockwave Therapy,Bone necrosis,topp,patf,2,TREATS_TOPPtrtsPATF
+C1868981,C0026766,TREATS,Invasive mechanical ventilation NOS,Multiple Organ Failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C1868981,C0347959,TREATS,Invasive mechanical ventilation NOS,Lactic acidemia,topp,patf,1,TREATS_TOPPtrtsPATF
+C1959997,C0020542,TREATS,Pulmonary thromboendarterectomy,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C1963758,C0020517,TREATS,Immunomodulation,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C1963758,C1155266,TREATS,Immunomodulation,inflammatory response,topp,patf,1,TREATS_TOPPtrtsPATF
+C1964029,C3714514,TREATS,early/brief intervention/therapy (treatment),Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C1997883,C0398353,TREATS,Noninvasive Ventilation,Hypercapnic respiratory failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C2004459,C0021368,TREATS,Abdominoperineal resection,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2034490,C0036983,TREATS,intravenous Saline,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C2188405,C0015376,TREATS,urgent Operation,Extravasation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2188405,C1261287,TREATS,urgent Operation,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C2242628,C0021376,TREATS,Fecal Microbiota Transplantation,Chronic inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2242628,C3714514,TREATS,Fecal Microbiota Transplantation,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C2348331,C3714514,TREATS,Dose Regimen,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C2349740,C3714514,TREATS,Non-invasive mechanical ventilation,Infection,topp,patf,2,TREATS_TOPPtrtsPATF
+C2363964,C0242656,TREATS,Antiviral Administration,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C2364034,C0019080,TREATS,Repair of blood vessel,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C2364034,C0021368,TREATS,Repair of blood vessel,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2711393,C0036983,TREATS,Transarterial chemoembolization of hepatic artery,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C2735670,C1520005,TREATS,Medication intervention,Viral Pathogenesis,topp,patf,1,TREATS_TOPPtrtsPATF
+C2827774,C0021368,TREATS,Current Therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2827774,C3714514,TREATS,Current Therapy,Infection,topp,patf,5,TREATS_TOPPtrtsPATF
+C2936173,C1261287,TREATS,Percutaneous Transluminal Coronary Angioplasty,Stenosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C2936405,C3714514,TREATS,Drug Repositioning,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C2936497,C4505499,TREATS,Hemovigilance,Transfusion-Transmitted Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C2936501,C0032797,TREATS,Uterine Balloon Tamponade,Postpartum Hemorrhage,topp,patf,2,TREATS_TOPPtrtsPATF
+C2936643,C3714514,TREATS,Standard of Care,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0016059,TREATS,Conventional Treatment,Fibrosis,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0020517,TREATS,Conventional Treatment,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0020542,TREATS,Conventional Treatment,Pulmonary Hypertension,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0021368,TREATS,Conventional Treatment,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0026766,TREATS,Conventional Treatment,Multiple Organ Failure,topp,patf,3,TREATS_TOPPtrtsPATF
+C2945704,C0036974,TREATS,Conventional Treatment,Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0036983,TREATS,Conventional Treatment,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C2945704,C0428977,TREATS,Conventional Treatment,Bradycardia,topp,patf,1,TREATS_TOPPtrtsPATF
+C2985566,C0021368,TREATS,Targeted Therapy,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C2985566,C3714514,TREATS,Targeted Therapy,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C2986502,C0020517,TREATS,Zheng,Hypersensitivity,topp,patf,1,TREATS_TOPPtrtsPATF
+C2986502,C0036983,TREATS,Zheng,Septic Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C2986592,C0032914,TREATS,Definitive Treatment,Pre-Eclampsia,topp,patf,1,TREATS_TOPPtrtsPATF
+C3164735,C0281169,TREATS,Noninvasive positive pressure ventilation,pulmonary complications,topp,patf,1,TREATS_TOPPtrtsPATF
+C3164735,C0398353,TREATS,Noninvasive positive pressure ventilation,Hypercapnic respiratory failure,topp,patf,1,TREATS_TOPPtrtsPATF
+C3177188,C0043241,TREATS,Early Therapy,Wound Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C3177188,C0235029,TREATS,Early Therapy,neurological complication,topp,patf,1,TREATS_TOPPtrtsPATF
+C3241973,C0014591,TREATS,Pediatric Surgical Procedures,Epistaxis,topp,patf,1,TREATS_TOPPtrtsPATF
+C3241973,C0019080,TREATS,Pediatric Surgical Procedures,Hemorrhage,topp,patf,1,TREATS_TOPPtrtsPATF
+C3267174,C0342299,TREATS,Blood Glucose control,Poor glycemic control,topp,patf,1,TREATS_TOPPtrtsPATF
+C3540512,C0011304,TREATS,Circumferential Supracrestal Fiberotomy,Demyelination,topp,patf,1,TREATS_TOPPtrtsPATF
+C3540512,C0243083,TREATS,Circumferential Supracrestal Fiberotomy,associated disease,topp,patf,1,TREATS_TOPPtrtsPATF
+C3540512,C1827687,TREATS,Circumferential Supracrestal Fiberotomy,Chemotherapy-induced neutropenia,topp,patf,2,TREATS_TOPPtrtsPATF
+C3540512,C3714514,TREATS,Circumferential Supracrestal Fiberotomy,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C3658308,C3714514,TREATS,Patient Care Bundles,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C3665674,C0003130,TREATS,Warburg Therapy,Anoxia,topp,patf,3,TREATS_TOPPtrtsPATF
+C3665674,C0036983,TREATS,Warburg Therapy,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C3810531,C0036983,TREATS,Bortezomib/Dexamethasone/Pegylated Liposomal Doxorubicin Regimen,Septic Shock,topp,patf,1,TREATS_TOPPtrtsPATF
+C3828439,C0004144,TREATS,Pulmonary Hygiene,Atelectasis,topp,patf,1,TREATS_TOPPtrtsPATF
+C3841297,C0042135,TREATS,Cesarean,Uterine Inertia,topp,patf,1,TREATS_TOPPtrtsPATF
+C3858690,C0021368,TREATS,adjunctive treatment,Inflammation,topp,patf,1,TREATS_TOPPtrtsPATF
+C3858690,C0036983,TREATS,adjunctive treatment,Septic Shock,topp,patf,3,TREATS_TOPPtrtsPATF
+C3858690,C0242656,TREATS,adjunctive treatment,Disease Progression,topp,patf,1,TREATS_TOPPtrtsPATF
+C3858690,C3714514,TREATS,adjunctive treatment,Infection,topp,patf,1,TREATS_TOPPtrtsPATF
+C4053960,C0002994,TREATS,Systemic Corticosteroid Therapy,Angioedema,topp,patf,2,TREATS_TOPPtrtsPATF
+C4277645,C3714514,TREATS,Phage Therapy,Infection,topp,patf,3,TREATS_TOPPtrtsPATF
+C4303340,C2585653,TREATS,Warfarin therapy,Persistent atrial fibrillation,topp,patf,1,TREATS_TOPPtrtsPATF
+C4520447,C3714514,TREATS,Decolonization,Infection,topp,patf,2,TREATS_TOPPtrtsPATF

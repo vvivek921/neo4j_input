@@ -1,0 +1,109 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001546,C0815107,COEXISTS_WITH,Adjustment Disorders,psychological distress,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0003469,COEXISTS_WITH,Anxiety,Anxiety Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0004936,COEXISTS_WITH,Anxiety,Mental disorders,mobd,mobd,3,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0009676,COEXISTS_WITH,Anxiety,Confusion,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0011581,COEXISTS_WITH,Anxiety,Depressive disorder,mobd,mobd,3,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0013473,COEXISTS_WITH,Anxiety,Eating Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0038436,COEXISTS_WITH,Anxiety,Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0040188,COEXISTS_WITH,Anxiety,Tic disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0085281,COEXISTS_WITH,Anxiety,Addictive Behavior,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0391976,COEXISTS_WITH,Anxiety,Pain Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C0815107,COEXISTS_WITH,Anxiety,psychological distress,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003467,C4531100,COEXISTS_WITH,Anxiety,Negative affectivity,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0003469,C0003467,COEXISTS_WITH,Anxiety Disorders,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0004352,C0008073,COEXISTS_WITH,Autistic Disorder,Developmental Disabilities,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0004936,C0003467,COEXISTS_WITH,Mental disorders,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0005586,C0013473,COEXISTS_WITH,Bipolar Disorder,Eating Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0005586,C0036341,COEXISTS_WITH,Bipolar Disorder,Schizophrenia,mobd,mobd,2,COEXISTS_WITH_MOBDcxwtMOBD
+C0005586,C0278061,COEXISTS_WITH,Bipolar Disorder,Abnormal mental state,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0005586,C1510472,COEXISTS_WITH,Bipolar Disorder,Drug Dependence,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0008073,C0004352,COEXISTS_WITH,Developmental Disabilities,Autistic Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0009676,C0497327,COEXISTS_WITH,Confusion,Dementia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0009676,C0598853,COEXISTS_WITH,Confusion,forgetting,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011206,C0338656,COEXISTS_WITH,Delirium,Impaired cognition,mobd,mobd,2,COEXISTS_WITH_MOBDcxwtMOBD
+C0011206,C3840212,COEXISTS_WITH,Delirium,Cannabis withdrawal,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011253,C0011581,COEXISTS_WITH,Delusions,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011253,C0338831,COEXISTS_WITH,Delusions,Manic,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0001956,COEXISTS_WITH,Depressive disorder,Alcohol Use Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0003467,COEXISTS_WITH,Depressive disorder,Anxiety,mobd,mobd,6,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0009241,COEXISTS_WITH,Depressive disorder,Cognition Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0011570,COEXISTS_WITH,Depressive disorder,Mental Depression,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0036341,COEXISTS_WITH,Depressive disorder,Schizophrenia,mobd,mobd,2,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0038436,COEXISTS_WITH,Depressive disorder,Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0085281,COEXISTS_WITH,Depressive disorder,Addictive Behavior,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0338656,COEXISTS_WITH,Depressive disorder,Impaired cognition,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0391976,COEXISTS_WITH,Depressive disorder,Pain Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0497327,COEXISTS_WITH,Depressive disorder,Dementia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0525045,COEXISTS_WITH,Depressive disorder,Mood Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C1269683,COEXISTS_WITH,Depressive disorder,Major Depressive Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0018524,C0011581,COEXISTS_WITH,Hallucinations,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0018524,C0036341,COEXISTS_WITH,Hallucinations,Schizophrenia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0018524,C0338831,COEXISTS_WITH,Hallucinations,Manic,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0024517,C0011581,COEXISTS_WITH,"Major depression, single episode",Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0025362,C0004352,COEXISTS_WITH,Mental Retardation,Autistic Disorder,mobd,mobd,2,COEXISTS_WITH_MOBDcxwtMOBD
+C0030662,C0001973,COEXISTS_WITH,"Gambling, Pathological","Alcoholic Intoxication, Chronic",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0031212,C0003467,COEXISTS_WITH,Personality Disorders,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0031212,C0011581,COEXISTS_WITH,Personality Disorders,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0031212,C0549622,COEXISTS_WITH,Personality Disorders,Sexual Dysfunction,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0033975,C0003467,COEXISTS_WITH,Psychotic Disorders,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0036341,C1456784,COEXISTS_WITH,Schizophrenia,Paranoia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038436,C0005586,COEXISTS_WITH,Post-Traumatic Stress Disorder,Bipolar Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038436,C0009676,COEXISTS_WITH,Post-Traumatic Stress Disorder,Confusion,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038436,C0011581,COEXISTS_WITH,Post-Traumatic Stress Disorder,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038436,C1510472,COEXISTS_WITH,Post-Traumatic Stress Disorder,Drug Dependence,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038436,C3203533,COEXISTS_WITH,Post-Traumatic Stress Disorder,Psychological Trauma,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038443,C0011581,COEXISTS_WITH,"Stress, Psychological",Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038443,C0036341,COEXISTS_WITH,"Stress, Psychological",Schizophrenia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038586,C0391976,COEXISTS_WITH,Substance Use Disorders,Pain Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0040188,C0476480,COEXISTS_WITH,Tic disorder,Physical violence,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0085628,C0588008,COEXISTS_WITH,Stupor,Severe depression,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0085632,C0178417,COEXISTS_WITH,Apathy,Anhedonia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0085633,C0497327,COEXISTS_WITH,Mood swings,Dementia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0085633,C0746402,COEXISTS_WITH,Mood swings,manic symptom,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0178417,C0011581,COEXISTS_WITH,Anhedonia,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233494,C0935572,COEXISTS_WITH,Tension,Stalking (behavior),mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233514,C0003467,COEXISTS_WITH,Abnormal behavior,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233514,C1263846,COEXISTS_WITH,Abnormal behavior,Attention deficit hyperactivity disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233523,C0042693,COEXISTS_WITH,Antisocial behavior,Violence,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233532,C0003467,COEXISTS_WITH,Maladaptive behavior associated with physical illness,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233532,C0011581,COEXISTS_WITH,Maladaptive behavior associated with physical illness,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233703,C1269683,COEXISTS_WITH,Xenophobia,Major Depressive Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233718,C0746402,COEXISTS_WITH,Pressure of speech,manic symptom,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0233794,C0497327,COEXISTS_WITH,Memory impairment,Dementia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0234985,C0011581,COEXISTS_WITH,Mental deterioration,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0235013,C0038436,COEXISTS_WITH,Hypervigilance,Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0236720,C0038436,COEXISTS_WITH,Hallucinogen Persisting Perception Disorder,Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0236816,C0038436,COEXISTS_WITH,"Stress Disorders, Traumatic, Acute",Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0236816,C0815107,COEXISTS_WITH,"Stress Disorders, Traumatic, Acute",psychological distress,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0270549,C0003469,COEXISTS_WITH,Generalized Anxiety Disorder,Anxiety Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0281875,C0013146,COEXISTS_WITH,Illicit medication use,Drug abuse,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338656,C0011206,COEXISTS_WITH,Impaired cognition,Delirium,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338656,C0011581,COEXISTS_WITH,Impaired cognition,Depressive disorder,mobd,mobd,2,COEXISTS_WITH_MOBDcxwtMOBD
+C0338656,C0033975,COEXISTS_WITH,Impaired cognition,Psychotic Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338656,C0036341,COEXISTS_WITH,Impaired cognition,Schizophrenia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338656,C0497327,COEXISTS_WITH,Impaired cognition,Dementia,mobd,mobd,2,COEXISTS_WITH_MOBDcxwtMOBD
+C0338831,C0003467,COEXISTS_WITH,Manic,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338831,C0011581,COEXISTS_WITH,Manic,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338831,C0036341,COEXISTS_WITH,Manic,Schizophrenia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0338908,C0033975,COEXISTS_WITH,Mixed anxiety and depressive disorder,Psychotic Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0424101,C0011206,COEXISTS_WITH,Inattention,Delirium,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0424295,C0001973,COEXISTS_WITH,Hyperactive behavior,"Alcoholic Intoxication, Chronic",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0424295,C0003467,COEXISTS_WITH,Hyperactive behavior,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0424295,C0004930,COEXISTS_WITH,Hyperactive behavior,Behavior Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0424295,C0011206,COEXISTS_WITH,Hyperactive behavior,Delirium,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0424318,C0023186,COEXISTS_WITH,Bullying,Learning Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0558066,C0038436,COEXISTS_WITH,Intrusive thoughts,Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0558066,C4042834,COEXISTS_WITH,Intrusive thoughts,Compassion Fatigue,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0558072,C0036341,COEXISTS_WITH,False perception,Schizophrenia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0596170,C0003467,COEXISTS_WITH,Binge eating disorder,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0700613,C0003467,COEXISTS_WITH,Anxiety state,Anxiety,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0700613,C0011570,COEXISTS_WITH,Anxiety state,Mental Depression,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0700613,C0038443,COEXISTS_WITH,Anxiety state,"Stress, Psychological",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0815107,C0042693,COEXISTS_WITH,psychological distress,Violence,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0948853,C0338831,COEXISTS_WITH,euthymia,Manic,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1269683,C0011581,COEXISTS_WITH,Major Depressive Disorder,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1456784,C0497327,COEXISTS_WITH,Paranoia,Dementia,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1696114,C0031212,COEXISTS_WITH,Stubbornness,Personality Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1845248,C1263846,COEXISTS_WITH,Outbursts,Attention deficit hyperactivity disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C2748208,C0011581,COEXISTS_WITH,Executive dysfunction,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD

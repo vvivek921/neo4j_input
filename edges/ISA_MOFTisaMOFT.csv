@@ -1,0 +1,92 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008858,C1704259,ISA,Citric Acid Cycle,Biochemical Pathway,moft,moft,2,ISA_MOFTisaMOFT
+C0015852,C0017952,ISA,Fermentation,Glycolysis,moft,moft,1,ISA_MOFTisaMOFT
+C0015852,C1511131,ISA,Fermentation,Biochemical Reaction,moft,moft,1,ISA_MOFTisaMOFT
+C0017952,C1511130,ISA,Glycolysis,Biochemical Processes,moft,moft,1,ISA_MOFTisaMOFT
+C0017952,C1511131,ISA,Glycolysis,Biochemical Reaction,moft,moft,1,ISA_MOFTisaMOFT
+C0018903,C0001801,ISA,Hemagglutination,agglutination,moft,moft,2,ISA_MOFTisaMOFT
+C0023775,C0030011,ISA,Lipid Peroxidation,Oxidation,moft,moft,4,ISA_MOFTisaMOFT
+C0030011,C0030012,ISA,Oxidation,Oxidation-Reduction,moft,moft,2,ISA_MOFTisaMOFT
+C0030012,C1511131,ISA,Oxidation-Reduction,Biochemical Reaction,moft,moft,1,ISA_MOFTisaMOFT
+C0030013,C1704259,ISA,Oxidative Phosphorylation,Biochemical Pathway,moft,moft,2,ISA_MOFTisaMOFT
+C0030013,C1749496,ISA,Oxidative Phosphorylation,energy pathways,moft,moft,1,ISA_MOFTisaMOFT
+C0031715,C1511131,ISA,Phosphorylation,Biochemical Reaction,moft,moft,1,ISA_MOFTisaMOFT
+C0033666,C0597299,ISA,Post-Translational Protein Processing,protein metabolism,moft,moft,2,ISA_MOFTisaMOFT
+C0086982,C1704259,ISA,Signal Transduction Pathways,Biochemical Pathway,moft,moft,3,ISA_MOFTisaMOFT
+C0243102,C1148560,ISA,enzyme activity,molecular_function,moft,moft,4,ISA_MOFTisaMOFT
+C0376322,C0033666,ISA,Protein Glycosylation,Post-Translational Protein Processing,moft,moft,1,ISA_MOFTisaMOFT
+C0596563,C1704259,ISA,fatty acid metabolism,Biochemical Pathway,moft,moft,2,ISA_MOFTisaMOFT
+C0596843,C0598783,ISA,Adipogenesis,Lipid Metabolism,moft,moft,4,ISA_MOFTisaMOFT
+C0597304,C0301641,ISA,Proteolysis,Macromolecular alteration,moft,moft,1,ISA_MOFTisaMOFT
+C0597520,C0598783,ISA,Steroid Metabolic Process,Lipid Metabolism,moft,moft,1,ISA_MOFTisaMOFT
+C0599474,C0598783,ISA,cholesterol biosynthesis,Lipid Metabolism,moft,moft,1,ISA_MOFTisaMOFT
+C0599474,C0683140,ISA,cholesterol biosynthesis,drug metabolism,moft,moft,1,ISA_MOFTisaMOFT
+C0752319,C0086982,ISA,MAP Kinase Cascade,Signal Transduction Pathways,moft,moft,1,ISA_MOFTisaMOFT
+C0813988,C0031715,ISA,autophosphorylation,Phosphorylation,moft,moft,1,ISA_MOFTisaMOFT
+C0872079,C1167622,ISA,protein protein interaction,Binding (Molecular Function),moft,moft,1,ISA_MOFTisaMOFT
+C1149382,C1149384,ISA,chemokine activity,cytokine activity,moft,moft,1,ISA_MOFTisaMOFT
+C1149382,C1752457,ISA,chemokine activity,chemokine receptor binding,moft,moft,1,ISA_MOFTisaMOFT
+C1149384,C1148560,ISA,cytokine activity,molecular_function,moft,moft,1,ISA_MOFTisaMOFT
+C1149838,C1149836,ISA,phospholipase activity,lipase activity,moft,moft,1,ISA_MOFTisaMOFT
+C1150095,C0243102,ISA,peptidase activity,enzyme activity,moft,moft,1,ISA_MOFTisaMOFT
+C1150095,C0597304,ISA,peptidase activity,Proteolysis,moft,moft,3,ISA_MOFTisaMOFT
+C1150124,C1150095,ISA,cysteine protease activity,peptidase activity,moft,moft,1,ISA_MOFTisaMOFT
+C1150158,C0033666,ISA,thiol-dependent ubiquitin-specific protease activity,Post-Translational Protein Processing,moft,moft,1,ISA_MOFTisaMOFT
+C1150158,C1623036,ISA,thiol-dependent ubiquitin-specific protease activity,"Protein Degradation, Regulatory",moft,moft,1,ISA_MOFTisaMOFT
+C1150571,C0031715,ISA,IkappaB kinase activity,Phosphorylation,moft,moft,33,ISA_MOFTisaMOFT
+C1150571,C1150423,ISA,IkappaB kinase activity,kinase activity,moft,moft,3,ISA_MOFTisaMOFT
+C1150587,C0031715,ISA,JUN kinase activity,Phosphorylation,moft,moft,96,ISA_MOFTisaMOFT
+C1150587,C0086982,ISA,JUN kinase activity,Signal Transduction Pathways,moft,moft,4,ISA_MOFTisaMOFT
+C1150587,C1621395,ISA,JUN kinase activity,stress-activated protein kinase signaling cascade,moft,moft,4,ISA_MOFTisaMOFT
+C1150587,C2262807,ISA,JUN kinase activity,non-canonical Wnt signaling pathway,moft,moft,1,ISA_MOFTisaMOFT
+C1150604,C0031715,ISA,MAP kinase kinase activity,Phosphorylation,moft,moft,6,ISA_MOFTisaMOFT
+C1150604,C1150423,ISA,MAP kinase kinase activity,kinase activity,moft,moft,2,ISA_MOFTisaMOFT
+C1150635,C0031715,ISA,stem cell factor receptor activity,Phosphorylation,moft,moft,1,ISA_MOFTisaMOFT
+C1150635,C0086982,ISA,stem cell factor receptor activity,Signal Transduction Pathways,moft,moft,1,ISA_MOFTisaMOFT
+C1150639,C0031715,ISA,pyruvate dehydrogenase (acetyl-transferring) kinase activity,Phosphorylation,moft,moft,1,ISA_MOFTisaMOFT
+C1151515,C1511131,ISA,catalase activity,Biochemical Reaction,moft,moft,1,ISA_MOFTisaMOFT
+C1151883,C1519751,ISA,ubiquitin conjugating enzyme activity,Ubiquitination,moft,moft,1,ISA_MOFTisaMOFT
+C1151895,C1148560,ISA,transferase activity,molecular_function,moft,moft,1,ISA_MOFTisaMOFT
+C1152079,C1152077,ISA,"alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity",acetylglucosaminyltransferase activity,moft,moft,1,ISA_MOFTisaMOFT
+C1152133,C0243102,ISA,starch (bacterial glycogen) synthase activity,enzyme activity,moft,moft,1,ISA_MOFTisaMOFT
+C1152585,C1148560,ISA,endopeptidase inhibitor activity,molecular_function,moft,moft,1,ISA_MOFTisaMOFT
+C1152949,C1148560,ISA,transporter activity,molecular_function,moft,moft,1,ISA_MOFTisaMOFT
+C1155589,C1704259,ISA,cAMP-mediated signaling,Biochemical Pathway,moft,moft,1,ISA_MOFTisaMOFT
+C1156200,C0033666,ISA,Histone Acetylation,Post-Translational Protein Processing,moft,moft,2,ISA_MOFTisaMOFT
+C1156206,C1156199,ISA,histone phosphorylation,histone modification,moft,moft,1,ISA_MOFTisaMOFT
+C1157980,C3178997,ISA,erad,Endoplasmic Reticulum-Associated Degradation,moft,moft,6,ISA_MOFTisaMOFT
+C1157990,C0033666,ISA,Sumoylation,Post-Translational Protein Processing,moft,moft,5,ISA_MOFTisaMOFT
+C1157990,C1519751,ISA,Sumoylation,Ubiquitination,moft,moft,8,ISA_MOFTisaMOFT
+C1157990,C2263112,ISA,Sumoylation,protein modification process,moft,moft,1,ISA_MOFTisaMOFT
+C1157996,C0033666,ISA,Deubiquitination,Post-Translational Protein Processing,moft,moft,1,ISA_MOFTisaMOFT
+C1158886,C0031715,ISA,Protein phosphorylation,Phosphorylation,moft,moft,1,ISA_MOFTisaMOFT
+C1159267,C0033666,ISA,protein ADP-ribosylation,Post-Translational Protein Processing,moft,moft,1,ISA_MOFTisaMOFT
+C1159313,C0033666,ISA,signal peptide processing,Post-Translational Protein Processing,moft,moft,1,ISA_MOFTisaMOFT
+C1159825,C0597304,ISA,Caspase Activation,Proteolysis,moft,moft,1,ISA_MOFTisaMOFT
+C1305430,C1704259,ISA,complement pathway,Biochemical Pathway,moft,moft,1,ISA_MOFTisaMOFT
+C1513486,C0033666,ISA,Monoubiquitination,Post-Translational Protein Processing,moft,moft,1,ISA_MOFTisaMOFT
+C1513807,C1655066,ISA,N-Myristoylation,protein acylation,moft,moft,1,ISA_MOFTisaMOFT
+C1519726,C0031715,ISA,Tyrosine Phosphorylation,Phosphorylation,moft,moft,2,ISA_MOFTisaMOFT
+C1519751,C0033666,ISA,Ubiquitination,Post-Translational Protein Processing,moft,moft,37,ISA_MOFTisaMOFT
+C1519751,C0597299,ISA,Ubiquitination,protein metabolism,moft,moft,1,ISA_MOFTisaMOFT
+C1519751,C2263112,ISA,Ubiquitination,protein modification process,moft,moft,2,ISA_MOFTisaMOFT
+C1520113,C0086982,ISA,Wnt Signaling Pathway,Signal Transduction Pathways,moft,moft,1,ISA_MOFTisaMOFT
+C1521754,C0001038,ISA,Protein Acetylation,Acetylation,moft,moft,1,ISA_MOFTisaMOFT
+C1521754,C0033666,ISA,Protein Acetylation,Post-Translational Protein Processing,moft,moft,2,ISA_MOFTisaMOFT
+C1522951,C0031715,ISA,epidermal growth factor binding,Phosphorylation,moft,moft,1,ISA_MOFTisaMOFT
+C1656373,C0243102,ISA,UTP-monosaccharide-1-phosphate uridylyltransferase activity,enzyme activity,moft,moft,1,ISA_MOFTisaMOFT
+C1720951,C1720950,ISA,Gene Circuits,Gene Regulatory Networks,moft,moft,1,ISA_MOFTisaMOFT
+C1752457,C1511616,ISA,chemokine receptor binding,Cytokine Receptor Binding,moft,moft,1,ISA_MOFTisaMOFT
+C1817393,C0086982,ISA,Toll-Like Receptor Signaling Pathway,Signal Transduction Pathways,moft,moft,1,ISA_MOFTisaMOFT
+C1817393,C1704259,ISA,Toll-Like Receptor Signaling Pathway,Biochemical Pathway,moft,moft,5,ISA_MOFTisaMOFT
+C1817393,C1817389,ISA,Toll-Like Receptor Signaling Pathway,pattern recognition receptor signaling pathway,moft,moft,1,ISA_MOFTisaMOFT
+C2244360,C1148560,ISA,transmembrane transporter activity,molecular_function,moft,moft,1,ISA_MOFTisaMOFT
+C2247199,C1511131,ISA,L-lysine 6-oxidase activity,Biochemical Reaction,moft,moft,1,ISA_MOFTisaMOFT
+C2260086,C0017952,ISA,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,Glycolysis,moft,moft,1,ISA_MOFTisaMOFT
+C2261110,C0030012,ISA,Horseradish peroxidase activity,Oxidation-Reduction,moft,moft,1,ISA_MOFTisaMOFT
+C2610261,C1621395,ISA,p38MAPK cascade,stress-activated protein kinase signaling cascade,moft,moft,1,ISA_MOFTisaMOFT
+C3158054,C0086982,ISA,hh signaling pathway,Signal Transduction Pathways,moft,moft,1,ISA_MOFTisaMOFT
+C3178960,C1520113,ISA,Wnt beta-Catenin Signaling Pathway,Wnt Signaling Pathway,moft,moft,1,ISA_MOFTisaMOFT
+C3268357,C1704259,ISA,p38 MAPK signaling,Biochemical Pathway,moft,moft,3,ISA_MOFTisaMOFT
+C3271585,C1148560,ISA,small molecule binding,molecular_function,moft,moft,1,ISA_MOFTisaMOFT
+C3271708,C1148560,ISA,cargo receptor activity,molecular_function,moft,moft,1,ISA_MOFTisaMOFT

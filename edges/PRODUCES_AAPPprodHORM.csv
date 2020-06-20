@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000165,C0039601,PRODUCES,17-Hydroxysteroid Dehydrogenases,Testosterone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0001347,C0001617,PRODUCES,Acute-Phase Proteins,Adrenal Cortex Hormones,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0001347,C0017710,PRODUCES,Acute-Phase Proteins,Glucocorticoids,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0001655,C0002006,PRODUCES,Corticotropin,Aldosterone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0003009,C0002006,PRODUCES,angiotensin II,Aldosterone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0003805,C0002844,PRODUCES,Aromatase,Androgens,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0003805,C0014939,PRODUCES,Aromatase,Estrogens,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0009498,C0001617,PRODUCES,Complement System Proteins,Adrenal Cortex Hormones,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0010590,C0012472,PRODUCES,Cycloserine,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0010590,C0033554,PRODUCES,Cycloserine,Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0018595,C0017710,PRODUCES,Haptoglobins,Glucocorticoids,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0021747,C0001617,PRODUCES,Interferons,Adrenal Cortex Hormones,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0021755,C0020268,PRODUCES,Interleukin-1,Hydrocortisone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0021760,C0020268,PRODUCES,Interleukin-6,Hydrocortisone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0021760,C0033554,PRODUCES,Interleukin-6,Prostaglandins,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0023607,C0014939,PRODUCES,Luteinizing Hormone,Estrogens,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0033551,C0012472,PRODUCES,Prostaglandin-Endoperoxide Synthase,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0033551,C0033554,PRODUCES,Prostaglandin-Endoperoxide Synthase,Prostaglandins,aapp,horm,5,PRODUCES_AAPPprodHORM
+C0034811,C0002844,PRODUCES,Gonadotropin-Releasing Hormone Receptor,Androgens,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0079189,C0001617,PRODUCES,cytokine,Adrenal Cortex Hormones,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0079189,C0012472,PRODUCES,cytokine,Dinoprostone,aapp,horm,3,PRODUCES_AAPPprodHORM
+C0079189,C0025219,PRODUCES,cytokine,Melatonin,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0079189,C0028351,PRODUCES,cytokine,Norepinephrine,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0079904,C0012472,PRODUCES,NF-kappa B,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0085828,C0012472,PRODUCES,Transcription Factor AP-1,Dinoprostone,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0103306,C0014912,PRODUCES,angiotensin I (1-7),Estradiol,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0103306,C0033308,PRODUCES,angiotensin I (1-7),Progesterone,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0165519,C0033554,PRODUCES,Matrix Metalloproteinase 9,Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0282554,C0001617,PRODUCES,chemokine,Adrenal Cortex Hormones,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0282554,C0012472,PRODUCES,chemokine,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0387583,C0012472,PRODUCES,cyclooxygenase 2,Dinoprostone,aapp,horm,4,PRODUCES_AAPPprodHORM
+C0387583,C0033554,PRODUCES,cyclooxygenase 2,Prostaglandins,aapp,horm,2,PRODUCES_AAPPprodHORM
+C0536221,C0039601,PRODUCES,"HSD17B4 protein, human",Testosterone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C0669372,C0012472,PRODUCES,"NOS2A protein, human",Dinoprostone,aapp,horm,3,PRODUCES_AAPPprodHORM
+C0669372,C0033554,PRODUCES,"NOS2A protein, human",Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1335271,C0012472,PRODUCES,PTGS1 gene,Dinoprostone,aapp,horm,2,PRODUCES_AAPPprodHORM
+C1336636,C0012472,PRODUCES,TLR4 gene,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1412113,C0002006,PRODUCES,SLC33A1 gene,Aldosterone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1418858,C0012472,PRODUCES,NPY4R gene,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1419067,C0012472,PRODUCES,PTGES gene,Dinoprostone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1419071,C0033554,PRODUCES,PTGIS gene,Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1419467,C0020268,PRODUCES,RNU1-1 gene,Hydrocortisone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1421313,C0014912,PRODUCES,UCP1 gene,Estradiol,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1421313,C0039601,PRODUCES,UCP1 gene,Testosterone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1421318,C0033554,PRODUCES,SCGB1A1 gene,Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1422179,C0020268,PRODUCES,HERPUD1 gene,Hydrocortisone,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1565830,C0012472,PRODUCES,"PTGS1 protein, human",Dinoprostone,aapp,horm,4,PRODUCES_AAPPprodHORM
+C1565830,C0033554,PRODUCES,"PTGS1 protein, human",Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C1565860,C0012472,PRODUCES,"PTGS2 protein, human",Dinoprostone,aapp,horm,6,PRODUCES_AAPPprodHORM
+C1565860,C0033554,PRODUCES,"PTGS2 protein, human",Prostaglandins,aapp,horm,5,PRODUCES_AAPPprodHORM
+C2936592,C0033554,PRODUCES,Lipoxygenases,Prostaglandins,aapp,horm,1,PRODUCES_AAPPprodHORM
+C4084937,C0033554,PRODUCES,Antimicrobial Peptide,Prostaglandins,aapp,horm,2,PRODUCES_AAPPprodHORM
+C4321295,C0033308,PRODUCES,CGA wt Allele,Progesterone,aapp,horm,1,PRODUCES_AAPPprodHORM

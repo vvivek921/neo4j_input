@@ -1,0 +1,26 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005529,C0243144,COEXISTS_WITH,"Biological Transport, Active",Uptake,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C0005775,COEXISTS_WITH,Immunity,Blood Circulation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C1135927,COEXISTS_WITH,Immunity,"Immunity, Herd",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C1512827,COEXISTS_WITH,Immunity,Interferon Signaling Process,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0035203,C0035245,COEXISTS_WITH,Respiration,Respiratory physiology,phsf,phsf,2,COEXISTS_WITH_PHSFcxwtPHSF
+C0231999,C0035203,COEXISTS_WITH,Airflow,Respiration,phsf,phsf,3,COEXISTS_WITH_PHSFcxwtPHSF
+C0232338,C0042380,COEXISTS_WITH,Blood flow,Vascular resistance,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0237476,C0035203,COEXISTS_WITH,Physiological Arousal,Respiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0242732,C0005775,COEXISTS_WITH,Tropism,Blood Circulation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0242599,COEXISTS_WITH,Uptake,Neutrophil Activation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0544570,COEXISTS_WITH,Uptake,Bactericidal activity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C1514892,COEXISTS_WITH,Uptake,Resistance Process,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0442700,C0442704,COEXISTS_WITH,End-expiration,Early inspiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678209,C0020964,COEXISTS_WITH,Adaptive Immunity,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678209,C1135927,COEXISTS_WITH,Adaptive Immunity,"Immunity, Herd",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678686,C0149784,COEXISTS_WITH,Dormancy,biological adaptation to stress,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1257789,C0597170,COEXISTS_WITH,Lymphangiogenesis,paracrine,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1258192,C0026820,COEXISTS_WITH,Total Peripheral Resistance,Muscle Contraction,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1314973,C0005775,COEXISTS_WITH,Response to antigens,Blood Circulation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1446949,C1326532,COEXISTS_WITH,Preimplantation Embryo Development,blastocyst formation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1512827,C0597170,COEXISTS_WITH,Interferon Signaling Process,paracrine,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1514892,C0020964,COEXISTS_WITH,Resistance Process,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1514892,C3714584,COEXISTS_WITH,Resistance Process,"Transformation, function",phsf,phsf,2,COEXISTS_WITH_PHSFcxwtPHSF
+C3658217,C0020964,COEXISTS_WITH,"Immunity, Heterologous",Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C3714584,C0020964,COEXISTS_WITH,"Transformation, function",Immunity,phsf,phsf,2,COEXISTS_WITH_PHSFcxwtPHSF

@@ -1,0 +1,192 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002423,C4061114,TREATS,ambulatory care services,Acute illness,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0008952,C0700148,TREATS,Clinic Visits,Congestion,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0009449,C0242781,TREATS,Communicable Disease Control,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0009818,C0020542,TREATS,Consultation,Pulmonary Hypertension,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0009818,C3714514,TREATS,Consultation,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0010210,C0021359,TREATS,Counseling,Infertility,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0010337,C0003130,TREATS,Care of intensive care unit patient,Anoxia,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0010337,C0026766,TREATS,Care of intensive care unit patient,Multiple Organ Failure,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0013191,C0242656,TREATS,Drug Labeling,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0013961,C3714514,TREATS,Emergency medical service,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0015187,C2911645,TREATS,Euthanasia,Weight Loss Adverse Event,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0017313,C0242656,TREATS,patient care,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0017313,C3826020,TREATS,patient care,Medical emergencies,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019948,C3714514,TREATS,Hospital Administration,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019978,C0010356,TREATS,Hospital Planning,Cross Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0002994,TREATS,Hospitalization,Angioedema,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0020517,TREATS,Hospitalization,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0028778,TREATS,Hospitalization,Obstruction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0032962,TREATS,Hospitalization,Pregnancy Complications,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0038941,TREATS,Hospitalization,Surgical Wound Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0151526,TREATS,Hospitalization,Premature Birth,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0161816,TREATS,Hospitalization,Cardiac complication,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0243083,TREATS,Hospitalization,associated disease,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0392707,TREATS,Hospitalization,Atopy,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0019993,C3714514,TREATS,Hospitalization,Infection,hlca,patf,8,TREATS_HLCAtrtsPATF
+C0019993,C4061114,TREATS,Hospitalization,Acute illness,hlca,patf,13,TREATS_HLCAtrtsPATF
+C0021711,C0242786,TREATS,Neonatal Intensive Care,High-Risk Pregnancy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0023977,C0016059,TREATS,long-term care,Fibrosis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0023977,C0020542,TREATS,long-term care,Pulmonary Hypertension,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0023977,C0021368,TREATS,long-term care,Inflammation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0023977,C0242656,TREATS,long-term care,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0023977,C2717792,TREATS,long-term care,Airway Remodeling,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0029210,C0026766,TREATS,Organ Procurement,Multiple Organ Failure,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030672,C0036679,TREATS,Patient Acceptance of Health Care,Diastasis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030673,C0243083,TREATS,Patient Admission,associated disease,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030677,C0028778,TREATS,Patient Care Management,Obstruction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0000832,TREATS,Patient Discharge,Abruptio Placentae,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0020517,TREATS,Patient Discharge,Hypersensitivity,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0030685,C0021368,TREATS,Patient Discharge,Inflammation,hlca,patf,6,TREATS_HLCAtrtsPATF
+C0030685,C0022116,TREATS,Patient Discharge,Ischemia,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0030685,C0024348,TREATS,Patient Discharge,Lysis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0036974,TREATS,Patient Discharge,Shock,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0030685,C0036983,TREATS,Patient Discharge,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0302590,TREATS,Patient Discharge,calcium disorders,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C1155266,TREATS,Patient Discharge,inflammatory response,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C1520005,TREATS,Patient Discharge,Viral Pathogenesis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C3714514,TREATS,Patient Discharge,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0030695,C0006110,TREATS,Patient Monitoring,Brain Death,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030695,C0040038,TREATS,Patient Monitoring,Thromboembolism,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030695,C0428977,TREATS,Patient Monitoring,Bradycardia,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0031321,C0028778,TREATS,Pharmaceutical Services,Obstruction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0031809,C0004044,TREATS,Physical Examination,Asphyxia,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0031809,C0543419,TREATS,Physical Examination,Sequela of disorder,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0032786,C0919691,TREATS,Postoperative Care,Anastomotic Leak,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0033080,C0019080,TREATS,Prescription procedure,Hemorrhage,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0033137,C0700148,TREATS,Primary Health Care,Congestion,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0033137,C3714514,TREATS,Primary Health Care,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0034107,C0028778,TREATS,Pulse taking,Obstruction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0034927,C0036974,TREATS,Patient referral,Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0034927,C3714514,TREATS,Patient referral,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0037943,C4061114,TREATS,Spinal Puncture,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085557,C0242781,TREATS,Infectious disease prevention / control,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085557,C3714514,TREATS,Infectious disease prevention / control,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085559,C0021368,TREATS,intensive care,Inflammation,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0085559,C0026766,TREATS,intensive care,Multiple Organ Failure,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0085559,C0035229,TREATS,intensive care,Respiratory Insufficiency,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085559,C0036974,TREATS,intensive care,Shock,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0085559,C0161818,TREATS,intensive care,Respiratory complication,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085559,C0206277,TREATS,intensive care,Fatal Outcome,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0086930,C3714514,TREATS,Risk Assessment,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0150270,C0020517,TREATS,Medication Management,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0150270,C0036983,TREATS,Medication Management,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0150270,C0920563,TREATS,Medication Management,Insulin Sensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0150600,C3714514,TREATS,Advice,Infection,hlca,patf,5,TREATS_HLCAtrtsPATF
+C0162648,C0021359,TREATS,Telemedicine,Infertility,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0184666,C0014591,TREATS,Hospital admission,Epistaxis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0184666,C0022876,TREATS,Hospital admission,Premature Obstetric Labor,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0184666,C0333106,TREATS,Hospital admission,Bleeding varices,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0184666,C3714514,TREATS,Hospital admission,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0184666,C4061114,TREATS,Hospital admission,Acute illness,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0199171,C4505499,TREATS,Medical procedure,Transfusion-Transmitted Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0204695,C0016470,TREATS,Feeding patient,Food Allergy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0204695,C0036679,TREATS,Feeding patient,Diastasis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0204695,C0151686,TREATS,Feeding patient,Growth retardation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0206082,C0878751,TREATS,Immunization Programs,late pregnancy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0206082,C3714514,TREATS,Immunization Programs,Infection,hlca,patf,4,TREATS_HLCAtrtsPATF
+C0220825,C0004044,TREATS,Evaluation,Asphyxia,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0011304,TREATS,Evaluation,Demyelination,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0013687,TREATS,Evaluation,effusion,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0015959,TREATS,Evaluation,Fetomaternal Transfusion,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0019080,TREATS,Evaluation,Hemorrhage,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0220825,C0020517,TREATS,Evaluation,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0028778,TREATS,Evaluation,Obstruction,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0220825,C0036974,TREATS,Evaluation,Shock,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0220825,C0036983,TREATS,Evaluation,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0151526,TREATS,Evaluation,Premature Birth,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0151686,TREATS,Evaluation,Growth retardation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0242656,TREATS,Evaluation,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0242781,TREATS,Evaluation,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0332448,TREATS,Evaluation,Infiltration,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0333467,TREATS,Evaluation,Cytopathic effect,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0432485,TREATS,Evaluation,complication of transplant,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0543419,TREATS,Evaluation,Sequela of disorder,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0546817,TREATS,Evaluation,Fluid overload,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C0549561,TREATS,Evaluation,Nitrogen Disorders,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C1520005,TREATS,Evaluation,Viral Pathogenesis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220825,C3714514,TREATS,Evaluation,Infection,hlca,patf,11,TREATS_HLCAtrtsPATF
+C0220825,C4061114,TREATS,Evaluation,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C0020517,TREATS,Screening procedure,Hypersensitivity,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0220908,C0021368,TREATS,Screening procedure,Inflammation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C0242786,TREATS,Screening procedure,High-Risk Pregnancy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C0243083,TREATS,Screening procedure,associated disease,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C1373218,TREATS,Screening procedure,Decreased Immunologic Activity [PE],hlca,patf,2,TREATS_HLCAtrtsPATF
+C0220908,C1520005,TREATS,Screening procedure,Viral Pathogenesis,hlca,patf,7,TREATS_HLCAtrtsPATF
+C0220908,C3714514,TREATS,Screening procedure,Infection,hlca,patf,12,TREATS_HLCAtrtsPATF
+C0242687,C0392707,TREATS,Early Intervention (Education),Atopy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0242687,C3714514,TREATS,Early Intervention (Education),Infection,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0278329,C3714514,TREATS,prescribed,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0282664,C3714514,TREATS,Point-of-Care Systems,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0444793,C0004144,TREATS,Position change,Atelectasis,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0541653,C3714514,TREATS,Chart evaluation by healthcare professional,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0545084,C4061114,TREATS,Outpatient visits,Acute illness,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0553618,C4061114,TREATS,emergency visit,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0557970,C0016059,TREATS,Developing a treatment plan,Fibrosis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0581122,C0392707,TREATS,Asthma severity,Atopy,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0582103,C0242656,TREATS,Medical Examination,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0589121,C1373218,TREATS,Follow-up visit,Decreased Immunologic Activity [PE],hlca,patf,1,TREATS_HLCAtrtsPATF
+C0679803,C1373218,TREATS,guided intervention,Decreased Immunologic Activity [PE],hlca,patf,1,TREATS_HLCAtrtsPATF
+C0679878,C3714514,TREATS,acute care,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0683509,C0020517,TREATS,disease detection,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0700325,C0038941,TREATS,Patient observation,Surgical Wound Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0700325,C0543419,TREATS,Patient observation,Sequela of disorder,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0700325,C3714514,TREATS,Patient observation,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0805586,C0004366,TREATS,Challenge,Autoimmune Response,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0805586,C0013990,TREATS,Challenge,Pathological accumulation of air in tissues,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0805586,C0036679,TREATS,Challenge,Diastasis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0805586,C0242656,TREATS,Challenge,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0805586,C1520005,TREATS,Challenge,Viral Pathogenesis,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0805586,C3658208,TREATS,Challenge,Dysbiosis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0805586,C3714514,TREATS,Challenge,Infection,hlca,patf,4,TREATS_HLCAtrtsPATF
+C0850397,C0242781,TREATS,health information,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0871311,C0020517,TREATS,screening tests,Hypersensitivity,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0871311,C0020542,TREATS,screening tests,Pulmonary Hypertension,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0871311,C0151763,TREATS,screening tests,Liver damage,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0871311,C0392707,TREATS,screening tests,Atopy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0871311,C3714514,TREATS,screening tests,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0940824,C0020517,TREATS,Additional procedure,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1144866,C0020517,TREATS,Multi-disciplinary team,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1171218,C0242781,TREATS,Social network analysis,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0000786,TREATS,Evaluation procedure,Spontaneous abortion,hlca,patf,3,TREATS_HLCAtrtsPATF
+C1261322,C0011304,TREATS,Evaluation procedure,Demyelination,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0016059,TREATS,Evaluation procedure,Fibrosis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0019080,TREATS,Evaluation procedure,Hemorrhage,hlca,patf,2,TREATS_HLCAtrtsPATF
+C1261322,C0021308,TREATS,Evaluation procedure,Infarction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0021368,TREATS,Evaluation procedure,Inflammation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0030660,TREATS,Evaluation procedure,Pathologic Processes,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0032914,TREATS,Evaluation procedure,Pre-Eclampsia,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0032987,TREATS,Evaluation procedure,Ectopic Pregnancy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0036974,TREATS,Evaluation procedure,Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0041755,TREATS,Evaluation procedure,Adverse reaction to drug,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0242656,TREATS,Evaluation procedure,Disease Progression,hlca,patf,2,TREATS_HLCAtrtsPATF
+C1261322,C0242781,TREATS,Evaluation procedure,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0392459,TREATS,Evaluation procedure,Intra-alveolar hemorrhage,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0546817,TREATS,Evaluation procedure,Fluid overload,hlca,patf,2,TREATS_HLCAtrtsPATF
+C1261322,C0549401,TREATS,Evaluation procedure,Difficult intubation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C1265799,TREATS,Evaluation procedure,Massive embolus,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C1520005,TREATS,Evaluation procedure,Viral Pathogenesis,hlca,patf,3,TREATS_HLCAtrtsPATF
+C1261322,C3714514,TREATS,Evaluation procedure,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C1318955,C0543419,TREATS,Asthma management,Sequela of disorder,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1406915,C3714514,TREATS,breathing therapy,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1449559,C3714514,TREATS,Donor Selection,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1516879,C0028778,TREATS,Enrollment,Obstruction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1522577,C0152154,TREATS,follow-up,Prolonged labor,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1522577,C3714514,TREATS,follow-up,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1555324,C4061114,TREATS,inpatient encounter,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1829779,C0021655,TREATS,Homeostasis model assessment,Insulin Resistance,hlca,patf,2,TREATS_HLCAtrtsPATF
+C1999110,C0242656,TREATS,Collecting Sample,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C2350442,C0021368,TREATS,Nasal Lavage,Inflammation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C2350504,C0036974,TREATS,"Medicine, Korean Traditional",Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C2599893,C3714514,TREATS,Oral care,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C2735310,C0017181,TREATS,Care management,Gastrointestinal Hemorrhage,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3494318,C3714514,TREATS,Public Health Surveillance,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3658216,C3714514,TREATS,Clinical Laboratory Services,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3714363,C0028778,TREATS,Health belief model,Obstruction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3826004,C3714514,TREATS,Medical screening,Infection,hlca,patf,2,TREATS_HLCAtrtsPATF
+C4036459,C0036974,TREATS,Contacts,Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C4036459,C3714514,TREATS,Contacts,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C4042781,C0600228,TREATS,Black Box Warning,Cardiopulmonary Arrest,hlca,patf,3,TREATS_HLCAtrtsPATF
+C4505100,C3714514,TREATS,Antibiotic Stewardship,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C4505149,C3714514,TREATS,Immunization Coverage,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C4505227,C0036983,TREATS,Early Goal-Directed Therapy,Septic Shock,hlca,patf,2,TREATS_HLCAtrtsPATF

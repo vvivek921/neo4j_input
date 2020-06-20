@@ -1,0 +1,103 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000618,C0006826,TREATS,mercaptopurine,Malignant Neoplasms,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0000618,C0023418,TREATS,mercaptopurine,leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0001367,C0079731,TREATS,Acyclovir,B-Cell Lymphomas,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0001367,C0432487,TREATS,Acyclovir,Post-transplant lymphoproliferative disorder,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0004475,C0023418,TREATS,Azacitidine,leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0004475,C0023467,TREATS,Azacitidine,"Leukemia, Myelocytic, Acute",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0004475,C0023470,TREATS,Azacitidine,Myeloid Leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0004475,C3463824,TREATS,Azacitidine,MYELODYSPLASTIC SYNDROME,nnon,neop,4,TREATS_NNONtrtsNEOP
+C0004483,C0343079,TREATS,Azauridine,"Milia, Multiple Eruptive",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0010711,C0023418,TREATS,Cytarabine,leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0010711,C0023449,TREATS,Cytarabine,Acute lymphocytic leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0010711,C0023467,TREATS,Cytarabine,"Leukemia, Myelocytic, Acute",nnon,neop,6,TREATS_NNONtrtsNEOP
+C0010711,C0023470,TREATS,Cytarabine,Myeloid Leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0010711,C0023473,TREATS,Cytarabine,"Myeloid Leukemia, Chronic",nnon,neop,2,TREATS_NNONtrtsNEOP
+C0010711,C0024305,TREATS,Cytarabine,"Lymphoma, Non-Hodgkin",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0006826,TREATS,Fluorouracil,Malignant Neoplasms,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0016360,C0007102,TREATS,Fluorouracil,Malignant tumor of colon,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0009402,TREATS,Fluorouracil,Colorectal Carcinoma,nnon,neop,3,TREATS_NNONtrtsNEOP
+C0016360,C0023418,TREATS,Fluorouracil,leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0027627,TREATS,Fluorouracil,Neoplasm Metastasis,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0027651,TREATS,Fluorouracil,Neoplasms,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0016360,C0027653,TREATS,Fluorouracil,Neoplasms by Site,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0235974,TREATS,Fluorouracil,Pancreatic carcinoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0346429,TREATS,Fluorouracil,Multiple malignancy,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0494165,TREATS,Fluorouracil,Secondary malignant neoplasm of liver,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C0877373,TREATS,Fluorouracil,advanced cancer,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0016360,C1141918,TREATS,Fluorouracil,Infected Tumors,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0006142,TREATS,Ganciclovir,Malignant neoplasm of breast,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0017066,C0017638,TREATS,Ganciclovir,Glioma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0027651,TREATS,Ganciclovir,Neoplasms,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0280100,TREATS,Ganciclovir,Solid Neoplasm,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0432487,TREATS,Ganciclovir,Post-transplant lymphoproliferative disorder,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0521158,TREATS,Ganciclovir,Recurrent tumor,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0555198,TREATS,Ganciclovir,Malignant Glioma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0017066,C0948380,TREATS,Ganciclovir,metastatic colorectal cancer,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0035525,C0006142,TREATS,Ribavirin,Malignant neoplasm of breast,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0035525,C0023418,TREATS,Ribavirin,leukemia,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0035525,C0023467,TREATS,Ribavirin,"Leukemia, Myelocytic, Acute",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0035525,C0280313,TREATS,Ribavirin,Squamous cell carcinoma of oropharynx,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0035525,C0376545,TREATS,Ribavirin,Hematologic Neoplasms,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0035525,C0677932,TREATS,Ribavirin,Progressive Neoplastic Disease,nnon,neop,4,TREATS_NNONtrtsNEOP
+C0035525,C1266119,TREATS,Ribavirin,Solitary fibrous tumor,nnon,neop,12,TREATS_NNONtrtsNEOP
+C0041920,C0023434,TREATS,Uracil Mustard,Chronic Lymphocytic Leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0042646,C0024299,TREATS,Vidarabine,Lymphoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0042646,C0085669,TREATS,Vidarabine,Acute leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0043474,C0023493,TREATS,Zidovudine,Adult T-Cell Lymphoma/Leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0043474,C0027627,TREATS,Zidovudine,Neoplasm Metastasis,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0043474,C0036220,TREATS,Zidovudine,Kaposi Sarcoma,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0045093,C0006826,TREATS,gemcitabine,Malignant Neoplasms,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0045093,C0007131,TREATS,gemcitabine,Non-Small Cell Lung Carcinoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0024299,TREATS,gemcitabine,Lymphoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0027627,TREATS,gemcitabine,Neoplasm Metastasis,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0079773,TREATS,gemcitabine,"Lymphoma, T-Cell, Cutaneous",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0085669,TREATS,gemcitabine,Acute leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0153452,TREATS,gemcitabine,Malignant neoplasm of gallbladder,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0235974,TREATS,gemcitabine,Pancreatic carcinoma,nnon,neop,3,TREATS_NNONtrtsNEOP
+C0045093,C0278488,TREATS,gemcitabine,Carcinoma breast stage IV,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0045093,C0280100,TREATS,gemcitabine,Solid Neoplasm,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0346647,TREATS,gemcitabine,Malignant neoplasm of pancreas,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C0877373,TREATS,gemcitabine,advanced cancer,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0045093,C1167725,TREATS,gemcitabine,Stage IV Pancreatic Cancer,nnon,neop,3,TREATS_NNONtrtsNEOP
+C0049065,C0007131,TREATS,decitabine,Non-Small Cell Lung Carcinoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0049065,C0007847,TREATS,decitabine,Malignant tumor of cervix,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0049065,C0023467,TREATS,decitabine,"Leukemia, Myelocytic, Acute",nnon,neop,4,TREATS_NNONtrtsNEOP
+C0049065,C0023473,TREATS,decitabine,"Myeloid Leukemia, Chronic",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0049065,C0085669,TREATS,decitabine,Acute leukemia,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0049065,C0280100,TREATS,decitabine,Solid Neoplasm,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0049065,C0376545,TREATS,decitabine,Hematologic Neoplasms,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0049065,C3463824,TREATS,decitabine,MYELODYSPLASTIC SYNDROME,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0051764,C0019829,TREATS,Ampligen,Hodgkin Disease,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0054150,C0007847,TREATS,bropirimine,Malignant tumor of cervix,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0054150,C0024299,TREATS,bropirimine,Lymphoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0059985,C0023434,TREATS,fludarabine,Chronic Lymphocytic Leukemia,nnon,neop,4,TREATS_NNONtrtsNEOP
+C0059985,C0024301,TREATS,fludarabine,"Lymphoma, Follicular",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0059985,C0024314,TREATS,fludarabine,Lymphoproliferative Disorders,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0059985,C0376545,TREATS,fludarabine,Hematologic Neoplasms,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0059985,C1522378,TREATS,fludarabine,"Leukemia, Large Granular Lymphocytic",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0081389,C0030354,TREATS,9-((2-phosphonylmethoxy)ethyl)guanine,Papilloma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0092777,C0376545,TREATS,clofarabine,Hematologic Neoplasms,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0092801,C0023443,TREATS,Cladribine,Hairy Cell Leukemia,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0209738,C0019621,TREATS,Lamivudine,"Histiocytosis, Langerhans-Cell",nnon,neop,2,TREATS_NNONtrtsNEOP
+C0286079,C0027651,TREATS,Cidofovir,Neoplasms,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0286079,C0030354,TREATS,Cidofovir,Papilloma,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0286079,C0030357,TREATS,Cidofovir,"Papilloma, Shope",nnon,neop,1,TREATS_NNONtrtsNEOP
+C0596581,C0006826,TREATS,fluoropyrimidine,Malignant Neoplasms,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0596581,C0948380,TREATS,fluoropyrimidine,metastatic colorectal cancer,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0671970,C0007131,TREATS,capecitabine,Non-Small Cell Lung Carcinoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0671970,C0024623,TREATS,capecitabine,Malignant neoplasm of stomach,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0671970,C0278488,TREATS,capecitabine,Carcinoma breast stage IV,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0733521,C0023418,TREATS,Ara-C,leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0733521,C0024299,TREATS,Ara-C,Lymphoma,nnon,neop,2,TREATS_NNONtrtsNEOP
+C0733521,C0085669,TREATS,Ara-C,Acute leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C0914671,C1835664,TREATS,CPG-ODN,TYLOSIS WITH ESOPHAGEAL CANCER,nnon,neop,3,TREATS_NNONtrtsNEOP
+C1434913,C0006826,TREATS,Rintatolimod,Malignant Neoplasms,nnon,neop,1,TREATS_NNONtrtsNEOP
+C1579410,C0006826,TREATS,Nucleoside Analogs,Malignant Neoplasms,nnon,neop,5,TREATS_NNONtrtsNEOP
+C1721182,C0023448,TREATS,Evoltra,Lymphoid leukemia,nnon,neop,1,TREATS_NNONtrtsNEOP
+C1744513,C0023467,TREATS,AS1411,"Leukemia, Myelocytic, Acute",nnon,neop,1,TREATS_NNONtrtsNEOP
+C1744513,C0023485,TREATS,AS1411,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C1744513,C0025202,TREATS,AS1411,melanoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C1744513,C0740457,TREATS,AS1411,Malignant neoplasm of kidney,nnon,neop,1,TREATS_NNONtrtsNEOP
+C2746063,C0007131,TREATS,Imetelstat,Non-Small Cell Lung Carcinoma,nnon,neop,1,TREATS_NNONtrtsNEOP
+C3653380,C0024299,TREATS,"Purine analogs, antimetabolites antineoplastic",Lymphoma,nnon,neop,1,TREATS_NNONtrtsNEOP

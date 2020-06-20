@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0013404,NEG_TREATS,Acetaminophen,Dyspnea,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0000970,C0015967,NEG_TREATS,Acetaminophen,Fever,orch,sosy,2,NEG_TREATS_ORCHntrtsSOSY
+C0000970,C0030193,NEG_TREATS,Acetaminophen,Pain,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0002772,C0030193,NEG_TREATS,"Analgesics, Opioid",Pain,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0002772,C0150055,NEG_TREATS,"Analgesics, Opioid",Chronic pain,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0003360,C0037383,NEG_TREATS,Antihistamines,Sneezing,orch,sosy,2,NEG_TREATS_ORCHntrtsSOSY
+C0003360,C0231918,NEG_TREATS,Antihistamines,Nose symptoms,orch,sosy,2,NEG_TREATS_ORCHntrtsSOSY
+C0003360,C1260880,NEG_TREATS,Antihistamines,Rhinorrhea,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0004057,C0011991,NEG_TREATS,Aspirin,Diarrhea,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0004057,C0015967,NEG_TREATS,Aspirin,Fever,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0004057,C0030193,NEG_TREATS,Aspirin,Pain,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0016293,C0036572,NEG_TREATS,Flumazenil,Seizures,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0016377,C0011991,NEG_TREATS,Flurbiprofen,Diarrhea,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0017887,C0008031,NEG_TREATS,Nitroglycerin,Chest Pain,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0020740,C0018681,NEG_TREATS,Ibuprofen,Headache,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0022614,C0036572,NEG_TREATS,Ketamine,Seizures,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0022635,C0011991,NEG_TREATS,Ketoprofen,Diarrhea,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0027235,C0037383,NEG_TREATS,Ipratropium,Sneezing,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0030899,C0006625,NEG_TREATS,Pentoxifylline,Cachexia,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0042523,C0011991,NEG_TREATS,Verapamil,Diarrhea,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0087163,C0037088,NEG_TREATS,Levocarnitine,Signs and Symptoms,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0108160,C0037088,NEG_TREATS,calcofluor white,Signs and Symptoms,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0298130,C0037090,NEG_TREATS,montelukast,"Signs and Symptoms, Respiratory",orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0874161,C0231218,NEG_TREATS,Oseltamivir,Malaise,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0876173,C0392171,NEG_TREATS,Tamiflu,Influenza-like symptoms,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY
+C0949665,C0231218,NEG_TREATS,Fluoroquinolones,Malaise,orch,sosy,1,NEG_TREATS_ORCHntrtsSOSY

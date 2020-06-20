@@ -1,0 +1,811 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001674,C0185115,USES,Adsorption,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0001674,C0199176,USES,Adsorption,Prophylactic treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0001674,C0242972,USES,Adsorption,"Diet, Protein-Restricted",lbpr,topp,3,USES_LBPRusesTOPP
+C0001674,C1571809,USES,Adsorption,Visceral manipulation,lbpr,topp,1,USES_LBPRusesTOPP
+C0004400,C1511790,USES,Autoradiography,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0004642,C0204727,USES,Bacteriological Techniques,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0005507,C0085841,USES,Biological Assay,Artificial Feeding,lbpr,topp,1,USES_LBPRusesTOPP
+C0005507,C0279391,USES,Biological Assay,mercaptopurine/methotrexate/vincristine,lbpr,topp,1,USES_LBPRusesTOPP
+C0005774,C0042196,USES,Blood Chemical Analysis,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0005774,C0441509,USES,Blood Chemical Analysis,Coagulation procedure,lbpr,topp,6,USES_LBPRusesTOPP
+C0005790,C1276413,USES,Blood coagulation tests,Therapeutic regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C0005800,C0199470,USES,Blood Gas Analysis,Mechanical ventilation,lbpr,topp,2,USES_LBPRusesTOPP
+C0005863,C0042196,USES,Western Blotting,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0005863,C0184933,USES,Western Blotting,Scraping,lbpr,topp,1,USES_LBPRusesTOPP
+C0005863,C0185115,USES,Western Blotting,Extraction,lbpr,topp,2,USES_LBPRusesTOPP
+C0005863,C1511790,USES,Western Blotting,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0007584,C0001560,USES,Cell Count,"Administration, Intranasal",lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0009813,USES,Cell Count,Constriction procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0011209,USES,Cell Count,Obstetric Delivery,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0012358,USES,Cell Count,Dilatation and Curettage,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0013216,USES,Cell Count,Pharmacotherapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0013829,USES,Cell Count,Electrolysis,lbpr,topp,3,USES_LBPRusesTOPP
+C0007584,C0015252,USES,Cell Count,removal technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0017296,USES,Cell Count,gene therapy,lbpr,topp,5,USES_LBPRusesTOPP
+C0007584,C0020944,USES,Cell Count,Immobilization,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0021440,USES,Cell Count,Intravenous infusion procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0021485,USES,Cell Count,Injection of therapeutic agent,lbpr,topp,13,USES_LBPRusesTOPP
+C0007584,C0021493,USES,Cell Count,"Injections, Intraperitoneal",lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0022024,USES,Cell Count,Iontophoresis,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0022100,USES,Cell Count,Irrigation,lbpr,topp,9,USES_LBPRusesTOPP
+C0007584,C0023690,USES,Cell Count,Ligation,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0035139,USES,Cell Count,Surgical Replantation,lbpr,topp,7,USES_LBPRusesTOPP
+C0007584,C0040732,USES,Cell Count,Transplantation,lbpr,topp,3,USES_LBPRusesTOPP
+C0007584,C0040739,USES,Cell Count,"Transplantation, Homologous",lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0042196,USES,Cell Count,Vaccination,lbpr,topp,11,USES_LBPRusesTOPP
+C0007584,C0055598,USES,Cell Count,CHOP protocol-cyclophosphamide/doxorubicin/prednisone/vincristine,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0056633,USES,Cell Count,cyclophosphamide/prednisone/vincristine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0057163,USES,Cell Count,DAV regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0065764,USES,Cell Count,bleomycin/cisplatin/methotrexate protocol,lbpr,topp,4,USES_LBPRusesTOPP
+C0007584,C0066554,USES,Cell Count,etoposide/ifosfamide/methotrexate/mitoguazone protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0068899,USES,Cell Count,NOAC protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0079613,USES,Cell Count,Adoptive Immunotherapy,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0135860,USES,Cell Count,PEI protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0152054,USES,Cell Count,Therapeutic tactile stimulation,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0152060,USES,Cell Count,Transection (procedure),lbpr,topp,8,USES_LBPRusesTOPP
+C0007584,C0184933,USES,Cell Count,Scraping,lbpr,topp,11,USES_LBPRusesTOPP
+C0007584,C0184957,USES,Cell Count,Irrigation with syringe (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0184967,USES,Cell Count,Insertion of pack (procedure),lbpr,topp,17,USES_LBPRusesTOPP
+C0007584,C0185014,USES,Cell Count,Banding procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0185023,USES,Cell Count,Fixation - action,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0185027,USES,Cell Count,Imbrication (procedure),lbpr,topp,5,USES_LBPRusesTOPP
+C0007584,C0185047,USES,Cell Count,Stripping,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0185112,USES,Cell Count,Therapeutic Mobilization,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0185115,USES,Cell Count,Extraction,lbpr,topp,23,USES_LBPRusesTOPP
+C0007584,C0185364,USES,Cell Count,Osteoplasty,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0189381,USES,Cell Count,Bronchial Lavage,lbpr,topp,24,USES_LBPRusesTOPP
+C0007584,C0193959,USES,Cell Count,Tonsillectomy and adenoidectomy,lbpr,topp,4,USES_LBPRusesTOPP
+C0007584,C0196940,USES,Cell Count,Nerve Expansion,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0203939,USES,Cell Count,Indirect Treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0204727,USES,Cell Count,Isolation procedure,lbpr,topp,23,USES_LBPRusesTOPP
+C0007584,C0204854,USES,Cell Count,Arthrocentesis,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0279025,USES,Cell Count,Hormone Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0279686,USES,Cell Count,doxorubicin/thiotepa/vinblastine,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0279934,USES,Cell Count,chlorambucil/etoposide/lomustine,lbpr,topp,7,USES_LBPRusesTOPP
+C0007584,C0279939,USES,Cell Count,Doxorubicin/Melphalan/Teniposide regimen (MAV),lbpr,topp,3,USES_LBPRusesTOPP
+C0007584,C0280274,USES,Cell Count,Antiviral Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0280436,USES,Cell Count,gentamicin/piperacillin/vancomycin,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0280603,USES,Cell Count,fluorouracil/methotrexate protocol,lbpr,topp,139,USES_LBPRusesTOPP
+C0007584,C0282402,USES,Cell Count,Hormone replacement therapy,lbpr,topp,307,USES_LBPRusesTOPP
+C0007584,C0338324,USES,Cell Count,GM2-KLH vaccine/QS21,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0344211,USES,Cell Count,Supportive care,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0349707,USES,Cell Count,Aspiration-action,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0376518,USES,Cell Count,Adoptive Transfer,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0393005,USES,Cell Count,chlorodihydroxypyridine/potassium oxonate/tegafur,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0407295,USES,Cell Count,Fixation of fracture using plate,lbpr,topp,5,USES_LBPRusesTOPP
+C0007584,C0439775,USES,Cell Count,Elevation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0456979,USES,Cell Count,Automated endodontic technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0475411,USES,Cell Count,Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0520484,USES,Cell Count,Xenograft procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0521213,USES,Cell Count,Closure by clamp,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0556570,USES,Cell Count,Activity analysis,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0565867,USES,Cell Count,delivery method,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0597815,USES,Cell Count,crystal healing,lbpr,topp,5,USES_LBPRusesTOPP
+C0007584,C0618956,USES,Cell Count,UFD-1,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0679624,USES,Cell Count,medical treatment method,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0813207,USES,Cell Count,Creation of shunt,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0920418,USES,Cell Count,cancer radiation therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C0920425,USES,Cell Count,cancer therapy,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C0947647,USES,Cell Count,Manipulation procedure,lbpr,topp,5,USES_LBPRusesTOPP
+C0007584,C0950521,USES,Cell Count,cyclophosphamide/fluorouracil/methotrexate protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1261381,USES,Cell Count,Destructive procedure (surgical),lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1273412,USES,Cell Count,Chinese herbal medicine,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1273428,USES,Cell Count,Total mesorectal excision,lbpr,topp,3,USES_LBPRusesTOPP
+C0007584,C1293132,USES,Cell Count,Anchoring procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C1298805,USES,Cell Count,Routine procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1318464,USES,Cell Count,Occupational therapy regime,lbpr,topp,14,USES_LBPRusesTOPP
+C0007584,C1443861,USES,Cell Count,Post-Exposure Prophylaxis,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1504389,USES,Cell Count,Stem cell transplant,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1511790,USES,Cell Count,Detection,lbpr,topp,20,USES_LBPRusesTOPP
+C0007584,C1515884,USES,Cell Count,Acupuncture and Oriental Medicine,lbpr,topp,9,USES_LBPRusesTOPP
+C0007584,C1517925,USES,Cell Count,Local Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1522449,USES,Cell Count,Therapeutic radiology procedure,lbpr,topp,20,USES_LBPRusesTOPP
+C0007584,C1533734,USES,Cell Count,Administration procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007584,C1704536,USES,Cell Count,Direct Method,lbpr,topp,2,USES_LBPRusesTOPP
+C0007584,C2987620,USES,Cell Count,Inoculation,lbpr,topp,144,USES_LBPRusesTOPP
+C0007584,C3540512,USES,Cell Count,Circumferential Supracrestal Fiberotomy,lbpr,topp,24,USES_LBPRusesTOPP
+C0007584,C4085637,USES,Cell Count,Carboplatin/Etoposide/Melphalan Regimen,lbpr,topp,77,USES_LBPRusesTOPP
+C0007584,C4524538,USES,Cell Count,Whole Blood or Product Procurement,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C0042196,USES,Cell Culture Techniques,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C0199176,USES,Cell Culture Techniques,Prophylactic treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C0204727,USES,Cell Culture Techniques,Isolation procedure,lbpr,topp,8,USES_LBPRusesTOPP
+C0007585,C0282402,USES,Cell Culture Techniques,Hormone replacement therapy,lbpr,topp,11,USES_LBPRusesTOPP
+C0007585,C0338324,USES,Cell Culture Techniques,GM2-KLH vaccine/QS21,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C0441516,USES,Cell Culture Techniques,Demand (clinical),lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C0543467,USES,Cell Culture Techniques,Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C0947647,USES,Cell Culture Techniques,Manipulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C1293116,USES,Cell Culture Techniques,Introduction procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C1511790,USES,Cell Culture Techniques,Detection,lbpr,topp,7,USES_LBPRusesTOPP
+C0007585,C1563738,USES,Cell Culture Techniques,Oncolytic Virotherapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0007585,C2987620,USES,Cell Culture Techniques,Inoculation,lbpr,topp,36,USES_LBPRusesTOPP
+C0007585,C4085637,USES,Cell Culture Techniques,Carboplatin/Etoposide/Melphalan Regimen,lbpr,topp,9,USES_LBPRusesTOPP
+C0007593,C0204727,USES,Cell Fractionation,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0007594,C0408752,USES,Cell fusion procedure,Back fusion,lbpr,topp,1,USES_LBPRusesTOPP
+C0007703,C0020971,USES,Centrifugation,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0007703,C0042196,USES,Centrifugation,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0007703,C0185115,USES,Centrifugation,Extraction,lbpr,topp,5,USES_LBPRusesTOPP
+C0007703,C0204727,USES,Centrifugation,Isolation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0007703,C0886384,USES,Centrifugation,5 minutes Office visit,lbpr,topp,1,USES_LBPRusesTOPP
+C0007703,C1511790,USES,Centrifugation,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0008550,C0032113,USES,Chromatography,Plasma Exchange,lbpr,topp,1,USES_LBPRusesTOPP
+C0008550,C0185115,USES,Chromatography,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0008550,C0450076,USES,Chromatography,Gradient method,lbpr,topp,1,USES_LBPRusesTOPP
+C0008550,C1511790,USES,Chromatography,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0008551,C0020944,USES,"Chromatography, Affinity",Immobilization,lbpr,topp,3,USES_LBPRusesTOPP
+C0008551,C0056167,USES,"Chromatography, Affinity",cyclophosphamide/methotrexate/prednisone/vincristine protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C0008551,C0185115,USES,"Chromatography, Affinity",Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0008551,C0204727,USES,"Chromatography, Affinity",Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0008551,C1511790,USES,"Chromatography, Affinity",Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0008555,C1511790,USES,Gas Chromatography,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0008556,C1511790,USES,"Chromatography, Gas-Liquid",Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0008559,C0204727,USES,Gel Chromatography,Isolation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0008559,C1511790,USES,Gel Chromatography,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C0008562,C0020971,USES,High pressure liquid chromatography procedure,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0008562,C0204727,USES,High pressure liquid chromatography procedure,Isolation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0008562,C1511790,USES,High pressure liquid chromatography procedure,Detection,lbpr,topp,29,USES_LBPRusesTOPP
+C0008564,C1511790,USES,Ion-Exchange Chromatography Procedure,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0008565,C1511790,USES,Liquid Chromatography,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0009407,C0543467,USES,Colorimetry,Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0009407,C1511790,USES,Colorimetry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0010214,C1511790,USES,Countercurrent electrophoresis measurement,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0010367,C0078140,USES,"Crossmatching, Blood",bleomycin/methotrexate/vincristine protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C0010405,C0021107,USES,Cryopreservation,Implantation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0010818,C0022100,USES,Cytological Techniques,Irrigation,lbpr,topp,1,USES_LBPRusesTOPP
+C0010818,C0040461,USES,Cytological Techniques,Toothbrushing,lbpr,topp,1,USES_LBPRusesTOPP
+C0010818,C0189381,USES,Cytological Techniques,Bronchial Lavage,lbpr,topp,4,USES_LBPRusesTOPP
+C0010818,C0349707,USES,Cytological Techniques,Aspiration-action,lbpr,topp,4,USES_LBPRusesTOPP
+C0010818,C1273428,USES,Cytological Techniques,Total mesorectal excision,lbpr,topp,1,USES_LBPRusesTOPP
+C0010818,C3540512,USES,Cytological Techniques,Circumferential Supracrestal Fiberotomy,lbpr,topp,7,USES_LBPRusesTOPP
+C0013855,C1511790,USES,Electrophoresis,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0013856,C0050572,USES,"Electrophoresis, Agar Gel",ACP protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0013856,C1511790,USES,"Electrophoresis, Agar Gel",Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0013856,C1535597,USES,"Electrophoresis, Agar Gel",Truncal vagotomy with pyloroplasty,lbpr,topp,1,USES_LBPRusesTOPP
+C0013856,C3163695,USES,"Electrophoresis, Agar Gel",Transarterial embolization,lbpr,topp,2,USES_LBPRusesTOPP
+C0013862,C1511790,USES,Polyacrylamide Gel Electrophoresis,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C0020971,USES,Enzyme-Linked Immunosorbent Assay,Immunization,lbpr,topp,5,USES_LBPRusesTOPP
+C0014441,C0035139,USES,Enzyme-Linked Immunosorbent Assay,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C0042196,USES,Enzyme-Linked Immunosorbent Assay,Vaccination,lbpr,topp,2,USES_LBPRusesTOPP
+C0014441,C0152060,USES,Enzyme-Linked Immunosorbent Assay,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C0185115,USES,Enzyme-Linked Immunosorbent Assay,Extraction,lbpr,topp,3,USES_LBPRusesTOPP
+C0014441,C0203939,USES,Enzyme-Linked Immunosorbent Assay,Indirect Treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C0393005,USES,Enzyme-Linked Immunosorbent Assay,chlorodihydroxypyridine/potassium oxonate/tegafur,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C1298805,USES,Enzyme-Linked Immunosorbent Assay,Routine procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C1455870,USES,Enzyme-Linked Immunosorbent Assay,Bi-level airway pressure,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C1511790,USES,Enzyme-Linked Immunosorbent Assay,Detection,lbpr,topp,84,USES_LBPRusesTOPP
+C0014441,C1704536,USES,Enzyme-Linked Immunosorbent Assay,Direct Method,lbpr,topp,1,USES_LBPRusesTOPP
+C0014441,C3540512,USES,Enzyme-Linked Immunosorbent Assay,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C0014772,C0078140,USES,Red Blood Cell Count measurement,bleomycin/methotrexate/vincristine protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C0014772,C1511790,USES,Red Blood Cell Count measurement,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0014772,C1522449,USES,Red Blood Cell Count measurement,Therapeutic radiology procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0014772,C3540512,USES,Red Blood Cell Count measurement,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C0016263,C0040861,USES,Flow Cytometry,Triage,lbpr,topp,1,USES_LBPRusesTOPP
+C0016263,C1511790,USES,Flow Cytometry,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0016318,C0042196,USES,Fluorescent Antibody Technique,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0016318,C0189381,USES,Fluorescent Antibody Technique,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C0016318,C1511790,USES,Fluorescent Antibody Technique,Detection,lbpr,topp,14,USES_LBPRusesTOPP
+C0016352,C1511790,USES,Fluorometry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0017381,C1293116,USES,Genetic Complementation Test,Introduction procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0018904,C1511790,USES,Hemagglutination Inhibition Tests,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0018905,C1511790,USES,Hemagglutination test,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0018935,C0004933,USES,Hematocrit procedure,Behavior Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0018935,C0085079,USES,Hematocrit procedure,Bone Marrow Purging,lbpr,topp,1,USES_LBPRusesTOPP
+C0018935,C0206058,USES,Hematocrit procedure,Elective Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0018935,C0376450,USES,Hematocrit procedure,Transplantation Conditioning,lbpr,topp,4,USES_LBPRusesTOPP
+C0018935,C0920425,USES,Hematocrit procedure,cancer therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0018935,C1882454,USES,Hematocrit procedure,Preparative Regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C0018941,C0189381,USES,Hematologic Tests,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C0018941,C0199470,USES,Hematologic Tests,Mechanical ventilation,lbpr,topp,1,USES_LBPRusesTOPP
+C0018941,C1455871,USES,Hematologic Tests,Non-invasive positive pressure (NIPPV),lbpr,topp,1,USES_LBPRusesTOPP
+C0019635,C0597815,USES,Histocytochemistry,crystal healing,lbpr,topp,1,USES_LBPRusesTOPP
+C0019637,C0152060,USES,Histological Techniques,Transection (procedure),lbpr,topp,2,USES_LBPRusesTOPP
+C0020980,C1511790,USES,Immunoassay method,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0020985,C0020971,USES,Immunoblotting,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0020985,C0279939,USES,Immunoblotting,Doxorubicin/Melphalan/Teniposide regimen (MAV),lbpr,topp,1,USES_LBPRusesTOPP
+C0020985,C1511790,USES,Immunoblotting,Detection,lbpr,topp,5,USES_LBPRusesTOPP
+C0020997,C1511790,USES,immunoelectrophoresis,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0021060,C1511790,USES,Immunologic Techniques,Detection,lbpr,topp,8,USES_LBPRusesTOPP
+C0021061,C1511790,USES,Immunologic Tests,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0021067,C0152060,USES,Immunoperoxidase Techniques,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0021067,C1511790,USES,Immunoperoxidase Techniques,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0021069,C0185115,USES,Immunoprecipitation,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0009244,USES,Laboratory Procedures,Cognitive Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0011121,USES,Laboratory Procedures,Decontamination,lbpr,topp,2,USES_LBPRusesTOPP
+C0022885,C0012683,USES,Laboratory Procedures,Disinfection,lbpr,topp,5,USES_LBPRusesTOPP
+C0022885,C0013786,USES,Laboratory Procedures,Electric stimulation technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0019004,USES,Laboratory Procedures,Hemodialysis,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0020971,USES,Laboratory Procedures,Immunization,lbpr,topp,10,USES_LBPRusesTOPP
+C0022885,C0021107,USES,Laboratory Procedures,Implantation procedure,lbpr,topp,3,USES_LBPRusesTOPP
+C0022885,C0032042,USES,Laboratory Procedures,Placebos,lbpr,topp,7,USES_LBPRusesTOPP
+C0022885,C0032113,USES,Laboratory Procedures,Plasma Exchange,lbpr,topp,6,USES_LBPRusesTOPP
+C0022885,C0035139,USES,Laboratory Procedures,Surgical Replantation,lbpr,topp,11,USES_LBPRusesTOPP
+C0022885,C0042196,USES,Laboratory Procedures,Vaccination,lbpr,topp,18,USES_LBPRusesTOPP
+C0022885,C0083355,USES,Laboratory Procedures,amsacrine/azacitidine/etoposide,lbpr,topp,20,USES_LBPRusesTOPP
+C0022885,C0108844,USES,Laboratory Procedures,CDE protocol-cyclophosphamide/doxorubicin/etoposide,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0150141,USES,Laboratory Procedures,Bathing,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0152060,USES,Laboratory Procedures,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0184904,USES,Laboratory Procedures,Slitting,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0185027,USES,Laboratory Procedures,Imbrication (procedure),lbpr,topp,11,USES_LBPRusesTOPP
+C0022885,C0185115,USES,Laboratory Procedures,Extraction,lbpr,topp,11,USES_LBPRusesTOPP
+C0022885,C0189381,USES,Laboratory Procedures,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0189463,USES,Laboratory Procedures,Dilatation of bronchus,lbpr,topp,2,USES_LBPRusesTOPP
+C0022885,C0199176,USES,Laboratory Procedures,Prophylactic treatment,lbpr,topp,2,USES_LBPRusesTOPP
+C0022885,C0199798,USES,Laboratory Procedures,human vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0199804,USES,Laboratory Procedures,Vaccination against tuberculosis,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0204727,USES,Laboratory Procedures,Isolation procedure,lbpr,topp,5,USES_LBPRusesTOPP
+C0022885,C0280462,USES,Laboratory Procedures,Cyclophosphamide/Fluorouracil/Tamoxifen,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0280592,USES,Laboratory Procedures,doxorubicin/fluorouracil/mitomycin/vincristine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0338237,USES,Laboratory Procedures,Antibiotic therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0338248,USES,Laboratory Procedures,carmustine/cytarabine/etoposide/melphalan regimen,lbpr,topp,5,USES_LBPRusesTOPP
+C0022885,C0419997,USES,Laboratory Procedures,Viral screening,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0441509,USES,Laboratory Procedures,Coagulation procedure,lbpr,topp,74,USES_LBPRusesTOPP
+C0022885,C0441516,USES,Laboratory Procedures,Demand (clinical),lbpr,topp,2,USES_LBPRusesTOPP
+C0022885,C0454044,USES,Laboratory Procedures,Simonton technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0475411,USES,Laboratory Procedures,Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0521213,USES,Laboratory Procedures,Closure by clamp,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0547070,USES,Laboratory Procedures,Ablation,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0597815,USES,Laboratory Procedures,crystal healing,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0679657,USES,Laboratory Procedures,cognitive technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0741847,USES,Laboratory Procedures,Bypass,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C0948769,USES,Laboratory Procedures,Hepatitis C screening,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1272248,USES,Laboratory Procedures,Retinal screening,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1280903,USES,Laboratory Procedures,Exploration procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1285354,USES,Laboratory Procedures,Mechanical stimulation,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1293116,USES,Laboratory Procedures,Introduction procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1293122,USES,Laboratory Procedures,Augmentation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1511790,USES,Laboratory Procedures,Detection,lbpr,topp,97,USES_LBPRusesTOPP
+C0022885,C1512721,USES,Laboratory Procedures,Inferential Current Treatment,lbpr,topp,4,USES_LBPRusesTOPP
+C0022885,C1522449,USES,Laboratory Procedures,Therapeutic radiology procedure,lbpr,topp,3,USES_LBPRusesTOPP
+C0022885,C1527075,USES,Laboratory Procedures,Revision procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0022885,C1527077,USES,Laboratory Procedures,Peripheral Electronic Nerve Stimulation,lbpr,topp,1,USES_LBPRusesTOPP
+C0022885,C1533734,USES,Laboratory Procedures,Administration procedure,lbpr,topp,3,USES_LBPRusesTOPP
+C0022885,C2825951,USES,Laboratory Procedures,Adjunctive Orthodontic Procedure,lbpr,topp,7,USES_LBPRusesTOPP
+C0022885,C3540512,USES,Laboratory Procedures,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C0023117,C1511790,USES,Latex Fixation Tests,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C0023508,C0189381,USES,White Blood Cell Count procedure,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C0023508,C2973270,USES,White Blood Cell Count procedure,Health Checkup,lbpr,topp,1,USES_LBPRusesTOPP
+C0023508,C3850079,USES,White Blood Cell Count procedure,Cytoreductive Surgery,lbpr,topp,1,USES_LBPRusesTOPP
+C0023901,C0017296,USES,Liver Function Tests,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0023901,C0040732,USES,Liver Function Tests,Transplantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0024868,C1511790,USES,Gas Chromatography-Mass Spectrometry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0025951,C1511790,USES,Microbiological Techniques,Detection,lbpr,topp,8,USES_LBPRusesTOPP
+C0026006,C1511790,USES,Micronucleus Tests,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0026018,C0035139,USES,Microscopy,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0026018,C0040597,USES,Microscopy,Traction,lbpr,topp,1,USES_LBPRusesTOPP
+C0026018,C0152060,USES,Microscopy,Transection (procedure),lbpr,topp,3,USES_LBPRusesTOPP
+C0026018,C0189381,USES,Microscopy,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C0026018,C1511790,USES,Microscopy,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0026018,C1883259,USES,Microscopy,Taxotere-Platinol-Fluorouracil Regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C0026018,C3540512,USES,Microscopy,Circumferential Supracrestal Fiberotomy,lbpr,topp,4,USES_LBPRusesTOPP
+C0026019,C0152060,USES,Electron Microscopy,Transection (procedure),lbpr,topp,2,USES_LBPRusesTOPP
+C0026019,C1511790,USES,Electron Microscopy,Detection,lbpr,topp,8,USES_LBPRusesTOPP
+C0026020,C0152060,USES,Scanning Electron Microscopy,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0026022,C0185027,USES,"Microscopy, Fluorescence",Imbrication (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0026022,C1511790,USES,"Microscopy, Fluorescence",Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0026040,C0152060,USES,Microtomy,Transection (procedure),lbpr,topp,2,USES_LBPRusesTOPP
+C0027944,C0020975,USES,Neutralization Tests,Secondary Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0027944,C1511790,USES,Neutralization Tests,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0029205,C0204727,USES,Organ Culture Techniques,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0029205,C2987620,USES,Organ Culture Techniques,Inoculation,lbpr,topp,1,USES_LBPRusesTOPP
+C0032102,C0204727,USES,plaque assay,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0032102,C1511790,USES,plaque assay,Detection,lbpr,topp,5,USES_LBPRusesTOPP
+C0033085,C0003424,USES,Biologic Preservation,Antisepsis,lbpr,topp,1,USES_LBPRusesTOPP
+C0033629,C0021107,USES,Protein Engineering,Implantation procedure,lbpr,topp,3,USES_LBPRusesTOPP
+C0033707,C0441509,USES,Prothrombin time assay,Coagulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0034580,C1511790,USES,Radioimmunoassay,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0036743,C0042196,USES,Serologic tests,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0036743,C0078137,USES,Serologic tests,bleomycin/doxorubicin/vinblastine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0036743,C0679698,USES,Serologic tests,disease prevention,lbpr,topp,1,USES_LBPRusesTOPP
+C0036743,C1511790,USES,Serologic tests,Detection,lbpr,topp,7,USES_LBPRusesTOPP
+C0036759,C0204727,USES,Serotyping,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0037793,C0543467,USES,Specimen processing (procedure),Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0037793,C1511790,USES,Specimen processing (procedure),Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0037805,C1571809,USES,Spectrophotometry,Visceral manipulation,lbpr,topp,8,USES_LBPRusesTOPP
+C0037812,C0286540,USES,Spectrum Analysis,MAV protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0037812,C1511790,USES,Spectrum Analysis,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0037812,C1571809,USES,Spectrum Analysis,Visceral manipulation,lbpr,topp,13,USES_LBPRusesTOPP
+C0037812,C1881363,USES,Spectrum Analysis,Laser Fluorescence,lbpr,topp,1,USES_LBPRusesTOPP
+C0037813,C0278264,USES,Mass Spectrometry,-desis,lbpr,topp,1,USES_LBPRusesTOPP
+C0037813,C1511790,USES,Mass Spectrometry,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0037815,C1511790,USES,"Spectrum Analysis, Raman",Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0038577,C0282515,USES,Substance Abuse Detection,Chemoprevention,lbpr,topp,1,USES_LBPRusesTOPP
+C0040130,C0001566,USES,Thyroid Function Tests,"Administration, Topical",lbpr,topp,1,USES_LBPRusesTOPP
+C0040284,C0020971,USES,Tissue culture,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0040284,C0152060,USES,Tissue culture,Transection (procedure),lbpr,topp,2,USES_LBPRusesTOPP
+C0040284,C0204727,USES,Tissue culture,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0040284,C2987620,USES,Tissue culture,Inoculation,lbpr,topp,4,USES_LBPRusesTOPP
+C0041609,C0204727,USES,Ultracentrifugation,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0041609,C1511790,USES,Ultracentrifugation,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0079240,C0020971,USES,Dilution technique,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0079240,C0042196,USES,Dilution technique,Vaccination,lbpr,topp,2,USES_LBPRusesTOPP
+C0079240,C0185115,USES,Dilution technique,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0079240,C0339897,USES,Dilution technique,Transjugular intrahepatic portosystemic shunt procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0079240,C0407295,USES,Dilution technique,Fixation of fracture using plate,lbpr,topp,1,USES_LBPRusesTOPP
+C0079240,C1511790,USES,Dilution technique,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0079240,C3540512,USES,Dilution technique,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C0079604,C0185023,USES,Immunofluorescence Microscopy,Fixation - action,lbpr,topp,1,USES_LBPRusesTOPP
+C0079607,C1511790,USES,Immunogold Techniques,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0085188,C0338248,USES,Cryoultramicrotomy,carmustine/cytarabine/etoposide/melphalan regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C0085194,C0042196,USES,Negative Staining,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0085672,C0038280,USES,Microbiology procedure,Sterilization for infection control,lbpr,topp,1,USES_LBPRusesTOPP
+C0085672,C0184958,USES,Microbiology procedure,Toilet procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0086231,C1511790,USES,Enzyme Immunoassay,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C0086890,C1511790,USES,Quick Test for Liver Function,Detection,lbpr,topp,16,USES_LBPRusesTOPP
+C0086890,C2825951,USES,Quick Test for Liver Function,Adjunctive Orthodontic Procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0162401,C0475411,USES,Differential white blood cell count procedure,Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0162621,C0021485,USES,Titration Method,Injection of therapeutic agent,lbpr,topp,1,USES_LBPRusesTOPP
+C0162621,C0032740,USES,Titration Method,Positive End-Expiratory Pressure,lbpr,topp,3,USES_LBPRusesTOPP
+C0162801,C0017296,USES,Sequence Analysis,gene therapy,lbpr,topp,2,USES_LBPRusesTOPP
+C0162801,C0042196,USES,Sequence Analysis,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0162801,C0185027,USES,Sequence Analysis,Imbrication (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0162801,C0185115,USES,Sequence Analysis,Extraction,lbpr,topp,2,USES_LBPRusesTOPP
+C0162801,C0204727,USES,Sequence Analysis,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0162801,C1511790,USES,Sequence Analysis,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0178539,C3540512,USES,Cellular,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C0200345,C0042196,USES,Specimen Collection,Vaccination,lbpr,topp,2,USES_LBPRusesTOPP
+C0200345,C0189381,USES,Specimen Collection,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C0200345,C0204727,USES,Specimen Collection,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0200345,C0280603,USES,Specimen Collection,fluorouracil/methotrexate protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C0200345,C0475411,USES,Specimen Collection,Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0200363,C0185115,USES,Specimen preparation,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0200363,C1511790,USES,Specimen preparation,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0200633,C0189381,USES,Neutrophil count (procedure),Bronchial Lavage,lbpr,topp,4,USES_LBPRusesTOPP
+C0200638,C3540512,USES,Eosinophil count procedure,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0200721,C0152060,USES,Tissue autoradiography,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0200728,C1511790,USES,Tissue processing technique,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0200765,C0152060,USES,Image analysis,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0200765,C0554831,USES,Image analysis,Digitalization done,lbpr,topp,1,USES_LBPRusesTOPP
+C0200898,C0042196,USES,DNA analysis,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0200898,C0050572,USES,DNA analysis,ACP protocol,lbpr,topp,3,USES_LBPRusesTOPP
+C0200898,C0185026,USES,DNA analysis,Plication,lbpr,topp,1,USES_LBPRusesTOPP
+C0200898,C1511790,USES,DNA analysis,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0200931,C0078137,USES,Polymerase chain reaction analysis,bleomycin/doxorubicin/vinblastine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0200931,C0152060,USES,Polymerase chain reaction analysis,Transection (procedure),lbpr,topp,2,USES_LBPRusesTOPP
+C0200931,C0206074,USES,Polymerase chain reaction analysis,Renal Replacement Therapy,lbpr,topp,6,USES_LBPRusesTOPP
+C0200931,C0339897,USES,Polymerase chain reaction analysis,Transjugular intrahepatic portosystemic shunt procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0200931,C3540512,USES,Polymerase chain reaction analysis,Circumferential Supracrestal Fiberotomy,lbpr,topp,4,USES_LBPRusesTOPP
+C0200932,C0456979,USES,Nucleic Acid Amplification Tests,Automated endodontic technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0200932,C1511790,USES,Nucleic Acid Amplification Tests,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C0200949,C4524538,USES,Blood culture,Whole Blood or Product Procurement,lbpr,topp,1,USES_LBPRusesTOPP
+C0200955,C0017296,USES,Viral culture procedure,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0200955,C0042196,USES,Viral culture procedure,Vaccination,lbpr,topp,3,USES_LBPRusesTOPP
+C0200955,C0152060,USES,Viral culture procedure,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0200955,C0185115,USES,Viral culture procedure,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0200955,C0204727,USES,Viral culture procedure,Isolation procedure,lbpr,topp,7,USES_LBPRusesTOPP
+C0200955,C1511790,USES,Viral culture procedure,Detection,lbpr,topp,8,USES_LBPRusesTOPP
+C0200955,C1959689,USES,Viral culture procedure,Irrigation of pharynx,lbpr,topp,1,USES_LBPRusesTOPP
+C0200955,C3540512,USES,Viral culture procedure,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0200974,C1511790,USES,Acid fast stain procedure,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201242,C0042196,USES,Animal inoculation,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0201242,C0741847,USES,Animal inoculation,Bypass,lbpr,topp,1,USES_LBPRusesTOPP
+C0201284,C0017296,USES,Fluorescent antibody measurement,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0201284,C1511790,USES,Fluorescent antibody measurement,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0201300,C1511790,USES,Serum neutralization test,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201519,C1511790,USES,Antibody to islet cells of pancreas measurement,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201576,C0040808,USES,Cytokine assay,Treatment Protocols,lbpr,topp,1,USES_LBPRusesTOPP
+C0201576,C1511790,USES,Cytokine assay,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0201591,C1511790,USES,Interferon assay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201614,C0020971,USES,Antigen proliferation assay,Immunization,lbpr,topp,2,USES_LBPRusesTOPP
+C0201617,C4524534,USES,Primed lymphocyte test,Blood Product Pathogen Reduction,lbpr,topp,1,USES_LBPRusesTOPP
+C0201622,C1511790,USES,Cytotoxicity assay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201682,C0012683,USES,Chemical procedure,Disinfection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201683,C0011121,USES,Chemical method,Decontamination,lbpr,topp,3,USES_LBPRusesTOPP
+C0201683,C0020944,USES,Chemical method,Immobilization,lbpr,topp,1,USES_LBPRusesTOPP
+C0201683,C0023690,USES,Chemical method,Ligation,lbpr,topp,5,USES_LBPRusesTOPP
+C0201683,C0038288,USES,Chemical method,Sexual sterilization,lbpr,topp,3,USES_LBPRusesTOPP
+C0201683,C1511790,USES,Chemical method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201699,C1511790,USES,"Electrophoresis, Capillary",Detection,lbpr,topp,6,USES_LBPRusesTOPP
+C0201709,C1511790,USES,Chemiluminescence assay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201720,C0184967,USES,Serum protein electrophoresis,Insertion of pack (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0201783,C1511790,USES,Inhibition test,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0201794,C1511790,USES,DNA hybridization assay,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0201927,C0441509,USES,Measurement of serum ionized calcium,Coagulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0201950,C0032042,USES,Cholesterol measurement test,Placebos,lbpr,topp,1,USES_LBPRusesTOPP
+C0201992,C1704536,USES,Electrolytes measurement,Direct Method,lbpr,topp,1,USES_LBPRusesTOPP
+C0202081,C0042196,USES,Immunoglobulin measurement,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0202143,C0149783,USES,Neopterin measurement,Steroid therapy,lbpr,topp,2,USES_LBPRusesTOPP
+C0202205,C3540512,USES,Oligoclonal protein measurement,Circumferential Supracrestal Fiberotomy,lbpr,topp,6,USES_LBPRusesTOPP
+C0202231,C0279391,USES,Thyroxine measurement,mercaptopurine/methotrexate/vincristine,lbpr,topp,1,USES_LBPRusesTOPP
+C0206691,C0017296,USES,Electroporation,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0206691,C0023690,USES,Electroporation,Ligation,lbpr,topp,1,USES_LBPRusesTOPP
+C0206691,C0520484,USES,Electroporation,Xenograft procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0206755,C0035139,USES,"Crystallography, X-Ray",Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0242349,C0152060,USES,Immunocytochemistry,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0242349,C3540512,USES,Immunocytochemistry,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0242842,C0042196,USES,"Microscopy, Confocal",Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0259857,C1511790,USES,Electrochemical analysis,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0282547,C0013806,USES,Coculture Techniques,Electroconvulsive Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0282597,C0185115,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0282597,C0814435,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",early identification,lbpr,topp,1,USES_LBPRusesTOPP
+C0282597,C1511790,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0282597,C1883259,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Taxotere-Platinol-Fluorouracil Regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C0282608,C0454044,USES,Image Cytometry,Simonton technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0282646,C0152060,USES,Indirect Immunofluorescence,Transection (procedure),lbpr,topp,2,USES_LBPRusesTOPP
+C0282646,C1511790,USES,Indirect Immunofluorescence,Detection,lbpr,topp,5,USES_LBPRusesTOPP
+C0282647,C0152060,USES,"Fluorescent Antibody Technique, Indirect",Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0282647,C0420045,USES,"Fluorescent Antibody Technique, Indirect",Respiratory disease screening,lbpr,topp,1,USES_LBPRusesTOPP
+C0282647,C1511790,USES,"Fluorescent Antibody Technique, Indirect",Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0282648,C0152060,USES,Direct immunofluorescence,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0282648,C1511790,USES,Direct immunofluorescence,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0282649,C0152060,USES,"Fluorescent Antibody Technique, Direct",Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0282649,C0475411,USES,"Fluorescent Antibody Technique, Direct",Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C0282649,C1511790,USES,"Fluorescent Antibody Technique, Direct",Detection,lbpr,topp,5,USES_LBPRusesTOPP
+C0368676,C1511790,USES,Antibody screen,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0368993,C0407295,USES,Colony count,Fixation of fracture using plate,lbpr,topp,1,USES_LBPRusesTOPP
+C0373607,C0040732,USES,Ferritin measurement,Transplantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0373658,C1515884,USES,Iron binding capacity measurement,Acupuncture and Oriental Medicine,lbpr,topp,1,USES_LBPRusesTOPP
+C0373746,C1095963,USES,Assay of volatiles,Smoking cessation therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0373861,C1511790,USES,Immunodiffusion; not elsewhere specified (procedure in CPT),Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0376519,C1511790,USES,"Spectroscopy, Near-Infrared",Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0392201,C0543467,USES,Blood glucose measurement,Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0427385,C1515884,USES,Cell phenotype determination procedure,Acupuncture and Oriental Medicine,lbpr,topp,1,USES_LBPRusesTOPP
+C0427541,C0040732,USES,Blast cell count procedure,Transplantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0427716,C0022100,USES,"Protein concentration, test strip measurement",Irrigation,lbpr,topp,1,USES_LBPRusesTOPP
+C0427716,C0185027,USES,"Protein concentration, test strip measurement",Imbrication (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0427716,C3540512,USES,"Protein concentration, test strip measurement",Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0427743,C3540512,USES,"Glucose concentration, test strip measurement",Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C0427979,C1511790,USES,Toxin assay procedure,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0430389,C0152060,USES,Light Microscopy,Transection (procedure),lbpr,topp,3,USES_LBPRusesTOPP
+C0430389,C0524865,USES,Light Microscopy,Reconstructive Surgical Procedures,lbpr,topp,3,USES_LBPRusesTOPP
+C0430400,C0185115,USES,Laboratory culture,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0430400,C2169144,USES,Laboratory culture,Radiation dose,lbpr,topp,1,USES_LBPRusesTOPP
+C0430402,C0020971,USES,Bacterial culture (procedure),Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0430402,C0741847,USES,Bacterial culture (procedure),Bypass,lbpr,topp,1,USES_LBPRusesTOPP
+C0430402,C3540512,USES,Bacterial culture (procedure),Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0430414,C0035139,USES,Stool culture,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0430414,C0204727,USES,Stool culture,Isolation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0430414,C1511790,USES,Stool culture,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0430420,C0420045,USES,Antigen assay,Respiratory disease screening,lbpr,topp,1,USES_LBPRusesTOPP
+C0430420,C1511790,USES,Antigen assay,Detection,lbpr,topp,103,USES_LBPRusesTOPP
+C0430425,C0020971,USES,Procedure to identify antibody,Immunization,lbpr,topp,5,USES_LBPRusesTOPP
+C0430425,C0042196,USES,Procedure to identify antibody,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0430425,C0203939,USES,Procedure to identify antibody,Indirect Treatment,lbpr,topp,2,USES_LBPRusesTOPP
+C0430425,C0280462,USES,Procedure to identify antibody,Cyclophosphamide/Fluorouracil/Tamoxifen,lbpr,topp,1,USES_LBPRusesTOPP
+C0430425,C1511790,USES,Procedure to identify antibody,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0436196,C1511790,USES,Spectrometry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0436196,C1571809,USES,Spectrometry,Visceral manipulation,lbpr,topp,2,USES_LBPRusesTOPP
+C0445138,C0947647,USES,Nucleic acid analysis,Manipulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0457437,C0040597,USES,Microscopy technique,Traction,lbpr,topp,1,USES_LBPRusesTOPP
+C0457437,C1511790,USES,Microscopy technique,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0459958,C0441516,USES,HIV screen,Demand (clinical),lbpr,topp,1,USES_LBPRusesTOPP
+C0459958,C1511790,USES,HIV screen,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0474643,C0042196,USES,Antibody titer measurement,Vaccination,lbpr,topp,6,USES_LBPRusesTOPP
+C0474643,C3540512,USES,Antibody titer measurement,Circumferential Supracrestal Fiberotomy,lbpr,topp,8,USES_LBPRusesTOPP
+C0474652,C1511790,USES,Human immunodeficiency virus antibody titer measurement,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0487602,C0152060,USES,Staining method,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0487602,C1511790,USES,Staining method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0523207,C0152060,USES,Hematoxylin and eosin stain method,Transection (procedure),lbpr,topp,9,USES_LBPRusesTOPP
+C0523213,C1511790,USES,Periodic acid Schiff stain method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0523241,C0679698,USES,Viral subtyping,disease prevention,lbpr,topp,1,USES_LBPRusesTOPP
+C0523267,C1511790,USES,Measurement of Borrelia burgdorferi antibody,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0523387,C3540512,USES,Antibody to myelin measurement,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0525026,C1511790,USES,Biotinylation,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0525032,C0441509,USES,International Normalized Ratio,Coagulation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0555903,C0022100,USES,Total protein measurement,Irrigation,lbpr,topp,1,USES_LBPRusesTOPP
+C0580327,C0017296,USES,Antibody studies (procedure),gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0580327,C0679818,USES,Antibody studies (procedure),blood donor screening,lbpr,topp,1,USES_LBPRusesTOPP
+C0580327,C1511790,USES,Antibody studies (procedure),Detection,lbpr,topp,7,USES_LBPRusesTOPP
+C0581714,C0068899,USES,Buccal smear procedure,NOAC protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0581714,C0185115,USES,Buccal smear procedure,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0581714,C0280592,USES,Buccal smear procedure,doxorubicin/fluorouracil/mitomycin/vincristine protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C0596495,C1511790,USES,"Spectrometry, Mass, Electrospray Ionization",Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0597428,C0185115,USES,Sedimentation procedure,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0597489,C0185115,USES,solvent extraction,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0597705,C0042196,USES,Cryoelectron Microscopy,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0597705,C0204514,USES,Cryoelectron Microscopy,Structural analysis,lbpr,topp,1,USES_LBPRusesTOPP
+C0597705,C1511790,USES,Cryoelectron Microscopy,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0597717,C0023690,USES,Fluorescence Resonance Energy Transfer,Ligation,lbpr,topp,1,USES_LBPRusesTOPP
+C0599927,C1704536,USES,southern hybridization,Direct Method,lbpr,topp,1,USES_LBPRusesTOPP
+C0599953,C0042196,USES,Virus Inactivation,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0599953,C0695341,USES,Virus Inactivation,common procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0600070,C0524865,USES,Direct microscopy,Reconstructive Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0600209,C0203597,USES,SDS-PAGE,hyperthermia treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0600209,C1511790,USES,SDS-PAGE,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0600209,C1527075,USES,SDS-PAGE,Revision procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0600324,C0199176,USES,Serodiagnosis,Prophylactic treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0600561,C1511790,USES,"Chromatography, Micellar Electrokinetic Capillary",Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C0677634,C0441509,USES,Thrombin Time Assay,Coagulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0678118,C0152060,USES,Transmission Electron Microscopy,Transection (procedure),lbpr,topp,3,USES_LBPRusesTOPP
+C0678118,C0203939,USES,Transmission Electron Microscopy,Indirect Treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0678118,C0204727,USES,Transmission Electron Microscopy,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0678621,C1273412,USES,separation method,Chinese herbal medicine,lbpr,topp,1,USES_LBPRusesTOPP
+C0678628,C1511790,USES,membrane filtration,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0678647,C0050572,USES,optical analysis,ACP protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0679560,C0728940,USES,Genetic screening method,Excision,lbpr,topp,1,USES_LBPRusesTOPP
+C0679560,C1293132,USES,Genetic screening method,Anchoring procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0681827,C0441509,USES,laboratory studies,Coagulation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0683134,C0185047,USES,voltammetry,Stripping,lbpr,topp,19,USES_LBPRusesTOPP
+C0683134,C1511790,USES,voltammetry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0684296,C0185115,USES,Column Chromatography,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0684296,C0204727,USES,Column Chromatography,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0696215,C3540512,USES,wet mount,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0729856,C1511790,USES,Antigen test,Detection,lbpr,topp,85,USES_LBPRusesTOPP
+C0750860,C3540512,USES,serum cpk,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0752248,C0008971,USES,Gene Expression Profiling,Clinical Protocols,lbpr,topp,1,USES_LBPRusesTOPP
+C0796345,C0063264,USES,genetic linkage analysis,Cisplatin/Doxorubicin/Ifosfamide protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C0807480,C3540512,USES,Preparation techniques,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C0871511,C0011121,USES,Test Method,Decontamination,lbpr,topp,1,USES_LBPRusesTOPP
+C0871511,C0035139,USES,Test Method,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0871511,C1511790,USES,Test Method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0872232,C1511790,USES,Nucleic acid assay,Detection,lbpr,topp,22,USES_LBPRusesTOPP
+C0872262,C0185026,USES,RNA Analysis,Plication,lbpr,topp,3,USES_LBPRusesTOPP
+C0872318,C1511790,USES,Liquid Chromatography Mass Spectrometry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0883003,C0017296,USES,Differential panel,gene therapy,lbpr,topp,21,USES_LBPRusesTOPP
+C0883003,C0020971,USES,Differential panel,Immunization,lbpr,topp,6,USES_LBPRusesTOPP
+C0883003,C0022100,USES,Differential panel,Irrigation,lbpr,topp,1,USES_LBPRusesTOPP
+C0883003,C1511790,USES,Differential panel,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0883003,C2987620,USES,Differential panel,Inoculation,lbpr,topp,3,USES_LBPRusesTOPP
+C0917791,C0204514,USES,Sequence Determinations,Structural analysis,lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C0017296,USES,Pathology procedure,gene therapy,lbpr,topp,2,USES_LBPRusesTOPP
+C0919386,C0185026,USES,Pathology procedure,Plication,lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C0185027,USES,Pathology procedure,Imbrication (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C0199470,USES,Pathology procedure,Mechanical ventilation,lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C0204727,USES,Pathology procedure,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C0338248,USES,Pathology procedure,carmustine/cytarabine/etoposide/melphalan regimen,lbpr,topp,5,USES_LBPRusesTOPP
+C0919386,C0441509,USES,Pathology procedure,Coagulation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C0919386,C0441650,USES,Pathology procedure,Closure by wire,lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C0543467,USES,Pathology procedure,Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0919386,C1511790,USES,Pathology procedure,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C0919842,C1511790,USES,Treponema pallidum antibody measurement,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0920433,C0040732,USES,cell preparation,Transplantation,lbpr,topp,1,USES_LBPRusesTOPP
+C0920433,C0040861,USES,cell preparation,Triage,lbpr,topp,1,USES_LBPRusesTOPP
+C0920433,C0042196,USES,cell preparation,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C0019009,USES,Scientific Study,Hemodilution,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C0086153,USES,Scientific Study,Dietary Modification,lbpr,topp,2,USES_LBPRusesTOPP
+C0947630,C0152060,USES,Scientific Study,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C0237403,USES,Scientific Study,treatments and procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C0920425,USES,Scientific Study,cancer therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C1280903,USES,Scientific Study,Exploration procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C1328288,USES,Scientific Study,In vivo GENETIC,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C1511790,USES,Scientific Study,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C0947630,C1710038,USES,Scientific Study,Second line treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C0948762,C0022100,USES,Absolute neutrophil count,Irrigation,lbpr,topp,1,USES_LBPRusesTOPP
+C0949466,C0020971,USES,Western Blot,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C0949466,C0042196,USES,Western Blot,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C0949466,C0185115,USES,Western Blot,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C0949466,C0949266,USES,Western Blot,"Therapies, Investigational",lbpr,topp,1,USES_LBPRusesTOPP
+C0949466,C1511790,USES,Western Blot,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C1135847,C1511790,USES,"Fractionation, Field Flow",Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1168369,C3540512,USES,HIV viral load,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C1261149,C1511790,USES,Viral antigen assay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1266211,C1571809,USES,Optical density measurement,Visceral manipulation,lbpr,topp,1,USES_LBPRusesTOPP
+C1271681,C0475411,USES,Total white blood count,Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C1271681,C3540512,USES,Total white blood count,Circumferential Supracrestal Fiberotomy,lbpr,topp,3,USES_LBPRusesTOPP
+C1272250,C1511790,USES,Viral nucleic acid assay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1273305,C0035139,USES,Gene studies,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C1273305,C0547070,USES,Gene studies,Ablation,lbpr,topp,1,USES_LBPRusesTOPP
+C1273305,C0947647,USES,Gene studies,Manipulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1273421,C0017296,USES,Viral studies,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1273421,C0042196,USES,Viral studies,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C1273421,C0185115,USES,Viral studies,Extraction,lbpr,topp,2,USES_LBPRusesTOPP
+C1273421,C0204727,USES,Viral studies,Isolation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C1273421,C1298805,USES,Viral studies,Routine procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1273421,C1511790,USES,Viral studies,Detection,lbpr,topp,5,USES_LBPRusesTOPP
+C1273421,C4526534,USES,Viral studies,Bendamustine/Bortezomib/Dexamethasone Regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C1275826,C0206074,USES,PCR test for SARS,Renal Replacement Therapy,lbpr,topp,5,USES_LBPRusesTOPP
+C1278166,C0017296,USES,Plasma homocystine measurement,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1278276,C0185027,USES,Cerebrospinal fluid lactate measurement,Imbrication (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1285572,C0015252,USES,Phenotype determination,removal technique,lbpr,topp,1,USES_LBPRusesTOPP
+C1285573,C0185115,USES,Genotype determination,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1285573,C0695341,USES,Genotype determination,common procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C1285573,C1511790,USES,Genotype determination,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1293950,C0407295,USES,Silver stain method,Fixation of fracture using plate,lbpr,topp,1,USES_LBPRusesTOPP
+C1293950,C1511790,USES,Silver stain method,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C1294205,C0038280,USES,Bacillus anthracis culture,Sterilization for infection control,lbpr,topp,2,USES_LBPRusesTOPP
+C1294233,C0042196,USES,Salmonella species culture,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C1294287,C0185115,USES,Fungus identification,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1294288,C0013103,USES,Yeast culture,Drainage procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1294297,C0152060,USES,Masson trichrome stain method,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1294356,C0042196,USES,Detection of virus procedure,Vaccination,lbpr,topp,3,USES_LBPRusesTOPP
+C1294356,C0152060,USES,Detection of virus procedure,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1294356,C0189381,USES,Detection of virus procedure,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C1294356,C0520251,USES,Detection of virus procedure,Multiple interventional procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C1294356,C0695341,USES,Detection of virus procedure,common procedures,lbpr,topp,2,USES_LBPRusesTOPP
+C1294356,C1511790,USES,Detection of virus procedure,Detection,lbpr,topp,5,USES_LBPRusesTOPP
+C1294356,C3540512,USES,Detection of virus procedure,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C1294381,C0456979,USES,Rotavirus detection,Automated endodontic technique,lbpr,topp,1,USES_LBPRusesTOPP
+C1295059,C0475411,USES,HLA DR antigen typing,Standardized technique,lbpr,topp,1,USES_LBPRusesTOPP
+C1303103,C3540512,USES,Sample analysis,Circumferential Supracrestal Fiberotomy,lbpr,topp,1,USES_LBPRusesTOPP
+C1315011,C0042196,USES,Challenge tests,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C1317452,C0393005,USES,Immunoglobulin panel,chlorodihydroxypyridine/potassium oxonate/tegafur,lbpr,topp,1,USES_LBPRusesTOPP
+C1318786,C0752151,USES,Fluorescent stain method,"Thoracic Surgery, Video-Assisted",lbpr,topp,1,USES_LBPRusesTOPP
+C1318786,C1511790,USES,Fluorescent stain method,Detection,lbpr,topp,7,USES_LBPRusesTOPP
+C1318793,C0152060,USES,Immunofluorescent stain method,Transection (procedure),lbpr,topp,3,USES_LBPRusesTOPP
+C1318793,C1511790,USES,Immunofluorescent stain method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1319309,C0152060,USES,Hematoxylin stain method,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1328856,C1511790,USES,chromatin immunoprecipitation,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1439852,C1511790,USES,incubated,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1441554,C0407295,USES,Direct assay,Fixation of fracture using plate,lbpr,topp,1,USES_LBPRusesTOPP
+C1441554,C1511790,USES,Direct assay,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C1441565,C0012683,USES,Elution,Disinfection,lbpr,topp,1,USES_LBPRusesTOPP
+C1441565,C0056167,USES,Elution,cyclophosphamide/methotrexate/prednisone/vincristine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C1441565,C0185115,USES,Elution,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1441604,C0185115,USES,High sensitivity,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1441604,C1511790,USES,High sensitivity,Detection,lbpr,topp,53,USES_LBPRusesTOPP
+C1441647,C1511790,USES,Microscopy.electron.negative stain,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1441657,C0020971,USES,Mouse bioassay,Immunization,lbpr,topp,2,USES_LBPRusesTOPP
+C1441657,C0042196,USES,Mouse bioassay,Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C1441657,C0189381,USES,Mouse bioassay,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C1441657,C0850173,USES,Mouse bioassay,skin Healing,lbpr,topp,1,USES_LBPRusesTOPP
+C1441713,C0185115,USES,Quick method,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1441758,C0578996,USES,Thick film,Laser - action,lbpr,topp,1,USES_LBPRusesTOPP
+C1441759,C0012683,USES,Thin film,Disinfection,lbpr,topp,1,USES_LBPRusesTOPP
+C1441759,C0348007,USES,Thin film,Laser ablation,lbpr,topp,1,USES_LBPRusesTOPP
+C1441759,C0578996,USES,Thin film,Laser - action,lbpr,topp,1,USES_LBPRusesTOPP
+C1443948,C0420045,USES,Measurement of antibody using direct fluorescence,Respiratory disease screening,lbpr,topp,1,USES_LBPRusesTOPP
+C1443948,C1511790,USES,Measurement of antibody using direct fluorescence,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1446951,C0204727,USES,Tissue Culture Techniques,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1449571,C0017296,USES,Microchip Analytical Procedures,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1449571,C1511790,USES,Microchip Analytical Procedures,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1449575,C1511790,USES,Microarray Analysis,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1449576,C0017296,USES,Microfluidic Analytical Techniques,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1449577,C1511790,USES,"Electrophoresis, Microchip",Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1449619,C0204727,USES,Culture Techniques,Isolation procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C1449619,C1511790,USES,Culture Techniques,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C1449705,C1511790,USES,Co-Immunoprecipitation,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1450269,C1511790,USES,Luminescent Measurements,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0005961,USES,Assay,Bone Marrow Transplantation,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0009429,USES,Assay,Combined Modality Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0010055,USES,Assay,Coronary Artery Bypass Surgery,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0012683,USES,Assay,Disinfection,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0017296,USES,Assay,gene therapy,lbpr,topp,19,USES_LBPRusesTOPP
+C1510438,C0020971,USES,Assay,Immunization,lbpr,topp,7,USES_LBPRusesTOPP
+C1510438,C0020974,USES,Assay,passive immunization procedure,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0021107,USES,Assay,Implantation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0022100,USES,Assay,Irrigation,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0023690,USES,Assay,Ligation,lbpr,topp,48,USES_LBPRusesTOPP
+C1510438,C0025991,USES,Assay,Microinjections,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0035139,USES,Assay,Surgical Replantation,lbpr,topp,6,USES_LBPRusesTOPP
+C1510438,C0042196,USES,Assay,Vaccination,lbpr,topp,8,USES_LBPRusesTOPP
+C1510438,C0050572,USES,Assay,ACP protocol,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0056167,USES,Assay,cyclophosphamide/methotrexate/prednisone/vincristine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0057163,USES,Assay,DAV regimen,lbpr,topp,18,USES_LBPRusesTOPP
+C1510438,C0066554,USES,Assay,etoposide/ifosfamide/methotrexate/mitoguazone protocol,lbpr,topp,6,USES_LBPRusesTOPP
+C1510438,C0083355,USES,Assay,amsacrine/azacitidine/etoposide,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0085873,USES,Assay,Basic life support,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0152060,USES,Assay,Transection (procedure),lbpr,topp,8,USES_LBPRusesTOPP
+C1510438,C0178702,USES,Assay,hypersensitivity desensitization,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0185027,USES,Assay,Imbrication (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0185115,USES,Assay,Extraction,lbpr,topp,13,USES_LBPRusesTOPP
+C1510438,C0189381,USES,Assay,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0203597,USES,Assay,hyperthermia treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0204727,USES,Assay,Isolation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0206074,USES,Assay,Renal Replacement Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0278911,USES,Assay,ifosfamide/lomustine/vinblastine,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0279023,USES,Assay,chemosensitization/potentiation,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0279391,USES,Assay,mercaptopurine/methotrexate/vincristine,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0280090,USES,Assay,aminoglutethimide/danazol/hydrocortisone/tamoxifen,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0280591,USES,Assay,doxorubicin/etoposide/methotrexate protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0349707,USES,Assay,Aspiration-action,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0391874,USES,Assay,Manual extraction,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0393005,USES,Assay,chlorodihydroxypyridine/potassium oxonate/tegafur,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0407295,USES,Assay,Fixation of fracture using plate,lbpr,topp,7,USES_LBPRusesTOPP
+C1510438,C0419994,USES,Assay,Infection screening,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0419997,USES,Assay,Viral screening,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0420045,USES,Assay,Respiratory disease screening,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0441509,USES,Assay,Coagulation procedure,lbpr,topp,14,USES_LBPRusesTOPP
+C1510438,C0474212,USES,Assay,Reduction of edema,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0475411,USES,Assay,Standardized technique,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0520251,USES,Assay,Multiple interventional procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0520484,USES,Assay,Xenograft procedure,lbpr,topp,3,USES_LBPRusesTOPP
+C1510438,C0578996,USES,Assay,Laser - action,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0597815,USES,Assay,crystal healing,lbpr,topp,8,USES_LBPRusesTOPP
+C1510438,C0679698,USES,Assay,disease prevention,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0679818,USES,Assay,blood donor screening,lbpr,topp,3,USES_LBPRusesTOPP
+C1510438,C0683525,USES,Assay,treatment options,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0695341,USES,Assay,common procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C0741847,USES,Assay,Bypass,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0872104,USES,Assay,Assisted Reproductive Technologies,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C0920467,USES,Assay,disorder control (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C1112446,USES,Assay,Wound closure,lbpr,topp,6,USES_LBPRusesTOPP
+C1510438,C1293116,USES,Assay,Introduction procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C1293130,USES,Assay,Stabilization,lbpr,topp,5,USES_LBPRusesTOPP
+C1510438,C1320678,USES,Assay,Pharmacological assessment,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C1511790,USES,Assay,Detection,lbpr,topp,493,USES_LBPRusesTOPP
+C1510438,C1512721,USES,Assay,Inferential Current Treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C1518963,USES,Assay,Percutaneous Neuromodulation Therapy,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C1527075,USES,Assay,Revision procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C2169144,USES,Assay,Radiation dose,lbpr,topp,1,USES_LBPRusesTOPP
+C1510438,C2349866,USES,Assay,Genomic screening,lbpr,topp,2,USES_LBPRusesTOPP
+C1510438,C3540512,USES,Assay,Circumferential Supracrestal Fiberotomy,lbpr,topp,3,USES_LBPRusesTOPP
+C1510438,C4085637,USES,Assay,Carboplatin/Etoposide/Melphalan Regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C1510803,C0185115,USES,Adherent Culture,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0001563,USES,"Bioassay, In Vivo","Administration, Oral",lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0017296,USES,"Bioassay, In Vivo",gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0021107,USES,"Bioassay, In Vivo",Implantation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0023690,USES,"Bioassay, In Vivo",Ligation,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0035139,USES,"Bioassay, In Vivo",Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0042196,USES,"Bioassay, In Vivo",Vaccination,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0055670,USES,"Bioassay, In Vivo",cyclophosphamide/doxorubicin/prednisone/teniposide protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C1511124,C0520484,USES,"Bioassay, In Vivo",Xenograft procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1513388,C0017296,USES,Molecular Diagnosis,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1513388,C0185115,USES,Molecular Diagnosis,Extraction,lbpr,topp,3,USES_LBPRusesTOPP
+C1513388,C0189381,USES,Molecular Diagnosis,Bronchial Lavage,lbpr,topp,1,USES_LBPRusesTOPP
+C1513388,C0349707,USES,Molecular Diagnosis,Aspiration-action,lbpr,topp,1,USES_LBPRusesTOPP
+C1515100,C0017296,USES,Suspension Culture,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1518598,C0338248,USES,Optical Methods,carmustine/cytarabine/etoposide/melphalan regimen,lbpr,topp,2,USES_LBPRusesTOPP
+C1518598,C1511790,USES,Optical Methods,Detection,lbpr,topp,16,USES_LBPRusesTOPP
+C1535922,C0338237,USES,Procalcitonin measurement,Antibiotic therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C1551404,C1511790,USES,Serum Neutralization,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1553126,C0203939,USES,Agar Gel Immunodiffusion,Indirect Treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C1553183,C1511790,USES,Inductively-Coupled Plasma Mass Spectrometry,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1705192,C0543467,USES,Seeding,Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C1705913,C1511790,USES,Rapid Antigen Test,Detection,lbpr,topp,97,USES_LBPRusesTOPP
+C1707759,C0035139,USES,Direct Fluorescent Antibody Test,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C1707759,C0152060,USES,Direct Fluorescent Antibody Test,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1707759,C1511790,USES,Direct Fluorescent Antibody Test,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C1707903,C0543467,USES,Embedding,Operative Surgical Procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C1707903,C0557061,USES,Embedding,Discussion (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C1710378,C0035139,USES,Thaw,Surgical Replantation,lbpr,topp,1,USES_LBPRusesTOPP
+C1710378,C0185115,USES,Thaw,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1710378,C1511790,USES,Thaw,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C1719039,C0441516,USES,High resolution,Demand (clinical),lbpr,topp,2,USES_LBPRusesTOPP
+C1720880,C0185115,USES,Solid Phase Extraction,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C1882368,C0185117,USES,Photon Correlation Spectroscopy,Expression procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C1882368,C0338248,USES,Photon Correlation Spectroscopy,carmustine/cytarabine/etoposide/melphalan regimen,lbpr,topp,1,USES_LBPRusesTOPP
+C2347644,C1511790,USES,Positive Selection,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C2350255,C0152060,USES,Electron Microscope Tomography,Transection (procedure),lbpr,topp,3,USES_LBPRusesTOPP
+C2350499,C1511790,USES,Electrochemical Techniques,Detection,lbpr,topp,10,USES_LBPRusesTOPP
+C2697666,C0969683,USES,Immunoenzyme Procedure,Enhancement Technologies,lbpr,topp,1,USES_LBPRusesTOPP
+C2697666,C1511790,USES,Immunoenzyme Procedure,Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C2697666,C2984589,USES,Immunoenzyme Procedure,Transoral Laser Microsurgery,lbpr,topp,1,USES_LBPRusesTOPP
+C2698870,C3540512,USES,Precursor Plasma Cell Count,Circumferential Supracrestal Fiberotomy,lbpr,topp,3,USES_LBPRusesTOPP
+C2700289,C0015252,USES,Yeast Cell Measurement,removal technique,lbpr,topp,1,USES_LBPRusesTOPP
+C2700289,C0407295,USES,Yeast Cell Measurement,Fixation of fracture using plate,lbpr,topp,1,USES_LBPRusesTOPP
+C2717789,C1511790,USES,"Chromatography, Reversed-Phase Liquid",Detection,lbpr,topp,3,USES_LBPRusesTOPP
+C2717977,C0015252,USES,Enzyme Assays,removal technique,lbpr,topp,1,USES_LBPRusesTOPP
+C2717977,C1511790,USES,Enzyme Assays,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C2717978,C1511790,USES,Indirect Enzyme Assays,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C2827904,C1511790,USES,Modified Acid Fast Staining Method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C3146302,C0017296,USES,Mutagenesis Procedure,gene therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C3146302,C0023690,USES,Mutagenesis Procedure,Ligation,lbpr,topp,1,USES_LBPRusesTOPP
+C3146302,C0035139,USES,Mutagenesis Procedure,Surgical Replantation,lbpr,topp,2,USES_LBPRusesTOPP
+C3146302,C0040674,USES,Mutagenesis Procedure,Transposition procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C3146302,C0520251,USES,Mutagenesis Procedure,Multiple interventional procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C3146302,C0695341,USES,Mutagenesis Procedure,common procedures,lbpr,topp,1,USES_LBPRusesTOPP
+C3178850,C1511790,USES,Immunochromatographic Assay,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C3483776,C0149783,USES,Antibiotic panel,Steroid therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C3484173,C0020971,USES,Vaccination panel,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C3533107,C1511790,USES,Microscopic method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C3539922,C1511790,USES,Loop-mediated Isothermal Amplification,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C3686763,C1511790,USES,Direct electron microscopy,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C3811131,C0441509,USES,Estrogen Receptor Measurement,Coagulation procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C3812195,C3540512,USES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Circumferential Supracrestal Fiberotomy,lbpr,topp,2,USES_LBPRusesTOPP
+C3815102,C1511790,USES,Protein Precipitation,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C3820394,C0020971,USES,Thrombin to Antithrombin Ratio Measurement,Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C3820394,C0079613,USES,Thrombin to Antithrombin Ratio Measurement,Adoptive Immunotherapy,lbpr,topp,1,USES_LBPRusesTOPP
+C3825502,C0524865,USES,Volumetric analysis,Reconstructive Surgical Procedures,lbpr,topp,2,USES_LBPRusesTOPP
+C3827958,C0041281,USES,Spray Heating Drying Method,Tube feeding of patient,lbpr,topp,1,USES_LBPRusesTOPP
+C3827958,C0152054,USES,Spray Heating Drying Method,Therapeutic tactile stimulation,lbpr,topp,1,USES_LBPRusesTOPP
+C3830326,C1511790,USES,Electrochemiluminescence,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C3835009,C1511790,USES,urine antigen assays,Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C3850137,C0023690,USES,In Vitro Techniques,Ligation,lbpr,topp,3,USES_LBPRusesTOPP
+C3850137,C0035139,USES,In Vitro Techniques,Surgical Replantation,lbpr,topp,3,USES_LBPRusesTOPP
+C3850137,C0204727,USES,In Vitro Techniques,Isolation procedure,lbpr,topp,3,USES_LBPRusesTOPP
+C3850137,C1511790,USES,In Vitro Techniques,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C3854164,C0679698,USES,Genome sequence analysis,disease prevention,lbpr,topp,1,USES_LBPRusesTOPP
+C3872568,C1511790,USES,Rapid immunoassay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C4053868,C0456979,USES,Viral Identification,Automated endodontic technique,lbpr,topp,1,USES_LBPRusesTOPP
+C4054450,C1511790,USES,Myelin Basic Protein Measurement,Detection,lbpr,topp,2,USES_LBPRusesTOPP
+C4266672,C3540512,USES,repeat analysis,Circumferential Supracrestal Fiberotomy,lbpr,topp,4,USES_LBPRusesTOPP
+C4284307,C0152060,USES,RNA Isolation,Transection (procedure),lbpr,topp,1,USES_LBPRusesTOPP
+C4284307,C0185115,USES,RNA Isolation,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C4284399,C0034997,USES,Dehydration procedure,Rehydration,lbpr,topp,1,USES_LBPRusesTOPP
+C4289745,C0078137,USES,Consensus PCR,bleomycin/doxorubicin/vinblastine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C4301977,C1511790,USES,Sedimentation technique,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C4317078,C1511790,USES,Mycobacterium Tuberculosis Measurement,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C4318456,C0052712,USES,Zaire Ebolavirus Measurement,doxorubicin/mitomycin/vinblastine protocol,lbpr,topp,1,USES_LBPRusesTOPP
+C4318462,C0456979,USES,Viable Cell Count,Automated endodontic technique,lbpr,topp,1,USES_LBPRusesTOPP
+C4318762,C0020944,USES,Leukemia Inhibitory Factor Measurement,Immobilization,lbpr,topp,1,USES_LBPRusesTOPP
+C4318803,C1511790,USES,Microarray method,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C4318939,C0020971,USES,Nasal Swab (procedure),Immunization,lbpr,topp,1,USES_LBPRusesTOPP
+C4318939,C0185115,USES,Nasal Swab (procedure),Extraction,lbpr,topp,2,USES_LBPRusesTOPP
+C4318939,C0203597,USES,Nasal Swab (procedure),hyperthermia treatment,lbpr,topp,1,USES_LBPRusesTOPP
+C4318939,C0339897,USES,Nasal Swab (procedure),Transjugular intrahepatic portosystemic shunt procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C4318939,C1511790,USES,Nasal Swab (procedure),Detection,lbpr,topp,4,USES_LBPRusesTOPP
+C4321306,C0185115,USES,Nasal Wash and Collection,Extraction,lbpr,topp,1,USES_LBPRusesTOPP
+C4484264,C0020944,USES,Clark,Immobilization,lbpr,topp,1,USES_LBPRusesTOPP
+C4484268,C1511790,USES,Fluorescent polarization assay,Detection,lbpr,topp,1,USES_LBPRusesTOPP
+C4522212,C0280274,USES,Complement Ba Measurement,Antiviral Therapy,lbpr,topp,1,USES_LBPRusesTOPP
+C4522212,C1533734,USES,Complement Ba Measurement,Administration procedure,lbpr,topp,1,USES_LBPRusesTOPP
+C4525115,C0035139,USES,Potency Assay,Surgical Replantation,lbpr,topp,2,USES_LBPRusesTOPP

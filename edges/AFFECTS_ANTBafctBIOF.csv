@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0013203,AFFECTS,Antibiotics,Drug resistance,antb,biof,2,AFFECTS_ANTBafctBIOF
+C0003232,C0019868,AFFECTS,Antibiotics,Homeostasis,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0003232,C0042765,AFFECTS,Antibiotics,Virulence,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0003232,C0220781,AFFECTS,Antibiotics,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0008168,C0013203,AFFECTS,Chloramphenicol,Drug resistance,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0010572,C0220781,AFFECTS,Cycloheximide,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0013089,C0019868,AFFECTS,Doxorubicin,Homeostasis,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0026408,C0220781,AFFECTS,Monensin,Anabolism,antb,biof,2,AFFECTS_ANTBafctBIOF
+C0026408,C0282629,AFFECTS,Monensin,Virus Assembly,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0028741,C1537068,AFFECTS,Nystatin,Virus Internalization,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0030827,C0220781,AFFECTS,Penicillin G,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0035608,C0282629,AFFECTS,Rifampin,Virus Assembly,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0041385,C0220781,AFFECTS,Tunicamycin,Anabolism,antb,biof,2,AFFECTS_ANTBafctBIOF
+C0052918,C1537068,AFFECTS,bafilomycin A,Virus Internalization,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0054036,C0220781,AFFECTS,Brefeldin A,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0061179,C1160638,AFFECTS,geldanamycin,Viral life cycle,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0073591,C0220781,AFFECTS,rosoxacin,Anabolism,antb,biof,4,AFFECTS_ANTBafctBIOF
+C0073591,C1721019,AFFECTS,rosoxacin,Virus Attachment,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0073591,C3714634,AFFECTS,rosoxacin,Biological Processes,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0279516,C0220781,AFFECTS,Anti-Bacterial Agents,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF
+C0614427,C0220781,AFFECTS,NS 5,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF
+C3655918,C0220781,AFFECTS,solithromycin,Anabolism,antb,biof,1,AFFECTS_ANTBafctBIOF

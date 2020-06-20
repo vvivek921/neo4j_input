@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0020971,SAME_AS,Immunization,Immunization,topp,topp,3,SAME_AS_TOPPsameTOPP
+C0021107,C0021107,SAME_AS,Implantation procedure,Implantation procedure,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0021485,C0021485,SAME_AS,Injection of therapeutic agent,Injection of therapeutic agent,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0030693,C0204727,SAME_AS,Patient Isolation,Isolation procedure,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0032740,C0032740,SAME_AS,Positive End-Expiratory Pressure,Positive End-Expiratory Pressure,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0032740,C0199451,SAME_AS,Positive End-Expiratory Pressure,Continuous Positive Airway Pressure,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0034386,C0034386,SAME_AS,Quarantine,Quarantine,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0040739,C0040736,SAME_AS,"Transplantation, Homologous","Transplantation, Autologous",topp,topp,1,SAME_AS_TOPPsameTOPP
+C0040808,C0040808,SAME_AS,Treatment Protocols,Treatment Protocols,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0042196,C0042196,SAME_AS,Vaccination,Vaccination,topp,topp,2,SAME_AS_TOPPsameTOPP
+C0042196,C0042205,SAME_AS,Vaccination,Rabies vaccination,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0057163,C1293116,SAME_AS,DAV regimen,Introduction procedure,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0185115,C0185115,SAME_AS,Extraction,Extraction,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0204021,C0020311,SAME_AS,Shower hydrotherapy,Hydrotherapy,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0204727,C1443867,SAME_AS,Isolation procedure,Standard precautions,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0547070,C0547070,SAME_AS,Ablation,Ablation,topp,topp,1,SAME_AS_TOPPsameTOPP
+C0597409,C0018823,SAME_AS,retransplantation,Heart Transplantation,topp,topp,1,SAME_AS_TOPPsameTOPP
+C1511790,C0204727,SAME_AS,Detection,Isolation procedure,topp,topp,1,SAME_AS_TOPPsameTOPP
+C1511790,C0407295,SAME_AS,Detection,Fixation of fracture using plate,topp,topp,2,SAME_AS_TOPPsameTOPP
+C1511790,C1511790,SAME_AS,Detection,Detection,topp,topp,1,SAME_AS_TOPPsameTOPP
+C2169144,C0056574,SAME_AS,Radiation dose,CT protocol,topp,topp,1,SAME_AS_TOPPsameTOPP

@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005778,C0699900,PRECEDES,Blood coagulation,Catabolism,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0011382,C0011065,PRECEDES,Dental Occlusion,Cessation of life,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0021586,C0005615,PRECEDES,Insemination,Birth,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0021586,C0015895,PRECEDES,Insemination,Fertility,ortf,orgf,3,PRECEDES_ORTFprcdORGF
+C0021586,C0015914,PRECEDES,Insemination,Fertilization,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0021586,C0032961,PRECEDES,Insemination,Pregnancy,ortf,orgf,3,PRECEDES_ORTFprcdORGF
+C0027540,C0043240,PRECEDES,Necrosis,Wound Healing,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0029965,C0015914,PRECEDES,Ovulation,Fertilization,ortf,orgf,2,PRECEDES_ORTFprcdORGF
+C0029965,C0032961,PRECEDES,Ovulation,Pregnancy,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0036658,C1819430,PRECEDES,Esthesia,type I interferon production,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0231924,C0011065,PRECEDES,Active ventilation,Cessation of life,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0301872,C0032961,PRECEDES,Immune response,Pregnancy,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0301872,C3159140,PRECEDES,Immune response,interferon production,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0598067,C0678723,PRECEDES,Chondrogenesis,Biologic Development,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C0678727,C2985494,PRECEDES,Primordium,Resorption,ortf,orgf,1,PRECEDES_ORTFprcdORGF
+C1720752,C2985494,PRECEDES,Osteoconduction,Resorption,ortf,orgf,1,PRECEDES_ORTFprcdORGF

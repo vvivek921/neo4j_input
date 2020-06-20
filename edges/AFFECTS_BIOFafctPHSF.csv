@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C0020964,AFFECTS,Antibody Formation,Immunity,biof,phsf,2,AFFECTS_BIOFafctPHSF
+C0003261,C0678209,AFFECTS,Antibody Formation,Adaptive Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0013203,C0678759,AFFECTS,Drug resistance,drug accumulation,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0019868,C0020964,AFFECTS,Homeostasis,Immunity,biof,phsf,3,AFFECTS_BIOFafctPHSF
+C0019868,C0035203,AFFECTS,Homeostasis,Respiration,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0042765,C0020964,AFFECTS,Virulence,Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0042765,C1328821,AFFECTS,Virulence,tissue tropism,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0042765,C1514892,AFFECTS,Virulence,Resistance Process,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0042765,C3714584,AFFECTS,Virulence,"Transformation, function",biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0178849,C0020964,AFFECTS,species difference,Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0220781,C0020964,AFFECTS,Anabolism,Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0220781,C0035203,AFFECTS,Anabolism,Respiration,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0220781,C0149784,AFFECTS,Anabolism,biological adaptation to stress,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0220781,C0221102,AFFECTS,Anabolism,Excretory function,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C0220781,C1512827,AFFECTS,Anabolism,Interferon Signaling Process,biof,phsf,2,AFFECTS_BIOFafctPHSF
+C0599719,C3714584,AFFECTS,cell immortalization,"Transformation, function",biof,phsf,1,AFFECTS_BIOFafctPHSF
+C1160638,C0005529,AFFECTS,Viral life cycle,"Biological Transport, Active",biof,phsf,1,AFFECTS_BIOFafctPHSF
+C1537068,C0242732,AFFECTS,Virus Internalization,Tropism,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C1537068,C0243144,AFFECTS,Virus Internalization,Uptake,biof,phsf,2,AFFECTS_BIOFafctPHSF
+C1537068,C1328821,AFFECTS,Virus Internalization,tissue tropism,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C1537068,C4277517,AFFECTS,Virus Internalization,Host Tropism,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C1820201,C0020964,AFFECTS,tissue remodeling,Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C1820234,C1514892,AFFECTS,genitalia development,Resistance Process,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C3714634,C0020964,AFFECTS,Biological Processes,Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C3714634,C0149784,AFFECTS,Biological Processes,biological adaptation to stress,biof,phsf,1,AFFECTS_BIOFafctPHSF
+C3820740,C0020964,AFFECTS,viroporin,Immunity,biof,phsf,1,AFFECTS_BIOFafctPHSF

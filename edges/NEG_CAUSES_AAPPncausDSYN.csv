@@ -1,0 +1,61 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001924,C0151718,NEG_CAUSES,Albumins,Hypocholesterolemia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003009,C1175175,NEG_CAUSES,angiotensin II,Severe Acute Respiratory Syndrome,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003241,C0002792,NEG_CAUSES,Antibodies,anaphylaxis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003241,C0027697,NEG_CAUSES,Antibodies,Nephritis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003241,C0042164,NEG_CAUSES,Antibodies,Uveitis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003241,C0276479,NEG_CAUSES,Antibodies,Murine hepatitis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003241,C0948343,NEG_CAUSES,Antibodies,Transfusion-Related Acute Lung Injury,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0003250,C0002792,NEG_CAUSES,Monoclonal Antibodies,anaphylaxis,aapp,dsyn,3,NEG_CAUSES_AAPPncausDSYN
+C0004358,C0004364,NEG_CAUSES,Autoantibodies,Autoimmune Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0007332,C0002726,NEG_CAUSES,Caseins,Amyloidosis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0008742,C0032285,NEG_CAUSES,CHYMOTRYPSIN,Pneumonia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0009498,C0948343,NEG_CAUSES,Complement System Proteins,Transfusion-Related Acute Lung Injury,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0017645,C0004364,NEG_CAUSES,Globin,Autoimmune Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0021701,C0005779,NEG_CAUSES,Integrins,Blood Coagulation Disorders,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0023764,C0035222,NEG_CAUSES,Lipase,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0025252,C0004610,NEG_CAUSES,Membrane Proteins,Bacteremia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0025252,C0036690,NEG_CAUSES,Membrane Proteins,Septicemia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0027803,C0021400,NEG_CAUSES,Neuraminidase,Influenza,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0034800,C0016627,NEG_CAUSES,"Receptors, Cell Surface",Influenza in Birds,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0042720,C0026769,NEG_CAUSES,Viral Genome,Multiple Sclerosis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0042720,C0042769,NEG_CAUSES,Viral Genome,Virus Diseases,aapp,dsyn,2,NEG_CAUSES_AAPPncausDSYN
+C0079189,C0347950,NEG_CAUSES,cytokine,Asthma attack,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0079189,C1175175,NEG_CAUSES,cytokine,Severe Acute Respiratory Syndrome,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0079423,C0078911,NEG_CAUSES,"Genes, vpr",AIDS-Associated Nephropathy,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0085295,C0009319,NEG_CAUSES,Interleukin-10,Colitis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0282641,C0042769,NEG_CAUSES,Transgenes,Virus Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0282651,C0003850,NEG_CAUSES,Selectins,Arteriosclerosis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0301512,C0007682,NEG_CAUSES,Vaccinia virus vaccine,CNS disorder,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0370058,C0040034,NEG_CAUSES,Anti-platelet antibody,Thrombocytopenia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0393022,C0206062,NEG_CAUSES,rituximab,"Lung Diseases, Interstitial",aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0393022,C1535939,NEG_CAUSES,rituximab,Pneumocystis jiroveci pneumonia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0529196,C0014175,NEG_CAUSES,ADAM17 Protein,Endometriosis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0669365,C0856169,NEG_CAUSES,"NOS3 protein, human",endothelial dysfunction,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0700271,C0277548,NEG_CAUSES,"M Protein, multiple myeloma",Epidemic disease,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C0795657,C0023895,NEG_CAUSES,"alpha 1-proteinase inhibitor, human",Liver diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1122087,C1096155,NEG_CAUSES,adalimumab,Macrophage Activation Syndrome,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1310463,C0004364,NEG_CAUSES,"IFIH1 protein, human",Autoimmune Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1332386,C0497156,NEG_CAUSES,BCAR3 gene,Lymphadenopathy,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1332684,C0009450,NEG_CAUSES,CCL21 gene,Communicable Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1412268,C0206062,NEG_CAUSES,AES gene,"Lung Diseases, Interstitial",aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1412533,C0042769,NEG_CAUSES,ARIH1 gene,Virus Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1412688,C0001916,NEG_CAUSES,ATP7A gene,Albinism,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1414297,C0004364,NEG_CAUSES,EFEMP1 gene,Autoimmune Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1417510,C0276447,NEG_CAUSES,MX1 gene,Rhinovirus infection,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1420357,C0032285,NEG_CAUSES,SPHK1 gene,Pneumonia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1422064,C0020538,NEG_CAUSES,ACE2 gene,Hypertensive disease,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1422064,C1175175,NEG_CAUSES,ACE2 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1423842,C0035222,NEG_CAUSES,NELFCD gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1425830,C0032285,NEG_CAUSES,SPHK2 gene,Pneumonia,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1449159,C0010692,NEG_CAUSES,"CCL2 protein, human",Cystitis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1504769,C0003850,NEG_CAUSES,"DFFB protein, human",Arteriosclerosis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1504769,C0025309,NEG_CAUSES,"DFFB protein, human",Meningoencephalitis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1533698,C0001314,NEG_CAUSES,Nitric Oxide Synthase Type II,Acute Disease,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1537399,C0027697,NEG_CAUSES,IFIH1 gene,Nephritis,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1537719,C0239946,NEG_CAUSES,MIR21 gene,"Fibrosis, Liver",aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1539233,C0242917,NEG_CAUSES,DDX58 gene,Filoviridae Infections,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C1825598,C0035222,NEG_CAUSES,IMPACT gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C2744535,C0006267,NEG_CAUSES,"CD69 protein, human",Bronchiectasis,aapp,dsyn,2,NEG_CAUSES_AAPPncausDSYN
+C3273837,C0078911,NEG_CAUSES,S100B wt Allele,AIDS-Associated Nephropathy,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN
+C4320396,C0030499,NEG_CAUSES,HDGFL2 gene,Parasitic Diseases,aapp,dsyn,1,NEG_CAUSES_AAPPncausDSYN

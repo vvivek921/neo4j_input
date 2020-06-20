@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003272,C0301872,ISA,Antibody-Dependent Cellular Cytotoxicity,Immune response,celf,ortf,4,ISA_CELFisaORTF
+C0004391,C0301872,ISA,Autophagy,Immune response,celf,ortf,15,ISA_CELFisaORTF
+C0004391,C1817756,ISA,Autophagy,Immune System Processes,celf,ortf,2,ISA_CELFisaORTF
+C0007581,C1511806,ISA,Cellular Senescence,Developmental process,celf,ortf,1,ISA_CELFisaORTF
+C0010813,C0013936,ISA,Cytokinesis,Embryonic Development,celf,ortf,1,ISA_CELFisaORTF
+C0010813,C1511806,ISA,Cytokinesis,Developmental process,celf,ortf,2,ISA_CELFisaORTF
+C0024426,C1817756,ISA,Macrophage Activation,Immune System Processes,celf,ortf,1,ISA_CELFisaORTF
+C0031308,C0301872,ISA,Phagocytosis,Immune response,celf,ortf,2,ISA_CELFisaORTF
+C0031308,C1817756,ISA,Phagocytosis,Immune System Processes,celf,ortf,1,ISA_CELFisaORTF
+C0032176,C0005778,ISA,Platelet aggregation,Blood coagulation,celf,ortf,2,ISA_CELFisaORTF
+C0032176,C0019116,ISA,Platelet aggregation,Hemostatic function,celf,ortf,2,ISA_CELFisaORTF
+C0032176,C0032173,ISA,Platelet aggregation,Platelet Activation,celf,ortf,1,ISA_CELFisaORTF
+C0206430,C1817756,ISA,Antigen Processing,Immune System Processes,celf,ortf,1,ISA_CELFisaORTF
+C0206431,C0301872,ISA,Antigen Presentation,Immune response,celf,ortf,5,ISA_CELFisaORTF
+C0301896,C0301872,ISA,Cell-Mediated Cytolysis,Immune response,celf,ortf,1,ISA_CELFisaORTF
+C0596873,C0301872,ISA,lymphocyte proliferation,Immune response,celf,ortf,2,ISA_CELFisaORTF
+C0596991,C1511806,ISA,myelination,Developmental process,celf,ortf,1,ISA_CELFisaORTF
+C1155003,C0301872,ISA,B-Cell Activation,Immune response,celf,ortf,1,ISA_CELFisaORTF
+C1155065,C0301872,ISA,T-Cell Activation,Immune response,celf,ortf,4,ISA_CELFisaORTF
+C1155065,C1817756,ISA,T-Cell Activation,Immune System Processes,celf,ortf,1,ISA_CELFisaORTF
+C1155080,C0301872,ISA,T-helper 1 type immune response,Immune response,celf,ortf,3,ISA_CELFisaORTF
+C1155229,C0301872,ISA,Humoral immune response,Immune response,celf,ortf,2,ISA_CELFisaORTF
+C1155263,C0301872,ISA,T-helper 2 type immune response,Immune response,celf,ortf,1,ISA_CELFisaORTF
+C1159762,C0301872,ISA,opsonization,Immune response,celf,ortf,1,ISA_CELFisaORTF
+C1159762,C1817756,ISA,opsonization,Immune System Processes,celf,ortf,2,ISA_CELFisaORTF
+C1159970,C0598282,ISA,neuron differentiation,nervous system development,celf,ortf,1,ISA_CELFisaORTF
+C1326504,C0598282,ISA,neuron migration,nervous system development,celf,ortf,1,ISA_CELFisaORTF
+C1511002,C1817756,ISA,b cell differentiation,Immune System Processes,celf,ortf,1,ISA_CELFisaORTF
+C1515126,C1511806,ISA,T-Cell Development,Developmental process,celf,ortf,1,ISA_CELFisaORTF
+C1523908,C0301872,ISA,apoptotic cell clearance,Immune response,celf,ortf,1,ISA_CELFisaORTF
+C1622880,C0301872,ISA,eosinophil activation,Immune response,celf,ortf,1,ISA_CELFisaORTF
+C1709317,C0027540,ISA,Oncosis,Necrosis,celf,ortf,1,ISA_CELFisaORTF
+C2610958,C0027540,ISA,necroptotic process,Necrosis,celf,ortf,3,ISA_CELFisaORTF
+C2984268,C1511806,ISA,Axon Guidance,Developmental process,celf,ortf,1,ISA_CELFisaORTF
+C3546313,C0027540,ISA,programmed necrotic cell death,Necrosis,celf,ortf,1,ISA_CELFisaORTF
+C4236733,C0301872,ISA,xenophagy,Immune response,celf,ortf,1,ISA_CELFisaORTF

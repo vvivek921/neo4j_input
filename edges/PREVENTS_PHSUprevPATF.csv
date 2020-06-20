@@ -1,0 +1,111 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001645,C0019080,PREVENTS,Adrenergic beta-Antagonists,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0001645,C0021368,PREVENTS,Adrenergic beta-Antagonists,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0001645,C0026266,PREVENTS,Adrenergic beta-Antagonists,Mitral Valve Insufficiency,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0001648,C0700148,PREVENTS,Adrenergic Agonists,Congestion,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0002934,C0028778,PREVENTS,Local Anesthetics,Obstruction,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003015,C1155266,PREVENTS,Angiotensin-Converting Enzyme Inhibitors,inflammatory response,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003015,C1383860,PREVENTS,Angiotensin-Converting Enzyme Inhibitors,Cardiac Hypertrophy,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003138,C0019080,PREVENTS,Antacids,Hemorrhage,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003204,C3714514,PREVENTS,Anti-Infective Agents,Infection,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003205,C0010356,PREVENTS,"Anti-Infective Agents, Local",Cross Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003205,C0038941,PREVENTS,"Anti-Infective Agents, Local",Surgical Wound Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C0015376,PREVENTS,Anti-Inflammatory Agents,Extravasation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C0021368,PREVENTS,Anti-Inflammatory Agents,Inflammation,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003209,C0036983,PREVENTS,Anti-Inflammatory Agents,Septic Shock,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003209,C0152254,PREVENTS,Anti-Inflammatory Agents,Fatty degeneration,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C0236003,PREVENTS,Anti-Inflammatory Agents,Mucous membrane swelling,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C3670572,PREVENTS,Anti-Inflammatory Agents,Perivascular hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C3714514,PREVENTS,Anti-Inflammatory Agents,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003211,C0019080,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003211,C0021368,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Inflammation,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003280,C0029445,PREVENTS,Anticoagulants,Bone necrosis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003280,C1155266,PREVENTS,Anticoagulants,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003295,C0151763,PREVENTS,Antidote,Liver damage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003304,C0019080,PREVENTS,Antifibrinolytic Agents,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003308,C0021368,PREVENTS,Antifungal Agents,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003308,C0038941,PREVENTS,Antifungal Agents,Surgical Wound Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C0011164,PREVENTS,Antioxidants,Abnormal degeneration,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C0020517,PREVENTS,Antioxidants,Hypersensitivity,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C0021368,PREVENTS,Antioxidants,Inflammation,phsu,patf,4,PREVENTS_PHSUprevPATF
+C0003402,C0026766,PREVENTS,Antioxidants,Multiple Organ Failure,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C0151763,PREVENTS,Antioxidants,Liver damage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C1155266,PREVENTS,Antioxidants,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C1265828,PREVENTS,Antioxidants,Progressive inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003419,C0242656,PREVENTS,Antipyretics,Disease Progression,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C0162633,PREVENTS,Antiviral Agents,Viral Shedding,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003451,C0242656,PREVENTS,Antiviral Agents,Disease Progression,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C0281169,PREVENTS,Antiviral Agents,pulmonary complications,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C0544688,PREVENTS,Antiviral Agents,complication of disease,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C1373218,PREVENTS,Antiviral Agents,Decreased Immunologic Activity [PE],phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C3714514,PREVENTS,Antiviral Agents,Infection,phsu,patf,6,PREVENTS_PHSUprevPATF
+C0006280,C0021368,PREVENTS,Bronchodilator Agents,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0009117,C0021368,PREVENTS,Coagulants,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0020592,C0221791,PREVENTS,Hypnotics and Sedatives,medical complication,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0031638,C0021368,PREVENTS,Phosphodiesterase Inhibitors,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0040616,C0019080,PREVENTS,Anti-Anxiety Agents,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0041044,C3714514,PREVENTS,Trimethoprim-Sulfamethoxazole Combination,Infection,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0042397,C0019080,PREVENTS,Vasoconstrictor Agents,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0042398,C0700148,PREVENTS,Nasal Decongestants,Congestion,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0042402,C0020542,PREVENTS,Vasodilator Agents,Pulmonary Hypertension,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0057257,C0021368,PREVENTS,defibrotide,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0069761,C3714514,PREVENTS,oxfendazole,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0074690,C0001511,PREVENTS,Smectite,Tissue Adhesions,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0086440,C0029445,PREVENTS,Hypolipidemic Agents,Bone necrosis,phsu,patf,3,PREVENTS_PHSUprevPATF
+C0242937,C0004144,PREVENTS,"Analgesics, Non-Narcotic",Atelectasis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0282374,C0028778,PREVENTS,Decongestants,Obstruction,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0282374,C0700148,PREVENTS,Decongestants,Congestion,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0282555,C0021368,PREVENTS,Anti-Allergic Agents,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0302837,C0029445,PREVENTS,Vitamin supplementation,Bone necrosis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0302837,C0032914,PREVENTS,Vitamin supplementation,Pre-Eclampsia,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0302837,C4061114,PREVENTS,Vitamin supplementation,Acute illness,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0304462,C0242781,PREVENTS,Urinary acidifier,disease transmission,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0304604,C0019080,PREVENTS,Topical form corticosteroids,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0304604,C0021368,PREVENTS,Topical form corticosteroids,Inflammation,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0354100,C0546817,PREVENTS,Loop Diuretics,Fluid overload,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0358591,C0017181,PREVENTS,Proton Pump Inhibitors,Gastrointestinal Hemorrhage,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0358591,C0019080,PREVENTS,Proton Pump Inhibitors,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0358591,C0021368,PREVENTS,Proton Pump Inhibitors,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0443121,C0019080,PREVENTS,Cryoprecipitate,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0443121,C0032788,PREVENTS,Cryoprecipitate,Postoperative Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0443121,C1262018,PREVENTS,Cryoprecipitate,Graft failure,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0456388,C3714514,PREVENTS,Blood product,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0521942,C0242656,PREVENTS,Angiotensin II receptor antagonist,Disease Progression,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0521942,C1155266,PREVENTS,Angiotensin II receptor antagonist,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0593802,C0920563,PREVENTS,Aromatase Inhibitors,Insulin Sensitivity,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0600437,C0021368,PREVENTS,Nitric Oxide Donors,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0625048,C0029445,PREVENTS,epimedii,Bone necrosis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0723197,C0700148,PREVENTS,Saline Nasal Mist,Congestion,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0723738,C0040038,PREVENTS,Thrombate III,Thromboembolism,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0872285,C0020517,PREVENTS,therapeutic protein,Hypersensitivity,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1136254,C0001511,PREVENTS,Microbicides,Tissue Adhesions,phsu,patf,2,PREVENTS_PHSUprevPATF
+C1136254,C0392618,PREVENTS,Microbicides,Postoperative infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1136254,C0543419,PREVENTS,Microbicides,Sequela of disorder,phsu,patf,2,PREVENTS_PHSUprevPATF
+C1136254,C1520005,PREVENTS,Microbicides,Viral Pathogenesis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1136254,C3714514,PREVENTS,Microbicides,Infection,phsu,patf,4,PREVENTS_PHSUprevPATF
+C1330330,C3714514,PREVENTS,Hand Sanitizers,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1443650,C1155266,PREVENTS,Neuraminidase inhibitor,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1443650,C3714514,PREVENTS,Neuraminidase inhibitor,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1513016,C0015376,PREVENTS,Matrix Metalloproteinase Inhibitors,Extravasation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1513016,C0040428,PREVENTS,Matrix Metalloproteinase Inhibitors,Tooth Abrasion,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1514727,C0021368,PREVENTS,Ras Inhibitor,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1874451,C0010356,PREVENTS,Basis,Cross Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1874451,C0043241,PREVENTS,Basis,Wound Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1874451,C0242656,PREVENTS,Basis,Disease Progression,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1979715,C0019080,PREVENTS,H2 receptor blockers,Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C2348075,C0021368,PREVENTS,darapladib,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C2718558,C4289744,PREVENTS,Absolute Ethanol Solution,Contact Transmission,phsu,patf,1,PREVENTS_PHSUprevPATF
+C2917414,C3714514,PREVENTS,Recombinant Human Deoxyribonuclease 1 [EPC],Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C2954564,C1155266,PREVENTS,Suppressor,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C2987634,C0015376,PREVENTS,Agonist,Extravasation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3282879,C4061114,PREVENTS,CVT-E002,Acute illness,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539125,C0010356,PREVENTS,other medicated shampoos in ATC,Cross Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539125,C0015376,PREVENTS,other medicated shampoos in ATC,Extravasation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539125,C0162633,PREVENTS,other medicated shampoos in ATC,Viral Shedding,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539125,C0242781,PREVENTS,other medicated shampoos in ATC,disease transmission,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539125,C0333186,PREVENTS,other medicated shampoos in ATC,Restenosis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539125,C1383860,PREVENTS,other medicated shampoos in ATC,Cardiac Hypertrophy,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3539957,C0011304,PREVENTS,opium alkaloids and derivative combination cough suppressants,Demyelination,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3541969,C3714514,PREVENTS,"Neuraminidase inhibitors, direct acting antivirals",Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C4020575,C0728867,PREVENTS,Treatment-Resistant,Drug effect disorder,phsu,patf,1,PREVENTS_PHSUprevPATF
+C4305974,C0020564,PREVENTS,Recombinant alpha 1-antitrypsin,Hypertrophy,phsu,patf,1,PREVENTS_PHSUprevPATF

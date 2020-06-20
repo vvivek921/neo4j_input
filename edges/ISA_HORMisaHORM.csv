@@ -1,0 +1,64 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0301818,ISA,Adrenal Cortex Hormones,Steroid hormone,horm,horm,5,ISA_HORMisaHORM
+C0002006,C0026160,ISA,Aldosterone,Mineralocorticoids,horm,horm,3,ISA_HORMisaHORM
+C0002006,C0301818,ISA,Aldosterone,Steroid hormone,horm,horm,2,ISA_HORMisaHORM
+C0002844,C0036884,ISA,Androgens,Gonadal Steroid Hormones,horm,horm,2,ISA_HORMisaHORM
+C0002845,C0002844,ISA,"Androgens, Synthetic",Androgens,horm,horm,1,ISA_HORMisaHORM
+C0002845,C1289975,ISA,"Androgens, Synthetic",androgenic steroid,horm,horm,1,ISA_HORMisaHORM
+C0002860,C0036884,ISA,Androstenedione,Gonadal Steroid Hormones,horm,horm,1,ISA_HORMisaHORM
+C0005308,C0001617,ISA,Betamethasone,Adrenal Cortex Hormones,horm,horm,2,ISA_HORMisaHORM
+C0005308,C0017710,ISA,Betamethasone,Glucocorticoids,horm,horm,2,ISA_HORMisaHORM
+C0010124,C0017710,ISA,Corticosterone,Glucocorticoids,horm,horm,4,ISA_HORMisaHORM
+C0010137,C0020268,ISA,Cortisone,Hydrocortisone,horm,horm,1,ISA_HORMisaHORM
+C0010137,C0301818,ISA,Cortisone,Steroid hormone,horm,horm,1,ISA_HORMisaHORM
+C0010961,C0002844,ISA,Danazol,Androgens,horm,horm,4,ISA_HORMisaHORM
+C0011185,C0002844,ISA,prasterone,Androgens,horm,horm,3,ISA_HORMisaHORM
+C0011185,C0036884,ISA,prasterone,Gonadal Steroid Hormones,horm,horm,2,ISA_HORMisaHORM
+C0012472,C0033554,ISA,Dinoprostone,Prostaglandins,horm,horm,17,ISA_HORMisaHORM
+C0014563,C0001617,ISA,Epinephrine,Adrenal Cortex Hormones,horm,horm,2,ISA_HORMisaHORM
+C0014563,C0017710,ISA,Epinephrine,Glucocorticoids,horm,horm,2,ISA_HORMisaHORM
+C0014912,C0014939,ISA,Estradiol,Estrogens,horm,horm,8,ISA_HORMisaHORM
+C0014912,C0036884,ISA,Estradiol,Gonadal Steroid Hormones,horm,horm,3,ISA_HORMisaHORM
+C0014912,C0301818,ISA,Estradiol,Steroid hormone,horm,horm,1,ISA_HORMisaHORM
+C0014912,C0597376,ISA,Estradiol,reproductive hormone,horm,horm,1,ISA_HORMisaHORM
+C0014912,C0682762,ISA,Estradiol,pregnancy hormones,horm,horm,1,ISA_HORMisaHORM
+C0014938,C0014939,ISA,"Estrogens, Conjugated (USP)",Estrogens,horm,horm,1,ISA_HORMisaHORM
+C0014939,C0036884,ISA,Estrogens,Gonadal Steroid Hormones,horm,horm,7,ISA_HORMisaHORM
+C0014939,C0301818,ISA,Estrogens,Steroid hormone,horm,horm,2,ISA_HORMisaHORM
+C0015011,C0014939,ISA,Ethinyl Estradiol,Estrogens,horm,horm,1,ISA_HORMisaHORM
+C0016280,C0026160,ISA,Fludrocortisone,Mineralocorticoids,horm,horm,2,ISA_HORMisaHORM
+C0017710,C0001617,ISA,Glucocorticoids,Adrenal Cortex Hormones,horm,horm,1,ISA_HORMisaHORM
+C0017710,C1445654,ISA,Glucocorticoids,Adrenal hormone preparation,horm,horm,1,ISA_HORMisaHORM
+C0020268,C0001617,ISA,Hydrocortisone,Adrenal Cortex Hormones,horm,horm,8,ISA_HORMisaHORM
+C0020268,C0017710,ISA,Hydrocortisone,Glucocorticoids,horm,horm,14,ISA_HORMisaHORM
+C0020268,C0301818,ISA,Hydrocortisone,Steroid hormone,horm,horm,5,ISA_HORMisaHORM
+C0025175,C0033306,ISA,Megestrol,Progestins,horm,horm,1,ISA_HORMisaHORM
+C0025219,C0597049,ISA,Melatonin,Neurohormones,horm,horm,2,ISA_HORMisaHORM
+C0025815,C0001617,ISA,Methylprednisolone,Adrenal Cortex Hormones,horm,horm,18,ISA_HORMisaHORM
+C0025815,C0017710,ISA,Methylprednisolone,Glucocorticoids,horm,horm,12,ISA_HORMisaHORM
+C0025815,C1445654,ISA,Methylprednisolone,Adrenal hormone preparation,horm,horm,1,ISA_HORMisaHORM
+C0028351,C0001617,ISA,Norepinephrine,Adrenal Cortex Hormones,horm,horm,1,ISA_HORMisaHORM
+C0028351,C0014563,ISA,Norepinephrine,Epinephrine,horm,horm,5,ISA_HORMisaHORM
+C0028368,C0301818,ISA,Norgestrel,Steroid hormone,horm,horm,1,ISA_HORMisaHORM
+C0032952,C0001617,ISA,Prednisone,Adrenal Cortex Hormones,horm,horm,9,ISA_HORMisaHORM
+C0032952,C0017710,ISA,Prednisone,Glucocorticoids,horm,horm,5,ISA_HORMisaHORM
+C0033306,C0036884,ISA,Progestins,Gonadal Steroid Hormones,horm,horm,1,ISA_HORMisaHORM
+C0033308,C0036884,ISA,Progesterone,Gonadal Steroid Hormones,horm,horm,3,ISA_HORMisaHORM
+C0033308,C0301818,ISA,Progesterone,Steroid hormone,horm,horm,5,ISA_HORMisaHORM
+C0033308,C0597376,ISA,Progesterone,reproductive hormone,horm,horm,1,ISA_HORMisaHORM
+C0036884,C0301818,ISA,Gonadal Steroid Hormones,Steroid hormone,horm,horm,2,ISA_HORMisaHORM
+C0038148,C0002844,ISA,Dihydrotestosterone,Androgens,horm,horm,4,ISA_HORMisaHORM
+C0038148,C0039601,ISA,Dihydrotestosterone,Testosterone,horm,horm,1,ISA_HORMisaHORM
+C0039601,C0002844,ISA,Testosterone,Androgens,horm,horm,5,ISA_HORMisaHORM
+C0039601,C0036884,ISA,Testosterone,Gonadal Steroid Hormones,horm,horm,2,ISA_HORMisaHORM
+C0039601,C0301818,ISA,Testosterone,Steroid hormone,horm,horm,1,ISA_HORMisaHORM
+C0045010,C0033308,ISA,17-alpha-Hydroxyprogesterone,Progesterone,horm,horm,1,ISA_HORMisaHORM
+C0059610,C0014939,ISA,estradiol cypionate,Estrogens,horm,horm,1,ISA_HORMisaHORM
+C0065879,C0033307,ISA,Megestrol Acetate,"Progestational Hormones, Synthetic",horm,horm,1,ISA_HORMisaHORM
+C0065879,C0033308,ISA,Megestrol Acetate,Progesterone,horm,horm,1,ISA_HORMisaHORM
+C0068395,C0002845,ISA,nandrolone decanoate,"Androgens, Synthetic",horm,horm,2,ISA_HORMisaHORM
+C0071717,C0058915,ISA,ponasterone A,Ecdysteroids,horm,horm,1,ISA_HORMisaHORM
+C0699710,C0014938,ISA,Premarin,"Estrogens, Conjugated (USP)",horm,horm,1,ISA_HORMisaHORM
+C0699710,C0014939,ISA,Premarin,Estrogens,horm,horm,2,ISA_HORMisaHORM
+C0720298,C0301818,ISA,Estrogenic,Steroid hormone,horm,horm,1,ISA_HORMisaHORM
+C0733353,C0065879,ISA,Ovaban,Megestrol Acetate,horm,horm,1,ISA_HORMisaHORM

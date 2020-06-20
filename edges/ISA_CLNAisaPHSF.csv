@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005850,C0005775,ISA,Blood Volume,Blood Circulation,clna,phsf,2,ISA_CLNAisaPHSF
+C0005850,C0232338,ISA,Blood Volume,Blood flow,clna,phsf,1,ISA_CLNAisaPHSF
+C0007165,C0232338,ISA,Cardiac Output,Blood flow,clna,phsf,3,ISA_CLNAisaPHSF
+C0026687,C0035245,ISA,Mucociliary Clearance,Respiratory physiology,clna,phsf,1,ISA_CLNAisaPHSF
+C0162521,C0035245,ISA,Exercise Tolerance,Respiratory physiology,clna,phsf,1,ISA_CLNAisaPHSF
+C0231832,C0035203,ISA,Respiratory rate,Respiration,clna,phsf,5,ISA_CLNAisaPHSF
+C1384388,C0035203,ISA,Maximum breathing capacity function,Respiration,clna,phsf,1,ISA_CLNAisaPHSF

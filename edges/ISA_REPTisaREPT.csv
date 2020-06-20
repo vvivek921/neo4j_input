@@ -1,0 +1,82 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002123,C1260946,ISA,Alligators,Order crocodilia,rept,rept,1,ISA_REPTisaREPT
+C0010345,C0035161,ISA,Crocodylus,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0010345,C1260946,ISA,Crocodylus,Order crocodilia,rept,rept,1,ISA_REPTisaREPT
+C0020864,C0035161,ISA,Iguanas,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0020864,C1004231,ISA,Iguanas,Sauria,rept,rept,1,ISA_REPTisaREPT
+C0023916,C0035161,ISA,Lizards,Reptiles,rept,rept,3,ISA_REPTisaREPT
+C0023916,C1004231,ISA,Lizards,Sauria,rept,rept,1,ISA_REPTisaREPT
+C0037382,C0035161,ISA,Snakes,Reptiles,rept,rept,7,ISA_REPTisaREPT
+C0041412,C0035161,ISA,Turtle,Reptiles,rept,rept,4,ISA_REPTisaREPT
+C0041412,C0327093,ISA,Turtle,Order Chelonia,rept,rept,1,ISA_REPTisaREPT
+C0079078,C1260946,ISA,Caimans,Order crocodilia,rept,rept,1,ISA_REPTisaREPT
+C0206301,C0037382,ISA,Viperidae,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0206313,C0037382,ISA,Bothrops jararaca,Snakes,rept,rept,2,ISA_REPTisaREPT
+C0206317,C0037382,ISA,Crotalus,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0206326,C0037382,ISA,Cobra,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0206326,C0206288,ISA,Cobra,Elapidae,rept,rept,1,ISA_REPTisaREPT
+C0327117,C0041412,ISA,Testudinidae,Turtle,rept,rept,1,ISA_REPTisaREPT
+C0327122,C3428461,ISA,Geochelone nigra,Chelonoidis nigra species complex,rept,rept,1,ISA_REPTisaREPT
+C0327129,C0041412,ISA,Geochelone denticulata,Turtle,rept,rept,1,ISA_REPTisaREPT
+C0327156,C0035161,ISA,Rhynchocephalia,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0327158,C0327156,ISA,Tuatara,Rhynchocephalia,rept,rept,1,ISA_REPTisaREPT
+C0327164,C0010345,ISA,Crocodylus niloticus,Crocodylus,rept,rept,1,ISA_REPTisaREPT
+C0327176,C0023916,ISA,Geckos,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327197,C0023916,ISA,Amphibolurus,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327204,C0023916,ISA,Family Chamaeleonidae (organism),Lizards,rept,rept,1,ISA_REPTisaREPT
+C0327213,C0020864,ISA,Iguana iguana,Iguanas,rept,rept,2,ISA_REPTisaREPT
+C0327213,C0035161,ISA,Iguana iguana,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0327219,C0023916,ISA,Sceloporus,Lizards,rept,rept,1,ISA_REPTisaREPT
+C0327221,C0023916,ISA,Anolis carolinensis,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327229,C1265559,ISA,Skink,Squamata,rept,rept,1,ISA_REPTisaREPT
+C0327230,C0023916,ISA,Tiliqua,Lizards,rept,rept,1,ISA_REPTisaREPT
+C0327237,C0023916,ISA,Trachydosaurus rugosus,Lizards,rept,rept,13,ISA_REPTisaREPT
+C0327241,C0327240,ISA,Cordylus cataphractus,Cordylus,rept,rept,2,ISA_REPTisaREPT
+C0327245,C0023916,ISA,Gerrhosaurid,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327268,C0023916,ISA,Heloderma suspectum,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327278,C0023916,ISA,Varanus komodoensis,Lizards,rept,rept,1,ISA_REPTisaREPT
+C0327300,C0037382,ISA,Python regius,Snakes,rept,rept,2,ISA_REPTisaREPT
+C0327302,C0206304,ISA,Python molurus,Genus Python (organism),rept,rept,1,ISA_REPTisaREPT
+C0327419,C0206343,ISA,Lapemis curtus,Hydrophiidae,rept,rept,1,ISA_REPTisaREPT
+C0327434,C0037382,ISA,Naja mossambica,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327439,C0037382,ISA,Monocled Cobra,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327473,C0037382,ISA,Bungarus multicinctus,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327473,C0206288,ISA,Bungarus multicinctus,Elapidae,rept,rept,1,ISA_REPTisaREPT
+C0327499,C0037382,ISA,Gaboon Viper,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327519,C0037382,ISA,Agkistrodon halys blomhoffi,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327519,C0327512,ISA,Agkistrodon halys blomhoffi,Crotalinae,rept,rept,1,ISA_REPTisaREPT
+C0327533,C0206317,ISA,Crotalus adamanteus,Crotalus,rept,rept,2,ISA_REPTisaREPT
+C0327539,C0206317,ISA,Crotalus durissus,Crotalus,rept,rept,1,ISA_REPTisaREPT
+C0327541,C0206317,ISA,Crotalus viridis,Crotalus,rept,rept,1,ISA_REPTisaREPT
+C0327544,C0206317,ISA,Crotalus unicolor,Crotalus,rept,rept,1,ISA_REPTisaREPT
+C0999068,C0041412,ISA,Caretta caretta,Turtle,rept,rept,3,ISA_REPTisaREPT
+C0999068,C1001720,ISA,Caretta caretta,Chelonioidea,rept,rept,1,ISA_REPTisaREPT
+C0999071,C0327111,ISA,Chrysemys picta,Genus Chrysemys,rept,rept,1,ISA_REPTisaREPT
+C0999090,C0023916,ISA,Ameiva ameiva,Lizards,rept,rept,1,ISA_REPTisaREPT
+C0999101,C0999091,ISA,Xantusia vigilis,Xantusiidae,rept,rept,1,ISA_REPTisaREPT
+C1005353,C0041412,ISA,Trachemys,Turtle,rept,rept,2,ISA_REPTisaREPT
+C1005396,C0206281,ISA,Thamnophis sirtalis,Thamnophis,rept,rept,1,ISA_REPTisaREPT
+C1016267,C0327292,ISA,Corallus annulatus,Genus Corallus,rept,rept,2,ISA_REPTisaREPT
+C1016518,C0035161,ISA,Agama,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C1024097,C0023916,ISA,Chalcides ocellatus,Lizards,rept,rept,1,ISA_REPTisaREPT
+C1025381,C0327257,ISA,Podarcis siculus,Podarcis,rept,rept,1,ISA_REPTisaREPT
+C1038339,C0041412,ISA,Testudo graeca,Turtle,rept,rept,2,ISA_REPTisaREPT
+C1038340,C0041412,ISA,Testudo hermanni,Turtle,rept,rept,1,ISA_REPTisaREPT
+C1041315,C0327204,ISA,Chamaeleo dilepis,Family Chamaeleonidae (organism),rept,rept,1,ISA_REPTisaREPT
+C1044984,C0037382,ISA,Bothrops moojeni,Snakes,rept,rept,1,ISA_REPTisaREPT
+C1046444,C0206280,ISA,Natrix natrix (reptile),Water Snake,rept,rept,1,ISA_REPTisaREPT
+C1062411,C0206304,ISA,Apodora papuana,Genus Python (organism),rept,rept,1,ISA_REPTisaREPT
+C1070723,C0327176,ISA,Gekko japonicus,Geckos,rept,rept,1,ISA_REPTisaREPT
+C1085171,C0023916,ISA,Tiliqua scincoides,Lizards,rept,rept,1,ISA_REPTisaREPT
+C1188007,C0023916,ISA,Pogona vitticeps,Lizards,rept,rept,2,ISA_REPTisaREPT
+C1188007,C0035161,ISA,Pogona vitticeps,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C1205116,C0327204,ISA,Trioceros montium,Family Chamaeleonidae (organism),rept,rept,1,ISA_REPTisaREPT
+C1208677,C0010345,ISA,Crocodylus johnsoni,Crocodylus,rept,rept,1,ISA_REPTisaREPT
+C1213427,C0079078,ISA,Caiman latirostris,Caimans,rept,rept,1,ISA_REPTisaREPT
+C1231323,C0023916,ISA,Tiliqua adelaidensis,Lizards,rept,rept,1,ISA_REPTisaREPT
+C1321556,C0327123,ISA,Gopherus polyphemus,Genus Gopherus,rept,rept,1,ISA_REPTisaREPT
+C1622414,C0037382,ISA,Fer-de-Lance,Snakes,rept,rept,1,ISA_REPTisaREPT
+C2295753,C0023916,ISA,Gambelia sila,Lizards,rept,rept,1,ISA_REPTisaREPT
+C3081294,C0936035,ISA,Chelodina mccordi,Genus Chelodina,rept,rept,1,ISA_REPTisaREPT
+C3081299,C0041412,ISA,Geochelone chilensis,Turtle,rept,rept,1,ISA_REPTisaREPT
+C3579535,C0023916,ISA,Cnemaspis africana,Lizards,rept,rept,1,ISA_REPTisaREPT

@@ -1,0 +1,53 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C0038884,AFFECTS,Blood Circulation,Surface Properties,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0014272,C2348693,AFFECTS,Energy Metabolism,Flux,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0020119,C0679215,AFFECTS,Human Development,health and disease,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0020119,C3826426,AFFECTS,Human Development,Dynamics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0020964,C0008946,AFFECTS,Immunity,Climate,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0020964,C0022702,AFFECTS,Immunity,Kinetics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0020964,C0301630,AFFECTS,Immunity,Reduction (chemical),phsf,npop,3,AFFECTS_PHSFafctNPOP
+C0020964,C2348693,AFFECTS,Immunity,Flux,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0020964,C3826426,AFFECTS,Immunity,Dynamics,phsf,npop,6,AFFECTS_PHSFafctNPOP
+C0035203,C0001876,AFFECTS,Respiration,Air Pressure,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0035203,C0020167,AFFECTS,Respiration,Humidity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0035203,C0376706,AFFECTS,Respiration,Mechanics,phsf,npop,4,AFFECTS_PHSFafctNPOP
+C0035203,C0522534,AFFECTS,Respiration,Saturated,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0035203,C0678568,AFFECTS,Respiration,Cool - action,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0035203,C0806140,AFFECTS,Respiration,Flow,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0035203,C3826426,AFFECTS,Respiration,Dynamics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0035245,C0013764,AFFECTS,Respiratory physiology,elasticity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0149784,C3826426,AFFECTS,biological adaptation to stress,Dynamics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0231999,C0012222,AFFECTS,Airflow,Diffusion,phsf,npop,2,AFFECTS_PHSFafctNPOP
+C0231999,C0028884,AFFECTS,Airflow,Odors,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0231999,C0162691,AFFECTS,Airflow,Friction,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0231999,C0563597,AFFECTS,Airflow,Momentum,phsf,npop,2,AFFECTS_PHSFafctNPOP
+C0231999,C1537026,AFFECTS,Airflow,laminar flow,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0232338,C0806140,AFFECTS,Blood flow,Flow,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0232896,C3826426,AFFECTS,Reproductive function,Dynamics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0242599,C1948023,AFFECTS,Neutrophil Activation,Stimulation (motivation),phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0242732,C0003317,AFFECTS,Tropism,Antigenic Specificity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0242732,C2936412,AFFECTS,Tropism,Host Specificity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0243144,C0022702,AFFECTS,Uptake,Kinetics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0243144,C0042333,AFFECTS,Uptake,Variation (Genetics),phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0243144,C0243178,AFFECTS,Uptake,chemical properties,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0243144,C0376534,AFFECTS,Uptake,Electrostatics,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0243144,C0596583,AFFECTS,Uptake,Food Chain,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0243144,C2348693,AFFECTS,Uptake,Flux,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0349389,C0013777,AFFECTS,Hopping,Electric Conductivity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0442696,C0806140,AFFECTS,Waking,Flow,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C0678209,C0037783,AFFECTS,Adaptive Immunity,Species Specificity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1258192,C0042333,AFFECTS,Total Peripheral Resistance,Variation (Genetics),phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1328821,C0037783,AFFECTS,tissue tropism,Species Specificity,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1328821,C0042333,AFFECTS,tissue tropism,Variation (Genetics),phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1328821,C2936413,AFFECTS,tissue tropism,Host Range,phsf,npop,2,AFFECTS_PHSFafctNPOP
+C1514892,C0020291,AFFECTS,Resistance Process,Hydrolysis,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1514892,C0034538,AFFECTS,Resistance Process,Ionizing radiation,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1514892,C0041625,AFFECTS,Resistance Process,Ultraviolet Rays,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1514892,C0243052,AFFECTS,Resistance Process,Virus Physiological Phenomena,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1514892,C1948023,AFFECTS,Resistance Process,Stimulation (motivation),phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1704520,C0005495,AFFECTS,Primary Respiratory Mechanism,Origin of Life,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1704520,C0376525,AFFECTS,Primary Respiratory Mechanism,Dimerization,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1704520,C2717975,AFFECTS,Primary Respiratory Mechanism,Virus Release,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C1720791,C0599514,AFFECTS,Nutritional Physiological Phenomena,Mutualism,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C3714584,C0017982,AFFECTS,"Transformation, function",glycosylation,phsf,npop,1,AFFECTS_PHSFafctNPOP
+C4277517,C0042333,AFFECTS,Host Tropism,Variation (Genetics),phsf,npop,1,AFFECTS_PHSFafctNPOP

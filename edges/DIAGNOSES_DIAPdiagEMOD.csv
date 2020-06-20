@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0032224,C2986594,DIAGNOSES,"Plethysmography, Whole Body",Mouse Model,diap,emod,1,DIAGNOSES_DIAPdiagEMOD
+C0332140,C0012644,DIAGNOSES,"Diagnosis, clinical",Animal Disease Models,diap,emod,1,DIAGNOSES_DIAPdiagEMOD
+C1136118,C0012644,DIAGNOSES,"Toxicity Tests, Chronic",Animal Disease Models,diap,emod,1,DIAGNOSES_DIAPdiagEMOD
+C1537007,C0014072,DIAGNOSES,Diffusion Tensor Imaging,Experimental Autoimmune Encephalomyelitis,diap,emod,1,DIAGNOSES_DIAPdiagEMOD
+C1964257,C0012644,DIAGNOSES,Observation - diagnostic procedure,Animal Disease Models,diap,emod,2,DIAGNOSES_DIAPdiagEMOD
+C1964257,C1519606,DIAGNOSES,Observation - diagnostic procedure,Transgenic Model,diap,emod,2,DIAGNOSES_DIAPdiagEMOD
+C1964257,C2986594,DIAGNOSES,Observation - diagnostic procedure,Mouse Model,diap,emod,7,DIAGNOSES_DIAPdiagEMOD

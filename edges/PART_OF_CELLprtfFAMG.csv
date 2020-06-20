@@ -1,0 +1,102 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004561,C0011011,PART_OF,B-Lymphocytes,Daughter,cell,famg,1,PART_OF_CELLprtfFAMG
+C0004561,C0015576,PART_OF,B-Lymphocytes,Family,cell,famg,2,PART_OF_CELLprtfFAMG
+C0004561,C0680063,PART_OF,B-Lymphocytes,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0004561,C0870134,PART_OF,B-Lymphocytes,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0005773,C0870134,PART_OF,Blood Cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0007600,C0030551,PART_OF,Cultured Cell Line,parent,cell,famg,15,PART_OF_CELLprtfFAMG
+C0007600,C0337514,PART_OF,Cultured Cell Line,Sister,cell,famg,1,PART_OF_CELLprtfFAMG
+C0009013,C0011011,PART_OF,Clone Cells,Daughter,cell,famg,1,PART_OF_CELLprtfFAMG
+C0009013,C0015576,PART_OF,Clone Cells,Family,cell,famg,2,PART_OF_CELLprtfFAMG
+C0009013,C0026753,PART_OF,Clone Cells,Multiple Birth Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0009013,C0030551,PART_OF,Clone Cells,parent,cell,famg,23,PART_OF_CELLprtfFAMG
+C0009013,C0037047,PART_OF,Clone Cells,Sibling,cell,famg,4,PART_OF_CELLprtfFAMG
+C0009013,C0086282,PART_OF,Clone Cells,Family member,cell,famg,3,PART_OF_CELLprtfFAMG
+C0009013,C0337514,PART_OF,Clone Cells,Sister,cell,famg,2,PART_OF_CELLprtfFAMG
+C0009013,C0870134,PART_OF,Clone Cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0011306,C0015576,PART_OF,Dendritic Cells,Family,cell,famg,1,PART_OF_CELLprtfFAMG
+C0014597,C0870134,PART_OF,Epithelial Cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0015161,C0870134,PART_OF,Eukaryotic Cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0016030,C0870134,PART_OF,Fibroblasts,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0017471,C0011011,PART_OF,Germ Cells,Daughter,cell,famg,1,PART_OF_CELLprtfFAMG
+C0017471,C0680063,PART_OF,Germ Cells,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0017473,C0030551,PART_OF,Germ Line,parent,cell,famg,2,PART_OF_CELLprtfFAMG
+C0017473,C0870134,PART_OF,Germ Line,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0018873,C0030551,PART_OF,HeLa Cells,parent,cell,famg,7,PART_OF_CELLprtfFAMG
+C0018956,C0870134,PART_OF,Hematopoietic stem cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0022539,C0030551,PART_OF,KB Cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0022688,C0015576,PART_OF,Natural Killer Cells,Family,cell,famg,1,PART_OF_CELLprtfFAMG
+C0022688,C0026591,PART_OF,Natural Killer Cells,Mother (person),cell,famg,1,PART_OF_CELLprtfFAMG
+C0022827,C0030551,PART_OF,L Cells (Cell Line),parent,cell,famg,2,PART_OF_CELLprtfFAMG
+C0023516,C0026591,PART_OF,Leukocytes,Mother (person),cell,famg,1,PART_OF_CELLprtfFAMG
+C0023602,C0870134,PART_OF,Structure of interstitial cell of Leydig,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0024432,C0026753,PART_OF,macrophage,Multiple Birth Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0024432,C0870134,PART_OF,macrophage,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0027836,C0870134,PART_OF,Neuroglia,ancestors,cell,famg,21,PART_OF_CELLprtfFAMG
+C0027950,C0870134,PART_OF,neutrophil,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0028944,C0870134,PART_OF,Oligodendroglia,ancestors,cell,famg,5,PART_OF_CELLprtfFAMG
+C0029045,C0680063,PART_OF,Oocytes,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0029974,C0030551,PART_OF,Ovum,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0037868,C0680063,PART_OF,sperm cell,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0038250,C0011011,PART_OF,Stem cells,Daughter,cell,famg,1,PART_OF_CELLprtfFAMG
+C0038250,C0030551,PART_OF,Stem cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0038250,C0041427,PART_OF,Stem cells,Twin sibling (person),cell,famg,1,PART_OF_CELLprtfFAMG
+C0038250,C0870134,PART_OF,Stem cells,ancestors,cell,famg,122,PART_OF_CELLprtfFAMG
+C0039194,C0011011,PART_OF,T-Lymphocyte,Daughter,cell,famg,2,PART_OF_CELLprtfFAMG
+C0039194,C0015576,PART_OF,T-Lymphocyte,Family,cell,famg,1,PART_OF_CELLprtfFAMG
+C0039194,C0030551,PART_OF,T-Lymphocyte,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0039194,C0870134,PART_OF,T-Lymphocyte,ancestors,cell,famg,2,PART_OF_CELLprtfFAMG
+C0039195,C0011011,PART_OF,Cytotoxic T-Lymphocytes,Daughter,cell,famg,1,PART_OF_CELLprtfFAMG
+C0039215,C0030551,PART_OF,CD4 Positive T Lymphocytes,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0042542,C0030551,PART_OF,Vero Cells,parent,cell,famg,5,PART_OF_CELLprtfFAMG
+C0085080,C0030551,PART_OF,Chinese Hamster Ovary Cell,parent,cell,famg,21,PART_OF_CELLprtfFAMG
+C0085087,C0030551,PART_OF,3T3 Cells,parent,cell,famg,3,PART_OF_CELLprtfFAMG
+C0085820,C0011011,PART_OF,Antibody-Secreting Cells,Daughter,cell,famg,4,PART_OF_CELLprtfFAMG
+C0162597,C0870134,PART_OF,Stromal Cells,ancestors,cell,famg,3,PART_OF_CELLprtfFAMG
+C0206116,C0870134,PART_OF,Microglia,ancestors,cell,famg,4,PART_OF_CELLprtfFAMG
+C0206427,C0680063,PART_OF,Rod Photoreceptors,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0225698,C0870134,PART_OF,Alveolar Epithelial Cells,ancestors,cell,famg,3,PART_OF_CELLprtfFAMG
+C0230518,C0011011,PART_OF,Mitotic cell,Daughter,cell,famg,1,PART_OF_CELLprtfFAMG
+C0242245,C0680063,PART_OF,"Dendritic Cells, Follicular",Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C0242598,C0030551,PART_OF,LLC-PK1 Cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0242629,C0011011,PART_OF,CD8-Positive T-Lymphocytes,Daughter,cell,famg,2,PART_OF_CELLprtfFAMG
+C0282560,C0030551,PART_OF,Caco-2 Cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0334227,C0030551,PART_OF,"Tumor cells, malignant",parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C0334227,C0870134,PART_OF,"Tumor cells, malignant",ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0524984,C0011011,PART_OF,Somatostatin-Secreting Cells,Daughter,cell,famg,2,PART_OF_CELLprtfFAMG
+C0524984,C0015576,PART_OF,Somatostatin-Secreting Cells,Family,cell,famg,1,PART_OF_CELLprtfFAMG
+C0552639,C0870134,PART_OF,tubular cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0596155,C0870134,PART_OF,Basal Cell,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0596208,C0870134,PART_OF,brain cell,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0596890,C0030551,PART_OF,MCF-7 Cells,parent,cell,famg,11,PART_OF_CELLprtfFAMG
+C0598829,C0030551,PART_OF,Madin Darby Canine Kidney Cells,parent,cell,famg,13,PART_OF_CELLprtfFAMG
+C0600432,C0030551,PART_OF,K562 Cells,parent,cell,famg,2,PART_OF_CELLprtfFAMG
+C0682523,C0870134,PART_OF,human cell line,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0814990,C0870134,PART_OF,neural cell line,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C0882849,C0870134,PART_OF,Cell positive for CD34 antigen,ancestors,cell,famg,16,PART_OF_CELLprtfFAMG
+C0920751,C0870134,PART_OF,Heart cell,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C1135918,C0870134,PART_OF,"Myocytes, Smooth Muscle",ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C1171322,C0870134,PART_OF,Adult Stem Cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C1171346,C0870134,PART_OF,Human Embryonic Stem Cells,ancestors,cell,famg,2,PART_OF_CELLprtfFAMG
+C1257739,C0030551,PART_OF,NIH 3T3 Cells,parent,cell,famg,6,PART_OF_CELLprtfFAMG
+C1257910,C0680063,PART_OF,Aneuploid Cell,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C1258005,C0030551,PART_OF,HCT116 Cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C1292101,C0015576,PART_OF,IgM B lymphocyte,Family,cell,famg,1,PART_OF_CELLprtfFAMG
+C1441322,C0030551,PART_OF,Viable cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C1455888,C0041095,PART_OF,Atypical Glandular Cell,Triplet Multiple Birth,cell,famg,1,PART_OF_CELLprtfFAMG
+C1511246,C0870134,PART_OF,Bone marrow stem cell,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C1512035,C0026753,PART_OF,Dopaminergic Neurons,Multiple Birth Offspring,cell,famg,1,PART_OF_CELLprtfFAMG
+C1513528,C0030551,PART_OF,Mouse Cell Line,parent,cell,famg,2,PART_OF_CELLprtfFAMG
+C1514716,C0030551,PART_OF,Raji Cell,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C1518997,C0337514,PART_OF,Peripheral Blood Lymphocyte,Sister,cell,famg,1,PART_OF_CELLprtfFAMG
+C1518999,C0030551,PART_OF,Peripheral Blood Stem Cells,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C1519477,C0030551,PART_OF,Splenocyte,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C1704336,C0870134,PART_OF,Skeletal Myocytes,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C1883178,C0030551,PART_OF,Subclone,parent,cell,famg,1,PART_OF_CELLprtfFAMG
+C1883178,C0337514,PART_OF,Subclone,Sister,cell,famg,1,PART_OF_CELLprtfFAMG
+C2338017,C0870134,PART_OF,Neuron of retina,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C2708700,C0870134,PART_OF,Immature cells,ancestors,cell,famg,1,PART_OF_CELLprtfFAMG
+C2717940,C0030551,PART_OF,Hep G2 Cells,parent,cell,famg,2,PART_OF_CELLprtfFAMG
+C2936239,C0030551,PART_OF,HEK293 Cells,parent,cell,famg,15,PART_OF_CELLprtfFAMG
+C4277577,C0030551,PART_OF,A549 Cells,parent,cell,famg,2,PART_OF_CELLprtfFAMG
+C4277577,C0680063,PART_OF,A549 Cells,Offspring,cell,famg,1,PART_OF_CELLprtfFAMG

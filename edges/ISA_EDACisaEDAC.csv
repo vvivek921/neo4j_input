@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013626,C0013647,ISA,"Education, Continuing","Education, Professional",edac,edac,1,ISA_EDACisaEDAC
+C0013626,C0220931,ISA,"Education, Continuing",Training,edac,edac,3,ISA_EDACisaEDAC
+C0013630,C0220931,ISA,Graduate Education,Training,edac,edac,2,ISA_EDACisaEDAC
+C0013631,C0013621,ISA,"Education, Medical",Knowledge acquisition,edac,edac,3,ISA_EDACisaEDAC
+C0013631,C0220931,ISA,"Education, Medical",Training,edac,edac,3,ISA_EDACisaEDAC
+C0013636,C0220931,ISA,"Education, Nursing",Training,edac,edac,1,ISA_EDACisaEDAC
+C0013652,C0013621,ISA,Educational Activities,Knowledge acquisition,edac,edac,2,ISA_EDACisaEDAC
+C0013660,C0013621,ISA,"Techniques, Educational",Knowledge acquisition,edac,edac,1,ISA_EDACisaEDAC
+C0021599,C0013621,ISA,Inservice Training,Knowledge acquisition,edac,edac,2,ISA_EDACisaEDAC
+C0021599,C0220931,ISA,Inservice Training,Training,edac,edac,1,ISA_EDACisaEDAC
+C0021793,C0039401,ISA,Internship,Educational process of instructing,edac,edac,2,ISA_EDACisaEDAC
+C0021793,C0220931,ISA,Internship,Training,edac,edac,2,ISA_EDACisaEDAC
+C0024500,C0013621,ISA,Mainstreaming (Education),Knowledge acquisition,edac,edac,1,ISA_EDACisaEDAC
+C0030688,C0013621,ISA,Patient education (procedure),Knowledge acquisition,edac,edac,1,ISA_EDACisaEDAC
+C0035182,C0013621,ISA,Residency,Knowledge acquisition,edac,edac,2,ISA_EDACisaEDAC
+C0035182,C0220931,ISA,Residency,Training,edac,edac,24,ISA_EDACisaEDAC
+C0035184,C0220931,ISA,Medical Residencies,Training,edac,edac,2,ISA_EDACisaEDAC
+C0039401,C0013621,ISA,Educational process of instructing,Knowledge acquisition,edac,edac,4,ISA_EDACisaEDAC
+C0039403,C0039401,ISA,Teaching Methods,Educational process of instructing,edac,edac,1,ISA_EDACisaEDAC
+C0220931,C0013621,ISA,Training,Knowledge acquisition,edac,edac,29,ISA_EDACisaEDAC
+C0220931,C0013652,ISA,Training,Educational Activities,edac,edac,2,ISA_EDACisaEDAC
+C0220931,C0039401,ISA,Training,Educational process of instructing,edac,edac,1,ISA_EDACisaEDAC
+C0597424,C0013621,ISA,science education,Knowledge acquisition,edac,edac,1,ISA_EDACisaEDAC
+C0681113,C0013621,ISA,Employee Training,Knowledge acquisition,edac,edac,5,ISA_EDACisaEDAC
+C0681328,C0013621,ISA,public education,Knowledge acquisition,edac,edac,1,ISA_EDACisaEDAC
+C0681336,C0220931,ISA,medical residency program,Training,edac,edac,3,ISA_EDACisaEDAC
+C1276379,C0013621,ISA,First aid education,Knowledge acquisition,edac,edac,1,ISA_EDACisaEDAC
+C2362527,C0013621,ISA,Health Literacy,Knowledge acquisition,edac,edac,3,ISA_EDACisaEDAC

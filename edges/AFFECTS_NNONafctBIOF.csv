@@ -1,0 +1,63 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001367,C0013203,AFFECTS,Acyclovir,Drug resistance,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0001367,C0520989,AFFECTS,Acyclovir,Viral resistance,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0006556,C0013203,AFFECTS,"DNA, Complementary",Drug resistance,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0006556,C0220781,AFFECTS,"DNA, Complementary",Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0012931,C0220781,AFFECTS,Recombinant DNA,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0012935,C0220781,AFFECTS,"DNA, Single-Stranded",Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0012939,C0220781,AFFECTS,"DNA, Viral",Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0012939,C0282629,AFFECTS,"DNA, Viral",Virus Assembly,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0016344,C0220781,AFFECTS,Fluorodeoxyuridylate,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0016360,C0013203,AFFECTS,Fluorouracil,Drug resistance,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0018321,C0220781,AFFECTS,Guanine,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0018353,C0220781,AFFECTS,Guanosine Triphosphate,Anabolism,nnon,biof,3,AFFECTS_NNONafctBIOF
+C0023978,C0220781,AFFECTS,Long Terminal Repeat,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0023978,C0242290,AFFECTS,Long Terminal Repeat,Organogenesis,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0028621,C0220781,AFFECTS,Nucleosides,Anabolism,nnon,biof,3,AFFECTS_NNONafctBIOF
+C0028621,C3714634,AFFECTS,Nucleosides,Biological Processes,nnon,biof,3,AFFECTS_NNONafctBIOF
+C0028630,C0220781,AFFECTS,Nucleotides,Anabolism,nnon,biof,8,AFFECTS_NNONafctBIOF
+C0028630,C0282629,AFFECTS,Nucleotides,Virus Assembly,nnon,biof,2,AFFECTS_NNONafctBIOF
+C0028630,C3714634,AFFECTS,Nucleotides,Biological Processes,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0028953,C0220781,AFFECTS,Oligonucleotides,Anabolism,nnon,biof,3,AFFECTS_NNONafctBIOF
+C0032414,C0019868,AFFECTS,Poly I-C,Homeostasis,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0035525,C3853734,AFFECTS,Ribavirin,viral process,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0035736,C0042765,AFFECTS,"RNA, Viral",Virulence,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0035736,C0220781,AFFECTS,"RNA, Viral",Anabolism,nnon,biof,7,AFFECTS_NNONafctBIOF
+C0035736,C0282629,AFFECTS,"RNA, Viral",Virus Assembly,nnon,biof,2,AFFECTS_NNONafctBIOF
+C0035736,C1537068,AFFECTS,"RNA, Viral",Virus Internalization,nnon,biof,2,AFFECTS_NNONafctBIOF
+C0035736,C3714634,AFFECTS,"RNA, Viral",Biological Processes,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0050063,C0042765,AFFECTS,8-chloro-cyclic adenosine monophosphate,Virulence,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0050178,C0042765,AFFECTS,buciclovir,Virulence,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0050178,C1721019,AFFECTS,buciclovir,Virus Attachment,nnon,biof,2,AFFECTS_NNONafctBIOF
+C0053697,C3714634,AFFECTS,"bis(3',5')-cyclic diguanylic acid",Biological Processes,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0071360,C3537152,AFFECTS,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",biological signaling,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0206415,C0220781,AFFECTS,Oligonucleotide Primers,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0209738,C0042765,AFFECTS,Lamivudine,Virulence,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0382377,C0042765,AFFECTS,"RNAIII, Staphylococcus aureus",Virulence,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0597101,C0220781,AFFECTS,nucleobase,Anabolism,nnon,biof,2,AFFECTS_NNONafctBIOF
+C0599013,C0220781,AFFECTS,aptamer,Anabolism,nnon,biof,3,AFFECTS_NNONafctBIOF
+C0599013,C0678792,AFFECTS,aptamer,drug potency,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0599013,C1721019,AFFECTS,aptamer,Virus Attachment,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0599566,C0003261,AFFECTS,expression vector,Antibody Formation,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0599566,C1537068,AFFECTS,expression vector,Virus Internalization,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0600401,C1537068,AFFECTS,Retrotransposons,Virus Internalization,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0600500,C0220781,AFFECTS,Peptide Nucleic Acids,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0600680,C1160638,AFFECTS,Untranslated Regions,Viral life cycle,nnon,biof,3,AFFECTS_NNONafctBIOF
+C0600680,C3853734,AFFECTS,Untranslated Regions,viral process,nnon,biof,1,AFFECTS_NNONafctBIOF
+C0887909,C3714634,AFFECTS,"RNA, Untranslated",Biological Processes,nnon,biof,3,AFFECTS_NNONafctBIOF
+C1514152,C0220781,AFFECTS,Plasmid Cloning Vector,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C1514926,C1537068,AFFECTS,retroviral vector,Virus Internalization,nnon,biof,1,AFFECTS_NNONafctBIOF
+C1519595,C0042765,AFFECTS,Transcript,Virulence,nnon,biof,1,AFFECTS_NNONafctBIOF
+C1519595,C0220781,AFFECTS,Transcript,Anabolism,nnon,biof,2,AFFECTS_NNONafctBIOF
+C1519595,C3714634,AFFECTS,Transcript,Biological Processes,nnon,biof,3,AFFECTS_NNONafctBIOF
+C1567954,C0220781,AFFECTS,RNA Aptamers,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C1567954,C1537068,AFFECTS,RNA Aptamers,Virus Internalization,nnon,biof,1,AFFECTS_NNONafctBIOF
+C1579410,C0520989,AFFECTS,Nucleoside Analogs,Viral resistance,nnon,biof,1,AFFECTS_NNONafctBIOF
+C2360340,C0220781,AFFECTS,Flavivirus RNA,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C2936494,C3714634,AFFECTS,"RNA, Small Untranslated",Biological Processes,nnon,biof,2,AFFECTS_NNONafctBIOF
+C2976303,C0220781,AFFECTS,sofosbuvir,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C2982391,C0220781,AFFECTS,Long Intergenic Non-Protein Coding RNA,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF
+C2982391,C1160638,AFFECTS,Long Intergenic Non-Protein Coding RNA,Viral life cycle,nnon,biof,2,AFFECTS_NNONafctBIOF
+C2982391,C1327622,AFFECTS,Long Intergenic Non-Protein Coding RNA,Regulation of biological process,nnon,biof,1,AFFECTS_NNONafctBIOF
+C2982391,C3714634,AFFECTS,Long Intergenic Non-Protein Coding RNA,Biological Processes,nnon,biof,21,AFFECTS_NNONafctBIOF
+C3713958,C0220781,AFFECTS,tenofovir alafenamide,Anabolism,nnon,biof,1,AFFECTS_NNONafctBIOF

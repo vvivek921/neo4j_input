@@ -1,0 +1,80 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0034065,NEG_DIAGNOSES,angiogram,Pulmonary Embolism,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0009450,NEG_DIAGNOSES,Autopsy,Communicable Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0010340,NEG_DIAGNOSES,Autopsy,Critical Illness,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0018799,NEG_DIAGNOSES,Autopsy,Heart Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0021400,NEG_DIAGNOSES,Autopsy,Influenza,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0021828,NEG_DIAGNOSES,Autopsy,Intestinal Atresia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0042769,NEG_DIAGNOSES,Autopsy,Virus Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C1096155,NEG_DIAGNOSES,Autopsy,Macrophage Activation Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0005558,C0007570,NEG_DIAGNOSES,Biopsy,Celiac Disease,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0005558,C0034068,NEG_DIAGNOSES,Biopsy,Pulmonary Eosinophilia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0005558,C0265514,NEG_DIAGNOSES,Biopsy,Dermatofibrosis lenticularis disseminata,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0005558,C0393639,NEG_DIAGNOSES,Biopsy,Hashimoto's encephalitis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0006290,C0009450,NEG_DIAGNOSES,Bronchoscopy,Communicable Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0011930,C0010418,NEG_DIAGNOSES,"Diagnostic Tests, Routine",Cryptosporidiosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0013516,C0035613,NEG_DIAGNOSES,Echocardiography,Rift Valley Fever,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0015260,C0004096,NEG_DIAGNOSES,Exercise stress test,Asthma,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0021044,C0009443,NEG_DIAGNOSES,Immunohistochemistry,Common Cold,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0021044,C2062441,NEG_DIAGNOSES,Immunohistochemistry,Influenza A,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024119,C0001883,NEG_DIAGNOSES,Pulmonary function tests,Airway Obstruction,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024485,C0007286,NEG_DIAGNOSES,Magnetic Resonance Imaging,Carpal Tunnel Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024485,C0027927,NEG_DIAGNOSES,Magnetic Resonance Imaging,Neurosyphilis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024485,C0035204,NEG_DIAGNOSES,Magnetic Resonance Imaging,Respiration Disorders,diap,dsyn,2,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024485,C0876973,NEG_DIAGNOSES,Magnetic Resonance Imaging,Infectious disease of lung,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024485,C1096155,NEG_DIAGNOSES,Magnetic Resonance Imaging,Macrophage Activation Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0030247,C0497156,NEG_DIAGNOSES,Palpation,Lymphadenopathy,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0030247,C1096155,NEG_DIAGNOSES,Palpation,Macrophage Activation Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0031150,C0155773,NEG_DIAGNOSES,Laparoscopy,Portal vein thrombosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0034579,C0010709,NEG_DIAGNOSES,Panoramic Radiography,Cyst,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0034606,C0025007,NEG_DIAGNOSES,Radionuclide Imaging,Measles,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0034606,C0520575,NEG_DIAGNOSES,Radionuclide Imaging,Acute pyelonephritis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0037981,C0004096,NEG_DIAGNOSES,Spirometry,Asthma,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0006271,NEG_DIAGNOSES,Plain chest X-ray,Bronchiolitis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0032285,NEG_DIAGNOSES,Plain chest X-ray,Pneumonia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0032310,NEG_DIAGNOSES,Plain chest X-ray,"Pneumonia, Viral",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0032326,NEG_DIAGNOSES,Plain chest X-ray,Pneumothorax,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0206062,NEG_DIAGNOSES,Plain chest X-ray,"Lung Diseases, Interstitial",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0694549,NEG_DIAGNOSES,Plain chest X-ray,Community acquired pneumonia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0747676,NEG_DIAGNOSES,Plain chest X-ray,pneumonia childhood,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C2676739,NEG_DIAGNOSES,Plain chest X-ray,Chromosome 2q32-Q33 Deletion Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040405,C0009450,NEG_DIAGNOSES,X-Ray Computed Tomography,Communicable Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040405,C0010278,NEG_DIAGNOSES,X-Ray Computed Tomography,Craniosynostosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040405,C0027927,NEG_DIAGNOSES,X-Ray Computed Tomography,Neurosyphilis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040405,C0206061,NEG_DIAGNOSES,X-Ray Computed Tomography,"Pneumonia, Interstitial",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041290,C1609538,NEG_DIAGNOSES,Tuberculin Test,Latent Tuberculosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041618,C0000833,NEG_DIAGNOSES,Ultrasonography,Abscess,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041618,C0025007,NEG_DIAGNOSES,Ultrasonography,Measles,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041618,C0032227,NEG_DIAGNOSES,Ultrasonography,Pleural effusion disorder,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041618,C0206061,NEG_DIAGNOSES,Ultrasonography,"Pneumonia, Interstitial",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041618,C0243001,NEG_DIAGNOSES,Ultrasonography,Abdominal Abscess,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0041618,C0748168,NEG_DIAGNOSES,Ultrasonography,Pulmonary Pathology,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0043299,C0006267,NEG_DIAGNOSES,Diagnostic radiologic examination,Bronchiectasis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0085532,C0151814,NEG_DIAGNOSES,Coronary angiography,Coronary Occlusion,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0086143,C0042769,NEG_DIAGNOSES,Diagnostic tests,Virus Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0086143,C0149514,NEG_DIAGNOSES,Diagnostic tests,Acute bronchitis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0086143,C0276289,NEG_DIAGNOSES,Diagnostic tests,Zika Virus Infection,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0150866,C0033860,NEG_DIAGNOSES,Biopsy of skin procedure,Psoriasis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0184921,C0265514,NEG_DIAGNOSES,Excision biopsy,Dermatofibrosis lenticularis disseminata,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0193388,C0014457,NEG_DIAGNOSES,Biopsy of liver (procedure),Eosinophilia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0203408,C0020295,NEG_DIAGNOSES,Echography of kidney,Hydronephrosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0332140,C0004096,NEG_DIAGNOSES,"Diagnosis, clinical",Asthma,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0332140,C0010380,NEG_DIAGNOSES,"Diagnosis, clinical",Croup,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0332140,C0856238,NEG_DIAGNOSES,"Diagnosis, clinical",influenza (epidemic),diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0430022,C0021400,NEG_DIAGNOSES,diagnostic procedure,Influenza,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0430022,C0276829,NEG_DIAGNOSES,diagnostic procedure,Infection by Tritrichomonas,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0679575,C0039128,NEG_DIAGNOSES,Neuroimaging,Syphilis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0740294,C0042769,NEG_DIAGNOSES,brain biopsy,Virus Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0750430,C0008312,NEG_DIAGNOSES,work up,Primary biliary cirrhosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0807679,C0010380,NEG_DIAGNOSES,Radiology studies,Croup,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0807679,C0032285,NEG_DIAGNOSES,Radiology studies,Pneumonia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0848214,C0024117,NEG_DIAGNOSES,peak flow measurement,Chronic Obstructive Airway Disease,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0863477,C0085786,NEG_DIAGNOSES,transbronchial lung biopsy,Hamman-Rich syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1306645,C0037199,NEG_DIAGNOSES,Plain x-ray,Sinusitis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1510483,C0010709,NEG_DIAGNOSES,Fine needle aspiration biopsy,Cyst,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1655737,C0014122,NEG_DIAGNOSES,cardiac ultrasound,Subacute Bacterial Endocarditis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1655737,C0018824,NEG_DIAGNOSES,cardiac ultrasound,Heart valve disease,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1964257,C0018609,NEG_DIAGNOSES,Observation - diagnostic procedure,Hartnup Disease,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1964257,C0028326,NEG_DIAGNOSES,Observation - diagnostic procedure,Noonan Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C3842377,C0032285,NEG_DIAGNOSES,Chest radiograph,Pneumonia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C3842377,C0042769,NEG_DIAGNOSES,Chest radiograph,Virus Diseases,diap,dsyn,2,NEG_DIAGNOSES_DIAPndiagDSYN

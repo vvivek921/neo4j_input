@@ -1,0 +1,407 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001272,C0598843,CAUSES,Action Potentials,afterpotential,celf,celf,1,CAUSES_CELFcausCELF
+C0003272,C0007588,CAUSES,Antibody-Dependent Cellular Cytotoxicity,Cell Degranulation,celf,celf,1,CAUSES_CELFcausCELF
+C0003272,C0031308,CAUSES,Antibody-Dependent Cellular Cytotoxicity,Phagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C0003272,C0162638,CAUSES,Antibody-Dependent Cellular Cytotoxicity,Apoptosis,celf,celf,4,CAUSES_CELFcausCELF
+C0004391,C0007587,CAUSES,Autophagy,Cell Death,celf,celf,14,CAUSES_CELFcausCELF
+C0004391,C0007620,CAUSES,Autophagy,Cell Survival,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C0015283,CAUSES,Autophagy,Exocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C0042774,CAUSES,Autophagy,Virus Replication,celf,celf,6,CAUSES_CELFcausCELF
+C0004391,C0162638,CAUSES,Autophagy,Apoptosis,celf,celf,16,CAUSES_CELFcausCELF
+C0004391,C0206430,CAUSES,Autophagy,Antigen Processing,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C1155342,CAUSES,Autophagy,cellular response to unfolded protein,celf,celf,3,CAUSES_CELFcausCELF
+C0004391,C1157569,CAUSES,Autophagy,viral translation,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C1160466,CAUSES,Autophagy,conjugation,celf,celf,2,CAUSES_CELFcausCELF
+C0004391,C1326207,CAUSES,Autophagy,"Programmed Cell Death, Type II",celf,celf,3,CAUSES_CELFcausCELF
+C0004391,C2610958,CAUSES,Autophagy,necroptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C2611772,CAUSES,Autophagy,autophagosome assembly,celf,celf,5,CAUSES_CELFcausCELF
+C0004391,C2754100,CAUSES,Autophagy,neuron death,celf,celf,2,CAUSES_CELFcausCELF
+C0004391,C4236733,CAUSES,Autophagy,xenophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C4236836,CAUSES,Autophagy,lipophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0004391,C4326906,CAUSES,Autophagy,membrane curvature,celf,celf,1,CAUSES_CELFcausCELF
+C0007577,C0037083,CAUSES,Cell Adhesion,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C0007581,C0007586,CAUSES,Cellular Senescence,Cell Cycle,celf,celf,1,CAUSES_CELFcausCELF
+C0007581,C0007587,CAUSES,Cellular Senescence,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C0007582,C0162638,CAUSES,Cell Communication,Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C0007582,C0599952,CAUSES,Cell Communication,modulation by virus of host morphology or physiology,celf,celf,1,CAUSES_CELFcausCELF
+C0007582,C1159455,CAUSES,Cell Communication,syncytium formation,celf,celf,1,CAUSES_CELFcausCELF
+C0007586,C0007587,CAUSES,Cell Cycle,Cell Death,celf,celf,3,CAUSES_CELFcausCELF
+C0007586,C0007590,CAUSES,Cell Cycle,Cell division,celf,celf,3,CAUSES_CELFcausCELF
+C0007586,C0037083,CAUSES,Cell Cycle,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C0007586,C0042774,CAUSES,Cell Cycle,Virus Replication,celf,celf,1,CAUSES_CELFcausCELF
+C0007586,C0162638,CAUSES,Cell Cycle,Apoptosis,celf,celf,14,CAUSES_CELFcausCELF
+C0007586,C1155873,CAUSES,Cell Cycle,Cell Cycle Arrest,celf,celf,3,CAUSES_CELFcausCELF
+C0007586,C1516334,CAUSES,Cell Cycle,Cell Cycle Progression,celf,celf,1,CAUSES_CELFcausCELF
+C0007586,C2610891,CAUSES,Cell Cycle,T cell apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0007586,C3178834,CAUSES,Cell Cycle,G1 Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C0007587,C0004391,CAUSES,Cell Death,Autophagy,celf,celf,3,CAUSES_CELFcausCELF
+C0007587,C0010813,CAUSES,Cell Death,Cytokinesis,celf,celf,1,CAUSES_CELFcausCELF
+C0007587,C0042774,CAUSES,Cell Death,Virus Replication,celf,celf,2,CAUSES_CELFcausCELF
+C0007587,C0162638,CAUSES,Cell Death,Apoptosis,celf,celf,11,CAUSES_CELFcausCELF
+C0007587,C0596290,CAUSES,Cell Death,Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C0007587,C0949629,CAUSES,Cell Death,Bystander Effect,celf,celf,1,CAUSES_CELFcausCELF
+C0007587,C2610958,CAUSES,Cell Death,necroptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0007587,C2936269,CAUSES,Cell Death,Transcytotic Pathways,celf,celf,1,CAUSES_CELFcausCELF
+C0007590,C0007581,CAUSES,Cell division,Cellular Senescence,celf,celf,1,CAUSES_CELFcausCELF
+C0007590,C0007587,CAUSES,Cell division,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C0007590,C0162638,CAUSES,Cell division,Apoptosis,celf,celf,4,CAUSES_CELFcausCELF
+C0007590,C2936269,CAUSES,Cell division,Transcytotic Pathways,celf,celf,1,CAUSES_CELFcausCELF
+C0007595,C0004391,CAUSES,cell growth,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0007595,C0007587,CAUSES,cell growth,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C0007595,C0162638,CAUSES,cell growth,Apoptosis,celf,celf,5,CAUSES_CELFcausCELF
+C0007595,C0596290,CAUSES,cell growth,Cell Proliferation,celf,celf,2,CAUSES_CELFcausCELF
+C0007613,C0004391,CAUSES,Cell physiology,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0007613,C0007587,CAUSES,Cell physiology,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C0007613,C0162638,CAUSES,Cell physiology,Apoptosis,celf,celf,4,CAUSES_CELFcausCELF
+C0007613,C0312861,CAUSES,Cell physiology,Neutrophil chemotaxis,celf,celf,1,CAUSES_CELFcausCELF
+C0007613,C1159339,CAUSES,Cell physiology,Protein Secretion,celf,celf,1,CAUSES_CELFcausCELF
+C0007613,C1655807,CAUSES,Cell physiology,endothelial cell proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C0007620,C0004391,CAUSES,Cell Survival,Autophagy,celf,celf,3,CAUSES_CELFcausCELF
+C0007620,C0007587,CAUSES,Cell Survival,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C0007620,C0162638,CAUSES,Cell Survival,Apoptosis,celf,celf,11,CAUSES_CELFcausCELF
+C0007620,C1512772,CAUSES,Cell Survival,Negative Regulation of Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0008018,C0031308,CAUSES,Chemotaxis,Phagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C0008018,C0162638,CAUSES,Chemotaxis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0008018,C1154393,CAUSES,Chemotaxis,leukocyte cell-cell adhesion,celf,celf,1,CAUSES_CELFcausCELF
+C0008018,C3820939,CAUSES,Chemotaxis,intestinal epithelial cell migration,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C0004391,CAUSES,Cytokinesis,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C0007587,CAUSES,Cytokinesis,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C0010813,C0008018,CAUSES,Cytokinesis,Chemotaxis,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C0037083,CAUSES,Cytokinesis,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C0162638,CAUSES,Cytokinesis,Apoptosis,celf,celf,10,CAUSES_CELFcausCELF
+C0010813,C0872070,CAUSES,Cytokinesis,nucleocytoplasmic transport,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C0872097,CAUSES,Cytokinesis,Anoikis,celf,celf,2,CAUSES_CELFcausCELF
+C0010813,C1156309,CAUSES,Cytokinesis,syncytium formation by plasma membrane fusion,celf,celf,2,CAUSES_CELFcausCELF
+C0010813,C1159455,CAUSES,Cytokinesis,syncytium formation,celf,celf,2,CAUSES_CELFcausCELF
+C0010813,C1159762,CAUSES,Cytokinesis,opsonization,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C1327616,CAUSES,Cytokinesis,Cell secretion,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C1523298,CAUSES,Cytokinesis,epithelial to mesenchymal transition,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C3156636,CAUSES,Cytokinesis,endothelial cell apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0010813,C3546359,CAUSES,Cytokinesis,pro-apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C0004391,CAUSES,Endocytosis,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C0162638,CAUSES,Endocytosis,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C0014139,C0206430,CAUSES,Endocytosis,Antigen Processing,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C1155046,CAUSES,Endocytosis,T-Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C1155982,CAUSES,Endocytosis,actin filament polymerization,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C1156309,CAUSES,Endocytosis,syncytium formation by plasma membrane fusion,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C1159455,CAUSES,Endocytosis,syncytium formation,celf,celf,2,CAUSES_CELFcausCELF
+C0014139,C1160466,CAUSES,Endocytosis,conjugation,celf,celf,1,CAUSES_CELFcausCELF
+C0014139,C2611812,CAUSES,Endocytosis,signaling cascade,celf,celf,1,CAUSES_CELFcausCELF
+C0015283,C0162638,CAUSES,Exocytosis,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C0015283,C4236836,CAUSES,Exocytosis,lipophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0019595,C0085416,CAUSES,Histamine Release,Respiratory Burst,celf,celf,1,CAUSES_CELFcausCELF
+C0024426,C0031308,CAUSES,Macrophage Activation,Phagocytosis,celf,celf,2,CAUSES_CELFcausCELF
+C0025186,C0162638,CAUSES,Meiosis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0025251,C0162638,CAUSES,Membrane Potentials,Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C0026255,C0162638,CAUSES,Mitosis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0026255,C2610961,CAUSES,Mitosis,Mitotic Catastrophe,celf,celf,1,CAUSES_CELFcausCELF
+C0031308,C0007587,CAUSES,Phagocytosis,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C0031308,C0008018,CAUSES,Phagocytosis,Chemotaxis,celf,celf,1,CAUSES_CELFcausCELF
+C0031308,C0085416,CAUSES,Phagocytosis,Respiratory Burst,celf,celf,1,CAUSES_CELFcausCELF
+C0031308,C0162638,CAUSES,Phagocytosis,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C0031308,C0206431,CAUSES,Phagocytosis,Antigen Presentation,celf,celf,1,CAUSES_CELFcausCELF
+C0031308,C1155728,CAUSES,Phagocytosis,APC activation,celf,celf,1,CAUSES_CELFcausCELF
+C0031308,C3157013,CAUSES,Phagocytosis,phagosome-lysosome fusion,celf,celf,1,CAUSES_CELFcausCELF
+C0031945,C0206430,CAUSES,Pinocytosis,Antigen Processing,celf,celf,1,CAUSES_CELFcausCELF
+C0032174,C0008018,CAUSES,"Platelet adhesion, function",Chemotaxis,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C0004391,CAUSES,Signal Transduction,Autophagy,celf,celf,8,CAUSES_CELFcausCELF
+C0037083,C0007587,CAUSES,Signal Transduction,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C0037083,C0007595,CAUSES,Signal Transduction,cell growth,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C0007620,CAUSES,Signal Transduction,Cell Survival,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C0008018,CAUSES,Signal Transduction,Chemotaxis,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C0010813,CAUSES,Signal Transduction,Cytokinesis,celf,celf,3,CAUSES_CELFcausCELF
+C0037083,C0027793,CAUSES,Signal Transduction,Synaptic Transmission,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C0031308,CAUSES,Signal Transduction,Phagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C0162638,CAUSES,Signal Transduction,Apoptosis,celf,celf,13,CAUSES_CELFcausCELF
+C0037083,C0815089,CAUSES,Signal Transduction,Cell development,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1155013,CAUSES,Signal Transduction,T cell differentiation,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1155873,CAUSES,Signal Transduction,Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1155874,CAUSES,Signal Transduction,Cell Cycle Checkpoints,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1155982,CAUSES,Signal Transduction,actin filament polymerization,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1156237,CAUSES,Signal Transduction,Stimulation of Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1326120,CAUSES,Signal Transduction,cell activation,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1371607,CAUSES,Signal Transduction,Increased Extracellular Communication [PE],celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1523298,CAUSES,Signal Transduction,epithelial to mesenchymal transition,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1817973,CAUSES,Signal Transduction,Leukocyte Differentiation,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C1820119,CAUSES,Signal Transduction,Mitochondrial Degradation,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C2610960,CAUSES,Signal Transduction,Pyroptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C2613145,CAUSES,Signal Transduction,response to endoplasmic reticulum stress,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C3156718,CAUSES,Signal Transduction,type I interferon secretion,celf,celf,1,CAUSES_CELFcausCELF
+C0037083,C3271951,CAUSES,Signal Transduction,macropinocytosis,celf,celf,3,CAUSES_CELFcausCELF
+C0037083,C4326906,CAUSES,Signal Transduction,membrane curvature,celf,celf,1,CAUSES_CELFcausCELF
+C0037864,C0004391,CAUSES,Spermatogenesis,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0037864,C0162638,CAUSES,Spermatogenesis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C0004391,CAUSES,Virus Replication,Autophagy,celf,celf,9,CAUSES_CELFcausCELF
+C0042774,C0007587,CAUSES,Virus Replication,Cell Death,celf,celf,14,CAUSES_CELFcausCELF
+C0042774,C0007620,CAUSES,Virus Replication,Cell Survival,celf,celf,2,CAUSES_CELFcausCELF
+C0042774,C0010813,CAUSES,Virus Replication,Cytokinesis,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C0037083,CAUSES,Virus Replication,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C0162638,CAUSES,Virus Replication,Apoptosis,celf,celf,33,CAUSES_CELFcausCELF
+C0042774,C0206431,CAUSES,Virus Replication,Antigen Presentation,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C0221145,CAUSES,Virus Replication,Thrombopoiesis,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C0230871,CAUSES,Virus Replication,Mitochondrial Fission,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C0525011,CAUSES,Virus Replication,Paracrine Communication,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1155003,CAUSES,Virus Replication,B-Cell Activation,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1155229,CAUSES,Virus Replication,Humoral immune response,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1155342,CAUSES,Virus Replication,cellular response to unfolded protein,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1156182,CAUSES,Virus Replication,membrane disassembly,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1326207,CAUSES,Virus Replication,"Programmed Cell Death, Type II",celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1512772,CAUSES,Virus Replication,Negative Regulation of Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C1820119,CAUSES,Virus Replication,Mitochondrial Degradation,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C2610958,CAUSES,Virus Replication,necroptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C2611772,CAUSES,Virus Replication,autophagosome assembly,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C2611812,CAUSES,Virus Replication,signaling cascade,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C2613145,CAUSES,Virus Replication,response to endoplasmic reticulum stress,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C2754100,CAUSES,Virus Replication,neuron death,celf,celf,2,CAUSES_CELFcausCELF
+C0042774,C2755756,CAUSES,Virus Replication,cellular transcription,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C2755994,CAUSES,Virus Replication,intracellular signal transduction pathway,celf,celf,2,CAUSES_CELFcausCELF
+C0042774,C3158897,CAUSES,Virus Replication,memory T cell activation,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C3178824,CAUSES,Virus Replication,G2 Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C0042774,C3269241,CAUSES,Virus Replication,hepatocyte apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C0004391,CAUSES,Apoptosis,Autophagy,celf,celf,7,CAUSES_CELFcausCELF
+C0162638,C0007581,CAUSES,Apoptosis,Cellular Senescence,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C0007582,CAUSES,Apoptosis,Cell Communication,celf,celf,2,CAUSES_CELFcausCELF
+C0162638,C0007587,CAUSES,Apoptosis,Cell Death,celf,celf,29,CAUSES_CELFcausCELF
+C0162638,C0007595,CAUSES,Apoptosis,cell growth,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C0007620,CAUSES,Apoptosis,Cell Survival,celf,celf,2,CAUSES_CELFcausCELF
+C0162638,C0010813,CAUSES,Apoptosis,Cytokinesis,celf,celf,6,CAUSES_CELFcausCELF
+C0162638,C0024426,CAUSES,Apoptosis,Macrophage Activation,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C0037083,CAUSES,Apoptosis,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C0042774,CAUSES,Apoptosis,Virus Replication,celf,celf,5,CAUSES_CELFcausCELF
+C0162638,C0206431,CAUSES,Apoptosis,Antigen Presentation,celf,celf,2,CAUSES_CELFcausCELF
+C0162638,C0333904,CAUSES,Apoptosis,Karyopyknosis,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1155046,CAUSES,Apoptosis,T-Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1155342,CAUSES,Apoptosis,cellular response to unfolded protein,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1155873,CAUSES,Apoptosis,Cell Cycle Arrest,celf,celf,5,CAUSES_CELFcausCELF
+C0162638,C1155874,CAUSES,Apoptosis,Cell Cycle Checkpoints,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1159455,CAUSES,Apoptosis,syncytium formation,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1326202,CAUSES,Apoptosis,B cell apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1327414,CAUSES,Apoptosis,cytokine secretion,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C1660771,CAUSES,Apoptosis,Apoptosis of neurons,celf,celf,2,CAUSES_CELFcausCELF
+C0162638,C1720920,CAUSES,Apoptosis,"Membrane Potential, Mitochondrial",celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C2610891,CAUSES,Apoptosis,T cell apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C2610958,CAUSES,Apoptosis,necroptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C2610960,CAUSES,Apoptosis,Pyroptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C2754100,CAUSES,Apoptosis,neuron death,celf,celf,2,CAUSES_CELFcausCELF
+C0162638,C3156665,CAUSES,Apoptosis,interleukin-6 secretion,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C3178824,CAUSES,Apoptosis,G2 Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C3895894,CAUSES,Apoptosis,epithelial cell apoptotic process,celf,celf,2,CAUSES_CELFcausCELF
+C0162638,C4235040,CAUSES,Apoptosis,membrane blebbing,celf,celf,1,CAUSES_CELFcausCELF
+C0162638,C4326906,CAUSES,Apoptosis,membrane curvature,celf,celf,1,CAUSES_CELFcausCELF
+C0206430,C1257986,CAUSES,Antigen Processing,Cross-Presentation,celf,celf,2,CAUSES_CELFcausCELF
+C0206430,C1318468,CAUSES,Antigen Processing,cell mediated immune response,celf,celf,1,CAUSES_CELFcausCELF
+C0206430,C1516014,CAUSES,Antigen Processing,Antigen Presentation Pathway,celf,celf,1,CAUSES_CELFcausCELF
+C0206431,C0004391,CAUSES,Antigen Presentation,Autophagy,celf,celf,2,CAUSES_CELFcausCELF
+C0206431,C0162638,CAUSES,Antigen Presentation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0206431,C1155229,CAUSES,Antigen Presentation,Humoral immune response,celf,celf,2,CAUSES_CELFcausCELF
+C0206431,C2610891,CAUSES,Antigen Presentation,T cell apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C0230871,C1820119,CAUSES,Mitochondrial Fission,Mitochondrial Degradation,celf,celf,1,CAUSES_CELFcausCELF
+C0301896,C0007587,CAUSES,Cell-Mediated Cytolysis,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C0311434,C0007587,CAUSES,Cell membrane potential,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C0312861,C0596233,CAUSES,Neutrophil chemotaxis,release of sequestered calcium ion into cytoplasm,celf,celf,1,CAUSES_CELFcausCELF
+C0334220,C0003272,CAUSES,Remyelination,Antibody-Dependent Cellular Cytotoxicity,celf,celf,1,CAUSES_CELFcausCELF
+C0334220,C1159762,CAUSES,Remyelination,opsonization,celf,celf,1,CAUSES_CELFcausCELF
+C0544888,C2610961,CAUSES,Mitotic arrest,Mitotic Catastrophe,celf,celf,1,CAUSES_CELFcausCELF
+C0596233,C1155074,CAUSES,release of sequestered calcium ion into cytoplasm,mast cell activation,celf,celf,1,CAUSES_CELFcausCELF
+C0596290,C0007587,CAUSES,Cell Proliferation,Cell Death,celf,celf,3,CAUSES_CELFcausCELF
+C0596290,C0040682,CAUSES,Cell Proliferation,cell transformation,celf,celf,1,CAUSES_CELFcausCELF
+C0596290,C0162638,CAUSES,Cell Proliferation,Apoptosis,celf,celf,10,CAUSES_CELFcausCELF
+C0596290,C1155873,CAUSES,Cell Proliferation,Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C0596873,C1318468,CAUSES,lymphocyte proliferation,cell mediated immune response,celf,celf,1,CAUSES_CELFcausCELF
+C0596898,C0162638,CAUSES,membrane biogenesis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0597361,C1156309,CAUSES,Receptor Mediated Endocytosis,syncytium formation by plasma membrane fusion,celf,celf,1,CAUSES_CELFcausCELF
+C0597601,C1155080,CAUSES,Transcytosis,T-helper 1 type immune response,celf,celf,1,CAUSES_CELFcausCELF
+C0598838,C4326906,CAUSES,membrane assembly,membrane curvature,celf,celf,1,CAUSES_CELFcausCELF
+C0598958,C0162638,CAUSES,Neuroprotection,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C0598958,C1326169,CAUSES,Neuroprotection,microglial cell activation,celf,celf,1,CAUSES_CELFcausCELF
+C0599733,C0162638,CAUSES,cell killing,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0599733,C1622297,CAUSES,cell killing,natural killer cell degranulation,celf,celf,1,CAUSES_CELFcausCELF
+C0599814,C0162638,CAUSES,Intracellular Transport,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0599894,C0162638,CAUSES,cellular targeting,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0599952,C0004391,CAUSES,modulation by virus of host morphology or physiology,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C0599952,C0162638,CAUSES,modulation by virus of host morphology or physiology,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0600430,C1326120,CAUSES,Calcium Waves,cell activation,celf,celf,1,CAUSES_CELFcausCELF
+C0600431,C0007586,CAUSES,Calcium Signaling,Cell Cycle,celf,celf,1,CAUSES_CELFcausCELF
+C0678836,C0037083,CAUSES,cell recognition,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C0872070,C0162638,CAUSES,nucleocytoplasmic transport,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C0887839,C0162638,CAUSES,Nuclear Import,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C0887839,C1155873,CAUSES,Nuclear Import,Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C0887839,C3271951,CAUSES,Nuclear Import,macropinocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C0887840,C0007587,CAUSES,Nuclear Export,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C0887840,C0162638,CAUSES,Nuclear Export,Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C0949629,C0162638,CAUSES,Bystander Effect,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C0949629,C3156636,CAUSES,Bystander Effect,endothelial cell apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C1154615,C0004391,CAUSES,detection of nutrient,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1155003,C0007595,CAUSES,B-Cell Activation,cell growth,celf,celf,1,CAUSES_CELFcausCELF
+C1155003,C3546309,CAUSES,B-Cell Activation,activation-induced cell death,celf,celf,1,CAUSES_CELFcausCELF
+C1155008,C1155065,CAUSES,b-cell proliferation,T-Cell Activation,celf,celf,1,CAUSES_CELFcausCELF
+C1155046,C0162638,CAUSES,T-Cell Proliferation,Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C1155064,C0007587,CAUSES,NK Cell Activation,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1155064,C0162638,CAUSES,NK Cell Activation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1155065,C0007587,CAUSES,T-Cell Activation,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1155065,C0042774,CAUSES,T-Cell Activation,Virus Replication,celf,celf,1,CAUSES_CELFcausCELF
+C1155065,C1327414,CAUSES,T-Cell Activation,cytokine secretion,celf,celf,1,CAUSES_CELFcausCELF
+C1155065,C1817908,CAUSES,T-Cell Activation,Cellular Immune Response,celf,celf,1,CAUSES_CELFcausCELF
+C1155074,C0019595,CAUSES,mast cell activation,Histamine Release,celf,celf,1,CAUSES_CELFcausCELF
+C1155229,C0007587,CAUSES,Humoral immune response,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1155229,C0042774,CAUSES,Humoral immune response,Virus Replication,celf,celf,1,CAUSES_CELFcausCELF
+C1155229,C0162638,CAUSES,Humoral immune response,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1155229,C0206430,CAUSES,Humoral immune response,Antigen Processing,celf,celf,1,CAUSES_CELFcausCELF
+C1155342,C0004391,CAUSES,cellular response to unfolded protein,Autophagy,celf,celf,17,CAUSES_CELFcausCELF
+C1155342,C0007587,CAUSES,cellular response to unfolded protein,Cell Death,celf,celf,3,CAUSES_CELFcausCELF
+C1155342,C0162638,CAUSES,cellular response to unfolded protein,Apoptosis,celf,celf,20,CAUSES_CELFcausCELF
+C1155342,C1523116,CAUSES,cellular response to unfolded protein,positive regulation of NF-kappaB transcription factor activity,celf,celf,1,CAUSES_CELFcausCELF
+C1155342,C1819041,CAUSES,cellular response to unfolded protein,protein kinase activation,celf,celf,1,CAUSES_CELFcausCELF
+C1155342,C2613145,CAUSES,cellular response to unfolded protein,response to endoplasmic reticulum stress,celf,celf,1,CAUSES_CELFcausCELF
+C1155342,C2754100,CAUSES,cellular response to unfolded protein,neuron death,celf,celf,2,CAUSES_CELFcausCELF
+C1155728,C1155229,CAUSES,APC activation,Humoral immune response,celf,celf,1,CAUSES_CELFcausCELF
+C1155750,C1155781,CAUSES,Mitotic Spindle Checkpoints,spindle assembly,celf,celf,1,CAUSES_CELFcausCELF
+C1155872,C0007590,CAUSES,Cell Cycle Control,Cell division,celf,celf,1,CAUSES_CELFcausCELF
+C1155872,C0596290,CAUSES,Cell Cycle Control,Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C1155872,C1155873,CAUSES,Cell Cycle Control,Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C1155873,C0004391,CAUSES,Cell Cycle Arrest,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1155873,C0007587,CAUSES,Cell Cycle Arrest,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C1155873,C0162638,CAUSES,Cell Cycle Arrest,Apoptosis,celf,celf,9,CAUSES_CELFcausCELF
+C1155873,C1657435,CAUSES,Cell Cycle Arrest,astrocyte differentiation,celf,celf,1,CAUSES_CELFcausCELF
+C1155873,C4326906,CAUSES,Cell Cycle Arrest,membrane curvature,celf,celf,1,CAUSES_CELFcausCELF
+C1155874,C0162638,CAUSES,Cell Cycle Checkpoints,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1155874,C1155873,CAUSES,Cell Cycle Checkpoints,Cell Cycle Arrest,celf,celf,2,CAUSES_CELFcausCELF
+C1155948,C0162638,CAUSES,cell projection assembly,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1155974,C3269125,CAUSES,actin modification,ruffle assembly,celf,celf,1,CAUSES_CELFcausCELF
+C1155982,C1326236,CAUSES,actin filament polymerization,filopodium assembly,celf,celf,1,CAUSES_CELFcausCELF
+C1156086,C1519020,CAUSES,pexophagy,Peroxisome Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C1156140,C0162638,CAUSES,ribosome biogenesis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1156140,C1155873,CAUSES,ribosome biogenesis,Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C1156309,C1159455,CAUSES,syncytium formation by plasma membrane fusion,syncytium formation,celf,celf,2,CAUSES_CELFcausCELF
+C1157569,C0162638,CAUSES,viral translation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1159455,C0007587,CAUSES,syncytium formation,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1159455,C0162638,CAUSES,syncytium formation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1159455,C1156309,CAUSES,syncytium formation,syncytium formation by plasma membrane fusion,celf,celf,1,CAUSES_CELFcausCELF
+C1159563,C0042774,CAUSES,Cytoplasmic transport,Virus Replication,celf,celf,1,CAUSES_CELFcausCELF
+C1159762,C0031308,CAUSES,opsonization,Phagocytosis,celf,celf,3,CAUSES_CELFcausCELF
+C1159762,C0162638,CAUSES,opsonization,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1159762,C0206431,CAUSES,opsonization,Antigen Presentation,celf,celf,1,CAUSES_CELFcausCELF
+C1159762,C1155064,CAUSES,opsonization,NK Cell Activation,celf,celf,1,CAUSES_CELFcausCELF
+C1159762,C2936268,CAUSES,opsonization,Cytophagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C1159821,C0162638,CAUSES,apoptotic program,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1160657,C0162638,CAUSES,Virus Uncoating,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C1160692,C1159455,CAUSES,virus maturation,syncytium formation,celf,celf,1,CAUSES_CELFcausCELF
+C1160700,C0162638,CAUSES,viral gene expression,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1257986,C1155065,CAUSES,Cross-Presentation,T-Cell Activation,celf,celf,1,CAUSES_CELFcausCELF
+C1257986,C1318468,CAUSES,Cross-Presentation,cell mediated immune response,celf,celf,3,CAUSES_CELFcausCELF
+C1318468,C0007587,CAUSES,cell mediated immune response,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1318468,C1155229,CAUSES,cell mediated immune response,Humoral immune response,celf,celf,1,CAUSES_CELFcausCELF
+C1325410,C0162638,CAUSES,tumor suppressor activity,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1325881,C1156273,CAUSES,biofilm formation,iron ion homeostasis,celf,celf,1,CAUSES_CELFcausCELF
+C1325887,C0162638,CAUSES,focal adhesion assembly,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326079,C0162638,CAUSES,natural killer cell differentiation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326120,C0004391,CAUSES,cell activation,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1326120,C0031308,CAUSES,cell activation,Phagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326120,C0162638,CAUSES,cell activation,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C1326120,C1317556,CAUSES,cell activation,Natural killer cell function,celf,celf,1,CAUSES_CELFcausCELF
+C1326169,C0162638,CAUSES,microglial cell activation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326169,C0598958,CAUSES,microglial cell activation,Neuroprotection,celf,celf,1,CAUSES_CELFcausCELF
+C1326205,C0007587,CAUSES,Positive Regulation of Apoptosis,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1326205,C0162638,CAUSES,Positive Regulation of Apoptosis,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326205,C0596873,CAUSES,Positive Regulation of Apoptosis,lymphocyte proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C1326207,C0004391,CAUSES,"Programmed Cell Death, Type II",Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1326207,C0007587,CAUSES,"Programmed Cell Death, Type II",Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1326292,C0025251,CAUSES,pore complex assembly,Membrane Potentials,celf,celf,1,CAUSES_CELFcausCELF
+C1326292,C0031308,CAUSES,pore complex assembly,Phagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326292,C2610960,CAUSES,pore complex assembly,Pyroptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1326347,C3159226,CAUSES,fibroblast proliferation,fibroblast apoptotic process,celf,celf,1,CAUSES_CELFcausCELF
+C1327414,C1155080,CAUSES,cytokine secretion,T-helper 1 type immune response,celf,celf,1,CAUSES_CELFcausCELF
+C1327415,C2610960,CAUSES,interleukin-1 secretion,Pyroptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1327439,C1327414,CAUSES,immunoglobulin secretion,cytokine secretion,celf,celf,1,CAUSES_CELFcausCELF
+C1327616,C0004391,CAUSES,Cell secretion,Autophagy,celf,celf,2,CAUSES_CELFcausCELF
+C1511002,C0162638,CAUSES,b cell differentiation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1512772,C0004391,CAUSES,Negative Regulation of Apoptosis,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1512772,C0007587,CAUSES,Negative Regulation of Apoptosis,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1512772,C0162638,CAUSES,Negative Regulation of Apoptosis,Apoptosis,celf,celf,4,CAUSES_CELFcausCELF
+C1515432,C0162638,CAUSES,T-Cell Differentiation in the Thymus,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1516334,C0162638,CAUSES,Cell Cycle Progression,Apoptosis,celf,celf,4,CAUSES_CELFcausCELF
+C1516334,C1155873,CAUSES,Cell Cycle Progression,Cell Cycle Arrest,celf,celf,3,CAUSES_CELFcausCELF
+C1516337,C0162638,CAUSES,Cell Cycle Phase,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1516338,C0007587,CAUSES,Positive Regulation of Cell Death,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1516375,C0042774,CAUSES,Cellular Tropism,Virus Replication,celf,celf,1,CAUSES_CELFcausCELF
+C1516375,C1159455,CAUSES,Cellular Tropism,syncytium formation,celf,celf,1,CAUSES_CELFcausCELF
+C1516375,C1318468,CAUSES,Cellular Tropism,cell mediated immune response,celf,celf,1,CAUSES_CELFcausCELF
+C1517052,C0162638,CAUSES,Extracellular Matrix Degradation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1518060,C0162638,CAUSES,Lymphocyte Apoptotic Process,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C1519167,C0596290,CAUSES,Negative Regulation of S Phase,Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C1519624,C0007587,CAUSES,Transmembrane Transport,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1523908,C0162638,CAUSES,apoptotic cell clearance,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1523936,C0007587,CAUSES,cellular biosynthetic process,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1523936,C1159884,CAUSES,cellular biosynthetic process,fat cell differentiation,celf,celf,1,CAUSES_CELFcausCELF
+C1540661,C0004391,CAUSES,cell fate,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1622501,C0162638,CAUSES,"Migration, Cell",Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C1656555,C0031308,CAUSES,viral entry into host cell,Phagocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C1660642,C0010813,CAUSES,cellular localization,Cytokinesis,celf,celf,1,CAUSES_CELFcausCELF
+C1660642,C0162638,CAUSES,cellular localization,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C1660771,C0004391,CAUSES,Apoptosis of neurons,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1720920,C0007587,CAUSES,"Membrane Potential, Mitochondrial",Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1720920,C0162638,CAUSES,"Membrane Potential, Mitochondrial",Apoptosis,celf,celf,6,CAUSES_CELFcausCELF
+C1720920,C1516338,CAUSES,"Membrane Potential, Mitochondrial",Positive Regulation of Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C1749549,C2262820,CAUSES,potassium conductance,membrane hyperpolarization,celf,celf,1,CAUSES_CELFcausCELF
+C1750293,C1159455,CAUSES,viral envelope fusion,syncytium formation,celf,celf,1,CAUSES_CELFcausCELF
+C1816452,C0004391,CAUSES,mitochondrial depolarization,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1816452,C0162638,CAUSES,mitochondrial depolarization,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C1816452,C1820119,CAUSES,mitochondrial depolarization,Mitochondrial Degradation,celf,celf,1,CAUSES_CELFcausCELF
+C1816453,C0001272,CAUSES,membrane depolarization,Action Potentials,celf,celf,1,CAUSES_CELFcausCELF
+C1817908,C0004391,CAUSES,Cellular Immune Response,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1817908,C1155046,CAUSES,Cellular Immune Response,T-Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C1817908,C1155229,CAUSES,Cellular Immune Response,Humoral immune response,celf,celf,1,CAUSES_CELFcausCELF
+C1819041,C0004391,CAUSES,protein kinase activation,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C1820119,C0007587,CAUSES,Mitochondrial Degradation,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C1820119,C0162638,CAUSES,Mitochondrial Degradation,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C2244223,C0004391,CAUSES,cellular homeostasis,Autophagy,celf,celf,4,CAUSES_CELFcausCELF
+C2244223,C0007587,CAUSES,cellular homeostasis,Cell Death,celf,celf,3,CAUSES_CELFcausCELF
+C2244223,C0162638,CAUSES,cellular homeostasis,Apoptosis,celf,celf,4,CAUSES_CELFcausCELF
+C2247060,C0037083,CAUSES,integrin activation,Signal Transduction,celf,celf,1,CAUSES_CELFcausCELF
+C2262820,C0001272,CAUSES,membrane hyperpolarization,Action Potentials,celf,celf,1,CAUSES_CELFcausCELF
+C2265597,C0007587,CAUSES,mesenchymal cell proliferation,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C2610891,C0007587,CAUSES,T cell apoptotic process,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C2610960,C0004391,CAUSES,Pyroptosis,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C2611812,C0007587,CAUSES,signaling cascade,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C2611812,C0014139,CAUSES,signaling cascade,Endocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C2611812,C0162638,CAUSES,signaling cascade,Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C2611812,C1155065,CAUSES,signaling cascade,T-Cell Activation,celf,celf,2,CAUSES_CELFcausCELF
+C2611812,C1155873,CAUSES,signaling cascade,Cell Cycle Arrest,celf,celf,1,CAUSES_CELFcausCELF
+C2611812,C1622501,CAUSES,signaling cascade,"Migration, Cell",celf,celf,1,CAUSES_CELFcausCELF
+C2613145,C0004391,CAUSES,response to endoplasmic reticulum stress,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C2613145,C0162638,CAUSES,response to endoplasmic reticulum stress,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C2754100,C0598958,CAUSES,neuron death,Neuroprotection,celf,celf,1,CAUSES_CELFcausCELF
+C2936268,C0010813,CAUSES,Cytophagocytosis,Cytokinesis,celf,celf,1,CAUSES_CELFcausCELF
+C3156642,C1156309,CAUSES,clathrin-dependent endocytosis,syncytium formation by plasma membrane fusion,celf,celf,1,CAUSES_CELFcausCELF
+C3156642,C3271951,CAUSES,clathrin-dependent endocytosis,macropinocytosis,celf,celf,1,CAUSES_CELFcausCELF
+C3156669,C3156694,CAUSES,interleukin-10 secretion,interleukin-27 secretion,celf,celf,1,CAUSES_CELFcausCELF
+C3156680,C2610960,CAUSES,interleukin-18 secretion,Pyroptosis,celf,celf,1,CAUSES_CELFcausCELF
+C3156758,C1155013,CAUSES,T cell migration,T cell differentiation,celf,celf,1,CAUSES_CELFcausCELF
+C3158384,C0162638,CAUSES,neurite outgrowth,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C3178829,C0596290,CAUSES,M Phase Cell Cycle Arrest,Cell Proliferation,celf,celf,1,CAUSES_CELFcausCELF
+C3269135,C0007587,CAUSES,apoptotic signaling pathway,Cell Death,celf,celf,4,CAUSES_CELFcausCELF
+C3269241,C0162638,CAUSES,hepatocyte apoptotic process,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C3271951,C0206431,CAUSES,macropinocytosis,Antigen Presentation,celf,celf,1,CAUSES_CELFcausCELF
+C3494415,C1820119,CAUSES,Mitochondrial Dynamics,Mitochondrial Degradation,celf,celf,1,CAUSES_CELFcausCELF
+C3494456,C0004391,CAUSES,Mitochondrial Biogenesis,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C3544385,C0162638,CAUSES,pro-survival,Apoptosis,celf,celf,3,CAUSES_CELFcausCELF
+C3546359,C0007587,CAUSES,pro-apoptosis,Cell Death,celf,celf,2,CAUSES_CELFcausCELF
+C3546359,C0162638,CAUSES,pro-apoptosis,Apoptosis,celf,celf,6,CAUSES_CELFcausCELF
+C3546359,C1512772,CAUSES,pro-apoptosis,Negative Regulation of Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C3546446,C0162638,CAUSES,regulated cell death,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C3548489,C0004391,CAUSES,autophagosome maturation,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C3548489,C0007587,CAUSES,autophagosome maturation,Cell Death,celf,celf,1,CAUSES_CELFcausCELF
+C3548799,C0162638,CAUSES,memory T cell proliferation,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C3814045,C4235041,CAUSES,post-anaphase microtubule array,blebbing,celf,celf,1,CAUSES_CELFcausCELF
+C3821327,C0007595,CAUSES,cell-cell adhesion,cell growth,celf,celf,1,CAUSES_CELFcausCELF
+C3821327,C0872097,CAUSES,cell-cell adhesion,Anoikis,celf,celf,1,CAUSES_CELFcausCELF
+C3825288,C1155982,CAUSES,Cellular signal transduction,actin filament polymerization,celf,celf,1,CAUSES_CELFcausCELF
+C3893293,C0162638,CAUSES,mitochondrial calcium uptake,Apoptosis,celf,celf,1,CAUSES_CELFcausCELF
+C4235041,C0162638,CAUSES,blebbing,Apoptosis,celf,celf,2,CAUSES_CELFcausCELF
+C4236733,C0004391,CAUSES,xenophagy,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C4318743,C1160698,CAUSES,membrane tubulation,viral budding,celf,celf,1,CAUSES_CELFcausCELF
+C4326906,C0004391,CAUSES,membrane curvature,Autophagy,celf,celf,1,CAUSES_CELFcausCELF
+C4326906,C0007590,CAUSES,membrane curvature,Cell division,celf,celf,1,CAUSES_CELFcausCELF
+C4326906,C1326292,CAUSES,membrane curvature,pore complex assembly,celf,celf,1,CAUSES_CELFcausCELF
+C4326906,C2611772,CAUSES,membrane curvature,autophagosome assembly,celf,celf,1,CAUSES_CELFcausCELF
+C4326906,C2755558,CAUSES,membrane curvature,membrane fission,celf,celf,3,CAUSES_CELFcausCELF

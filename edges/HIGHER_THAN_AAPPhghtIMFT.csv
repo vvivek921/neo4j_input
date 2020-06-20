@@ -1,0 +1,45 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003241,C0003316,HIGHER_THAN,Antibodies,Epitopes,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0003241,C0003320,HIGHER_THAN,Antibodies,Antigens,aapp,imft,2,HIGHER_THAN_AAPPhghtIMFT
+C0003241,C0042210,HIGHER_THAN,Antibodies,Vaccines,aapp,imft,3,HIGHER_THAN_AAPPhghtIMFT
+C0003241,C1883036,HIGHER_THAN,Antibodies,Single-Chain Antibodies,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0003242,C0051967,HIGHER_THAN,"Antibodies, Anti-Idiotypic",anti-c antibody,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0003250,C0019168,HIGHER_THAN,Monoclonal Antibodies,Hepatitis B Surface Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0003250,C0042210,HIGHER_THAN,Monoclonal Antibodies,Vaccines,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0003343,C0003320,HIGHER_THAN,Viral Tumor Antigens,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0020838,C2825347,HIGHER_THAN,Secretory Immunoglobulin A,"Immunoglobulin A, Human",aapp,imft,2,HIGHER_THAN_AAPPhghtIMFT
+C0021027,C1883036,HIGHER_THAN,Immunoglobulins,Single-Chain Antibodies,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0021031,C1883036,HIGHER_THAN,Fab Immunoglobulins,Single-Chain Antibodies,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0034789,C0003316,HIGHER_THAN,"Receptors, Antigen, B-Cell",Epitopes,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0034790,C0003320,HIGHER_THAN,T-Cell Receptor,Antigens,aapp,imft,2,HIGHER_THAN_AAPPhghtIMFT
+C0034862,C0042211,HIGHER_THAN,"Vaccines, Recombinant","Vaccines, Attenuated",aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0042720,C0042742,HIGHER_THAN,Viral Genome,Viral Vaccines,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0051979,C2825347,HIGHER_THAN,anti-IgG,"Immunoglobulin A, Human",aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0063256,C0003320,HIGHER_THAN,I-E-antigen,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0086376,C0770694,HIGHER_THAN,GTP-Binding Proteins,trivalent influenza vaccine,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0162768,C0003320,HIGHER_THAN,Fusion protein,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0301847,C1883036,HIGHER_THAN,Complete antibody,Single-Chain Antibodies,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0301866,C2825347,HIGHER_THAN,Coproantibody,"Immunoglobulin A, Human",aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0312586,C0003320,HIGHER_THAN,Polyclonal antibody,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0359156,C0003372,HIGHER_THAN,Rabbit anti-human T-lymphocyte globulin,Antilymphocyte Serum,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0385112,C0042210,HIGHER_THAN,HLA-DR13 antigen,Vaccines,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0524815,C0003320,HIGHER_THAN,Viral N Protein,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C0879338,C0042210,HIGHER_THAN,interleukin-12 gene,Vaccines,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1302678,C0003316,HIGHER_THAN,Immunoglobulin region,Epitopes,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1335057,C1883036,HIGHER_THAN,"PTPN22 protein, human",Single-Chain Antibodies,aapp,imft,7,HIGHER_THAN_AAPPhghtIMFT
+C1335071,C0003316,HIGHER_THAN,Nuclear LIM Interactor-Interacting Factor 2,Epitopes,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1335676,C0003316,HIGHER_THAN,Recombinant Antibody,Epitopes,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1418194,C0003316,HIGHER_THAN,CLDN11 gene,Epitopes,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1418558,C2825347,HIGHER_THAN,PIGA gene,"Immunoglobulin A, Human",aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1419805,C0003320,HIGHER_THAN,SAG gene,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1422424,C0085355,HIGHER_THAN,ARHGAP9 gene,Human Platelet Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1423842,C2933874,HIGHER_THAN,NELFCD gene,MVA 85A,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1522002,C0042210,HIGHER_THAN,RNA Recognition Motif,Vaccines,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1624602,C0003320,HIGHER_THAN,Anti-Antibodies,Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C1706005,C2825347,HIGHER_THAN,CD40LG wt Allele,"Immunoglobulin A, Human",aapp,imft,2,HIGHER_THAN_AAPPhghtIMFT
+C2986918,C1627932,HIGHER_THAN,PSEN1 wt Allele,Adenovirus serotype,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C3147110,C0003333,HIGHER_THAN,DSCAM-AS1 gene,"Antigens, Heterophile",aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C3811616,C0019168,HIGHER_THAN,OVAAL gene,Hepatitis B Surface Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C3818725,C0003320,HIGHER_THAN,"corticotropin, human",Antigens,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C4281807,C0042210,HIGHER_THAN,"Vitronectin, human",Vaccines,aapp,imft,1,HIGHER_THAN_AAPPhghtIMFT
+C4287651,C0770694,HIGHER_THAN,Quadrivalent Inactivated Influenza Vaccine,trivalent influenza vaccine,aapp,imft,2,HIGHER_THAN_AAPPhghtIMFT

@@ -1,0 +1,627 @@
+cui,type,name
+C0001551,imft,Immunologic Adjuvants
+C0001697,imft,Aeroallergen
+C0001804,imft,Agglutinins
+C0002092,imft,Allergens
+C0002131,imft,Alloantigens
+C0003251,imft,"Antibodies, Neoplasm"
+C0003316,imft,Epitopes
+C0003320,imft,Antigens
+C0003321,imft,"Antigens, Bacterial"
+C0003322,imft,CD Antigens
+C0003324,imft,Differentiation Antigens
+C0003330,imft,"Antigens, Fungal"
+C0003331,imft,"Antigens, Helminth"
+C0003333,imft,"Antigens, Heterophile"
+C0003335,imft,"Antigens, Neoplasm"
+C0003339,imft,Surface Antigens
+C0003340,imft,"Antigens, T-Independent"
+C0003341,imft,"Antigens, Tumor-Associated, Carbohydrate"
+C0003342,imft,"Antigens, Viral"
+C0003372,imft,Antilymphocyte Serum
+C0003445,imft,Antitoxins
+C0004359,imft,Autoantigens
+C0004632,imft,Bacterial Vaccines
+C0004886,imft,BCG Vaccine
+C0005457,imft,"Binding Sites, Antibody"
+C0005525,imft,Biological Response Modifiers
+C0005804,imft,Blood Group Antigens
+C0006044,imft,Botulinum Antitoxin
+C0006610,imft,CA-125 Antigen
+C0006613,imft,CA-19-9 Antigen
+C0008014,imft,"Chemotactic Factors, Eosinophil"
+C0008015,imft,Macrophage Chemotactic Factors
+C0008359,imft,Cholera Vaccine
+C0008897,imft,Human Class I Antigens
+C0010594,imft,Cyclosporins
+C0012559,imft,Diphtheria-Tetanus-Pertussis Vaccine
+C0016712,imft,Freund's Adjuvant
+C0016831,imft,Fungal Vaccines
+C0018442,imft,H-2 Antigens
+C0018593,imft,Haptens
+C0018909,imft,Hemagglutinin
+C0018911,imft,"Hemagglutinins, Viral"
+C0019164,imft,Hepatitis B Antibodies
+C0019165,imft,Hepatitis B Antigens
+C0019166,imft,Hepatitis B Core Antigen
+C0019167,imft,Hepatitis B e Antigens
+C0019168,imft,Hepatitis B Surface Antigens
+C0019628,imft,Histocompatibility Antigens
+C0019728,imft,HLA-A Antigens
+C0019770,imft,HLA-DR2 Antigen
+C0021009,imft,Immunoglobulin Fragments
+C0021054,imft,Immunologic Factors
+C0021081,imft,Immunosuppressive Agents
+C0021084,imft,Immunotoxins
+C0021403,imft,Influenza virus vaccine
+C0021644,imft,Insulin Antibodies
+C0021742,imft,Interferon Inducers
+C0022144,imft,Isoantibodies
+C0022185,imft,Isohemagglutinins
+C0023158,imft,Lymphocyte antigen
+C0023767,imft,Lipid A
+C0025010,imft,Measles Vaccine
+C0026189,imft,Minor Histocompatibility Antigens
+C0026484,imft,Monokines
+C0026782,imft,Mumps Vaccine
+C0031237,imft,Pertussis Vaccine
+C0032066,imft,Plague Vaccine
+C0032172,imft,Platelet Activating Factor
+C0032374,imft,Poliovirus Vaccines
+C0032375,imft,Oral Poliovirus Vaccine
+C0032595,imft,"Polysaccharides, Bacterial"
+C0034496,imft,Rabies Vaccines
+C0036106,imft,Salk Vaccine
+C0037355,imft,Smallpox Vaccine
+C0038168,imft,Staphylococcal Vaccines
+C0038973,imft,SV40 T Proteins
+C0039620,imft,Tetanus Vaccine
+C0040555,imft,Toxoids
+C0040673,imft,Transfer Factor
+C0041305,imft,Tuberculosis Vaccines
+C0041469,imft,"Vaccines, Typhoid"
+C0042210,imft,Vaccines
+C0042211,imft,"Vaccines, Attenuated"
+C0042212,imft,"Vaccines, Inactivated"
+C0042742,imft,Viral Vaccines
+C0042771,imft,Virus inhibitors
+C0051967,imft,anti-c antibody
+C0052063,imft,antimacrophage globulin
+C0053438,imft,Thomsen-Friedenreich antigen
+C0054145,imft,Broncho-Vaxom
+C0056548,imft,cryptdin
+C0057317,imft,Hepatitis delta Antigens
+C0058782,imft,DTPP vaccine
+C0059586,imft,Escherichia coli Vaccines
+C0062082,imft,Haemophilus influenza type b polysaccharide vaccine-tetanus toxin conjugate
+C0062083,imft,Haemophilus influenzae type b-polysaccharide vaccine-diphtheria toxoid conjugate
+C0062086,imft,Haemophilus influenzae type b polysaccharide vaccine
+C0062200,imft,"Hemagglutinin Glycoproteins, Influenza Virus"
+C0062523,imft,Hepatitis A Antigens
+C0064848,imft,leukotriene B5
+C0065828,imft,Measles-Mumps-Rubella Vaccine
+C0066992,imft,myasthenia gravis anti-skeletal muscle antibody
+C0069115,imft,"Antigens, Nuclear"
+C0069180,imft,O Antigens
+C0071315,imft,Pneumovax
+C0074480,imft,sialosyl-Tn antigen
+C0075462,imft,succinylated wheat germ agglutinin
+C0075530,imft,sulfate-3-glucuronyl paragloboside
+C0076533,imft,Thomsen-Friedenreich antibodies
+C0076765,imft,Tn antigen
+C0078048,imft,Chickenpox Vaccine
+C0078968,imft,"Antigens, Immunodominant"
+C0079600,imft,Immunodominant Epitopes
+C0079786,imft,Macrophage-Activating Factors
+C0080188,imft,"Antigens, CD15"
+C0085355,imft,Human Platelet Antigens
+C0085358,imft,CD8 Antigens
+C0085408,imft,ISCOMs
+C0085432,imft,AIDS Vaccines
+C0086145,imft,Dialyzable Leukocyte Extract
+C0086413,imft,HIV Vaccine
+C0103503,imft,anti-Lyt-2
+C0103647,imft,Antineutrophil Cytoplasmic Antibodies
+C0109016,imft,Centoxin
+C0120568,imft,H-2D(d) Antigen
+C0121459,imft,Hepatitis C Antigens
+C0123486,imft,"imciromab pentetate, radiolabeled product"
+C0127526,imft,Meningococcal Polysaccharide Vaccine
+C0132092,imft,nebacumab
+C0138547,imft,Prohibit
+C0147265,imft,Ty21a typhoid vaccine
+C0163642,imft,OM-85 BV
+C0165938,imft,Xomen-E5
+C0170300,imft,Hepatitis A Vaccines
+C0174745,imft,Pseudorabies Vaccines
+C0174878,imft,Syntex adjuvant formulation
+C0178481,imft,antibody inhibitor
+C0178489,imft,attenuated microorganism
+C0206253,imft,"Vaccines, Combined"
+C0206255,imft,Malaria Vaccines
+C0206514,imft,Haemophilus Vaccines
+C0206515,imft,"Vaccines, Conjugate"
+C0207809,imft,anti-Thy 1.2 antibody
+C0209660,imft,loxoribine
+C0211671,imft,ALVAC vaccine
+C0213677,imft,OKT4A monoclonal antibody
+C0221114,imft,Antigen recognition site
+C0221133,imft,Blood group antigen P
+C0236509,imft,Respiratory syncytial virus antigen
+C0242654,imft,SIV Vaccine
+C0243020,imft,Immunoconjugates
+C0243537,imft,lactoserum
+C0244078,imft,lyso-platelet activating factor
+C0244512,imft,Menomune
+C0246612,imft,edobacomab
+C0252534,imft,pericentrin
+C0255448,imft,anti-endothelial cell antibody
+C0279020,imft,tumor cell derivative vaccine
+C0281606,imft,recombinant viral vaccine
+C0282115,imft,"Vaccines, Contraceptive"
+C0282580,imft,"Epitopes, T-Lymphocyte"
+C0282581,imft,"Epitopes, B-Lymphocyte"
+C0282681,imft,Enhancing Antibodies
+C0286848,imft,stage-specific embryonic antigen-4
+C0298751,imft,Lewis Y antigen
+C0301508,imft,Yellow Fever Vaccine
+C0301837,imft,Particulate antigen
+C0301838,imft,Soluble antigen
+C0301839,imft,Sequestered antigen
+C0301856,imft,Soluble immune complex
+C0301869,imft,Immunostimulating conjugate (antigen)
+C0301871,imft,Immunoprecipitate
+C0301975,imft,Plasma kinin
+C0301976,imft,Incomplete adjuvant
+C0304951,imft,Diagnostic antigen
+C0305065,imft,Polyvalent pneumococcal vaccine
+C0305354,imft,Attenuvax
+C0306780,imft,Meruvax II
+C0310330,imft,TGE VACCINE
+C0310663,imft,Animal disease vaccine
+C0310728,imft,Feline infectious peritonitis virus vaccine
+C0310757,imft,Parvovirus vaccine
+C0312555,imft,Neoantigen
+C0312561,imft,Homologous antigen
+C0312562,imft,Idiotope
+C0312653,imft,HLA class II antigen
+C0358297,imft,Anthrax Vaccines
+C0358314,imft,Pneumococcal vaccine
+C0368612,imft,Adenovirus Antigen
+C0368675,imft,antibody antigen
+C0369070,imft,CyCD3
+C0369082,imft,CYTOMEGALOVIRUS ANTIGEN
+C0369095,imft,d antibody
+C0369103,imft,Dengue virus antigen
+C0369342,imft,Herpes simplex virus antigen
+C0369498,imft,HIV-1 antigen
+C0369952,imft,Rotavirus antigen
+C0370030,imft,Streptococcus pneumoniae antigen
+C0370148,imft,von Willebrand factor multimer
+C0376613,imft,"Vaccines, DNA"
+C0379473,imft,Vaqta
+C0383881,imft,CDw17 antigen
+C0440523,imft,B*2701
+C0440536,imft,B*3902
+C0443758,imft,Carbohydrate antigen
+C0443797,imft,Antigen in ABO blood group system
+C0443809,imft,Rhd antigen
+C0443980,imft,B-cell marker
+C0443981,imft,Neuronal cell marker
+C0450099,imft,Influenza virus antigen
+C0456981,imft,Specific antigen
+C0486379,imft,B lymphocyte antigen
+C0487173,imft,M little g Ag
+C0487378,imft,Plasmodium falciparum antigen
+C0521390,imft,neuronal
+C0522281,imft,Cryptococcal antigen
+C0524581,imft,House Dust
+C0527671,imft,monoclonal antibody ZCE 025
+C0528335,imft,TSH receptor antibody
+C0529257,imft,Sulesomab
+C0535644,imft,Diphtheria-Tetanus-acellular Pertussis Vaccines
+C0538017,imft,allergen Bla g 1
+C0540128,imft,G250 monoclonal antibody
+C0540218,imft,monoclonal antibody GK1.5
+C0552764,imft,Hepatitis B virus core Ag
+C0555907,imft,Human leukocyte antigen allele
+C0555909,imft,Human leukocyte antigen B allele
+C0581779,imft,Streptococcus antigen
+C0591524,imft,fluarix
+C0593953,imft,Twinrix
+C0595976,imft,U ANTIGEN
+C0596057,imft,airborne allergen
+C0596696,imft,Herpesviridae vaccine
+C0597420,imft,Salmonella Vaccines
+C0597449,imft,Shigella Vaccines
+C0597641,imft,plasmid vaccine
+C0598058,imft,gold antigen
+C0598577,imft,Nematode antigen
+C0598658,imft,antibody conjugate
+C0598670,imft,peroxidase labeled antibody
+C0598896,imft,macrophage product
+C0599597,imft,genetic vaccine
+C0599796,imft,mhc antigen
+C0599934,imft,"Vaccines, Peptide"
+C0600412,imft,Nucleic Acid Vaccines
+C0605001,imft,La Sota vaccine
+C0618073,imft,Tpre
+C0633763,imft,anti-synaptophysin
+C0653147,imft,gigalin E
+C0656326,imft,DryVax vaccine
+C0668008,imft,4C7 monoclonal antibody
+C0669873,imft,H5 hemagglutinin
+C0675237,imft,hemagglutinin I
+C0675907,imft,AIDSVAX
+C0678100,imft,dinitrophenyl
+C0694750,imft,Rubella/Mumps vaccine
+C0695130,imft,Live adenovirus type 7 vaccine oral dosage form
+C0700144,imft,Meningococcal vaccine
+C0700881,imft,Havrix
+C0717360,imft,Lyme Disease Vaccine
+C0717551,imft,Candida albicans extract
+C0717718,imft,"diphtheria/pertussis, whole cell/tetanus"
+C0718003,imft,"Poliovirus Vaccine, Inactivated"
+C0720491,imft,fluvirin
+C0720492,imft,Fluzone
+C0721165,imft,Je-Vax
+C0722981,imft,RabAvert
+C0723145,imft,RotaShield
+C0723325,imft,Simulect
+C0724434,imft,YF-Vax
+C0732248,imft,Priorix
+C0733160,imft,Murine-human monoclonal immunoglobulin G antibody
+C0733466,imft,Orthoclone OKT3
+C0757164,imft,Odulimomab
+C0757166,imft,anti-LFA-1 monoclonal antibody
+C0770689,imft,"MEASLES VIRUS VACCINE,LIVE ATTENUATED"
+C0770694,imft,trivalent influenza vaccine
+C0770698,imft,"Poliovirus vaccine, live"
+C0772459,imft,ESCHERICHIA COLI ANTIGEN
+C0795623,imft,"Hepatitis A Vaccine, Inactivated"
+C0796473,imft,BL22 immunotoxin
+C0796601,imft,fowlpox virus vaccine
+C0805362,imft,Bovine coronavirus Ag
+C0805975,imft,Echovirus NOS Ab
+C0806324,imft,Helicobacter pylori Ag
+C0806358,imft,Herpes simplex virus 1 Antigen
+C0806366,imft,Herpes simplex virus 2 Antigen
+C0807093,imft,Neuronal Ab
+C0807098,imft,neutrophil antibody
+C0879438,imft,allogeneic lymphocytes
+C0883007,imft,Dirofilaria immitis antigen
+C0887892,imft,"Vaccines, Subunit"
+C0887893,imft,Parainfluenza Vaccines
+C0887894,imft,Respiratory Syncytial Virus Vaccines
+C0887895,imft,"Vaccines, Acellular"
+C0887902,imft,"Vaccines, Edible"
+C0887906,imft,Streptococcal Vaccines
+C0887908,imft,"Vaccines, Marker"
+C0905677,imft,inolimomab
+C0907160,imft,pegylated interferon alfa
+C0907539,imft,H7 hemagglutinin
+C0911685,imft,H-type-1 antigen
+C0913232,imft,Pre-B Cell Receptors
+C0914468,imft,class-I restricted T cell-associated molecule
+C0914798,imft,sevirumab
+C0916226,imft,lymphocryptovirus nuclear antigen 3C
+C0939276,imft,Campath
+C0946132,imft,Human papilloma virus (antigen)
+C0947642,imft,Pneumovax 23
+C0961101,imft,23-valent pneumococcal capsular polysaccharide vaccine
+C0965249,imft,StaphVax
+C0965741,imft,MOv18 monoclonal antibody
+C0971007,imft,p27 antigen
+C0979582,imft,Pneumococcal 7-valent conjugate vaccine
+C0982273,imft,MENINGOCOCCAL POLYSACCHARIDE
+C0982332,imft,"acellular pertussis vaccine, inactivated"
+C1134640,imft,fowlpox-PSA vaccine
+C1135129,imft,advexin
+C1135133,imft,Provenge
+C1135619,imft,Dermatophagoides pteronyssinus antigen
+C1165245,imft,Pacis
+C1171883,imft,O-acetyl sialic acid
+C1174349,imft,"Rev.1 vaccine, Brucella melitensis"
+C1175421,imft,Globo-H
+C1176430,imft,Pegasys
+C1178562,imft,Campath 1H
+C1259157,imft,Inflexal V
+C1271482,imft,MabCampath
+C1277100,imft,Diphtheria-Tetanus-(whole-cell) Pertussis Vaccine
+C1291776,imft,Rickettsial antigen
+C1291777,imft,Protein antigen
+C1291778,imft,Glycoprotein antigen
+C1291802,imft,"Human immunodeficiency virus, type I glycoprotein antigen 120"
+C1291803,imft,"Human immunodeficiency virus, type 1 glycoprotein antigen 160"
+C1291842,imft,Influenzavirus A antigen
+C1291845,imft,Erythrocyte antigen
+C1299874,imft,West Nile Virus Vaccines
+C1302005,imft,Parainfluenza virus vaccine
+C1302095,imft,Bordetella vaccine
+C1302682,imft,Entire immunoglobulin
+C1305958,imft,Agglutinating antibody
+C1305959,imft,Complement factor
+C1311943,imft,FluMist
+C1313522,imft,monoclonal antibody BIWA 4
+C1320124,imft,Malaria antigen
+C1320238,imft,Pollen (allergen)
+C1320239,imft,Food allergen
+C1320241,imft,Mite allergen
+C1320243,imft,Occupational allergen
+C1327897,imft,autologous immunoglobulin idiotype-KLH conjugate vaccine
+C1328134,imft,matuzumab
+C1328238,imft,ING-1
+C1328709,imft,Siplizumab
+C1328858,imft,cockroach allergen
+C1440044,imft,"A,B"
+C1440087,imft,Amyloid A component
+C1440117,imft,B variant NOS
+C1440152,imft,Bombay
+C1440154,imft,Bordetella pertussis.toxin
+C1440177,imft,BR-2
+C1440199,imft,Candida sp
+C1440203,imft,Carageenan
+C1440440,imft,Chicken serum
+C1440466,imft,Cladosporium sp.
+C1440479,imft,Coffea spp
+C1440504,imft,Coxsackievirus A10
+C1440505,imft,Coxsackievirus A16
+C1440513,imft,Coxsackievirus B2
+C1440514,imft,Coxsackievirus B3
+C1440515,imft,Coxsackievirus B4
+C1440524,imft,Curry
+C1440525,imft,Curvularia sp
+C1440582,imft,Echovirus 7
+C1440608,imft,Eucalyptus spp
+C1440661,imft,Haemophilus influenzae D
+C1440666,imft,Hay
+C1440681,imft,Hepatitis B virus core
+C1440684,imft,Hepatitis B virus surface
+C1440710,imft,HIV 1 gp41
+C1440714,imft,HIV 1 p17
+C1440718,imft,HIV 1 p24
+C1440759,imft,Horse meat
+C1440768,imft,HTLV I gp46
+C1440808,imft,IgA.heavy chain
+C1440811,imft,IgM.heavy chain
+C1440885,imft,Legionella pneumophila 6
+C1440917,imft,little c
+C1440918,imft,little e
+C1440919,imft,little f
+C1440921,imft,little i NOS
+C1440922,imft,little k
+C1440923,imft,little p
+C1440925,imft,little s
+C1440942,imft,M-5
+C1440949,imft,Mare milk
+C1440965,imft,Milk powder
+C1440967,imft,Mink epithelium
+C1440972,imft,Monkey epithelium
+C1440974,imft,Monosialoganglioside GM1
+C1441012,imft,Neuronal nuclear
+C1441016,imft,Neutrophil associated
+C1441025,imft,Nuclear mitotic apparatus
+C1441055,imft,Paraneoplastic
+C1441070,imft,Phadiatop
+C1441082,imft,Phoma sp
+C1441085,imft,Pigeon serum
+C1441093,imft,Platelet associated
+C1441094,imft,PM-1
+C1441105,imft,Prostate specific
+C1441120,imft,Pullularia sp
+C1441127,imft,Rabbit serum protein
+C1441153,imft,Ribosomal P
+C1441165,imft,S-100
+C1441252,imft,Streptococcus pneumoniae 3
+C1441280,imft,termamyl
+C1441481,imft,Antihuman globulin
+C1442922,imft,Lamb antigen
+C1443014,imft,Dog antigen
+C1443907,imft,Botulinum toxoid
+C1446647,imft,Milk antigen
+C1446649,imft,Mite antigen
+C1446777,imft,Rabbit antigen
+C1446837,imft,Schistosoma mansoni antigen
+C1449556,imft,Ebola Vaccines
+C1449622,imft,Plantibodies
+C1454066,imft,PfCSP DNA vaccine
+C1455722,imft,Mouse antigen
+C1456404,imft,Trivalent Live Attenuated Influenza Vaccine
+C1508482,imft,West Nile virus NS5
+C1511767,imft,dendritic cell vaccine
+C1512318,imft,HPV 16 L1-VLP
+C1514218,imft,Polyvalent Vaccine
+C1515856,imft,Lapuleucel-T
+C1516086,imft,Attenuated Live Virus Vaccine
+C1518416,imft,Normal Horse Serum
+C1519887,imft,Vaccine Antigen
+C1519903,imft,PROSTVAC
+C1519904,imft,Vaccinia Vaccine
+C1520145,imft,Whole Cell Vaccine
+C1522481,imft,MART-1 Antigen
+C1525451,imft,Basement membrane zone
+C1528012,imft,Rotarix
+C1528013,imft,RotaTeq
+C1541366,imft,allogeneic GM-CSF-secreting breast cancer vaccine
+C1541801,imft,TroVax
+C1545500,imft,Influenza virus A hemagglutinin
+C1545526,imft,Intercellular substance
+C1545739,imft,Rhinovirus Antigen
+C1548339,imft,Allergen Type - Plant
+C1548477,imft,Dengue fever vaccine
+C1548478,imft,hantavirus vaccine
+C1548480,imft,hepatitis E vaccine
+C1548483,imft,Leishmaniasis Vaccine
+C1548485,imft,Rift Valley fever vaccine
+C1567129,imft,Menactra
+C1567994,imft,"Antigens, Plant"
+C1569170,imft,polyvalent mechanical bacterial lysate
+C1570213,imft,DermaVir
+C1579313,imft,IMMUNE STIMULANTS
+C1579314,imft,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed
+C1579319,imft,Pneumococcal conjugate vaccine
+C1624746,imft,Ebola virus Ag
+C1627932,imft,Adenovirus serotype
+C1660580,imft,Meningococcal conjugate vaccine
+C1699926,imft,fingolimod
+C1706452,imft,Stem cell product
+C1706668,imft,sipuleucel-T
+C1708303,imft,IMO-2055
+C1711334,imft,HPV 18 L1-VLP
+C1718680,imft,Avian metapneumovirus C
+C1718821,imft,HIV 2 proviral
+C1720918,imft,Herpes Zoster Vaccine
+C1720919,imft,Zostavax
+C1721787,imft,Gardasil
+C1721789,imft,Cervarix
+C1741817,imft,Adecatumumab
+C1815328,imft,Hypertet
+C1829820,imft,Melan-A Ag
+C1871206,imft,Pollinex Quattro
+C1871783,imft,BAT monoclonal antibody
+C1872587,imft,Fendrix
+C1883036,imft,Single-Chain Antibodies
+C1955291,imft,HIV 1 proviral
+C1955474,imft,Plerixafor
+C1962943,imft,krestin
+C1963012,imft,Reovirus (antigen)
+C1976944,imft,FOXP3 Ag
+C1977564,imft,Hepatocyte Ag
+C1979662,imft,CBir1
+C1979849,imft,Antimouse
+C1979857,imft,Cancer Ag
+C2003457,imft,MenACWY
+C2054270,imft,tdap immunization
+C2148557,imft,hepatitis C vaccine
+C2188947,imft,flavivirus Vaccination
+C2240392,imft,Hepatitis B Vaccines
+C2267224,imft,Beef Antigen
+C2343521,imft,Cimzia
+C2347170,imft,Mixed Bacteria Vaccine
+C2348784,imft,Pexastimogene-devacirepvec
+C2350237,imft,Autovaccines
+C2350531,imft,Stage-Specific Embryonic Antigens
+C2352429,imft,imvamune
+C2352839,imft,sialyl Lewis X antigen
+C2353376,imft,FluBlok
+C2355474,imft,hepatitis B vaccine AS04
+C2362079,imft,TAU 3
+C2599731,imft,Cytomegalovirus immediate-early Ag
+C2699265,imft,Salmonella Typhi Antigen
+C2700137,imft,Vaccinia Virus Antigen
+C2701271,imft,tobacco leaf extract
+C2701384,imft,German cockroach allergenic extract
+C2701404,imft,mustard pollen extract
+C2701595,imft,horse skin extract
+C2701821,imft,hog skin extract
+C2702169,imft,Stelara
+C2703138,imft,ficlatuzumab
+C2709990,imft,Hepatitis B Virus Antigen
+C2714181,imft,13-valent pneumococcal vaccine
+C2720503,imft,casein allergenic extract
+C2722017,imft,Bean extract
+C2722030,imft,dog skin extract
+C2737043,imft,Hepatitis C virus E2
+C2737113,imft,Knops group
+C2746518,imft,Hizentra
+C2747605,imft,orange pekoe tea allergenic extract
+C2756364,imft,Prevnar 13
+C2756957,imft,"thymocyte immunoglobulin, equine"
+C2825347,imft,"Immunoglobulin A, Human"
+C2924278,imft,Coxsackievirus A24
+C2933874,imft,MVA 85A
+C2936379,imft,"Vaccines, Virus-Like Particle"
+C2973446,imft,brentuximab vedotin
+C2981836,imft,arepanrix
+C2981837,imft,pandemrix
+C2982066,imft,gantenerumab
+C2982078,imft,benralizumab
+C2982101,imft,Pascolizumab
+C2986386,imft,Virus-neutralizing Antibody
+C2987352,imft,Nesvacumab
+C2987378,imft,"Anti-CEA BiTE Monoclonal Antibody MEDI-565, Human"
+C2987603,imft,mogamulizumab
+C3152625,imft,Pneumococcal 13-valent conjugate vaccine
+C3161957,imft,INFLUENZA strains
+C3176950,imft,Cytoplasmic CD3
+C3178367,imft,MVA vaccine
+C3179547,imft,secukinumab
+C3181597,imft,4E10 monoclonal antibody
+C3181598,imft,2F5 monoclonal antibody
+C3192355,imft,Adcetris
+C3257575,imft,Live Attenuated Herpes Zoster Virus Vaccine [EPC]
+C3257585,imft,Live Attenuated Rubella Virus Vaccine [EPC]
+C3272757,imft,Live Attenuated Influenza Vaccine
+C3273243,imft,Polysaccharide Vaccine
+C3490361,imft,Act-Hib vaccine
+C3491331,imft,brodalumab
+C3493632,imft,MenAfriVac
+C3494503,imft,R04909832
+C3495466,imft,Toxoid Vaccine
+C3501548,imft,AIDSVAX B-E
+C3502654,imft,pediacel
+C3526553,imft,"diphtheria, tetanus toxoids and acellular pertussis vaccine"
+C3529763,imft,hecolin
+C3530029,imft,advax
+C3537121,imft,APC 8024
+C3641733,imft,Ganglioside GQ
+C3652536,imft,snake venom antiserum
+C3652538,imft,rabies serum
+C3652556,imft,"influenza, live attenuated"
+C3652917,imft,"cholera, live attenuated"
+C3652922,imft,Brucella Ag
+C3653372,imft,Selective immunosuppressants
+C3653805,imft,Yellow fever vaccines
+C3659141,imft,rAd40
+C3661283,imft,Romosozumab
+C3698577,imft,Feline immunodeficiency vaccine
+C3700882,imft,ANDROCTONUS AUSTRALIS VENOM
+C3713288,imft,Dukoral
+C3714466,imft,Tetanus + diphtheria + acellular pertussis vaccine
+C3825206,imft,Phospholipid antibodies
+C3825967,imft,Microbial polysaccharides
+C3833499,imft,AS03 Adjuvant
+C3849486,imft,10-valent pneumococcal conjugate vaccine
+C3853911,imft,Bexsero
+C3855916,imft,Coccidioides immitis spherule
+C3885146,imft,olokizumab
+C3886307,imft,GVAX vaccine
+C4019419,imft,Aspergillus antigen
+C4035465,imft,Anti-DR4
+C4035497,imft,Anti-B14
+C4035498,imft,Anti-B12
+C4038486,imft,Cytomegalovirus pp65
+C4039466,imft,Borrelia Ag
+C4040232,imft,Plasmodium Ag
+C4040385,imft,Allergen product
+C4040863,imft,Legionella Ag
+C4040950,imft,Giardia Ag
+C4041919,imft,ligelizumab
+C4043101,imft,aducanumab
+C4047368,imft,Birch pollen allergen
+C4075106,imft,Variola virus antigen
+C4079504,imft,CYD-TDV vaccine
+C4086713,imft,PD1 Inhibitor
+C4086987,imft,3M 052
+C4276007,imft,"influenza A virus vaccine, A-Vietnam-1203-2004 (H5N1)-like virus"
+C4276833,imft,glucopyranosyl lipid-A
+C4281563,imft,Coxsackievirus A4
+C4281564,imft,Echovirus 1
+C4281792,imft,Malassezia sp
+C4282211,imft,IgA.serum
+C4282212,imft,IgG.serum
+C4282213,imft,IgM.serum
+C4293367,imft,Lartruvo
+C4300317,imft,Lysoganglioside
+C4300350,imft,Programmed cell death ligand 1
+C4308268,imft,AR4A cross-neutralizing monoclonal antibody
+C4484091,imft,Toxoplasma gondii Ag
+C4505396,imft,High-Dose Trivalent Influenza Vaccine
+C4505399,imft,Universal Flu Vaccines
+C4524703,imft,Crizanlizumab
+C4527227,imft,Allogeneic CD19-specific Universal CAR19-expressing T-lymphocytes
+C4530100,imft,Shingrix
+C4541385,imft,Heplisav-B
+C4549501,imft,Matrix-M
+C4549503,imft,fremanezumab
+C4550936,imft,sTNF-R1

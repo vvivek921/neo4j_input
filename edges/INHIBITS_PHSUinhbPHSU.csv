@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002932,C3543842,INHIBITS,Anesthetics,TONICS,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003451,C0358591,INHIBITS,Antiviral Agents,Proton Pump Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0009117,C0003280,INHIBITS,Coagulants,Anticoagulants,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0039051,C3543842,INHIBITS,Sympatholytics,TONICS,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0041983,C0003364,INHIBITS,Uricosuric Agents,Antihypertensive Agents,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0042397,C0042402,INHIBITS,Vasoconstrictor Agents,Vasodilator Agents,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C0242904,C3543842,INHIBITS,"Anesthetics, Intravenous",TONICS,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0642228,C0003211,INHIBITS,N(4)-oleylcytosine arabinoside,"Anti-Inflammatory Agents, Non-Steroidal",phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C0719214,C0003364,INHIBITS,century,Antihypertensive Agents,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C3537103,C3537104,INHIBITS,Nucleoside Reverse Transcriptase Inhibitor,Non-nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C3537104,C3537103,INHIBITS,Non-nucleoside Reverse Transcriptase Inhibitor,Nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C3539957,C0003451,INHIBITS,opium alkaloids and derivative combination cough suppressants,Antiviral Agents,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C3543842,C0006280,INHIBITS,TONICS,Bronchodilator Agents,phsu,phsu,1,INHIBITS_PHSUinhbPHSU

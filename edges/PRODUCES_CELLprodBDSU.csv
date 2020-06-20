@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004112,C0015349,PRODUCES,Astrocytes,Extracellular Fluid,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0004561,C0036087,PRODUCES,B-Lymphocytes,saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0004561,C0178913,PRODUCES,B-Lymphocytes,Blood specimen,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0005821,C0005767,PRODUCES,Blood Platelets,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0005821,C0229671,PRODUCES,Blood Platelets,Serum,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0007600,C0005889,PRODUCES,Cultured Cell Line,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0007600,C0026727,PRODUCES,Cultured Cell Line,Mucous body substance,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0007600,C0036087,PRODUCES,Cultured Cell Line,saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0007600,C1550101,PRODUCES,Cultured Cell Line,Supernatant,cell,bdsu,2,PRODUCES_CELLprodBDSU
+C0009013,C0005767,PRODUCES,Clone Cells,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0009013,C1550101,PRODUCES,Clone Cells,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0014467,C0005889,PRODUCES,eosinophil,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0014597,C0026727,PRODUCES,Epithelial Cells,Mucous body substance,cell,bdsu,3,PRODUCES_CELLprodBDSU
+C0014597,C2753459,PRODUCES,Epithelial Cells,mucus layer,cell,bdsu,3,PRODUCES_CELLprodBDSU
+C0020204,C0003964,PRODUCES,Hybridomas,Peritoneal Fluid (body substance),cell,bdsu,11,PRODUCES_CELLprodBDSU
+C0020204,C0005889,PRODUCES,Hybridomas,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0020204,C1550101,PRODUCES,Hybridomas,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0022688,C3641255,PRODUCES,Natural Killer Cells,Lavage Fluid,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0022801,C0032105,PRODUCES,Hepatic macrophage,Plasma,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0026473,C0005767,PRODUCES,Monocytes,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0027950,C0005889,PRODUCES,neutrophil,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0027950,C0032105,PRODUCES,neutrophil,Plasma,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0029418,C0032105,PRODUCES,Osteoblasts,Plasma,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0032112,C1959692,PRODUCES,Plasma Cells,Lacrimal fluid,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0036770,C0005889,PRODUCES,Structure of sertoli cell,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0038250,C0005767,PRODUCES,Stem cells,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0039194,C0032105,PRODUCES,T-Lymphocyte,Plasma,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0039194,C0039097,PRODUCES,T-Lymphocyte,Synovial Fluid,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0039194,C1550101,PRODUCES,T-Lymphocyte,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0039215,C0015733,PRODUCES,CD4 Positive T Lymphocytes,Feces,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0042542,C0005889,PRODUCES,Vero Cells,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0085236,C0036087,PRODUCES,"Macrophages, Alveolar",saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0178708,C1550101,PRODUCES,immortalized cell,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0221284,C0036087,PRODUCES,Leptocyte,saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0225338,C0026727,PRODUCES,Columnar epithelial cell,Mucous body substance,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0225668,C0026727,PRODUCES,Clara cell,Mucous body substance,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0227525,C0005767,PRODUCES,Hepatocyte,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0228092,C0162367,PRODUCES,Ependymal cell,Interstitial Fluid,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0312737,C0229671,PRODUCES,Immunologic cell,Serum,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0333843,C0003964,PRODUCES,Myeloma cell,Peritoneal Fluid (body substance),cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0506994,C0026727,PRODUCES,Goblet Cells,Mucous body substance,cell,bdsu,25,PRODUCES_CELLprodBDSU
+C0506994,C0225392,PRODUCES,Goblet Cells,Nasal mucus,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0506994,C2753459,PRODUCES,Goblet Cells,mucus layer,cell,bdsu,6,PRODUCES_CELLprodBDSU
+C0596981,C0005767,PRODUCES,Muscle Cells,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0598800,C0230885,PRODUCES,Pericytes,Extracellular material,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0677626,C1550101,PRODUCES,hepatoma cell,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0682542,C1550101,PRODUCES,ciliated cell,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0814997,C0026727,PRODUCES,Intestinal cell,Mucous body substance,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0814997,C0036087,PRODUCES,Intestinal cell,saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1182654,C0005889,PRODUCES,Corneal endothelial cell,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1268006,C0229664,PRODUCES,Neutrophilic granulocytic cell,peripheral blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1321301,C0229664,PRODUCES,Peripheral blood mononuclear cell (cell),peripheral blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1321301,C1550101,PRODUCES,Peripheral blood mononuclear cell (cell),Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1519221,C0026727,PRODUCES,Secretory cell,Mucous body substance,cell,bdsu,3,PRODUCES_CELLprodBDSU
+C1519221,C0036087,PRODUCES,Secretory cell,saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1883178,C0003964,PRODUCES,Subclone,Peritoneal Fluid (body substance),cell,bdsu,2,PRODUCES_CELLprodBDSU
+C2323499,C0005767,PRODUCES,Hematopoietic cell,Blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C2936239,C1550101,PRODUCES,HEK293 Cells,Supernatant,cell,bdsu,2,PRODUCES_CELLprodBDSU

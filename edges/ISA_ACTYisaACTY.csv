@@ -1,0 +1,45 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005530,C0043027,ISA,Biological Warfare,War,acty,acty,1,ISA_ACTYisaACTY
+C0015922,C0019843,ISA,Festivals,Holidays,acty,acty,34,ISA_ACTYisaACTY
+C0038952,C1708476,ISA,Continuance of life,Implementation,acty,acty,1,ISA_ACTYisaACTY
+C0206243,C0441655,ISA,Carrying,Activities,acty,acty,2,ISA_ACTYisaACTY
+C0549255,C0441655,ISA,Excitation,Activities,acty,acty,1,ISA_ACTYisaACTY
+C0549255,C1708476,ISA,Excitation,Implementation,acty,acty,1,ISA_ACTYisaACTY
+C0599946,C0441655,ISA,Attenuation,Activities,acty,acty,1,ISA_ACTYisaACTY
+C0599946,C3266814,ISA,Attenuation,Action,acty,acty,2,ISA_ACTYisaACTY
+C0871834,C0043027,ISA,nuclear war,War,acty,acty,1,ISA_ACTYisaACTY
+C0872021,C0005530,ISA,Bioterrorism,Biological Warfare,acty,acty,7,ISA_ACTYisaACTY
+C0872021,C0043027,ISA,Bioterrorism,War,acty,acty,1,ISA_ACTYisaACTY
+C0872021,C0441655,ISA,Bioterrorism,Activities,acty,acty,1,ISA_ACTYisaACTY
+C0872021,C3266814,ISA,Bioterrorism,Action,acty,acty,5,ISA_ACTYisaACTY
+C1516048,C0441655,ISA,Assessed,Activities,acty,acty,1,ISA_ACTYisaACTY
+C1516048,C3266814,ISA,Assessed,Action,acty,acty,1,ISA_ACTYisaACTY
+C1706778,C0441655,ISA,Allocation,Activities,acty,acty,1,ISA_ACTYisaACTY
+C1707391,C0441655,ISA,Choose (action),Activities,acty,acty,2,ISA_ACTYisaACTY
+C1707391,C3266814,ISA,Choose (action),Action,acty,acty,20,ISA_ACTYisaACTY
+C1707455,C3266814,ISA,Comparison,Action,acty,acty,1,ISA_ACTYisaACTY
+C1707689,C3266814,ISA,Design,Action,acty,acty,4,ISA_ACTYisaACTY
+C1708476,C0441655,ISA,Implementation,Activities,acty,acty,2,ISA_ACTYisaACTY
+C1708476,C3266814,ISA,Implementation,Action,acty,acty,2,ISA_ACTYisaACTY
+C1709305,C3266814,ISA,Occur (action),Action,acty,acty,1,ISA_ACTYisaACTY
+C1879547,C3266814,ISA,Activation action,Action,acty,acty,3,ISA_ACTYisaACTY
+C1880022,C3266814,ISA,Characterization,Action,acty,acty,4,ISA_ACTYisaACTY
+C1880157,C3266814,ISA,Computation (action),Action,acty,acty,1,ISA_ACTYisaACTY
+C1880177,C3266814,ISA,Contribution,Action,acty,acty,5,ISA_ACTYisaACTY
+C1882955,C1947930,ISA,Rinsing,Cleaning (activity),acty,acty,1,ISA_ACTYisaACTY
+C1883254,C3266814,ISA,Synthesis,Action,acty,acty,2,ISA_ACTYisaACTY
+C1947930,C0441655,ISA,Cleaning (activity),Activities,acty,acty,2,ISA_ACTYisaACTY
+C1947930,C3266814,ISA,Cleaning (activity),Action,acty,acty,2,ISA_ACTYisaACTY
+C1948029,C3266814,ISA,Destruction (action),Action,acty,acty,2,ISA_ACTYisaACTY
+C1999230,C0441655,ISA,Providing (action),Activities,acty,acty,1,ISA_ACTYisaACTY
+C2349975,C3266814,ISA,Enhance (action),Action,acty,acty,3,ISA_ACTYisaACTY
+C2700400,C3266814,ISA,Contain (action),Action,acty,acty,1,ISA_ACTYisaACTY
+C2825812,C0441655,ISA,Deploy,Activities,acty,acty,1,ISA_ACTYisaACTY
+C2828389,C3266814,ISA,Exclusion,Action,acty,acty,1,ISA_ACTYisaACTY
+C3146294,C3266814,ISA,Generation (action),Action,acty,acty,1,ISA_ACTYisaACTY
+C3266814,C0441655,ISA,Action,Activities,acty,acty,1,ISA_ACTYisaACTY
+C3463820,C0441655,ISA,Inhibition,Activities,acty,acty,1,ISA_ACTYisaACTY
+C3463820,C3266814,ISA,Inhibition,Action,acty,acty,197,ISA_ACTYisaACTY
+C3829356,C3266814,ISA,"Labeling, Not Otherwise Specified",Action,acty,acty,1,ISA_ACTYisaACTY
+C3889990,C3889994,ISA,Clinical Trial Censoring,Censor,acty,acty,1,ISA_ACTYisaACTY
+C3897620,C0441655,ISA,Shade,Activities,acty,acty,1,ISA_ACTYisaACTY

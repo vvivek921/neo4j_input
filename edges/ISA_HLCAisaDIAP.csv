@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0018795,C0086143,ISA,Cardiac Catheterization Procedures,Diagnostic tests,hlca,diap,1,ISA_HLCAisaDIAP
+C0019993,C0430022,ISA,Hospitalization,diagnostic procedure,hlca,diap,1,ISA_HLCAisaDIAP
+C0031809,C0430022,ISA,Physical Examination,diagnostic procedure,hlca,diap,2,ISA_HLCAisaDIAP
+C0034117,C0430022,ISA,Puncture procedure,diagnostic procedure,hlca,diap,1,ISA_HLCAisaDIAP
+C0037943,C0005558,ISA,Spinal Puncture,Biopsy,hlca,diap,2,ISA_HLCAisaDIAP
+C0037943,C0086143,ISA,Spinal Puncture,Diagnostic tests,hlca,diap,1,ISA_HLCAisaDIAP
+C0037943,C0430022,ISA,Spinal Puncture,diagnostic procedure,hlca,diap,2,ISA_HLCAisaDIAP
+C0220908,C0430022,ISA,Screening procedure,diagnostic procedure,hlca,diap,3,ISA_HLCAisaDIAP

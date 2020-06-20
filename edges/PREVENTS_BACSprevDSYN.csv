@@ -1,0 +1,158 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001041,C0042769,PREVENTS,Acetylcholine,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0001374,C2712971,PREVENTS,Acyl Coenzyme A,Enteritis due to Norovirus,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0005404,C0008370,PREVENTS,Bile Salts,Cholestasis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0005437,C0003850,PREVENTS,Bilirubin,Arteriosclerosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0005437,C0027051,PREVENTS,Bilirubin,Myocardial Infarction,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0006675,C0029453,PREVENTS,Calcium,Osteopenia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0006675,C0029456,PREVENTS,Calcium,Osteoporosis,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0006675,C0392519,PREVENTS,Calcium,Calcium deficiency,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0006675,C0451641,PREVENTS,Calcium,Urolithiasis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0006675,C1175175,PREVENTS,Calcium,Severe Acute Respiratory Syndrome,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0006675,C2747816,PREVENTS,Calcium,Severe Malaria,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0007012,C0001127,PREVENTS,Carbon Dioxide,"Acidosis, Respiratory",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0007289,C0036916,PREVENTS,Carrageenan,Sexually Transmitted Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0007289,C0042769,PREVENTS,Carrageenan,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0007289,C0343641,PREVENTS,Carrageenan,Human papilloma virus infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0008377,C0003850,PREVENTS,Cholesterol,Arteriosclerosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0008377,C0007222,PREVENTS,Cholesterol,Cardiovascular Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0008377,C0042769,PREVENTS,Cholesterol,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0008405,C0023890,PREVENTS,Choline,Liver Cirrhosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0009968,C0205721,PREVENTS,Copper,"Infections, Hospital",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0010294,C0022660,PREVENTS,Creatinine,"Kidney Failure, Acute",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0010294,C0035078,PREVENTS,Creatinine,Kidney Failure,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0017162,PREVENTS,DNA,"Gastroenteritis, Transmissible, of Swine",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0042749,PREVENTS,DNA,Viremia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0042769,PREVENTS,DNA,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0155877,PREVENTS,DNA,Allergic asthma,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0276500,PREVENTS,DNA,Human immunodeficiency virus I infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0860026,PREVENTS,DNA,Leishmania mexicana disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0012854,C0947961,PREVENTS,DNA,Atopic condition,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0013030,C0022658,PREVENTS,Dopamine,Kidney Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0013982,C1290884,PREVENTS,Emodin,Inflammatory disorder,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0015689,C0003850,PREVENTS,Omega-3 Fatty Acids,Arteriosclerosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0015689,C0004096,PREVENTS,Omega-3 Fatty Acids,Asthma,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0015689,C0007222,PREVENTS,Omega-3 Fatty Acids,Cardiovascular Diseases,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0017714,C0020538,PREVENTS,Gluconates,Hypertensive disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0017714,C0029453,PREVENTS,Gluconates,Osteopenia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0017714,C0029456,PREVENTS,Gluconates,Osteoporosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0017725,C0020456,PREVENTS,Glucose,Hyperglycemia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0017725,C0020615,PREVENTS,Glucose,Hypoglycemia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0017725,C0220994,PREVENTS,Glucose,Hyperammonemia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0018338,C0009324,PREVENTS,Cyclic GMP,Ulcerative Colitis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0019134,C0085307,PREVENTS,heparin,Embolism and Thrombosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0019134,C0149871,PREVENTS,heparin,Deep Vein Thrombosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0019134,C1299888,PREVENTS,heparin,Laminitis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0019134,C1707758,PREVENTS,heparin,Direct Contact Transmission Infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0019134,C1861172,PREVENTS,heparin,Venous Thromboembolism,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0024467,C2747816,PREVENTS,Magnesium,Severe Malaria,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0028128,C0005779,PREVENTS,Nitric Oxide,Blood Coagulation Disorders,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0028128,C0007785,PREVENTS,Nitric Oxide,Cerebral Infarction,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0028606,C0011175,PREVENTS,Nucleic Acids,Dehydration,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0030054,C0006114,PREVENTS,Oxygen,Cerebral Edema,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0030054,C0242852,PREVENTS,Oxygen,Proliferative vitreoretinopathy,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0030054,C1623038,PREVENTS,Oxygen,Cirrhosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0030234,C0015695,PREVENTS,Palmitic Acid,Fatty Liver,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0030234,C0151317,PREVENTS,Palmitic Acid,Chronic infectious disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0030958,C0042769,PREVENTS,Peptidoglycan,Virus Diseases,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0030958,C0206750,PREVENTS,Peptidoglycan,Coronavirus Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0031617,C0007222,PREVENTS,Lecithin,Cardiovascular Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0031860,C0003864,PREVENTS,Phytol,Arthritis,bacs,dsyn,4,PREVENTS_BACSprevDSYN
+C0032615,C0009319,PREVENTS,Polyunsaturated Fatty Acids,Colitis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0032615,C0010068,PREVENTS,Polyunsaturated Fatty Acids,Coronary heart disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0032615,C0023374,PREVENTS,Polyunsaturated Fatty Acids,Lesch-Nyhan Syndrome,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0032821,C0004238,PREVENTS,Potassium,Atrial Fibrillation,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0033488,C0042769,PREVENTS,Propolis,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0033567,C0242852,PREVENTS,Epoprostenol,Proliferative vitreoretinopathy,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0034085,C0021400,PREVENTS,Pulmonary Surfactants,Influenza,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0034085,C0035220,PREVENTS,Pulmonary Surfactants,"Respiratory Distress Syndrome, Newborn",bacs,dsyn,4,PREVENTS_BACSprevDSYN
+C0034987,C0276500,PREVENTS,"Regulatory Sequences, Nucleic Acid",Human immunodeficiency virus I infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0035693,C0009450,PREVENTS,"RNA, Double-Stranded",Communicable Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0035693,C2930619,PREVENTS,"RNA, Double-Stranded",Sex Differentiation Disorders,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0036581,C0003850,PREVENTS,Selenium,Arteriosclerosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0036581,C0007222,PREVENTS,Selenium,Cardiovascular Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0036581,C0242528,PREVENTS,Selenium,Azotemia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0036581,C0268095,PREVENTS,Selenium,Keshan disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0036733,C1175175,PREVENTS,Serine Proteinase Inhibitors,Severe Acute Respiratory Syndrome,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0036733,C2062441,PREVENTS,Serine Proteinase Inhibitors,Influenza A,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0037473,C0006114,PREVENTS,Sodium,Cerebral Edema,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0038636,C0042769,PREVENTS,Sucrose,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0039561,C1290884,PREVENTS,Terpenes,Inflammatory disorder,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0040549,C0700323,PREVENTS,Toxin,Observation of Neuromuscular Block,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0040549,C1263988,PREVENTS,Toxin,Hemolytic disorder,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0041004,C0239946,PREVENTS,Triglycerides,"Fibrosis, Liver",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0042105,C0008370,PREVENTS,Ursodiol,Cholestasis,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0043481,C0009443,PREVENTS,Zinc,Common Cold,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0043481,C0011175,PREVENTS,Zinc,Dehydration,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0043481,C0032285,PREVENTS,Zinc,Pneumonia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0043481,C0035243,PREVENTS,Zinc,Respiratory Tract Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0043481,C0041912,PREVENTS,Zinc,Upper Respiratory Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0043481,C0149725,PREVENTS,Zinc,Lower respiratory tract infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0043552,C0011854,PREVENTS,Zymosan,"Diabetes Mellitus, Insulin-Dependent",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0048893,C0151650,PREVENTS,lipoxin A4,Renal fibrosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0051405,C0003850,PREVENTS,alpha-Linolenic Acid,Arteriosclerosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0056077,C0149931,PREVENTS,coenzyme Q10,Migraine Disorders,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0056912,C0017162,PREVENTS,cytidylyl-3'-5'-guanosine,"Gastroenteritis, Transmissible, of Swine",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0056912,C0042769,PREVENTS,cytidylyl-3'-5'-guanosine,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0056912,C0949083,PREVENTS,cytidylyl-3'-5'-guanosine,Hospital acquired pneumonia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0065335,C0042749,PREVENTS,lycorine,Viremia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0065335,C0158266,PREVENTS,lycorine,Intervertebral Disc Degeneration,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0067762,C0042769,PREVENTS,N-Acetylneuraminic Acid,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0074572,C0001486,PREVENTS,Sinupret,Adenovirus Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0079925,C0034068,PREVENTS,Antisense Oligonucleotides,Pulmonary Eosinophilia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0079925,C0276500,PREVENTS,Antisense Oligonucleotides,Human immunodeficiency virus I infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0162772,C0032285,PREVENTS,Reactive Oxygen Species,Pneumonia,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0178555,C0004623,PREVENTS,chemical cofactor,Bacterial Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0242494,C0042769,PREVENTS,Poly(A) Tail,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0302583,C0002871,PREVENTS,Iron,Anemia,bacs,dsyn,3,PREVENTS_BACSprevDSYN
+C0302583,C0019114,PREVENTS,Iron,Hemosiderosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0302583,C0267238,PREVENTS,Iron,Abomasal bloat,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0314768,C0042769,PREVENTS,Bacterial exotoxin,Virus Diseases,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C0577749,C0008679,PREVENTS,Phytochemicals,Chronic disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0577749,C0020459,PREVENTS,Phytochemicals,Hyperinsulinism,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0577749,C0020538,PREVENTS,Phytochemicals,Hypertensive disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0596087,C0020541,PREVENTS,Angiogenesis Inhibitors,"Hypertension, Portal",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C0596087,C0239946,PREVENTS,Angiogenesis Inhibitors,"Fibrosis, Liver",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0006272,PREVENTS,"RNA, Small Interfering",Bronchiolitis Obliterans,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0009319,PREVENTS,"RNA, Small Interfering",Colitis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0014038,PREVENTS,"RNA, Small Interfering",Encephalitis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0016052,PREVENTS,"RNA, Small Interfering",Fibromuscular Dysplasia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0019163,PREVENTS,"RNA, Small Interfering",Hepatitis B,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0019342,PREVENTS,"RNA, Small Interfering",Genital Herpes,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0019693,PREVENTS,"RNA, Small Interfering",HIV Infections,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C1099354,C0029456,PREVENTS,"RNA, Small Interfering",Osteoporosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0030486,PREVENTS,"RNA, Small Interfering",Paraplegia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0035235,PREVENTS,"RNA, Small Interfering",Respiratory Syncytial Virus Infections,bacs,dsyn,7,PREVENTS_BACSprevDSYN
+C1099354,C0042749,PREVENTS,"RNA, Small Interfering",Viremia,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C1099354,C0042769,PREVENTS,"RNA, Small Interfering",Virus Diseases,bacs,dsyn,4,PREVENTS_BACSprevDSYN
+C1099354,C0265514,PREVENTS,"RNA, Small Interfering",Dermatofibrosis lenticularis disseminata,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0276500,PREVENTS,"RNA, Small Interfering",Human immunodeficiency virus I infection,bacs,dsyn,2,PREVENTS_BACSprevDSYN
+C1099354,C0282687,PREVENTS,"RNA, Small Interfering","Hemorrhagic Fever, Ebola",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0343641,PREVENTS,"RNA, Small Interfering",Human papilloma virus infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0600518,PREVENTS,"RNA, Small Interfering",Choroidal Neovascularization,bacs,dsyn,3,PREVENTS_BACSprevDSYN
+C1099354,C0729531,PREVENTS,"RNA, Small Interfering",Viral respiratory infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C0748168,PREVENTS,"RNA, Small Interfering",Pulmonary Pathology,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1099354,C1175175,PREVENTS,"RNA, Small Interfering",Severe Acute Respiratory Syndrome,bacs,dsyn,4,PREVENTS_BACSprevDSYN
+C1099354,C1397307,PREVENTS,"RNA, Small Interfering",Cardiac fibrosis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1101552,C0007222,PREVENTS,glabrene,Cardiovascular Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1101610,C0042769,PREVENTS,MicroRNAs,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1101610,C0276500,PREVENTS,MicroRNAs,Human immunodeficiency virus I infection,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1130460,C0025517,PREVENTS,phytoalexin,Metabolic Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1130460,C0028754,PREVENTS,phytoalexin,Obesity,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1136170,C0014038,PREVENTS,Virulence Factors,Encephalitis,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1136170,C0036690,PREVENTS,Virulence Factors,Septicemia,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1136170,C0442893,PREVENTS,Virulence Factors,Systemic disease,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1310768,C0276447,PREVENTS,EPs 7630,Rhinovirus infection,bacs,dsyn,3,PREVENTS_BACSprevDSYN
+C1566558,C0028754,PREVENTS,Natural Products,Obesity,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1566558,C0035243,PREVENTS,Natural Products,Respiratory Tract Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1566558,C0035869,PREVENTS,Natural Products,Rotavirus Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1566772,C0042769,PREVENTS,Lysosomal Integral Membrane Proteins,Virus Diseases,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1764827,C0021400,PREVENTS,Isolate - microorganism,Influenza,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1764827,C0043528,PREVENTS,Isolate - microorganism,Zoonoses,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C1958185,C0011389,PREVENTS,triphala,Dental Plaque,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C2604581,C0024530,PREVENTS,"RH5 protein, Plasmodium falciparum",Malaria,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C2936590,C0013570,PREVENTS,Riboswitch,"Ecthyma, Contagious",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C3656769,C0035222,PREVENTS,Adenovirus C DNA,"Respiratory Distress Syndrome, Adult",bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C3712557,C0863093,PREVENTS,Echinaforce,cold symptoms,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C4018778,C0004096,PREVENTS,Dermatophagoides microceras protein,Asthma,bacs,dsyn,1,PREVENTS_BACSprevDSYN
+C4508505,C0206750,PREVENTS,"interferon alfa-1b, human",Coronavirus Infections,bacs,dsyn,1,PREVENTS_BACSprevDSYN

@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0024861,C0024861,LOWER_THAN,Masks,Masks,medd,medd,2,LOWER_THAN_MEDDlowtMEDD
+C0024861,C0042497,LOWER_THAN,Masks,Mechanical Ventilator,medd,medd,2,LOWER_THAN_MEDDlowtMEDD
+C0024861,C0181758,LOWER_THAN,Masks,Surgical face mask,medd,medd,3,LOWER_THAN_MEDDlowtMEDD
+C0087153,C0087153,LOWER_THAN,Ventilator - respiratory equipment,Ventilator - respiratory equipment,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0150789,C0150789,LOWER_THAN,Patient Holding Stretchers,Patient Holding Stretchers,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0180979,C0180979,LOWER_THAN,Frame (physical object),Frame (physical object),medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0181620,C0181620,LOWER_THAN,Hoist device,Hoist device,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0181758,C0024861,LOWER_THAN,Surgical face mask,Masks,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0181758,C0042497,LOWER_THAN,Surgical face mask,Mechanical Ventilator,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0182158,C0182158,LOWER_THAN,Pads,Pads,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0183916,C0183924,LOWER_THAN,"THERMOMETER, ELECTRONIC, CLINICAL","THERMOMETER, CLINICAL MERCURY",medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C0994894,C0994894,LOWER_THAN,Patch Dosage Form,Patch Dosage Form,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C1706912,C1706912,LOWER_THAN,BARRIER,BARRIER,medd,medd,1,LOWER_THAN_MEDDlowtMEDD
+C1968515,C0726930,LOWER_THAN,Pack (physical object),Small Ones,medd,medd,1,LOWER_THAN_MEDDlowtMEDD

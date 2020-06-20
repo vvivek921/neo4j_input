@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008109,C0445623,ISA,Chimera organism,Microorganism,orgm,orgm,1,ISA_ORGMisaORGM
+C0596121,C0445623,ISA,Aquatic Organisms,Microorganism,orgm,orgm,1,ISA_ORGMisaORGM
+C0597305,C0445623,ISA,protists,Microorganism,orgm,orgm,3,ISA_ORGMisaORGM
+C0686817,C0445623,ISA,Prokaryote,Microorganism,orgm,orgm,14,ISA_ORGMisaORGM
+C0969756,C0445623,ISA,"Organisms, Genetically Modified",Microorganism,orgm,orgm,2,ISA_ORGMisaORGM
+C1882357,C0445623,ISA,Pharyngeal/Respiratory Flora,Microorganism,orgm,orgm,1,ISA_ORGMisaORGM
+C1956108,C0445623,ISA,Microbiome,Microorganism,orgm,orgm,12,ISA_ORGMisaORGM
+C2985398,C0445623,ISA,Intestinal Microbiome,Microorganism,orgm,orgm,14,ISA_ORGMisaORGM
+C2985398,C1956108,ISA,Intestinal Microbiome,Microbiome,orgm,orgm,1,ISA_ORGMisaORGM
+C3826980,C0445623,ISA,Multi-Drug Resistant Organism,Microorganism,orgm,orgm,1,ISA_ORGMisaORGM
+C4084880,C1956108,ISA,Oral Microbiome,Microbiome,orgm,orgm,2,ISA_ORGMisaORGM
+C4086236,C1167395,ISA,Definitive Host,Host (organism),orgm,orgm,1,ISA_ORGMisaORGM
+C4086523,C1167395,ISA,Intermediate Host,Host (organism),orgm,orgm,1,ISA_ORGMisaORGM
+C4267729,C0445623,ISA,Respiratory pathogens,Microorganism,orgm,orgm,5,ISA_ORGMisaORGM

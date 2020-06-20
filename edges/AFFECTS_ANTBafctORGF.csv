@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002679,C0018270,AFFECTS,Amphotericin B,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0003232,C0000934,AFFECTS,Antibiotics,Acclimatization,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0003232,C0011065,AFFECTS,Antibiotics,Cessation of life,antb,orgf,3,AFFECTS_ANTBafctORGF
+C0003232,C0014653,AFFECTS,Antibiotics,Equilibrium,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0003232,C0018270,AFFECTS,Antibiotics,Growth,antb,orgf,6,AFFECTS_ANTBafctORGF
+C0003232,C0025519,AFFECTS,Antibiotics,Metabolism,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0003232,C0597252,AFFECTS,Antibiotics,Plant Development,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0003232,C0678889,AFFECTS,Antibiotics,Immunoregulation,antb,orgf,3,AFFECTS_ANTBafctORGF
+C0003232,C0699900,AFFECTS,Antibiotics,Catabolism,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0003232,C1136180,AFFECTS,Antibiotics,Disease Resistance,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0003240,C0032961,AFFECTS,Macrolide Antibiotics,Pregnancy,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0003240,C1327413,AFFECTS,Macrolide Antibiotics,cytokine production,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0007561,C0005615,AFFECTS,Ceftriaxone,Birth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0007735,C1510470,AFFECTS,Cephalothin,Motility,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0008947,C0018270,AFFECTS,Clindamycin,Growth,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0016610,C0004614,AFFECTS,Fosfomycin,Bacterial Adhesion,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0027353,C1510470,AFFECTS,Nalidixic Acid,Motility,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0034145,C0018270,AFFECTS,Puromycin,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0034145,C1563744,AFFECTS,Puromycin,Lipogenesis,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0035608,C0018270,AFFECTS,Rifampin,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0041385,C0678723,AFFECTS,Tunicamycin,Biologic Development,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0052796,C0011065,AFFECTS,Azithromycin,Cessation of life,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0052796,C0032961,AFFECTS,Azithromycin,Pregnancy,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0054036,C1160185,AFFECTS,Brefeldin A,transduction,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0055856,C0032961,AFFECTS,Clarithromycin,Pregnancy,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0072980,C1160185,AFFECTS,Sirolimus,transduction,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0073591,C0001811,AFFECTS,rosoxacin,Aging,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0073591,C0011065,AFFECTS,rosoxacin,Cessation of life,antb,orgf,4,AFFECTS_ANTBafctORGF
+C0073591,C0018270,AFFECTS,rosoxacin,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0073591,C0025516,AFFECTS,rosoxacin,"Metabolic Detoxication, Drug",antb,orgf,1,AFFECTS_ANTBafctORGF
+C0073591,C0043240,AFFECTS,rosoxacin,Wound Healing,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0073591,C0699900,AFFECTS,rosoxacin,Catabolism,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0073591,C1155328,AFFECTS,rosoxacin,Antiviral Response,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0073591,C1749719,AFFECTS,rosoxacin,Adaptive Immune Response,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0125179,C0678723,AFFECTS,lactacystin,Biologic Development,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0125179,C0699900,AFFECTS,lactacystin,Catabolism,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0279516,C0018270,AFFECTS,Anti-Bacterial Agents,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0282386,C0003618,AFFECTS,Levofloxacin,Desire for food,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0304320,C0018270,AFFECTS,Third generation cephalosporin,Growth,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0310367,C0005615,AFFECTS,Today,Birth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0310367,C0018270,AFFECTS,Today,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0310367,C2584321,AFFECTS,Today,Reaching,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0379881,C0011065,AFFECTS,trovafloxacin,Cessation of life,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0878412,C0018270,AFFECTS,A-23187,Growth,antb,orgf,1,AFFECTS_ANTBafctORGF
+C1744619,C1327413,AFFECTS,Tetracycline Antibiotics,cytokine production,antb,orgf,1,AFFECTS_ANTBafctORGF
+C2744563,C0699900,AFFECTS,tylvalosin,Catabolism,antb,orgf,1,AFFECTS_ANTBafctORGF

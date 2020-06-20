@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011991,C0521982,INTERACTS_WITH,Diarrhea,Response to treatment,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0011991,C0798503,INTERACTS_WITH,Diarrhea,Challenge:Type:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0013404,C0798503,INTERACTS_WITH,Dyspnea,Challenge:Type:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0013604,C0518766,INTERACTS_WITH,Edema,Vital signs,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0013604,C0854358,INTERACTS_WITH,Edema,Purulence,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0015967,C0007165,INTERACTS_WITH,Fever,Cardiac Output,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0015967,C0038455,INTERACTS_WITH,Fever,Stroke Volume,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0015967,C0488002,INTERACTS_WITH,Fever,Body temperature:Temp:Pt:Axillary:Qn,sosy,clna,2,INTERACTS_WITH_SOSYitawCLNA
+C0015967,C0488005,INTERACTS_WITH,Fever,Body temperature:Temperature:Point in time:Mouth:Quantitative,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0026837,C3173575,INTERACTS_WITH,Muscle Rigidity,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C0032930,INTERACTS_WITH,Signs and Symptoms,Precipitating Factors,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C0035190,INTERACTS_WITH,Signs and Symptoms,Residual volume,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C0518766,INTERACTS_WITH,Signs and Symptoms,Vital signs,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C0550854,INTERACTS_WITH,Signs and Symptoms,human histocompatibility complex derived antigens-C:Type:Point in time:Whole blood:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C0798503,INTERACTS_WITH,Signs and Symptoms,Challenge:Type:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C0946292,INTERACTS_WITH,Signs and Symptoms,polarization,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0037088,C1716046,INTERACTS_WITH,Signs and Symptoms,Diagnosis.preliminary:Impression/interpretation of study:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0087169,C2713234,INTERACTS_WITH,Withdrawal Symptoms,Mood:-:Point in time:^Patient:-,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231217,C2979880,INTERACTS_WITH,Multiple symptoms,Subjective:Finding:Point in time:^Patient:Narrative,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231218,C0005516,INTERACTS_WITH,Malaise,Biological Markers,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231218,C0032930,INTERACTS_WITH,Malaise,Precipitating Factors,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231218,C0798503,INTERACTS_WITH,Malaise,Challenge:Type:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231239,C2741673,INTERACTS_WITH,Fluctuation,Account number:Identifier:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231239,C2919552,INTERACTS_WITH,Fluctuation,Survival time,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0231239,C3870372,INTERACTS_WITH,Fluctuation,Note:Find:Pt:{Setting}:Doc:Physician resident,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0349410,C0518766,INTERACTS_WITH,Single organ dysfunction,Vital signs,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0392171,C3173575,INTERACTS_WITH,Influenza-like symptoms,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C0392674,C0005516,INTERACTS_WITH,Exhaustion,Biological Markers,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA
+C3714552,C0798503,INTERACTS_WITH,Weakness,Challenge:Type:Point in time:^Patient:Nominal,sosy,clna,1,INTERACTS_WITH_SOSYitawCLNA

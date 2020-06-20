@@ -1,0 +1,363 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001280,C0011065,AFFECTS,Armed macrophage,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0001280,C0014653,AFFECTS,Armed macrophage,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0001280,C0043240,AFFECTS,Armed macrophage,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C0001280,C0814002,AFFECTS,Armed macrophage,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C0021059,AFFECTS,Antigen-Presenting Cells,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C0032961,AFFECTS,Antigen-Presenting Cells,Pregnancy,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C0678889,AFFECTS,Antigen-Presenting Cells,Immunoregulation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C1160185,AFFECTS,Antigen-Presenting Cells,transduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C1327413,AFFECTS,Antigen-Presenting Cells,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C1654934,AFFECTS,Antigen-Presenting Cells,Immune Evasion,cell,orgf,1,AFFECTS_CELLafctORGF
+C0003315,C1749719,AFFECTS,Antigen-Presenting Cells,Adaptive Immune Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0003315,C1819451,AFFECTS,Antigen-Presenting Cells,interleukin-23 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004112,C0014653,AFFECTS,Astrocytes,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004112,C0018270,AFFECTS,Astrocytes,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004112,C0043240,AFFECTS,Astrocytes,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004112,C0814002,AFFECTS,Astrocytes,Neurogenesis,cell,orgf,3,AFFECTS_CELLafctORGF
+C0004112,C1155328,AFFECTS,Astrocytes,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004112,C1327413,AFFECTS,Astrocytes,cytokine production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004112,C1819459,AFFECTS,Astrocytes,interleukin-6 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C0018270,AFFECTS,B-Lymphocytes,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004561,C0020966,AFFECTS,B-Lymphocytes,Cellular Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C0020967,AFFECTS,B-Lymphocytes,Humoral Immunity,cell,orgf,11,AFFECTS_CELLafctORGF
+C0004561,C0021059,AFFECTS,B-Lymphocytes,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C0021080,AFFECTS,B-Lymphocytes,Natural immunosuppression,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C0678723,AFFECTS,B-Lymphocytes,Biologic Development,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C1154988,AFFECTS,B-Lymphocytes,defense response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004561,C1155328,AFFECTS,B-Lymphocytes,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004561,C1516559,AFFECTS,B-Lymphocytes,Circulatory Process,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C1749719,AFFECTS,B-Lymphocytes,Adaptive Immune Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0004561,C1819444,AFFECTS,B-Lymphocytes,interleukin-17 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004561,C1819464,AFFECTS,B-Lymphocytes,tumor necrosis factor production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0004827,C0021059,AFFECTS,Basophils,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0005773,C0026649,AFFECTS,Blood Cells,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0007600,C0018270,AFFECTS,Cultured Cell Line,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0007600,C0043240,AFFECTS,Cultured Cell Line,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0007600,C1752856,AFFECTS,Cultured Cell Line,Host-Pathogen Interactions,cell,orgf,1,AFFECTS_CELLafctORGF
+C0008010,C0014653,AFFECTS,Chemoreceptor Cells,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0009013,C0005615,AFFECTS,Clone Cells,Birth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0009013,C0012238,AFFECTS,Clone Cells,Digestion,cell,orgf,2,AFFECTS_CELLafctORGF
+C0009013,C0018270,AFFECTS,Clone Cells,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0005615,AFFECTS,Dendritic Cells,Birth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0014653,AFFECTS,Dendritic Cells,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0018270,AFFECTS,Dendritic Cells,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0021059,AFFECTS,Dendritic Cells,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0043240,AFFECTS,Dendritic Cells,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0301875,AFFECTS,Dendritic Cells,Primary immune response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C0678723,AFFECTS,Dendritic Cells,Biologic Development,cell,orgf,2,AFFECTS_CELLafctORGF
+C0011306,C0872193,AFFECTS,Dendritic Cells,immunoreaction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C1749719,AFFECTS,Dendritic Cells,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C1819430,AFFECTS,Dendritic Cells,type I interferon production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C1819436,AFFECTS,Dendritic Cells,interleukin-1 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C1819464,AFFECTS,Dendritic Cells,tumor necrosis factor production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C2936375,AFFECTS,Dendritic Cells,Th1-Th2 Balance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0011306,C3159140,AFFECTS,Dendritic Cells,interferon production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014467,C0021059,AFFECTS,eosinophil,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014467,C0043240,AFFECTS,eosinophil,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014467,C1155328,AFFECTS,eosinophil,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0014597,C0004614,AFFECTS,Epithelial Cells,Bacterial Adhesion,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014597,C0012238,AFFECTS,Epithelial Cells,Digestion,cell,orgf,2,AFFECTS_CELLafctORGF
+C0014597,C0018270,AFFECTS,Epithelial Cells,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0014597,C0021059,AFFECTS,Epithelial Cells,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014597,C0026649,AFFECTS,Epithelial Cells,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014597,C0029976,AFFECTS,Epithelial Cells,"Blastocyst Implantation, natural",cell,orgf,1,AFFECTS_CELLafctORGF
+C0014597,C0043240,AFFECTS,Epithelial Cells,Wound Healing,cell,orgf,3,AFFECTS_CELLafctORGF
+C0014597,C1155328,AFFECTS,Epithelial Cells,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0014792,C0020967,AFFECTS,Erythrocytes,Humoral Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0015161,C0000934,AFFECTS,Eukaryotic Cells,Acclimatization,cell,orgf,1,AFFECTS_CELLafctORGF
+C0015161,C0014653,AFFECTS,Eukaryotic Cells,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0016030,C0018270,AFFECTS,Fibroblasts,Growth,cell,orgf,4,AFFECTS_CELLafctORGF
+C0016030,C0043240,AFFECTS,Fibroblasts,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0017471,C0015895,AFFECTS,Germ Cells,Fertility,cell,orgf,1,AFFECTS_CELLafctORGF
+C0018183,C1154988,AFFECTS,granulocyte,defense response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0018894,C0018270,AFFECTS,Helper-Inducer T-Lymphocyte,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0018894,C0020966,AFFECTS,Helper-Inducer T-Lymphocyte,Cellular Immunity,cell,orgf,2,AFFECTS_CELLafctORGF
+C0018894,C0020967,AFFECTS,Helper-Inducer T-Lymphocyte,Humoral Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0018956,C0043240,AFFECTS,Hematopoietic stem cells,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C0018956,C0814002,AFFECTS,Hematopoietic stem cells,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0019612,C1523351,AFFECTS,Histiocytes,tissue homeostasis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022567,C0018270,AFFECTS,keratinocyte,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022567,C0043240,AFFECTS,keratinocyte,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022567,C0699900,AFFECTS,keratinocyte,Catabolism,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022686,C0014653,AFFECTS,Killer Cells,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C0011065,AFFECTS,Natural Killer Cells,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C0014653,AFFECTS,Natural Killer Cells,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C0018270,AFFECTS,Natural Killer Cells,Growth,cell,orgf,3,AFFECTS_CELLafctORGF
+C0022688,C0020966,AFFECTS,Natural Killer Cells,Cellular Immunity,cell,orgf,2,AFFECTS_CELLafctORGF
+C0022688,C0021059,AFFECTS,Natural Killer Cells,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C0032961,AFFECTS,Natural Killer Cells,Pregnancy,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C0043240,AFFECTS,Natural Killer Cells,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C0022688,C0678723,AFFECTS,Natural Killer Cells,Biologic Development,cell,orgf,3,AFFECTS_CELLafctORGF
+C0022688,C0872193,AFFECTS,Natural Killer Cells,immunoreaction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C0887937,AFFECTS,Natural Killer Cells,Allograft Tolerance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C1155328,AFFECTS,Natural Killer Cells,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0022688,C1327413,AFFECTS,Natural Killer Cells,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C1654934,AFFECTS,Natural Killer Cells,Immune Evasion,cell,orgf,1,AFFECTS_CELLafctORGF
+C0022688,C1819431,AFFECTS,Natural Killer Cells,interferon-alpha production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0023005,C0011065,AFFECTS,Langerhans cell,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0023005,C0021059,AFFECTS,Langerhans cell,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0023516,C0011065,AFFECTS,Leukocytes,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0023516,C0026649,AFFECTS,Leukocytes,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0023516,C0035150,AFFECTS,Leukocytes,Reproduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0023516,C0678210,AFFECTS,Leukocytes,"Passive immunity, function",cell,orgf,1,AFFECTS_CELLafctORGF
+C0023516,C1327413,AFFECTS,Leukocytes,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024264,C0011065,AFFECTS,Lymphocyte,Cessation of life,cell,orgf,3,AFFECTS_CELLafctORGF
+C0024264,C0018270,AFFECTS,Lymphocyte,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0024264,C0020966,AFFECTS,Lymphocyte,Cellular Immunity,cell,orgf,4,AFFECTS_CELLafctORGF
+C0024264,C0043240,AFFECTS,Lymphocyte,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024264,C1155328,AFFECTS,Lymphocyte,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024264,C1749719,AFFECTS,Lymphocyte,Adaptive Immune Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0024264,C1819457,AFFECTS,Lymphocyte,interleukin-4 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024264,C4505207,AFFECTS,Lymphocyte,Immune Reconstitution,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0011065,AFFECTS,macrophage,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0014653,AFFECTS,macrophage,Equilibrium,cell,orgf,6,AFFECTS_CELLafctORGF
+C0024432,C0018270,AFFECTS,macrophage,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0024432,C0020966,AFFECTS,macrophage,Cellular Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0021059,AFFECTS,macrophage,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0025519,AFFECTS,macrophage,Metabolism,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0032961,AFFECTS,macrophage,Pregnancy,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0043240,AFFECTS,macrophage,Wound Healing,cell,orgf,4,AFFECTS_CELLafctORGF
+C0024432,C0678210,AFFECTS,macrophage,"Passive immunity, function",cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C0678723,AFFECTS,macrophage,Biologic Development,cell,orgf,4,AFFECTS_CELLafctORGF
+C0024432,C0872193,AFFECTS,macrophage,immunoreaction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C1155328,AFFECTS,macrophage,Antiviral Response,cell,orgf,3,AFFECTS_CELLafctORGF
+C0024432,C1523351,AFFECTS,macrophage,tissue homeostasis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C1819430,AFFECTS,macrophage,type I interferon production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C1819433,AFFECTS,macrophage,interferon-gamma production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C1819437,AFFECTS,macrophage,interleukin-10 production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0024432,C1819464,AFFECTS,macrophage,tumor necrosis factor production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0024432,C2936375,AFFECTS,macrophage,Th1-Th2 Balance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024432,C4505136,AFFECTS,macrophage,Immune Privilege,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024880,C0021059,AFFECTS,mast cell,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0024880,C0043240,AFFECTS,mast cell,Wound Healing,cell,orgf,5,AFFECTS_CELLafctORGF
+C0024880,C1154988,AFFECTS,mast cell,defense response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0025201,C0018270,AFFECTS,melanocyte,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0026473,C0014653,AFFECTS,Monocytes,Equilibrium,cell,orgf,3,AFFECTS_CELLafctORGF
+C0026473,C0018270,AFFECTS,Monocytes,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0026473,C0020966,AFFECTS,Monocytes,Cellular Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0026473,C0043240,AFFECTS,Monocytes,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0026473,C1510470,AFFECTS,Monocytes,Motility,cell,orgf,1,AFFECTS_CELLafctORGF
+C0026473,C1819445,AFFECTS,Monocytes,interleukin-18 production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027836,C0043240,AFFECTS,Neuroglia,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0001811,AFFECTS,Neurons,Aging,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0004048,AFFECTS,Neurons,Inspiration function,cell,orgf,4,AFFECTS_CELLafctORGF
+C0027882,C0011065,AFFECTS,Neurons,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0013470,AFFECTS,Neurons,Eating,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0016284,AFFECTS,Neurons,Fluid Balance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0018270,AFFECTS,Neurons,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027882,C0025519,AFFECTS,Neurons,Metabolism,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0026559,AFFECTS,Neurons,Morphogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0026649,AFFECTS,Neurons,Movement,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027882,C0231800,AFFECTS,Neurons,"Expiration, function",cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C0814002,AFFECTS,Neurons,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C1155328,AFFECTS,Neurons,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027882,C1818983,AFFECTS,Neurons,negative regulation of appetite,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027883,C0014653,AFFECTS,Afferent neuron,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027883,C0023946,AFFECTS,Afferent neuron,Locomotion,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027950,C0001811,AFFECTS,neutrophil,Aging,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027950,C0011065,AFFECTS,neutrophil,Cessation of life,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027950,C0018270,AFFECTS,neutrophil,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027950,C0020966,AFFECTS,neutrophil,Cellular Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027950,C0021059,AFFECTS,neutrophil,Immunologic Surveillance,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027950,C0043240,AFFECTS,neutrophil,Wound Healing,cell,orgf,3,AFFECTS_CELLafctORGF
+C0027950,C0699900,AFFECTS,neutrophil,Catabolism,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027950,C1155328,AFFECTS,neutrophil,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027950,C1516559,AFFECTS,neutrophil,Circulatory Process,cell,orgf,2,AFFECTS_CELLafctORGF
+C0027950,C1817919,AFFECTS,neutrophil,germinal center formation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0027950,C1819430,AFFECTS,neutrophil,type I interferon production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0028944,C0043240,AFFECTS,Oligodendroglia,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0029431,C2985494,AFFECTS,Osteoclasts,Resorption,cell,orgf,2,AFFECTS_CELLafctORGF
+C0029974,C0014653,AFFECTS,Ovum,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0029974,C0678723,AFFECTS,Ovum,Biologic Development,cell,orgf,1,AFFECTS_CELLafctORGF
+C0031307,C1523351,AFFECTS,Phagocytes,tissue homeostasis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0031760,C4067879,AFFECTS,Photoreceptors,Pupillary response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0032112,C0020967,AFFECTS,Plasma Cells,Humoral Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0035286,C0021059,AFFECTS,Reticulocytes,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0036387,C0043240,AFFECTS,Schwann Cells,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0037868,C0015914,AFFECTS,sperm cell,Fertilization,cell,orgf,3,AFFECTS_CELLafctORGF
+C0038250,C0001811,AFFECTS,Stem cells,Aging,cell,orgf,1,AFFECTS_CELLafctORGF
+C0038250,C0014653,AFFECTS,Stem cells,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0038250,C0018270,AFFECTS,Stem cells,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0038250,C0043240,AFFECTS,Stem cells,Wound Healing,cell,orgf,6,AFFECTS_CELLafctORGF
+C0038250,C0683154,AFFECTS,Stem cells,drug response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0038250,C0814002,AFFECTS,Stem cells,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0038250,C1160185,AFFECTS,Stem cells,transduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C0013470,AFFECTS,T-Lymphocyte,Eating,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C0014653,AFFECTS,T-Lymphocyte,Equilibrium,cell,orgf,4,AFFECTS_CELLafctORGF
+C0039194,C0018270,AFFECTS,T-Lymphocyte,Growth,cell,orgf,3,AFFECTS_CELLafctORGF
+C0039194,C0020966,AFFECTS,T-Lymphocyte,Cellular Immunity,cell,orgf,4,AFFECTS_CELLafctORGF
+C0039194,C0020967,AFFECTS,T-Lymphocyte,Humoral Immunity,cell,orgf,2,AFFECTS_CELLafctORGF
+C0039194,C0021059,AFFECTS,T-Lymphocyte,Immunologic Surveillance,cell,orgf,7,AFFECTS_CELLafctORGF
+C0039194,C0021080,AFFECTS,T-Lymphocyte,Natural immunosuppression,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C0032961,AFFECTS,T-Lymphocyte,Pregnancy,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C0678723,AFFECTS,T-Lymphocyte,Biologic Development,cell,orgf,4,AFFECTS_CELLafctORGF
+C0039194,C0678889,AFFECTS,T-Lymphocyte,Immunoregulation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C0814002,AFFECTS,T-Lymphocyte,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C0887981,AFFECTS,T-Lymphocyte,Graft Tolerance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C1155328,AFFECTS,T-Lymphocyte,Antiviral Response,cell,orgf,5,AFFECTS_CELLafctORGF
+C0039194,C1327413,AFFECTS,T-Lymphocyte,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C1749719,AFFECTS,T-Lymphocyte,Adaptive Immune Response,cell,orgf,7,AFFECTS_CELLafctORGF
+C0039194,C1817762,AFFECTS,T-Lymphocyte,hepatic immune response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C1819437,AFFECTS,T-Lymphocyte,interleukin-10 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C1819439,AFFECTS,T-Lymphocyte,interleukin-12 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039194,C1819447,AFFECTS,T-Lymphocyte,interleukin-2 production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0039194,C4505136,AFFECTS,T-Lymphocyte,Immune Privilege,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039195,C0011065,AFFECTS,Cytotoxic T-Lymphocytes,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039195,C0018270,AFFECTS,Cytotoxic T-Lymphocytes,Growth,cell,orgf,2,AFFECTS_CELLafctORGF
+C0039195,C0035150,AFFECTS,Cytotoxic T-Lymphocytes,Reproduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039195,C1749719,AFFECTS,Cytotoxic T-Lymphocytes,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039198,C0043240,AFFECTS,Regulatory T-Lymphocytes,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039198,C0678889,AFFECTS,Regulatory T-Lymphocytes,Immunoregulation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039198,C1327441,AFFECTS,Regulatory T-Lymphocytes,negative regulation of inflammatory response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039198,C1749719,AFFECTS,Regulatory T-Lymphocytes,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039198,C1817907,AFFECTS,Regulatory T-Lymphocytes,T cell mediated immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039198,C1819437,AFFECTS,Regulatory T-Lymphocytes,interleukin-10 production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0039198,C1819459,AFFECTS,Regulatory T-Lymphocytes,interleukin-6 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039215,C0018270,AFFECTS,CD4 Positive T Lymphocytes,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039215,C0678723,AFFECTS,CD4 Positive T Lymphocytes,Biologic Development,cell,orgf,1,AFFECTS_CELLafctORGF
+C0039215,C1155328,AFFECTS,CD4 Positive T Lymphocytes,Antiviral Response,cell,orgf,4,AFFECTS_CELLafctORGF
+C0039215,C1819437,AFFECTS,CD4 Positive T Lymphocytes,interleukin-10 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0042542,C0018270,AFFECTS,Vero Cells,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0080202,C1155328,AFFECTS,T-Lymphocyte Subsets,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C0080202,C1819437,AFFECTS,T-Lymphocyte Subsets,interleukin-10 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0085080,C0012238,AFFECTS,Chinese Hamster Ovary Cell,Digestion,cell,orgf,1,AFFECTS_CELLafctORGF
+C0085236,C0014653,AFFECTS,"Macrophages, Alveolar",Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0085236,C0018270,AFFECTS,"Macrophages, Alveolar",Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0162597,C0020966,AFFECTS,Stromal Cells,Cellular Immunity,cell,orgf,2,AFFECTS_CELLafctORGF
+C0162597,C0020967,AFFECTS,Stromal Cells,Humoral Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C0162597,C0043240,AFFECTS,Stromal Cells,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C0011065,AFFECTS,Microglia,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C0014653,AFFECTS,Microglia,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C0814002,AFFECTS,Microglia,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C1155328,AFFECTS,Microglia,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C1327413,AFFECTS,Microglia,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C1749719,AFFECTS,Microglia,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C1819439,AFFECTS,Microglia,interleukin-12 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206116,C1819459,AFFECTS,Microglia,interleukin-6 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206131,C0018841,AFFECTS,Adipocytes,Thermogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0206131,C0597987,AFFECTS,Adipocytes,energy balance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0221284,C0012238,AFFECTS,Leptocyte,Digestion,cell,orgf,1,AFFECTS_CELLafctORGF
+C0221284,C0043240,AFFECTS,Leptocyte,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C0221284,C0699900,AFFECTS,Leptocyte,Catabolism,cell,orgf,1,AFFECTS_CELLafctORGF
+C0221284,C1160185,AFFECTS,Leptocyte,transduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0221284,C1327413,AFFECTS,Leptocyte,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0222677,C1160401,AFFECTS,Cell of bone,skeletal development,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225336,C0005615,AFFECTS,Endothelial Cells,Birth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225336,C0005823,AFFECTS,Endothelial Cells,Blood Pressure,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225336,C0596570,AFFECTS,Endothelial Cells,fibrogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225336,C0678723,AFFECTS,Endothelial Cells,Biologic Development,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225336,C0814002,AFFECTS,Endothelial Cells,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225336,C1327413,AFFECTS,Endothelial Cells,cytokine production,cell,orgf,2,AFFECTS_CELLafctORGF
+C0225338,C0026649,AFFECTS,Columnar epithelial cell,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225360,C0018270,AFFECTS,Myofibroblasts,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225360,C0596570,AFFECTS,Myofibroblasts,fibrogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225369,C0699900,AFFECTS,Chondrocyte,Catabolism,cell,orgf,1,AFFECTS_CELLafctORGF
+C0225668,C0025516,AFFECTS,Clara cell,"Metabolic Detoxication, Drug",cell,orgf,1,AFFECTS_CELLafctORGF
+C0225698,C0006147,AFFECTS,Alveolar Epithelial Cells,Breast Feeding,cell,orgf,1,AFFECTS_CELLafctORGF
+C0227276,C0011135,AFFECTS,Paneth Cells,Defecation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0227525,C0005615,AFFECTS,Hepatocyte,Birth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0227525,C0043240,AFFECTS,Hepatocyte,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0229525,C1510470,AFFECTS,Endocrine Cells,Motility,cell,orgf,1,AFFECTS_CELLafctORGF
+C0242629,C0014653,AFFECTS,CD8-Positive T-Lymphocytes,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C0242629,C0018270,AFFECTS,CD8-Positive T-Lymphocytes,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0242629,C1155328,AFFECTS,CD8-Positive T-Lymphocytes,Antiviral Response,cell,orgf,3,AFFECTS_CELLafctORGF
+C0242629,C1819437,AFFECTS,CD8-Positive T-Lymphocytes,interleukin-10 production,cell,orgf,3,AFFECTS_CELLafctORGF
+C0242629,C1819457,AFFECTS,CD8-Positive T-Lymphocytes,interleukin-4 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0242632,C0020966,AFFECTS,T-helper cell type 1,Cellular Immunity,cell,orgf,4,AFFECTS_CELLafctORGF
+C0242632,C1155328,AFFECTS,T-helper cell type 1,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0242633,C1155328,AFFECTS,T-helper cell type 2,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C0242697,C0026649,AFFECTS,Muscle Fibers,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0333827,C0018270,AFFECTS,Monocytoid cell,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0334227,C1160185,AFFECTS,"Tumor cells, malignant",transduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C0440752,C0018270,AFFECTS,Inflammatory cell,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0440752,C0596570,AFFECTS,Inflammatory cell,fibrogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0506994,C1523351,AFFECTS,Goblet Cells,tissue homeostasis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0524458,C0026649,AFFECTS,Upper motor neuron,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0596208,C0018270,AFFECTS,brain cell,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0596208,C1327413,AFFECTS,brain cell,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0596630,C0026559,AFFECTS,granule cell,Morphogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C0596981,C0026649,AFFECTS,Muscle Cells,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C0596993,C1819437,AFFECTS,Myeloid Progenitor Cells,interleukin-10 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0598089,C0018270,AFFECTS,established cell line,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0598800,C0005615,AFFECTS,Pericytes,Birth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0598800,C0678863,AFFECTS,Pericytes,blood pressure regulation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0598829,C0018270,AFFECTS,Madin Darby Canine Kidney Cells,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C0682523,C1327413,AFFECTS,human cell line,cytokine production,cell,orgf,1,AFFECTS_CELLafctORGF
+C0682638,C0001811,AFFECTS,memory b cell,Aging,cell,orgf,2,AFFECTS_CELLafctORGF
+C0682639,C0001811,AFFECTS,Memory T-Lymphocyte,Aging,cell,orgf,1,AFFECTS_CELLafctORGF
+C0682639,C0021059,AFFECTS,Memory T-Lymphocyte,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C0682701,C0004048,AFFECTS,Central neuron,Inspiration function,cell,orgf,1,AFFECTS_CELLafctORGF
+C0806987,C0043240,AFFECTS,mononuclear cells,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C0814997,C0011135,AFFECTS,Intestinal cell,Defecation,cell,orgf,1,AFFECTS_CELLafctORGF
+C0814997,C0025516,AFFECTS,Intestinal cell,"Metabolic Detoxication, Drug",cell,orgf,1,AFFECTS_CELLafctORGF
+C0887899,C1819430,AFFECTS,Myeloid Cells,type I interferon production,cell,orgf,1,AFFECTS_CELLafctORGF
+C1113654,C0814002,AFFECTS,Neural Stem Cells,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C1136335,C0043240,AFFECTS,Multipotent Stem Cells,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C1136335,C1817201,AFFECTS,Multipotent Stem Cells,tissue maintenance,cell,orgf,1,AFFECTS_CELLafctORGF
+C1182623,C0043240,AFFECTS,Unipotent stem cell,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C1182776,C0043240,AFFECTS,Lens cell,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C1257793,C1155328,AFFECTS,Lymphatic Endothelial Cells,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C1257909,C0043240,AFFECTS,Diploid Cell,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C1257975,C0043240,AFFECTS,Mesenchymal Stem Cells,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C1267822,C1819457,AFFECTS,CD4+ CD25+ Regulatory T Cells,interleukin-4 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C1268006,C1819430,AFFECTS,Neutrophilic granulocytic cell,type I interferon production,cell,orgf,1,AFFECTS_CELLafctORGF
+C1292097,C0020967,AFFECTS,IgA B lymphocyte,Humoral Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C1321301,C1819431,AFFECTS,Peripheral blood mononuclear cell (cell),interferon-alpha production,cell,orgf,1,AFFECTS_CELLafctORGF
+C1328818,C0025519,AFFECTS,Podocytes,Metabolism,cell,orgf,1,AFFECTS_CELLafctORGF
+C1513095,C0011065,AFFECTS,Melanoma Cell,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C1513410,C1160185,AFFECTS,Monkey Cell Line,transduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C1514965,C0814002,AFFECTS,Mouse Stem Cell,Neurogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C1519424,C1159366,AFFECTS,Somatotrophs,regulated exocytosis,cell,orgf,1,AFFECTS_CELLafctORGF
+C1519477,C0020966,AFFECTS,Splenocyte,Cellular Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C1720857,C0023796,AFFECTS,"Adipocytes, Brown",Lipolysis,cell,orgf,1,AFFECTS_CELLafctORGF
+C1956385,C0011065,AFFECTS,Plasmacytoid Dendritic Cells,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C1956385,C1155328,AFFECTS,Plasmacytoid Dendritic Cells,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C1956385,C1749719,AFFECTS,Plasmacytoid Dendritic Cells,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C1956385,C1819430,AFFECTS,Plasmacytoid Dendritic Cells,type I interferon production,cell,orgf,6,AFFECTS_CELLafctORGF
+C1956385,C1819464,AFFECTS,Plasmacytoid Dendritic Cells,tumor necrosis factor production,cell,orgf,1,AFFECTS_CELLafctORGF
+C1956386,C0021059,AFFECTS,Interstitial Dendritic Cells,Immunologic Surveillance,cell,orgf,1,AFFECTS_CELLafctORGF
+C2323499,C0004048,AFFECTS,Hematopoietic cell,Inspiration function,cell,orgf,1,AFFECTS_CELLafctORGF
+C2328196,C0005823,AFFECTS,Sympathetic preganglionic neuron,Blood Pressure,cell,orgf,1,AFFECTS_CELLafctORGF
+C2333949,C0037313,AFFECTS,Cholinergic Neurons,Sleep,cell,orgf,1,AFFECTS_CELLafctORGF
+C2340138,C0596570,AFFECTS,Hepatic Stellate Cells,fibrogenesis,cell,orgf,2,AFFECTS_CELLafctORGF
+C2708700,C0014653,AFFECTS,Immature cells,Equilibrium,cell,orgf,27,AFFECTS_CELLafctORGF
+C2708700,C1523351,AFFECTS,Immature cells,tissue homeostasis,cell,orgf,1,AFFECTS_CELLafctORGF
+C2717913,C0043240,AFFECTS,Telocytes,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C2936411,C1817907,AFFECTS,Th17 Cells,T cell mediated immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C2936598,C0596570,AFFECTS,Pancreatic Stellate Cells,fibrogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C3178785,C0005823,AFFECTS,Adrenergic Neurons,Blood Pressure,cell,orgf,1,AFFECTS_CELLafctORGF
+C3178867,C0026649,AFFECTS,Plant Cells,Movement,cell,orgf,1,AFFECTS_CELLafctORGF
+C3641722,C0020966,AFFECTS,Effector T-Lymphocyte,Cellular Immunity,cell,orgf,1,AFFECTS_CELLafctORGF
+C3641722,C1749719,AFFECTS,Effector T-Lymphocyte,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C3641722,C1819437,AFFECTS,Effector T-Lymphocyte,interleukin-10 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C3686472,C0596570,AFFECTS,Biliary epithelial cell,fibrogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C3686472,C0872193,AFFECTS,Biliary epithelial cell,immunoreaction,cell,orgf,1,AFFECTS_CELLafctORGF
+C3686472,C1154988,AFFECTS,Biliary epithelial cell,defense response,cell,orgf,1,AFFECTS_CELLafctORGF
+C3714800,C0011065,AFFECTS,SCID-Repopulating Cell,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C3714800,C1327441,AFFECTS,SCID-Repopulating Cell,negative regulation of inflammatory response,cell,orgf,1,AFFECTS_CELLafctORGF
+C3826603,C0011065,AFFECTS,Cell metabolism,Cessation of life,cell,orgf,1,AFFECTS_CELLafctORGF
+C3850017,C0043240,AFFECTS,Endothelial Progenitor Cells,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C3896693,C0043240,AFFECTS,Bone Marrow-Derived Cell,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C3896693,C0678723,AFFECTS,Bone Marrow-Derived Cell,Biologic Development,cell,orgf,1,AFFECTS_CELLafctORGF
+C3899623,C0043240,AFFECTS,Circulating Stem Cell,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C4042840,C1819464,AFFECTS,RAW 264.7 Cells,tumor necrosis factor production,cell,orgf,1,AFFECTS_CELLafctORGF
+C4085194,C1749719,AFFECTS,Conventional Dendritic Cell,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C4085194,C1819439,AFFECTS,Conventional Dendritic Cell,interleukin-12 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C4086555,C0023796,AFFECTS,M2 Macrophage,Lipolysis,cell,orgf,1,AFFECTS_CELLafctORGF
+C4086555,C0043240,AFFECTS,M2 Macrophage,Wound Healing,cell,orgf,1,AFFECTS_CELLafctORGF
+C4086901,C1155328,AFFECTS,Therapeutic gamma delta T-lymphocytes,Antiviral Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C4277577,C1819461,AFFECTS,A549 Cells,interleukin-8 production,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C0014653,AFFECTS,Immune Cell,Equilibrium,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C0018270,AFFECTS,Immune Cell,Growth,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C0032961,AFFECTS,Immune Cell,Pregnancy,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C0035150,AFFECTS,Immune Cell,Reproduction,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C0043240,AFFECTS,Immune Cell,Wound Healing,cell,orgf,2,AFFECTS_CELLafctORGF
+C4330475,C0596570,AFFECTS,Immune Cell,fibrogenesis,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C0678889,AFFECTS,Immune Cell,Immunoregulation,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C1154988,AFFECTS,Immune Cell,defense response,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C1155328,AFFECTS,Immune Cell,Antiviral Response,cell,orgf,2,AFFECTS_CELLafctORGF
+C4330475,C1523351,AFFECTS,Immune Cell,tissue homeostasis,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C1749719,AFFECTS,Immune Cell,Adaptive Immune Response,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C2584321,AFFECTS,Immune Cell,Reaching,cell,orgf,1,AFFECTS_CELLafctORGF
+C4330475,C4505136,AFFECTS,Immune Cell,Immune Privilege,cell,orgf,1,AFFECTS_CELLafctORGF

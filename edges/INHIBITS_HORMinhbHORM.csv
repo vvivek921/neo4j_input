@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0032952,INHIBITS,Adrenal Cortex Hormones,Prednisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0010961,C0033308,INHIBITS,Danazol,Progesterone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0014939,C0002844,INHIBITS,Estrogens,Androgens,horm,horm,1,INHIBITS_HORMinhbHORM
+C0016280,C0020268,INHIBITS,Fludrocortisone,Hydrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0017710,C0033554,INHIBITS,Glucocorticoids,Prostaglandins,horm,horm,1,INHIBITS_HORMinhbHORM
+C0017710,C0036884,INHIBITS,Glucocorticoids,Gonadal Steroid Hormones,horm,horm,1,INHIBITS_HORMinhbHORM
+C0020268,C0016280,INHIBITS,Hydrocortisone,Fludrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0020268,C0033308,INHIBITS,Hydrocortisone,Progesterone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0039601,C0002845,INHIBITS,Testosterone,"Androgens, Synthetic",horm,horm,1,INHIBITS_HORMinhbHORM
+C0040125,C0040135,INHIBITS,Antithyroid Agents,Thyroid Hormones,horm,horm,1,INHIBITS_HORMinhbHORM
+C0729349,C0020268,INHIBITS,Serum cortisol,Hydrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C3540777,C0020268,INHIBITS,"Glucocorticoids, Systemic",Hydrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM

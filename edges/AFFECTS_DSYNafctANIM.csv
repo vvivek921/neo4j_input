@@ -1,0 +1,86 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003175,C0683949,AFFECTS,Anthrax disease,animal study,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0003723,C0003063,AFFECTS,Arbovirus Infections,"Animals, Domestic",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0003723,C0003070,AFFECTS,Arbovirus Infections,"Animals, Wild",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0003864,C1516786,AFFECTS,Arthritis,Congenic Strain,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0003873,C0599779,AFFECTS,Rheumatoid Arthritis,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0004096,C0031268,AFFECTS,Asthma,Pet Animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0004096,C0599779,AFFECTS,Asthma,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0004096,C0683949,AFFECTS,Asthma,animal study,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0004135,C0012656,AFFECTS,Ataxia Telangiectasia,Disease Vectors,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0004364,C0599779,AFFECTS,Autoimmune Diseases,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0006057,C0003063,AFFECTS,Botulism,"Animals, Domestic",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0006309,C0003070,AFFECTS,Brucellosis,"Animals, Wild",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0006309,C2936506,AFFECTS,Brucellosis,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0009450,C0003063,AFFECTS,Communicable Diseases,"Animals, Domestic",dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0009450,C0003070,AFFECTS,Communicable Diseases,"Animals, Wild",dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0009450,C0031268,AFFECTS,Communicable Diseases,Pet Animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0009450,C0162318,AFFECTS,Communicable Diseases,Farm Animals,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0009450,C0562690,AFFECTS,Communicable Diseases,Carnivore,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0009450,C2936506,AFFECTS,Communicable Diseases,Livestock,dsyn,anim,4,AFFECTS_DSYNafctANIM
+C0010278,C1554184,AFFECTS,Craniosynostosis,Dual,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0010418,C0598744,AFFECTS,Cryptosporidiosis,juvenile animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0011881,C0599779,AFFECTS,Diabetic Nephropathy,Animal Model,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0013502,C2936506,AFFECTS,Echinococcosis,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0014335,C2936506,AFFECTS,Enteritis,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0016052,C2936506,AFFECTS,Fibromuscular Dysplasia,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0016514,C0162318,AFFECTS,Foot-and-Mouth Disease,Farm Animals,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0016514,C0683949,AFFECTS,Foot-and-Mouth Disease,animal study,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0016514,C2936506,AFFECTS,Foot-and-Mouth Disease,Livestock,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0017536,C0598744,AFFECTS,Giardiasis,juvenile animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0018801,C0599779,AFFECTS,Heart failure,Animal Model,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0019348,C0012656,AFFECTS,Herpes Simplex Infections,Disease Vectors,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0019693,C0599779,AFFECTS,HIV Infections,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0020538,C0599779,AFFECTS,Hypertensive disease,Animal Model,dsyn,anim,3,AFFECTS_DSYNafctANIM
+C0022802,C0003064,AFFECTS,Kuru,"Animals, Laboratory",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0023364,C2936506,AFFECTS,Leptospirosis,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0024141,C1554184,AFFECTS,"Lupus Erythematosus, Systemic",Dual,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0029456,C0599779,AFFECTS,Osteoporosis,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0030499,C0003063,AFFECTS,Parasitic Diseases,"Animals, Domestic",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0030499,C0598744,AFFECTS,Parasitic Diseases,juvenile animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0032064,C2936506,AFFECTS,Plague,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0032290,C0599779,AFFECTS,Aspiration Pneumonia,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0034362,C2936506,AFFECTS,Q Fever,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0035112,C0599779,AFFECTS,Reoviridae Infections,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0035204,C0683949,AFFECTS,Respiration Disorders,animal study,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0035220,C1554184,AFFECTS,"Respiratory Distress Syndrome, Newborn",Dual,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0035613,C2936506,AFFECTS,Rift Valley Fever,Livestock,dsyn,anim,3,AFFECTS_DSYNafctANIM
+C0035637,C0683949,AFFECTS,Rinderpest,animal study,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0035869,C0162318,AFFECTS,Rotavirus Infections,Farm Animals,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0036916,C0596888,AFFECTS,Sexually Transmitted Diseases,mature animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0041351,C0003070,AFFECTS,Tularemia,"Animals, Wild",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0041912,C0012656,AFFECTS,Upper Respiratory Infections,Disease Vectors,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0042769,C0003064,AFFECTS,Virus Diseases,"Animals, Laboratory",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0042769,C0162318,AFFECTS,Virus Diseases,Farm Animals,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0042769,C0598744,AFFECTS,Virus Diseases,juvenile animal,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0042769,C1554184,AFFECTS,Virus Diseases,Dual,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0042769,C2936506,AFFECTS,Virus Diseases,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0043528,C0003070,AFFECTS,Zoonoses,"Animals, Wild",dsyn,anim,3,AFFECTS_DSYNafctANIM
+C0043528,C0031268,AFFECTS,Zoonoses,Pet Animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0043528,C2936506,AFFECTS,Zoonoses,Livestock,dsyn,anim,9,AFFECTS_DSYNafctANIM
+C0085110,C1554184,AFFECTS,Severe Combined Immunodeficiency,Dual,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0085306,C0598744,AFFECTS,Feline infectious peritonitis,juvenile animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0151317,C0003064,AFFECTS,Chronic infectious disease,"Animals, Laboratory",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0151517,C0012656,AFFECTS,Complete atrioventricular block,Disease Vectors,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0152517,C0598744,AFFECTS,Enteritis due to specified virus,juvenile animal,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0162700,C0031268,AFFECTS,Tick-Borne Diseases,Pet Animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0235950,C0003064,AFFECTS,Zinc deficiency,"Animals, Laboratory",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0262428,C0599779,AFFECTS,Collagen-vascular disease,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0263940,C0869004,AFFECTS,Curb,pests,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0270724,C0003063,AFFECTS,Infantile Neuroaxonal Dystrophy,"Animals, Domestic",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0276185,C0598744,AFFECTS,Camelpox,juvenile animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0276500,C0012656,AFFECTS,Human immunodeficiency virus I infection,Disease Vectors,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0276829,C0596888,AFFECTS,Infection by Tritrichomonas,mature animal,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0277549,C0003070,AFFECTS,Epizootic disease,"Animals, Wild",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0277550,C1554184,AFFECTS,Endemic Diseases,Dual,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0349782,C0599779,AFFECTS,Ischemic cardiomyopathy,Animal Model,dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0851886,C0599779,AFFECTS,Pneumocystis Infections,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0858744,C0599779,AFFECTS,infection induced,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C0872315,C0003063,AFFECTS,"Communicable Diseases, Emerging","Animals, Domestic",dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0872315,C0003070,AFFECTS,"Communicable Diseases, Emerging","Animals, Wild",dsyn,anim,2,AFFECTS_DSYNafctANIM
+C0872315,C2936506,AFFECTS,"Communicable Diseases, Emerging",Livestock,dsyn,anim,3,AFFECTS_DSYNafctANIM
+C1175175,C0599779,AFFECTS,Severe Acute Respiratory Syndrome,Animal Model,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C1290807,C2936506,AFFECTS,Diarrheal disorder,Livestock,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C1443953,C0003063,AFFECTS,Acute viral disease,"Animals, Domestic",dsyn,anim,1,AFFECTS_DSYNafctANIM
+C1640363,C0012656,AFFECTS,Vector-transmitted infectious disease,Disease Vectors,dsyn,anim,1,AFFECTS_DSYNafctANIM
+C3888198,C1554184,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Dual,dsyn,anim,1,AFFECTS_DSYNafctANIM

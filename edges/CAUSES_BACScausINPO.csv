@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001041,C0600688,CAUSES,Acetylcholine,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0001443,C0010957,CAUSES,Adenosine,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0001443,C0600688,CAUSES,Adenosine,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0005404,C0600688,CAUSES,Bile Salts,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0007289,C0273115,CAUSES,Carrageenan,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0007289,C0341336,CAUSES,Carrageenan,Drug-induced colitis,bacs,inpo,1,CAUSES_BACScausINPO
+C0007412,C0876994,CAUSES,Catecholamines,Cardiotoxicity,bacs,inpo,1,CAUSES_BACScausINPO
+C0009968,C0035126,CAUSES,Copper,Reperfusion Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0010868,C0010957,CAUSES,Cytotoxin,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0010868,C0273115,CAUSES,Cytotoxin,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0012854,C0010957,CAUSES,DNA,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0012854,C0273115,CAUSES,DNA,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0012854,C0600688,CAUSES,DNA,Toxic effect,bacs,inpo,4,CAUSES_BACScausINPO
+C0013982,C0235378,CAUSES,Emodin,Hepatotoxicity,bacs,inpo,4,CAUSES_BACScausINPO
+C0013982,C0599918,CAUSES,Emodin,nephrotoxicity,bacs,inpo,2,CAUSES_BACScausINPO
+C0013982,C0600688,CAUSES,Emodin,Toxic effect,bacs,inpo,4,CAUSES_BACScausINPO
+C0016693,C0010957,CAUSES,Free Radicals,Tissue damage,bacs,inpo,3,CAUSES_BACScausINPO
+C0016693,C0273115,CAUSES,Free Radicals,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0016693,C0600688,CAUSES,Free Radicals,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0016693,C0746730,CAUSES,Free Radicals,myocardial injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0016693,C1710055,CAUSES,Free Radicals,Serious Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0019053,C0010957,CAUSES,Hemolysin,Tissue damage,bacs,inpo,2,CAUSES_BACScausINPO
+C0023546,C0010957,CAUSES,Leukotriene B4,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0028128,C0010957,CAUSES,Nitric Oxide,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0030054,C0273115,CAUSES,Oxygen,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0030958,C0600688,CAUSES,Peptidoglycan,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0031676,C0242488,CAUSES,Phospholipids,Acute Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0032136,C0600688,CAUSES,Plasmids,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0034085,C0242488,CAUSES,Pulmonary Surfactants,Acute Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0034335,C0235378,CAUSES,Pyrrolizidine Alkaloids,Hepatotoxicity,bacs,inpo,1,CAUSES_BACScausINPO
+C0035693,C0035126,CAUSES,"RNA, Double-Stranded",Reperfusion Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0035693,C0160390,CAUSES,"RNA, Double-Stranded",Injury of liver,bacs,inpo,1,CAUSES_BACScausINPO
+C0035693,C0273115,CAUSES,"RNA, Double-Stranded",Lung Injury,bacs,inpo,10,CAUSES_BACScausINPO
+C0035696,C0600688,CAUSES,"RNA, Messenger",Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0036248,C1960100,CAUSES,Saxitoxin,Shellfish Poisoning,bacs,inpo,1,CAUSES_BACScausINPO
+C0036581,C0600688,CAUSES,Selenium,Toxic effect,bacs,inpo,3,CAUSES_BACScausINPO
+C0038636,C0599918,CAUSES,Sucrose,nephrotoxicity,bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C0010957,CAUSES,Toxin,Tissue damage,bacs,inpo,2,CAUSES_BACScausINPO
+C0040549,C0016479,CAUSES,Toxin,Food Poisoning,bacs,inpo,6,CAUSES_BACScausINPO
+C0040549,C0032343,CAUSES,Toxin,Poisoning,bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C0043255,CAUSES,Toxin,"Wounds, Stab",bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C0235280,CAUSES,Toxin,Ototoxicity,bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C0273115,CAUSES,Toxin,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C0600688,CAUSES,Toxin,Toxic effect,bacs,inpo,3,CAUSES_BACScausINPO
+C0040549,C0679360,CAUSES,Toxin,Foodborne Disease,bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C1264527,CAUSES,Toxin,Chronic poisoning,bacs,inpo,1,CAUSES_BACScausINPO
+C0040549,C1709216,CAUSES,Toxin,Neural Tissue Damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0041248,C0600688,CAUSES,Tryptamines,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0042670,C0441718,CAUSES,Vinblastine,Direct trauma,bacs,inpo,1,CAUSES_BACScausINPO
+C0043335,C0600688,CAUSES,Xenobiotics,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0043552,C0273115,CAUSES,Zymosan,Lung Injury,bacs,inpo,2,CAUSES_BACScausINPO
+C0056912,C0600688,CAUSES,cytidylyl-3'-5'-guanosine,Toxic effect,bacs,inpo,2,CAUSES_BACScausINPO
+C0065335,C0600688,CAUSES,lycorine,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0073133,C0235378,CAUSES,retrorsine,Hepatotoxicity,bacs,inpo,3,CAUSES_BACScausINPO
+C0079925,C0235378,CAUSES,Antisense Oligonucleotides,Hepatotoxicity,bacs,inpo,1,CAUSES_BACScausINPO
+C0136157,C0010957,CAUSES,Peroxynitrite,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C0136157,C0273115,CAUSES,Peroxynitrite,Lung Injury,bacs,inpo,3,CAUSES_BACScausINPO
+C0142281,C0274869,CAUSES,Siderophores,Toxic effect of heavy metal,bacs,inpo,1,CAUSES_BACScausINPO
+C0162772,C0010957,CAUSES,Reactive Oxygen Species,Tissue damage,bacs,inpo,3,CAUSES_BACScausINPO
+C0162772,C0242488,CAUSES,Reactive Oxygen Species,Acute Lung Injury,bacs,inpo,3,CAUSES_BACScausINPO
+C0162772,C0270611,CAUSES,Reactive Oxygen Species,Brain Injuries,bacs,inpo,1,CAUSES_BACScausINPO
+C0162772,C0273115,CAUSES,Reactive Oxygen Species,Lung Injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0162772,C0600688,CAUSES,Reactive Oxygen Species,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0178645,C0349419,CAUSES,oxygen free radical,Ischemic reperfusion injury,bacs,inpo,1,CAUSES_BACScausINPO
+C0178645,C0600688,CAUSES,oxygen free radical,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0236556,C0600688,CAUSES,Direct reacting bilirubin,Toxic effect,bacs,inpo,1,CAUSES_BACScausINPO
+C0302583,C0018805,CAUSES,Iron,Heart Injuries,bacs,inpo,1,CAUSES_BACScausINPO
+C0304207,C0010957,CAUSES,Bacterial product,Tissue damage,bacs,inpo,2,CAUSES_BACScausINPO
+C0563640,C0441718,CAUSES,Bacterial cytotoxin,Direct trauma,bacs,inpo,1,CAUSES_BACScausINPO
+C0597508,C0679360,CAUSES,Staphylococcal Enterotoxins,Foodborne Disease,bacs,inpo,2,CAUSES_BACScausINPO
+C0920643,C0178324,CAUSES,reactive oxygen intermediate,Vascular System Injuries,bacs,inpo,1,CAUSES_BACScausINPO
+C1099354,C0005700,CAUSES,"RNA, Small Interfering",Blast Injuries,bacs,inpo,1,CAUSES_BACScausINPO
+C1099354,C0600688,CAUSES,"RNA, Small Interfering",Toxic effect,bacs,inpo,8,CAUSES_BACScausINPO
+C1099354,C2362502,CAUSES,"RNA, Small Interfering",Safety Issues,bacs,inpo,1,CAUSES_BACScausINPO
+C1101610,C0600688,CAUSES,MicroRNAs,Toxic effect,bacs,inpo,2,CAUSES_BACScausINPO
+C1620047,C0010957,CAUSES,dieckol,Tissue damage,bacs,inpo,1,CAUSES_BACScausINPO
+C1764827,C0264221,CAUSES,Isolate - microorganism,Disorder of upper respiratory system,bacs,inpo,1,CAUSES_BACScausINPO
+C3712557,C0080194,CAUSES,Echinaforce,Muscle strain,bacs,inpo,1,CAUSES_BACScausINPO

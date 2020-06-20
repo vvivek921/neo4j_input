@@ -1,0 +1,74 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000921,C0043251,ISA,Accidental Falls,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0000932,C0043251,ISA,Traffic accidents,Wounds and Injuries,inpo,inpo,2,ISA_INPOisaINPO
+C0004161,C0043251,ISA,Athletic Injuries,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0004760,C0043251,ISA,Dysbarism,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0005658,C0043251,ISA,bite injury,Wounds and Injuries,inpo,inpo,4,ISA_INPOisaINPO
+C0006434,C0043251,ISA,Burn injury,Wounds and Injuries,inpo,inpo,18,ISA_INPOisaINPO
+C0006434,C0332685,ISA,Burn injury,Thermal injury,inpo,inpo,1,ISA_INPOisaINPO
+C0009938,C0043251,ISA,Contusions,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0010957,C0043251,ISA,Tissue damage,Wounds and Injuries,inpo,inpo,4,ISA_INPOisaINPO
+C0013142,C0038561,ISA,Drowning,Submersion,inpo,inpo,2,ISA_INPOisaINPO
+C0013142,C0043251,ISA,Drowning,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0015802,C0016658,ISA,Femoral Fractures,Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C0015806,C0043251,ISA,Femoral Neck Fractures,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0015806,C0281865,ISA,Femoral Neck Fractures,Hip Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0016325,C0032343,ISA,Fluoride Poisoning,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0016542,C0043251,ISA,Foreign Bodies,Wounds and Injuries,inpo,inpo,5,ISA_INPOisaINPO
+C0016655,C0016658,ISA,"Fractures, Multiple",Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C0016658,C0043251,ISA,Fracture,Wounds and Injuries,inpo,inpo,3,ISA_INPOisaINPO
+C0019557,C0016658,ISA,Hip Fractures,Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C0020162,C0016658,ISA,Humeral Fractures,Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C0021564,C0043251,ISA,Insect Bites,Wounds and Injuries,inpo,inpo,2,ISA_INPOisaINPO
+C0026771,C0043251,ISA,Multiple Trauma,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0029944,C0032343,ISA,Drug Overdose,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0034055,C0004760,ISA,Pulmonary barotrauma,Dysbarism,inpo,inpo,1,ISA_INPOisaINPO
+C0035126,C0043251,ISA,Reperfusion Injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0035522,C0039980,ISA,Rib Fractures,Thoracic Injuries,inpo,inpo,4,ISA_INPOisaINPO
+C0035522,C0043251,ISA,Rib Fractures,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0036114,C0016479,ISA,Salmonella food poisoning,Food Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0036114,C0679360,ISA,Salmonella food poisoning,Foodborne Disease,inpo,inpo,3,ISA_INPOisaINPO
+C0037379,C0005658,ISA,Snake Bites,bite injury,inpo,inpo,1,ISA_INPOisaINPO
+C0037379,C0040533,ISA,Snake Bites,Toxic effect of venom,inpo,inpo,1,ISA_INPOisaINPO
+C0037929,C1264238,ISA,Spinal Cord Injuries,Injury of central nervous system,inpo,inpo,1,ISA_INPOisaINPO
+C0038000,C0043246,ISA,Splenic Rupture,Laceration,inpo,inpo,1,ISA_INPOisaINPO
+C0039980,C3263723,ISA,Thoracic Injuries,Traumatic injury,inpo,inpo,1,ISA_INPOisaINPO
+C0040533,C0043251,ISA,Toxic effect of venom,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0043246,C0043251,ISA,Laceration,Wounds and Injuries,inpo,inpo,2,ISA_INPOisaINPO
+C0043252,C0043254,ISA,Gunshot wound,"Wounds, Penetrating",inpo,inpo,1,ISA_INPOisaINPO
+C0043254,C0043250,ISA,"Wounds, Penetrating",Injury wounds,inpo,inpo,1,ISA_INPOisaINPO
+C0043254,C0043251,ISA,"Wounds, Penetrating",Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0149504,C0032343,ISA,"Encephalopathy, Toxic",Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0149531,C0080179,ISA,Fracture of pelvis,Spinal Fractures,inpo,inpo,1,ISA_INPOisaINPO
+C0151821,C0032343,ISA,ACCIDENTAL OVERDOSE,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0159667,C0016658,ISA,Fracture of scapula,Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C0161479,C0043251,ISA,Nerve injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0178671,C0332662,ISA,Head and neck injury,GENERAL INJURIES,inpo,inpo,1,ISA_INPOisaINPO
+C0242488,C0273115,ISA,Acute Lung Injury,Lung Injury,inpo,inpo,2,ISA_INPOisaINPO
+C0259797,C0005658,ISA,Dog Bite,bite injury,inpo,inpo,1,ISA_INPOisaINPO
+C0262414,C0043251,ISA,Fracture of cervical spine,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0270611,C0043251,ISA,Brain Injuries,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0274869,C0032343,ISA,Toxic effect of heavy metal,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0275009,C0032343,ISA,Pesticide poisoning,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0282507,C0043251,ISA,Heat Stress Disorders,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0311375,C0032343,ISA,Arsenic Poisoning,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C0332691,C0565944,ISA,Scalding injury,Burn of skin of body region,inpo,inpo,1,ISA_INPOisaINPO
+C0332798,C0043251,ISA,Open wound,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0347575,C0043251,ISA,Injury of nail,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0347625,C0009938,ISA,Contusion of lung,Contusions,inpo,inpo,2,ISA_INPOisaINPO
+C0347625,C0039980,ISA,Contusion of lung,Thoracic Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0561546,C0043251,ISA,Bite wound,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0600688,C2362502,ISA,Toxic effect,Safety Issues,inpo,inpo,1,ISA_INPOisaINPO
+C0679360,C2362502,ISA,Foodborne Disease,Safety Issues,inpo,inpo,1,ISA_INPOisaINPO
+C0681630,C0043251,ISA,pedestrian accident,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0728942,C0043251,ISA,Perforating wound,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0745334,C0043251,ISA,Inhalation injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0018674,ISA,Traumatic Brain Injury,Craniocerebral Trauma,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0043251,ISA,Traumatic Brain Injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0270611,ISA,Traumatic Brain Injury,Brain Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0876994,C0600688,ISA,Cardiotoxicity,Toxic effect,inpo,inpo,2,ISA_INPOisaINPO
+C1264527,C0032343,ISA,Chronic poisoning,Poisoning,inpo,inpo,1,ISA_INPOisaINPO
+C1265651,C0561852,ISA,Microfractures,Bone injury,inpo,inpo,1,ISA_INPOisaINPO
+C1299607,C0043251,ISA,Toxic inhalation injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C1301685,C0018674,ISA,Dental trauma,Craniocerebral Trauma,inpo,inpo,1,ISA_INPOisaINPO
+C1621955,C0043251,ISA,Physical abuse,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO

@@ -1,0 +1,28 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009818,C0001617,USES,Consultation,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C0023977,C0001617,USES,long-term care,Adrenal Cortex Hormones,hlca,horm,10,USES_HLCAusesHORM
+C0023977,C0010961,USES,long-term care,Danazol,hlca,horm,1,USES_HLCAusesHORM
+C0030677,C0001617,USES,Patient Care Management,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0001617,USES,Patient Discharge,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0002006,USES,Patient Discharge,Aldosterone,hlca,horm,13,USES_HLCAusesHORM
+C0030685,C0010124,USES,Patient Discharge,Corticosterone,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0012472,USES,Patient Discharge,Dinoprostone,hlca,horm,14,USES_HLCAusesHORM
+C0030685,C0014563,USES,Patient Discharge,Epinephrine,hlca,horm,1,USES_HLCAusesHORM
+C0030685,C0020268,USES,Patient Discharge,Hydrocortisone,hlca,horm,14,USES_HLCAusesHORM
+C0030685,C0025219,USES,Patient Discharge,Melatonin,hlca,horm,1,USES_HLCAusesHORM
+C0030685,C0028351,USES,Patient Discharge,Norepinephrine,hlca,horm,20,USES_HLCAusesHORM
+C0030685,C0033554,USES,Patient Discharge,Prostaglandins,hlca,horm,7,USES_HLCAusesHORM
+C0030685,C0039601,USES,Patient Discharge,Testosterone,hlca,horm,1,USES_HLCAusesHORM
+C0034107,C0025815,USES,Pulse taking,Methylprednisolone,hlca,horm,5,USES_HLCAusesHORM
+C0220825,C0772289,USES,Evaluation,"corticotropin-releasing factor, human",hlca,horm,1,USES_HLCAusesHORM
+C0282664,C0014563,USES,Point-of-Care Systems,Epinephrine,hlca,horm,1,USES_HLCAusesHORM
+C0441587,C0033308,USES,Clinical act of insertion,Progesterone,hlca,horm,1,USES_HLCAusesHORM
+C0441640,C0001617,USES,Tapering - action,Adrenal Cortex Hormones,hlca,horm,8,USES_HLCAusesHORM
+C0441640,C0020268,USES,Tapering - action,Hydrocortisone,hlca,horm,1,USES_HLCAusesHORM
+C0441640,C0032952,USES,Tapering - action,Prednisone,hlca,horm,7,USES_HLCAusesHORM
+C0679860,C0025219,USES,nontreatment,Melatonin,hlca,horm,1,USES_HLCAusesHORM
+C1261322,C0010124,USES,Evaluation procedure,Corticosterone,hlca,horm,2,USES_HLCAusesHORM
+C1261322,C0014912,USES,Evaluation procedure,Estradiol,hlca,horm,1,USES_HLCAusesHORM
+C1406915,C0001617,USES,breathing therapy,Adrenal Cortex Hormones,hlca,horm,16,USES_HLCAusesHORM
+C1406915,C0014563,USES,breathing therapy,Epinephrine,hlca,horm,1,USES_HLCAusesHORM
+C1827449,C0001617,USES,Medication dosage tapering,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM

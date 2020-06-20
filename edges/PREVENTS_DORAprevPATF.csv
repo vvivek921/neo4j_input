@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006811,C0242781,PREVENTS,Camping (activity),disease transmission,dora,patf,2,PREVENTS_DORAprevPATF
+C0008067,C0242781,PREVENTS,Child Care,disease transmission,dora,patf,1,PREVENTS_DORAprevPATF
+C0015259,C0021368,PREVENTS,Exercise,Inflammation,dora,patf,1,PREVENTS_DORAprevPATF
+C0015259,C0040053,PREVENTS,Exercise,Thrombosis,dora,patf,1,PREVENTS_DORAprevPATF
+C0015259,C0700148,PREVENTS,Exercise,Congestion,dora,patf,1,PREVENTS_DORAprevPATF
+C0015259,C4061114,PREVENTS,Exercise,Acute illness,dora,patf,1,PREVENTS_DORAprevPATF
+C0034754,C0020517,PREVENTS,Reading (activity),Hypersensitivity,dora,patf,1,PREVENTS_DORAprevPATF
+C0038039,C0019080,PREVENTS,Sports,Hemorrhage,dora,patf,1,PREVENTS_DORAprevPATF
+C0038039,C0020517,PREVENTS,Sports,Hypersensitivity,dora,patf,1,PREVENTS_DORAprevPATF
+C0040802,C0010356,PREVENTS,travel,Cross Infection,dora,patf,1,PREVENTS_DORAprevPATF
+C0040802,C0036974,PREVENTS,travel,Shock,dora,patf,1,PREVENTS_DORAprevPATF
+C0040802,C0242781,PREVENTS,travel,disease transmission,dora,patf,2,PREVENTS_DORAprevPATF
+C0080331,C0018944,PREVENTS,Walking (activity),Hematoma,dora,patf,1,PREVENTS_DORAprevPATF
+C0336949,C0015376,PREVENTS,Bowling (activity),Extravasation,dora,patf,1,PREVENTS_DORAprevPATF
+C0700382,C0242781,PREVENTS,"Washing hands, function",disease transmission,dora,patf,1,PREVENTS_DORAprevPATF
+C0700382,C3714514,PREVENTS,"Washing hands, function",Infection,dora,patf,1,PREVENTS_DORAprevPATF
+C1305428,C0008767,PREVENTS,Dressing- activity of daily living,Cicatrization,dora,patf,1,PREVENTS_DORAprevPATF
+C1305428,C0860239,PREVENTS,Dressing- activity of daily living,Catheter related infection,dora,patf,1,PREVENTS_DORAprevPATF
+C4019053,C0282474,PREVENTS,Arising,Maternal-Fetal Infection Transmission,dora,patf,1,PREVENTS_DORAprevPATF

@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004635,C0596402,AUGMENTS,bactericide,cytotoxicity,antb,comd,1,AUGMENTS_ANTBaugmCOMD
+C0013089,C1511667,AUGMENTS,Doxorubicin,"DNA Breaks, Double-Stranded",antb,comd,2,AUGMENTS_ANTBaugmCOMD
+C0041385,C1516373,AUGMENTS,Tunicamycin,Cellular Stress,antb,comd,2,AUGMENTS_ANTBaugmCOMD
+C0073591,C0242606,AUGMENTS,rosoxacin,Oxidative Stress,antb,comd,3,AUGMENTS_ANTBaugmCOMD
+C0073591,C0596402,AUGMENTS,rosoxacin,cytotoxicity,antb,comd,2,AUGMENTS_ANTBaugmCOMD
+C0073591,C1516373,AUGMENTS,rosoxacin,Cellular Stress,antb,comd,2,AUGMENTS_ANTBaugmCOMD

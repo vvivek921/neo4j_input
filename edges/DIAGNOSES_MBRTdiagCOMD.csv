@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0022526,C0008625,DIAGNOSES,Karyotype determination procedure,Chromosome Aberrations,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0162735,DIAGNOSES,Polymerase Chain Reaction,Point Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0544885,DIAGNOSES,Polymerase Chain Reaction,Nonsense mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0948051,DIAGNOSES,Polymerase Chain Reaction,Mitochondrial DNA deletions,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C1511760,DIAGNOSES,Polymerase Chain Reaction,Deletion Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C1705285,DIAGNOSES,Polymerase Chain Reaction,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0080143,C0162735,DIAGNOSES,Sequence Alignment,Point Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0162789,C0002938,DIAGNOSES,Fluorescent in Situ Hybridization,Aneuploidy,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0599161,C0596402,DIAGNOSES,Reverse Transcriptase Polymerase Chain Reaction,cytotoxicity,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0751980,C0012860,DIAGNOSES,Comet Assay,DNA Damage,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD
+C0752095,C0008625,DIAGNOSES,Cytogenetic Analysis,Chromosome Aberrations,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0796358,C1705285,DIAGNOSES,comparative genomic analysis,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C0008628,DIAGNOSES,genome sequencing,Chromosome Deletion,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C0162735,DIAGNOSES,genome sequencing,Point Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C1705285,DIAGNOSES,genome sequencing,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C2985439,DIAGNOSES,genome sequencing,De novo mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1511897,C2985438,DIAGNOSES,Dideoxy Chain Termination DNA Sequencing,Novel Mutation,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD
+C1513380,C2985438,DIAGNOSES,Molecular Analysis,Novel Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1513384,C1705285,DIAGNOSES,Molecular Genetic Technique,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1515232,C0872150,DIAGNOSES,TdT-Mediated dUTP Nick End Labeling Assay,DNA Strand Break,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1520146,C0596402,DIAGNOSES,Whole Genome Amplification,cytotoxicity,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1709846,C2826175,DIAGNOSES,Real-Time Polymerase Chain Reaction,NPM1 Gene Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640076,C0544885,DIAGNOSES,Whole Genome Sequencing,Nonsense mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640076,C0544886,DIAGNOSES,Whole Genome Sequencing,Somatic mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640076,C1515001,DIAGNOSES,Whole Genome Sequencing,Chromosomal structural abnormalities,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640077,C0544886,DIAGNOSES,Whole Exome Sequencing,Somatic mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3899368,C0008628,DIAGNOSES,Direct Sequencing,Chromosome Deletion,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3899368,C0035268,DIAGNOSES,Direct Sequencing,Restriction fragment length polymorphism,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3899368,C0162735,DIAGNOSES,Direct Sequencing,Point Mutation,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD

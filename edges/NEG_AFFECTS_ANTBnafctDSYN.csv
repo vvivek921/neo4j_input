@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002679,C0238013,NEG_AFFECTS,Amphotericin B,Invasive aspergillosis,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0003175,NEG_AFFECTS,Antibiotics,Anthrax disease,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0004623,NEG_AFFECTS,Antibiotics,Bacterial Infections,antb,dsyn,2,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0004626,NEG_AFFECTS,Antibiotics,"Pneumonia, Bacterial",antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0009450,NEG_AFFECTS,Antibiotics,Communicable Diseases,antb,dsyn,2,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0018378,NEG_AFFECTS,Antibiotics,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0021400,NEG_AFFECTS,Antibiotics,Influenza,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0032285,NEG_AFFECTS,Antibiotics,Pneumonia,antb,dsyn,3,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0042769,NEG_AFFECTS,Antibiotics,Virus Diseases,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0277554,NEG_AFFECTS,Antibiotics,primary disorders,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0729518,NEG_AFFECTS,Antibiotics,Bacterial respiratory infection,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C1175175,NEG_AFFECTS,Antibiotics,Severe Acute Respiratory Syndrome,antb,dsyn,3,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0018378,NEG_AFFECTS,Macrolide Antibiotics,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0031350,NEG_AFFECTS,Macrolide Antibiotics,Pharyngitis,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0032269,NEG_AFFECTS,Macrolide Antibiotics,Pneumococcal Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0032285,NEG_AFFECTS,Macrolide Antibiotics,Pneumonia,antb,dsyn,4,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0035204,NEG_AFFECTS,Macrolide Antibiotics,Respiration Disorders,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0035243,NEG_AFFECTS,Macrolide Antibiotics,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0271429,NEG_AFFECTS,Macrolide Antibiotics,Acute otitis media,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0694549,NEG_AFFECTS,Macrolide Antibiotics,Community acquired pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C1320214,NEG_AFFECTS,Macrolide Antibiotics,Invasive Streptococcus pneumoniae disease,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0006968,C0004610,NEG_AFFECTS,Carbapenems,Bacteremia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0006968,C0205721,NEG_AFFECTS,Carbapenems,"Infections, Hospital",antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0007559,C0032285,NEG_AFFECTS,Ceftazidime,Pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0008947,C0018378,NEG_AFFECTS,Clindamycin,Guillain-Barre Syndrome,antb,dsyn,2,NEG_AFFECTS_ANTBnafctDSYN
+C0008947,C1320214,NEG_AFFECTS,Clindamycin,Invasive Streptococcus pneumoniae disease,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0014806,C0018378,NEG_AFFECTS,Erythromycin,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0020933,C0032285,NEG_AFFECTS,Imipenem,Pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0020933,C0949083,NEG_AFFECTS,Imipenem,Hospital acquired pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0020933,C1701940,NEG_AFFECTS,Imipenem,"Pneumonia, Ventilator-Associated",antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0022914,C0035243,NEG_AFFECTS,Lactams,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0025643,C0032285,NEG_AFFECTS,Methicillin,Pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0025643,C0149778,NEG_AFFECTS,Methicillin,Soft Tissue Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0027603,C1854469,NEG_AFFECTS,Neomycin,Noonan Syndrome 2,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0030842,C0032285,NEG_AFFECTS,Penicillins,Pneumonia,antb,dsyn,3,NEG_AFFECTS_ANTBnafctDSYN
+C0030842,C0035243,NEG_AFFECTS,Penicillins,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0030842,C0036916,NEG_AFFECTS,Penicillins,Sexually Transmitted Diseases,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0030842,C0042029,NEG_AFFECTS,Penicillins,Urinary tract infection,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0031955,C0032285,NEG_AFFECTS,Piperacillin,Pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0035608,C0035243,NEG_AFFECTS,Rifampin,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0035608,C0206526,NEG_AFFECTS,Rifampin,"Tuberculosis, Multidrug-Resistant",antb,dsyn,4,NEG_AFFECTS_ANTBnafctDSYN
+C0035608,C1827301,NEG_AFFECTS,Rifampin,Extensively Drug-Resistant Tuberculosis,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0039644,C0018378,NEG_AFFECTS,Tetracycline,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0039644,C0042029,NEG_AFFECTS,Tetracycline,Urinary tract infection,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0279516,C0031350,NEG_AFFECTS,Anti-Bacterial Agents,Pharyngitis,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0279516,C0271429,NEG_AFFECTS,Anti-Bacterial Agents,Acute otitis media,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0279516,C0694549,NEG_AFFECTS,Anti-Bacterial Agents,Community acquired pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0279516,C1175175,NEG_AFFECTS,Anti-Bacterial Agents,Severe Acute Respiratory Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C3536856,C0032285,NEG_AFFECTS,Cephalosporins,Pneumonia,antb,dsyn,2,NEG_AFFECTS_ANTBnafctDSYN

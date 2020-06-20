@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0016479,C3714514,ISA,Food Poisoning,Infection,inpo,patf,3,ISA_INPOisaPATF
+C0036114,C0021368,ISA,Salmonella food poisoning,Inflammation,inpo,patf,1,ISA_INPOisaPATF
+C0036114,C3714514,ISA,Salmonella food poisoning,Infection,inpo,patf,4,ISA_INPOisaPATF
+C0038814,C0020517,ISA,Sunburn,Hypersensitivity,inpo,patf,1,ISA_INPOisaPATF
+C0206063,C0021368,ISA,Radiation Pneumonitis,Inflammation,inpo,patf,1,ISA_INPOisaPATF
+C0235378,C0041755,ISA,Hepatotoxicity,Adverse reaction to drug,inpo,patf,1,ISA_INPOisaPATF
+C0242488,C0030660,ISA,Acute Lung Injury,Pathologic Processes,inpo,patf,3,ISA_INPOisaPATF
+C0242488,C0036974,ISA,Acute Lung Injury,Shock,inpo,patf,1,ISA_INPOisaPATF
+C0242488,C0242184,ISA,Acute Lung Injury,Hypoxia,inpo,patf,1,ISA_INPOisaPATF
+C0242488,C0334094,ISA,Acute Lung Injury,Proliferation (morphologic abnormality),inpo,patf,1,ISA_INPOisaPATF
+C0442861,C0016059,ISA,Irradiation fibrosis,Fibrosis,inpo,patf,1,ISA_INPOisaPATF
+C0600467,C0021368,ISA,Neurogenic Inflammation,Inflammation,inpo,patf,1,ISA_INPOisaPATF

@@ -1,0 +1,217 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002423,C0184666,METHOD_OF,ambulatory care services,Hospital admission,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0009818,C0031809,METHOD_OF,Consultation,Physical Examination,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0009818,C0199182,METHOD_OF,Consultation,History taking,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0009818,C0220825,METHOD_OF,Consultation,Evaluation,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0009818,C1261322,METHOD_OF,Consultation,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0010210,C0018738,METHOD_OF,Counseling,Health Promotion,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0010210,C0035649,METHOD_OF,Counseling,Risk Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0010210,C0600015,METHOD_OF,Counseling,Emotional support,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0010337,C1261322,METHOD_OF,Care of intensive care unit patient,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0011929,C1261322,METHOD_OF,Diagnostic Services,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0013961,C0220825,METHOD_OF,Emergency medical service,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0017313,C0019993,METHOD_OF,patient care,Hospitalization,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0017313,C0030685,METHOD_OF,patient care,Patient Discharge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0018727,C3494318,METHOD_OF,Health Planning,Public Health Surveillance,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0018747,C0009449,METHOD_OF,Health Services,Communicable Disease Control,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0018747,C0220825,METHOD_OF,Health Services,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0018747,C0679878,METHOD_OF,Health Services,acute care,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0018747,C0805586,METHOD_OF,Health Services,Challenge,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0018747,C1516615,METHOD_OF,Health Services,Clinical Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0019948,C0220825,METHOD_OF,Hospital Administration,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0019948,C0220908,METHOD_OF,Hospital Administration,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0019948,C1113679,METHOD_OF,Hospital Administration,patient safety,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0019993,C0002423,METHOD_OF,Hospitalization,ambulatory care services,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0019993,C0220825,METHOD_OF,Hospitalization,Evaluation,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0020042,C0010210,METHOD_OF,Hotlines,Counseling,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0020042,C0013961,METHOD_OF,Hotlines,Emergency medical service,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0021626,C0150600,METHOD_OF,Institutional Practice,Advice,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0021682,C0009818,METHOD_OF,Health Insurance,Consultation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0021682,C0699943,METHOD_OF,Health Insurance,Public health service,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0021682,C2347682,METHOD_OF,Health Insurance,Private Health Insurance,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0024870,C0220908,METHOD_OF,Mass Screening,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0027452,C0020042,METHOD_OF,National Health Insurance,Hotlines,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0027452,C0587569,METHOD_OF,National Health Insurance,Physician service,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0027452,C3494403,METHOD_OF,National Health Insurance,Tertiary Healthcare,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0030685,C0150270,METHOD_OF,Patient Discharge,Medication Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0030695,C1261322,METHOD_OF,Patient Monitoring,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0030695,C1514918,METHOD_OF,Patient Monitoring,Retrieval,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0030704,C0184666,METHOD_OF,Patient Transfer,Hospital admission,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031321,C0600047,METHOD_OF,Pharmaceutical Services,Patient counseling,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031321,C1880359,METHOD_OF,Pharmaceutical Services,Dispense,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031809,C0030677,METHOD_OF,Physical Examination,Patient Care Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031809,C0220825,METHOD_OF,Physical Examination,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031809,C0220908,METHOD_OF,Physical Examination,Screening procedure,hlca,hlca,6,METHOD_OF_HLCAmthfHLCA
+C0031809,C0278329,METHOD_OF,Physical Examination,prescribed,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031809,C0679831,METHOD_OF,Physical Examination,Patient History,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0031809,C1261322,METHOD_OF,Physical Examination,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0033080,C0035649,METHOD_OF,Prescription procedure,Risk Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0033080,C0545084,METHOD_OF,Prescription procedure,Outpatient visits,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0033137,C1880359,METHOD_OF,Primary Health Care,Dispense,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0034117,C0015187,METHOD_OF,Puncture procedure,Euthanasia,hlca,hlca,5,METHOD_OF_HLCAmthfHLCA
+C0034117,C0220908,METHOD_OF,Puncture procedure,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0034927,C0220825,METHOD_OF,Patient referral,Evaluation,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0034927,C3655761,METHOD_OF,Patient referral,NHIS,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0035649,C0086930,METHOD_OF,Risk Management,Risk Assessment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0085557,C0558004,METHOD_OF,Infectious disease prevention / control,Environmental assessment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0086390,C0150355,METHOD_OF,Medical Care Team,Spiritual support,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0086930,C0035649,METHOD_OF,Risk Assessment,Risk Management,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0086930,C0850397,METHOD_OF,Risk Assessment,health information,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0086930,C1261322,METHOD_OF,Risk Assessment,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0086930,C1516879,METHOD_OF,Risk Assessment,Enrollment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0086930,C4279933,METHOD_OF,Risk Assessment,Vaccination Campaign,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0150270,C0030685,METHOD_OF,Medication Management,Patient Discharge,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0150600,C0034020,METHOD_OF,Advice,Public Health Administration,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0150600,C0086930,METHOD_OF,Advice,Risk Assessment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0150600,C0150270,METHOD_OF,Advice,Medication Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0001758,METHOD_OF,Telemedicine,Aftercare,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0008952,METHOD_OF,Telemedicine,Clinic Visits,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0162648,C0009818,METHOD_OF,Telemedicine,Consultation,hlca,hlca,13,METHOD_OF_HLCAmthfHLCA
+C0162648,C0017313,METHOD_OF,Telemedicine,patient care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0019993,METHOD_OF,Telemedicine,Hospitalization,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0020042,METHOD_OF,Telemedicine,Hotlines,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0031809,METHOD_OF,Telemedicine,Physical Examination,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0033137,METHOD_OF,Telemedicine,Primary Health Care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0150706,METHOD_OF,Telemedicine,Perioperative Care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0199182,METHOD_OF,Telemedicine,History taking,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0278329,METHOD_OF,Telemedicine,prescribed,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0545084,METHOD_OF,Telemedicine,Outpatient visits,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0582103,METHOD_OF,Telemedicine,Medical Examination,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0162648,C0589121,METHOD_OF,Telemedicine,Follow-up visit,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C0679830,METHOD_OF,Telemedicine,patient assessment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C1261322,METHOD_OF,Telemedicine,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0162648,C1512346,METHOD_OF,Telemedicine,Patient Visit,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0162648,C1522577,METHOD_OF,Telemedicine,follow-up,hlca,hlca,5,METHOD_OF_HLCAmthfHLCA
+C0184665,C1514821,METHOD_OF,Administrative procedure,Registration,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0184666,C0086930,METHOD_OF,Hospital admission,Risk Assessment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0184666,C0220825,METHOD_OF,Hospital admission,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0184666,C0553618,METHOD_OF,Hospital admission,emergency visit,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0189477,C0220825,METHOD_OF,Thoracentesis,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0199171,C0683509,METHOD_OF,Medical procedure,disease detection,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0204695,C0220825,METHOD_OF,Feeding patient,Evaluation,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0206204,C0040757,METHOD_OF,Medical Waste Disposal,Transportation of Patients,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C0175637,METHOD_OF,Evaluation,Health evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C0220908,METHOD_OF,Evaluation,Screening procedure,hlca,hlca,6,METHOD_OF_HLCAmthfHLCA
+C0220825,C0582103,METHOD_OF,Evaluation,Medical Examination,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C0588388,METHOD_OF,Evaluation,General observation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C0805586,METHOD_OF,Evaluation,Challenge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C0886414,METHOD_OF,Evaluation,Body temperature measurement,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C1261322,METHOD_OF,Evaluation,Evaluation procedure,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0220825,C3826004,METHOD_OF,Evaluation,Medical screening,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220825,C3889687,METHOD_OF,Evaluation,Clinical Observation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C0013164,METHOD_OF,Screening procedure,Drug Compounding,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C0034927,METHOD_OF,Screening procedure,Patient referral,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C0582103,METHOD_OF,Screening procedure,Medical Examination,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C0700325,METHOD_OF,Screening procedure,Patient observation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C0805586,METHOD_OF,Screening procedure,Challenge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C1261322,METHOD_OF,Screening procedure,Evaluation procedure,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0220908,C3508152,METHOD_OF,Screening procedure,Patient Engagement,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C3826004,METHOD_OF,Screening procedure,Medical screening,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0220908,C4036459,METHOD_OF,Screening procedure,Contacts,hlca,hlca,4,METHOD_OF_HLCAmthfHLCA
+C0237070,C0001758,METHOD_OF,discipline,Aftercare,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0237824,C0009818,METHOD_OF,Self-referral,Consultation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0262754,C0220908,METHOD_OF,drug management,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0278329,C0184666,METHOD_OF,prescribed,Hospital admission,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0009818,METHOD_OF,telephone call,Consultation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0019993,METHOD_OF,telephone call,Hospitalization,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0028900,METHOD_OF,telephone call,Office Visits,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0162648,METHOD_OF,telephone call,Telemedicine,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0199358,METHOD_OF,telephone call,Evaluation and management of patient at home,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0220825,METHOD_OF,telephone call,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0586082,METHOD_OF,telephone call,Emergency department patient visit,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C0600015,METHOD_OF,telephone call,Emotional support,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0302186,C1516879,METHOD_OF,telephone call,Enrollment,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0302186,C1522577,METHOD_OF,telephone call,follow-up,hlca,hlca,4,METHOD_OF_HLCAmthfHLCA
+C0302186,C4036459,METHOD_OF,telephone call,Contacts,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0422202,C0019993,METHOD_OF,Notifications,Hospitalization,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0422202,C0220825,METHOD_OF,Notifications,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0422202,C0220908,METHOD_OF,Notifications,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0422202,C1269815,METHOD_OF,Notifications,Patient identification,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0441587,C0008952,METHOD_OF,Clinical act of insertion,Clinic Visits,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0441587,C0030673,METHOD_OF,Clinical act of insertion,Patient Admission,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0441587,C0034117,METHOD_OF,Clinical act of insertion,Puncture procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0441587,C4036459,METHOD_OF,Clinical act of insertion,Contacts,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0444438,C1261322,METHOD_OF,Single-breath technique,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0541653,C0019993,METHOD_OF,Chart evaluation by healthcare professional,Hospitalization,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0541653,C0220825,METHOD_OF,Chart evaluation by healthcare professional,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0541653,C1261322,METHOD_OF,Chart evaluation by healthcare professional,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0541653,C1740506,METHOD_OF,Chart evaluation by healthcare professional,Inpatient Consultations,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0554896,C0582103,METHOD_OF,rates reimbursement,Medical Examination,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0582103,C0220908,METHOD_OF,Medical Examination,Screening procedure,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0582103,C1261322,METHOD_OF,Medical Examination,Evaluation procedure,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0587668,C0086390,METHOD_OF,Surgical service,Medical Care Team,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0588446,C1261322,METHOD_OF,Informing patient,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0589121,C0220825,METHOD_OF,Follow-up visit,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0589121,C1512346,METHOD_OF,Follow-up visit,Patient Visit,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0679831,C0009818,METHOD_OF,Patient History,Consultation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0679886,C1514821,METHOD_OF,health services by provider,Registration,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0679897,C4520476,METHOD_OF,health care program,Telehealth service,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0679909,C0017313,METHOD_OF,health care planning,patient care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0683518,C4036459,METHOD_OF,patient interview,Contacts,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0700325,C0582103,METHOD_OF,Patient observation,Medical Examination,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0752189,C0805586,METHOD_OF,"Technology, Health Care",Challenge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0752189,C1261322,METHOD_OF,"Technology, Health Care",Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0011211,METHOD_OF,Challenge,Delivery of Health Care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0015034,METHOD_OF,Challenge,Ethnomedicine,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0017313,METHOD_OF,Challenge,patient care,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0805586,C0018738,METHOD_OF,Challenge,Health Promotion,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0018747,METHOD_OF,Challenge,Health Services,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0035649,METHOD_OF,Challenge,Risk Management,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0085557,METHOD_OF,Challenge,Infectious disease prevention / control,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0805586,C0086930,METHOD_OF,Challenge,Risk Assessment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0220825,METHOD_OF,Challenge,Evaluation,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0805586,C0220908,METHOD_OF,Challenge,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0679886,METHOD_OF,Challenge,health services by provider,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C0850397,METHOD_OF,Challenge,health information,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C1261322,METHOD_OF,Challenge,Evaluation procedure,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0805586,C1515187,METHOD_OF,Challenge,Take,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C1555459,METHOD_OF,Challenge,Oncology Service,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C0805586,C3494318,METHOD_OF,Challenge,Public Health Surveillance,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0805586,C3658216,METHOD_OF,Challenge,Clinical Laboratory Services,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0806914,C0030685,METHOD_OF,Medication administered,Patient Discharge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0850397,C1261322,METHOD_OF,health information,Evaluation procedure,hlca,hlca,3,METHOD_OF_HLCAmthfHLCA
+C0871311,C0220825,METHOD_OF,screening tests,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0871311,C1269815,METHOD_OF,screening tests,Patient identification,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0886414,C0220908,METHOD_OF,Body temperature measurement,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C0948564,C4036459,METHOD_OF,Medical observation,Contacts,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1113679,C0019948,METHOD_OF,patient safety,Hospital Administration,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1144866,C0017313,METHOD_OF,Multi-disciplinary team,patient care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1144866,C0033137,METHOD_OF,Multi-disciplinary team,Primary Health Care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1144866,C0805586,METHOD_OF,Multi-disciplinary team,Challenge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1261322,C0034927,METHOD_OF,Evaluation procedure,Patient referral,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1261322,C0085557,METHOD_OF,Evaluation procedure,Infectious disease prevention / control,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C1261322,C0220825,METHOD_OF,Evaluation procedure,Evaluation,hlca,hlca,6,METHOD_OF_HLCAmthfHLCA
+C1261322,C0422202,METHOD_OF,Evaluation procedure,Notifications,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1261322,C0700325,METHOD_OF,Evaluation procedure,Patient observation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1261322,C1512335,METHOD_OF,Evaluation procedure,Harvest Procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1261322,C1532670,METHOD_OF,Evaluation procedure,Obtaining consent,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1285223,C0018727,METHOD_OF,Death notification,Health Planning,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1288295,C0017313,METHOD_OF,Preparation - action,patient care,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1514821,C0008952,METHOD_OF,Registration,Clinic Visits,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1516879,C0162648,METHOD_OF,Enrollment,Telemedicine,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1517942,C0019993,METHOD_OF,Long-term Follow-up,Hospitalization,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C1522577,C1516879,METHOD_OF,follow-up,Enrollment,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1522577,C4036459,METHOD_OF,follow-up,Contacts,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1553687,C0805586,METHOD_OF,public healthcare,Challenge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1704289,C0278329,METHOD_OF,Clinical Services,prescribed,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C1706385,C1261322,METHOD_OF,Device Evaluation Method,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1883350,C0030685,METHOD_OF,Titrate,Patient Discharge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C1999110,C0220825,METHOD_OF,Collecting Sample,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C2230206,C0220825,METHOD_OF,visual Assessment Procedures,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C2718026,C2350596,METHOD_OF,Capacity Building,Biosurveillance,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C2718026,C3494318,METHOD_OF,Capacity Building,Public Health Surveillance,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C2718035,C0220825,METHOD_OF,Rapid response team,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C2735310,C0220908,METHOD_OF,Care management,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C2963216,C0024870,METHOD_OF,Vital signs measurements,Mass Screening,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C2963216,C0220908,METHOD_OF,Vital signs measurements,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3179039,C0033080,METHOD_OF,"Pharmaceutical Services, Online",Prescription procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3494318,C0030685,METHOD_OF,Public Health Surveillance,Patient Discharge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3658216,C0010210,METHOD_OF,Clinical Laboratory Services,Counseling,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3658216,C0220908,METHOD_OF,Clinical Laboratory Services,Screening procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3693388,C1522577,METHOD_OF,Telehealth consultation,follow-up,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3826004,C1261322,METHOD_OF,Medical screening,Evaluation procedure,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3828271,C0814459,METHOD_OF,Saline Flush,brief intervention,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C3889687,C0220825,METHOD_OF,Clinical Observation,Evaluation,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C4036459,C0030685,METHOD_OF,Contacts,Patient Discharge,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA
+C4036459,C0733511,METHOD_OF,Contacts,Medical Surveillance,hlca,hlca,2,METHOD_OF_HLCAmthfHLCA
+C4082936,C4505227,METHOD_OF,Hemodynamic Monitoring,Early Goal-Directed Therapy,hlca,hlca,1,METHOD_OF_HLCAmthfHLCA

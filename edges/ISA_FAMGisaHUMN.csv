@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011011,C0043210,ISA,Daughter,Woman,famg,humn,3,ISA_FAMGisaHUMN
+C0020052,C0687744,ISA,Households,Social group,famg,humn,1,ISA_FAMGisaHUMN
+C0026591,C0043210,ISA,Mother (person),Woman,famg,humn,1,ISA_FAMGisaHUMN
+C0030551,C1273520,ISA,parent,Immediate family member,famg,humn,1,ISA_FAMGisaHUMN
+C0041427,C0043210,ISA,Twin sibling (person),Woman,famg,humn,2,ISA_FAMGisaHUMN
+C0041432,C0043210,ISA,Monozygotic twins,Woman,famg,humn,3,ISA_FAMGisaHUMN
+C0086279,C0085537,ISA,Family Caregivers,Caregiver,famg,humn,1,ISA_FAMGisaHUMN
+C0242664,C3887537,ISA,husband,Partner,famg,humn,1,ISA_FAMGisaHUMN
+C0242665,C0043210,ISA,wife,Woman,famg,humn,3,ISA_FAMGisaHUMN
+C0337514,C0043210,ISA,Sister,Woman,famg,humn,1,ISA_FAMGisaHUMN
+C0682323,C3887537,ISA,Partner in relationship,Partner,famg,humn,3,ISA_FAMGisaHUMN

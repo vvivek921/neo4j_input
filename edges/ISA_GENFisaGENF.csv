@@ -1,0 +1,65 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C0017262,ISA,Alternative Splicing,Gene Expression,genf,genf,2,ISA_GENFisaGENF
+C0002345,C1514248,ISA,Alternative Splicing,Post-Transcriptional Regulation,genf,genf,1,ISA_GENFisaGENF
+C0010366,C0026882,ISA,"Crossing Over, Genetic",Mutation,genf,genf,3,ISA_GENFisaGENF
+C0010366,C0034865,ISA,"Crossing Over, Genetic","Recombination, Genetic",genf,genf,3,ISA_GENFisaGENF
+C0010366,C0599773,ISA,"Crossing Over, Genetic",Homologous Recombination,genf,genf,1,ISA_GENFisaGENF
+C0012899,C0683142,ISA,DNA Repair,DNA metabolic process,genf,genf,1,ISA_GENFisaGENF
+C0017255,C1158770,ISA,Gene Activation,Transcriptional Regulation,genf,genf,1,ISA_GENFisaGENF
+C0017259,C0034865,ISA,Gene Conversion,"Recombination, Genetic",genf,genf,2,ISA_GENFisaGENF
+C0017260,C0026882,ISA,Gene Deletion,Mutation,genf,genf,1,ISA_GENFisaGENF
+C0017261,C1511695,ISA,Gene Duplication,DNA Sequence Rearrangement,genf,genf,1,ISA_GENFisaGENF
+C0017262,C0017263,ISA,Gene Expression,Gene Expression Regulation,genf,genf,2,ISA_GENFisaGENF
+C0034865,C0026882,ISA,"Recombination, Genetic",Mutation,genf,genf,31,ISA_GENFisaGENF
+C0034865,C1511695,ISA,"Recombination, Genetic",DNA Sequence Rearrangement,genf,genf,1,ISA_GENFisaGENF
+C0035380,C0026882,ISA,Reverse Transcription,Mutation,genf,genf,1,ISA_GENFisaGENF
+C0035380,C0598312,ISA,Reverse Transcription,DNA Replication,genf,genf,2,ISA_GENFisaGENF
+C0035380,C1328949,ISA,Reverse Transcription,RNA replication,genf,genf,3,ISA_GENFisaGENF
+C0035380,C1514849,ISA,Reverse Transcription,Replication-Associated Process,genf,genf,1,ISA_GENFisaGENF
+C0035687,C1514248,ISA,RNA Splicing,Post-Transcriptional Regulation,genf,genf,1,ISA_GENFisaGENF
+C0037703,C0012899,ISA,SOS Response (Genetics),DNA Repair,genf,genf,1,ISA_GENFisaGENF
+C0040649,C0017262,ISA,"Transcription, Genetic",Gene Expression,genf,genf,7,ISA_GENFisaGENF
+C0040649,C0017263,ISA,"Transcription, Genetic",Gene Expression Regulation,genf,genf,2,ISA_GENFisaGENF
+C0079868,C0026882,ISA,"Mutagenesis, Insertional",Mutation,genf,genf,1,ISA_GENFisaGENF
+C0162493,C1158770,ISA,Transcriptional Activation,Transcriptional Regulation,genf,genf,1,ISA_GENFisaGENF
+C0282572,C0017262,ISA,"Frameshifting, Ribosomal",Gene Expression,genf,genf,2,ISA_GENFisaGENF
+C0525038,C0026882,ISA,Amino Acid Substitution,Mutation,genf,genf,3,ISA_GENFisaGENF
+C0596611,C0026882,ISA,Gene Mutation,Mutation,genf,genf,1,ISA_GENFisaGENF
+C0597360,C0017263,ISA,receptor expression,Gene Expression Regulation,genf,genf,1,ISA_GENFisaGENF
+C0597600,C0040649,ISA,Transcription Termination,"Transcription, Genetic",genf,genf,1,ISA_GENFisaGENF
+C0598312,C0026882,ISA,DNA Replication,Mutation,genf,genf,2,ISA_GENFisaGENF
+C0599155,C0026882,ISA,Missense Mutation,Mutation,genf,genf,5,ISA_GENFisaGENF
+C0599773,C0034865,ISA,Homologous Recombination,"Recombination, Genetic",genf,genf,3,ISA_GENFisaGENF
+C0678939,C0026882,ISA,spontaneous mutation,Mutation,genf,genf,2,ISA_GENFisaGENF
+C0887912,C0034865,ISA,"Gene Transfer, Horizontal","Recombination, Genetic",genf,genf,3,ISA_GENFisaGENF
+C1136031,C0017262,ISA,RNA Interference,Gene Expression,genf,genf,11,ISA_GENFisaGENF
+C1136031,C0017263,ISA,RNA Interference,Gene Expression Regulation,genf,genf,4,ISA_GENFisaGENF
+C1136031,C0598496,ISA,RNA Interference,Gene Silencing,genf,genf,32,ISA_GENFisaGENF
+C1136031,C1514248,ISA,RNA Interference,Post-Transcriptional Regulation,genf,genf,2,ISA_GENFisaGENF
+C1148673,C1148672,ISA,dna binding,Nucleic Acid Binding,genf,genf,1,ISA_GENFisaGENF
+C1148673,C1148759,ISA,dna binding,transcription factor activity,genf,genf,5,ISA_GENFisaGENF
+C1148714,C1148698,ISA,single-stranded DNA endodeoxyribonuclease activity,deoxyribonuclease activity,genf,genf,1,ISA_GENFisaGENF
+C1152412,C1328949,ISA,RNA-directed RNA polymerase activity,RNA replication,genf,genf,4,ISA_GENFisaGENF
+C1155661,C0012899,ISA,Mismatch Repair,DNA Repair,genf,genf,2,ISA_GENFisaGENF
+C1158013,C1257756,ISA,Nonsense Mediated mRNA Decay,RNA Degradation,genf,genf,1,ISA_GENFisaGENF
+C1158530,C0012899,ISA,Base Excision Repair,DNA Repair,genf,genf,2,ISA_GENFisaGENF
+C1158728,C0017263,ISA,RNA Processing,Gene Expression Regulation,genf,genf,2,ISA_GENFisaGENF
+C1158745,C1158744,ISA,pseudouridine synthesis,RNA modification,genf,genf,1,ISA_GENFisaGENF
+C1158747,C1158744,ISA,adenosine to inosine editing,RNA modification,genf,genf,1,ISA_GENFisaGENF
+C1158758,C1158762,ISA,tRNA modification,tRNA processing,genf,genf,1,ISA_GENFisaGENF
+C1257738,C0026882,ISA,"Recombination, Interspecies",Mutation,genf,genf,2,ISA_GENFisaGENF
+C1257738,C0887912,ISA,"Recombination, Interspecies","Gene Transfer, Horizontal",genf,genf,1,ISA_GENFisaGENF
+C1257794,C1158486,ISA,Chromatin Disassembly,DNA Packaging,genf,genf,1,ISA_GENFisaGENF
+C1512554,C0598496,ISA,Hypermethylation,Gene Silencing,genf,genf,1,ISA_GENFisaGENF
+C1516924,C0017263,ISA,Epigenetic Process,Gene Expression Regulation,genf,genf,1,ISA_GENFisaGENF
+C1518406,C0012899,ISA,Non-Homologous DNA End-Joining,DNA Repair,genf,genf,3,ISA_GENFisaGENF
+C1519323,C0026882,ISA,Silent Mutation,Mutation,genf,genf,3,ISA_GENFisaGENF
+C1519613,C0017262,ISA,Translation Initiation,Gene Expression,genf,genf,1,ISA_GENFisaGENF
+C1519877,C0017287,ISA,V(D)J Recombination,Gene Rearrangement,genf,genf,1,ISA_GENFisaGENF
+C2257074,C0040649,ISA,RNA polymerase I activity,"Transcription, Genetic",genf,genf,1,ISA_GENFisaGENF
+C2257075,C0040649,ISA,RNA polymerase II activity,"Transcription, Genetic",genf,genf,1,ISA_GENFisaGENF
+C2610186,C0017262,ISA,"nuclear mRNA cis splicing, via spliceosome",Gene Expression,genf,genf,2,ISA_GENFisaGENF
+C2610186,C0035687,ISA,"nuclear mRNA cis splicing, via spliceosome",RNA Splicing,genf,genf,1,ISA_GENFisaGENF
+C3159025,C0034865,ISA,reciprocal DNA recombination,"Recombination, Genetic",genf,genf,1,ISA_GENFisaGENF
+C3494207,C0017262,ISA,"Transcription Initiation, Genetic",Gene Expression,genf,genf,1,ISA_GENFisaGENF
+C3494209,C0017262,ISA,"Transcription Termination, Genetic",Gene Expression,genf,genf,1,ISA_GENFisaGENF

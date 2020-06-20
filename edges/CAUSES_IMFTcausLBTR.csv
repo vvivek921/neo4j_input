@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0428536,CAUSES,Immunologic Adjuvants,Immunoglobulin level - finding,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0003316,C0015563,CAUSES,Epitopes,False Positive Reactions,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0003320,C0205557,CAUSES,Antigens,False Positive,imft,lbtr,3,CAUSES_IMFTcausLBTR
+C0003320,C0205558,CAUSES,Antigens,False Negative,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0003320,C0428536,CAUSES,Antigens,Immunoglobulin level - finding,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0003320,C1516006,CAUSES,Antigens,Antibody Repertoire,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0003333,C0205557,CAUSES,"Antigens, Heterophile",False Positive,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0018909,C0205557,CAUSES,Hemagglutinin,False Positive,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0021081,C0428396,CAUSES,Immunosuppressive Agents,Cortisol level,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0022144,C0015563,CAUSES,Isoantibodies,False Positive Reactions,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0031237,C1516006,CAUSES,Pertussis Vaccine,Antibody Repertoire,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C0042210,C0019699,CAUSES,Vaccines,HIV Seropositivity,imft,lbtr,2,CAUSES_IMFTcausLBTR
+C0042210,C0428536,CAUSES,Vaccines,Immunoglobulin level - finding,imft,lbtr,7,CAUSES_IMFTcausLBTR
+C0042210,C1516006,CAUSES,Vaccines,Antibody Repertoire,imft,lbtr,5,CAUSES_IMFTcausLBTR
+C0042211,C0205557,CAUSES,"Vaccines, Attenuated",False Positive,imft,lbtr,2,CAUSES_IMFTcausLBTR
+C0042212,C0428536,CAUSES,"Vaccines, Inactivated",Immunoglobulin level - finding,imft,lbtr,4,CAUSES_IMFTcausLBTR
+C0369952,C0015563,CAUSES,Rotavirus antigen,False Positive Reactions,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C1291777,C0428536,CAUSES,Protein antigen,Immunoglobulin level - finding,imft,lbtr,2,CAUSES_IMFTcausLBTR
+C1548477,C0428536,CAUSES,Dengue fever vaccine,Immunoglobulin level - finding,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C3272757,C0205557,CAUSES,Live Attenuated Influenza Vaccine,False Positive,imft,lbtr,1,CAUSES_IMFTcausLBTR
+C3698577,C0015563,CAUSES,Feline immunodeficiency vaccine,False Positive Reactions,imft,lbtr,1,CAUSES_IMFTcausLBTR

@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011946,C0006353,USES,Dialysis procedure,Buffers,topp,irda,4,USES_TOPPusesIRDA
+C0011946,C0019215,USES,Dialysis procedure,HEPES,topp,irda,1,USES_TOPPusesIRDA
+C0011946,C3826632,USES,Dialysis procedure,Buffer solutions,topp,irda,1,USES_TOPPusesIRDA
+C0020944,C0001771,USES,Immobilization,Agar,topp,irda,1,USES_TOPPusesIRDA
+C0020944,C0006353,USES,Immobilization,Buffers,topp,irda,2,USES_TOPPusesIRDA
+C0020944,C0025746,USES,Immobilization,Methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C0020971,C0038071,USES,Immunization,Squalene,topp,irda,1,USES_TOPPusesIRDA
+C0021485,C0006353,USES,Injection of therapeutic agent,Buffers,topp,irda,2,USES_TOPPusesIRDA
+C0025991,C0006353,USES,Microinjections,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0030693,C0006353,USES,Patient Isolation,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0034997,C0006353,USES,Rehydration,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0035139,C0006353,USES,Surgical Replantation,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0035151,C0001771,USES,Reproductive Techniques,Agar,topp,irda,1,USES_TOPPusesIRDA
+C0038288,C0006353,USES,Sexual sterilization,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0042196,C0006353,USES,Vaccination,Buffers,topp,irda,6,USES_TOPPusesIRDA
+C0042196,C0019215,USES,Vaccination,HEPES,topp,irda,1,USES_TOPPusesIRDA
+C0108844,C0006353,USES,CDE protocol-cyclophosphamide/doxorubicin/etoposide,Buffers,topp,irda,22,USES_TOPPusesIRDA
+C0152060,C0006353,USES,Transection (procedure),Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0152060,C0040380,USES,Transection (procedure),Tolonium chloride,topp,irda,4,USES_TOPPusesIRDA
+C0185115,C0000983,USES,Extraction,Acetic Acid,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0001771,USES,Extraction,Agar,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0006353,USES,Extraction,Buffers,topp,irda,14,USES_TOPPusesIRDA
+C0185115,C0030123,USES,Extraction,4-Aminohippuric Acid,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0282359,USES,Extraction,Bromsulphalein,topp,irda,1,USES_TOPPusesIRDA
+C0199176,C0025746,USES,Prophylactic treatment,Methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0001771,USES,Isolation procedure,Agar,topp,irda,7,USES_TOPPusesIRDA
+C0204727,C0006353,USES,Isolation procedure,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0007974,USES,Isolation procedure,Chelating Agents,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0025746,USES,Isolation procedure,Methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0031430,USES,Isolation procedure,Phenolsulfonphthalein,topp,irda,1,USES_TOPPusesIRDA
+C0204774,C0006353,USES,Soaking Procedure,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0242297,C0010467,USES,Dietary Supplementation,Curcumin,topp,irda,1,USES_TOPPusesIRDA
+C0407295,C0001771,USES,Fixation of fracture using plate,Agar,topp,irda,4,USES_TOPPusesIRDA
+C0524865,C0282359,USES,Reconstructive Surgical Procedures,Bromsulphalein,topp,irda,1,USES_TOPPusesIRDA
+C0850173,C0010467,USES,skin Healing,Curcumin,topp,irda,1,USES_TOPPusesIRDA
+C0920425,C0010467,USES,cancer therapy,Curcumin,topp,irda,1,USES_TOPPusesIRDA
+C1293130,C0021936,USES,Stabilization,Inulin,topp,irda,1,USES_TOPPusesIRDA
+C1293130,C0030123,USES,Stabilization,4-Aminohippuric Acid,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0001771,USES,Detection,Agar,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0006353,USES,Detection,Buffers,topp,irda,8,USES_TOPPusesIRDA
+C1511790,C0017440,USES,Detection,Gentian Violet,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0025746,USES,Detection,Methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0028752,USES,Detection,o-Phthalaldehyde,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0049832,USES,Detection,7-aminoactinomycin D,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0182638,USES,Detection,Radiopharmaceuticals,topp,irda,4,USES_TOPPusesIRDA
+C1511790,C0598447,USES,Detection,fluorophore,topp,irda,12,USES_TOPPusesIRDA
+C1563149,C0006353,USES,Balanced ligamentous tension technique (procedure),Buffers,topp,irda,1,USES_TOPPusesIRDA
+C2985557,C0021936,USES,Gamma Irradiation,Inulin,topp,irda,1,USES_TOPPusesIRDA
+C2985566,C0030123,USES,Targeted Therapy,4-Aminohippuric Acid,topp,irda,2,USES_TOPPusesIRDA

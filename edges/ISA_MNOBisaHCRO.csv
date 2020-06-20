@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0016858,C0018704,ISA,Furniture,Health care facility,mnob,hcro,1,ISA_MNOBisaHCRO
+C0028659,C0019994,ISA,Nurseries,Hospitals,mnob,hcro,1,ISA_MNOBisaHCRO
+C0028659,C1305702,ISA,Nurseries,Ward (environment),mnob,hcro,1,ISA_MNOBisaHCRO
+C0030707,C0019994,ISA,Patients' Rooms,Hospitals,mnob,hcro,2,ISA_MNOBisaHCRO
+C0338046,C0018704,ISA,Residential home,Health care facility,mnob,hcro,1,ISA_MNOBisaHCRO

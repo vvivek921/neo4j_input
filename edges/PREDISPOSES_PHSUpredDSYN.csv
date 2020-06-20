@@ -1,0 +1,83 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001648,C0085612,PREDISPOSES,Adrenergic Agonists,Ventricular arrhythmia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0001648,C0262663,PREDISPOSES,Adrenergic Agonists,VENTRICULAR IRRITABILITY,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0002932,C0024591,PREDISPOSES,Anesthetics,Malignant hyperpyrexia due to anesthesia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003015,C0032285,PREDISPOSES,Angiotensin-Converting Enzyme Inhibitors,Pneumonia,phsu,dsyn,3,PREDISPOSES_PHSUpredDSYN
+C0003138,C0032285,PREDISPOSES,Antacids,Pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003204,C0340194,PREDISPOSES,Anti-Infective Agents,Respiratory failure without hypercapnia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003209,C0442886,PREDISPOSES,Anti-Inflammatory Agents,Secondary Infections,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0004623,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Bacterial Infections,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0017152,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Gastritis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0019100,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Severe Dengue,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0022660,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal","Kidney Failure, Acute",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0024050,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Lower gastrointestinal hemorrhage,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0027051,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Myocardial Infarction,phsu,dsyn,2,PREDISPOSES_PHSUpredDSYN
+C0003211,C0035400,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Reye Syndrome,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0035455,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Rhinitis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003211,C0038454,PREDISPOSES,"Anti-Inflammatory Agents, Non-Steroidal",Cerebrovascular accident,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003308,C0276680,PREDISPOSES,Antifungal Agents,Infection by Candida albicans,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003364,C0007222,PREDISPOSES,Antihypertensive Agents,Cardiovascular Diseases,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003364,C0020538,PREDISPOSES,Antihypertensive Agents,Hypertensive disease,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003364,C1301700,PREDISPOSES,Antihypertensive Agents,Cardiovascular morbidity,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003402,C0024117,PREDISPOSES,Antioxidants,Chronic Obstructive Airway Disease,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003451,C0004623,PREDISPOSES,Antiviral Agents,Bacterial Infections,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003451,C0021051,PREDISPOSES,Antiviral Agents,Immunologic Deficiency Syndromes,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003451,C0043528,PREDISPOSES,Antiviral Agents,Zoonoses,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003451,C1290325,PREDISPOSES,Antiviral Agents,Disorder of lower respiratory system,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0003451,C1290884,PREDISPOSES,Antiviral Agents,Inflammatory disorder,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0009871,C0600327,PREDISPOSES,Contraceptive Agents,Toxic Shock Syndrome,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0019593,C0553576,PREDISPOSES,Histamine H2 Antagonists,Systemic mycosis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0020592,C0032285,PREDISPOSES,Hypnotics and Sedatives,Pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0020592,C1701940,PREDISPOSES,Hypnotics and Sedatives,"Pneumonia, Ventilator-Associated",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0033607,C0010054,PREDISPOSES,Protease Inhibitors,Coronary Arteriosclerosis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0033607,C0031117,PREDISPOSES,Protease Inhibitors,Peripheral Neuropathy,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0041044,C1535939,PREDISPOSES,Trimethoprim-Sulfamethoxazole Combination,Pneumocystis jiroveci pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0042397,C0035222,PREDISPOSES,Vasoconstrictor Agents,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0282055,C0025162,PREDISPOSES,Antiperistaltic Agents,"Megacolon, Toxic",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0282374,C0011175,PREDISPOSES,Decongestants,Dehydration,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0302837,C0004096,PREDISPOSES,Vitamin supplementation,Asthma,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0302837,C0032285,PREDISPOSES,Vitamin supplementation,Pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0302837,C0442893,PREDISPOSES,Vitamin supplementation,Systemic disease,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0302837,C0947961,PREDISPOSES,Vitamin supplementation,Atopic condition,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0309989,C0009450,PREDISPOSES,quantum,Communicable Diseases,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0358591,C0009450,PREDISPOSES,Proton Pump Inhibitors,Communicable Diseases,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0358591,C0270814,PREDISPOSES,Proton Pump Inhibitors,Spastic syndrome,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0358591,C0949083,PREDISPOSES,Proton Pump Inhibitors,Hospital acquired pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0456388,C0019163,PREDISPOSES,Blood product,Hepatitis B,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0456388,C0035222,PREDISPOSES,Blood product,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0456388,C0151317,PREDISPOSES,Blood product,Chronic infectious disease,phsu,dsyn,2,PREDISPOSES_PHSUpredDSYN
+C0456388,C0948343,PREDISPOSES,Blood product,Transfusion-Related Acute Lung Injury,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0456388,C1279386,PREDISPOSES,Blood product,Postoperative pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0544357,C0376329,PREDISPOSES,human plasma,New Variant Creutzfeldt-Jakob Disease,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0597573,C0042769,PREDISPOSES,thiopurine,Virus Diseases,phsu,dsyn,2,PREDISPOSES_PHSUpredDSYN
+C0719214,C0004096,PREDISPOSES,century,Asthma,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0719214,C0009450,PREDISPOSES,century,Communicable Diseases,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0719214,C0021400,PREDISPOSES,century,Influenza,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0719214,C0032285,PREDISPOSES,century,Pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0719214,C0035436,PREDISPOSES,century,Rheumatic Fever,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C0772155,C0011175,PREDISPOSES,thermal water,Dehydration,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C1136254,C0035204,PREDISPOSES,Microbicides,Respiration Disorders,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C1136254,C0035436,PREDISPOSES,Microbicides,Rheumatic Fever,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C1136254,C0442886,PREDISPOSES,Microbicides,Secondary Infections,phsu,dsyn,2,PREDISPOSES_PHSUpredDSYN
+C1443650,C0032285,PREDISPOSES,Neuraminidase inhibitor,Pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C1718097,C0037199,PREDISPOSES,New medications,Sinusitis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C1874451,C0021400,PREDISPOSES,Basis,Influenza,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C1874451,C0155877,PREDISPOSES,Basis,Allergic asthma,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C2987634,C0003850,PREDISPOSES,Agonist,Arteriosclerosis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3241999,C0017168,PREDISPOSES,limited use,Gastroesophageal reflux disease,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0004096,PREDISPOSES,other medicated shampoos in ATC,Asthma,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0004623,PREDISPOSES,other medicated shampoos in ATC,Bacterial Infections,phsu,dsyn,2,PREDISPOSES_PHSUpredDSYN
+C3539125,C0006271,PREDISPOSES,other medicated shampoos in ATC,Bronchiolitis,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0007222,PREDISPOSES,other medicated shampoos in ATC,Cardiovascular Diseases,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0011847,PREDISPOSES,other medicated shampoos in ATC,Diabetes,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0035222,PREDISPOSES,other medicated shampoos in ATC,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0035235,PREDISPOSES,other medicated shampoos in ATC,Respiratory Syncytial Virus Infections,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0042769,PREDISPOSES,other medicated shampoos in ATC,Virus Diseases,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0043528,PREDISPOSES,other medicated shampoos in ATC,Zoonoses,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3539125,C0149725,PREDISPOSES,other medicated shampoos in ATC,Lower respiratory tract infection,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3541969,C0021400,PREDISPOSES,"Neuraminidase inhibitors, direct acting antivirals",Influenza,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3541969,C0032300,PREDISPOSES,"Neuraminidase inhibitors, direct acting antivirals",Lobar Pneumonia,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3543842,C0017168,PREDISPOSES,TONICS,Gastroesophageal reflux disease,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3543842,C0042580,PREDISPOSES,TONICS,Vesico-Ureteral Reflux,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3543842,C0520679,PREDISPOSES,TONICS,"Sleep Apnea, Obstructive",phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN
+C3827296,C0011334,PREDISPOSES,Carbohydrate Supplement Drink,Dental caries,phsu,dsyn,1,PREDISPOSES_PHSUpredDSYN

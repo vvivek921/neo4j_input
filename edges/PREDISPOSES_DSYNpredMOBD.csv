@@ -1,0 +1,56 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004096,C1263846,PREDISPOSES,Asthma,Attention deficit hyperactivity disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0004364,C0036341,PREDISPOSES,Autoimmune Diseases,Schizophrenia,dsyn,mobd,4,PREDISPOSES_DSYNpredMOBD
+C0004364,C0525045,PREDISPOSES,Autoimmune Diseases,Mood Disorders,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0006111,C0011581,PREDISPOSES,Brain Diseases,Depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0007570,C0036341,PREDISPOSES,Celiac Disease,Schizophrenia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0007684,C1535926,PREDISPOSES,Central Nervous System Infection,Neurodevelopmental Disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0009326,C0497327,PREDISPOSES,Collagen Diseases,Dementia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0009450,C0004936,PREDISPOSES,Communicable Diseases,Mental disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0009952,C0233514,PREDISPOSES,Febrile Convulsions,Abnormal behavior,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0011847,C0011581,PREDISPOSES,Diabetes,Depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0011847,C0497327,PREDISPOSES,Diabetes,Dementia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0018799,C0497327,PREDISPOSES,Heart Diseases,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0019158,C0525045,PREDISPOSES,Hepatitis,Mood Disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0019159,C0036341,PREDISPOSES,Hepatitis A,Schizophrenia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0020538,C0338656,PREDISPOSES,Hypertensive disease,Impaired cognition,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0020538,C0497327,PREDISPOSES,Hypertensive disease,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0021400,C0005586,PREDISPOSES,Influenza,Bipolar Disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0021400,C0036341,PREDISPOSES,Influenza,Schizophrenia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0021400,C0038436,PREDISPOSES,Influenza,Post-Traumatic Stress Disorder,dsyn,mobd,3,PREDISPOSES_DSYNpredMOBD
+C0022658,C0497327,PREDISPOSES,Kidney Diseases,Dementia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0024115,C0497327,PREDISPOSES,Lung diseases,Dementia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0028734,C0338656,PREDISPOSES,Nocturia,Impaired cognition,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0032285,C0001973,PREDISPOSES,Pneumonia,"Alcoholic Intoxication, Chronic",dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0032371,C0036341,PREDISPOSES,Poliomyelitis,Schizophrenia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0032371,C0497327,PREDISPOSES,Poliomyelitis,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0035204,C0497327,PREDISPOSES,Respiration Disorders,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0035920,C0036341,PREDISPOSES,Rubella,Schizophrenia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0036690,C0525045,PREDISPOSES,Septicemia,Mood Disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0038454,C0011581,PREDISPOSES,Cerebrovascular accident,Depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0038454,C0497327,PREDISPOSES,Cerebrovascular accident,Dementia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0040128,C0004936,PREDISPOSES,Thyroid Diseases,Mental disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0040558,C0036341,PREDISPOSES,Toxoplasmosis,Schizophrenia,dsyn,mobd,2,PREDISPOSES_DSYNpredMOBD
+C0042769,C0033975,PREDISPOSES,Virus Diseases,Psychotic Disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0042769,C0036341,PREDISPOSES,Virus Diseases,Schizophrenia,dsyn,mobd,5,PREDISPOSES_DSYNpredMOBD
+C0162429,C0011581,PREDISPOSES,Malnutrition,Depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0206750,C0033975,PREDISPOSES,Coronavirus Infections,Psychotic Disorders,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0206750,C0815107,PREDISPOSES,Coronavirus Infections,psychological distress,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0235946,C0497327,PREDISPOSES,Cerebral atrophy,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0243010,C0497327,PREDISPOSES,Viral Encephalitis,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0263214,C0009676,PREDISPOSES,Pyotraumatic dermatitis,Confusion,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0343525,C0085762,PREDISPOSES,Lemierre Syndrome,Alcohol abuse,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0524910,C0349712,PREDISPOSES,"Hepatitis C, Chronic",Recurrent brief depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0585108,C0424605,PREDISPOSES,Recurrent febrile convulsion,Developmental delay (disorder),dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C0700323,C0011206,PREDISPOSES,Observation of Neuromuscular Block,Delirium,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C1175175,C0003467,PREDISPOSES,Severe Acute Respiratory Syndrome,Anxiety,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C1175175,C0011581,PREDISPOSES,Severe Acute Respiratory Syndrome,Depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C1175175,C0033975,PREDISPOSES,Severe Acute Respiratory Syndrome,Psychotic Disorders,dsyn,mobd,4,PREDISPOSES_DSYNpredMOBD
+C1175175,C0038436,PREDISPOSES,Severe Acute Respiratory Syndrome,Post-Traumatic Stress Disorder,dsyn,mobd,5,PREDISPOSES_DSYNpredMOBD
+C1175175,C0236816,PREDISPOSES,Severe Acute Respiratory Syndrome,"Stress Disorders, Traumatic, Acute",dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C1175175,C0815107,PREDISPOSES,Severe Acute Respiratory Syndrome,psychological distress,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C2242682,C0497327,PREDISPOSES,Recurrent Cerebral Ischemia,Dementia,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C3495426,C0011581,PREDISPOSES,Homocysteinemia,Depressive disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C3495426,C0234985,PREDISPOSES,Homocysteinemia,Mental deterioration,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD
+C3694279,C0011581,PREDISPOSES,Middle East Respiratory Syndrome,Depressive disorder,dsyn,mobd,3,PREDISPOSES_DSYNpredMOBD
+C3694279,C0038436,PREDISPOSES,Middle East Respiratory Syndrome,Post-Traumatic Stress Disorder,dsyn,mobd,1,PREDISPOSES_DSYNpredMOBD

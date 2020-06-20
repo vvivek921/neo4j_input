@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006811,C0035243,PREVENTS,Camping (activity),Respiratory Tract Infections,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0002395,PREVENTS,Exercise,Alzheimer's Disease,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0008679,PREVENTS,Exercise,Chronic disease,dora,dsyn,3,PREVENTS_DORAprevDSYN
+C0015259,C0011175,PREVENTS,Exercise,Dehydration,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0011847,PREVENTS,Exercise,Diabetes,dora,dsyn,4,PREVENTS_DORAprevDSYN
+C0015259,C0018799,PREVENTS,Exercise,Heart Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0021400,PREVENTS,Exercise,Influenza,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0028754,PREVENTS,Exercise,Obesity,dora,dsyn,2,PREVENTS_DORAprevDSYN
+C0015259,C0032285,PREVENTS,Exercise,Pneumonia,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0032290,PREVENTS,Exercise,Aspiration Pneumonia,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0032310,PREVENTS,Exercise,"Pneumonia, Viral",dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0033377,PREVENTS,Exercise,Ptosis,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0041912,PREVENTS,Exercise,Upper Respiratory Infections,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C0339901,PREVENTS,Exercise,Acute respiratory infections,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C1290884,PREVENTS,Exercise,Inflammatory disorder,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0015259,C3824825,PREVENTS,Exercise,SARS (Disease),dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0021189,C0008679,PREVENTS,Independent Living,Chronic disease,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0026606,C3687015,PREVENTS,Physical activity,Ulcerative dermatitis,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0032214,C0001314,PREVENTS,Play,Acute Disease,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0032214,C0004364,PREVENTS,Play,Autoimmune Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0035253,C0006114,PREVENTS,Rest,Cerebral Edema,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0035253,C0042769,PREVENTS,Rest,Virus Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0035253,C0205721,PREVENTS,Rest,"Infections, Hospital",dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0035253,C3687161,PREVENTS,Rest,Pododermatitis,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0035953,C0009450,PREVENTS,Running (physical activity),Communicable Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0035953,C0036916,PREVENTS,Running (physical activity),Sexually Transmitted Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0040802,C0009450,PREVENTS,travel,Communicable Diseases,dora,dsyn,2,PREVENTS_DORAprevDSYN
+C0040802,C0016627,PREVENTS,travel,Influenza in Birds,dora,dsyn,2,PREVENTS_DORAprevDSYN
+C0040802,C0021400,PREVENTS,travel,Influenza,dora,dsyn,5,PREVENTS_DORAprevDSYN
+C0040802,C0275524,PREVENTS,travel,Coinfection,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0040802,C1175175,PREVENTS,travel,Severe Acute Respiratory Syndrome,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0040802,C4505330,PREVENTS,travel,Travel-Related Illness,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0242298,C1175175,PREVENTS,Fostering,Severe Acute Respiratory Syndrome,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0336968,C1175175,PREVENTS,Sky-diving,Severe Acute Respiratory Syndrome,dora,dsyn,2,PREVENTS_DORAprevDSYN
+C0683585,C0032285,PREVENTS,free time,Pneumonia,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0700382,C0021400,PREVENTS,"Washing hands, function",Influenza,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0700382,C0032285,PREVENTS,"Washing hands, function",Pneumonia,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0700382,C1175175,PREVENTS,"Washing hands, function",Severe Acute Respiratory Syndrome,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0815170,C0011847,PREVENTS,regular physical activity,Diabetes,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0815170,C0018799,PREVENTS,regular physical activity,Heart Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C0868963,C0021831,PREVENTS,Gardening,Intestinal Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C1279744,C0205721,PREVENTS,Daily bathing,"Infections, Hospital",dora,dsyn,1,PREVENTS_DORAprevDSYN
+C1305428,C0011603,PREVENTS,Dressing- activity of daily living,Dermatitis,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C1456706,C0275518,PREVENTS,Fitness,Acute infectious disease,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C1456706,C3694279,PREVENTS,Fitness,Middle East Respiratory Syndrome,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C1513375,C0035243,PREVENTS,Moderate Exercise,Respiratory Tract Infections,dora,dsyn,2,PREVENTS_DORAprevDSYN
+C1513375,C0042769,PREVENTS,Moderate Exercise,Virus Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C1998602,C0038353,PREVENTS,Meal (occasion for eating),Gastric Dilatation,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C3489667,C0009450,PREVENTS,Air Travel,Communicable Diseases,dora,dsyn,1,PREVENTS_DORAprevDSYN
+C4267713,C3665365,PREVENTS,Vigorous physical activity,"Arteriosclerotic cardiovascular disease, NOS",dora,dsyn,1,PREVENTS_DORAprevDSYN

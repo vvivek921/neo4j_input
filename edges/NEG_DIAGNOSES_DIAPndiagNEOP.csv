@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0006826,NEG_DIAGNOSES,Autopsy,Malignant Neoplasms,diap,neop,1,NEG_DIAGNOSES_DIAPndiagNEOP
+C0005558,C0006826,NEG_DIAGNOSES,Biopsy,Malignant Neoplasms,diap,neop,2,NEG_DIAGNOSES_DIAPndiagNEOP
+C0005558,C0024299,NEG_DIAGNOSES,Biopsy,Lymphoma,diap,neop,1,NEG_DIAGNOSES_DIAPndiagNEOP
+C0025065,C0006826,NEG_DIAGNOSES,Mediastinoscopy,Malignant Neoplasms,diap,neop,1,NEG_DIAGNOSES_DIAPndiagNEOP
+C0041618,C0021670,NEG_DIAGNOSES,Ultrasonography,insulinoma,diap,neop,1,NEG_DIAGNOSES_DIAPndiagNEOP
+C1699633,C0023434,NEG_DIAGNOSES,PET/CT scan,Chronic Lymphocytic Leukemia,diap,neop,1,NEG_DIAGNOSES_DIAPndiagNEOP
+C1699633,C0278488,NEG_DIAGNOSES,PET/CT scan,Carcinoma breast stage IV,diap,neop,1,NEG_DIAGNOSES_DIAPndiagNEOP

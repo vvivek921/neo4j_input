@@ -1,0 +1,477 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000737,C0002871,CAUSES,Abdominal Pain,Anemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0000737,C0011175,CAUSES,Abdominal Pain,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0000737,C0014356,CAUSES,Abdominal Pain,Enterocolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0000737,C0020456,CAUSES,Abdominal Pain,Hyperglycemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0000737,C0020473,CAUSES,Abdominal Pain,Hyperlipidemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0003578,C0520680,CAUSES,Apnea,"Sleep Apnea, Central",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0003578,C0752304,CAUSES,Apnea,Hypoxic-Ischemic Encephalopathy,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0003578,C1145670,CAUSES,Apnea,Respiratory Failure,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0003862,C0008055,CAUSES,Arthralgia,Chikungunya Fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0003862,C0014038,CAUSES,Arthralgia,Encephalitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0003862,C0162296,CAUSES,Arthralgia,Polyarthralgia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0003862,C0206752,CAUSES,Arthralgia,Alphavirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0004059,C0347950,CAUSES,aspirin intolerance,Asthma attack,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0004134,C0002871,CAUSES,Ataxia,Anemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0004134,C0009421,CAUSES,Ataxia,Comatose,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0004134,C0151740,CAUSES,Ataxia,Intracranial Hypertension,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0004134,C0155320,CAUSES,Ataxia,"Blindness, Cortical",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0004134,C0401151,CAUSES,Ataxia,Chronic diarrhea,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0006625,C0009450,CAUSES,Cachexia,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0006625,C0020625,CAUSES,Cachexia,Hyponatremia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0006625,C0043046,CAUSES,Cachexia,Wasting Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0006625,C0853892,CAUSES,Cachexia,catabolic state,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0007859,C0025309,CAUSES,Neck Pain,Meningoencephalitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0008031,C0027059,CAUSES,Chest Pain,Myocarditis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0008031,C0034065,CAUSES,Chest Pain,Pulmonary Embolism,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0008033,C0235527,CAUSES,Pleuritic pain,"Heart Failure, Right-Sided",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0009806,C0017160,CAUSES,Constipation,Gastroenteritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0002871,CAUSES,Coughing,Anemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0006271,CAUSES,Coughing,Bronchiolitis,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0010200,C0006277,CAUSES,Coughing,Bronchitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0009450,CAUSES,Coughing,Communicable Diseases,sosy,dsyn,6,CAUSES_SOSYcausDSYN
+C0010200,C0010246,CAUSES,Coughing,Coxsackievirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0010674,CAUSES,Coughing,Cystic Fibrosis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0021400,CAUSES,Coughing,Influenza,sosy,dsyn,6,CAUSES_SOSYcausDSYN
+C0010200,C0025062,CAUSES,Coughing,Mediastinal Emphysema,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0032285,CAUSES,Coughing,Pneumonia,sosy,dsyn,7,CAUSES_SOSYcausDSYN
+C0010200,C0035204,CAUSES,Coughing,Respiration Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0035222,CAUSES,Coughing,"Respiratory Distress Syndrome, Adult",sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0010200,C0035235,CAUSES,Coughing,Respiratory Syncytial Virus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0035455,CAUSES,Coughing,Rhinitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0040584,CAUSES,Coughing,Tracheitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0042769,CAUSES,Coughing,Virus Diseases,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0010200,C0206061,CAUSES,Coughing,"Pneumonia, Interstitial",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0694549,CAUSES,Coughing,Community acquired pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C0747690,CAUSES,Coughing,Postobstructive pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C1096155,CAUSES,Coughing,Macrophage Activation Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C1145670,CAUSES,Coughing,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C1175175,CAUSES,Coughing,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0010200,C1707758,CAUSES,Coughing,Direct Contact Transmission Infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0004623,CAUSES,Diarrhea,Bacterial Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0008354,CAUSES,Diarrhea,Cholera,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0009450,CAUSES,Diarrhea,Communicable Diseases,sosy,dsyn,11,CAUSES_SOSYcausDSYN
+C0011991,C0011175,CAUSES,Diarrhea,Dehydration,sosy,dsyn,36,CAUSES_SOSYcausDSYN
+C0011991,C0012242,CAUSES,Diarrhea,Digestive System Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0013369,CAUSES,Diarrhea,Dysentery,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0014335,CAUSES,Diarrhea,Enteritis,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0014356,CAUSES,Diarrhea,Enterocolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0015544,CAUSES,Diarrhea,Failure to Thrive,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0015732,CAUSES,Diarrhea,Fecal Incontinence,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0017160,CAUSES,Diarrhea,Gastroenteritis,sosy,dsyn,4,CAUSES_SOSYcausDSYN
+C0011991,C0017162,CAUSES,Diarrhea,"Gastroenteritis, Transmissible, of Swine",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0018965,CAUSES,Diarrhea,Hematuria,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0019061,CAUSES,Diarrhea,Hemolytic-Uremic Syndrome,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0019158,CAUSES,Diarrhea,Hepatitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0020615,CAUSES,Diarrhea,Hypoglycemia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0020625,CAUSES,Diarrhea,Hyponatremia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0021167,CAUSES,Diarrhea,Incontinence,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0022660,CAUSES,Diarrhea,"Kidney Failure, Acute",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0024530,CAUSES,Diarrhea,Malaria,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0025007,CAUSES,Diarrhea,Measles,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0032285,CAUSES,Diarrhea,Pneumonia,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0011991,C0035078,CAUSES,Diarrhea,Kidney Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0035204,CAUSES,Diarrhea,Respiration Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0036690,CAUSES,Diarrhea,Septicemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0042769,CAUSES,Diarrhea,Virus Diseases,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0043046,CAUSES,Diarrhea,Wasting Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0149725,CAUSES,Diarrhea,Lower respiratory tract infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0152171,CAUSES,Diarrhea,Idiopathic pulmonary hypertension,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0152517,CAUSES,Diarrhea,Enteritis due to specified virus,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0162429,CAUSES,Diarrhea,Malnutrition,sosy,dsyn,4,CAUSES_SOSYcausDSYN
+C0011991,C0178238,CAUSES,Diarrhea,Intestinal infectious disease (disorder),sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0206750,CAUSES,Diarrhea,Coronavirus Infections,sosy,dsyn,4,CAUSES_SOSYcausDSYN
+C0011991,C0238106,CAUSES,Diarrhea,Clostridium difficile colitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0267446,CAUSES,Diarrhea,Acute gastroenteritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0275524,CAUSES,Diarrhea,Coinfection,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0276467,CAUSES,Diarrhea,Neonatal calf diarrhea,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0277528,CAUSES,Diarrhea,Traveler's diarrhea,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0011991,C0401151,CAUSES,Diarrhea,Chronic diarrhea,sosy,dsyn,4,CAUSES_SOSYcausDSYN
+C0011991,C0442893,CAUSES,Diarrhea,Systemic disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C0558348,CAUSES,Diarrhea,Bacterial gastroenteritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C1145670,CAUSES,Diarrhea,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C1290807,CAUSES,Diarrhea,Diarrheal disorder,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C1565489,CAUSES,Diarrhea,Renal Insufficiency,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0011991,C3472181,CAUSES,Diarrhea,Severe dehydration,sosy,dsyn,12,CAUSES_SOSYcausDSYN
+C0011992,C0011175,CAUSES,Infantile Diarrhea,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0002792,CAUSES,Dyspnea,anaphylaxis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0002871,CAUSES,Dyspnea,Anemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0006271,CAUSES,Dyspnea,Bronchiolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0006277,CAUSES,Dyspnea,Bronchitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0006285,CAUSES,Dyspnea,Bronchopneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0010674,CAUSES,Dyspnea,Cystic Fibrosis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0011168,CAUSES,Dyspnea,Deglutition Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0011175,CAUSES,Dyspnea,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0032285,CAUSES,Dyspnea,Pneumonia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013404,C0032290,CAUSES,Dyspnea,Aspiration Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0032306,CAUSES,Dyspnea,"Pneumonia, Progressive Interstitial, of Sheep",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0035222,CAUSES,Dyspnea,"Respiratory Distress Syndrome, Adult",sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013404,C0040034,CAUSES,Dyspnea,Thrombocytopenia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0040115,CAUSES,Dyspnea,Thymus Hyperplasia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0040584,CAUSES,Dyspnea,Tracheitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0041296,CAUSES,Dyspnea,Tuberculosis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0085584,CAUSES,Dyspnea,Encephalopathies,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0206061,CAUSES,Dyspnea,"Pneumonia, Interstitial",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0235527,CAUSES,Dyspnea,"Heart Failure, Right-Sided",sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013404,C0264714,CAUSES,Dyspnea,Acute heart failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0748355,CAUSES,Dyspnea,Acute respiratory distress,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C0876973,CAUSES,Dyspnea,Infectious disease of lung,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C1145670,CAUSES,Dyspnea,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013404,C1175175,CAUSES,Dyspnea,Severe Acute Respiratory Syndrome,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013404,C1956415,CAUSES,Dyspnea,Paroxysmal nocturnal dyspnea,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013604,C0001125,CAUSES,Edema,"Acidosis, Lactic",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0001883,CAUSES,Edema,Airway Obstruction,sosy,dsyn,7,CAUSES_SOSYcausDSYN
+C0013604,C0005779,CAUSES,Edema,Blood Coagulation Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0006266,CAUSES,Edema,Bronchial Spasm,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0007786,CAUSES,Edema,Brain Ischemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0009492,CAUSES,Edema,Compartment syndromes,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0013608,CAUSES,Edema,"Edema, Cardiac",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0014541,CAUSES,Edema,Epiglottitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0018203,CAUSES,Edema,Chronic granulomatous disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0020639,CAUSES,Edema,Hypoproteinemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0032227,CAUSES,Edema,Pleural effusion disorder,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013604,C0032285,CAUSES,Edema,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0035222,CAUSES,Edema,"Respiratory Distress Syndrome, Adult",sosy,dsyn,5,CAUSES_SOSYcausDSYN
+C0013604,C0036690,CAUSES,Edema,Septicemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0042769,CAUSES,Edema,Virus Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0043167,CAUSES,Edema,Pertussis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0149721,CAUSES,Edema,Left Ventricular Hypertrophy,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0151740,CAUSES,Edema,Intracranial Hypertension,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0206061,CAUSES,Edema,"Pneumonia, Interstitial",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0239981,CAUSES,Edema,Hypoalbuminemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0241876,CAUSES,Edema,Obstructive emphysema,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013604,C0264909,CAUSES,Edema,Intraventricular conduction defect,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0282687,CAUSES,Edema,"Hemorrhagic Fever, Ebola",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C0876973,CAUSES,Edema,Infectious disease of lung,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C1175175,CAUSES,Edema,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C1318520,CAUSES,Edema,Necrotizing vasculitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0013604,C1527311,CAUSES,Edema,Brain Edema,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0013604,C4505065,CAUSES,Edema,Noncommunicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0003864,CAUSES,Exanthema,Arthritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0011606,CAUSES,Exanthema,Exfoliative dermatitis,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0015230,C0014038,CAUSES,Exanthema,Encephalitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0014378,CAUSES,Exanthema,Enterovirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0025290,CAUSES,Exanthema,Aseptic Meningitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0027765,CAUSES,Exanthema,nervous system disorder,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0275518,CAUSES,Exanthema,Acute infectious disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C0497156,CAUSES,Exanthema,Lymphadenopathy,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015230,C1175175,CAUSES,Exanthema,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0008679,CAUSES,Fatigue,Chronic disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0011168,CAUSES,Fatigue,Deglutition Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0011175,CAUSES,Fatigue,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0032285,CAUSES,Fatigue,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0032290,CAUSES,Fatigue,Aspiration Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0035222,CAUSES,Fatigue,"Respiratory Distress Syndrome, Adult",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0242676,CAUSES,Fatigue,"Positive-Pressure Respiration, Intrinsic",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C0264219,CAUSES,Fatigue,Acute respiratory disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015672,C1175175,CAUSES,Fatigue,Severe Acute Respiratory Syndrome,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0015672,C1336827,CAUSES,Fatigue,Tropical Disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0003864,CAUSES,Fever,Arthritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0006271,CAUSES,Fever,Bronchiolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0008354,CAUSES,Fever,Cholera,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0009421,CAUSES,Fever,Comatose,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0009450,CAUSES,Fever,Communicable Diseases,sosy,dsyn,7,CAUSES_SOSYcausDSYN
+C0015967,C0009763,CAUSES,Fever,Conjunctivitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0009952,CAUSES,Fever,Febrile Convulsions,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0011175,CAUSES,Fever,Dehydration,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0015967,C0024530,CAUSES,Fever,Malaria,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0028754,CAUSES,Fever,Obesity,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0032285,CAUSES,Fever,Pneumonia,sosy,dsyn,5,CAUSES_SOSYcausDSYN
+C0015967,C0032310,CAUSES,Fever,"Pneumonia, Viral",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0035021,CAUSES,Fever,Relapsing Fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0035222,CAUSES,Fever,"Respiratory Distress Syndrome, Adult",sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0015967,C0037274,CAUSES,Fever,Dermatologic disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0037354,CAUSES,Fever,Smallpox,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0085612,CAUSES,Fever,Ventricular arrhythmia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0085650,CAUSES,Fever,Purpura Fulminans,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0015967,C0149725,CAUSES,Fever,Lower respiratory tract infection,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0015967,C0151740,CAUSES,Fever,Intracranial Hypertension,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0234533,CAUSES,Fever,Generalized seizures,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0275518,CAUSES,Fever,Acute infectious disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0277564,CAUSES,Fever,Acquired disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0339952,CAUSES,Fever,Secondary bacterial pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0694549,CAUSES,Fever,Community acquired pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0743841,CAUSES,Fever,Disorder characterized by fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0746883,CAUSES,Fever,Febrile Neutropenia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0748355,CAUSES,Fever,Acute respiratory distress,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C0948268,CAUSES,Fever,Hemodynamic instability,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C1145670,CAUSES,Fever,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C1175175,CAUSES,Fever,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C1290884,CAUSES,Fever,Inflammatory disorder,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C1398232,CAUSES,Fever,Hemorrhagic jaundice,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C2721563,CAUSES,Fever,Infectious pneumonias,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0015967,C3472181,CAUSES,Fever,Severe dehydration,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0015967,C4476767,CAUSES,Fever,Diffuse alveolar hemorrhage,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0016204,C0009443,CAUSES,Flatulence,Common Cold,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0016204,C3694279,CAUSES,Flatulence,Middle East Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0018681,C0009421,CAUSES,Headache,Comatose,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0018681,C0206752,CAUSES,Headache,Alphavirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0018681,C0743841,CAUSES,Headache,Disorder characterized by fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0018681,C1145670,CAUSES,Headache,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0018681,C3160858,CAUSES,Headache,Posterior reversible encephalopathy syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0019079,C0009450,CAUSES,Hemoptysis,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0019079,C0024225,CAUSES,Hemoptysis,Lymphangitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0019079,C0876973,CAUSES,Hemoptysis,Infectious disease of lung,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0020450,C0022660,CAUSES,Hyperemesis Gravidarum,"Kidney Failure, Acute",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0020453,C0236118,CAUSES,Hyperesthesia,EPILEPTIFORM ATTACKS (NOS),sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0023380,C0037274,CAUSES,Lethargy,Dermatologic disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0026821,C0027051,CAUSES,Muscle Cramp,Myocardial Infarction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0026961,C0026205,CAUSES,Mydriasis,Miosis disorder,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0027497,C0011175,CAUSES,Nausea,Dehydration,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0027497,C0042769,CAUSES,Nausea,Virus Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0027497,C0267446,CAUSES,Nausea,Acute gastroenteritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0027497,C0270724,CAUSES,Nausea,Infantile Neuroaxonal Dystrophy,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0027497,C1258215,CAUSES,Nausea,Ileus,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C0003123,CAUSES,Pain,Anorexia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C0009450,CAUSES,Pain,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C0011168,CAUSES,Pain,Deglutition Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C0015695,CAUSES,Pain,Fatty Liver,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C0021167,CAUSES,Pain,Incontinence,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C0032768,CAUSES,Pain,Postherpetic neuralgia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030193,C3472181,CAUSES,Pain,Severe dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0030794,C0010692,CAUSES,Pelvic Pain,Cystitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0032617,C1318533,CAUSES,Polyuria,Secondary polycythemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0032781,C0041912,CAUSES,Posterior rhinorrhea,Upper Respiratory Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0032781,C0333997,CAUSES,Posterior rhinorrhea,Lymphoid hyperplasia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0009421,CAUSES,Seizures,Comatose,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0036572,C0014544,CAUSES,Seizures,Epilepsy,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0036572,C0020456,CAUSES,Seizures,Hyperglycemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0025289,CAUSES,Seizures,Meningitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0030446,CAUSES,Seizures,Paralytic Ileus,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0035243,CAUSES,Seizures,Respiratory Tract Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0085584,CAUSES,Seizures,Encephalopathies,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0151740,CAUSES,Seizures,Intracranial Hypertension,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0494475,CAUSES,Seizures,Tonic - clonic seizures,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0036572,C0751781,CAUSES,Seizures,Dentatorubral-Pallidoluysian Atrophy,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0001314,CAUSES,Signs and Symptoms,Acute Disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0001361,CAUSES,Signs and Symptoms,Acute tonsillitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0004610,CAUSES,Signs and Symptoms,Bacteremia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0037088,C0009421,CAUSES,Signs and Symptoms,Comatose,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0037088,C0009450,CAUSES,Signs and Symptoms,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0009763,CAUSES,Signs and Symptoms,Conjunctivitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0019100,CAUSES,Signs and Symptoms,Severe Dengue,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0019158,CAUSES,Signs and Symptoms,Hepatitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0021053,CAUSES,Signs and Symptoms,Immune System Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0024115,CAUSES,Signs and Symptoms,Lung diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0024312,CAUSES,Signs and Symptoms,Lymphopenia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0037088,C0024796,CAUSES,Signs and Symptoms,Marfan Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0032285,CAUSES,Signs and Symptoms,Pneumonia,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0037088,C0035204,CAUSES,Signs and Symptoms,Respiration Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0035222,CAUSES,Signs and Symptoms,"Respiratory Distress Syndrome, Adult",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0035243,CAUSES,Signs and Symptoms,Respiratory Tract Infections,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0037088,C0035436,CAUSES,Signs and Symptoms,Rheumatic Fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0149725,CAUSES,Signs and Symptoms,Lower respiratory tract infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0235840,CAUSES,Signs and Symptoms,Neonatal diarrhea,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0239981,CAUSES,Signs and Symptoms,Hypoalbuminemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0275524,CAUSES,Signs and Symptoms,Coinfection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C0748355,CAUSES,Signs and Symptoms,Acute respiratory distress,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C1175175,CAUSES,Signs and Symptoms,Severe Acute Respiratory Syndrome,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0037088,C1290807,CAUSES,Signs and Symptoms,Diarrheal disorder,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037088,C1443953,CAUSES,Signs and Symptoms,Acute viral disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0009443,CAUSES,"Signs and Symptoms, Respiratory",Common Cold,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0009450,CAUSES,"Signs and Symptoms, Respiratory",Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0009763,CAUSES,"Signs and Symptoms, Respiratory",Conjunctivitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0017178,CAUSES,"Signs and Symptoms, Respiratory",Gastrointestinal Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0019158,CAUSES,"Signs and Symptoms, Respiratory",Hepatitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0027697,CAUSES,"Signs and Symptoms, Respiratory",Nephritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0030305,CAUSES,"Signs and Symptoms, Respiratory",Pancreatitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0032285,CAUSES,"Signs and Symptoms, Respiratory",Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0032310,CAUSES,"Signs and Symptoms, Respiratory","Pneumonia, Viral",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0034155,CAUSES,"Signs and Symptoms, Respiratory","Purpura, Thrombotic Thrombocytopenic",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0035222,CAUSES,"Signs and Symptoms, Respiratory","Respiratory Distress Syndrome, Adult",sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0037090,C0035235,CAUSES,"Signs and Symptoms, Respiratory",Respiratory Syncytial Virus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037090,C0085692,CAUSES,"Signs and Symptoms, Respiratory",Hemorrhagic cystitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037317,C0035455,CAUSES,Sleep disturbances,Rhinitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C0009450,CAUSES,Sneezing,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C0010246,CAUSES,Sneezing,Coxsackievirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C0021400,CAUSES,Sneezing,Influenza,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0037383,C0033770,CAUSES,Sneezing,Prune Belly Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C0035204,CAUSES,Sneezing,Respiration Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C0042769,CAUSES,Sneezing,Virus Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C0152227,CAUSES,Sneezing,Excessive tearing,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C1096155,CAUSES,Sneezing,Macrophage Activation Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037383,C1707758,CAUSES,Sneezing,Direct Contact Transmission Infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037384,C0031350,CAUSES,Snoring,Pharyngitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0037763,C0034494,CAUSES,Spasm,Rabies (disorder),sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0038450,C0009450,CAUSES,Stridor,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0038450,C0010380,CAUSES,Stridor,Croup,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0040822,C0008533,CAUSES,Tremor,Hemophilia B,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0040822,C0221165,CAUSES,Tremor,Diplegia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0040822,C1856053,CAUSES,Tremor,Hydranencephaly with Renal Aplasia-Dysplasia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C0011175,CAUSES,Vomiting,Dehydration,sosy,dsyn,20,CAUSES_SOSYcausDSYN
+C0042963,C0017160,CAUSES,Vomiting,Gastroenteritis,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0042963,C0018965,CAUSES,Vomiting,Hematuria,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C0022660,CAUSES,Vomiting,"Kidney Failure, Acute",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C0022951,CAUSES,Vomiting,Lactose Intolerance,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C0149725,CAUSES,Vomiting,Lower respiratory tract infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C0268015,CAUSES,Vomiting,Acute hypokalemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C0920646,CAUSES,Vomiting,Ischemia of kidney,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0042963,C3472181,CAUSES,Vomiting,Severe dehydration,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0042963,C4082764,CAUSES,Vomiting,Gastrointestinal infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C0004096,CAUSES,Wheezing,Asthma,sosy,dsyn,8,CAUSES_SOSYcausDSYN
+C0043144,C0006271,CAUSES,Wheezing,Bronchiolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C0035235,CAUSES,Wheezing,Respiratory Syncytial Virus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C0149725,CAUSES,Wheezing,Lower respiratory tract infection,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0043144,C0343537,CAUSES,Wheezing,Specific viral infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C0582415,CAUSES,Wheezing,Acute asthma,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C0876973,CAUSES,Wheezing,Infectious disease of lung,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C0948268,CAUSES,Wheezing,Hemodynamic instability,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0043144,C3662483,CAUSES,Wheezing,Allergic sensitization,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0085593,C0035222,CAUSES,Chills,"Respiratory Distress Syndrome, Adult",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0085602,C0020625,CAUSES,Polydipsia,Hyponatremia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0085631,C0024117,CAUSES,Agitation,Chronic Obstructive Airway Disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0085631,C0221165,CAUSES,Agitation,Diplegia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0085636,C0678236,CAUSES,Photophobia,Rare Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0151786,C1145670,CAUSES,Muscle Weakness,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0151828,C0041834,CAUSES,Injection site pain,Erythema,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0152169,C0020538,CAUSES,Renal Colic,Hypertensive disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0221150,C0011175,CAUSES,Swallowing painful,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0005741,CAUSES,Malaise,Blepharitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0009952,CAUSES,Malaise,Febrile Convulsions,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0019212,CAUSES,Malaise,Hepatorenal Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0024117,CAUSES,Malaise,Chronic Obstructive Airway Disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0035455,CAUSES,Malaise,Rhinitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0276168,CAUSES,Malaise,Egg drop syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0743841,CAUSES,Malaise,Disorder characterized by fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231218,C0748355,CAUSES,Malaise,Acute respiratory distress,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231230,C0035455,CAUSES,Fatigability,Rhinitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231239,C0007785,CAUSES,Fluctuation,Cerebral Infarction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231239,C0018790,CAUSES,Fluctuation,Cardiac Arrest,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231239,C0035243,CAUSES,Fluctuation,Respiratory Tract Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231239,C0242994,CAUSES,Fluctuation,Hantavirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231239,C0277565,CAUSES,Fluctuation,Local disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231528,C0009492,CAUSES,Myalgia,Compartment syndromes,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231528,C0014038,CAUSES,Myalgia,Encephalitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231528,C0032285,CAUSES,Myalgia,Pneumonia,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C0231528,C0035222,CAUSES,Myalgia,"Respiratory Distress Syndrome, Adult",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231528,C0264219,CAUSES,Myalgia,Acute respiratory disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231528,C0743841,CAUSES,Myalgia,Disorder characterized by fever,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231796,C0039614,CAUSES,respiratory abnormalities,Tetanus,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231818,C0021051,CAUSES,Airway constriction,Immunologic Deficiency Syndromes,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0231929,C1145670,CAUSES,Acute hypoventilation,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232292,C0006271,CAUSES,Chest tightness,Bronchiolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232292,C0006277,CAUSES,Chest tightness,Bronchitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232292,C0040584,CAUSES,Chest tightness,Tracheitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232292,C0206061,CAUSES,Chest tightness,"Pneumonia, Interstitial",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232492,C0011175,CAUSES,Upper abdominal pain,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232598,C0002871,CAUSES,Chronic vomiting,Anemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232717,C0015732,CAUSES,Rectal sensation,Fecal Incontinence,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0232766,C0019151,CAUSES,Asterixis,Hepatic Encephalopathy,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0234233,C0701825,CAUSES,Sore to touch,Acute mastoiditis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0234374,C0234535,CAUSES,Coarse Tremor,"Seizures, Clonic",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0235031,C0014038,CAUSES,Neurologic Symptoms,Encephalitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0235162,C0008679,CAUSES,Difficulty sleeping,Chronic disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0235169,C0027765,CAUSES,Excitability,nervous system disorder,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0235250,C0032326,CAUSES,Hyperemesis,Pneumothorax,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0239181,C0011175,CAUSES,Intermittent diarrhea,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0239182,C0011175,CAUSES,Watery diarrhea,Dehydration,sosy,dsyn,7,CAUSES_SOSYcausDSYN
+C0239182,C0016807,CAUSES,Watery diarrhea,Functional disorder of intestine,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0239182,C0036690,CAUSES,Watery diarrhea,Septicemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0239182,C3472181,CAUSES,Watery diarrhea,Severe dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0240557,C0152227,CAUSES,Irritation of nose,Excessive tearing,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0240805,C1384666,CAUSES,Prodrome,hearing impairment,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0242706,C0019158,CAUSES,Hyperoxia,Hepatitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0242706,C0032285,CAUSES,Hyperoxia,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0242706,C0149513,CAUSES,Hyperoxia,Acute tracheitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C0004364,CAUSES,Single organ dysfunction,Autoimmune Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C0032285,CAUSES,Single organ dysfunction,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C0035078,CAUSES,Single organ dysfunction,Kidney Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C0035222,CAUSES,Single organ dysfunction,"Respiratory Distress Syndrome, Adult",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C0038826,CAUSES,Single organ dysfunction,Superinfection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C0878544,CAUSES,Single organ dysfunction,Cardiomyopathies,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0349410,C1145670,CAUSES,Single organ dysfunction,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C0009450,CAUSES,Influenza-like symptoms,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C0016627,CAUSES,Influenza-like symptoms,Influenza in Birds,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C0025309,CAUSES,Influenza-like symptoms,Meningoencephalitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C0032285,CAUSES,Influenza-like symptoms,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C0041912,CAUSES,Influenza-like symptoms,Upper Respiratory Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C0206750,CAUSES,Influenza-like symptoms,Coronavirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C1442786,CAUSES,Influenza-like symptoms,Acute respiratory tract infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C2076600,CAUSES,Influenza-like symptoms,Influenza due to Influenza A virus subtype H1N1,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392171,C3542501,CAUSES,Influenza-like symptoms,Acute inflammatory demyelinating polyneuropathy,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392513,C0011351,CAUSES,Inanition,Dental Enamel Hypoplasia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392513,C0016397,CAUSES,Inanition,Focal Infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392513,C0017658,CAUSES,Inanition,Glomerulonephritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392513,C0031036,CAUSES,Inanition,Polyarteritis Nodosa,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392513,C0751955,CAUSES,Inanition,Brain Infarction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392674,C0042769,CAUSES,Exhaustion,Virus Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0392674,C1145670,CAUSES,Exhaustion,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0426576,C0011175,CAUSES,Gastrointestinal symptom,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476270,C1175175,CAUSES,Cardiovascular symptoms,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C0027697,CAUSES,Respiratory distress,Nephritis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C0027707,CAUSES,Respiratory distress,"Nephritis, Interstitial",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C0032285,CAUSES,Respiratory distress,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C0276483,CAUSES,Respiratory distress,Infectious bursal disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C0339952,CAUSES,Respiratory distress,Secondary bacterial pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C1145670,CAUSES,Respiratory distress,Respiratory Failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476273,C1412002,CAUSES,Respiratory distress,Atypical pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0476288,C0206750,CAUSES,Digestive symptom,Coronavirus Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0518214,C0042029,CAUSES,Perceived quality of life,Urinary tract infection,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0548823,C1175175,CAUSES,gastrointestinal distress,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0562483,C0009443,CAUSES,Persistent cough,Common Cold,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0740903,C0002792,CAUSES,allergic symptom,anaphylaxis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0747149,C0398623,CAUSES,Uncontrolled pain,Thrombophilia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0751351,C0009421,CAUSES,"Myoclonus, Segmental",Comatose,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0751378,C1299880,CAUSES,Neurologic Signs,Diskospondylitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0848232,C0028734,CAUSES,excessive urination at night,Nocturia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C0849640,C0149778,CAUSES,skin damage,Soft Tissue Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0849791,C0042769,CAUSES,sinus drainage,Virus Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0850149,C0035222,CAUSES,Dry cough,"Respiratory Distress Syndrome, Adult",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0850149,C0748355,CAUSES,Dry cough,Acute respiratory distress,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0850149,C1175175,CAUSES,Dry cough,Severe Acute Respiratory Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0850760,C0018801,CAUSES,cardiovascular problem,Heart failure,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0853813,C0029883,CAUSES,local reaction,Otitis Media with Effusion,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C0858854,C0014518,CAUSES,Unrest,Toxic Epidermal Necrolysis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1260880,C0006271,CAUSES,Rhinorrhea,Bronchiolitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1260880,C0009763,CAUSES,Rhinorrhea,Conjunctivitis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1260880,C0032285,CAUSES,Rhinorrhea,Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1291077,C0011175,CAUSES,Abdominal bloating,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1291077,C0033377,CAUSES,Abdominal bloating,Ptosis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0003864,CAUSES,Imbalance,Arthritis,sosy,dsyn,3,CAUSES_SOSYcausDSYN
+C1397014,C0004364,CAUSES,Imbalance,Autoimmune Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0005779,CAUSES,Imbalance,Blood Coagulation Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0005940,CAUSES,Imbalance,Bone Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0009450,CAUSES,Imbalance,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0011175,CAUSES,Imbalance,Dehydration,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C1397014,C0021400,CAUSES,Imbalance,Influenza,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0024115,CAUSES,Imbalance,Lung diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0024141,CAUSES,Imbalance,"Lupus Erythematosus, Systemic",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0027051,CAUSES,Imbalance,Myocardial Infarction,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C1397014,C0028754,CAUSES,Imbalance,Obesity,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C1397014,C0029456,CAUSES,Imbalance,Osteoporosis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0029458,CAUSES,Imbalance,"Osteoporosis, Postmenopausal",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0030499,CAUSES,Imbalance,Parasitic Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0035309,CAUSES,Imbalance,Retinal Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0035579,CAUSES,Imbalance,Rickets,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0036690,CAUSES,Imbalance,Septicemia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0038358,CAUSES,Imbalance,Gastric ulcer,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0040034,CAUSES,Imbalance,Thrombocytopenia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C1397014,C0042769,CAUSES,Imbalance,Virus Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0151317,CAUSES,Imbalance,Chronic infectious disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0162429,CAUSES,Imbalance,Malnutrition,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0242339,CAUSES,Imbalance,Dyslipidemias,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0262405,CAUSES,Imbalance,Cerebral dysfunction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0268731,CAUSES,Imbalance,Renal glomerular disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0442886,CAUSES,Imbalance,Secondary Infections,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0740766,CAUSES,Imbalance,acute pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1397014,C0856169,CAUSES,Imbalance,endothelial dysfunction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1443924,C0011175,CAUSES,Severe diarrhea,Dehydration,sosy,dsyn,8,CAUSES_SOSYcausDSYN
+C1443924,C0151317,CAUSES,Severe diarrhea,Chronic infectious disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1517205,C0030312,CAUSES,Flare,Pancytopenia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1517205,C0162557,CAUSES,Flare,"Liver Failure, Acute",sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C1517205,C0694549,CAUSES,Flare,Community acquired pneumonia,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C2732413,C0009450,CAUSES,Postexertional fatigue,Communicable Diseases,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C2732413,C0015674,CAUSES,Postexertional fatigue,Chronic Fatigue Syndrome,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C2936179,C0856169,CAUSES,"Obesity, Visceral",endothelial dysfunction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C2985306,C0442893,CAUSES,Maternal Fever,Systemic disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3671554,C3472181,CAUSES,Mucoid diarrhea,Severe dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0001883,CAUSES,Weakness,Airway Obstruction,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0006309,CAUSES,Weakness,Brucellosis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0011168,CAUSES,Weakness,Deglutition Disorders,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0011175,CAUSES,Weakness,Dehydration,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0016627,CAUSES,Weakness,Influenza in Birds,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0030552,CAUSES,Weakness,Paresis,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C0032290,CAUSES,Weakness,Aspiration Pneumonia,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C3714552,C1145670,CAUSES,Weakness,Respiratory Failure,sosy,dsyn,2,CAUSES_SOSYcausDSYN
+C3890602,C0008679,CAUSES,Bodily Pain,Chronic disease,sosy,dsyn,1,CAUSES_SOSYcausDSYN
+C4287543,C0948807,CAUSES,Intestinal dysbiosis,Hepatic impairment,sosy,dsyn,1,CAUSES_SOSYcausDSYN

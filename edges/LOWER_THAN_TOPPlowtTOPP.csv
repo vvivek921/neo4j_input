@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011593,C1868981,LOWER_THAN,Dermabrasion,Invasive mechanical ventilation NOS,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0013216,C0281176,LOWER_THAN,Pharmacotherapy,antibody therapy,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0020971,C0020971,LOWER_THAN,Immunization,Immunization,topp,topp,4,LOWER_THAN_TOPPlowtTOPP
+C0021485,C0021485,LOWER_THAN,Injection of therapeutic agent,Injection of therapeutic agent,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0021925,C1960845,LOWER_THAN,Intubation,Bag valve mask ventilation,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0023911,C0023911,LOWER_THAN,Transplantation of liver,Transplantation of liver,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0034386,C0020971,LOWER_THAN,Quarantine,Immunization,topp,topp,2,LOWER_THAN_TOPPlowtTOPP
+C0035110,C0015250,LOWER_THAN,Repeat Surgery,Complete excision,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0038638,C0038638,LOWER_THAN,Suction drainage,Suction drainage,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0040739,C0040739,LOWER_THAN,"Transplantation, Homologous","Transplantation, Homologous",topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0042196,C0042196,LOWER_THAN,Vaccination,Vaccination,topp,topp,5,LOWER_THAN_TOPPlowtTOPP
+C0042196,C1135929,LOWER_THAN,Vaccination,Mass Vaccination,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0042200,C0042196,LOWER_THAN,Influenza vaccination,Vaccination,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0152060,C0034386,LOWER_THAN,Transection (procedure),Quarantine,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0185003,C0185003,LOWER_THAN,Reparative closure,Reparative closure,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0185010,C0185010,LOWER_THAN,Closure by clip procedure,Closure by clip procedure,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0185023,C0185023,LOWER_THAN,Fixation - action,Fixation - action,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0204727,C0042196,LOWER_THAN,Isolation procedure,Vaccination,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0204774,C0025991,LOWER_THAN,Soaking Procedure,Microinjections,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0418981,C0007344,LOWER_THAN,Medical therapy,Castration,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0418981,C0749736,LOWER_THAN,Medical therapy,tumor removal,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0547070,C0547070,LOWER_THAN,Ablation,Ablation,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0597409,C0040732,LOWER_THAN,retransplantation,Transplantation,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0741847,C0741847,LOWER_THAN,Bypass,Bypass,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0919721,C2608114,LOWER_THAN,Anorectal surgeries,Colon and Rectal Surgery (procedure),topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C1135929,C0042196,LOWER_THAN,Mass Vaccination,Vaccination,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C1511790,C1511790,LOWER_THAN,Detection,Detection,topp,topp,2,LOWER_THAN_TOPPlowtTOPP
+C1997883,C2945704,LOWER_THAN,Noninvasive Ventilation,Conventional Treatment,topp,topp,1,LOWER_THAN_TOPPlowtTOPP

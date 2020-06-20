@@ -1,0 +1,63 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002422,C0037090,TREATS,Ambulances,"Signs and Symptoms, Respiratory",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0006086,C0036572,TREATS,Braces-Orthopedic appliances,Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0009653,C0015967,TREATS,"Condoms, Male",Fever,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0021900,C0030794,TREATS,Intrauterine Devices,Pelvic Pain,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0024861,C0015967,TREATS,Masks,Fever,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0024861,C0036572,TREATS,Masks,Seizures,medd,sosy,4,TREATS_MEDDtrtsSOSY
+C0024861,C0037090,TREATS,Masks,"Signs and Symptoms, Respiratory",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0024861,C0231239,TREATS,Masks,Fluctuation,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0027524,C0037090,TREATS,Nebulizers,"Signs and Symptoms, Respiratory",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0027524,C0043144,TREATS,Nebulizers,Wheezing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0027551,C0030193,TREATS,Needle device,Pain,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0038257,C0030201,TREATS,"Stent, device","Pain, Postoperative",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0042497,C0015967,TREATS,Mechanical Ventilator,Fever,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0042497,C0036572,TREATS,Mechanical Ventilator,Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0043303,C0015967,TREATS,X-Ray Film,Fever,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0043303,C0231218,TREATS,X-Ray Film,Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0085104,C0027796,TREATS,Drug Delivery Systems,Neuralgia,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0085104,C0030193,TREATS,Drug Delivery Systems,Pain,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0085678,C0152165,TREATS,Nasogastric tube,Persistent vomiting,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0175649,C0040822,TREATS,Prosthesis,Tremor,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0178987,C0010200,TREATS,Artificial Airways,Coughing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0178987,C0013604,TREATS,Artificial Airways,Edema,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0178987,C0015967,TREATS,Artificial Airways,Fever,medd,sosy,2,TREATS_MEDDtrtsSOSY
+C0178987,C0036572,TREATS,Artificial Airways,Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0178987,C0850738,TREATS,Artificial Airways,Agitated child,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179533,C0015967,TREATS,"Camera, device",Fever,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179574,C0010520,TREATS,Nasal Cannula,Cyanosis,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179574,C0231218,TREATS,Nasal Cannula,Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179784,C1443924,TREATS,Rectal catheter,Severe diarrhea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179800,C0341742,TREATS,Urethral Catheters,Acute retention of urine,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179958,C0037090,TREATS,Cleaning Device,"Signs and Symptoms, Respiratory",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0180309,C0036572,TREATS,Automated External Defibrillators,Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0181620,C0016204,TREATS,Hoist device,Flatulence,medd,sosy,2,TREATS_MEDDtrtsSOSY
+C0181744,C0013404,TREATS,Oxygen mask,Dyspnea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0182400,C0011991,TREATS,Probes,Diarrhea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183115,C0015967,TREATS,Scanning Systems,Fever,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183115,C0231218,TREATS,Scanning Systems,Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183115,C0235744,TREATS,Scanning Systems,Breath Holding,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183251,C0004604,TREATS,Shield,Back Pain,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183255,C0037090,TREATS,Face shield,"Signs and Symptoms, Respiratory",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183941,C0010200,TREATS,"Timer, device",Coughing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0183941,C0037383,TREATS,"Timer, device",Sneezing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0184252,C0027424,TREATS,Medical Valves,Nasal congestion (finding),medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0262816,C0013404,TREATS,Syringe driver,Dyspnea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0337184,C0085631,TREATS,Physical restraint equipment (device),Agitation,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0348000,C0026837,TREATS,Instrument - device,Muscle Rigidity,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0348000,C0037088,TREATS,Instrument - device,Signs and Symptoms,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0392276,C0019079,TREATS,Neodymium-Doped Yttrium Aluminum Garnet Lasers,Hemoptysis,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0491243,C0019079,TREATS,Flexible endoscope,Hemoptysis,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0522644,C0019079,TREATS,Embolization coil,Hemoptysis,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0677875,C0235886,TREATS,Compression Bandages,Leg edema,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0785113,C0010201,TREATS,pH TEST,Chronic cough,medd,sosy,2,TREATS_MEDDtrtsSOSY
+C0991556,C0150055,TREATS,Transdermal System,Chronic pain,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0993596,C0043144,TREATS,Metered Dose Inhaler,Wheezing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0994894,C0233205,TREATS,Patch Dosage Form,Halo sign,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C1140607,C0016382,TREATS,Commodes,Flushing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C1145640,C0231218,TREATS,"Central venous catheter, device",Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C1458060,C0013404,TREATS,ippb machines,Dyspnea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C1706912,C0013604,TREATS,BARRIER,Edema,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C1706912,C0233397,TREATS,BARRIER,Psychological symptom,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C2720748,C1443924,TREATS,Hoods,Severe diarrhea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C4528683,C0349410,TREATS,Toraymyxin,Single organ dysfunction,medd,sosy,1,TREATS_MEDDtrtsSOSY

@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006675,C0024467,LOWER_THAN,Calcium,Magnesium,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0019134,C0019134,LOWER_THAN,heparin,heparin,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0028013,C0009968,LOWER_THAN,nickel,Copper,bacs,bacs,2,LOWER_THAN_BACSlowtBACS
+C0032136,C0032136,LOWER_THAN,Plasmids,Plasmids,bacs,bacs,2,LOWER_THAN_BACSlowtBACS
+C0035142,C0035142,LOWER_THAN,Replicon,Replicon,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0035693,C0035693,LOWER_THAN,"RNA, Double-Stranded","RNA, Double-Stranded",bacs,bacs,4,LOWER_THAN_BACSlowtBACS
+C0035693,C1337053,LOWER_THAN,"RNA, Double-Stranded",pre-miRNA,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0035709,C1101610,LOWER_THAN,Small Nuclear RNA,MicroRNAs,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0041942,C0010294,LOWER_THAN,Urea,Creatinine,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0082774,C0082774,LOWER_THAN,"RNA, Guide","RNA, Guide",bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0700214,C1099354,LOWER_THAN,carrier (molecular),"RNA, Small Interfering",bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C1099354,C0012854,LOWER_THAN,"RNA, Small Interfering",DNA,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C1099354,C1099354,LOWER_THAN,"RNA, Small Interfering","RNA, Small Interfering",bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C1764827,C1764827,LOWER_THAN,Isolate - microorganism,Isolate - microorganism,bacs,bacs,1,LOWER_THAN_BACSlowtBACS

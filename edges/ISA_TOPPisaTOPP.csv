@@ -1,0 +1,444 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0015252,ISA,Adenoidectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0001425,C0543467,ISA,Adenoidectomy,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0001632,C0543467,ISA,Adrenalectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0002903,C0543467,ISA,Anesthesia procedures,Operative Surgical Procedures,topp,topp,5,ISA_TOPPisaTOPP
+C0002915,C0002903,ISA,General Anesthesia,Anesthesia procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0002915,C0543467,ISA,General Anesthesia,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0002917,C0002903,ISA,"Anesthesia, Inhalation",Anesthesia procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0002928,C0002903,ISA,Spinal Anesthesia,Anesthesia procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0002928,C0543467,ISA,Spinal Anesthesia,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0003424,C0543467,ISA,Antisepsis,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0003611,C0543467,ISA,Appendectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0003893,C0543467,ISA,Arthroplasty,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0003893,C1136201,ISA,Arthroplasty,Orthopedic Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0003974,C0543467,ISA,Asepsis,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0004764,C0199176,ISA,"Contraception, Barrier",Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0005746,C0543467,ISA,Blepharorrhaphy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0005841,C0040732,ISA,Blood Transfusion,Transplantation,topp,topp,2,ISA_TOPPisaTOPP
+C0005961,C0029216,ISA,Bone Marrow Transplantation,Organ Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0005961,C0040732,ISA,Bone Marrow Transplantation,Transplantation,topp,topp,4,ISA_TOPPisaTOPP
+C0005961,C0040739,ISA,Bone Marrow Transplantation,"Transplantation, Homologous",topp,topp,1,ISA_TOPPisaTOPP
+C0005961,C0199176,ISA,Bone Marrow Transplantation,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0005961,C0472699,ISA,Bone Marrow Transplantation,Hemopoietic stem cell transplant,topp,topp,1,ISA_TOPPisaTOPP
+C0005961,C1504389,ISA,Bone Marrow Transplantation,Stem cell transplant,topp,topp,2,ISA_TOPPisaTOPP
+C0007202,C0015354,ISA,Cardiopulmonary Bypass,Extracorporeal Circulation,topp,topp,1,ISA_TOPPisaTOPP
+C0007202,C0543467,ISA,Cardiopulmonary Bypass,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0007203,C0035273,ISA,Cardiopulmonary Resuscitation,Resuscitation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0007203,C1298802,ISA,Cardiopulmonary Resuscitation,Emergency procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0007344,C0279025,ISA,Castration,Hormone Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0007344,C0543467,ISA,Castration,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0007347,C0543467,ISA,Male Castration,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0007389,C0184898,ISA,Cataract Extraction,Surgical incisions,topp,topp,1,ISA_TOPPisaTOPP
+C0007431,C0021107,ISA,Arterial catheterization,Implantation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0007876,C0543467,ISA,Cesarean section,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0008320,C0543467,ISA,Cholecystectomy procedure,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0009244,C0004933,ISA,Cognitive Therapy,Behavior Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0009244,C0033968,ISA,Cognitive Therapy,Psychotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0010042,C0040732,ISA,Keratoplasty,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0010055,C0018821,ISA,Coronary Artery Bypass Surgery,Cardiac Surgery procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0010055,C0543467,ISA,Coronary Artery Bypass Surgery,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0010280,C0524850,ISA,Craniotomy,Neurosurgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0010408,C0007471,ISA,Cryosurgery,Cauterization - action,topp,topp,1,ISA_TOPPisaTOPP
+C0010408,C0543467,ISA,Cryosurgery,Operative Surgical Procedures,topp,topp,4,ISA_TOPPisaTOPP
+C0010468,C0543467,ISA,Curettage procedure,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0010651,C0543467,ISA,Cystectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0010931,C0543467,ISA,Dacryocystorhinostomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0011079,C0015252,ISA,Debridement,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0011079,C0543467,ISA,Debridement,Operative Surgical Procedures,topp,topp,70,ISA_TOPPisaTOPP
+C0011079,C0728940,ISA,Debridement,Excision,topp,topp,2,ISA_TOPPisaTOPP
+C0011121,C0199176,ISA,Decontamination,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0011307,C0543467,ISA,Denervation,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0011946,C0013216,ISA,Dialysis procedure,Pharmacotherapy,topp,topp,2,ISA_TOPPisaTOPP
+C0011946,C0206074,ISA,Dialysis procedure,Renal Replacement Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0011946,C0543467,ISA,Dialysis procedure,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0012683,C0038280,ISA,Disinfection,Sterilization for infection control,topp,topp,1,ISA_TOPPisaTOPP
+C0012683,C0199176,ISA,Disinfection,Prophylactic treatment,topp,topp,3,ISA_TOPPisaTOPP
+C0012683,C0543467,ISA,Disinfection,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0012737,C0543467,ISA,Tissue Dissection,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0013216,C0679624,ISA,Pharmacotherapy,medical treatment method,topp,topp,1,ISA_TOPPisaTOPP
+C0013778,C0007203,ISA,Electric Countershock,Cardiopulmonary Resuscitation,topp,topp,1,ISA_TOPPisaTOPP
+C0013806,C0013216,ISA,Electroconvulsive Therapy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0013806,C0013787,ISA,Electroconvulsive Therapy,Electric Stimulation Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0015236,C0005841,ISA,"Exchange Transfusion, Whole Blood",Blood Transfusion,topp,topp,1,ISA_TOPPisaTOPP
+C0015250,C0015252,ISA,Complete excision,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0015258,C0543467,ISA,Evisceration - action,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0015357,C0035239,ISA,Extracorporeal Membrane Oxygenation,Respiratory Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0015357,C0344211,ISA,Extracorporeal Membrane Oxygenation,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0015357,C0398338,ISA,Extracorporeal Membrane Oxygenation,Extracorporeal gas exchange,topp,topp,1,ISA_TOPPisaTOPP
+C0015357,C0947899,ISA,Extracorporeal Membrane Oxygenation,Venous Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0015357,C1293116,ISA,Extracorporeal Membrane Oxygenation,Introduction procedure,topp,topp,5,ISA_TOPPisaTOPP
+C0015618,C0033971,ISA,Family psychotherapy,Group Psychotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0015915,C0872104,ISA,Fertilization in Vitro,Assisted Reproductive Technologies,topp,topp,9,ISA_TOPPisaTOPP
+C0016286,C0034997,ISA,Fluid Therapy,Rehydration,topp,topp,2,ISA_TOPPisaTOPP
+C0017118,C0543467,ISA,Gastrectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0018821,C0543467,ISA,Cardiac Surgery procedures,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0019004,C0011946,ISA,Hemodialysis,Dialysis procedure,topp,topp,2,ISA_TOPPisaTOPP
+C0019004,C0015354,ISA,Hemodialysis,Extracorporeal Circulation,topp,topp,1,ISA_TOPPisaTOPP
+C0019004,C0206074,ISA,Hemodialysis,Renal Replacement Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0019008,C0011946,ISA,"Hemodialysis, Home",Dialysis procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0019014,C0011946,ISA,Hemofiltration,Dialysis procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0019063,C0019004,ISA,Hemoperfusion,Hemodialysis,topp,topp,1,ISA_TOPPisaTOPP
+C0019144,C0015252,ISA,Hepatectomy,removal technique,topp,topp,2,ISA_TOPPisaTOPP
+C0020699,C0198482,ISA,Hysterectomy,Operation on abdominal region,topp,topp,1,ISA_TOPPisaTOPP
+C0020699,C0543467,ISA,Hysterectomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0020971,C0033144,ISA,Immunization,Primary Prevention,topp,topp,2,ISA_TOPPisaTOPP
+C0020971,C0199176,ISA,Immunization,Prophylactic treatment,topp,topp,13,ISA_TOPPisaTOPP
+C0020971,C0679698,ISA,Immunization,disease prevention,topp,topp,1,ISA_TOPPisaTOPP
+C0020972,C0020971,ISA,Immunization Schedule,Immunization,topp,topp,3,ISA_TOPPisaTOPP
+C0020974,C0020971,ISA,passive immunization procedure,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0020974,C0021083,ISA,passive immunization procedure,Immunotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0020974,C0199176,ISA,passive immunization procedure,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0020975,C0020971,ISA,Secondary Immunization,Immunization,topp,topp,3,ISA_TOPPisaTOPP
+C0021107,C0543467,ISA,Implantation procedure,Operative Surgical Procedures,topp,topp,12,ISA_TOPPisaTOPP
+C0021439,C0013216,ISA,Intra-Arterial Infusions,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0021485,C0013216,ISA,Injection of therapeutic agent,Pharmacotherapy,topp,topp,3,ISA_TOPPisaTOPP
+C0021485,C0574032,ISA,Injection of therapeutic agent,Infusion procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0021485,C1533734,ISA,Injection of therapeutic agent,Administration procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0021587,C0872104,ISA,Artificial Insemination,Assisted Reproductive Technologies,topp,topp,2,ISA_TOPPisaTOPP
+C0021587,C0949811,ISA,Artificial Insemination,"Reproductive Techniques, Assisted",topp,topp,1,ISA_TOPPisaTOPP
+C0021587,C1293116,ISA,Artificial Insemination,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0021778,C0344211,ISA,Intermittent Positive-Pressure Ventilation,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0021860,C0010216,ISA,Intra-Aortic Balloon Pumping,Counterpulsation,topp,topp,1,ISA_TOPPisaTOPP
+C0021925,C0021107,ISA,Intubation,Implantation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0021925,C0543467,ISA,Intubation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0021925,C1293116,ISA,Intubation,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0021932,C0150126,ISA,"Intubation, Intratracheal",Airway Management,topp,topp,1,ISA_TOPPisaTOPP
+C0021932,C0543467,ISA,"Intubation, Intratracheal",Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0022100,C0344211,ISA,Irrigation,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0022375,C0543467,ISA,Jejunoileal Bypass,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0022671,C0040732,ISA,Kidney Transplantation,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0022671,C0184898,ISA,Kidney Transplantation,Surgical incisions,topp,topp,1,ISA_TOPPisaTOPP
+C0022671,C0543467,ISA,Kidney Transplantation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0022671,C0730400,ISA,Kidney Transplantation,Solid organ transplant,topp,topp,1,ISA_TOPPisaTOPP
+C0023038,C0184898,ISA,Laparotomy,Surgical incisions,topp,topp,6,ISA_TOPPisaTOPP
+C0023038,C0543467,ISA,Laparotomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0023690,C0543467,ISA,Ligation,Operative Surgical Procedures,topp,topp,8,ISA_TOPPisaTOPP
+C0023911,C0040732,ISA,Transplantation of liver,Transplantation,topp,topp,4,ISA_TOPPisaTOPP
+C0023911,C0543467,ISA,Transplantation of liver,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0023928,C0015252,ISA,Lobectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0023928,C0543467,ISA,Lobectomy,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0024128,C0040732,ISA,Lung Transplantation,Transplantation,topp,topp,3,ISA_TOPPisaTOPP
+C0024128,C0543467,ISA,Lung Transplantation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0024203,C0015252,ISA,Lymph node excision,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0024203,C0543467,ISA,Lymph node excision,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0026652,C0199176,ISA,Moxibustion,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0026652,C0394664,ISA,Moxibustion,Acupuncture procedure,topp,topp,4,ISA_TOPPisaTOPP
+C0027056,C0543467,ISA,Myocardial Revascularization,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0027741,C0002911,ISA,Nerve Block,"Anesthesia, Conduction",topp,topp,1,ISA_TOPPisaTOPP
+C0029151,C0700589,ISA,Oral contraception,Contraceptive methods,topp,topp,3,ISA_TOPPisaTOPP
+C0029216,C0040732,ISA,Organ Transplantation,Transplantation,topp,topp,3,ISA_TOPPisaTOPP
+C0029216,C1293116,ISA,Organ Transplantation,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0029936,C0543467,ISA,Ovariectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0030303,C0543467,ISA,Pancreaticojejunostomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0030547,C0344211,ISA,Parenteral Nutrition,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0030693,C0344211,ISA,Patient Isolation,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0031006,C0543467,ISA,In situ perfusion,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0031042,C0543467,ISA,Pericardiectomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0031139,C0019004,ISA,Peritoneal Dialysis,Hemodialysis,topp,topp,2,ISA_TOPPisaTOPP
+C0031139,C0206074,ISA,Peritoneal Dialysis,Renal Replacement Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0031140,C0019004,ISA,"Peritoneal Dialysis, Continuous Ambulatory",Hemodialysis,topp,topp,1,ISA_TOPPisaTOPP
+C0031740,C0013216,ISA,Photochemotherapy,Pharmacotherapy,topp,topp,2,ISA_TOPPisaTOPP
+C0032113,C0344211,ISA,Plasma Exchange,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0032284,C0015252,ISA,Pneumonectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0032740,C0554804,ISA,Positive End-Expiratory Pressure,Assisted breathing,topp,topp,2,ISA_TOPPisaTOPP
+C0033971,C0033968,ISA,Group Psychotherapy,Psychotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0034172,C1522449,ISA,Psoralen Ultraviolet A Therapy,Therapeutic radiology procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0034386,C0199176,ISA,Quarantine,Prophylactic treatment,topp,topp,8,ISA_TOPPisaTOPP
+C0034386,C0204727,ISA,Quarantine,Isolation procedure,topp,topp,133,ISA_TOPPisaTOPP
+C0034386,C0543467,ISA,Quarantine,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0034542,C0543467,ISA,Radical Neck Dissection,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0035110,C0543467,ISA,Repeat Surgery,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0035139,C0543467,ISA,Surgical Replantation,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0035205,C0035273,ISA,"Respiration, Artificial",Resuscitation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0035273,C1298802,ISA,Resuscitation procedure,Emergency procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0038154,C1293029,ISA,Stapes Surgery,Procedure on middle ear,topp,topp,1,ISA_TOPPisaTOPP
+C0038288,C0199176,ISA,Sexual sterilization,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0038288,C0543467,ISA,Sexual sterilization,Operative Surgical Procedures,topp,topp,5,ISA_TOPPisaTOPP
+C0038288,C0700589,ISA,Sexual sterilization,Contraceptive methods,topp,topp,1,ISA_TOPPisaTOPP
+C0038904,C0543467,ISA,Minor Surgical Procedures,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0038913,C0543467,ISA,Urologic Surgical Procedures,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0039991,C0184898,ISA,Thoracotomy,Surgical incisions,topp,topp,3,ISA_TOPPisaTOPP
+C0039991,C0543467,ISA,Thoracotomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0040071,C0543467,ISA,Thymectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0040440,C0543467,ISA,Tooth Extraction,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0040507,C0015252,ISA,Total hepatectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0040508,C0543467,ISA,Total Hip Replacement (procedure),Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0040590,C0021107,ISA,Tracheostomy procedure,Implantation procedure,topp,topp,4,ISA_TOPPisaTOPP
+C0040590,C0543467,ISA,Tracheostomy procedure,Operative Surgical Procedures,topp,topp,4,ISA_TOPPisaTOPP
+C0040591,C0184898,ISA,Tracheotomy procedure,Surgical incisions,topp,topp,1,ISA_TOPPisaTOPP
+C0040591,C0543467,ISA,Tracheotomy procedure,Operative Surgical Procedures,topp,topp,9,ISA_TOPPisaTOPP
+C0040732,C0543467,ISA,Transplantation,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0040732,C1293116,ISA,Transplantation,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0040736,C0040732,ISA,"Transplantation, Autologous",Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0040739,C0029216,ISA,"Transplantation, Homologous",Organ Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0040739,C0040732,ISA,"Transplantation, Homologous",Transplantation,topp,topp,22,ISA_TOPPisaTOPP
+C0040771,C0543467,ISA,Transurethral Resection of Prostate,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0042020,C0543467,ISA,Urinary Diversion,Operative Surgical Procedures,topp,topp,4,ISA_TOPPisaTOPP
+C0042196,C0020971,ISA,Vaccination,Immunization,topp,topp,33,ISA_TOPPisaTOPP
+C0042196,C0021083,ISA,Vaccination,Immunotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0042196,C0033144,ISA,Vaccination,Primary Prevention,topp,topp,2,ISA_TOPPisaTOPP
+C0042196,C0079612,ISA,Vaccination,"Immunotherapy, Active",topp,topp,1,ISA_TOPPisaTOPP
+C0042196,C0199176,ISA,Vaccination,Prophylactic treatment,topp,topp,108,ISA_TOPPisaTOPP
+C0042196,C0205991,ISA,Vaccination,Administration of vaccine to produce active immunity,topp,topp,1,ISA_TOPPisaTOPP
+C0042196,C0543467,ISA,Vaccination,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0042196,C0679698,ISA,Vaccination,disease prevention,topp,topp,10,ISA_TOPPisaTOPP
+C0042196,C0808232,ISA,Vaccination,Therapeutic Intervention,topp,topp,1,ISA_TOPPisaTOPP
+C0042196,C0935606,ISA,Vaccination,therapeutic processes,topp,topp,1,ISA_TOPPisaTOPP
+C0042196,C1293116,ISA,Vaccination,Introduction procedure,topp,topp,10,ISA_TOPPisaTOPP
+C0042199,C0020971,ISA,Vaccination against cholera,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0042200,C0042196,ISA,Influenza vaccination,Vaccination,topp,topp,13,ISA_TOPPisaTOPP
+C0042200,C0199176,ISA,Influenza vaccination,Prophylactic treatment,topp,topp,10,ISA_TOPPisaTOPP
+C0042200,C0679698,ISA,Influenza vaccination,disease prevention,topp,topp,1,ISA_TOPPisaTOPP
+C0042200,C1293116,ISA,Influenza vaccination,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0042201,C0042196,ISA,Measles vaccination,Vaccination,topp,topp,2,ISA_TOPPisaTOPP
+C0042205,C0042196,ISA,Rabies vaccination,Vaccination,topp,topp,2,ISA_TOPPisaTOPP
+C0042209,C0020971,ISA,Vaccine Therapy,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0043162,C1522449,ISA,Whole-Body Irradiation,Therapeutic radiology procedure,topp,topp,2,ISA_TOPPisaTOPP
+C0052712,C0199176,ISA,doxorubicin/mitomycin/vinblastine protocol,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0052712,C1293116,ISA,doxorubicin/mitomycin/vinblastine protocol,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0065452,C0013216,ISA,M-VAC protocol,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0068899,C0543467,ISA,NOAC protocol,Operative Surgical Procedures,topp,topp,18,ISA_TOPPisaTOPP
+C0079613,C0020974,ISA,Adoptive Immunotherapy,passive immunization procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0079613,C0021083,ISA,Adoptive Immunotherapy,Immunotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0080232,C0040732,ISA,Tissue Transplantation,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0082139,C0013216,ISA,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0082139,C0947647,ISA,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Manipulation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0085198,C0543467,ISA,Esophagectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0085430,C0005841,ISA,Blood Component Transfusion,Blood Transfusion,topp,topp,1,ISA_TOPPisaTOPP
+C0085671,C0543467,ISA,Dressing change,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0086153,C0199176,ISA,Dietary Modification,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0086818,C0005841,ISA,Platelet Transfusion,Blood Transfusion,topp,topp,2,ISA_TOPPisaTOPP
+C0087123,C0184898,ISA,Tympanostomy,Surgical incisions,topp,topp,1,ISA_TOPPisaTOPP
+C0087123,C0349707,ISA,Tympanostomy,Aspiration-action,topp,topp,1,ISA_TOPPisaTOPP
+C0149615,C0005961,ISA,Allogeneic bone marrow transplantation,Bone Marrow Transplantation,topp,topp,2,ISA_TOPPisaTOPP
+C0149783,C0013216,ISA,Steroid therapy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0150238,C1293116,ISA,Fluid resuscitation,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0150421,C1298802,ISA,Heimlich Maneuver,Emergency procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0152060,C0543467,ISA,Transection (procedure),Operative Surgical Procedures,topp,topp,5,ISA_TOPPisaTOPP
+C0162352,C0033144,ISA,Allergen Immunotherapy,Primary Prevention,topp,topp,1,ISA_TOPPisaTOPP
+C0162575,C0543467,ISA,Embolectomy,Operative Surgical Procedures,topp,topp,5,ISA_TOPPisaTOPP
+C0162578,C0543467,ISA,Thrombectomy,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0162702,C0543467,ISA,Creation of ventriculo-peritoneal shunt,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0184633,C0344211,ISA,Oxygen Therapy Care,Supportive care,topp,topp,2,ISA_TOPPisaTOPP
+C0184898,C0543467,ISA,Surgical incisions,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0184918,C0543467,ISA,Radical excision,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0184967,C0021107,ISA,Insertion of pack (procedure),Implantation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0185010,C0543467,ISA,Closure by clip procedure,Operative Surgical Procedures,topp,topp,4,ISA_TOPPisaTOPP
+C0185026,C0543467,ISA,Plication,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0185033,C0543467,ISA,Diversion procedure,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0185047,C0543467,ISA,Stripping,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0185115,C0015252,ISA,Extraction,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0185115,C0185111,ISA,Extraction,Surgical Manipulation,topp,topp,1,ISA_TOPPisaTOPP
+C0185130,C0543467,ISA,Operation on musculoskeletal system,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0185298,C0543467,ISA,Bursectomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0185451,C0543467,ISA,Osteoclasis,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0189381,C0022100,ISA,Bronchial Lavage,Irrigation,topp,topp,1,ISA_TOPPisaTOPP
+C0189381,C0543467,ISA,Bronchial Lavage,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0189381,C1293116,ISA,Bronchial Lavage,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0189557,C0543467,ISA,Pleurodesis,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0189745,C0543467,ISA,Open heart surgery,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0192499,C0399651,ISA,Esophagogastric fundoplasty,Antireflux operation,topp,topp,1,ISA_TOPPisaTOPP
+C0192499,C0543467,ISA,Esophagogastric fundoplasty,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0192584,C0184898,ISA,Incision of duodenum,Surgical incisions,topp,topp,1,ISA_TOPPisaTOPP
+C0192871,C0543467,ISA,Total colectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0193441,C0184898,ISA,Incision of gallbladder (procedure),Surgical incisions,topp,topp,1,ISA_TOPPisaTOPP
+C0193735,C0543467,ISA,Complete excision of pineal gland,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0193959,C0543467,ISA,Tonsillectomy and adenoidectomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0194810,C0543467,ISA,Radical prostatectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0194825,C0015252,ISA,Radical retropubic prostatectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0194825,C0543467,ISA,Radical retropubic prostatectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0195309,C0020699,ISA,Uterine Myomectomy,Hysterectomy,topp,topp,1,ISA_TOPPisaTOPP
+C0195499,C0007344,ISA,Ovariohysterectomy,Castration,topp,topp,1,ISA_TOPPisaTOPP
+C0195499,C0543467,ISA,Ovariohysterectomy,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0196112,C0524865,ISA,Cranioplasty,Reconstructive Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0197409,C0015252,ISA,Keratectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0197409,C0197402,ISA,Keratectomy,corneal surgery,topp,topp,1,ISA_TOPPisaTOPP
+C0198497,C0013103,ISA,Abdominal paracentesis,Drainage procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0199451,C0554804,ISA,Continuous Positive Airway Pressure,Assisted breathing,topp,topp,1,ISA_TOPPisaTOPP
+C0199470,C0035273,ISA,Mechanical ventilation,Resuscitation procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0199470,C0150126,ISA,Mechanical ventilation,Airway Management,topp,topp,1,ISA_TOPPisaTOPP
+C0199470,C0344211,ISA,Mechanical ventilation,Supportive care,topp,topp,2,ISA_TOPPisaTOPP
+C0199470,C0808232,ISA,Mechanical ventilation,Therapeutic Intervention,topp,topp,1,ISA_TOPPisaTOPP
+C0199779,C0679624,ISA,Administration of antibiotic,medical treatment method,topp,topp,1,ISA_TOPPisaTOPP
+C0199798,C0020971,ISA,human vaccination,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0199798,C0199176,ISA,human vaccination,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0199809,C0020971,ISA,Poliomyelitis vaccination,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0199809,C1293116,ISA,Poliomyelitis vaccination,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0204700,C0553741,ISA,Fluid restriction,Fluid Management,topp,topp,1,ISA_TOPPisaTOPP
+C0204727,C0199176,ISA,Isolation procedure,Prophylactic treatment,topp,topp,13,ISA_TOPPisaTOPP
+C0204727,C0344211,ISA,Isolation procedure,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0204727,C0543467,ISA,Isolation procedure,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0204727,C0885890,ISA,Isolation procedure,Common interventions,topp,topp,1,ISA_TOPPisaTOPP
+C0204727,C1298802,ISA,Isolation procedure,Emergency procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0205991,C0020971,ISA,Administration of vaccine to produce active immunity,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0205991,C0199176,ISA,Administration of vaccine to produce active immunity,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0206058,C0543467,ISA,Elective Surgical Procedures,Operative Surgical Procedures,topp,topp,3,ISA_TOPPisaTOPP
+C0242297,C0199176,ISA,Dietary Supplementation,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0242348,C0020974,ISA,Serotherapy,passive immunization procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0242388,C0199176,ISA,Phytotherapy,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0242883,C0679771,ISA,Needle-Exchange Programs,Harm Reduction,topp,topp,1,ISA_TOPPisaTOPP
+C0262718,C0199176,ISA,Pelvic floor exercises,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0278321,C0543467,ISA,Bilateral oophorectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0279936,C0005527,ISA,tumor necrosis factor therapy,Biological Response Modifier Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0280274,C0344211,ISA,Antiviral Therapy,Supportive care,topp,topp,3,ISA_TOPPisaTOPP
+C0280661,C0021083,ISA,tumor infiltrating lymphocyte therapy,Immunotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0282077,C0199176,ISA,Qigong,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0282230,C0679674,ISA,Prayer Healing,Spiritual Therapies,topp,topp,1,ISA_TOPPisaTOPP
+C0282515,C0199176,ISA,Chemoprevention,Prophylactic treatment,topp,topp,3,ISA_TOPPisaTOPP
+C0282545,C0007389,ISA,Phacoemulsification,Cataract Extraction,topp,topp,1,ISA_TOPPisaTOPP
+C0282614,C0394664,ISA,Acupressure,Acupuncture procedure,topp,topp,2,ISA_TOPPisaTOPP
+C0282638,C0199176,ISA,Antibiotic Prophylaxis,Prophylactic treatment,topp,topp,2,ISA_TOPPisaTOPP
+C0302822,C0033968,ISA,Couples Therapy,Psychotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0337342,C0543467,ISA,Total decortication of lung,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0338237,C0013216,ISA,Antibiotic therapy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0338237,C0344211,ISA,Antibiotic therapy,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C0339897,C0813207,ISA,Transjugular intrahepatic portosystemic shunt procedure,Creation of shunt,topp,topp,1,ISA_TOPPisaTOPP
+C0348002,C0042020,ISA,Ileal conduit procedure,Urinary Diversion,topp,topp,2,ISA_TOPPisaTOPP
+C0371451,C0032284,ISA,Bilobectomy,Pneumonectomy,topp,topp,1,ISA_TOPPisaTOPP
+C0372525,C0003611,ISA,Laparoscopic appendectomy,Appendectomy,topp,topp,1,ISA_TOPPisaTOPP
+C0376450,C0013216,ISA,Transplantation Conditioning,Pharmacotherapy,topp,topp,7,ISA_TOPPisaTOPP
+C0376518,C1293116,ISA,Adoptive Transfer,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0391874,C0185115,ISA,Manual extraction,Extraction,topp,topp,2,ISA_TOPPisaTOPP
+C0392920,C0013216,ISA,Chemotherapy Regimen,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0393023,C0392920,ISA,cyclophosphamide/doxorubicin/prednisone/rituximab/vincristine,Chemotherapy Regimen,topp,topp,1,ISA_TOPPisaTOPP
+C0394162,C0013787,ISA,Deep Brain Stimulation,Electric Stimulation Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0394697,C0002921,ISA,Brachial Plexus Block,Local anesthesia,topp,topp,1,ISA_TOPPisaTOPP
+C0396254,C0189149,ISA,Uncinectomy,Ethmoid sinusectomy,topp,topp,1,ISA_TOPPisaTOPP
+C0396583,C0015252,ISA,Extrapleural pneumonectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0396584,C0015252,ISA,Pleuropneumonectomy,removal technique,topp,topp,1,ISA_TOPPisaTOPP
+C0396599,C0024128,ISA,Double lung transplant,Lung Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0396630,C0040590,ISA,Insertion of tracheostomy tube,Tracheostomy procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0396632,C0021925,ISA,Endobronchial intubation,Intubation,topp,topp,1,ISA_TOPPisaTOPP
+C0396670,C0031006,ISA,Isolated limb perfusion,In situ perfusion,topp,topp,1,ISA_TOPPisaTOPP
+C0396670,C0543467,ISA,Isolated limb perfusion,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0400447,C0040732,ISA,Orthotopic liver transplant,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C0412767,C0002903,ISA,Rapid sequence induction,Anesthesia procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0412784,C0543467,ISA,Analgesic technique,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0419707,C0020971,ISA,Pneumococcal vaccination,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C0419786,C0199176,ISA,Infection surveillance,Prophylactic treatment,topp,topp,2,ISA_TOPPisaTOPP
+C0436307,C0009429,ISA,Chemoradiotherapy,Combined Modality Therapy,topp,topp,2,ISA_TOPPisaTOPP
+C0436548,C0394162,ISA,Transcranial magnetic stimulation,Deep Brain Stimulation,topp,topp,1,ISA_TOPPisaTOPP
+C0439805,C0543467,ISA,Tumor Debulking,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0442944,C0543467,ISA,Incision of neck,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0451615,C0002766,ISA,Pain relief,Pain management,topp,topp,1,ISA_TOPPisaTOPP
+C0455164,C0872104,ISA,"Sperm Injections, Intracytoplasmic",Assisted Reproductive Technologies,topp,topp,3,ISA_TOPPisaTOPP
+C0456582,C0022100,ISA,Irrigation of nasal passages,Irrigation,topp,topp,1,ISA_TOPPisaTOPP
+C0472676,C1293116,ISA,Intermittent hemodialysis,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0472681,C0019004,ISA,Continuous venovenous hemodialysis,Hemodialysis,topp,topp,1,ISA_TOPPisaTOPP
+C0472684,C0206074,ISA,Continuous venovenous hemofiltration,Renal Replacement Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0472688,C3649547,ISA,Continuous venovenous hemodiafiltration,Continuous renal replacement therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0472699,C0040732,ISA,Hemopoietic stem cell transplant,Transplantation,topp,topp,7,ISA_TOPPisaTOPP
+C0472699,C0872278,ISA,Hemopoietic stem cell transplant,stem cell therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0472699,C1293116,ISA,Hemopoietic stem cell transplant,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0472699,C1504389,ISA,Hemopoietic stem cell transplant,Stem cell transplant,topp,topp,4,ISA_TOPPisaTOPP
+C0520483,C0543467,ISA,Tubal Ligation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0520484,C0015252,ISA,Xenograft procedure,removal technique,topp,topp,2,ISA_TOPPisaTOPP
+C0520484,C0040732,ISA,Xenograft procedure,Transplantation,topp,topp,7,ISA_TOPPisaTOPP
+C0521210,C0543467,ISA,Resection of polyp,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0542379,C0021925,ISA,Awake intubation,Intubation,topp,topp,1,ISA_TOPPisaTOPP
+C0542379,C0543467,ISA,Awake intubation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0542403,C0543467,ISA,Bilateral orchidopexy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0547070,C0543467,ISA,Ablation,Operative Surgical Procedures,topp,topp,17,ISA_TOPPisaTOPP
+C0553741,C0016286,ISA,Fluid Management,Fluid Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C0553741,C0574032,ISA,Fluid Management,Infusion procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0554804,C0344211,ISA,Assisted breathing,Supportive care,topp,topp,4,ISA_TOPPisaTOPP
+C0558347,C0543467,ISA,Surgical revision,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0585179,C1456587,ISA,Roux-en-Y gastrojejunostomy,Bariatric Surgery,topp,topp,4,ISA_TOPPisaTOPP
+C0597409,C0040732,ISA,retransplantation,Transplantation,topp,topp,2,ISA_TOPPisaTOPP
+C0600249,C0199176,ISA,"Immunotherapy, Passive",Prophylactic treatment,topp,topp,2,ISA_TOPPisaTOPP
+C0678054,C0013216,ISA,Electroporation Therapy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0678812,C0013216,ISA,systemic administration,Pharmacotherapy,topp,topp,3,ISA_TOPPisaTOPP
+C0679637,C0543467,ISA,major surgery,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0679771,C0199176,ISA,Harm Reduction,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0683468,C0543467,ISA,invasive treatment,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0700632,C0543467,ISA,Endodontic procedure,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0741847,C0543467,ISA,Bypass,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0751429,C0543467,ISA,"Surgical Procedures, Laparoscopic",Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0751551,C0543467,ISA,"Surgical Procedures, Thoracoscopic",Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0752094,C0543467,ISA,"Keratomileusis, Laser In Situ",Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0752151,C0543467,ISA,"Thoracic Surgery, Video-Assisted",Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0813207,C0543467,ISA,Creation of shunt,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C0814360,C0199176,ISA,targeted prevention,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0814435,C0199176,ISA,early identification,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C0842176,C0543467,ISA,Total Proctocolectomy,Operative Surgical Procedures,topp,topp,4,ISA_TOPPisaTOPP
+C0844334,C0543467,ISA,septoplasty,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C0870527,C0033968,ISA,Exposure Therapy,Psychotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0872104,C0035151,ISA,Assisted Reproductive Technologies,Reproductive Techniques,topp,topp,1,ISA_TOPPisaTOPP
+C0887947,C0009429,ISA,"Antiretroviral Therapy, Highly Active",Combined Modality Therapy,topp,topp,5,ISA_TOPPisaTOPP
+C0887947,C0013216,ISA,"Antiretroviral Therapy, Highly Active",Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C0887947,C1963724,ISA,"Antiretroviral Therapy, Highly Active",Antiretroviral therapy,topp,topp,3,ISA_TOPPisaTOPP
+C0917707,C0543467,ISA,Cannulation,Operative Surgical Procedures,topp,topp,4,ISA_TOPPisaTOPP
+C0917707,C1293116,ISA,Cannulation,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C0920118,C0349707,ISA,Transtracheal aspiration,Aspiration-action,topp,topp,1,ISA_TOPPisaTOPP
+C0920467,C0199176,ISA,disorder control (procedure),Prophylactic treatment,topp,topp,2,ISA_TOPPisaTOPP
+C1135563,C0011079,ISA,Maggot therapy,Debridement,topp,topp,2,ISA_TOPPisaTOPP
+C1135809,C0419178,ISA,Caloric Restriction,Dietary regime,topp,topp,1,ISA_TOPPisaTOPP
+C1135929,C0042196,ISA,Mass Vaccination,Vaccination,topp,topp,9,ISA_TOPPisaTOPP
+C1135929,C1293116,ISA,Mass Vaccination,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C1275602,C0013216,ISA,Radical orchiectomy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C1279739,C0543467,ISA,Tendon transplantation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1282959,C0543467,ISA,Median Sternotomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1285310,C0543467,ISA,Immune system incision,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1293108,C0543467,ISA,Lithotomy - procedure,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1443861,C0199176,ISA,Post-Exposure Prophylaxis,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C1443867,C0199176,ISA,Standard precautions,Prophylactic treatment,topp,topp,2,ISA_TOPPisaTOPP
+C1443867,C0204727,ISA,Standard precautions,Isolation procedure,topp,topp,10,ISA_TOPPisaTOPP
+C1443869,C0204727,ISA,Airborne precautions,Isolation procedure,topp,topp,26,ISA_TOPPisaTOPP
+C1443870,C0199176,ISA,Respiratory secretion precautions,Prophylactic treatment,topp,topp,2,ISA_TOPPisaTOPP
+C1443870,C0204727,ISA,Respiratory secretion precautions,Isolation procedure,topp,topp,16,ISA_TOPPisaTOPP
+C1443921,C0199176,ISA,Transmission-based precautions,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C1443921,C0204727,ISA,Transmission-based precautions,Isolation procedure,topp,topp,6,ISA_TOPPisaTOPP
+C1456587,C0543467,ISA,Bariatric Surgery,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1511496,C1517925,ISA,Continuous Chemotherapeutic Hyperthermic Peritoneal Perfusion,Local Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C1512034,C0013216,ISA,Donor Lymphocyte Infusion,Pharmacotherapy,topp,topp,2,ISA_TOPPisaTOPP
+C1512814,C0600521,ISA,"Radiotherapy, Intensity-Modulated","Radiotherapy, Conformal",topp,topp,1,ISA_TOPPisaTOPP
+C1515884,C0199176,ISA,Acupuncture and Oriental Medicine,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C1515884,C1456846,ISA,Acupuncture and Oriental Medicine,complementary and alternative therapy,topp,topp,1,ISA_TOPPisaTOPP
+C1571809,C0543467,ISA,Visceral manipulation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1659427,C1293116,ISA,Nebulization,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C1697762,C0020971,ISA,Booster Immunization - ActSubstanceAdministrationCode,Immunization,topp,topp,1,ISA_TOPPisaTOPP
+C1697762,C0199176,ISA,Booster Immunization - ActSubstanceAdministrationCode,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C1704535,C0199176,ISA,Passive Method,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C1704536,C0808232,ISA,Direct Method,Therapeutic Intervention,topp,topp,1,ISA_TOPPisaTOPP
+C1705576,C0040732,ISA,Allogeneic Hematopoietic Stem Cell Transplantation,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C1705576,C0472699,ISA,Allogeneic Hematopoietic Stem Cell Transplantation,Hemopoietic stem cell transplant,topp,topp,4,ISA_TOPPisaTOPP
+C1706406,C0543467,ISA,Debulking Procedure,Operative Surgical Procedures,topp,topp,19,ISA_TOPPisaTOPP
+C1710089,C0024128,ISA,Single Lung Transplantation,Lung Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C1710089,C0040732,ISA,Single Lung Transplantation,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C1880568,C0547070,ISA,Ethanol Ablation Therapy,Ablation,topp,topp,1,ISA_TOPPisaTOPP
+C1880658,C0013216,ISA,Folinic Acid-Fluorouracil-Irinotecan Regimen,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C1883256,C0013216,ISA,Systemic Chemotherapy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C1960816,C0543467,ISA,Laparoscopic sleeve gastrectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C1963724,C0013216,ISA,Antiretroviral therapy,Pharmacotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C1963724,C1293116,ISA,Antiretroviral therapy,Introduction procedure,topp,topp,1,ISA_TOPPisaTOPP
+C1997883,C0344211,ISA,Noninvasive Ventilation,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C1997883,C0885890,ISA,Noninvasive Ventilation,Common interventions,topp,topp,1,ISA_TOPPisaTOPP
+C1998344,C0040732,ISA,Transplantation of hepatocytes,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C2348331,C0040808,ISA,Dose Regimen,Treatment Protocols,topp,topp,1,ISA_TOPPisaTOPP
+C2349740,C0344211,ISA,Non-invasive mechanical ventilation,Supportive care,topp,topp,1,ISA_TOPPisaTOPP
+C2350432,C0013787,ISA,Vagus Nerve Stimulation,Electric Stimulation Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C2363923,C0543467,ISA,Metastasectomy,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C2607895,C0150133,ISA,Pet Therapy,Animal Assisted Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C2697304,C0543467,ISA,Excision of skin,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C2717788,C0033968,ISA,Equine-Assisted Psychotherapy,Psychotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C2825951,C0543467,ISA,Adjunctive Orthodontic Procedure,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C2936173,C0002996,ISA,Percutaneous Transluminal Coronary Angioplasty,"Angioplasty, Balloon",topp,topp,1,ISA_TOPPisaTOPP
+C2936173,C0543467,ISA,Percutaneous Transluminal Coronary Angioplasty,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C2936173,C2936667,ISA,Percutaneous Transluminal Coronary Angioplasty,Transluminal angioplasty,topp,topp,1,ISA_TOPPisaTOPP
+C2936372,C1167956,ISA,Atrio-Biventricular Pacing,Cardiac Resynchronization Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C2984589,C0543467,ISA,Transoral Laser Microsurgery,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C2986423,C0013216,ISA,Chemoimmunotherapy,Pharmacotherapy,topp,topp,2,ISA_TOPPisaTOPP
+C3178854,C0554804,ISA,Neurally Adjusted Ventilatory Assist,Assisted breathing,topp,topp,1,ISA_TOPPisaTOPP
+C3241973,C0543467,ISA,Pediatric Surgical Procedures,Operative Surgical Procedures,topp,topp,2,ISA_TOPPisaTOPP
+C3266817,C0349707,ISA,Tympanocentesis,Aspiration-action,topp,topp,1,ISA_TOPPisaTOPP
+C3649547,C0011946,ISA,Continuous renal replacement therapy,Dialysis procedure,topp,topp,1,ISA_TOPPisaTOPP
+C3658276,C0040732,ISA,Vascularized Composite Allotransplantation,Transplantation,topp,topp,1,ISA_TOPPisaTOPP
+C3658321,C0004933,ISA,Acceptance and Commitment Therapy,Behavior Therapy,topp,topp,1,ISA_TOPPisaTOPP
+C3658361,C0543467,ISA,Hand Transplantation,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C3658366,C0021083,ISA,Sublingual Immunotherapy,Immunotherapy,topp,topp,1,ISA_TOPPisaTOPP
+C3661918,C0199176,ISA,Pneumococcal conjugate vaccination,Prophylactic treatment,topp,topp,1,ISA_TOPPisaTOPP
+C3850079,C0543467,ISA,Cytoreductive Surgery,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C4049925,C1522449,ISA,Solar Simulated Light,Therapeutic radiology procedure,topp,topp,1,ISA_TOPPisaTOPP
+C4279925,C0524852,ISA,Total Joint Replacement,Orthopedic Procedures,topp,topp,1,ISA_TOPPisaTOPP
+C4279925,C0543467,ISA,Total Joint Replacement,Operative Surgical Procedures,topp,topp,1,ISA_TOPPisaTOPP

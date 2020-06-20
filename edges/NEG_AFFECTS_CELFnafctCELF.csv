@@ -1,0 +1,36 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0007620,NEG_AFFECTS,Autophagy,Cell Survival,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0004391,C0042774,NEG_AFFECTS,Autophagy,Virus Replication,celf,celf,6,NEG_AFFECTS_CELFnafctCELF
+C0004391,C2244223,NEG_AFFECTS,Autophagy,cellular homeostasis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007586,C0007620,NEG_AFFECTS,Cell Cycle,Cell Survival,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007587,C0042774,NEG_AFFECTS,Cell Death,Virus Replication,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007588,C0037083,NEG_AFFECTS,Cell Degranulation,Signal Transduction,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007590,C0007620,NEG_AFFECTS,Cell division,Cell Survival,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007590,C0162638,NEG_AFFECTS,Cell division,Apoptosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0010813,C0042774,NEG_AFFECTS,Cytokinesis,Virus Replication,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0014139,C0007605,NEG_AFFECTS,Endocytosis,Cell Membrane Permeability,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0015283,C1159339,NEG_AFFECTS,Exocytosis,Protein Secretion,celf,celf,3,NEG_AFFECTS_CELFnafctCELF
+C0037083,C1524026,NEG_AFFECTS,Signal Transduction,"Metabolic Process, Cellular",celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0042774,C0004391,NEG_AFFECTS,Virus Replication,Autophagy,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0042774,C0007587,NEG_AFFECTS,Virus Replication,Cell Death,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0042774,C0007620,NEG_AFFECTS,Virus Replication,Cell Survival,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0042774,C0597601,NEG_AFFECTS,Virus Replication,Transcytosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C0007613,NEG_AFFECTS,Apoptosis,Cell physiology,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C0037083,NEG_AFFECTS,Apoptosis,Signal Transduction,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C0162638,C0042774,NEG_AFFECTS,Apoptosis,Virus Replication,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C1155873,NEG_AFFECTS,Apoptosis,Cell Cycle Arrest,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C0162638,C1326205,NEG_AFFECTS,Apoptosis,Positive Regulation of Apoptosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C1512772,NEG_AFFECTS,Apoptosis,Negative Regulation of Apoptosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C1523935,NEG_AFFECTS,Apoptosis,cellular catabolic process,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C2754100,NEG_AFFECTS,Apoptosis,neuron death,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C3546359,NEG_AFFECTS,Apoptosis,pro-apoptosis,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C0206431,C2244223,NEG_AFFECTS,Antigen Presentation,cellular homeostasis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0301896,C1157569,NEG_AFFECTS,Cell-Mediated Cytolysis,viral translation,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C1155342,C0004391,NEG_AFFECTS,cellular response to unfolded protein,Autophagy,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C1155342,C0162638,NEG_AFFECTS,cellular response to unfolded protein,Apoptosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C1155873,C0007586,NEG_AFFECTS,Cell Cycle Arrest,Cell Cycle,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C1155876,C1155748,NEG_AFFECTS,DNA replication checkpoint,Mitotic Checkpoints,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C1317556,C0042774,NEG_AFFECTS,Natural killer cell function,Virus Replication,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C2610958,C0004391,NEG_AFFECTS,necroptotic process,Autophagy,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C3156642,C0014139,NEG_AFFECTS,clathrin-dependent endocytosis,Endocytosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C3546309,C1327414,NEG_AFFECTS,activation-induced cell death,cytokine secretion,celf,celf,1,NEG_AFFECTS_CELFnafctCELF

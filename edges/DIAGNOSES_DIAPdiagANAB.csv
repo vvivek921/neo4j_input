@@ -1,0 +1,70 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0002940,DIAGNOSES,angiogram,Aneurysm,diap,anab,3,DIAGNOSES_DIAPdiagANAB
+C0004398,C0002940,DIAGNOSES,Autopsy,Aneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0005558,C0032584,DIAGNOSES,Biopsy,polyps,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0005558,C0332482,DIAGNOSES,Biopsy,Abnormal shape,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0005558,C0333101,DIAGNOSES,Biopsy,Microaneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0006290,C1446783,DIAGNOSES,Bronchoscopy,rings tracheal,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0013516,C0002940,DIAGNOSES,Echocardiography,Aneurysm,diap,anab,3,DIAGNOSES_DIAPdiagANAB
+C0013516,C1285498,DIAGNOSES,Echocardiography,Vegetation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0014873,C0333262,DIAGNOSES,Esophagoscopy,Vesicle (morphologic abnormality),diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0024485,C0016169,DIAGNOSES,Magnetic Resonance Imaging,pathologic fistula,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0024485,C0019270,DIAGNOSES,Magnetic Resonance Imaging,Hernia,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0024485,C0241665,DIAGNOSES,Magnetic Resonance Imaging,Abnormal venous morphology,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0024485,C0302142,DIAGNOSES,Magnetic Resonance Imaging,Deformity,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0024485,C1510420,DIAGNOSES,Magnetic Resonance Imaging,Cavitation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0024485,C3686793,DIAGNOSES,Magnetic Resonance Imaging,Axon loss,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0034573,C0002940,DIAGNOSES,"Radiography, Abdominal",Aneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0034606,C0002940,DIAGNOSES,Radionuclide Imaging,Aneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0034606,C0012817,DIAGNOSES,Radionuclide Imaging,Diverticulum,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0034606,C0302142,DIAGNOSES,Radionuclide Imaging,Deformity,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0039985,C0020449,DIAGNOSES,Plain chest X-ray,Hyperdistention,diap,anab,6,DIAGNOSES_DIAPdiagANAB
+C0039985,C1265601,DIAGNOSES,Plain chest X-ray,Solitary mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0039985,C1510420,DIAGNOSES,Plain chest X-ray,Cavitation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040395,C0155676,DIAGNOSES,tomography,Pulmonary artery aneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040395,C0457193,DIAGNOSES,tomography,Soft tissue mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040405,C0032584,DIAGNOSES,X-Ray Computed Tomography,polyps,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040405,C0034884,DIAGNOSES,X-Ray Computed Tomography,Rectal Fistula,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040405,C1265602,DIAGNOSES,X-Ray Computed Tomography,Multiple masses,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040405,C1510420,DIAGNOSES,X-Ray Computed Tomography,Cavitation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040405,C4023706,DIAGNOSES,X-Ray Computed Tomography,Bronchomegaly,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0041618,C0037157,DIAGNOSES,Ultrasonography,Simple cyst,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0041618,C1265787,DIAGNOSES,Ultrasonography,Single cyst,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C0079304,C0302142,DIAGNOSES,Esophagogastroduodenoscopy,Deformity,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0079304,C1265602,DIAGNOSES,Esophagogastroduodenoscopy,Multiple masses,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0079595,C0019270,DIAGNOSES,Imaging Techniques,Hernia,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0079595,C0032584,DIAGNOSES,Imaging Techniques,polyps,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0079835,C0333262,DIAGNOSES,"Microscopy, Immunoelectron",Vesicle (morphologic abnormality),diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0085704,C1265602,DIAGNOSES,Exploratory laparotomy,Multiple masses,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0175759,C1265603,DIAGNOSES,Exploratory thoracotomy,Firm mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0185283,C0333262,DIAGNOSES,Muscle biopsy,Vesicle (morphologic abnormality),diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0189024,C0032584,DIAGNOSES,Endoscopy of nose,polyps,diap,anab,4,DIAGNOSES_DIAPdiagANAB
+C0202732,C0016169,DIAGNOSES,Radiography of nasal sinuses,pathologic fistula,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0206054,C1285498,DIAGNOSES,"Echocardiography, Transesophageal",Vegetation,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C0243032,C0155676,DIAGNOSES,Magnetic Resonance Angiography,Pulmonary artery aneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0243032,C0679403,DIAGNOSES,Magnetic Resonance Angiography,vascular stenosis,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0412675,C2673431,DIAGNOSES,MRI brain procedure,Abnormality of the periventricular white matter,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0430462,C1285498,DIAGNOSES,Transthoracic echocardiography,Vegetation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0431080,C0037157,DIAGNOSES,Diagnostic assessment,Simple cyst,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0438653,C0020449,DIAGNOSES,Portable X-ray,Hyperdistention,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C0580663,C0333372,DIAGNOSES,Tomography - chest,Abscess cavity,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0796373,C0005758,DIAGNOSES,videothoracoscopy,Bulla,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0809776,C0034089,DIAGNOSES,Cardiac echo study,Pulmonary Valve Stenosis,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1134631,C0877104,DIAGNOSES,annual screening,retinal toxicity,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1134632,C0020449,DIAGNOSES,breast imaging studies,Hyperdistention,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1301645,C0238441,DIAGNOSES,Rigid bronchoscopy,Subglottic stenosis,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1306645,C0002940,DIAGNOSES,Plain x-ray,Aneurysm,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C1306645,C0016169,DIAGNOSES,Plain x-ray,pathologic fistula,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1306645,C0020449,DIAGNOSES,Plain x-ray,Hyperdistention,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1384593,C1265603,DIAGNOSES,Digital Rectal Examination,Firm mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1536105,C0002940,DIAGNOSES,Computed Tomography Angiography,Aneurysm,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C1880637,C0002940,DIAGNOSES,Exploratory Surgery,Aneurysm,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1881134,C0457193,DIAGNOSES,Image Study,Soft tissue mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1964257,C0005758,DIAGNOSES,Observation - diagnostic procedure,Bulla,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1964257,C0016169,DIAGNOSES,Observation - diagnostic procedure,pathologic fistula,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C1964257,C0333262,DIAGNOSES,Observation - diagnostic procedure,Vesicle (morphologic abnormality),diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C3494220,C0009376,DIAGNOSES,Autofluorescence Imaging,Colonic Polyps,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C3842377,C0005758,DIAGNOSES,Chest radiograph,Bulla,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C3842377,C0020449,DIAGNOSES,Chest radiograph,Hyperdistention,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C3842377,C1510420,DIAGNOSES,Chest radiograph,Cavitation,diap,anab,2,DIAGNOSES_DIAPdiagANAB
+C3889414,C0009376,DIAGNOSES,Confocal Laser Endomicroscopy,Colonic Polyps,diap,anab,1,DIAGNOSES_DIAPdiagANAB

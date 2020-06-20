@@ -1,0 +1,102 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002422,C0019994,USES,Ambulances,Hospitals,medd,hcro,3,USES_MEDDusesHCRO
+C0002422,C0020008,USES,Ambulances,"Hospitals, General",medd,hcro,1,USES_MEDDusesHCRO
+C0005971,C0022877,USES,Bone plates,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0007963,C0019994,USES,Charts (device),Hospitals,medd,hcro,6,USES_MEDDusesHCRO
+C0007963,C0021708,USES,Charts (device),intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0009653,C0031322,USES,"Condoms, Male",Pharmacy facility,medd,hcro,1,USES_MEDDusesHCRO
+C0009653,C0442592,USES,"Condoms, Male",Clinic,medd,hcro,2,USES_MEDDusesHCRO
+C0013194,C0021708,USES,Drug Packaging,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0013194,C0022877,USES,Drug Packaging,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0013812,C0021708,USES,electrode,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0021102,C0019994,USES,Implants,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0021102,C0022877,USES,Implants,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0024861,C0011344,USES,Masks,Dental Clinics,medd,hcro,1,USES_MEDDusesHCRO
+C0024861,C0018704,USES,Masks,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0024861,C0019994,USES,Masks,Hospitals,medd,hcro,2,USES_MEDDusesHCRO
+C0024861,C0029064,USES,Masks,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0024861,C4034203,USES,Masks,Care setting,medd,hcro,1,USES_MEDDusesHCRO
+C0027524,C0022877,USES,Nebulizers,Laboratory,medd,hcro,7,USES_MEDDusesHCRO
+C0027551,C0031322,USES,Needle device,Pharmacy facility,medd,hcro,1,USES_MEDDusesHCRO
+C0038257,C0019994,USES,"Stent, device",Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0039818,C0019994,USES,"Thermometer, device",Hospitals,medd,hcro,8,USES_MEDDusesHCRO
+C0042497,C0019994,USES,Mechanical Ventilator,Hospitals,medd,hcro,4,USES_MEDDusesHCRO
+C0042497,C0021708,USES,Mechanical Ventilator,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0042497,C0565990,USES,Mechanical Ventilator,Medical center,medd,hcro,3,USES_MEDDusesHCRO
+C0085590,C0021708,USES,catheter device,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0085734,C0019994,USES,Absorbent Pads,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0087153,C0021708,USES,Ventilator - respiratory equipment,intensive care unit,medd,hcro,10,USES_MEDDusesHCRO
+C0087153,C0029064,USES,Ventilator - respiratory equipment,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0162589,C0021708,USES,Implantable defibrillator,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0175648,C0002424,USES,Mats,Ambulatory Care Facilities,medd,hcro,3,USES_MEDDusesHCRO
+C0175730,C0021708,USES,biomedical tube device,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0179038,C0022877,USES,"Analyzer, device",Laboratory,medd,hcro,7,USES_MEDDusesHCRO
+C0179245,C0022877,USES,water baths,Laboratory,medd,hcro,12,USES_MEDDusesHCRO
+C0179281,C0021708,USES,Pediatric bed,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0179630,C0019994,USES,Cartridge device,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0179797,C0021709,USES,"Catheters, Vascular, Umbilical","Intensive Care Units, Neonatal",medd,hcro,1,USES_MEDDusesHCRO
+C0179802,C0019994,USES,Urinary catheter,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0179802,C0021709,USES,Urinary catheter,"Intensive Care Units, Neonatal",medd,hcro,1,USES_MEDDusesHCRO
+C0179958,C0019994,USES,Cleaning Device,Hospitals,medd,hcro,6,USES_MEDDusesHCRO
+C0180153,C0019994,USES,Covers (device),Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0180279,C0022877,USES,automated flow cytometers,Laboratory,medd,hcro,2,USES_MEDDusesHCRO
+C0180859,C0022877,USES,filter papers,Laboratory,medd,hcro,2,USES_MEDDusesHCRO
+C0181001,C0019994,USES,Mouth gag,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0181064,C0018704,USES,Gown,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0181064,C0019994,USES,Gown,Hospitals,medd,hcro,4,USES_MEDDusesHCRO
+C0181064,C0022877,USES,Gown,Laboratory,medd,hcro,2,USES_MEDDusesHCRO
+C0181064,C0029064,USES,Gown,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0181064,C1305702,USES,Gown,Ward (environment),medd,hcro,1,USES_MEDDusesHCRO
+C0181200,C0022877,USES,homogenizers,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0181268,C0019994,USES,Identification bracelet,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0181758,C0029064,USES,Surgical face mask,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0181813,C0022877,USES,metabolic carts,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0181959,C0021708,USES,Aspiration needles,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0182258,C0022877,USES,Microplate Reader,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0182281,C0018704,USES,Picture Archiving and Communication Systems,Health care facility,medd,hcro,2,USES_MEDDusesHCRO
+C0182400,C0022877,USES,Probes,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0182557,C0002424,USES,"Punches, Biopsy (device)",Ambulatory Care Facilities,medd,hcro,1,USES_MEDDusesHCRO
+C0182953,C0019994,USES,Regulators (device),Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0183195,C0029064,USES,Scrub suit,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0183235,C0019994,USES,Bed sheets,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0183552,C0018704,USES,Steam sterilizer,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0183559,C0019994,USES,Stethoscopes,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0183644,C0019994,USES,Wheeled Stretchers,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0184301,C0002424,USES,Vial device,Ambulatory Care Facilities,medd,hcro,1,USES_MEDDusesHCRO
+C0336562,C0565990,USES,"Liver, Artificial",Medical center,medd,hcro,1,USES_MEDDusesHCRO
+C0336630,C0021709,USES,Endotracheal tube,"Intensive Care Units, Neonatal",medd,hcro,1,USES_MEDDusesHCRO
+C0348000,C0019994,USES,Instrument - device,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0348000,C0022877,USES,Instrument - device,Laboratory,medd,hcro,23,USES_MEDDusesHCRO
+C0348000,C0029064,USES,Instrument - device,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0348000,C0442592,USES,Instrument - device,Clinic,medd,hcro,1,USES_MEDDusesHCRO
+C0348000,C3242770,USES,Instrument - device,Medical Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0438857,C0021708,USES,Cardiac bed,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0441161,C0018704,USES,Rigid endoscope,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0441316,C0022877,USES,Support equipment,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C0581447,C0020028,USES,Arterial catheter,"Hospitals, University",medd,hcro,1,USES_MEDDusesHCRO
+C0596972,C0021708,USES,Monitoring Device,intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C0687607,C0019994,USES,"Thermometers, Electronic, Infrared, Ear",Hospitals,medd,hcro,4,USES_MEDDusesHCRO
+C0725865,C0019994,USES,disposable,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0872077,C0022877,USES,portable biomedical equipment,Laboratory,medd,hcro,2,USES_MEDDusesHCRO
+C0879140,C0019994,USES,Towelettes,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0879140,C4034203,USES,Towelettes,Care setting,medd,hcro,1,USES_MEDDusesHCRO
+C0879240,C0002424,USES,Nasal Swabs,Ambulatory Care Facilities,medd,hcro,1,USES_MEDDusesHCRO
+C0936234,C0019994,USES,Computed Tomography Scanning Systems,Hospitals,medd,hcro,4,USES_MEDDusesHCRO
+C0972401,C0018704,USES,Boards (medical device),Health care facility,medd,hcro,6,USES_MEDDusesHCRO
+C0972401,C0019994,USES,Boards (medical device),Hospitals,medd,hcro,6,USES_MEDDusesHCRO
+C1135597,C0022877,USES,Linen Protection Pads,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C1139730,C0019994,USES,monitoring systems,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C1140607,C0019994,USES,Commodes,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C1145640,C0021709,USES,"Central venous catheter, device","Intensive Care Units, Neonatal",medd,hcro,2,USES_MEDDusesHCRO
+C1314650,C0005770,USES,"SUPPLY, NOT OTHERWISE SPECIFIED",Blood Banks,medd,hcro,2,USES_MEDDusesHCRO
+C1328924,C0022877,USES,magnetic beads,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C1704776,C0019994,USES,Bag Device Component,Hospitals,medd,hcro,2,USES_MEDDusesHCRO
+C1706912,C0018704,USES,BARRIER,Health care facility,medd,hcro,11,USES_MEDDusesHCRO
+C1706912,C0019994,USES,BARRIER,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C1706912,C4034203,USES,BARRIER,Care setting,medd,hcro,1,USES_MEDDusesHCRO
+C1875815,C0031322,USES,SYRINGES/NEEDLES,Pharmacy facility,medd,hcro,1,USES_MEDDusesHCRO
+C2609570,C0022877,USES,ORGANIZER,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C2700619,C0002424,USES,Test Strip (device),Ambulatory Care Facilities,medd,hcro,1,USES_MEDDusesHCRO
+C2720748,C0019994,USES,Hoods,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C3179180,C0022877,USES,Fermentors,Laboratory,medd,hcro,1,USES_MEDDusesHCRO
+C3879358,C0019994,USES,Bariatric bed,Hospitals,medd,hcro,1,USES_MEDDusesHCRO

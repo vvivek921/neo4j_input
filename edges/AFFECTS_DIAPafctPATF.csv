@@ -1,0 +1,58 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0011304,AFFECTS,Autopsy,Demyelination,diap,patf,2,AFFECTS_DIAPafctPATF
+C0005558,C0011304,AFFECTS,Biopsy,Demyelination,diap,patf,1,AFFECTS_DIAPafctPATF
+C0005558,C0019080,AFFECTS,Biopsy,Hemorrhage,diap,patf,2,AFFECTS_DIAPafctPATF
+C0005558,C0020517,AFFECTS,Biopsy,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0005558,C0026846,AFFECTS,Biopsy,Muscular Atrophy,diap,patf,1,AFFECTS_DIAPafctPATF
+C0005558,C0332448,AFFECTS,Biopsy,Infiltration,diap,patf,1,AFFECTS_DIAPafctPATF
+C0005558,C1265831,AFFECTS,Biopsy,Interstitial inflammation,diap,patf,1,AFFECTS_DIAPafctPATF
+C0011906,C0010356,AFFECTS,Differential Diagnosis,Cross Infection,diap,patf,1,AFFECTS_DIAPafctPATF
+C0011906,C0013990,AFFECTS,Differential Diagnosis,Pathological accumulation of air in tissues,diap,patf,1,AFFECTS_DIAPafctPATF
+C0014245,C0333106,AFFECTS,Endoscopy (procedure),Bleeding varices,diap,patf,1,AFFECTS_DIAPafctPATF
+C0021044,C0020517,AFFECTS,Immunohistochemistry,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0021044,C1520005,AFFECTS,Immunohistochemistry,Viral Pathogenesis,diap,patf,1,AFFECTS_DIAPafctPATF
+C0024119,C0332448,AFFECTS,Pulmonary function tests,Infiltration,diap,patf,1,AFFECTS_DIAPafctPATF
+C0024485,C0242656,AFFECTS,Magnetic Resonance Imaging,Disease Progression,diap,patf,1,AFFECTS_DIAPafctPATF
+C0030247,C0007642,AFFECTS,Palpation,Cellulitis,diap,patf,1,AFFECTS_DIAPafctPATF
+C0033367,C0036974,AFFECTS,Projective Techniques,Shock,diap,patf,1,AFFECTS_DIAPafctPATF
+C0039985,C0020517,AFFECTS,Plain chest X-ray,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0039985,C0332448,AFFECTS,Plain chest X-ray,Infiltration,diap,patf,1,AFFECTS_DIAPafctPATF
+C0040395,C0035229,AFFECTS,tomography,Respiratory Insufficiency,diap,patf,1,AFFECTS_DIAPafctPATF
+C0086143,C3714514,AFFECTS,Diagnostic tests,Infection,diap,patf,2,AFFECTS_DIAPafctPATF
+C0190979,C0019080,AFFECTS,Venous blood sampling,Hemorrhage,diap,patf,1,AFFECTS_DIAPafctPATF
+C0193606,C0032787,AFFECTS,Biopsy of pancreas,Postoperative Complications,diap,patf,1,AFFECTS_DIAPafctPATF
+C0199236,C0020517,AFFECTS,family investigation,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0202823,C0242656,AFFECTS,Chest CT,Disease Progression,diap,patf,1,AFFECTS_DIAPafctPATF
+C0203634,C0020517,AFFECTS,Nuclear medicine procedure,Hypersensitivity,diap,patf,2,AFFECTS_DIAPafctPATF
+C0203634,C0028778,AFFECTS,Nuclear medicine procedure,Obstruction,diap,patf,1,AFFECTS_DIAPafctPATF
+C0203779,C0020517,AFFECTS,Radionuclide thyroid imaging study,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0332140,C0028778,AFFECTS,"Diagnosis, clinical",Obstruction,diap,patf,1,AFFECTS_DIAPafctPATF
+C0332140,C4061114,AFFECTS,"Diagnosis, clinical",Acute illness,diap,patf,1,AFFECTS_DIAPafctPATF
+C0430022,C1520005,AFFECTS,diagnostic procedure,Viral Pathogenesis,diap,patf,1,AFFECTS_DIAPafctPATF
+C0596473,C0020517,AFFECTS,Early Diagnosis,Hypersensitivity,diap,patf,2,AFFECTS_DIAPafctPATF
+C0596473,C0242781,AFFECTS,Early Diagnosis,disease transmission,diap,patf,1,AFFECTS_DIAPafctPATF
+C0596473,C0877042,AFFECTS,Early Diagnosis,graft loss,diap,patf,1,AFFECTS_DIAPafctPATF
+C0596473,C3714514,AFFECTS,Early Diagnosis,Infection,diap,patf,2,AFFECTS_DIAPafctPATF
+C0598801,C0020517,AFFECTS,Diffusion weighted imaging,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0683454,C0003130,AFFECTS,internal-external locus of control scale,Anoxia,diap,patf,1,AFFECTS_DIAPafctPATF
+C0683454,C0020517,AFFECTS,internal-external locus of control scale,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0683454,C0035304,AFFECTS,internal-external locus of control scale,Retinal Degeneration,diap,patf,1,AFFECTS_DIAPafctPATF
+C0683454,C3714514,AFFECTS,internal-external locus of control scale,Infection,diap,patf,1,AFFECTS_DIAPafctPATF
+C0813145,C1520005,AFFECTS,Genetic Screening (procedure),Viral Pathogenesis,diap,patf,1,AFFECTS_DIAPafctPATF
+C0849974,C0020517,AFFECTS,Pulmonary Function Test/Forced Expiratory Volume 1,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C0871060,C0333172,AFFECTS,performance tests,Membranous obstruction,diap,patf,1,AFFECTS_DIAPafctPATF
+C0871813,C0029445,AFFECTS,medical diagnosis,Bone necrosis,diap,patf,1,AFFECTS_DIAPafctPATF
+C1167856,C0020517,AFFECTS,blood smear test,Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C1548752,C0020517,AFFECTS,"Transport Media,",Hypersensitivity,diap,patf,1,AFFECTS_DIAPafctPATF
+C1831759,C0011304,AFFECTS,pharmacological studies,Demyelination,diap,patf,1,AFFECTS_DIAPafctPATF
+C1831759,C0334094,AFFECTS,pharmacological studies,Proliferation (morphologic abnormality),diap,patf,1,AFFECTS_DIAPafctPATF
+C1882082,C3714514,AFFECTS,New Diagnosis Procedure,Infection,diap,patf,1,AFFECTS_DIAPafctPATF
+C1964257,C0011304,AFFECTS,Observation - diagnostic procedure,Demyelination,diap,patf,1,AFFECTS_DIAPafctPATF
+C1964257,C0022876,AFFECTS,Observation - diagnostic procedure,Premature Obstetric Labor,diap,patf,1,AFFECTS_DIAPafctPATF
+C1964257,C0027686,AFFECTS,Observation - diagnostic procedure,Pathologic Neovascularization,diap,patf,1,AFFECTS_DIAPafctPATF
+C1964257,C0333467,AFFECTS,Observation - diagnostic procedure,Cytopathic effect,diap,patf,1,AFFECTS_DIAPafctPATF
+C1964257,C0333957,AFFECTS,Observation - diagnostic procedure,Growth acceleration,diap,patf,1,AFFECTS_DIAPafctPATF
+C1964257,C3714514,AFFECTS,Observation - diagnostic procedure,Infection,diap,patf,1,AFFECTS_DIAPafctPATF
+C2348813,C0026846,AFFECTS,Transabdominal Ultrasound,Muscular Atrophy,diap,patf,1,AFFECTS_DIAPafctPATF
+C4071827,C0019080,AFFECTS,Angio,Hemorrhage,diap,patf,1,AFFECTS_DIAPafctPATF
+C4083126,C0521464,AFFECTS,Maximal Inspiratory Pressure Test,Edematous skin,diap,patf,1,AFFECTS_DIAPafctPATF

@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005516,C0006826,PREDISPOSES,Biological Markers,Malignant Neoplasms,clna,neop,2,PREDISPOSES_CLNApredNEOP
+C0005516,C0521158,PREDISPOSES,Biological Markers,Recurrent tumor,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C0005516,C1882062,PREDISPOSES,Biological Markers,Neoplastic disease,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C0012655,C0006826,PREDISPOSES,Disease susceptibility,Malignant Neoplasms,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C0032930,C0220630,PREDISPOSES,Precipitating Factors,Adult Liver Carcinoma,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C0946292,C0677932,PREDISPOSES,polarization,Progressive Neoplastic Disease,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C1148083,C0206695,PREDISPOSES,Maternal risk factors:Type:Point in time:^Patient:Nominal:Stated,"Carcinoma, Neuroendocrine",clna,neop,1,PREDISPOSES_CLNApredNEOP
+C1286282,C0016057,PREDISPOSES,Birth outcome,Fibrosarcoma,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C1286282,C0018923,PREDISPOSES,Birth outcome,Hemangiosarcoma,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C1511876,C0153381,PREDISPOSES,Diagnostic Factor,Malignant neoplasm of mouth,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2735347,C0206695,PREDISPOSES,Prenatal events:Finding:Point in time:^Patient:Narrative,"Carcinoma, Neuroendocrine",clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2926606,C0006826,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Malignant Neoplasms,clna,neop,2,PREDISPOSES_CLNApredNEOP
+C2926606,C0007621,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Neoplastic Cell Transformation,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2926606,C0023418,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,leukemia,clna,neop,2,PREDISPOSES_CLNApredNEOP
+C2926606,C0027671,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Neoplastic Processes,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2926606,C0153381,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Malignant neoplasm of mouth,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2926606,C0677932,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Progressive Neoplastic Disease,clna,neop,1,PREDISPOSES_CLNApredNEOP

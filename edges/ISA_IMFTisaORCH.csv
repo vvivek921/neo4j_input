@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003392,ISA,Immunologic Adjuvants,Antineoplastic Agents,imft,orch,1,ISA_IMFTisaORCH
+C0005525,C0003392,ISA,Biological Response Modifiers,Antineoplastic Agents,imft,orch,1,ISA_IMFTisaORCH
+C0023767,C0023779,ISA,Lipid A,Lipids,imft,orch,1,ISA_IMFTisaORCH
+C0023767,C0023810,ISA,Lipid A,Lipopolysaccharides,imft,orch,3,ISA_IMFTisaORCH
+C0023767,C0032594,ISA,Lipid A,Polysaccharides,imft,orch,1,ISA_IMFTisaORCH
+C0032172,C0023779,ISA,Platelet Activating Factor,Lipids,imft,orch,1,ISA_IMFTisaORCH
+C0032595,C0032594,ISA,"Polysaccharides, Bacterial",Polysaccharides,imft,orch,1,ISA_IMFTisaORCH
+C0062086,C0032594,ISA,Haemophilus influenzae type b polysaccharide vaccine,Polysaccharides,imft,orch,1,ISA_IMFTisaORCH
+C0069180,C0007004,ISA,O Antigens,Carbohydrates,imft,orch,1,ISA_IMFTisaORCH
+C0069180,C0023810,ISA,O Antigens,Lipopolysaccharides,imft,orch,11,ISA_IMFTisaORCH
+C0069180,C0032594,ISA,O Antigens,Polysaccharides,imft,orch,6,ISA_IMFTisaORCH
+C0080188,C0007004,ISA,"Antigens, CD15",Carbohydrates,imft,orch,1,ISA_IMFTisaORCH
+C0383881,C0017978,ISA,CDw17 antigen,Glycosphingolipids,imft,orch,1,ISA_IMFTisaORCH
+C1962943,C0032594,ISA,krestin,Polysaccharides,imft,orch,2,ISA_IMFTisaORCH
+C3192355,C3247294,ISA,Adcetris,BRENTUXIMAB,imft,orch,1,ISA_IMFTisaORCH

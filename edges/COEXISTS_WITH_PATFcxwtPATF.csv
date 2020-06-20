@@ -1,0 +1,587 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000786,C0878751,COEXISTS_WITH,Spontaneous abortion,late pregnancy,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0001122,C0036981,COEXISTS_WITH,Acidosis,Endotoxic shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0001349,C0021368,COEXISTS_WITH,Acute-Phase Reaction,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0001349,C1155266,COEXISTS_WITH,Acute-Phase Reaction,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0001349,C3714514,COEXISTS_WITH,Acute-Phase Reaction,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0001511,C0021308,COEXISTS_WITH,Tissue Adhesions,Infarction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0001511,C0021368,COEXISTS_WITH,Tissue Adhesions,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0001511,C0036679,COEXISTS_WITH,Tissue Adhesions,Diastasis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0001511,C0920779,COEXISTS_WITH,Tissue Adhesions,Cancer invasiveness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0001511,C1155266,COEXISTS_WITH,Tissue Adhesions,inflammatory response,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0001511,C1563937,COEXISTS_WITH,Tissue Adhesions,Atherogenesis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0002064,C0220981,COEXISTS_WITH,"Alkalosis, Respiratory",Metabolic acidosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C0001122,COEXISTS_WITH,Anoxia,Acidosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C0019080,COEXISTS_WITH,Anoxia,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C0022116,COEXISTS_WITH,Anoxia,Ischemia,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C0038536,COEXISTS_WITH,Anoxia,Subcutaneous Emphysema,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C0220981,COEXISTS_WITH,Anoxia,Metabolic acidosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C0333563,COEXISTS_WITH,Anoxia,Hyaline membrane,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C1383860,COEXISTS_WITH,Anoxia,Cardiac Hypertrophy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0003130,C3714514,COEXISTS_WITH,Anoxia,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0003860,C4061114,COEXISTS_WITH,Arteritis,Acute illness,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0004044,C0001122,COEXISTS_WITH,Asphyxia,Acidosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0004044,C0003130,COEXISTS_WITH,Asphyxia,Anoxia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0004044,C0220981,COEXISTS_WITH,Asphyxia,Metabolic acidosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0004144,C0021376,COEXISTS_WITH,Atelectasis,Chronic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0004144,C0332448,COEXISTS_WITH,Atelectasis,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0004372,C0021368,COEXISTS_WITH,Autolysis,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0006663,C0018188,COEXISTS_WITH,Calcinosis,Granuloma,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0007642,C3714514,COEXISTS_WITH,Cellulitis,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0008495,C0021368,COEXISTS_WITH,Chorioamnionitis,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0008767,C0029396,COEXISTS_WITH,Cicatrization,Heterotopic Ossification,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0008767,C0333641,COEXISTS_WITH,Cicatrization,Atrophic,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0008767,C0543419,COEXISTS_WITH,Cicatrization,Sequela of disorder,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0008767,C3714514,COEXISTS_WITH,Cicatrization,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0010356,C3714514,COEXISTS_WITH,Cross Infection,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011071,C0151654,COEXISTS_WITH,Sudden death,Myocardial fibrosis,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0011071,C2004491,COEXISTS_WITH,Sudden death,Cicatrix,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011071,C3714514,COEXISTS_WITH,Sudden death,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011164,C0020517,COEXISTS_WITH,Abnormal degeneration,Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011164,C1265885,COEXISTS_WITH,Abnormal degeneration,Diffuse calcium deposition,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011164,C3714514,COEXISTS_WITH,Abnormal degeneration,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C0021368,COEXISTS_WITH,Demyelination,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C0030660,COEXISTS_WITH,Demyelination,Pathologic Processes,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C0302158,COEXISTS_WITH,Demyelination,Leucocytic infiltrate,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C0332448,COEXISTS_WITH,Demyelination,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C0333462,COEXISTS_WITH,Demyelination,Spongy degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C1155266,COEXISTS_WITH,Demyelination,inflammatory response,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0011304,C3714514,COEXISTS_WITH,Demyelination,Infection,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0012359,C0028778,COEXISTS_WITH,Pathological Dilatation,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0012359,C0034194,COEXISTS_WITH,Pathological Dilatation,Pyloric Stenosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0012359,C0036974,COEXISTS_WITH,Pathological Dilatation,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013491,C4061114,COEXISTS_WITH,Ecchymosis,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013687,C0016059,COEXISTS_WITH,effusion,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013687,C0332448,COEXISTS_WITH,effusion,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013687,C0456973,COEXISTS_WITH,effusion,Hilar lymphadenopathy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013990,C0004366,COEXISTS_WITH,Pathological accumulation of air in tissues,Autoimmune Response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013990,C0016059,COEXISTS_WITH,Pathological accumulation of air in tissues,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013990,C0020564,COEXISTS_WITH,Pathological accumulation of air in tissues,Hypertrophy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013990,C0028778,COEXISTS_WITH,Pathological accumulation of air in tissues,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0013990,C2717792,COEXISTS_WITH,Pathological accumulation of air in tissues,Airway Remodeling,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0014591,C0017181,COEXISTS_WITH,Epistaxis,Gastrointestinal Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0014591,C0162633,COEXISTS_WITH,Epistaxis,Viral Shedding,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0003130,COEXISTS_WITH,Extravasation,Anoxia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0020517,COEXISTS_WITH,Extravasation,Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0021368,COEXISTS_WITH,Extravasation,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0030660,COEXISTS_WITH,Extravasation,Pathologic Processes,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0036974,COEXISTS_WITH,Extravasation,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0036983,COEXISTS_WITH,Extravasation,Septic Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0151799,COEXISTS_WITH,Extravasation,Skin necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0235395,COEXISTS_WITH,Extravasation,Fluid loss,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0242656,COEXISTS_WITH,Extravasation,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0333288,COEXISTS_WITH,Extravasation,Dissecting hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C0700148,COEXISTS_WITH,Extravasation,Congestion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015376,C3241936,COEXISTS_WITH,Extravasation,Non-cardiogenic pulmonary edema,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015927,C0022876,COEXISTS_WITH,Fetal Death,Premature Obstetric Labor,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015927,C3714514,COEXISTS_WITH,Fetal Death,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0015934,C3714514,COEXISTS_WITH,Fetal Growth Retardation,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0003860,COEXISTS_WITH,Fibrosis,Arteritis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0011164,COEXISTS_WITH,Fibrosis,Abnormal degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0018188,COEXISTS_WITH,Fibrosis,Granuloma,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0020542,COEXISTS_WITH,Fibrosis,Pulmonary Hypertension,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0021368,COEXISTS_WITH,Fibrosis,Inflammation,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0242656,COEXISTS_WITH,Fibrosis,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0333641,COEXISTS_WITH,Fibrosis,Atrophic,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0334094,COEXISTS_WITH,Fibrosis,Proliferation (morphologic abnormality),patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C0919924,COEXISTS_WITH,Fibrosis,pulmonary toxicity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0016059,C3714514,COEXISTS_WITH,Fibrosis,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0017181,C0036983,COEXISTS_WITH,Gastrointestinal Hemorrhage,Septic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0017565,C0014591,COEXISTS_WITH,Gingival Hemorrhage,Epistaxis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0017565,C0019080,COEXISTS_WITH,Gingival Hemorrhage,Hemorrhage,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0017639,C0006119,COEXISTS_WITH,Gliosis,Brain Pathology,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0017639,C0011304,COEXISTS_WITH,Gliosis,Demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0017639,C0332448,COEXISTS_WITH,Gliosis,Infiltration,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0018188,C0013687,COEXISTS_WITH,Granuloma,effusion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0018188,C0021368,COEXISTS_WITH,Granuloma,Inflammation,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0018188,C0333387,COEXISTS_WITH,Granuloma,Lymphoreticular cell infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0018944,C0019080,COEXISTS_WITH,Hematoma,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0018944,C0240059,COEXISTS_WITH,Hematoma,Ventricular hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0015376,COEXISTS_WITH,Hemorrhage,Extravasation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0020683,COEXISTS_WITH,Hemorrhage,Hypovolemic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0021368,COEXISTS_WITH,Hemorrhage,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0028778,COEXISTS_WITH,Hemorrhage,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0036974,COEXISTS_WITH,Hemorrhage,Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0079027,COEXISTS_WITH,Hemorrhage,"Blood Loss, Surgical",patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0087086,COEXISTS_WITH,Hemorrhage,Thrombus,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0242656,COEXISTS_WITH,Hemorrhage,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0332448,COEXISTS_WITH,Hemorrhage,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0333197,COEXISTS_WITH,Hemorrhage,Fibrin blood clot,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0333563,COEXISTS_WITH,Hemorrhage,Hyaline membrane,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C0544688,COEXISTS_WITH,Hemorrhage,complication of disease,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C1261287,COEXISTS_WITH,Hemorrhage,Stenosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C1522058,COEXISTS_WITH,Hemorrhage,Coagulative necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0019080,C3714514,COEXISTS_WITH,Hemorrhage,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020507,C0021368,COEXISTS_WITH,Hyperplasia,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020507,C0040053,COEXISTS_WITH,Hyperplasia,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020507,C0332448,COEXISTS_WITH,Hyperplasia,Infiltration,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0020507,C0333186,COEXISTS_WITH,Hyperplasia,Restenosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020507,C1373218,COEXISTS_WITH,Hyperplasia,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020507,C3686534,COEXISTS_WITH,Hyperplasia,Perivascular cuffing,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0013687,COEXISTS_WITH,Hypersensitivity,effusion,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0020523,COEXISTS_WITH,Hypersensitivity,Immediate hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0021368,COEXISTS_WITH,Hypersensitivity,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0021376,COEXISTS_WITH,Hypersensitivity,Chronic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0036974,COEXISTS_WITH,Hypersensitivity,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0036983,COEXISTS_WITH,Hypersensitivity,Septic Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0242656,COEXISTS_WITH,Hypersensitivity,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0333467,COEXISTS_WITH,Hypersensitivity,Cytopathic effect,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C0920747,COEXISTS_WITH,Hypersensitivity,renin hypertension,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C1373218,COEXISTS_WITH,Hypersensitivity,Decreased Immunologic Activity [PE],patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C1817978,COEXISTS_WITH,Hypersensitivity,acute inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020517,C3714514,COEXISTS_WITH,Hypersensitivity,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020522,C0020523,COEXISTS_WITH,Delayed Hypersensitivity,Immediate hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020522,C0392707,COEXISTS_WITH,Delayed Hypersensitivity,Atopy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0011304,COEXISTS_WITH,Hypertrophy,Demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0013990,COEXISTS_WITH,Hypertrophy,Pathological accumulation of air in tissues,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0020507,COEXISTS_WITH,Hypertrophy,Hyperplasia,patf,patf,6,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0021368,COEXISTS_WITH,Hypertrophy,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0036974,COEXISTS_WITH,Hypertrophy,Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0332448,COEXISTS_WITH,Hypertrophy,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0333358,COEXISTS_WITH,Hypertrophy,Hemorrhagic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C0700148,COEXISTS_WITH,Hypertrophy,Congestion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020564,C1265932,COEXISTS_WITH,Hypertrophy,Focal hyperplasia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0020963,C1155266,COEXISTS_WITH,Immune Tolerance,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021308,C0011071,COEXISTS_WITH,Infarction,Sudden death,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021308,C0332448,COEXISTS_WITH,Infarction,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021359,C0021368,COEXISTS_WITH,Infertility,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021359,C0745283,COEXISTS_WITH,Infertility,INFECTIOUS PROCESS,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021359,C3714514,COEXISTS_WITH,Infertility,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0003130,COEXISTS_WITH,Inflammation,Anoxia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0006663,COEXISTS_WITH,Inflammation,Calcinosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0008495,COEXISTS_WITH,Inflammation,Chorioamnionitis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0011164,COEXISTS_WITH,Inflammation,Abnormal degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0011304,COEXISTS_WITH,Inflammation,Demyelination,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0013687,COEXISTS_WITH,Inflammation,effusion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0016059,COEXISTS_WITH,Inflammation,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0019080,COEXISTS_WITH,Inflammation,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0020522,COEXISTS_WITH,Inflammation,Delayed Hypersensitivity,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0021308,COEXISTS_WITH,Inflammation,Infarction,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0021359,COEXISTS_WITH,Inflammation,Infertility,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0022876,COEXISTS_WITH,Inflammation,Premature Obstetric Labor,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0024348,COEXISTS_WITH,Inflammation,Lysis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0028778,COEXISTS_WITH,Inflammation,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0030660,COEXISTS_WITH,Inflammation,Pathologic Processes,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0035228,COEXISTS_WITH,Inflammation,Respiratory Hypersensitivity,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0036749,COEXISTS_WITH,Inflammation,Serositis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0036981,COEXISTS_WITH,Inflammation,Endotoxic shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0036983,COEXISTS_WITH,Inflammation,Septic Shock,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0043241,COEXISTS_WITH,Inflammation,Wound Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0151654,COEXISTS_WITH,Inflammation,Myocardial fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0152254,COEXISTS_WITH,Inflammation,Fatty degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0206277,COEXISTS_WITH,Inflammation,Fatal Outcome,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0243083,COEXISTS_WITH,Inflammation,associated disease,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0332448,COEXISTS_WITH,Inflammation,Infiltration,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0333276,COEXISTS_WITH,Inflammation,Acute hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0333288,COEXISTS_WITH,Inflammation,Dissecting hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0392707,COEXISTS_WITH,Inflammation,Atopy,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0443146,COEXISTS_WITH,Inflammation,Autoimmune reaction,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0745283,COEXISTS_WITH,Inflammation,INFECTIOUS PROCESS,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C0919924,COEXISTS_WITH,Inflammation,pulmonary toxicity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C1155266,COEXISTS_WITH,Inflammation,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C1265824,COEXISTS_WITH,Inflammation,Persistent inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C1336083,COEXISTS_WITH,Inflammation,Squamous Hyperplasia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C1527304,COEXISTS_WITH,Inflammation,Allergic Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C1563937,COEXISTS_WITH,Inflammation,Atherogenesis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C2936381,COEXISTS_WITH,Inflammation,Neointima Formation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C3658208,COEXISTS_WITH,Inflammation,Dysbiosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C3714514,COEXISTS_WITH,Inflammation,Infection,patf,patf,14,COEXISTS_WITH_PATFcxwtPATF
+C0021368,C4290181,COEXISTS_WITH,Inflammation,thrombotic occlusion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021375,C0020517,COEXISTS_WITH,allergic inflammation,Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C0007642,COEXISTS_WITH,Chronic inflammation,Cellulitis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C0016059,COEXISTS_WITH,Chronic inflammation,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C0021368,COEXISTS_WITH,Chronic inflammation,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C0021655,COEXISTS_WITH,Chronic inflammation,Insulin Resistance,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C0242698,COEXISTS_WITH,Chronic inflammation,"Ventricular Dysfunction, Left",patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C0332448,COEXISTS_WITH,Chronic inflammation,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C1155266,COEXISTS_WITH,Chronic inflammation,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C3658208,COEXISTS_WITH,Chronic inflammation,Dysbiosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0021376,C3714514,COEXISTS_WITH,Chronic inflammation,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021655,C0021376,COEXISTS_WITH,Insulin Resistance,Chronic inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021655,C0679330,COEXISTS_WITH,Insulin Resistance,abnormal secretion,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0021655,C1817997,COEXISTS_WITH,Insulin Resistance,chronic inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C0016059,COEXISTS_WITH,Ischemia,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C0021368,COEXISTS_WITH,Ischemia,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C0026766,COEXISTS_WITH,Ischemia,Multiple Organ Failure,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C0036974,COEXISTS_WITH,Ischemia,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C0333536,COEXISTS_WITH,Ischemia,Dry gangrene,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C1261287,COEXISTS_WITH,Ischemia,Stenosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022116,C1832055,COEXISTS_WITH,Ischemia,hepatic complications,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022876,C0008495,COEXISTS_WITH,Premature Obstetric Labor,Chorioamnionitis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022876,C0020224,COEXISTS_WITH,Premature Obstetric Labor,Polyhydramnios,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0022876,C3714514,COEXISTS_WITH,Premature Obstetric Labor,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0024348,C0021368,COEXISTS_WITH,Lysis,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0024525,C1373218,COEXISTS_WITH,Malacoplakia,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0021368,COEXISTS_WITH,Multiple Organ Failure,Inflammation,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0036974,COEXISTS_WITH,Multiple Organ Failure,Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0036983,COEXISTS_WITH,Multiple Organ Failure,Septic Shock,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0042487,COEXISTS_WITH,Multiple Organ Failure,Venous Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0087086,COEXISTS_WITH,Multiple Organ Failure,Thrombus,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0206277,COEXISTS_WITH,Multiple Organ Failure,Fatal Outcome,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0442856,COEXISTS_WITH,Multiple Organ Failure,Hypoperfusion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C0546817,COEXISTS_WITH,Multiple Organ Failure,Fluid overload,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C1155266,COEXISTS_WITH,Multiple Organ Failure,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C3714514,COEXISTS_WITH,Multiple Organ Failure,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0026766,C4061114,COEXISTS_WITH,Multiple Organ Failure,Acute illness,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0027055,C0036982,COEXISTS_WITH,Myocardial Reperfusion Injury,"Shock, Hemorrhagic",patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0027543,C0021308,COEXISTS_WITH,Avascular necrosis of bone,Infarction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0027544,C0021368,COEXISTS_WITH,Necrotic debris,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0027686,C0029445,COEXISTS_WITH,Pathologic Neovascularization,Bone necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C0004144,COEXISTS_WITH,Obstruction,Atelectasis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C0006663,COEXISTS_WITH,Obstruction,Calcinosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C0021368,COEXISTS_WITH,Obstruction,Inflammation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C0021376,COEXISTS_WITH,Obstruction,Chronic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C0544820,COEXISTS_WITH,Obstruction,Hypomyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C0700148,COEXISTS_WITH,Obstruction,Congestion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0028778,C4061114,COEXISTS_WITH,Obstruction,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0029445,C0016665,COEXISTS_WITH,Bone necrosis,"Fractures, Ununited",patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0029445,C0036974,COEXISTS_WITH,Bone necrosis,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0030660,C0011304,COEXISTS_WITH,Pathologic Processes,Demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0030660,C0021368,COEXISTS_WITH,Pathologic Processes,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0031154,C0032914,COEXISTS_WITH,Peritonitis,Pre-Eclampsia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0031154,C0745283,COEXISTS_WITH,Peritonitis,INFECTIOUS PROCESS,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0032787,C3714514,COEXISTS_WITH,Postoperative Complications,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0032914,C0015934,COEXISTS_WITH,Pre-Eclampsia,Fetal Growth Retardation,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0032914,C0878751,COEXISTS_WITH,Pre-Eclampsia,late pregnancy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0035228,C0021376,COEXISTS_WITH,Respiratory Hypersensitivity,Chronic inflammation,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0035228,C0392707,COEXISTS_WITH,Respiratory Hypersensitivity,Atopy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0035410,C0019080,COEXISTS_WITH,Rhabdomyolysis,Hemorrhage,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0035410,C0242656,COEXISTS_WITH,Rhabdomyolysis,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036429,C0301948,COEXISTS_WITH,Sclerosis,Chronic graft rejection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036429,C0333438,COEXISTS_WITH,Sclerosis,Hyaline degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036679,C2004491,COEXISTS_WITH,Diastasis,Cicatrix,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036679,C4061114,COEXISTS_WITH,Diastasis,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0004144,COEXISTS_WITH,Shock,Atelectasis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0010828,COEXISTS_WITH,Shock,Cytopenia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0015376,COEXISTS_WITH,Shock,Extravasation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0020683,COEXISTS_WITH,Shock,Hypovolemic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0036983,COEXISTS_WITH,Shock,Septic Shock,patf,patf,5,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0231181,COEXISTS_WITH,Shock,Acute insufficiency,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C0340858,COEXISTS_WITH,Shock,Drug-induced hypotension,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C3714514,COEXISTS_WITH,Shock,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036974,C4061114,COEXISTS_WITH,Shock,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036983,C0026766,COEXISTS_WITH,Septic Shock,Multiple Organ Failure,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0036983,C0340515,COEXISTS_WITH,Septic Shock,Myocardial dysfunction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036983,C0546817,COEXISTS_WITH,Septic Shock,Fluid overload,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036983,C1155266,COEXISTS_WITH,Septic Shock,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0036983,C3714514,COEXISTS_WITH,Septic Shock,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0038449,C2919615,COEXISTS_WITH,Stricture of artery,Posttransplant diabetes mellitus,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0038862,C0021368,COEXISTS_WITH,Suppurative inflammation,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0038941,C0543419,COEXISTS_WITH,Surgical Wound Infection,Sequela of disorder,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0040038,C0264956,COEXISTS_WITH,Thromboembolism,Atheroma,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0040053,C0021368,COEXISTS_WITH,Thrombosis,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0040053,C0151799,COEXISTS_WITH,Thrombosis,Skin necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0041755,C0013182,COEXISTS_WITH,Adverse reaction to drug,Drug Allergy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0041755,C0745283,COEXISTS_WITH,Adverse reaction to drug,INFECTIOUS PROCESS,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0042134,C3714514,COEXISTS_WITH,Uterine hemorrhage,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0042484,C0020507,COEXISTS_WITH,Venous Engorgement,Hyperplasia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0042484,C0021368,COEXISTS_WITH,Venous Engorgement,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0042487,C0036974,COEXISTS_WITH,Venous Thrombosis,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0042487,C0040053,COEXISTS_WITH,Venous Thrombosis,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0042909,C0003130,COEXISTS_WITH,Vitreous Hemorrhage,Anoxia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0043241,C0745283,COEXISTS_WITH,Wound Infection,INFECTIOUS PROCESS,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C0021368,COEXISTS_WITH,Thrombus,Inflammation,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C0040038,COEXISTS_WITH,Thrombus,Thromboembolism,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C0042487,COEXISTS_WITH,Thrombus,Venous Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C0085660,COEXISTS_WITH,Thrombus,Aseptic necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C0442860,COEXISTS_WITH,Thrombus,Intravascular thrombosis,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C3203360,COEXISTS_WITH,Thrombus,Suppuration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0087086,C3714514,COEXISTS_WITH,Thrombus,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0008495,COEXISTS_WITH,Premature Birth,Chorioamnionitis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0019080,COEXISTS_WITH,Premature Birth,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0021368,COEXISTS_WITH,Premature Birth,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0032914,COEXISTS_WITH,Premature Birth,Pre-Eclampsia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0151686,COEXISTS_WITH,Premature Birth,Growth retardation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0178292,COEXISTS_WITH,Premature Birth,"Complications of pregnancy, childbirth and the puerperium",patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0543419,COEXISTS_WITH,Premature Birth,Sequela of disorder,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C0848215,COEXISTS_WITH,Premature Birth,perinatal morbidity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151526,C3714514,COEXISTS_WITH,Premature Birth,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0151603,C3714514,COEXISTS_WITH,Anasarca,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0151654,C0016059,COEXISTS_WITH,Myocardial fibrosis,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151654,C0021376,COEXISTS_WITH,Myocardial fibrosis,Chronic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151686,C3714514,COEXISTS_WITH,Growth retardation,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151692,C0332448,COEXISTS_WITH,Impaired wound healing,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151701,C0206277,COEXISTS_WITH,Pulmonary hemorrhage,Fatal Outcome,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0151763,C3714514,COEXISTS_WITH,Liver damage,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0152254,C0019080,COEXISTS_WITH,Fatty degeneration,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0152254,C0700148,COEXISTS_WITH,Fatty degeneration,Congestion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0161816,C0011071,COEXISTS_WITH,Cardiac complication,Sudden death,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0161816,C0035410,COEXISTS_WITH,Cardiac complication,Rhabdomyolysis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0161816,C0036974,COEXISTS_WITH,Cardiac complication,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0161818,C0242656,COEXISTS_WITH,Respiratory complication,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0161818,C3714514,COEXISTS_WITH,Respiratory complication,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0162633,C0392707,COEXISTS_WITH,Viral Shedding,Atopy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0162633,C1373218,COEXISTS_WITH,Viral Shedding,Decreased Immunologic Activity [PE],patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0162633,C3714514,COEXISTS_WITH,Viral Shedding,Infection,patf,patf,5,COEXISTS_WITH_PATFcxwtPATF
+C0162633,C4061114,COEXISTS_WITH,Viral Shedding,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0206277,C0040053,COEXISTS_WITH,Fatal Outcome,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0220981,C0001122,COEXISTS_WITH,Metabolic acidosis,Acidosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0220981,C0003130,COEXISTS_WITH,Metabolic acidosis,Anoxia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0220981,C0036974,COEXISTS_WITH,Metabolic acidosis,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0220981,C0333288,COEXISTS_WITH,Metabolic acidosis,Dissecting hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0221204,C0020517,COEXISTS_WITH,Lytic lesion,Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0231176,C0332448,COEXISTS_WITH,Acute failure,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0231176,C3714514,COEXISTS_WITH,Acute failure,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0232342,C0036974,COEXISTS_WITH,Decreased vascular flow,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0232342,C0036983,COEXISTS_WITH,Decreased vascular flow,Septic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0232483,C3714514,COEXISTS_WITH,Reflux,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0235029,C3714514,COEXISTS_WITH,neurological complication,Infection,patf,patf,5,COEXISTS_WITH_PATFcxwtPATF
+C0239937,C4061114,COEXISTS_WITH,Microscopic hematuria,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0240821,C0020564,COEXISTS_WITH,Pseudomembrane,Hypertrophy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0240821,C0021368,COEXISTS_WITH,Pseudomembrane,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242184,C0036974,COEXISTS_WITH,Hypoxia,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242648,C0878751,COEXISTS_WITH,Vertical Disease Transmission,late pregnancy,patf,patf,5,COEXISTS_WITH_PATFcxwtPATF
+C0242656,C0020542,COEXISTS_WITH,Disease Progression,Pulmonary Hypertension,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242656,C0021368,COEXISTS_WITH,Disease Progression,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242656,C0549384,COEXISTS_WITH,Disease Progression,hypotonic-hyporesponsive episode,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242656,C1373218,COEXISTS_WITH,Disease Progression,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242656,C3714514,COEXISTS_WITH,Disease Progression,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242707,C0085649,COEXISTS_WITH,"Ventricular Dysfunction, Right",Peripheral edema,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0242781,C0010356,COEXISTS_WITH,disease transmission,Cross Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0243087,C0004144,COEXISTS_WITH,concomitant disease,Atelectasis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0264940,C0021368,COEXISTS_WITH,Hemorrhage of blood vessel,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0274435,C1155266,COEXISTS_WITH,Transfusion Reaction,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0281169,C0003130,COEXISTS_WITH,pulmonary complications,Anoxia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0281169,C0546817,COEXISTS_WITH,pulmonary complications,Fluid overload,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0281169,C1373218,COEXISTS_WITH,pulmonary complications,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0281947,C0332448,COEXISTS_WITH,pituitary dysfunction,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302148,C0019080,COEXISTS_WITH,Blood Clot,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0001511,COEXISTS_WITH,Leucocytic infiltrate,Tissue Adhesions,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0016059,COEXISTS_WITH,Leucocytic infiltrate,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0019080,COEXISTS_WITH,Leucocytic infiltrate,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0020517,COEXISTS_WITH,Leucocytic infiltrate,Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0035304,COEXISTS_WITH,Leucocytic infiltrate,Retinal Degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0333504,COEXISTS_WITH,Leucocytic infiltrate,Focal necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C0333979,COEXISTS_WITH,Leucocytic infiltrate,Secondary hyperplasia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0302158,C1522058,COEXISTS_WITH,Leucocytic infiltrate,Coagulative necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0011164,COEXISTS_WITH,Infiltration,Abnormal degeneration,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0011304,COEXISTS_WITH,Infiltration,Demyelination,patf,patf,8,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0013687,COEXISTS_WITH,Infiltration,effusion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0016059,COEXISTS_WITH,Infiltration,Fibrosis,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0016549,COEXISTS_WITH,Infiltration,Foreign-Body Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0018188,COEXISTS_WITH,Infiltration,Granuloma,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0019080,COEXISTS_WITH,Infiltration,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0020517,COEXISTS_WITH,Infiltration,Hypersensitivity,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0020564,COEXISTS_WITH,Infiltration,Hypertrophy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0021368,COEXISTS_WITH,Infiltration,Inflammation,patf,patf,23,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0021376,COEXISTS_WITH,Infiltration,Chronic inflammation,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0030660,COEXISTS_WITH,Infiltration,Pathologic Processes,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0035304,COEXISTS_WITH,Infiltration,Retinal Degeneration,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0242656,COEXISTS_WITH,Infiltration,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0243083,COEXISTS_WITH,Infiltration,associated disease,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0333431,COEXISTS_WITH,Infiltration,Localized degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0333456,COEXISTS_WITH,Infiltration,Primary demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0333509,COEXISTS_WITH,Infiltration,Liquefactive necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0333512,COEXISTS_WITH,Infiltration,Caseous necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0333513,COEXISTS_WITH,Infiltration,Fibrinoid necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C0919924,COEXISTS_WITH,Infiltration,pulmonary toxicity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C1155266,COEXISTS_WITH,Infiltration,inflammatory response,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C1265868,COEXISTS_WITH,Infiltration,Confluent necrosis,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C1563937,COEXISTS_WITH,Infiltration,Atherogenesis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0332448,C3714514,COEXISTS_WITH,Infiltration,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333167,C1817997,COEXISTS_WITH,Intermittent obstruction,chronic inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333197,C4283754,COEXISTS_WITH,Fibrin blood clot,Fibrinopurulent inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333237,C0040053,COEXISTS_WITH,Chronic passive congestion,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333276,C0032788,COEXISTS_WITH,Acute hemorrhage,Postoperative Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333279,C3714514,COEXISTS_WITH,Massive hemorrhage,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333280,C3714514,COEXISTS_WITH,Diffuse hemorrhage,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333288,C0021368,COEXISTS_WITH,Dissecting hemorrhage,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333355,C0021368,COEXISTS_WITH,Inflammatory disease of mucous membrane,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333386,C0162633,COEXISTS_WITH,Chronic lymphocytic inflammation,Viral Shedding,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333386,C0333511,COEXISTS_WITH,Chronic lymphocytic inflammation,Bridging necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333390,C1155266,COEXISTS_WITH,Chronic eosinophilic inflammation,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333418,C3887486,COEXISTS_WITH,Non-necrotizing granulomatous inflammation,Interstitial lung fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333431,C0334094,COEXISTS_WITH,Localized degeneration,Proliferation (morphologic abnormality),patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333438,C3887486,COEXISTS_WITH,Hyaline degeneration,Interstitial lung fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333442,C3714514,COEXISTS_WITH,Hydropic degeneration,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333456,C0021368,COEXISTS_WITH,Primary demyelination,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333467,C0332448,COEXISTS_WITH,Cytopathic effect,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333467,C3714514,COEXISTS_WITH,Cytopathic effect,Infection,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0333501,C0036974,COEXISTS_WITH,Acute necrosis,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333504,C0021368,COEXISTS_WITH,Focal necrosis,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333512,C0018188,COEXISTS_WITH,Caseous necrosis,Granuloma,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333525,C0013687,COEXISTS_WITH,Maceration,effusion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333542,C0087086,COEXISTS_WITH,Focal infarct,Thrombus,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333549,C0040038,COEXISTS_WITH,Hemorrhagic infarct,Thromboembolism,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333551,C0333237,COEXISTS_WITH,Healed infarct,Chronic passive congestion,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333563,C0016059,COEXISTS_WITH,Hyaline membrane,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333563,C0040053,COEXISTS_WITH,Hyaline membrane,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333563,C0270163,COEXISTS_WITH,Hyaline membrane,"Primary atelectasis, in perinatal period",patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333565,C0020522,COEXISTS_WITH,Fibrin deposition,Delayed Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333565,C0021368,COEXISTS_WITH,Fibrin deposition,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333565,C0040053,COEXISTS_WITH,Fibrin deposition,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333565,C0087086,COEXISTS_WITH,Fibrin deposition,Thrombus,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333565,C0302148,COEXISTS_WITH,Fibrin deposition,Blood Clot,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333565,C0333563,COEXISTS_WITH,Fibrin deposition,Hyaline membrane,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333641,C0012359,COEXISTS_WITH,Atrophic,Pathological Dilatation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333641,C0028778,COEXISTS_WITH,Atrophic,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333641,C3714514,COEXISTS_WITH,Atrophic,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333641,C3887486,COEXISTS_WITH,Atrophic,Interstitial lung fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333949,C0178292,COEXISTS_WITH,Disturbance of growth,"Complications of pregnancy, childbirth and the puerperium",patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333957,C3714514,COEXISTS_WITH,Growth acceleration,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0333988,C3714514,COEXISTS_WITH,Pseudoepitheliomatous hyperplasia,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0334061,C0333386,COEXISTS_WITH,Dyskeratosis,Chronic lymphocytic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0334094,C0016059,COEXISTS_WITH,Proliferation (morphologic abnormality),Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0334094,C0020507,COEXISTS_WITH,Proliferation (morphologic abnormality),Hyperplasia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0334094,C3714514,COEXISTS_WITH,Proliferation (morphologic abnormality),Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0334096,C0020542,COEXISTS_WITH,Intimal proliferation,Pulmonary Hypertension,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0340515,C0021368,COEXISTS_WITH,Myocardial dysfunction,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0340515,C0032914,COEXISTS_WITH,Myocardial dysfunction,Pre-Eclampsia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0340515,C0036983,COEXISTS_WITH,Myocardial dysfunction,Septic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0340565,C0040038,COEXISTS_WITH,Lower limb ischemia,Thromboembolism,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0341950,C0040053,COEXISTS_WITH,Severe pre-eclampsia,Thrombosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0341950,C2937358,COEXISTS_WITH,Severe pre-eclampsia,Cerebral Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0392106,C0015376,COEXISTS_WITH,Hepatic artery thrombosis,Extravasation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0392618,C0019080,COEXISTS_WITH,Postoperative infection,Hemorrhage,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0392707,C1155266,COEXISTS_WITH,Atopy,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0392707,C3658208,COEXISTS_WITH,Atopy,Dysbiosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0392707,C3714514,COEXISTS_WITH,Atopy,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0398353,C0026766,COEXISTS_WITH,Hypercapnic respiratory failure,Multiple Organ Failure,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0428977,C0242656,COEXISTS_WITH,Bradycardia,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0442856,C0036974,COEXISTS_WITH,Hypoperfusion,Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0442856,C0036983,COEXISTS_WITH,Hypoperfusion,Septic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0443146,C0035304,COEXISTS_WITH,Autoimmune reaction,Retinal Degeneration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0443146,C1817978,COEXISTS_WITH,Autoimmune reaction,acute inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0443146,C3714514,COEXISTS_WITH,Autoimmune reaction,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0456973,C0332448,COEXISTS_WITH,Hilar lymphadenopathy,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0478664,C0600049,COEXISTS_WITH,Localized enlarged lymph nodes,Chancre,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0521195,C3887486,COEXISTS_WITH,Focal fibrosis,Interstitial lung fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0521464,C0041755,COEXISTS_WITH,Edematous skin,Adverse reaction to drug,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0543419,C0026766,COEXISTS_WITH,Sequela of disorder,Multiple Organ Failure,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0543419,C0036974,COEXISTS_WITH,Sequela of disorder,Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0543419,C0036983,COEXISTS_WITH,Sequela of disorder,Septic Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0543419,C1373218,COEXISTS_WITH,Sequela of disorder,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0543419,C3714514,COEXISTS_WITH,Sequela of disorder,Infection,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C0553697,C0021368,COEXISTS_WITH,Granulomatous inflammation,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0553697,C0030660,COEXISTS_WITH,Granulomatous inflammation,Pathologic Processes,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0553697,C3714514,COEXISTS_WITH,Granulomatous inflammation,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0679316,C3714514,COEXISTS_WITH,Dysmotility,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0679317,C0012359,COEXISTS_WITH,hypomotility,Pathological Dilatation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0679333,C0281169,COEXISTS_WITH,inflammation or infection,pulmonary complications,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0679429,C0243087,COEXISTS_WITH,platelet dysfunction,concomitant disease,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C0699748,C0016059,COEXISTS_WITH,Pathogenesis,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0700148,C0021368,COEXISTS_WITH,Congestion,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0700148,C0038536,COEXISTS_WITH,Congestion,Subcutaneous Emphysema,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0700148,C0087086,COEXISTS_WITH,Congestion,Thrombus,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0700148,C0333359,COEXISTS_WITH,Congestion,Perivascular inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0700148,C0333563,COEXISTS_WITH,Congestion,Hyaline membrane,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0700148,C3714514,COEXISTS_WITH,Congestion,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0729264,C0020224,COEXISTS_WITH,Preterm premature rupture of membranes (disorder),Polyhydramnios,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0745283,C0333359,COEXISTS_WITH,INFECTIOUS PROCESS,Perivascular inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0745283,C1155266,COEXISTS_WITH,INFECTIOUS PROCESS,inflammatory response,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0848898,C0151526,COEXISTS_WITH,Neonatal morbidity,Premature Birth,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0857353,C1739123,COEXISTS_WITH,Hypotensive,Febrile nonhemolytic transfusion reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0877042,C1373218,COEXISTS_WITH,graft loss,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0919661,C0301889,COEXISTS_WITH,alternation,Immune defect,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0919661,C0333138,COEXISTS_WITH,alternation,Stasis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0919691,C0026766,COEXISTS_WITH,Anastomotic Leak,Multiple Organ Failure,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C0920563,C0021368,COEXISTS_WITH,Insulin Sensitivity,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0001349,COEXISTS_WITH,inflammatory response,Acute-Phase Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0006110,COEXISTS_WITH,inflammatory response,Brain Death,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0011304,COEXISTS_WITH,inflammatory response,Demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0020517,COEXISTS_WITH,inflammatory response,Hypersensitivity,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0020564,COEXISTS_WITH,inflammatory response,Hypertrophy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0021359,COEXISTS_WITH,inflammatory response,Infertility,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0021368,COEXISTS_WITH,inflammatory response,Inflammation,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0021376,COEXISTS_WITH,inflammatory response,Chronic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0030660,COEXISTS_WITH,inflammatory response,Pathologic Processes,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0036974,COEXISTS_WITH,inflammatory response,Shock,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0242656,COEXISTS_WITH,inflammatory response,Disease Progression,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0264956,COEXISTS_WITH,inflammatory response,Atheroma,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0281169,COEXISTS_WITH,inflammatory response,pulmonary complications,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C0745283,COEXISTS_WITH,inflammatory response,INFECTIOUS PROCESS,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C1520005,COEXISTS_WITH,inflammatory response,Viral Pathogenesis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C2911645,COEXISTS_WITH,inflammatory response,Weight Loss Adverse Event,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C3658208,COEXISTS_WITH,inflammatory response,Dysbiosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1155266,C3714514,COEXISTS_WITH,inflammatory response,Infection,patf,patf,5,COEXISTS_WITH_PATFcxwtPATF
+C1167870,C3714514,COEXISTS_WITH,Graft dysfunction,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1261287,C0012359,COEXISTS_WITH,Stenosis,Pathological Dilatation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1264061,C4061114,COEXISTS_WITH,Anterior cervical lymphadenopathy,Acute illness,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265583,C0029445,COEXISTS_WITH,Secondary collapse,Bone necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265765,C0013990,COEXISTS_WITH,Duct ectasia,Pathological accumulation of air in tissues,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265824,C0012359,COEXISTS_WITH,Persistent inflammation,Pathological Dilatation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265824,C0016059,COEXISTS_WITH,Persistent inflammation,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265824,C1373218,COEXISTS_WITH,Persistent inflammation,Decreased Immunologic Activity [PE],patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265831,C0020507,COEXISTS_WITH,Interstitial inflammation,Hyperplasia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265831,C3714514,COEXISTS_WITH,Interstitial inflammation,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265979,C0028778,COEXISTS_WITH,Reactive fibrosis,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1265979,C1692321,COEXISTS_WITH,Reactive fibrosis,Cellular infiltrate,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1320835,C0020517,COEXISTS_WITH,Drug-induced hyperpyrexia,Hypersensitivity,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1320835,C0274435,COEXISTS_WITH,Drug-induced hyperpyrexia,Transfusion Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1373218,C0036974,COEXISTS_WITH,Decreased Immunologic Activity [PE],Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1373218,C0333641,COEXISTS_WITH,Decreased Immunologic Activity [PE],Atrophic,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1373218,C1998084,COEXISTS_WITH,Decreased Immunologic Activity [PE],Lymphocele after surgical procedure,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1373218,C3714514,COEXISTS_WITH,Decreased Immunologic Activity [PE],Infection,patf,patf,8,COEXISTS_WITH_PATFcxwtPATF
+C1383860,C0021655,COEXISTS_WITH,Cardiac Hypertrophy,Insulin Resistance,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1516670,C1520005,COEXISTS_WITH,Clonal Expansion,Viral Pathogenesis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1520005,C0332448,COEXISTS_WITH,Viral Pathogenesis,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1520005,C0745283,COEXISTS_WITH,Viral Pathogenesis,INFECTIOUS PROCESS,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1520005,C3714514,COEXISTS_WITH,Viral Pathogenesis,Infection,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C1522058,C0021308,COEXISTS_WITH,Coagulative necrosis,Infarction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1522058,C0024348,COEXISTS_WITH,Coagulative necrosis,Lysis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1522058,C0028778,COEXISTS_WITH,Coagulative necrosis,Obstruction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1527304,C0020517,COEXISTS_WITH,Allergic Reaction,Hypersensitivity,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C1527304,C3714514,COEXISTS_WITH,Allergic Reaction,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1561230,C0043241,COEXISTS_WITH,Soft tissue necrosis,Wound Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1563937,C0264956,COEXISTS_WITH,Atherogenesis,Atheroma,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1692321,C0333501,COEXISTS_WITH,Cellular infiltrate,Acute necrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1692321,C0392707,COEXISTS_WITH,Cellular infiltrate,Atopy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1817978,C0021308,COEXISTS_WITH,acute inflammatory response,Infarction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1817978,C0022116,COEXISTS_WITH,acute inflammatory response,Ischemia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C1959609,C0333565,COEXISTS_WITH,Erosion lesion,Fibrin deposition,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2265909,C0021368,COEXISTS_WITH,smooth muscle hypertrophy,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2699153,C3714514,COEXISTS_WITH,Cell Invasion,Infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2717792,C0016059,COEXISTS_WITH,Airway Remodeling,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2717792,C0021368,COEXISTS_WITH,Airway Remodeling,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2717792,C1265824,COEXISTS_WITH,Airway Remodeling,Persistent inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2718128,C0021368,COEXISTS_WITH,Nasal inflammation,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2919615,C0038449,COEXISTS_WITH,Posttransplant diabetes mellitus,Stricture of artery,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C2936381,C0021368,COEXISTS_WITH,Neointima Formation,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3203358,C0036974,COEXISTS_WITH,Hypoventilation,Shock,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3203360,C0553697,COEXISTS_WITH,Suppuration,Granulomatous inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3241936,C0948031,COEXISTS_WITH,Non-cardiogenic pulmonary edema,Primary Graft Dysfunction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3658208,C0021368,COEXISTS_WITH,Dysbiosis,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3658208,C0026846,COEXISTS_WITH,Dysbiosis,Muscular Atrophy,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3686534,C0011304,COEXISTS_WITH,Perivascular cuffing,Demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3686534,C0021368,COEXISTS_WITH,Perivascular cuffing,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3686534,C0333349,COEXISTS_WITH,Perivascular cuffing,Nonsuppurative inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3686534,C1155266,COEXISTS_WITH,Perivascular cuffing,inflammatory response,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3686874,C0702120,COEXISTS_WITH,Microgliosis,Spongiosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0001349,COEXISTS_WITH,Infection,Acute-Phase Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0011304,COEXISTS_WITH,Infection,Demyelination,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0016059,COEXISTS_WITH,Infection,Fibrosis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0020517,COEXISTS_WITH,Infection,Hypersensitivity,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0021359,COEXISTS_WITH,Infection,Infertility,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0021368,COEXISTS_WITH,Infection,Inflammation,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0021375,COEXISTS_WITH,Infection,allergic inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0026766,COEXISTS_WITH,Infection,Multiple Organ Failure,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0028778,COEXISTS_WITH,Infection,Obstruction,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0031154,COEXISTS_WITH,Infection,Peritonitis,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0036983,COEXISTS_WITH,Infection,Septic Shock,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0151526,COEXISTS_WITH,Infection,Premature Birth,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0162633,COEXISTS_WITH,Infection,Viral Shedding,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0242656,COEXISTS_WITH,Infection,Disease Progression,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0242781,COEXISTS_WITH,Infection,disease transmission,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0281169,COEXISTS_WITH,Infection,pulmonary complications,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0301889,COEXISTS_WITH,Infection,Immune defect,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0332448,COEXISTS_WITH,Infection,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0333355,COEXISTS_WITH,Infection,Inflammatory disease of mucous membrane,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0392618,COEXISTS_WITH,Infection,Postoperative infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0392707,COEXISTS_WITH,Infection,Atopy,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0432485,COEXISTS_WITH,Infection,complication of transplant,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0860239,COEXISTS_WITH,Infection,Catheter related infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C0878751,COEXISTS_WITH,Infection,late pregnancy,patf,patf,3,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C1373218,COEXISTS_WITH,Infection,Decreased Immunologic Activity [PE],patf,patf,4,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C1520005,COEXISTS_WITH,Infection,Viral Pathogenesis,patf,patf,2,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C1527304,COEXISTS_WITH,Infection,Allergic Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C2717792,COEXISTS_WITH,Infection,Airway Remodeling,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3714514,C2891284,COEXISTS_WITH,Infection,Lung transplant infection,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3887486,C0021368,COEXISTS_WITH,Interstitial lung fibrosis,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3887486,C0332448,COEXISTS_WITH,Interstitial lung fibrosis,Infiltration,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3887486,C0333563,COEXISTS_WITH,Interstitial lung fibrosis,Hyaline membrane,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3887486,C0333641,COEXISTS_WITH,Interstitial lung fibrosis,Atrophic,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C3887486,C3658220,COEXISTS_WITH,Interstitial lung fibrosis,Atrial Remodeling,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C4022805,C0021368,COEXISTS_WITH,Abnormal inflammatory response,Inflammation,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C4061114,C0001349,COEXISTS_WITH,Acute illness,Acute-Phase Reaction,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C4061114,C0010828,COEXISTS_WITH,Acute illness,Cytopenia,patf,patf,1,COEXISTS_WITH_PATFcxwtPATF
+C4061114,C3714514,COEXISTS_WITH,Acute illness,Infection,patf,patf,4,COEXISTS_WITH_PATFcxwtPATF

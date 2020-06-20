@@ -1,0 +1,87 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005771,C0086143,ISA,Blood Cell Count,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0007616,C0430022,ISA,Cell Separation,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0009541,C0430022,ISA,Complement Fixation Tests,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0009555,C0086143,ISA,Complete Blood Count,Diagnostic tests,lbpr,diap,6,ISA_LBPRisaDIAP
+C0010818,C0430022,ISA,Cytological Techniques,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0013845,C0877853,ISA,Electron Spin Resonance Spectroscopy,"Spectroscopy, Nuclear Magnetic Resonance",lbpr,diap,1,ISA_LBPRisaDIAP
+C0014441,C0021044,ISA,Enzyme-Linked Immunosorbent Assay,Immunohistochemistry,lbpr,diap,6,ISA_LBPRisaDIAP
+C0014441,C0086143,ISA,Enzyme-Linked Immunosorbent Assay,Diagnostic tests,lbpr,diap,16,ISA_LBPRisaDIAP
+C0014441,C0430022,ISA,Enzyme-Linked Immunosorbent Assay,diagnostic procedure,lbpr,diap,16,ISA_LBPRisaDIAP
+C0014772,C0430022,ISA,Red Blood Cell Count measurement,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0016263,C0021044,ISA,Flow Cytometry,Immunohistochemistry,lbpr,diap,4,ISA_LBPRisaDIAP
+C0016263,C0079595,ISA,Flow Cytometry,Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C0016318,C0021044,ISA,Fluorescent Antibody Technique,Immunohistochemistry,lbpr,diap,5,ISA_LBPRisaDIAP
+C0016318,C0086143,ISA,Fluorescent Antibody Technique,Diagnostic tests,lbpr,diap,3,ISA_LBPRisaDIAP
+C0016318,C0430022,ISA,Fluorescent Antibody Technique,diagnostic procedure,lbpr,diap,3,ISA_LBPRisaDIAP
+C0018941,C0086143,ISA,Hematologic Tests,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0020980,C0086143,ISA,Immunoassay method,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0020985,C0086143,ISA,Immunoblotting,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0020985,C0430022,ISA,Immunoblotting,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0021052,C0430022,ISA,Immunodiagnosis,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0021061,C0086143,ISA,Immunologic Tests,Diagnostic tests,lbpr,diap,2,ISA_LBPRisaDIAP
+C0021067,C0021044,ISA,Immunoperoxidase Techniques,Immunohistochemistry,lbpr,diap,1,ISA_LBPRisaDIAP
+C0021730,C0079595,ISA,Interferometry,Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C0022885,C0086143,ISA,Laboratory Procedures,Diagnostic tests,lbpr,diap,21,ISA_LBPRisaDIAP
+C0022885,C0430022,ISA,Laboratory Procedures,diagnostic procedure,lbpr,diap,9,ISA_LBPRisaDIAP
+C0023117,C0086143,ISA,Latex Fixation Tests,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0026018,C0086143,ISA,Microscopy,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0026018,C0430022,ISA,Microscopy,diagnostic procedure,lbpr,diap,6,ISA_LBPRisaDIAP
+C0026019,C0079595,ISA,Electron Microscopy,Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C0026019,C0430022,ISA,Electron Microscopy,diagnostic procedure,lbpr,diap,3,ISA_LBPRisaDIAP
+C0026022,C0079595,ISA,"Microscopy, Fluorescence",Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C0026024,C0079595,ISA,"Microscopy, Phase-Contrast",Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C0032102,C0430022,ISA,plaque assay,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0036743,C0086143,ISA,Serologic tests,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0036743,C0430022,ISA,Serologic tests,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0037793,C0430022,ISA,Specimen processing (procedure),diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0040284,C0086143,ISA,Tissue culture,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0040284,C0430022,ISA,Tissue culture,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0042014,C0086143,ISA,Urinalysis,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0086231,C0021044,ISA,Enzyme Immunoassay,Immunohistochemistry,lbpr,diap,1,ISA_LBPRisaDIAP
+C0086231,C0086143,ISA,Enzyme Immunoassay,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0086231,C0430022,ISA,Enzyme Immunoassay,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0200345,C0086143,ISA,Specimen Collection,Diagnostic tests,lbpr,diap,3,ISA_LBPRisaDIAP
+C0200345,C0430022,ISA,Specimen Collection,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0200924,C0086143,ISA,Molecular biology method,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0200931,C0430022,ISA,Polymerase chain reaction analysis,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0200932,C0086143,ISA,Nucleic Acid Amplification Tests,Diagnostic tests,lbpr,diap,7,ISA_LBPRisaDIAP
+C0200932,C0430022,ISA,Nucleic Acid Amplification Tests,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0200949,C0430022,ISA,Blood culture,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0200955,C0086143,ISA,Viral culture procedure,Diagnostic tests,lbpr,diap,5,ISA_LBPRisaDIAP
+C0200955,C0430022,ISA,Viral culture procedure,diagnostic procedure,lbpr,diap,8,ISA_LBPRisaDIAP
+C0201227,C0086143,ISA,Surveillance culture,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0201411,C0430022,ISA,Complement assay,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0201519,C0430022,ISA,Antibody to islet cells of pancreas measurement,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0201811,C0086143,ISA,Fecal occult blood test,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0282649,C0430022,ISA,"Fluorescent Antibody Technique, Direct",diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0337438,C0086143,ISA,Glucose measurement,Diagnostic tests,lbpr,diap,2,ISA_LBPRisaDIAP
+C0373861,C0086143,ISA,Immunodiffusion; not elsewhere specified (procedure in CPT),Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0430027,C0086143,ISA,biochemical test,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0430389,C0086143,ISA,Light Microscopy,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0430402,C0430022,ISA,Bacterial culture (procedure),diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0430414,C0430022,ISA,Stool culture,diagnostic procedure,lbpr,diap,2,ISA_LBPRisaDIAP
+C0430420,C0086143,ISA,Antigen assay,Diagnostic tests,lbpr,diap,5,ISA_LBPRisaDIAP
+C0430420,C0430022,ISA,Antigen assay,diagnostic procedure,lbpr,diap,4,ISA_LBPRisaDIAP
+C0519825,C0086143,ISA,Comprehensive Metabolic Panel,Diagnostic tests,lbpr,diap,2,ISA_LBPRisaDIAP
+C0580327,C0086143,ISA,Antibody studies (procedure),Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0580327,C0430022,ISA,Antibody studies (procedure),diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0581714,C0086143,ISA,Buccal smear procedure,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C0581714,C0430022,ISA,Buccal smear procedure,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0848397,C0086143,ISA,Throat culture,Diagnostic tests,lbpr,diap,3,ISA_LBPRisaDIAP
+C0848397,C0430022,ISA,Throat culture,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C0949466,C0086143,ISA,Western Blot,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C1261149,C0430022,ISA,Viral antigen assay,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C1294356,C0430022,ISA,Detection of virus procedure,diagnostic procedure,lbpr,diap,5,ISA_LBPRisaDIAP
+C1318793,C0086143,ISA,Immunofluorescent stain method,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C1449619,C0430022,ISA,Culture Techniques,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C1510438,C0086143,ISA,Assay,Diagnostic tests,lbpr,diap,16,ISA_LBPRisaDIAP
+C1510438,C0430022,ISA,Assay,diagnostic procedure,lbpr,diap,14,ISA_LBPRisaDIAP
+C1705913,C0086143,ISA,Rapid Antigen Test,Diagnostic tests,lbpr,diap,3,ISA_LBPRisaDIAP
+C1707759,C0086143,ISA,Direct Fluorescent Antibody Test,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C1708481,C0079595,ISA,In Vivo Imaging,Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C2020431,C0086143,ISA,Faecal PCR,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C2350255,C0079595,ISA,Electron Microscope Tomography,Imaging Techniques,lbpr,diap,1,ISA_LBPRisaDIAP
+C3178849,C0086143,ISA,Immunochromatography,Diagnostic tests,lbpr,diap,1,ISA_LBPRisaDIAP
+C3178849,C0430022,ISA,Immunochromatography,diagnostic procedure,lbpr,diap,1,ISA_LBPRisaDIAP
+C3811844,C0017654,ISA,Estimated Glomerular Filtration Rate,Glomerular Filtration Rate,lbpr,diap,1,ISA_LBPRisaDIAP

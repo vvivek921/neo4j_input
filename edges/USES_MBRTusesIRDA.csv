@@ -1,0 +1,105 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005861,C0007512,USES,Northern Blotting,cDNA Probes,mbrt,irda,2,USES_MBRTusesIRDA
+C0005861,C0028952,USES,Northern Blotting,Oligonucleotide Probes,mbrt,irda,6,USES_MBRTusesIRDA
+C0005861,C0034760,USES,Northern Blotting,Reagents,mbrt,irda,2,USES_MBRTusesIRDA
+C0005861,C0035683,USES,Northern Blotting,RNA Probes,mbrt,irda,6,USES_MBRTusesIRDA
+C0005861,C2986808,USES,Northern Blotting,Radioactive Label,mbrt,irda,1,USES_MBRTusesIRDA
+C0005862,C0012893,USES,Southern blot assay (procedure),DNA Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0006353,USES,Polymerase Chain Reaction,Buffers,mbrt,irda,5,USES_MBRTusesIRDA
+C0032520,C0010454,USES,Polymerase Chain Reaction,Culture Media,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0013343,USES,Polymerase Chain Reaction,Dyes,mbrt,irda,4,USES_MBRTusesIRDA
+C0032520,C0016320,USES,Polymerase Chain Reaction,Fluorescent Dyes,mbrt,irda,2,USES_MBRTusesIRDA
+C0032520,C0016321,USES,Polymerase Chain Reaction,Fluorescent Probes,mbrt,irda,4,USES_MBRTusesIRDA
+C0032520,C0034760,USES,Polymerase Chain Reaction,Reagents,mbrt,irda,19,USES_MBRTusesIRDA
+C0032520,C0038128,USES,Polymerase Chain Reaction,Stains,mbrt,irda,3,USES_MBRTusesIRDA
+C0032520,C0051704,USES,Polymerase Chain Reaction,ammonium acetate,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0061856,USES,Polymerase Chain Reaction,Gram's stain,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0074343,USES,Polymerase Chain Reaction,sephadex,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0085216,USES,Polymerase Chain Reaction,Fluorescein-5-isothiocyanate,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0358514,USES,Polymerase Chain Reaction,Diagnostic agents,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C0386577,USES,Polymerase Chain Reaction,SYBR Green I,mbrt,irda,1,USES_MBRTusesIRDA
+C0032520,C1522485,USES,Polymerase Chain Reaction,Tracer,mbrt,irda,2,USES_MBRTusesIRDA
+C0032520,C3826632,USES,Polymerase Chain Reaction,Buffer solutions,mbrt,irda,1,USES_MBRTusesIRDA
+C0040669,C0006353,USES,Transfection,Buffers,mbrt,irda,3,USES_MBRTusesIRDA
+C0040669,C0010454,USES,Transfection,Culture Media,mbrt,irda,1,USES_MBRTusesIRDA
+C0040669,C0032486,USES,Transfection,Polyethyleneimine,mbrt,irda,12,USES_MBRTusesIRDA
+C0040669,C0034760,USES,Transfection,Reagents,mbrt,irda,87,USES_MBRTusesIRDA
+C0040669,C0088100,USES,Transfection,"1,2-dioleoyloxy-3-(trimethylammonium)propane",mbrt,irda,1,USES_MBRTusesIRDA
+C0040669,C0253711,USES,Transfection,Lipofectamine,mbrt,irda,9,USES_MBRTusesIRDA
+C0040669,C1522485,USES,Transfection,Tracer,mbrt,irda,3,USES_MBRTusesIRDA
+C0040669,C3812213,USES,Transfection,Fetal Bovine Serum,mbrt,irda,1,USES_MBRTusesIRDA
+C0162788,C0007512,USES,In Situ Hybridization,cDNA Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162788,C0012893,USES,In Situ Hybridization,DNA Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162788,C0016321,USES,In Situ Hybridization,Fluorescent Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162788,C0028604,USES,In Situ Hybridization,Nucleic Acid Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162788,C0028952,USES,In Situ Hybridization,Oligonucleotide Probes,mbrt,irda,2,USES_MBRTusesIRDA
+C0162788,C0035683,USES,In Situ Hybridization,RNA Probes,mbrt,irda,3,USES_MBRTusesIRDA
+C0162788,C0078976,USES,In Situ Hybridization,Antisense Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162789,C0012893,USES,Fluorescent in Situ Hybridization,DNA Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162789,C0028604,USES,Fluorescent in Situ Hybridization,Nucleic Acid Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0162789,C0028952,USES,Fluorescent in Situ Hybridization,Oligonucleotide Probes,mbrt,irda,3,USES_MBRTusesIRDA
+C0162789,C0033470,USES,Fluorescent in Situ Hybridization,Propidium Iodide,mbrt,irda,1,USES_MBRTusesIRDA
+C0221902,C0021212,USES,DNA hybridization,Indicators,mbrt,irda,1,USES_MBRTusesIRDA
+C0242574,C0006353,USES,Nested Polymerase Chain Reaction,Buffers,mbrt,irda,1,USES_MBRTusesIRDA
+C0487717,C0034760,USES,Viral Sequencing,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C0597416,C0034760,USES,RNase protection assay,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C0599161,C0006353,USES,Reverse Transcriptase Polymerase Chain Reaction,Buffers,mbrt,irda,1,USES_MBRTusesIRDA
+C0599161,C0010454,USES,Reverse Transcriptase Polymerase Chain Reaction,Culture Media,mbrt,irda,1,USES_MBRTusesIRDA
+C0599161,C0016320,USES,Reverse Transcriptase Polymerase Chain Reaction,Fluorescent Dyes,mbrt,irda,2,USES_MBRTusesIRDA
+C0599161,C0016321,USES,Reverse Transcriptase Polymerase Chain Reaction,Fluorescent Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C0599161,C0018964,USES,Reverse Transcriptase Polymerase Chain Reaction,Hematoxylin,mbrt,irda,1,USES_MBRTusesIRDA
+C0599161,C0021212,USES,Reverse Transcriptase Polymerase Chain Reaction,Indicators,mbrt,irda,1,USES_MBRTusesIRDA
+C0599161,C0034760,USES,Reverse Transcriptase Polymerase Chain Reaction,Reagents,mbrt,irda,24,USES_MBRTusesIRDA
+C0599161,C0038128,USES,Reverse Transcriptase Polymerase Chain Reaction,Stains,mbrt,irda,1,USES_MBRTusesIRDA
+C0599647,C1522485,USES,Yeast One/Two-Hybrid System,Tracer,mbrt,irda,1,USES_MBRTusesIRDA
+C0599748,C0034760,USES,Tandem Mass Spectrometry,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C0752095,C0010454,USES,Cytogenetic Analysis,Culture Media,mbrt,irda,1,USES_MBRTusesIRDA
+C0920648,C0034760,USES,RNA amplification,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C0949688,C0034760,USES,Molecular Diagnostic Techniques,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C0969664,C0034760,USES,NASBA,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C1328887,C0034760,USES,genome sequencing,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C1328887,C3812213,USES,genome sequencing,Fetal Bovine Serum,mbrt,irda,1,USES_MBRTusesIRDA
+C1513380,C0034760,USES,Molecular Analysis,Reagents,mbrt,irda,1,USES_MBRTusesIRDA
+C1514534,C0006353,USES,Protein Analysis,Buffers,mbrt,irda,1,USES_MBRTusesIRDA
+C1514534,C0034760,USES,Protein Analysis,Reagents,mbrt,irda,2,USES_MBRTusesIRDA
+C1514534,C0053554,USES,Protein Analysis,bicinchoninic acid,mbrt,irda,1,USES_MBRTusesIRDA
+C1514628,C0006353,USES,Quantitative Reverse Transcriptase PCR,Buffers,mbrt,irda,2,USES_MBRTusesIRDA
+C1514628,C0013343,USES,Quantitative Reverse Transcriptase PCR,Dyes,mbrt,irda,1,USES_MBRTusesIRDA
+C1514628,C0016320,USES,Quantitative Reverse Transcriptase PCR,Fluorescent Dyes,mbrt,irda,1,USES_MBRTusesIRDA
+C1514628,C0034760,USES,Quantitative Reverse Transcriptase PCR,Reagents,mbrt,irda,14,USES_MBRTusesIRDA
+C1514628,C0386577,USES,Quantitative Reverse Transcriptase PCR,SYBR Green I,mbrt,irda,3,USES_MBRTusesIRDA
+C1515564,C0034760,USES,cDNA Library Construction,Reagents,mbrt,irda,3,USES_MBRTusesIRDA
+C1709846,C0006353,USES,Real-Time Polymerase Chain Reaction,Buffers,mbrt,irda,4,USES_MBRTusesIRDA
+C1709846,C0012893,USES,Real-Time Polymerase Chain Reaction,DNA Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C1709846,C0013343,USES,Real-Time Polymerase Chain Reaction,Dyes,mbrt,irda,16,USES_MBRTusesIRDA
+C1709846,C0016320,USES,Real-Time Polymerase Chain Reaction,Fluorescent Dyes,mbrt,irda,2,USES_MBRTusesIRDA
+C1709846,C0016321,USES,Real-Time Polymerase Chain Reaction,Fluorescent Probes,mbrt,irda,3,USES_MBRTusesIRDA
+C1709846,C0021212,USES,Real-Time Polymerase Chain Reaction,Indicators,mbrt,irda,1,USES_MBRTusesIRDA
+C1709846,C0025701,USES,Real-Time Polymerase Chain Reaction,Methyl Green,mbrt,irda,1,USES_MBRTusesIRDA
+C1709846,C0026381,USES,Real-Time Polymerase Chain Reaction,Molecular Probes,mbrt,irda,2,USES_MBRTusesIRDA
+C1709846,C0028604,USES,Real-Time Polymerase Chain Reaction,Nucleic Acid Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C1709846,C0028952,USES,Real-Time Polymerase Chain Reaction,Oligonucleotide Probes,mbrt,irda,2,USES_MBRTusesIRDA
+C1709846,C0034760,USES,Real-Time Polymerase Chain Reaction,Reagents,mbrt,irda,43,USES_MBRTusesIRDA
+C1709846,C0038128,USES,Real-Time Polymerase Chain Reaction,Stains,mbrt,irda,2,USES_MBRTusesIRDA
+C1709846,C0386577,USES,Real-Time Polymerase Chain Reaction,SYBR Green I,mbrt,irda,25,USES_MBRTusesIRDA
+C1709846,C0388276,USES,Real-Time Polymerase Chain Reaction,SYBR Green II,mbrt,irda,1,USES_MBRTusesIRDA
+C1709846,C0598447,USES,Real-Time Polymerase Chain Reaction,fluorophore,mbrt,irda,2,USES_MBRTusesIRDA
+C1709846,C1509471,USES,Real-Time Polymerase Chain Reaction,Red dye,mbrt,irda,1,USES_MBRTusesIRDA
+C2350277,C0028952,USES,Genome-Wide Association Study,Oligonucleotide Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C2350567,C1522485,USES,Gene Knockdown Techniques,Tracer,mbrt,irda,1,USES_MBRTusesIRDA
+C2717881,C2348747,USES,Candidate Gene Identification,Genomic Biomarker,mbrt,irda,1,USES_MBRTusesIRDA
+C3179032,C0026381,USES,Multiplex Polymerase Chain Reaction,Molecular Probes,mbrt,irda,1,USES_MBRTusesIRDA
+C3179032,C0250829,USES,Multiplex Polymerase Chain Reaction,cyanine dye 5,mbrt,irda,1,USES_MBRTusesIRDA
+C3640076,C0034760,USES,Whole Genome Sequencing,Reagents,mbrt,irda,2,USES_MBRTusesIRDA
+C3839010,C0006353,USES,Ribonucleic acid extraction technique,Buffers,mbrt,irda,7,USES_MBRTusesIRDA
+C3839010,C0010454,USES,Ribonucleic acid extraction technique,Culture Media,mbrt,irda,1,USES_MBRTusesIRDA
+C3839010,C0021212,USES,Ribonucleic acid extraction technique,Indicators,mbrt,irda,1,USES_MBRTusesIRDA
+C3839010,C0034760,USES,Ribonucleic acid extraction technique,Reagents,mbrt,irda,70,USES_MBRTusesIRDA
+C3839010,C0038135,USES,Ribonucleic acid extraction technique,Standard Preparations,mbrt,irda,1,USES_MBRTusesIRDA
+C3839010,C0085414,USES,Ribonucleic acid extraction technique,"Culture Media, Serum-Free",mbrt,irda,1,USES_MBRTusesIRDA
+C3839010,C0991865,USES,Ribonucleic acid extraction technique,PHOSPHATE BUFFERS,mbrt,irda,1,USES_MBRTusesIRDA
+C3839010,C1882529,USES,Ribonucleic acid extraction technique,RNALater,mbrt,irda,5,USES_MBRTusesIRDA
+C3839098,C0006353,USES,Deoxyribonucleic acid extraction technique,Buffers,mbrt,irda,3,USES_MBRTusesIRDA
+C3839098,C0034760,USES,Deoxyribonucleic acid extraction technique,Reagents,mbrt,irda,2,USES_MBRTusesIRDA
+C3839098,C0389638,USES,Deoxyribonucleic acid extraction technique,PicoGreen,mbrt,irda,1,USES_MBRTusesIRDA
+C3897601,C0016321,USES,Single Nucleotide Polymorphism Array,Fluorescent Probes,mbrt,irda,1,USES_MBRTusesIRDA

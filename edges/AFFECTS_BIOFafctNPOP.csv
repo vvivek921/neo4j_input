@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C4042908,AFFECTS,Antibody Formation,Seroconversion,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0003261,C4505260,AFFECTS,Antibody Formation,Viral Quasispecies,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0019868,C0031164,AFFECTS,Homeostasis,Permeability,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0019868,C3826426,AFFECTS,Homeostasis,Dynamics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C0020034,AFFECTS,Virulence,Host-Parasite Interactions,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C0022702,AFFECTS,Virulence,Kinetics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C0031164,AFFECTS,Virulence,Permeability,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C0243052,AFFECTS,Virulence,Virus Physiological Phenomena,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C2936412,AFFECTS,Virulence,Host Specificity,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C2936413,AFFECTS,Virulence,Host Range,biof,npop,2,AFFECTS_BIOFafctNPOP
+C0042765,C3826426,AFFECTS,Virulence,Dynamics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0042765,C4505259,AFFECTS,Virulence,Quasispecies,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0005495,AFFECTS,Anabolism,Origin of Life,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0007382,AFFECTS,Anabolism,Catalysis,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0010106,AFFECTS,Anabolism,Corrosion,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0012222,AFFECTS,Anabolism,Diffusion,biof,npop,2,AFFECTS_BIOFafctNPOP
+C0220781,C0020034,AFFECTS,Anabolism,Host-Parasite Interactions,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0022702,AFFECTS,Anabolism,Kinetics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0024495,AFFECTS,Anabolism,Maillard Reaction,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0029391,AFFECTS,Anabolism,Osmosis,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0220781,C0031164,AFFECTS,Anabolism,Permeability,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0232478,C3826426,AFFECTS,Ingestion,Dynamics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0282629,C0243052,AFFECTS,Virus Assembly,Virus Physiological Phenomena,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0678796,C0806140,AFFECTS,additive drug interaction,Flow,biof,npop,1,AFFECTS_BIOFafctNPOP
+C0683168,C3826426,AFFECTS,synergistic drug interaction,Dynamics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C1160638,C2936413,AFFECTS,Viral life cycle,Host Range,biof,npop,1,AFFECTS_BIOFafctNPOP
+C1269955,C2936626,AFFECTS,Tumor Cell Invasion,Tumor Microenvironment,biof,npop,1,AFFECTS_BIOFafctNPOP
+C1537068,C0005495,AFFECTS,Virus Internalization,Origin of Life,biof,npop,1,AFFECTS_BIOFafctNPOP
+C1537068,C2717976,AFFECTS,Virus Internalization,Virus Budding,biof,npop,1,AFFECTS_BIOFafctNPOP
+C1537068,C2936413,AFFECTS,Virus Internalization,Host Range,biof,npop,1,AFFECTS_BIOFafctNPOP
+C1537068,C3826426,AFFECTS,Virus Internalization,Dynamics,biof,npop,2,AFFECTS_BIOFafctNPOP
+C1721019,C0178576,AFFECTS,Virus Attachment,Cross link,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3714634,C0032931,AFFECTS,Biological Processes,Precipitation,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3714634,C0598197,AFFECTS,Biological Processes,contagion,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3714634,C1705970,AFFECTS,Biological Processes,Electrical Current,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3714634,C2718051,AFFECTS,Biological Processes,Climate Change,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3714634,C2936412,AFFECTS,Biological Processes,Host Specificity,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3714634,C3826426,AFFECTS,Biological Processes,Dynamics,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3820740,C0031164,AFFECTS,viroporin,Permeability,biof,npop,6,AFFECTS_BIOFafctNPOP
+C3821011,C2936412,AFFECTS,cap snatching,Host Specificity,biof,npop,1,AFFECTS_BIOFafctNPOP
+C3853734,C0243177,AFFECTS,viral process,chemical content,biof,npop,1,AFFECTS_BIOFafctNPOP

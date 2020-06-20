@@ -1,0 +1,64 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001811,C0015691,PRODUCES,Aging,"Fatty Acids, Volatile",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0001811,C0043481,PRODUCES,Aging,Zinc,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0001811,C0162772,PRODUCES,Aging,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0005615,C0012854,PRODUCES,Birth,DNA,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0005615,C0032136,PRODUCES,Birth,Plasmids,orgf,bacs,3,PRODUCES_ORGFprodBACS
+C0005615,C0035693,PRODUCES,Birth,"RNA, Double-Stranded",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0005615,C1099354,PRODUCES,Birth,"RNA, Small Interfering",orgf,bacs,3,PRODUCES_ORGFprodBACS
+C0006147,C0205752,PRODUCES,Breast Feeding,Endogenous Opiates,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0008260,PRODUCES,Digestion,Chlorophyll,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0012854,PRODUCES,Digestion,DNA,orgf,bacs,4,PRODUCES_ORGFprodBACS
+C0012238,C0017725,PRODUCES,Digestion,Glucose,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0030234,PRODUCES,Digestion,Palmitic Acid,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0032136,PRODUCES,Digestion,Plasmids,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0178645,PRODUCES,Digestion,oxygen free radical,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0684192,PRODUCES,Digestion,DNA fragments,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C1099354,PRODUCES,Digestion,"RNA, Small Interfering",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C2350877,PRODUCES,Digestion,"Promoter, Genetic",orgf,bacs,2,PRODUCES_ORGFprodBACS
+C0012238,C3494870,PRODUCES,Digestion,Viral isolate,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0014653,C0015691,PRODUCES,Equilibrium,"Fatty Acids, Volatile",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0014653,C0017725,PRODUCES,Equilibrium,Glucose,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0014653,C0064582,PRODUCES,Equilibrium,Lactic acid,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0014653,C0162772,PRODUCES,Equilibrium,Reactive Oxygen Species,orgf,bacs,2,PRODUCES_ORGFprodBACS
+C0015914,C0040549,PRODUCES,Fertilization,Toxin,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0007012,PRODUCES,Growth,Carbon Dioxide,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0012854,PRODUCES,Growth,DNA,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0015691,PRODUCES,Growth,"Fatty Acids, Volatile",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0016693,PRODUCES,Growth,Free Radicals,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0034085,PRODUCES,Growth,Pulmonary Surfactants,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0035693,PRODUCES,Growth,"RNA, Double-Stranded",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0040549,PRODUCES,Growth,Toxin,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0022864,C0018340,PRODUCES,Labor (Childbirth),Guanosine Diphosphate,orgf,bacs,2,PRODUCES_ORGFprodBACS
+C0023796,C0005404,PRODUCES,Lipolysis,Bile Salts,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0023796,C0017861,PRODUCES,Lipolysis,Glycerin,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0023796,C0041004,PRODUCES,Lipolysis,Triglycerides,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0023796,C0043791,PRODUCES,Lipolysis,"1,2-diacylglycerol",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0023796,C0162772,PRODUCES,Lipolysis,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025516,C0062496,PRODUCES,"Metabolic Detoxication, Drug",hemozoin,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025519,C0005437,PRODUCES,Metabolism,Bilirubin,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025519,C0016693,PRODUCES,Metabolism,Free Radicals,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025519,C0017725,PRODUCES,Metabolism,Glucose,orgf,bacs,2,PRODUCES_ORGFprodBACS
+C0025519,C0162772,PRODUCES,Metabolism,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025519,C0597105,PRODUCES,Metabolism,nucleoside monophosphate,orgf,bacs,2,PRODUCES_ORGFprodBACS
+C0025519,C1519315,PRODUCES,Metabolism,Signaling Molecule,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0026649,C1099354,PRODUCES,Movement,"RNA, Small Interfering",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0028161,C0142281,PRODUCES,Nitrogen Fixation,Siderophores,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0032961,C0002976,PRODUCES,Pregnancy,Angiogenesis Factor,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0043240,C0000702,PRODUCES,Wound Healing,"DNA, A-Form",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0043240,C0002976,PRODUCES,Wound Healing,Angiogenesis Factor,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0043240,C0033567,PRODUCES,Wound Healing,Epoprostenol,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0598358,C3658238,PRODUCES,ionic balance,Gasotransmitters,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0678723,C0162772,PRODUCES,Biologic Development,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C0007745,PRODUCES,Catabolism,Ceramides,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C0028606,PRODUCES,Catabolism,Nucleic Acids,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C0162772,PRODUCES,Catabolism,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C1099354,PRODUCES,Catabolism,"RNA, Small Interfering",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1154988,C0162772,PRODUCES,defense response,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1154988,C1099354,PRODUCES,defense response,"RNA, Small Interfering",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1155328,C0016693,PRODUCES,Antiviral Response,Free Radicals,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1155328,C0028128,PRODUCES,Antiviral Response,Nitric Oxide,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1160185,C1099354,PRODUCES,transduction,"RNA, Small Interfering",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1510835,C0028128,PRODUCES,Aging-Related Process,Nitric Oxide,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1819442,C0028128,PRODUCES,interleukin-15 production,Nitric Oxide,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1819442,C0162772,PRODUCES,interleukin-15 production,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS

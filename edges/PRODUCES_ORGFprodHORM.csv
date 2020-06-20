@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0015914,C0033308,PRODUCES,Fertilization,Progesterone,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0021080,C0012472,PRODUCES,Natural immunosuppression,Dinoprostone,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0022864,C0033554,PRODUCES,Labor (Childbirth),Prostaglandins,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0025519,C0033554,PRODUCES,Metabolism,Prostaglandins,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0032961,C0014912,PRODUCES,Pregnancy,Estradiol,orgf,horm,2,PRODUCES_ORGFprodHORM
+C0032961,C0033308,PRODUCES,Pregnancy,Progesterone,orgf,horm,2,PRODUCES_ORGFprodHORM
+C0032961,C0039601,PRODUCES,Pregnancy,Testosterone,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0032961,C0682762,PRODUCES,Pregnancy,pregnancy hormones,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0043240,C0033554,PRODUCES,Wound Healing,Prostaglandins,orgf,horm,1,PRODUCES_ORGFprodHORM
+C0699900,C0025219,PRODUCES,Catabolism,Melatonin,orgf,horm,1,PRODUCES_ORGFprodHORM

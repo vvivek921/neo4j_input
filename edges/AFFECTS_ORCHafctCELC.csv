@@ -1,0 +1,143 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001962,C0004461,AFFECTS,Ethanol,Axon,orch,celc,1,AFFECTS_ORCHafctCELC
+C0002403,C0042760,AFFECTS,Amantadine,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0002403,C1325742,AFFECTS,Amantadine,Pore,orch,celc,1,AFFECTS_ORCHafctCELC
+C0002502,C0042760,AFFECTS,Amiloride,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0002598,C0034850,AFFECTS,Amiodarone,Endosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C0003968,C1819995,AFFECTS,Ascorbic Acid,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0005026,C0008778,AFFECTS,Benzalkonium Chloride,Cilia,orch,celc,1,AFFECTS_ORCHafctCELC
+C0005117,C0026237,AFFECTS,Berberine,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0007004,C0026237,AFFECTS,Carbohydrates,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0007004,C0596901,AFFECTS,Carbohydrates,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0008269,C1819995,AFFECTS,Chloroquine,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0008269,C3271504,AFFECTS,Chloroquine,endolysosome,orch,celc,1,AFFECTS_ORCHafctCELC
+C0008286,C0596901,AFFECTS,Chlorpromazine,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0009262,C0026046,AFFECTS,Colchicine,Microtubules,orch,celc,2,AFFECTS_ORCHafctCELC
+C0011777,C2350332,AFFECTS,Dexamethasone,Exosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C0012010,C2611786,AFFECTS,Diazepam,endoplasmic reticulum-Golgi intermediate compartment,orch,celc,1,AFFECTS_ORCHafctCELC
+C0015684,C0007603,AFFECTS,Fatty Acids,Plasma membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0015684,C0026237,AFFECTS,Fatty Acids,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0015684,C0596901,AFFECTS,Fatty Acids,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0015684,C1819995,AFFECTS,Fatty Acids,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0016295,C0596901,AFFECTS,Flunarizine,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0017082,C0007603,AFFECTS,Gangliosides,Plasma membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0017978,C0061622,AFFECTS,Glycosphingolipids,Glycocalyx,orch,celc,1,AFFECTS_ORCHafctCELC
+C0020336,C3887595,AFFECTS,Hydroxychloroquine,Autophagosome,orch,celc,1,AFFECTS_ORCHafctCELC
+C0020923,C0034850,AFFECTS,Imidazole,Endosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C0022179,C0042760,AFFECTS,Isoflavones,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0022179,C1819995,AFFECTS,Isoflavones,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0007603,AFFECTS,Lipids,Plasma membrane,orch,celc,2,AFFECTS_ORCHafctCELC
+C0023779,C0010853,AFFECTS,Lipids,Cytoskeleton,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0023768,AFFECTS,Lipids,Lipid Bilayers,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0026237,AFFECTS,Lipids,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0034850,AFFECTS,Lipids,Endosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0042219,AFFECTS,Lipids,Vacuole,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0042760,AFFECTS,Lipids,Virion,orch,celc,3,AFFECTS_ORCHafctCELC
+C0023779,C0230625,AFFECTS,Lipids,cell process structure,orch,celc,2,AFFECTS_ORCHafctCELC
+C0023779,C0230704,AFFECTS,Lipids,Lipid droplet,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C0596901,AFFECTS,Lipids,Membrane,orch,celc,6,AFFECTS_ORCHafctCELC
+C0023779,C1166607,AFFECTS,Lipids,cellular_component,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C1167250,AFFECTS,Lipids,lipid raft,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C1383501,AFFECTS,Lipids,Cytoplasmic matrix,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C1622204,AFFECTS,Lipids,envelope,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023779,C2247081,AFFECTS,Lipids,host cell membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023810,C1749467,AFFECTS,Lipopolysaccharides,soluble,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023810,C1819995,AFFECTS,Lipopolysaccharides,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023810,C3826677,AFFECTS,Lipopolysaccharides,Bacterial cell walls,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023828,C0042760,AFFECTS,Liposomes,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0023828,C0596901,AFFECTS,Liposomes,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0025249,C0230844,AFFECTS,Membrane Lipids,Mitochondrial cristae,orch,celc,1,AFFECTS_ORCHafctCELC
+C0027358,C0004461,AFFECTS,Naloxone,Axon,orch,celc,1,AFFECTS_ORCHafctCELC
+C0028017,C0887883,AFFECTS,Niclosamide,Early endosome,orch,celc,1,AFFECTS_ORCHafctCELC
+C0028908,C0007623,AFFECTS,Oils,Cell Wall,orch,celc,1,AFFECTS_ORCHafctCELC
+C0028908,C0026237,AFFECTS,Oils,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0028910,C1622204,AFFECTS,"Oils, Volatile",envelope,orch,celc,1,AFFECTS_ORCHafctCELC
+C0032594,C0042760,AFFECTS,Polysaccharides,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0032594,C0699040,AFFECTS,Polysaccharides,Cell surface,orch,celc,2,AFFECTS_ORCHafctCELC
+C0032594,C0887869,AFFECTS,Polysaccharides,Cell-Matrix Junction,orch,celc,1,AFFECTS_ORCHafctCELC
+C0032594,C1325834,AFFECTS,Polysaccharides,viral glycoprotein,orch,celc,1,AFFECTS_ORCHafctCELC
+C0034140,C0026237,AFFECTS,Purines,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0034266,C0230770,AFFECTS,Pyridoxal Phosphate,"Endoplasmic reticulum, membrane",orch,celc,1,AFFECTS_ORCHafctCELC
+C0034392,C0596901,AFFECTS,Quercetin,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0034428,C0027869,AFFECTS,Quinolones,Neuromuscular Junction,orch,celc,1,AFFECTS_ORCHafctCELC
+C0035629,C1325742,AFFECTS,Rimantadine,Pore,orch,celc,1,AFFECTS_ORCHafctCELC
+C0037982,C0007603,AFFECTS,Spironolactone,Plasma membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0037982,C0014239,AFFECTS,Spironolactone,Endoplasmic Reticulum,orch,celc,1,AFFECTS_ORCHafctCELC
+C0037982,C0018042,AFFECTS,Spironolactone,Golgi Apparatus,orch,celc,1,AFFECTS_ORCHafctCELC
+C0038734,C0004461,AFFECTS,Sulfhydryl Compounds,Axon,orch,celc,1,AFFECTS_ORCHafctCELC
+C0039286,C2350332,AFFECTS,Tamoxifen,Exosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C0043775,C0028584,AFFECTS,"1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid",Nuclear Envelope,orch,celc,1,AFFECTS_ORCHafctCELC
+C0043847,C0007603,AFFECTS,"1,2-dipalmitoylphosphatidylglycerol",Plasma membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0044369,C0007623,AFFECTS,1-dodecylpyridoxal,Cell Wall,orch,celc,1,AFFECTS_ORCHafctCELC
+C0046818,C0333785,AFFECTS,3'-fucosyllactose,Virus-like particles,orch,celc,1,AFFECTS_ORCHafctCELC
+C0047100,C0175996,AFFECTS,3-((2-phenylethyl)amino)alanine,Protoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C0050652,C0175996,AFFECTS,actinonin,Protoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C0050844,C2611786,AFFECTS,adinazolam,endoplasmic reticulum-Golgi intermediate compartment,orch,celc,1,AFFECTS_ORCHafctCELC
+C0052430,C0008655,AFFECTS,artemisinine,"Chromosomes, Human, Pair 13",orch,celc,2,AFFECTS_ORCHafctCELC
+C0052430,C1325653,AFFECTS,artemisinine,Mitochondrial electron transport chain,orch,celc,1,AFFECTS_ORCHafctCELC
+C0057472,C1166607,AFFECTS,1-(2-(dodecyloxy)ethyl)pyrrolidine hydrochloride,cellular_component,orch,celc,1,AFFECTS_ORCHafctCELC
+C0057472,C1819995,AFFECTS,1-(2-(dodecyloxy)ethyl)pyrrolidine hydrochloride,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0058903,C0026237,AFFECTS,ebselen,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0059831,C3271954,AFFECTS,ethylisopropylamiloride,macropinosome,orch,celc,1,AFFECTS_ORCHafctCELC
+C0062637,C0887869,AFFECTS,Hexamethonium,Cell-Matrix Junction,orch,celc,2,AFFECTS_ORCHafctCELC
+C0062637,C1819995,AFFECTS,Hexamethonium,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0063220,C0042760,AFFECTS,hypericin,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0064113,C0175996,AFFECTS,Itraconazole,Protoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C0067533,C1167322,AFFECTS,N-(4-carboxyphenyl)retinamide,integral to membrane,orch,celc,2,AFFECTS_ORCHafctCELC
+C0067533,C1511625,AFFECTS,N-(4-carboxyphenyl)retinamide,Cytoplasmic Domain,orch,celc,2,AFFECTS_ORCHafctCELC
+C0071677,C0887869,AFFECTS,polysialic acid,Cell-Matrix Junction,orch,celc,1,AFFECTS_ORCHafctCELC
+C0073096,C0596901,AFFECTS,resveratrol,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0075134,C0042760,AFFECTS,Specific Substance of Maruyama,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0076252,C1325742,AFFECTS,Tetraethylammonium,Pore,orch,celc,1,AFFECTS_ORCHafctCELC
+C0076379,C0042760,AFFECTS,theaflavin,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0076836,C0026237,AFFECTS,Toremifene,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C0076836,C1516511,AFFECTS,Toremifene,Chromatin Structure,orch,celc,1,AFFECTS_ORCHafctCELC
+C0077608,C0024369,AFFECTS,U 18666A,Lysosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C0119093,C0042760,AFFECTS,germacrone,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0162448,C0596901,AFFECTS,Glycerophospholipids,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0206979,C1383501,AFFECTS,L-2-amino-4-phosphonobutyrate,Cytoplasmic matrix,orch,celc,1,AFFECTS_ORCHafctCELC
+C0208991,C0042760,AFFECTS,forsythiaside,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0219836,C3549194,AFFECTS,cosalane,viral membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0225326,C0042760,AFFECTS,Fiber,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0254211,C0175996,AFFECTS,arbidol,Protoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C0360714,C0042760,AFFECTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0393003,C0085187,AFFECTS,potassium oxonate,telomere,orch,celc,1,AFFECTS_ORCHafctCELC
+C0525005,C0042760,AFFECTS,Nelfinavir,Virion,orch,celc,3,AFFECTS_ORCHafctCELC
+C0525005,C1819995,AFFECTS,Nelfinavir,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0525678,C0007603,AFFECTS,rasagiline,Plasma membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0525678,C0175996,AFFECTS,rasagiline,Protoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C0525678,C0230770,AFFECTS,rasagiline,"Endoplasmic reticulum, membrane",orch,celc,1,AFFECTS_ORCHafctCELC
+C0525678,C1166803,AFFECTS,rasagiline,phosphatidylinositol 3-kinase complex,orch,celc,1,AFFECTS_ORCHafctCELC
+C0596577,C0042760,AFFECTS,Flavonoids,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0596577,C1167519,AFFECTS,Flavonoids,viral capsid,orch,celc,1,AFFECTS_ORCHafctCELC
+C0596577,C1622081,AFFECTS,Flavonoids,Myb complex,orch,celc,1,AFFECTS_ORCHafctCELC
+C0597152,C0596901,AFFECTS,oxidized lipid,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0631516,C0042760,AFFECTS,"15-methyl-8-aza-16-oxagona-1,3,5(10),13-tetraen-17-one",Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0643582,C0023768,AFFECTS,11-(2-fluoroethyl)estradiol,Lipid Bilayers,orch,celc,1,AFFECTS_ORCHafctCELC
+C0672708,C1749467,AFFECTS,Vorinostat,soluble,orch,celc,1,AFFECTS_ORCHafctCELC
+C0699680,C2612461,AFFECTS,Metric,high-density lipoprotein particle,orch,celc,1,AFFECTS_ORCHafctCELC
+C0733688,C1819995,AFFECTS,VP-16,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C0755562,C0007603,AFFECTS,U 0126,Plasma membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C0755562,C0010834,AFFECTS,U 0126,Cytoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C0772162,C0887838,AFFECTS,AROMATICS,trans-Golgi Network,orch,celc,1,AFFECTS_ORCHafctCELC
+C0772162,C2611787,AFFECTS,AROMATICS,late Golgi,orch,celc,1,AFFECTS_ORCHafctCELC
+C0874161,C0042760,AFFECTS,Oseltamivir,Virion,orch,celc,1,AFFECTS_ORCHafctCELC
+C0991850,C0596901,AFFECTS,MILK FAT,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C1145759,C1166837,AFFECTS,Atazanavir,Cavity of endoplasmic reticulum cistern,orch,celc,1,AFFECTS_ORCHafctCELC
+C1165265,C0026237,AFFECTS,Ginsenoside,Mitochondria,orch,celc,1,AFFECTS_ORCHafctCELC
+C1175112,C0025979,AFFECTS,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,Microfilaments,orch,celc,1,AFFECTS_ORCHafctCELC
+C1328819,C0596901,AFFECTS,Small Molecule,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C1328819,C1325742,AFFECTS,Small Molecule,Pore,orch,celc,1,AFFECTS_ORCHafctCELC
+C1436435,C0175996,AFFECTS,NTZ,Protoplasm,orch,celc,1,AFFECTS_ORCHafctCELC
+C1436435,C1622587,AFFECTS,NTZ,E2 complex,orch,celc,1,AFFECTS_ORCHafctCELC
+C1567769,C0230704,AFFECTS,desmethylicaritin,Lipid droplet,orch,celc,1,AFFECTS_ORCHafctCELC
+C1613372,C0682533,AFFECTS,ST-246,membrane layer,orch,celc,1,AFFECTS_ORCHafctCELC
+C1743900,C0010851,AFFECTS,"5,7-diacetamido-3,5,7,9-tetradeoxy-L-glycero-L-manno nonulosonic acid",Cytoskeletal Filaments,orch,celc,1,AFFECTS_ORCHafctCELC
+C2744960,C1167322,AFFECTS,crofelemer,integral to membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C2926735,C1819995,AFFECTS,Duration,Host Cell,orch,celc,1,AFFECTS_ORCHafctCELC
+C2983891,C0034850,AFFECTS,Apilimod,Endosomes,orch,celc,1,AFFECTS_ORCHafctCELC
+C3180849,C1167117,AFFECTS,CX 5461,replication fork,orch,celc,1,AFFECTS_ORCHafctCELC
+C3252090,C3549194,AFFECTS,daclatasvir,viral membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C4050026,C0596901,AFFECTS,Matrix,Membrane,orch,celc,1,AFFECTS_ORCHafctCELC
+C4050026,C1167398,AFFECTS,Matrix,Viral envelope,orch,celc,2,AFFECTS_ORCHafctCELC
+C4317277,C0042760,AFFECTS,TMC120,Virion,orch,celc,1,AFFECTS_ORCHafctCELC

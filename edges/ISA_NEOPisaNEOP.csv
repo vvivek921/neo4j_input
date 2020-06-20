@@ -1,0 +1,643 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001418,C0006826,ISA,Adenocarcinoma,Malignant Neoplasms,neop,neop,9,ISA_NEOPisaNEOP
+C0001418,C0007097,ISA,Adenocarcinoma,Carcinoma,neop,neop,3,ISA_NEOPisaNEOP
+C0001418,C0027651,ISA,Adenocarcinoma,Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0001418,C0677930,ISA,Adenocarcinoma,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0001429,C0001430,ISA,Adenolymphoma,Adenoma,neop,neop,1,ISA_NEOPisaNEOP
+C0001430,C0006826,ISA,Adenoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0001430,C0027651,ISA,Adenoma,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0001432,C0032019,ISA,"Adenoma, Chromophobe",Pituitary Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0001618,C0027651,ISA,Tumors of Adrenal Cortex,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0001815,C0027022,ISA,Primary Myelofibrosis,Myeloproliferative disease,neop,neop,1,ISA_NEOPisaNEOP
+C0002448,C0027651,ISA,Ameloblastoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0004114,C0006118,ISA,Astrocytoma,Brain Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0004114,C0006826,ISA,Astrocytoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0004114,C0017638,ISA,Astrocytoma,Glioma,neop,neop,2,ISA_NEOPisaNEOP
+C0004114,C1527390,ISA,Astrocytoma,"Neoplasms, Intracranial",neop,neop,1,ISA_NEOPisaNEOP
+C0005684,C0006826,ISA,Malignant neoplasm of urinary bladder,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0005684,C0280100,ISA,Malignant neoplasm of urinary bladder,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0005699,C0023473,ISA,Blast Phase,"Myeloid Leukemia, Chronic",neop,neop,1,ISA_NEOPisaNEOP
+C0006118,C0006826,ISA,Brain Neoplasms,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0006118,C0027651,ISA,Brain Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0006142,C0006826,ISA,Malignant neoplasm of breast,Malignant Neoplasms,neop,neop,25,ISA_NEOPisaNEOP
+C0006142,C0027651,ISA,Malignant neoplasm of breast,Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0006142,C0280100,ISA,Malignant neoplasm of breast,Solid Neoplasm,neop,neop,3,ISA_NEOPisaNEOP
+C0006413,C0006826,ISA,Burkitt Lymphoma,Malignant Neoplasms,neop,neop,10,ISA_NEOPisaNEOP
+C0006413,C0024305,ISA,Burkitt Lymphoma,"Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C0006413,C0027651,ISA,Burkitt Lymphoma,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0006413,C0079731,ISA,Burkitt Lymphoma,B-Cell Lymphomas,neop,neop,1,ISA_NEOPisaNEOP
+C0006413,C0598798,ISA,Burkitt Lymphoma,Lymphoid neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0006413,C1332225,ISA,Burkitt Lymphoma,Aggressive Non-Hodgkin Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0006826,C0027651,ISA,Malignant Neoplasms,Neoplasms,neop,neop,45,ISA_NEOPisaNEOP
+C0007095,C0007097,ISA,Carcinoid Tumor,Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0007095,C0027651,ISA,Carcinoid Tumor,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0007095,C0206754,ISA,Carcinoid Tumor,Neuroendocrine Tumors,neop,neop,1,ISA_NEOPisaNEOP
+C0007097,C0006826,ISA,Carcinoma,Malignant Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0007097,C0027651,ISA,Carcinoma,Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0007097,C0677930,ISA,Carcinoma,primary tumor,neop,neop,2,ISA_NEOPisaNEOP
+C0007097,C1368683,ISA,Carcinoma,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C0007102,C0006826,ISA,Malignant tumor of colon,Malignant Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0007102,C0027651,ISA,Malignant tumor of colon,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007107,C0027651,ISA,Malignant neoplasm of larynx,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007114,C0006826,ISA,Malignant neoplasm of skin,Malignant Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0007114,C1368683,ISA,Malignant neoplasm of skin,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C0007115,C0006826,ISA,Malignant neoplasm of thyroid,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007117,C0006826,ISA,Basal cell carcinoma,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0007117,C0007114,ISA,Basal cell carcinoma,Malignant neoplasm of skin,neop,neop,2,ISA_NEOPisaNEOP
+C0007120,C0001418,ISA,Bronchioloalveolar Adenocarcinoma,Adenocarcinoma,neop,neop,2,ISA_NEOPisaNEOP
+C0007120,C0007131,ISA,Bronchioloalveolar Adenocarcinoma,Non-Small Cell Lung Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0007120,C0024121,ISA,Bronchioloalveolar Adenocarcinoma,Lung Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007120,C0027651,ISA,Bronchioloalveolar Adenocarcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007120,C0677930,ISA,Bronchioloalveolar Adenocarcinoma,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0007121,C0006826,ISA,Bronchogenic Carcinoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0007121,C0027651,ISA,Bronchogenic Carcinoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0007121,C0242379,ISA,Bronchogenic Carcinoma,Malignant neoplasm of lung,neop,neop,1,ISA_NEOPisaNEOP
+C0007124,C0007097,ISA,Noninfiltrating Intraductal Carcinoma,Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0007124,C1176475,ISA,Noninfiltrating Intraductal Carcinoma,Ductal Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0007125,C0027651,ISA,"Carcinoma, Ehrlich Tumor",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007129,C0006826,ISA,Merkel cell carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007131,C0006826,ISA,Non-Small Cell Lung Carcinoma,Malignant Neoplasms,neop,neop,6,ISA_NEOPisaNEOP
+C0007131,C0024121,ISA,Non-Small Cell Lung Carcinoma,Lung Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007131,C0027651,ISA,Non-Small Cell Lung Carcinoma,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0007131,C0242379,ISA,Non-Small Cell Lung Carcinoma,Malignant neoplasm of lung,neop,neop,5,ISA_NEOPisaNEOP
+C0007133,C0006826,ISA,"Carcinoma, Papillary",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007134,C0006826,ISA,Renal Cell Carcinoma,Malignant Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0007134,C0027651,ISA,Renal Cell Carcinoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0007134,C0280100,ISA,Renal Cell Carcinoma,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0007137,C0006826,ISA,Squamous cell carcinoma,Malignant Neoplasms,neop,neop,12,ISA_NEOPisaNEOP
+C0007137,C0027651,ISA,Squamous cell carcinoma,Neoplasms,neop,neop,9,ISA_NEOPisaNEOP
+C0007137,C0037286,ISA,Squamous cell carcinoma,Skin Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007137,C0677930,ISA,Squamous cell carcinoma,primary tumor,neop,neop,2,ISA_NEOPisaNEOP
+C0007138,C0006826,ISA,"Carcinoma, Transitional Cell",Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0007138,C0007097,ISA,"Carcinoma, Transitional Cell",Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0007138,C0027651,ISA,"Carcinoma, Transitional Cell",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0007621,C0027651,ISA,Neoplastic Cell Transformation,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0007847,C0006826,ISA,Malignant tumor of cervix,Malignant Neoplasms,neop,neop,20,ISA_NEOPisaNEOP
+C0007847,C0027651,ISA,Malignant tumor of cervix,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0008487,C0027651,ISA,Chordoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0008493,C1135868,ISA,"Hydatidiform Mole, Invasive",Gestational Trophoblastic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0008497,C0006826,ISA,Choriocarcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0008497,C0027651,ISA,Choriocarcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0009402,C0006826,ISA,Colorectal Carcinoma,Malignant Neoplasms,neop,neop,14,ISA_NEOPisaNEOP
+C0009402,C0007097,ISA,Colorectal Carcinoma,Carcinoma,neop,neop,3,ISA_NEOPisaNEOP
+C0009402,C0027651,ISA,Colorectal Carcinoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0009402,C0677930,ISA,Colorectal Carcinoma,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0009402,C0685938,ISA,Colorectal Carcinoma,Malignant neoplasm of gastrointestinal tract,neop,neop,1,ISA_NEOPisaNEOP
+C0009404,C0006826,ISA,Colorectal Neoplasms,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0010606,C0006826,ISA,Adenoid Cystic Carcinoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0011649,C0027651,ISA,Dermoid Cyst,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0014145,C1306459,ISA,Yolk Sac Tumor,Primary malignant neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0014474,C1527390,ISA,Ependymoma,"Neoplasms, Intracranial",neop,neop,1,ISA_NEOPisaNEOP
+C0014859,C0006826,ISA,Esophageal Neoplasms,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0016057,C0027651,ISA,Fibrosarcoma,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0017636,C0004114,ISA,Glioblastoma,Astrocytoma,neop,neop,1,ISA_NEOPisaNEOP
+C0017636,C0006118,ISA,Glioblastoma,Brain Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0017636,C0006826,ISA,Glioblastoma,Malignant Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0017636,C0007097,ISA,Glioblastoma,Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0017636,C0017638,ISA,Glioblastoma,Glioma,neop,neop,2,ISA_NEOPisaNEOP
+C0017636,C0027651,ISA,Glioblastoma,Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0017636,C0153633,ISA,Glioblastoma,Malignant neoplasm of brain,neop,neop,6,ISA_NEOPisaNEOP
+C0017636,C0278996,ISA,Glioblastoma,Malignant Head and Neck Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0017636,C0555198,ISA,Glioblastoma,Malignant Glioma,neop,neop,1,ISA_NEOPisaNEOP
+C0017638,C0006826,ISA,Glioma,Malignant Neoplasms,neop,neop,6,ISA_NEOPisaNEOP
+C0017638,C0027651,ISA,Glioma,Neoplasms,neop,neop,9,ISA_NEOPisaNEOP
+C0017638,C1527390,ISA,Glioma,"Neoplasms, Intracranial",neop,neop,1,ISA_NEOPisaNEOP
+C0018916,C0027651,ISA,Hemangioma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0018916,C0086692,ISA,Hemangioma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0018916,C0282607,ISA,Hemangioma,Vascular Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0018923,C0282607,ISA,Hemangiosarcoma,Vascular Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0018923,C0677930,ISA,Hemangiosarcoma,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0018923,C1261473,ISA,Hemangiosarcoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0019623,C0006826,ISA,Malignant histiocytosis,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0019829,C0006826,ISA,Hodgkin Disease,Malignant Neoplasms,neop,neop,13,ISA_NEOPisaNEOP
+C0019829,C0023418,ISA,Hodgkin Disease,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0019829,C0024299,ISA,Hodgkin Disease,Lymphoma,neop,neop,5,ISA_NEOPisaNEOP
+C0019829,C0024305,ISA,Hodgkin Disease,"Lymphoma, Non-Hodgkin",neop,neop,4,ISA_NEOPisaNEOP
+C0019829,C0024314,ISA,Hodgkin Disease,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0019829,C0027651,ISA,Hodgkin Disease,Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0019829,C0376545,ISA,Hodgkin Disease,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0019829,C0598798,ISA,Hodgkin Disease,Lymphoid neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0020981,C0024299,ISA,Angioimmunoblastic Lymphadenopathy,Lymphoma,neop,neop,2,ISA_NEOPisaNEOP
+C0021670,C0006826,ISA,insulinoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0021670,C0027651,ISA,insulinoma,Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0022134,C0027651,ISA,Islet Cell Adenoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0022602,C0027651,ISA,Actinic keratosis,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023267,C0027086,ISA,Fibroid Tumor,Myoma,neop,neop,1,ISA_NEOPisaNEOP
+C0023267,C0027651,ISA,Fibroid Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023269,C0037579,ISA,leiomyosarcoma,Soft Tissue Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0023418,C0006826,ISA,leukemia,Malignant Neoplasms,neop,neop,31,ISA_NEOPisaNEOP
+C0023418,C0027651,ISA,leukemia,Neoplasms,neop,neop,9,ISA_NEOPisaNEOP
+C0023418,C0376544,ISA,leukemia,Hematopoietic Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0023418,C0376545,ISA,leukemia,Hematologic Neoplasms,neop,neop,6,ISA_NEOPisaNEOP
+C0023434,C0006826,ISA,Chronic Lymphocytic Leukemia,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0023434,C0023418,ISA,Chronic Lymphocytic Leukemia,leukemia,neop,neop,3,ISA_NEOPisaNEOP
+C0023434,C0024299,ISA,Chronic Lymphocytic Leukemia,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0023434,C0024305,ISA,Chronic Lymphocytic Leukemia,"Lymphoma, Non-Hodgkin",neop,neop,2,ISA_NEOPisaNEOP
+C0023434,C0024314,ISA,Chronic Lymphocytic Leukemia,Lymphoproliferative Disorders,neop,neop,3,ISA_NEOPisaNEOP
+C0023434,C0027651,ISA,Chronic Lymphocytic Leukemia,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023434,C0079731,ISA,Chronic Lymphocytic Leukemia,B-Cell Lymphomas,neop,neop,2,ISA_NEOPisaNEOP
+C0023434,C0376545,ISA,Chronic Lymphocytic Leukemia,Hematologic Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0023440,C0023418,ISA,Acute Erythroblastic Leukemia,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0023440,C0027022,ISA,Acute Erythroblastic Leukemia,Myeloproliferative disease,neop,neop,1,ISA_NEOPisaNEOP
+C0023443,C0006826,ISA,Hairy Cell Leukemia,Malignant Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0023443,C0024299,ISA,Hairy Cell Leukemia,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0023448,C0376544,ISA,Lymphoid leukemia,Hematopoietic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023449,C0006826,ISA,Acute lymphocytic leukemia,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023449,C0023418,ISA,Acute lymphocytic leukemia,leukemia,neop,neop,2,ISA_NEOPisaNEOP
+C0023449,C0027651,ISA,Acute lymphocytic leukemia,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023449,C0085669,ISA,Acute lymphocytic leukemia,Acute leukemia,neop,neop,2,ISA_NEOPisaNEOP
+C0023449,C0376544,ISA,Acute lymphocytic leukemia,Hematopoietic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023449,C0376545,ISA,Acute lymphocytic leukemia,Hematologic Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023452,C0024314,ISA,Childhood Acute Lymphoblastic Leukemia,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0023467,C0006826,ISA,"Leukemia, Myelocytic, Acute",Malignant Neoplasms,neop,neop,6,ISA_NEOPisaNEOP
+C0023467,C0023418,ISA,"Leukemia, Myelocytic, Acute",leukemia,neop,neop,3,ISA_NEOPisaNEOP
+C0023467,C0023470,ISA,"Leukemia, Myelocytic, Acute",Myeloid Leukemia,neop,neop,2,ISA_NEOPisaNEOP
+C0023467,C0027022,ISA,"Leukemia, Myelocytic, Acute",Myeloproliferative disease,neop,neop,1,ISA_NEOPisaNEOP
+C0023467,C0085669,ISA,"Leukemia, Myelocytic, Acute",Acute leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0023467,C0376545,ISA,"Leukemia, Myelocytic, Acute",Hematologic Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023467,C2939461,ISA,"Leukemia, Myelocytic, Acute",Myeloid neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C0023470,C0376545,ISA,Myeloid Leukemia,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023473,C0006826,ISA,"Myeloid Leukemia, Chronic",Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023473,C0023418,ISA,"Myeloid Leukemia, Chronic",leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0023473,C0027022,ISA,"Myeloid Leukemia, Chronic",Myeloproliferative disease,neop,neop,4,ISA_NEOPisaNEOP
+C0023473,C0027651,ISA,"Myeloid Leukemia, Chronic",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023473,C0376545,ISA,"Myeloid Leukemia, Chronic",Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023473,C1292778,ISA,"Myeloid Leukemia, Chronic",Chronic myeloproliferative disorder,neop,neop,1,ISA_NEOPisaNEOP
+C0023481,C2939461,ISA,Chronic Neutrophilic Leukemia,Myeloid neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0023484,C0026764,ISA,"Leukemia, Plasma Cell",Multiple Myeloma,neop,neop,1,ISA_NEOPisaNEOP
+C0023486,C0023418,ISA,Prolymphocytic Leukemia,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0023487,C0006826,ISA,Acute Promyelocytic Leukemia,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023492,C0006826,ISA,"Leukemia, T-Cell",Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023492,C0027651,ISA,"Leukemia, T-Cell",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023492,C0376545,ISA,"Leukemia, T-Cell",Hematologic Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023493,C0006826,ISA,Adult T-Cell Lymphoma/Leukemia,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0023493,C0023492,ISA,Adult T-Cell Lymphoma/Leukemia,"Leukemia, T-Cell",neop,neop,2,ISA_NEOPisaNEOP
+C0023493,C0027651,ISA,Adult T-Cell Lymphoma/Leukemia,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023601,C0027651,ISA,Leydig Cell Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023798,C0086692,ISA,Lipoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0023827,C0006826,ISA,liposarcoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0023827,C0677930,ISA,liposarcoma,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0023903,C0006826,ISA,Liver neoplasms,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0023903,C0027651,ISA,Liver neoplasms,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0024121,C0006826,ISA,Lung Neoplasms,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024224,C0006826,ISA,lymphangiosarcoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0024299,C0006826,ISA,Lymphoma,Malignant Neoplasms,neop,neop,42,ISA_NEOPisaNEOP
+C0024299,C0023418,ISA,Lymphoma,leukemia,neop,neop,32,ISA_NEOPisaNEOP
+C0024299,C0024314,ISA,Lymphoma,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0024299,C0027651,ISA,Lymphoma,Neoplasms,neop,neop,47,ISA_NEOPisaNEOP
+C0024299,C0376544,ISA,Lymphoma,Hematopoietic Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0024299,C0376545,ISA,Lymphoma,Hematologic Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0024299,C0677930,ISA,Lymphoma,primary tumor,neop,neop,2,ISA_NEOPisaNEOP
+C0024299,C1261473,ISA,Lymphoma,Sarcoma,neop,neop,4,ISA_NEOPisaNEOP
+C0024301,C0027651,ISA,"Lymphoma, Follicular",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024302,C0023418,ISA,Reticulosarcoma,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0024302,C0024299,ISA,Reticulosarcoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0024302,C0024314,ISA,Reticulosarcoma,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0024302,C0027651,ISA,Reticulosarcoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024305,C0006826,ISA,"Lymphoma, Non-Hodgkin",Malignant Neoplasms,neop,neop,12,ISA_NEOPisaNEOP
+C0024305,C0024299,ISA,"Lymphoma, Non-Hodgkin",Lymphoma,neop,neop,6,ISA_NEOPisaNEOP
+C0024305,C0027651,ISA,"Lymphoma, Non-Hodgkin",Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0024305,C0376545,ISA,"Lymphoma, Non-Hodgkin",Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024314,C0006826,ISA,Lymphoproliferative Disorders,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0024314,C0027651,ISA,Lymphoproliferative Disorders,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0024419,C0006826,ISA,Waldenstrom Macroglobulinemia,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024419,C1136085,ISA,Waldenstrom Macroglobulinemia,Monoclonal Gammapathies,neop,neop,1,ISA_NEOPisaNEOP
+C0024623,C0006826,ISA,Malignant neoplasm of stomach,Malignant Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0024623,C0017185,ISA,Malignant neoplasm of stomach,Gastrointestinal Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024623,C0027651,ISA,Malignant neoplasm of stomach,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0024667,C0027651,ISA,Animal Mammary Neoplasms,Neoplasms,neop,neop,6,ISA_NEOPisaNEOP
+C0024793,C0024299,ISA,Marek Disease,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0024793,C0024314,ISA,Marek Disease,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0024793,C0027651,ISA,Marek Disease,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0024897,C0027651,ISA,Mastocytoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0025149,C0027651,ISA,Medulloblastoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0025202,C0006826,ISA,melanoma,Malignant Neoplasms,neop,neop,23,ISA_NEOPisaNEOP
+C0025202,C0007114,ISA,melanoma,Malignant neoplasm of skin,neop,neop,7,ISA_NEOPisaNEOP
+C0025202,C0027651,ISA,melanoma,Neoplasms,neop,neop,22,ISA_NEOPisaNEOP
+C0025202,C0037286,ISA,melanoma,Skin Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0025202,C0280100,ISA,melanoma,Solid Neoplasm,neop,neop,3,ISA_NEOPisaNEOP
+C0025202,C0677930,ISA,melanoma,primary tumor,neop,neop,5,ISA_NEOPisaNEOP
+C0025202,C1261473,ISA,melanoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0025268,C0027662,ISA,Multiple Endocrine Neoplasia Type 2a,Multiple Endocrine Neoplasia,neop,neop,1,ISA_NEOPisaNEOP
+C0025286,C0027651,ISA,Meningioma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0025286,C0677930,ISA,Meningioma,primary tumor,neop,neop,2,ISA_NEOPisaNEOP
+C0025286,C1527390,ISA,Meningioma,"Neoplasms, Intracranial",neop,neop,2,ISA_NEOPisaNEOP
+C0025500,C0027651,ISA,Mesothelioma,Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C0026277,C0027651,ISA,Mixed Salivary Gland Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0026764,C0006826,ISA,Multiple Myeloma,Malignant Neoplasms,neop,neop,12,ISA_NEOPisaNEOP
+C0026764,C0023418,ISA,Multiple Myeloma,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0026764,C0024299,ISA,Multiple Myeloma,Lymphoma,neop,neop,5,ISA_NEOPisaNEOP
+C0026764,C0024314,ISA,Multiple Myeloma,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0026764,C0027651,ISA,Multiple Myeloma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0026764,C0079731,ISA,Multiple Myeloma,B-Cell Lymphomas,neop,neop,2,ISA_NEOPisaNEOP
+C0026764,C0376545,ISA,Multiple Myeloma,Hematologic Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0026948,C0006826,ISA,Mycosis Fungoides,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0026948,C0079773,ISA,Mycosis Fungoides,"Lymphoma, T-Cell, Cutaneous",neop,neop,4,ISA_NEOPisaNEOP
+C0027022,C0027651,ISA,Myeloproliferative disease,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0027022,C0376545,ISA,Myeloproliferative disease,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0027070,C0027651,ISA,Myoepithelioma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0027149,C0027651,ISA,Myxoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0027149,C0086692,ISA,Myxoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0027627,C0027651,ISA,Neoplasm Metastasis,Neoplasms,neop,neop,15,ISA_NEOPisaNEOP
+C0027708,C0027651,ISA,Nephroblastoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0027809,C0086692,ISA,Neurilemmoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0027819,C0006826,ISA,Neuroblastoma,Malignant Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0027819,C0027651,ISA,Neuroblastoma,Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0027819,C0027654,ISA,Neuroblastoma,Embryonal Neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C0027819,C0085136,ISA,Neuroblastoma,Central Nervous System Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0027819,C0278704,ISA,Neuroblastoma,Malignant Childhood Neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C0027819,C0280100,ISA,Neuroblastoma,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0027819,C1261473,ISA,Neuroblastoma,Sarcoma,neop,neop,2,ISA_NEOPisaNEOP
+C0028882,C0027651,ISA,Odontoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0029440,C0086692,ISA,Osteoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0029463,C0006826,ISA,Osteosarcoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0029463,C0027651,ISA,Osteosarcoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0029463,C0278704,ISA,Osteosarcoma,Malignant Childhood Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0029463,C0279530,ISA,Osteosarcoma,Malignant Bone Neoplasm,neop,neop,3,ISA_NEOPisaNEOP
+C0029463,C1261473,ISA,Osteosarcoma,Sarcoma,neop,neop,2,ISA_NEOPisaNEOP
+C0029925,C0006826,ISA,Ovarian Carcinoma,Malignant Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0029925,C0027651,ISA,Ovarian Carcinoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0029925,C0699889,ISA,Ovarian Carcinoma,Malignant Female Reproductive System Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0029925,C0919267,ISA,Ovarian Carcinoma,ovarian neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0030297,C0027651,ISA,Pancreatic Neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0030354,C0006826,ISA,Papilloma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0030354,C0027651,ISA,Papilloma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0031511,C0001624,ISA,Pheochromocytoma,Adrenal Gland Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0031511,C0006826,ISA,Pheochromocytoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0031511,C0014132,ISA,Pheochromocytoma,Endocrine Gland Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0031511,C0027651,ISA,Pheochromocytoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0031511,C0030421,ISA,Pheochromocytoma,Paraganglioma,neop,neop,1,ISA_NEOPisaNEOP
+C0032000,C0014132,ISA,Pituitary Adenoma,Endocrine Gland Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0032000,C0027651,ISA,Pituitary Adenoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0032000,C0086692,ISA,Pituitary Adenoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0032131,C0027651,ISA,Plasmacytoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0032463,C0027022,ISA,Polycythemia Vera,Myeloproliferative disease,neop,neop,1,ISA_NEOPisaNEOP
+C0032463,C0376545,ISA,Polycythemia Vera,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0032463,C1292778,ISA,Polycythemia Vera,Chronic myeloproliferative disorder,neop,neop,1,ISA_NEOPisaNEOP
+C0032580,C0006826,ISA,Adenomatous Polyposis Coli,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0032927,C0027651,ISA,Precancerous Conditions,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0033375,C0032000,ISA,Prolactinoma,Pituitary Adenoma,neop,neop,1,ISA_NEOPisaNEOP
+C0033822,C0153467,ISA,Pseudomyxoma Peritonei,Malignant tumor of peritoneum,neop,neop,1,ISA_NEOPisaNEOP
+C0035244,C0027651,ISA,Respiratory Tract Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0035335,C0027651,ISA,Retinoblastoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0035335,C1261473,ISA,Retinoblastoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0035412,C0006826,ISA,Rhabdomyosarcoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0035412,C1261473,ISA,Rhabdomyosarcoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0036095,C0027651,ISA,Salivary Gland Neoplasms,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0036213,C0027651,ISA,Sarcoma 37,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0036220,C0006826,ISA,Kaposi Sarcoma,Malignant Neoplasms,neop,neop,14,ISA_NEOPisaNEOP
+C0036220,C0023418,ISA,Kaposi Sarcoma,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0036220,C0024299,ISA,Kaposi Sarcoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0036220,C0024305,ISA,Kaposi Sarcoma,"Lymphoma, Non-Hodgkin",neop,neop,5,ISA_NEOPisaNEOP
+C0036220,C0024314,ISA,Kaposi Sarcoma,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0036220,C0027651,ISA,Kaposi Sarcoma,Neoplasms,neop,neop,7,ISA_NEOPisaNEOP
+C0036220,C0282607,ISA,Kaposi Sarcoma,Vascular Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0036220,C0920774,ISA,Kaposi Sarcoma,AIDS related neoplasm/cancer,neop,neop,1,ISA_NEOPisaNEOP
+C0036220,C1261473,ISA,Kaposi Sarcoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0036224,C0027651,ISA,"Sarcoma, Yoshida",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0036631,C0027651,ISA,Seminoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0036631,C0153594,ISA,Seminoma,Malignant neoplasm of testis,neop,neop,1,ISA_NEOPisaNEOP
+C0036920,C0006826,ISA,Sezary Syndrome,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0036920,C0026948,ISA,Sezary Syndrome,Mycosis Fungoides,neop,neop,2,ISA_NEOPisaNEOP
+C0037286,C0027651,ISA,Skin Neoplasms,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0037930,C0027651,ISA,Spinal Cord Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0037999,C0027651,ISA,Splenic Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0039101,C0027651,ISA,synovial sarcoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0039101,C1261473,ISA,synovial sarcoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0039538,C0027651,ISA,Teratoma,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0039538,C0205851,ISA,Teratoma,Germ cell tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0039590,C0027651,ISA,Testicular Neoplasms,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0040100,C0027651,ISA,Thymoma,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0040136,C0027651,ISA,Thyroid Neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0042133,C0027651,ISA,Uterine Fibroids,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0042133,C1332539,ISA,Uterine Fibroids,Benign Smooth Muscle Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0079218,C0006826,ISA,"Fibromatosis, Aggressive",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0079731,C0024299,ISA,B-Cell Lymphomas,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079731,C0024305,ISA,B-Cell Lymphomas,"Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C0079731,C0027651,ISA,B-Cell Lymphomas,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0079731,C0376545,ISA,B-Cell Lymphomas,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0079731,C1261473,ISA,B-Cell Lymphomas,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079744,C0006826,ISA,Diffuse Large B-Cell Lymphoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0079744,C0024299,ISA,Diffuse Large B-Cell Lymphoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079744,C0024305,ISA,Diffuse Large B-Cell Lymphoma,"Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C0079744,C0079731,ISA,Diffuse Large B-Cell Lymphoma,B-Cell Lymphomas,neop,neop,1,ISA_NEOPisaNEOP
+C0079746,C0024305,ISA,Immunoblastic Large-Cell Lymphoma,"Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C0079746,C0079731,ISA,Immunoblastic Large-Cell Lymphoma,B-Cell Lymphomas,neop,neop,1,ISA_NEOPisaNEOP
+C0079747,C0024299,ISA,Low Grade Lymphoma (neoplasm),Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079772,C0006826,ISA,T-Cell Lymphoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0079772,C0023418,ISA,T-Cell Lymphoma,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0079772,C0024299,ISA,T-Cell Lymphoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079772,C0598798,ISA,T-Cell Lymphoma,Lymphoid neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0079773,C0006826,ISA,"Lymphoma, T-Cell, Cutaneous",Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0079773,C0024299,ISA,"Lymphoma, T-Cell, Cutaneous",Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079773,C0079772,ISA,"Lymphoma, T-Cell, Cutaneous",T-Cell Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0079774,C0006826,ISA,Peripheral T-Cell Lymphoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0079774,C0024299,ISA,Peripheral T-Cell Lymphoma,Lymphoma,neop,neop,2,ISA_NEOPisaNEOP
+C0085090,C0023418,ISA,"Lymphoma, AIDS-Related",leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0085090,C0024299,ISA,"Lymphoma, AIDS-Related",Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0085136,C0027651,ISA,Central Nervous System Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0085167,C0027651,ISA,Granular cell tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0085669,C0006826,ISA,Acute leukemia,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0085669,C0376545,ISA,Acute leukemia,Hematologic Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0086692,C0027651,ISA,Benign Neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0149637,C0006826,ISA,Lip Carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0149637,C0027651,ISA,Lip Carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0149925,C0006826,ISA,Small cell carcinoma of lung,Malignant Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0149925,C0027651,ISA,Small cell carcinoma of lung,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0149925,C0242379,ISA,Small cell carcinoma of lung,Malignant neoplasm of lung,neop,neop,4,ISA_NEOPisaNEOP
+C0149927,C0086692,ISA,Hamartoma of lung,Benign Neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C0151544,C0027651,ISA,Gastrointestinal carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0153381,C0006826,ISA,Malignant neoplasm of mouth,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0153392,C0027651,ISA,Malignant neoplasm of nasopharynx,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0153633,C0006826,ISA,Malignant neoplasm of brain,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0153676,C0027651,ISA,Secondary malignant neoplasm of lung,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0153676,C2939419,ISA,Secondary malignant neoplasm of lung,Secondary Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0205650,C0027651,ISA,Papillary adenoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0205699,C0027651,ISA,Carcinomatosis,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0205699,C2939419,ISA,Carcinomatosis,Secondary Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0205866,C0028882,ISA,"Odontoma, Compound",Odontoma,neop,neop,1,ISA_NEOPisaNEOP
+C0205874,C0027651,ISA,"Papilloma, Squamous Cell",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206180,C0024299,ISA,Ki-1+ Anaplastic Large Cell Lymphoma,Lymphoma,neop,neop,4,ISA_NEOPisaNEOP
+C0206180,C0079772,ISA,Ki-1+ Anaplastic Large Cell Lymphoma,T-Cell Lymphoma,neop,neop,2,ISA_NEOPisaNEOP
+C0206182,C0024314,ISA,Lymphomatoid Papulosis,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0206186,C0027651,ISA,"Leukoplakia, Hairy",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206623,C0027651,ISA,Adenosquamous carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206635,C0086692,ISA,Myelolipoma,Benign Neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C0206658,C0027651,ISA,Smooth Muscle Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206669,C0086692,ISA,Hepatocellular Adenoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0206674,C0001430,ISA,"Adenoma, Villous",Adenoma,neop,neop,1,ISA_NEOPisaNEOP
+C0206677,C0001430,ISA,Adenomatous Polyps,Adenoma,neop,neop,1,ISA_NEOPisaNEOP
+C0206694,C0006826,ISA,Mucoepidermoid Carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206694,C0027651,ISA,Mucoepidermoid Carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206695,C0027651,ISA,"Carcinoma, Neuroendocrine",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206698,C0006826,ISA,Cholangiocarcinoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0206698,C0027651,ISA,Cholangiocarcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206704,C0006826,ISA,"Carcinoma, Large Cell",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206708,C0032927,ISA,Cervical Intraepithelial Neoplasia,Precancerous Conditions,neop,neop,1,ISA_NEOPisaNEOP
+C0206717,C0006826,ISA,Olfactory Neuroblastoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206717,C0027651,ISA,Olfactory Neuroblastoma,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0206720,C0027651,ISA,Squamous Cell Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206721,C0027651,ISA,Inverted Papilloma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0206734,C0206733,ISA,Hemangioblastoma,Strawberry nevus of skin,neop,neop,1,ISA_NEOPisaNEOP
+C0206754,C0027651,ISA,Neuroendocrine Tumors,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0220630,C0006826,ISA,Adult Liver Carcinoma,Malignant Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0220636,C0153381,ISA,Malignant neoplasm of salivary gland,Malignant neoplasm of mouth,neop,neop,1,ISA_NEOPisaNEOP
+C0220650,C0006826,ISA,Metastatic malignant neoplasm to brain,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0235974,C0006826,ISA,Pancreatic carcinoma,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0235974,C0027651,ISA,Pancreatic carcinoma,Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0238198,C0006826,ISA,Gastrointestinal Stromal Tumors,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0238198,C0017185,ISA,Gastrointestinal Stromal Tumors,Gastrointestinal Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0238198,C0027651,ISA,Gastrointestinal Stromal Tumors,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0238198,C1334699,ISA,Gastrointestinal Stromal Tumors,Mesenchymal Cell Neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C0238258,C0027627,ISA,Lymphangitis carcinomatosa,Neoplasm Metastasis,neop,neop,1,ISA_NEOPisaNEOP
+C0238258,C0242379,ISA,Lymphangitis carcinomatosa,Malignant neoplasm of lung,neop,neop,1,ISA_NEOPisaNEOP
+C0238348,C0006826,ISA,Squamous cell carcinoma of penis,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0240164,C0030354,ISA,Squamous Papilloma of the Larynx,Papilloma,neop,neop,1,ISA_NEOPisaNEOP
+C0241060,C0027651,ISA,Cyst of skin,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0242363,C0030297,ISA,Islet Cell Tumor,Pancreatic Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0242379,C0006826,ISA,Malignant neoplasm of lung,Malignant Neoplasms,neop,neop,24,ISA_NEOPisaNEOP
+C0242379,C0027651,ISA,Malignant neoplasm of lung,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0242596,C0027651,ISA,"Neoplasm, Residual",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0242647,C0006826,ISA,Mucosa-Associated Lymphoid Tissue Lymphoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0242647,C0024299,ISA,Mucosa-Associated Lymphoid Tissue Lymphoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0260037,C0027651,ISA,Multiple tumors,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0262584,C0001418,ISA,"Carcinoma, Small Cell",Adenocarcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0262584,C0006826,ISA,"Carcinoma, Small Cell",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0262584,C0280100,ISA,"Carcinoma, Small Cell",Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0262584,C0677930,ISA,"Carcinoma, Small Cell",primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0276535,C0036220,ISA,AIDS with Kaposi's sarcoma,Kaposi Sarcoma,neop,neop,2,ISA_NEOPisaNEOP
+C0278488,C0006826,ISA,Carcinoma breast stage IV,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0278510,C0153633,ISA,Childhood Medulloblastoma,Malignant neoplasm of brain,neop,neop,1,ISA_NEOPisaNEOP
+C0278678,C0280100,ISA,Metastatic Renal Cell Cancer,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0278701,C0024623,ISA,Gastric Adenocarcinoma,Malignant neoplasm of stomach,neop,neop,1,ISA_NEOPisaNEOP
+C0278803,C0017185,ISA,Adenocarcinoma of small intestine,Gastrointestinal Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0278883,C0006826,ISA,Metastatic melanoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0278883,C0280100,ISA,Metastatic melanoma,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0278884,C0025202,ISA,recurrent melanoma,melanoma,neop,neop,1,ISA_NEOPisaNEOP
+C0278996,C0006826,ISA,Malignant Head and Neck Neoplasm,Malignant Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0279000,C0006826,ISA,Liver and Intrahepatic Biliary Tract Carcinoma,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0279068,C0006826,ISA,Childhood Solid Neoplasm,Malignant Neoplasms,neop,neop,13,ISA_NEOPisaNEOP
+C0279068,C0027651,ISA,Childhood Solid Neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0279606,C0006826,ISA,Childhood Hepatocellular Carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0280100,C0006826,ISA,Solid Neoplasm,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0280131,C0027651,ISA,Ovarian Teratoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0280803,C0742472,ISA,Primary central nervous system lymphoma,cns lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0281361,C0001418,ISA,Adenocarcinoma of pancreas,Adenocarcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0281361,C0006826,ISA,Adenocarcinoma of pancreas,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0282612,C0677930,ISA,Prostatic Intraepithelial Neoplasias,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0302592,C0006826,ISA,Cervix carcinoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0333516,C0027651,ISA,Tumor necrosis,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334247,C0027651,ISA,"Squamous cell carcinoma, keratinizing",Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0334248,C0006826,ISA,"Squamous cell carcinoma, large cell, nonkeratinizing",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334254,C1368683,ISA,Lymphoepithelial carcinoma,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C0334262,C0037286,ISA,Trichofolliculoma,Skin Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334276,C0001418,ISA,Adenocarcinoma in Situ,Adenocarcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C0334276,C0006826,ISA,Adenocarcinoma in Situ,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334279,C0006826,ISA,"Adenocarcinoma, intestinal type",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334279,C0027651,ISA,"Adenocarcinoma, intestinal type",Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334303,C0027651,ISA,Alveolar adenoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334303,C0345964,ISA,Alveolar adenoma,Adenoma of lung,neop,neop,2,ISA_NEOPisaNEOP
+C0334417,C0030422,ISA,Neoplasm of aortic body,Extra-Adrenal Paraganglioma,neop,neop,1,ISA_NEOPisaNEOP
+C0334424,C0027651,ISA,Nodular melanoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334520,C0027651,ISA,"Teratoma, Malignant",Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0334563,C0028882,ISA,Complex odontoma,Odontoma,neop,neop,2,ISA_NEOPisaNEOP
+C0334634,C0024299,ISA,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0334634,C0024305,ISA,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse","Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C0334634,C0376545,ISA,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334663,C0006826,ISA,Histiocytic sarcoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334663,C0027651,ISA,Histiocytic sarcoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334664,C0027651,ISA,Mast Cell Neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334664,C0677930,ISA,Mast Cell Neoplasm,primary tumor,neop,neop,1,ISA_NEOPisaNEOP
+C0334689,C0027651,ISA,C cell tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0334701,C0027651,ISA,Equine sarcoid,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0343640,C0024299,ISA,African Burkitt's lymphoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C0345964,C0027651,ISA,Adenoma of lung,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0345967,C0032229,ISA,Malignant mesothelioma,Pleural Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0345992,C0037286,ISA,Pilar tumor,Skin Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0346208,C0006826,ISA,Vaginal intraepithelial neoplasia,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0346326,C0017638,ISA,Optic Nerve Glioma,Glioma,neop,neop,1,ISA_NEOPisaNEOP
+C0346429,C0027651,ISA,Multiple malignancy,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0347129,C0027651,ISA,Anal intraepithelial neoplasia,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0347390,C0027651,ISA,Skin Papilloma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0347390,C0030354,ISA,Skin Papilloma,Papilloma,neop,neop,1,ISA_NEOPisaNEOP
+C0348374,C0006826,ISA,Malignant Central Nervous System Neoplasm,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0349459,C0206708,ISA,Cervical intraepithelial neoplasia grade 2,Cervical Intraepithelial Neoplasia,neop,neop,1,ISA_NEOPisaNEOP
+C0349532,C0006826,ISA,Gastric lymphoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0349639,C0027022,ISA,Juvenile Myelomonocytic Leukemia,Myeloproliferative disease,neop,neop,1,ISA_NEOPisaNEOP
+C0349661,C0027651,ISA,Glial tumor of brain (disorder),Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0376358,C0006826,ISA,Malignant neoplasm of prostate,Malignant Neoplasms,neop,neop,16,ISA_NEOPisaNEOP
+C0376358,C0027651,ISA,Malignant neoplasm of prostate,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0376358,C0280100,ISA,Malignant neoplasm of prostate,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0376545,C0006826,ISA,Hematologic Neoplasms,Malignant Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0376545,C0027651,ISA,Hematologic Neoplasms,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0376545,C1882062,ISA,Hematologic Neoplasms,Neoplastic disease,neop,neop,1,ISA_NEOPisaNEOP
+C0432487,C0006826,ISA,Post-transplant lymphoproliferative disorder,Malignant Neoplasms,neop,neop,5,ISA_NEOPisaNEOP
+C0432487,C0024299,ISA,Post-transplant lymphoproliferative disorder,Lymphoma,neop,neop,2,ISA_NEOPisaNEOP
+C0432487,C0024314,ISA,Post-transplant lymphoproliferative disorder,Lymphoproliferative Disorders,neop,neop,3,ISA_NEOPisaNEOP
+C0432487,C0027651,ISA,Post-transplant lymphoproliferative disorder,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0432487,C0598798,ISA,Post-transplant lymphoproliferative disorder,Lymphoid neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0456889,C0024305,ISA,Enteropathy-Associated T-Cell Lymphoma,"Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C0494165,C2939419,ISA,Secondary malignant neoplasm of liver,Secondary Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0496836,C0006826,ISA,Malignant tumor of eye,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0496901,C0086692,ISA,Benign neoplasm of pituitary gland,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0521158,C0027651,ISA,Recurrent tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0549463,C0024314,ISA,X-Linked Lymphoproliferative Disorder,Lymphoproliferative Disorders,neop,neop,1,ISA_NEOPisaNEOP
+C0553580,C0006826,ISA,Ewings sarcoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0553580,C0027651,ISA,Ewings sarcoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0553580,C0278704,ISA,Ewings sarcoma,Malignant Childhood Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0553580,C0280100,ISA,Ewings sarcoma,Solid Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0553580,C1261473,ISA,Ewings sarcoma,Sarcoma,neop,neop,1,ISA_NEOPisaNEOP
+C0555198,C0027651,ISA,Malignant Glioma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0555201,C0027651,ISA,Esthesioneurocytoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0558356,C0006826,ISA,Malignant melanoma of eye,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0596263,C0006826,ISA,Carcinogenesis,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0596263,C0027651,ISA,Carcinogenesis,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0596978,C0027651,ISA,Mouse Leukemia,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0598894,C1279296,ISA,Monocytic leukemia,Chronic leukemia (category),neop,neop,1,ISA_NEOPisaNEOP
+C0598935,C0178874,ISA,Tumor Initiation,Tumor Progression,neop,neop,1,ISA_NEOPisaNEOP
+C0600139,C0006826,ISA,Prostate carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0600139,C0027651,ISA,Prostate carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0677886,C0006826,ISA,Epithelial ovarian cancer,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0677886,C0027651,ISA,Epithelial ovarian cancer,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0677930,C0027651,ISA,primary tumor,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0677936,C0006826,ISA,refractory cancer,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0678222,C0006826,ISA,Breast Carcinoma,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0678222,C0027651,ISA,Breast Carcinoma,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C0684249,C0027651,ISA,Carcinoma of lung,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0684249,C0086692,ISA,Carcinoma of lung,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C0684550,C0153690,ISA,Secondary malignant neoplasm of vertebral column,Secondary malignant neoplasm of bone,neop,neop,2,ISA_NEOPisaNEOP
+C0685201,C0027651,ISA,Hemangioma of spleen,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0685938,C0006826,ISA,Malignant neoplasm of gastrointestinal tract,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0699790,C0027651,ISA,Colon Carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0699791,C0006826,ISA,Stomach Carcinoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0699791,C1368683,ISA,Stomach Carcinoma,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C0699893,C0007114,ISA,Skin carcinoma,Malignant neoplasm of skin,neop,neop,1,ISA_NEOPisaNEOP
+C0750974,C0006118,ISA,"Brain Tumor, Primary",Brain Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0750974,C0006826,ISA,"Brain Tumor, Primary",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0750979,C0027651,ISA,Primary malignant neoplasm of brain,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0751569,C0006826,ISA,Genitourinary Cancer,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0751623,C0006826,ISA,Second Primary Cancers,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C0751690,C0027651,ISA,Malignant Peripheral Nerve Sheath Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0812413,C0025500,ISA,Malignant Pleural Mesothelioma,Mesothelioma,neop,neop,1,ISA_NEOPisaNEOP
+C0812413,C0027651,ISA,Malignant Pleural Mesothelioma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0813175,C0006826,ISA,metastatic hypernephroma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0851140,C0007847,ISA,Carcinoma in situ of uterine cervix,Malignant tumor of cervix,neop,neop,1,ISA_NEOPisaNEOP
+C0851140,C0206708,ISA,Carcinoma in situ of uterine cervix,Cervical Intraepithelial Neoplasia,neop,neop,1,ISA_NEOPisaNEOP
+C0854777,C0006826,ISA,recurrent pancreatic cancer,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0862889,C0027651,ISA,Superficial basal cell carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0877373,C0027627,ISA,advanced cancer,Neoplasm Metastasis,neop,neop,1,ISA_NEOPisaNEOP
+C0877373,C0027651,ISA,advanced cancer,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0919267,C0006826,ISA,ovarian neoplasm,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0936223,C1330959,ISA,Metastatic Prostate Carcinoma,Primary malignant neoplasm of prostate,neop,neop,1,ISA_NEOPisaNEOP
+C0936282,C0027651,ISA,Blastoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0948216,C0006826,ISA,ovarian adenocarcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C0948380,C0006826,ISA,metastatic colorectal cancer,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C0948976,C0023418,ISA,Leukemic infiltration of skin,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C0949541,C0027651,ISA,Hurthle Cell Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1096653,C0027651,ISA,Metastatic Carcinomas,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1134719,C0006826,ISA,Invasive Ductal Breast Carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1134719,C1176475,ISA,Invasive Ductal Breast Carcinoma,Ductal Carcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C1135873,C0008497,ISA,"Choriocarcinoma, Non-gestational",Choriocarcinoma,neop,neop,1,ISA_NEOPisaNEOP
+C1153706,C0027651,ISA,Endometrial adenocarcinoma,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C1168401,C0006826,ISA,Squamous cell carcinoma of the head and neck,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C1168401,C0278996,ISA,Squamous cell carcinoma of the head and neck,Malignant Head and Neck Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C1168401,C3887461,ISA,Squamous cell carcinoma of the head and neck,Head and Neck Carcinoma,neop,neop,2,ISA_NEOPisaNEOP
+C1261473,C0006826,ISA,Sarcoma,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C1261473,C0027651,ISA,Sarcoma,Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C1266032,C0206695,ISA,Atypical carcinoid tumor,"Carcinoma, Neuroendocrine",neop,neop,1,ISA_NEOPisaNEOP
+C1266194,C0019829,ISA,Lymphocyte Rich Classical Hodgkin Lymphoma,Hodgkin Disease,neop,neop,1,ISA_NEOPisaNEOP
+C1276146,C0024299,ISA,Cutaneous lymphoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1292753,C0024314,ISA,Primary Effusion Lymphoma,Lymphoproliferative Disorders,neop,neop,2,ISA_NEOPisaNEOP
+C1292753,C0079744,ISA,Primary Effusion Lymphoma,Diffuse Large B-Cell Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1292769,C0023449,ISA,Precursor B-cell lymphoblastic leukemia,Acute lymphocytic leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C1292778,C0027022,ISA,Chronic myeloproliferative disorder,Myeloproliferative disease,neop,neop,1,ISA_NEOPisaNEOP
+C1292780,C1306459,ISA,Therapy-related myelodysplastic syndrome,Primary malignant neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C1299307,C1306459,ISA,Primary malignant neoplasm of the peritoneum,Primary malignant neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C1301363,C0027651,ISA,Blastic plasmacytoid dendritic cell neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1302547,C0023418,ISA,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C1306459,C0006826,ISA,Primary malignant neoplasm,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C1306460,C0006826,ISA,Primary malignant neoplasm of lung,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1306460,C0027651,ISA,Primary malignant neoplasm of lung,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1319315,C0027651,ISA,Adenocarcinoma of large intestine,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1330959,C0027651,ISA,Primary malignant neoplasm of prostate,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C1332078,C0206180,ISA,"Anaplastic large cell lymphoma, ALK negative",Ki-1+ Anaplastic Large Cell Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1332206,C0006826,ISA,Adult Lymphoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1332225,C0024299,ISA,Aggressive Non-Hodgkin Lymphoma,Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1333434,C0432487,ISA,EBV-Related Post-Transplant Lymphoproliferative Disorder,Post-transplant lymphoproliferative disorder,neop,neop,1,ISA_NEOPisaNEOP
+C1333782,C0024623,ISA,Gastric Mucosa-Associated Lymphoid Tissue Lymphoma,Malignant neoplasm of stomach,neop,neop,1,ISA_NEOPisaNEOP
+C1333799,C0006826,ISA,Digestive System Neuroendocrine Neoplasm,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1333962,C1334699,ISA,Hepatic Angiomyolipoma,Mesenchymal Cell Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C1333984,C1332225,ISA,Hepatosplenic T-cell lymphoma,Aggressive Non-Hodgkin Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1333990,C0007102,ISA,Hereditary Nonpolyposis Colorectal Cancer,Malignant tumor of colon,neop,neop,1,ISA_NEOPisaNEOP
+C1334177,C0006826,ISA,Infiltrating Cervical Carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1334305,C0086692,ISA,Juxta-Articular Myxoma,Benign Neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C1334305,C0334450,ISA,Juxta-Articular Myxoma,Benign neoplasm of soft tissue,neop,neop,1,ISA_NEOPisaNEOP
+C1334466,C0023492,ISA,Lymphomatous Adult T-Cell Leukemia/Lymphoma,"Leukemia, T-Cell",neop,neop,1,ISA_NEOPisaNEOP
+C1334466,C0079772,ISA,Lymphomatous Adult T-Cell Leukemia/Lymphoma,T-Cell Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1334815,C0006826,ISA,Multi-centric Castleman's Disease,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1334815,C0024314,ISA,Multi-centric Castleman's Disease,Lymphoproliferative Disorders,neop,neop,3,ISA_NEOPisaNEOP
+C1334968,C0019829,ISA,Nodular Lymphocyte Predominant Hodgkin Lymphoma,Hodgkin Disease,neop,neop,1,ISA_NEOPisaNEOP
+C1334968,C0027651,ISA,Nodular Lymphocyte Predominant Hodgkin Lymphoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1335141,C0030354,ISA,Oropharyngeal squamous papilloma,Papilloma,neop,neop,1,ISA_NEOPisaNEOP
+C1335299,C0027651,ISA,Pancreatic Adenosquamous Carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1335302,C0006826,ISA,Pancreatic Ductal Adenocarcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1335302,C0027651,ISA,Pancreatic Ductal Adenocarcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1335434,C0027651,ISA,Lipoma of pleura,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1336708,C0027651,ISA,Testicular Germ Cell Tumor,Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C1336905,C0006826,ISA,Endometrial Endometrioid Adenocarcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1367420,C0027651,ISA,Kaposiform Hemangioendothelioma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1367652,C0242647,ISA,BALT lymphoma,Mucosa-Associated Lymphoid Tissue Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C1368683,C0027651,ISA,Epithelioma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1368871,C0027651,ISA,Pediatric Neoplasm,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1377913,C0027651,ISA,Pleural Mesothelioma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1384494,C0006826,ISA,Metastatic Carcinoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1458155,C0006826,ISA,Mammary Neoplasms,Malignant Neoplasms,neop,neop,8,ISA_NEOPisaNEOP
+C1511934,C0027651,ISA,Differentiating Neuroblastoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1514301,C0024305,ISA,Precursor B-cell neoplasm,"Lymphoma, Non-Hodgkin",neop,neop,1,ISA_NEOPisaNEOP
+C1519176,C0036095,ISA,Salivary Gland Pleomorphic Adenoma,Salivary Gland Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1527249,C0006826,ISA,Colorectal Cancer,Malignant Neoplasms,neop,neop,2,ISA_NEOPisaNEOP
+C1562010,C0019621,ISA,Langerhans cell histiocytosis of lung,"Histiocytosis, Langerhans-Cell",neop,neop,1,ISA_NEOPisaNEOP
+C1704453,C0030354,ISA,Oncocytic Schneiderian papilloma,Papilloma,neop,neop,1,ISA_NEOPisaNEOP
+C1708566,C0027651,ISA,Invasive Prostate Carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1708773,C0006826,ISA,Lung Melanoma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C1961099,C0376545,ISA,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C2004493,C0006826,ISA,"Leukemia, B-Cell",Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C2239176,C0006826,ISA,Liver carcinoma,Malignant Neoplasms,neop,neop,23,ISA_NEOPisaNEOP
+C2239176,C0007097,ISA,Liver carcinoma,Carcinoma,neop,neop,2,ISA_NEOPisaNEOP
+C2239176,C0017185,ISA,Liver carcinoma,Gastrointestinal Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C2239176,C0024620,ISA,Liver carcinoma,Primary Malignant Liver Neoplasm,neop,neop,2,ISA_NEOPisaNEOP
+C2239176,C0027651,ISA,Liver carcinoma,Neoplasms,neop,neop,12,ISA_NEOPisaNEOP
+C2239176,C0279000,ISA,Liver carcinoma,Liver and Intrahepatic Biliary Tract Carcinoma,neop,neop,3,ISA_NEOPisaNEOP
+C2239176,C1368683,ISA,Liver carcinoma,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C2363142,C0023486,ISA,T-Cell Prolymphocytic Leukemia,Prolymphocytic Leukemia,neop,neop,1,ISA_NEOPisaNEOP
+C2825306,C0027627,ISA,Therapy-Related Leukemia,Neoplasm Metastasis,neop,neop,1,ISA_NEOPisaNEOP
+C2930987,C0039538,ISA,Paranasal sinus teratocarcinosarcoma (type),Teratoma,neop,neop,1,ISA_NEOPisaNEOP
+C2931822,C0006826,ISA,Nasopharyngeal carcinoma,Malignant Neoplasms,neop,neop,11,ISA_NEOPisaNEOP
+C2931822,C0007097,ISA,Nasopharyngeal carcinoma,Carcinoma,neop,neop,2,ISA_NEOPisaNEOP
+C2931822,C0027651,ISA,Nasopharyngeal carcinoma,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C2931822,C1306459,ISA,Nasopharyngeal carcinoma,Primary malignant neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C2931822,C1368683,ISA,Nasopharyngeal carcinoma,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C2939419,C0006826,ISA,Secondary Neoplasm,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C2939419,C0027627,ISA,Secondary Neoplasm,Neoplasm Metastasis,neop,neop,4,ISA_NEOPisaNEOP
+C2939419,C0027651,ISA,Secondary Neoplasm,Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C2939419,C0178874,ISA,Secondary Neoplasm,Tumor Progression,neop,neop,3,ISA_NEOPisaNEOP
+C2939461,C0376545,ISA,Myeloid neoplasm,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C2986658,C0017638,ISA,Diffuse Intrinsic Pontine Glioma,Glioma,neop,neop,1,ISA_NEOPisaNEOP
+C3165160,C0027651,ISA,Ewing's sarcoma of soft tissue,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3272528,C0006826,ISA,Small Intestinal Neuroendocrine Tumor,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3272528,C0027651,ISA,Small Intestinal Neuroendocrine Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3463824,C0006826,ISA,MYELODYSPLASTIC SYNDROME,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3463824,C0027022,ISA,MYELODYSPLASTIC SYNDROME,Myeloproliferative disease,neop,neop,3,ISA_NEOPisaNEOP
+C3463824,C0376545,ISA,MYELODYSPLASTIC SYNDROME,Hematologic Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3463824,C2939461,ISA,MYELODYSPLASTIC SYNDROME,Myeloid neoplasm,neop,neop,1,ISA_NEOPisaNEOP
+C3539878,C0006142,ISA,Triple Negative Breast Neoplasms,Malignant neoplasm of breast,neop,neop,2,ISA_NEOPisaNEOP
+C3665419,C0006826,ISA,intracranial glioma,Malignant Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3669048,C0027651,ISA,Round cell tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3669246,C0027651,ISA,Mammary adenocarcinoma,Neoplasms,neop,neop,4,ISA_NEOPisaNEOP
+C3686818,C1368683,ISA,Fibropapilloma,Epithelioma,neop,neop,1,ISA_NEOPisaNEOP
+C3714542,C0024299,ISA,"Lymphoma, Diffuse",Lymphoma,neop,neop,1,ISA_NEOPisaNEOP
+C3887461,C0006826,ISA,Head and Neck Carcinoma,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C3887461,C0027651,ISA,Head and Neck Carcinoma,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C3890429,C0027651,ISA,Liquid Tumor,Neoplasms,neop,neop,1,ISA_NEOPisaNEOP
+C4048328,C0006826,ISA,cervical cancer,Malignant Neoplasms,neop,neop,3,ISA_NEOPisaNEOP
+C4289690,C0017638,ISA,Diffuse Glioma,Glioma,neop,neop,1,ISA_NEOPisaNEOP

@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0025519,ISA,Autophagy,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C0007581,C0001811,ISA,Cellular Senescence,Aging,celf,orgf,2,ISA_CELFisaORGF
+C0007586,C0025519,ISA,Cell Cycle,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C0007590,C0018270,ISA,Cell division,Growth,celf,orgf,2,ISA_CELFisaORGF
+C0007590,C0025519,ISA,Cell division,Metabolism,celf,orgf,2,ISA_CELFisaORGF
+C0007595,C0018270,ISA,cell growth,Growth,celf,orgf,3,ISA_CELFisaORGF
+C0008018,C0026649,ISA,Chemotaxis,Movement,celf,orgf,6,ISA_CELFisaORGF
+C0009835,C0018270,ISA,Contact Inhibition,Growth,celf,orgf,1,ISA_CELFisaORGF
+C0010813,C0018270,ISA,Cytokinesis,Growth,celf,orgf,3,ISA_CELFisaORGF
+C0010813,C0025519,ISA,Cytokinesis,Metabolism,celf,orgf,2,ISA_CELFisaORGF
+C0010813,C0026559,ISA,Cytokinesis,Morphogenesis,celf,orgf,8,ISA_CELFisaORGF
+C0010813,C0678723,ISA,Cytokinesis,Biologic Development,celf,orgf,38,ISA_CELFisaORGF
+C0026255,C0018270,ISA,Mitosis,Growth,celf,orgf,1,ISA_CELFisaORGF
+C0027793,C0025519,ISA,Synaptic Transmission,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C0037083,C0005486,ISA,Signal Transduction,Bioenergetics,celf,orgf,1,ISA_CELFisaORGF
+C0037083,C0025519,ISA,Signal Transduction,Metabolism,celf,orgf,6,ISA_CELFisaORGF
+C0037848,C1510470,ISA,Sperm Motility,Motility,celf,orgf,2,ISA_CELFisaORGF
+C0162638,C0025519,ISA,Apoptosis,Metabolism,celf,orgf,2,ISA_CELFisaORGF
+C0206431,C0020966,ISA,Antigen Presentation,Cellular Immunity,celf,orgf,2,ISA_CELFisaORGF
+C0206431,C0678889,ISA,Antigen Presentation,Immunoregulation,celf,orgf,1,ISA_CELFisaORGF
+C0596286,C0018270,ISA,Cell Growth Regulation,Growth,celf,orgf,1,ISA_CELFisaORGF
+C0596290,C0018270,ISA,Cell Proliferation,Growth,celf,orgf,2,ISA_CELFisaORGF
+C0596991,C0678723,ISA,myelination,Biologic Development,celf,orgf,17,ISA_CELFisaORGF
+C0597306,C0026649,ISA,protoplasm motility,Movement,celf,orgf,1,ISA_CELFisaORGF
+C0599814,C0025519,ISA,Intracellular Transport,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C1155003,C0678723,ISA,B-Cell Activation,Biologic Development,celf,orgf,1,ISA_CELFisaORGF
+C1155046,C0020966,ISA,T-Cell Proliferation,Cellular Immunity,celf,orgf,1,ISA_CELFisaORGF
+C1155064,C0678723,ISA,NK Cell Activation,Biologic Development,celf,orgf,1,ISA_CELFisaORGF
+C1155065,C0678723,ISA,T-Cell Activation,Biologic Development,celf,orgf,3,ISA_CELFisaORGF
+C1155711,C0018270,ISA,Stem Cell Self-Renewal,Growth,celf,orgf,1,ISA_CELFisaORGF
+C1155873,C0018270,ISA,Cell Cycle Arrest,Growth,celf,orgf,2,ISA_CELFisaORGF
+C1327584,C0026649,ISA,positive phototaxis,Movement,celf,orgf,1,ISA_CELFisaORGF
+C1516334,C0018270,ISA,Cell Cycle Progression,Growth,celf,orgf,1,ISA_CELFisaORGF
+C1516337,C0018270,ISA,Cell Cycle Phase,Growth,celf,orgf,1,ISA_CELFisaORGF
+C1516375,C0018270,ISA,Cellular Tropism,Growth,celf,orgf,2,ISA_CELFisaORGF
+C1519624,C0025519,ISA,Transmembrane Transport,Metabolism,celf,orgf,2,ISA_CELFisaORGF
+C1523935,C0699900,ISA,cellular catabolic process,Catabolism,celf,orgf,1,ISA_CELFisaORGF
+C1523942,C0025519,ISA,cellular lipid metabolic process,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C1820119,C0699900,ISA,Mitochondrial Degradation,Catabolism,celf,orgf,2,ISA_CELFisaORGF
+C2244223,C0025519,ISA,cellular homeostasis,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C2612762,C0025519,ISA,cellular macromolecule biosynthetic process,Metabolism,celf,orgf,1,ISA_CELFisaORGF
+C2984268,C0814002,ISA,Axon Guidance,Neurogenesis,celf,orgf,1,ISA_CELFisaORGF
+C3156669,C1819437,ISA,interleukin-10 secretion,interleukin-10 production,celf,orgf,1,ISA_CELFisaORGF
+C3158384,C0814002,ISA,neurite outgrowth,Neurogenesis,celf,orgf,1,ISA_CELFisaORGF
+C3158899,C0678723,ISA,T-helper 1 cell activation,Biologic Development,celf,orgf,1,ISA_CELFisaORGF
+C4236836,C0023796,ISA,lipophagy,Lipolysis,celf,orgf,1,ISA_CELFisaORGF

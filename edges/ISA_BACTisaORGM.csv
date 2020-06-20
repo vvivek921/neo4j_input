@@ -1,0 +1,155 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001084,C0445623,ISA,Achromobacter,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0001138,C0445623,ISA,Acinetobacter,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0001250,C0445623,ISA,Actinomyces,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0001699,C0445623,ISA,Klebsiella pneumoniae,Microorganism,bact,orgm,8,ISA_BACTisaORGM
+C0002795,C0445623,ISA,Anaplasmataceae,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0004587,C0445623,ISA,Bacillus <bacterium>,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0004589,C0445623,ISA,Bacillus anthracis,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0004595,C0445623,ISA,Bacillus subtilis,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0004611,C0445623,ISA,Bacteria,Microorganism,bact,orgm,198,ISA_BACTisaORGM
+C0004611,C0596971,ISA,Bacteria,monera,bact,orgm,1,ISA_BACTisaORGM
+C0004611,C0686817,ISA,Bacteria,Prokaryote,bact,orgm,19,ISA_BACTisaORGM
+C0004611,C2746012,ISA,Bacteria,cellular organisms,bact,orgm,2,ISA_BACTisaORGM
+C0004612,C0445623,ISA,"Bacteria, Aerobic",Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0004613,C0445623,ISA,"Bacteria, Anaerobic",Microorganism,bact,orgm,4,ISA_BACTisaORGM
+C0005380,C0445623,ISA,Bifidobacterium,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0006013,C0445623,ISA,genus Bordetella,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0006017,C0445623,ISA,Bordetella pertussis,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0006132,C0445623,ISA,Moraxella (Branhamella) catarrhalis,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0006304,C0445623,ISA,Brucella abortus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0006813,C0445623,ISA,Campylobacter,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0008148,C0445623,ISA,Chlamydia,Microorganism,bact,orgm,4,ISA_BACTisaORGM
+C0008151,C0445623,ISA,Chlamydia trachomatis,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0009054,C0445623,ISA,Clostridium,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0009063,C0445623,ISA,Clostridium perfringens,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0010240,C0445623,ISA,Coxiella burnetii,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0011731,C0445623,ISA,Desulfovibrio,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0014346,C0445623,ISA,Enterobacteriaceae,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0014833,C0445623,ISA,Escherichia,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0014834,C0445623,ISA,Escherichia coli,Microorganism,bact,orgm,36,ISA_BACTisaORGM
+C0014834,C0686817,ISA,Escherichia coli,Prokaryote,bact,orgm,13,ISA_BACTisaORGM
+C0018150,C0445623,ISA,Gram-Negative Bacteria,Microorganism,bact,orgm,11,ISA_BACTisaORGM
+C0018150,C0686817,ISA,Gram-Negative Bacteria,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0018154,C0445623,ISA,Gram-Positive Bacteria,Microorganism,bact,orgm,4,ISA_BACTisaORGM
+C0018155,C0445623,ISA,Gram-Positive Cocci,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0018479,C0445623,ISA,Hemophilus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0018483,C0445623,ISA,Haemophilus influenzae,Microorganism,bact,orgm,13,ISA_BACTisaORGM
+C0022727,C0445623,ISA,Klebsiella,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0022731,C0445623,ISA,Klebsiella rhinoscleromatis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0022938,C0445623,ISA,Lactobacillus,Microorganism,bact,orgm,7,ISA_BACTisaORGM
+C0022939,C0445623,ISA,Lactobacillus acidophilus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0022940,C0445623,ISA,Lactobacillus casei,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0023237,C0445623,ISA,Legionella,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0023238,C0445623,ISA,Legionella pneumophila,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0023358,C0445623,ISA,Leptospira,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0023861,C0445623,ISA,Listeria monocytogenes,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0025966,C0445623,ISA,Micrococcus,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0026912,C0445623,ISA,Genus Mycobacterium,Microorganism,bact,orgm,12,ISA_BACTisaORGM
+C0026917,C0445623,ISA,Mycobacterium bovis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0026926,C0445623,ISA,Mycobacterium tuberculosis,Microorganism,bact,orgm,15,ISA_BACTisaORGM
+C0026934,C0445623,ISA,Mycoplasma,Microorganism,bact,orgm,9,ISA_BACTisaORGM
+C0026934,C0686817,ISA,Mycoplasma,Prokaryote,bact,orgm,4,ISA_BACTisaORGM
+C0026941,C0445623,ISA,Mycoplasma pneumoniae,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0026944,C0445623,ISA,Mycoplasmatales (bacterium),Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0027575,C0445623,ISA,Neisseria meningitidis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0028142,C0445623,ISA,Nitrobacter,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0028207,C0445623,ISA,Nitrosomonas,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0028240,C0445623,ISA,Nocardia,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0030411,C0686817,ISA,Paracoccus denitrificans,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0032071,C0445623,ISA,Plankton,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0032071,C0596121,ISA,Plankton,Aquatic Organisms,bact,orgm,1,ISA_BACTisaORGM
+C0033701,C0445623,ISA,Proteus mirabilis,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0033808,C0445623,ISA,Pseudomonas,Microorganism,bact,orgm,6,ISA_BACTisaORGM
+C0033809,C0445623,ISA,Pseudomonas aeruginosa,Microorganism,bact,orgm,17,ISA_BACTisaORGM
+C0033809,C0686817,ISA,Pseudomonas aeruginosa,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0035583,C0445623,ISA,Rickettsia,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0036111,C0445623,ISA,Salmonella,Microorganism,bact,orgm,8,ISA_BACTisaORGM
+C0036111,C0686817,ISA,Salmonella,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0036125,C0445623,ISA,Salmonella typhi,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0036126,C0445623,ISA,Salmonella typhimurium,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0036766,C0445623,ISA,Serratia marcescens,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0036953,C0445623,ISA,Shigella,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0038170,C0445623,ISA,Genus staphylococcus,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0038172,C0445623,ISA,Staphylococcus aureus,Microorganism,bact,orgm,32,ISA_BACTisaORGM
+C0038174,C0445623,ISA,Staphylococcus epidermidis,Microorganism,bact,orgm,6,ISA_BACTisaORGM
+C0038402,C0445623,ISA,Streptococcus,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0038410,C0445623,ISA,Streptococcus pneumoniae,Microorganism,bact,orgm,20,ISA_BACTisaORGM
+C0038411,C0445623,ISA,Streptococcus pyogenes,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0038411,C0686817,ISA,Streptococcus pyogenes,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0042629,C0445623,ISA,Vibrio cholerae,Microorganism,bact,orgm,4,ISA_BACTisaORGM
+C0043406,C0445623,ISA,Yersinia enterocolitica,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0079488,C0445623,ISA,Helicobacter pylori,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0081786,C0445623,ISA,Microbial Biofilms,Microorganism,bact,orgm,15,ISA_BACTisaORGM
+C0085384,C0445623,ISA,Mycoplasma fermentans,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085449,C0686817,ISA,Caulobacter crescentus,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0085467,C0445623,ISA,Acinetobacter calcoaceticus,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0085469,C0445623,ISA,Burkholderia cepacia,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085478,C0445623,ISA,Porphyromonas gingivalis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085487,C0445623,ISA,Gardnerella,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085493,C0445623,ISA,Micrococcus luteus,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0085494,C0445623,ISA,Enterococcus,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0085501,C0445623,ISA,Ureaplasma urealyticum,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085504,C0445623,ISA,Chlamydophila pneumoniae,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085520,C0445623,ISA,Streptococcus suis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0085957,C0445623,ISA,Bacillus Calmette-Guerin,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0121772,C0445623,ISA,Haemophilus influenzae type b,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0206385,C0445623,ISA,Mobiluncus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0242946,C0445623,ISA,Prevotella,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0314752,C0445623,ISA,Gram-negative bacillus,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C0314760,C0445623,ISA,Coliform bacteria,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0315012,C0445623,ISA,Borrelia crocidurae,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0315020,C0445623,ISA,Genus Brachyspira (organism),Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0317500,C0445623,ISA,Eubacterium ramulus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0317558,C0445623,ISA,Faecalibacterium prausnitzii,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0317944,C0445623,ISA,Parvimonas micra,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0317983,C0445623,ISA,Ralstonia pickettii,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0318121,C0445623,ISA,Staphylococcus xylosus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0318127,C0445623,ISA,Staphylococcus carnosus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0318157,C0445623,ISA,Streptococcus Viridans Group,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0318256,C0445623,ISA,Vibrio vulnificus,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C0318288,C0445623,ISA,Campylobacter rectus,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0348061,C0445623,ISA,Leptotrichia,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0376625,C0445623,ISA,Escherichia coli O157,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0445625,C0445623,ISA,"Staphylococcus, coagulase negative (organism)",Microorganism,bact,orgm,4,ISA_BACTisaORGM
+C0445692,C0445623,ISA,Corynebacterium amycolatum,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0445750,C0445623,ISA,Salmonella enterica,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0445839,C0445623,ISA,Sphingomonas,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0579233,C0445623,ISA,Streptococcus agalactiae,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C0580797,C0445623,ISA,Enterotoxigenic Escherichia coli,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0597134,C0445623,ISA,oral bacteria,Microorganism,bact,orgm,7,ISA_BACTisaORGM
+C0686835,C0445623,ISA,Magnetotactic Bacteria,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0751985,C0686817,ISA,Proteobacteria,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C0806061,C0445623,ISA,Escherichia coli K99,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C0995830,C0445623,ISA,Tropheryma whipplei,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1010467,C0445623,ISA,Rickettsia felis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1016768,C0445623,ISA,Brachyspira pilosicoli,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1026307,C0445623,ISA,Streptomyces achromogenes,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1032649,C0445623,ISA,Mycobacterium tuberculosis complex,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1047211,C0445623,ISA,Cyanobacteria,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C1047211,C0686817,ISA,Cyanobacteria,Prokaryote,bact,orgm,4,ISA_BACTisaORGM
+C1095785,C0686817,ISA,Spirulina,Prokaryote,bact,orgm,1,ISA_BACTisaORGM
+C1136217,C0445623,ISA,"Neisseria meningitidis, Serogroup B",Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1210564,C0445623,ISA,Lachnospiraceae,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1210581,C0445623,ISA,Lactobacillales,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C1225188,C0445623,ISA,Escherichia albertii,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1264774,C0445623,ISA,Acinetobacter species,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C1265122,C0445623,ISA,Serratia species,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1265175,C0445623,ISA,Vancomycin-Resistant Enterococci,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C1265175,C1444089,ISA,Vancomycin-Resistant Enterococci,Resistant organism,bact,orgm,2,ISA_BACTisaORGM
+C1265175,C3826980,ISA,Vancomycin-Resistant Enterococci,Multi-Drug Resistant Organism,bact,orgm,8,ISA_BACTisaORGM
+C1265234,C0445623,ISA,Nontuberculous Mycobacteria,Microorganism,bact,orgm,3,ISA_BACTisaORGM
+C1265292,C0445623,ISA,Methicillin-Resistant Staphylococcus aureus,Microorganism,bact,orgm,7,ISA_BACTisaORGM
+C1265292,C1444089,ISA,Methicillin-Resistant Staphylococcus aureus,Resistant organism,bact,orgm,6,ISA_BACTisaORGM
+C1444090,C0445623,ISA,Resistant bacteria,Microorganism,bact,orgm,5,ISA_BACTisaORGM
+C1444096,C0445623,ISA,ESBL,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1482674,C0445623,ISA,Veillonella montpellierensis,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1531693,C0445623,ISA,Acidophilic bacteria,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1532934,C0445623,ISA,Strict anaerobic bacteria,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1541907,C0445623,ISA,"Beta-hemolytic Streptococcus, group A",Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C1635274,C0445623,ISA,Methicillin susceptible Staphylococcus aureus,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C1687130,C0445623,ISA,Salinispora tropica,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C2936798,C0686817,ISA,Class Mollicutes,Prokaryote,bact,orgm,2,ISA_BACTisaORGM
+C3980351,C0445623,ISA,Anaplasma capra,Microorganism,bact,orgm,1,ISA_BACTisaORGM
+C4039163,C0445623,ISA,Carbapenem-Resistant Enterobacteriaceae,Microorganism,bact,orgm,2,ISA_BACTisaORGM
+C4041017,C3826980,ISA,Vancomycin resistant Enterococcus faecium,Multi-Drug Resistant Organism,bact,orgm,1,ISA_BACTisaORGM

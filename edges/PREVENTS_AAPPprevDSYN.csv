@@ -1,0 +1,712 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000608,C3805089,PREVENTS,6-Aminocaproic Acid,Hyperfibrinolysis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0001047,C0010692,PREVENTS,Acetylcysteine,Cystitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0001047,C0151798,PREVENTS,Acetylcysteine,Hepatic necrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0001898,C0042769,PREVENTS,Alanine,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0001924,C0019158,PREVENTS,Albumins,Hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0001924,C1290884,PREVENTS,Albumins,Inflammatory disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0001924,C1565489,PREVENTS,Albumins,Renal Insufficiency,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002191,C3686577,PREVENTS,alpha 1-Antitrypsin,Insulitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002199,C0009443,PREVENTS,Interferon-alpha,Common Cold,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0002199,C0014038,PREVENTS,Interferon-alpha,Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002199,C0035243,PREVENTS,Interferon-alpha,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002199,C0042749,PREVENTS,Interferon-alpha,Viremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002199,C0043124,PREVENTS,Interferon-alpha,West Nile Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002199,C0851901,PREVENTS,Interferon-alpha,Rhinovirus infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0002199,C1443953,PREVENTS,Interferon-alpha,Acute viral disease,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0002520,C0010823,PREVENTS,Amino Acids,Cytomegalovirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002520,C0020541,PREVENTS,Amino Acids,"Hypertension, Portal",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0002520,C0042769,PREVENTS,Amino Acids,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003009,C0024534,PREVENTS,angiotensin II,"Malaria, Cerebral",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003017,C0009319,PREVENTS,Angiotensinogen,Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0004364,PREVENTS,Antibodies,Autoimmune Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0004623,PREVENTS,Antibodies,Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0005716,PREVENTS,Antibodies,Blastomycosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0009450,PREVENTS,Antibodies,Communicable Diseases,aapp,dsyn,6,PREVENTS_AAPPprevDSYN
+C0003241,C0011303,PREVENTS,Antibodies,Demyelinating Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0011334,PREVENTS,Antibodies,Dental caries,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0012546,PREVENTS,Antibodies,Diphtheria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0014335,PREVENTS,Antibodies,Enteritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0014457,PREVENTS,Antibodies,Eosinophilia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0014836,PREVENTS,Antibodies,Escherichia coli Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0016052,PREVENTS,Antibodies,Fibromuscular Dysplasia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0016627,PREVENTS,Antibodies,Influenza in Birds,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0018482,PREVENTS,Antibodies,Haemophilus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0019099,PREVENTS,Antibodies,"Hemorrhagic Fever, Crimean",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0019158,PREVENTS,Antibodies,Hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0019191,PREVENTS,Antibodies,Infectious Canine Hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0019348,PREVENTS,Antibodies,Herpes Simplex Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0019655,PREVENTS,Antibodies,Histoplasmosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0021400,PREVENTS,Antibodies,Influenza,aapp,dsyn,9,PREVENTS_AAPPprevDSYN
+C0003241,C0024530,PREVENTS,Antibodies,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0025007,PREVENTS,Antibodies,Measles,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0003241,C0026946,PREVENTS,Antibodies,Mycoses,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0032027,PREVENTS,Antibodies,Pityriasis Rubra Pilaris,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0032269,PREVENTS,Antibodies,Pneumococcal Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0032285,PREVENTS,Antibodies,Pneumonia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0034063,PREVENTS,Antibodies,Pulmonary Edema,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0034494,PREVENTS,Antibodies,Rabies (disorder),aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0035204,PREVENTS,Antibodies,Respiration Disorders,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0035235,PREVENTS,Antibodies,Respiratory Syncytial Virus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0035869,PREVENTS,Antibodies,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0036117,PREVENTS,Antibodies,Salmonella infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0039614,PREVENTS,Antibodies,Tetanus,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0040034,PREVENTS,Antibodies,Thrombocytopenia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0041296,PREVENTS,Antibodies,Tuberculosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0042749,PREVENTS,Antibodies,Viremia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0042769,PREVENTS,Antibodies,Virus Diseases,aapp,dsyn,22,PREVENTS_AAPPprevDSYN
+C0003241,C0085306,PREVENTS,Antibodies,Feline infectious peritonitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0149725,PREVENTS,Antibodies,Lower respiratory tract infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0151317,PREVENTS,Antibodies,Chronic infectious disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0178238,PREVENTS,Antibodies,Intestinal infectious disease (disorder),aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0206061,PREVENTS,Antibodies,"Pneumonia, Interstitial",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0206750,PREVENTS,Antibodies,Coronavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0243026,PREVENTS,Antibodies,Sepsis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0276180,PREVENTS,Antibodies,Monkeypox,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0276289,PREVENTS,Antibodies,Zika Virus Infection,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0003241,C0282687,PREVENTS,Antibodies,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0442886,PREVENTS,Antibodies,Secondary Infections,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0003241,C0598196,PREVENTS,Antibodies,microbial disease,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C0854706,PREVENTS,Antibodies,neonatal infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C0876973,PREVENTS,Antibodies,Infectious disease of lung,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C1112211,PREVENTS,Antibodies,liver infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003241,C1175175,PREVENTS,Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0003241,C2062441,PREVENTS,Antibodies,Influenza A,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003241,C4288963,PREVENTS,Antibodies,Hepatitis C Virus Infection,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0003242,C0009319,PREVENTS,"Antibodies, Anti-Idiotypic",Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003242,C0034063,PREVENTS,"Antibodies, Anti-Idiotypic",Pulmonary Edema,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003242,C0035235,PREVENTS,"Antibodies, Anti-Idiotypic",Respiratory Syncytial Virus Infections,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0003242,C1290884,PREVENTS,"Antibodies, Anti-Idiotypic",Inflammatory disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003245,C0029119,PREVENTS,"Antibodies, Fungal",Opportunistic mycosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0004096,PREVENTS,Monoclonal Antibodies,Asthma,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0006271,PREVENTS,Monoclonal Antibodies,Bronchiolitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0007682,PREVENTS,Monoclonal Antibodies,CNS disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0008055,PREVENTS,Monoclonal Antibodies,Chikungunya Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0009450,PREVENTS,Monoclonal Antibodies,Communicable Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003250,C0011334,PREVENTS,Monoclonal Antibodies,Dental caries,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0014038,PREVENTS,Monoclonal Antibodies,Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0014070,PREVENTS,Monoclonal Antibodies,Encephalomyelitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0014457,PREVENTS,Monoclonal Antibodies,Eosinophilia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0016627,PREVENTS,Monoclonal Antibodies,Influenza in Birds,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0019340,PREVENTS,Monoclonal Antibodies,herpes,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0021400,PREVENTS,Monoclonal Antibodies,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0024530,PREVENTS,Monoclonal Antibodies,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0032285,PREVENTS,Monoclonal Antibodies,Pneumonia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003250,C0035235,PREVENTS,Monoclonal Antibodies,Respiratory Syncytial Virus Infections,aapp,dsyn,8,PREVENTS_AAPPprevDSYN
+C0003250,C0035243,PREVENTS,Monoclonal Antibodies,Respiratory Tract Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003250,C0042749,PREVENTS,Monoclonal Antibodies,Viremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0042769,PREVENTS,Monoclonal Antibodies,Virus Diseases,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0003250,C0206171,PREVENTS,Monoclonal Antibodies,Community-Acquired Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0206608,PREVENTS,Monoclonal Antibodies,Flavivirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0242723,PREVENTS,Monoclonal Antibodies,Parasitemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0276289,PREVENTS,Monoclonal Antibodies,Zika Virus Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0276500,PREVENTS,Monoclonal Antibodies,Human immunodeficiency virus I infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0003250,C0282687,PREVENTS,Monoclonal Antibodies,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C0748168,PREVENTS,Monoclonal Antibodies,Pulmonary Pathology,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0003250,C0854706,PREVENTS,Monoclonal Antibodies,neonatal infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C1112211,PREVENTS,Monoclonal Antibodies,liver infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003250,C1175175,PREVENTS,Monoclonal Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,6,PREVENTS_AAPPprevDSYN
+C0003250,C1290325,PREVENTS,Monoclonal Antibodies,Disorder of lower respiratory system,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003253,C0010246,PREVENTS,"Antibodies, Viral",Coxsackievirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003253,C3277428,PREVENTS,"Antibodies, Viral",Severe viral infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003595,C0019196,PREVENTS,Apolipoprotein E,Hepatitis C,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003595,C0524910,PREVENTS,Apolipoprotein E,"Hepatitis C, Chronic",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003641,C2062441,PREVENTS,Aprotinin,Influenza A,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0003765,C0038358,PREVENTS,Arginine,Gastric ulcer,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0005210,C0011303,PREVENTS,beta-Endorphin,Demyelinating Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0006100,C0149721,PREVENTS,Bradykinin,Left Ventricular Hypertrophy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0006560,C0024312,PREVENTS,C-reactive protein,Lymphopenia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0006992,C0740304,PREVENTS,Carbocysteine,copd exacerbation,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0007267,C0035222,PREVENTS,Carnosine,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0007332,C0004610,PREVENTS,Caseins,Bacteremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0007428,C0038826,PREVENTS,Cathepsins,Superinfection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0007578,C0042769,PREVENTS,Cell Adhesion Molecules,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0008586,C0038362,PREVENTS,Chromogranins,Stomatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0009325,C0034069,PREVENTS,Collagen,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0009392,C0746883,PREVENTS,Colony-Stimulating Factors,Febrile Neutropenia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0009498,C0024530,PREVENTS,Complement System Proteins,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0009498,C0042769,PREVENTS,Complement System Proteins,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0009498,C0206608,PREVENTS,Complement System Proteins,Flavivirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0009498,C0243026,PREVENTS,Complement System Proteins,Sepsis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010590,C0003850,PREVENTS,Cycloserine,Arteriosclerosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010590,C0024440,PREVENTS,Cycloserine,"Macular Edema, Cystoid",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010590,C0032285,PREVENTS,Cycloserine,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010590,C0042769,PREVENTS,Cycloserine,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010590,C2350529,PREVENTS,Cycloserine,Pulmonary Aspergillosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010592,C0265514,PREVENTS,Cyclosporine,Dermatofibrosis lenticularis disseminata,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010646,C0033860,PREVENTS,Cystatins,Psoriasis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0010654,C0151798,PREVENTS,Cysteine,Hepatic necrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0014025,C0038454,PREVENTS,Enalapril,Cerebrovascular accident,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0014025,C1565489,PREVENTS,Enalapril,Renal Insufficiency,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0014242,C0011303,PREVENTS,Endorphins,Demyelinating Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0015879,C0022660,PREVENTS,Ferritin,"Kidney Failure, Acute",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0015980,C0042769,PREVENTS,Interferon-beta,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0016194,C0021400,PREVENTS,Flagellin,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017007,C0004623,PREVENTS,Gamma globulin,Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017007,C0010051,PREVENTS,Gamma globulin,Coronary Aneurysm,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0017007,C0032285,PREVENTS,Gamma globulin,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017237,C0042769,PREVENTS,Gelatin,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017278,C0019693,PREVENTS,"Gene Products, env",HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017278,C0042769,PREVENTS,"Gene Products, env",Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017649,C0019158,PREVENTS,Globulins,Hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017649,C1175175,PREVENTS,Globulins,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017649,C1263835,PREVENTS,Globulins,Infectious disorder of the fetus,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0017968,C0035613,PREVENTS,Glycoproteins,Rift Valley Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017968,C0042749,PREVENTS,Glycoproteins,Viremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0017968,C1175175,PREVENTS,Glycoproteins,Severe Acute Respiratory Syndrome,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0018850,C0034069,PREVENTS,Heat shock proteins,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019043,C0024530,PREVENTS,Sickle Hemoglobin,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019046,C0024530,PREVENTS,Hemoglobin,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019047,C0024530,PREVENTS,Abnormal Hemoglobins,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019629,C0004364,PREVENTS,Histocompatibility Antigens Class I,Autoimmune Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019691,C0042769,PREVENTS,HIV Envelope Protein gp120,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019737,C0240066,PREVENTS,HLA-B Antigens,Iron deficiency,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0019878,C0003850,PREVENTS,homocysteine,Arteriosclerosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020838,C0011334,PREVENTS,Secretory Immunoglobulin A,Dental caries,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020838,C0013370,PREVENTS,Secretory Immunoglobulin A,Amebic colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020838,C0035235,PREVENTS,Secretory Immunoglobulin A,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020852,C0243026,PREVENTS,Immunoglobulin G,Sepsis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020855,C0024530,PREVENTS,Immunoglobulin IgG1,Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020857,C0008149,PREVENTS,IgG2A,Chlamydia Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020857,C0042769,PREVENTS,IgG2A,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020858,C0008149,PREVENTS,IgG2B,Chlamydia Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C0009450,PREVENTS,Immune Sera,Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C0014038,PREVENTS,Immune Sera,Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C0276289,PREVENTS,Immune Sera,Zika Virus Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C0524688,PREVENTS,Immune Sera,Pneumonic Plague,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C0858513,PREVENTS,Immune Sera,hiv-3,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C1175175,PREVENTS,Immune Sera,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C1262091,PREVENTS,Immune Sera,Lymphocytic infiltration,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0020960,C1264606,PREVENTS,Immune Sera,Persistent infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021017,C0014378,PREVENTS,Immunoglobulin Isotypes,Enterovirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021017,C0042769,PREVENTS,Immunoglobulin Isotypes,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021017,C0243026,PREVENTS,Immunoglobulin Isotypes,Sepsis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021017,C0748168,PREVENTS,Immunoglobulin Isotypes,Pulmonary Pathology,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0004623,PREVENTS,Immunoglobulins,Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0019159,PREVENTS,Immunoglobulins,Hepatitis A,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0021400,PREVENTS,Immunoglobulins,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0032285,PREVENTS,Immunoglobulins,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0035235,PREVENTS,Immunoglobulins,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0035869,PREVENTS,Immunoglobulins,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0042708,PREVENTS,Immunoglobulins,Viral enteritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021027,C0042769,PREVENTS,Immunoglobulins,Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0021027,C0206750,PREVENTS,Immunoglobulins,Coronavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021641,C0020456,PREVENTS,Insulin,Hyperglycemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021701,C0014070,PREVENTS,Integrins,Encephalomyelitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021701,C0035112,PREVENTS,Integrins,Reoviridae Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0021701,C0036690,PREVENTS,Integrins,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021701,C0038826,PREVENTS,Integrins,Superinfection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021740,C0009186,PREVENTS,Recombinant Interferon-gamma,Coccidioidomycosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021740,C0019158,PREVENTS,Recombinant Interferon-gamma,Hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021740,C0023281,PREVENTS,Recombinant Interferon-gamma,Leishmaniasis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021740,C0035235,PREVENTS,Recombinant Interferon-gamma,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021740,C0035243,PREVENTS,Recombinant Interferon-gamma,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021740,C0276688,PREVENTS,Recombinant Interferon-gamma,Pulmonary cryptococcosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021743,C0009450,PREVENTS,Interferon Type I,Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021743,C3824825,PREVENTS,Interferon Type I,SARS (Disease),aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021745,C0042769,PREVENTS,Interferon Type II,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021747,C0009443,PREVENTS,Interferons,Common Cold,aapp,dsyn,9,PREVENTS_AAPPprevDSYN
+C0021747,C0035243,PREVENTS,Interferons,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021747,C0041912,PREVENTS,Interferons,Upper Respiratory Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021747,C0042769,PREVENTS,Interferons,Virus Diseases,aapp,dsyn,5,PREVENTS_AAPPprevDSYN
+C0021747,C0153106,PREVENTS,Interferons,Coxsackie myocarditis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0021747,C0206750,PREVENTS,Interferons,Coronavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021747,C0276447,PREVENTS,Interferons,Rhinovirus infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021747,C0851901,PREVENTS,Interferons,Rhinovirus infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021747,C0877203,PREVENTS,Interferons,Viral Respiratory Tract Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021753,C0348165,PREVENTS,Interleukin-1 beta,Central Nervous System Viral Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021753,C2062416,PREVENTS,Interleukin-1 beta,Sindbis virus infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0021755,C0009319,PREVENTS,Interleukin-1,Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021755,C0036690,PREVENTS,Interleukin-1,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021758,C0004096,PREVENTS,Interleukin-4,Asthma,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021758,C0009319,PREVENTS,Interleukin-4,Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021758,C0011854,PREVENTS,Interleukin-4,"Diabetes Mellitus, Insulin-Dependent",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021758,C0271468,PREVENTS,Interleukin-4,Eustachian tube disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021758,C1142536,PREVENTS,Interleukin-4,Pneumonia due to methicillin resistant Staphylococcus aureus,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021760,C0009319,PREVENTS,Interleukin-6,Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021760,C0015696,PREVENTS,Interleukin-6,"Fatty Liver, Alcoholic",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021760,C0032285,PREVENTS,Interleukin-6,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0021760,C0035869,PREVENTS,Interleukin-6,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022709,C0035222,PREVENTS,Peptidyl-Dipeptidase A,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022714,C0004096,PREVENTS,Kinins,Asthma,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022714,C0020538,PREVENTS,Kinins,Hypertensive disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022818,C0010692,PREVENTS,Kynurenine,Cystitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022942,C0019196,PREVENTS,Lactoferrin,Hepatitis C,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022942,C1698484,PREVENTS,Lactoferrin,Mucosal Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0022945,C0019348,PREVENTS,Lactoglobulins,Herpes Simplex Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0023206,C0019693,PREVENTS,Lectin,HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0023206,C0036916,PREVENTS,Lectin,Sexually Transmitted Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0023206,C0042769,PREVENTS,Lectin,Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0023206,C0276500,PREVENTS,Lectin,Human immunodeficiency virus I infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0023206,C0348754,PREVENTS,Lectin,Toxic liver disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0023764,C0042769,PREVENTS,Lipase,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0023814,C0010054,PREVENTS,"Lipoproteins, HDL3",Coronary Arteriosclerosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0024297,C0004364,PREVENTS,Lymphokines,Autoimmune Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0024337,C0151798,PREVENTS,Lysine,Hepatic necrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0025234,C0019693,PREVENTS,Melitten,HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0025234,C0276500,PREVENTS,Melitten,Human immunodeficiency virus I infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0025248,C1290884,PREVENTS,Membrane Glycoproteins,Inflammatory disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0025252,C0242301,PREVENTS,Membrane Proteins,furuncle,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0025646,C0016513,PREVENTS,Methionine,Foot Rot,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0026682,C0009324,PREVENTS,Mucins,Ulcerative Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0026682,C0013238,PREVENTS,Mucins,Dry Eye Syndromes,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0026682,C0015403,PREVENTS,Mucins,Eye Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0026682,C0017160,PREVENTS,Mucins,Gastroenteritis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0026682,C0740304,PREVENTS,Mucins,copd exacerbation,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0026794,C0011334,PREVENTS,Muramidase,Dental caries,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0026794,C1698484,PREVENTS,Muramidase,Mucosal Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0027895,C1290884,PREVENTS,Neuropeptides,Inflammatory disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0030946,C0034067,PREVENTS,Endopeptidases,Pulmonary Emphysema,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0030946,C0042974,PREVENTS,Endopeptidases,von Willebrand Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0030946,C1175175,PREVENTS,Endopeptidases,Severe Acute Respiratory Syndrome,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0031788,C0011881,PREVENTS,Phycocyanin,Diabetic Nephropathy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0032120,C0002792,PREVENTS,Plasma Proteins,anaphylaxis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0032120,C0035869,PREVENTS,Plasma Proteins,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0032539,C1701940,PREVENTS,Polymyxins,"Pneumonia, Ventilator-Associated",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0032923,C0002726,PREVENTS,Prealbumin,Amyloidosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0033621,C0005779,PREVENTS,Protein C,Blood Coagulation Disorders,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0033621,C0035222,PREVENTS,Protein C,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0033621,C0036690,PREVENTS,Protein C,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034789,C0042267,PREVENTS,"Receptors, Antigen, B-Cell",Vaginitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034790,C0023860,PREVENTS,T-Cell Receptor,Listeriosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034805,C0021053,PREVENTS,Fc Receptor,Immune System Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0034862,C0006277,PREVENTS,"Vaccines, Recombinant",Bronchitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034862,C0016627,PREVENTS,"Vaccines, Recombinant",Influenza in Birds,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034862,C0524688,PREVENTS,"Vaccines, Recombinant",Pneumonic Plague,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034862,C1112734,PREVENTS,"Vaccines, Recombinant",gastric infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0034862,C1175175,PREVENTS,"Vaccines, Recombinant",Severe Acute Respiratory Syndrome,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0036193,C0020538,PREVENTS,Saralasin,Hypertensive disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0036720,C0042769,PREVENTS,Serine,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0037659,C0020615,PREVENTS,Somatostatin,Hypoglycemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0038585,C0032285,PREVENTS,Substance P,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040018,C0036690,PREVENTS,Thrombin,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040048,C0012739,PREVENTS,Thromboplastin,Disseminated Intravascular Coagulation,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040648,C0011881,PREVENTS,TRANSCRIPTION FACTOR,Diabetic Nephropathy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040691,C0004364,PREVENTS,Transforming Growth Factors,Autoimmune Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040691,C0021400,PREVENTS,Transforming Growth Factors,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040691,C0032285,PREVENTS,Transforming Growth Factors,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0040691,C0238051,PREVENTS,Transforming Growth Factors,Cerebral Angiitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0041242,C0555971,PREVENTS,Trypsin Inhibitors,Oral infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0041368,C0036690,PREVENTS,Tumor Necrosis Factors,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0042313,C0004610,PREVENTS,Vancomycin,Bacteremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0042479,C0002792,PREVENTS,Venoms,anaphylaxis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0042666,C0034069,PREVENTS,Vimentin,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0042711,C0014038,PREVENTS,Viral Envelope Proteins,Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0042731,C0021400,PREVENTS,Viral Matrix Proteins,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0042736,C0032285,PREVENTS,Viral Proteins,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0042736,C0042769,PREVENTS,Viral Proteins,Virus Diseases,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0042736,C0376538,PREVENTS,Viral Proteins,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0051979,C0035235,PREVENTS,anti-IgG,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0052059,C0004623,PREVENTS,antileukoprotease,Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0052193,C0014038,PREVENTS,apolipoprotein D,Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0053355,C0019693,PREVENTS,ubenimex,HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0054314,C0042029,PREVENTS,alpha-aminobutyric acid,Urinary tract infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0054943,C0006271,PREVENTS,ALANINE AMINOPEPTIDASE,Bronchiolitis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0055782,C0242723,PREVENTS,circumsporozoite protein,Parasitemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0056239,C0004623,PREVENTS,conglutinin,Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0056889,C0002395,PREVENTS,Cystic Fibrosis Transmembrane Conductance Regulator,Alzheimer's Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0056889,C0004623,PREVENTS,Cystic Fibrosis Transmembrane Conductance Regulator,Bacterial Infections,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0057002,C0275544,PREVENTS,cytomegalovirus immune globulin,Congenital infectious disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0057256,C0035204,PREVENTS,Defensins,Respiration Disorders,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0057256,C0035243,PREVENTS,Defensins,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0062534,C0034069,PREVENTS,Hepatocyte Growth Factor,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0063355,C0042769,PREVENTS,IgY,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0063695,C0276447,PREVENTS,Intercellular adhesion molecule 1,Rhinovirus infection,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0065374,C0023364,PREVENTS,Lisinopril,Leptospirosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065374,C1565489,PREVENTS,Lisinopril,Renal Insufficiency,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065693,C0001175,PREVENTS,Mannose-Binding Lectins,Acquired Immunodeficiency Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065693,C0021051,PREVENTS,Mannose-Binding Lectins,Immunologic Deficiency Syndromes,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065827,C0014070,PREVENTS,Measles Virus Nucleoprotein,Encephalomyelitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065827,C0042214,PREVENTS,Measles Virus Nucleoprotein,Vaccinia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065827,C0206750,PREVENTS,Measles Virus Nucleoprotein,Coronavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065827,C0275524,PREVENTS,Measles Virus Nucleoprotein,Coinfection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065827,C0276472,PREVENTS,Measles Virus Nucleoprotein,Avian infectious bronchitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065827,C1175175,PREVENTS,Measles Virus Nucleoprotein,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0065916,C1318020,PREVENTS,meliacin,Stromal keratitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0069117,C0348165,PREVENTS,octamer transcription factor OTF-1,Central Nervous System Viral Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0069304,C0014175,PREVENTS,"POU5F1 protein, human",Endometriosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0069304,C0042769,PREVENTS,"POU5F1 protein, human",Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0070410,C0014038,PREVENTS,perforin,Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0070410,C0442893,PREVENTS,perforin,Systemic disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0071313,C0032285,PREVENTS,"plY protein, Streptococcus pneumoniae",Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0071313,C0036690,PREVENTS,"plY protein, Streptococcus pneumoniae",Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0072053,C0035243,PREVENTS,procollagen Type I N-terminal peptide,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0072393,C0036690,PREVENTS,Protein S,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0073397,C0035869,PREVENTS,RIT 4237 vaccine,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0074512,C0266789,PREVENTS,Signal Recognition Particle,Velamentous insertion of umbilical cord (disorder),aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0078049,C0008049,PREVENTS,varicella-zoster immune globulin,Chickenpox,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0078056,C0014070,PREVENTS,Vascular Cell Adhesion Molecule-1,Encephalomyelitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0004364,PREVENTS,cytokine,Autoimmune Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0004623,PREVENTS,cytokine,Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0009187,PREVENTS,cytokine,Coccidiosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0026946,PREVENTS,cytokine,Mycoses,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0027765,PREVENTS,cytokine,nervous system disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0035222,PREVENTS,cytokine,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0035243,PREVENTS,cytokine,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0035869,PREVENTS,cytokine,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0042384,PREVENTS,cytokine,Vasculitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0042769,PREVENTS,cytokine,Virus Diseases,aapp,dsyn,7,PREVENTS_AAPPprevDSYN
+C0079189,C0043124,PREVENTS,cytokine,West Nile Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0277556,PREVENTS,cytokine,Recurrent disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C0856169,PREVENTS,cytokine,endothelial dysfunction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C1175175,PREVENTS,cytokine,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C3694279,PREVENTS,cytokine,Middle East Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079189,C3824825,PREVENTS,cytokine,SARS (Disease),aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079259,C0878544,PREVENTS,Dystrophin,Cardiomyopathies,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079281,C0020538,PREVENTS,Endothelin-1,Hypertensive disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079281,C1135361,PREVENTS,Endothelin-1,Persistent pulmonary hypertension,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079459,C0004610,PREVENTS,Granulocyte Colony-Stimulating Factor,Bacteremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079459,C0023530,PREVENTS,Granulocyte Colony-Stimulating Factor,Leukopenia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0079459,C0036690,PREVENTS,Granulocyte Colony-Stimulating Factor,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079459,C0038362,PREVENTS,Granulocyte Colony-Stimulating Factor,Stomatitis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0079459,C0205721,PREVENTS,Granulocyte Colony-Stimulating Factor,"Infections, Hospital",aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0079459,C0746883,PREVENTS,Granulocyte Colony-Stimulating Factor,Febrile Neutropenia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079460,C0023530,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Leukopenia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0079460,C0032285,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Pneumonia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0079460,C0876973,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Infectious disease of lung,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079633,C0032285,PREVENTS,Interleukin-8,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079904,C0740766,PREVENTS,NF-kappa B,acute pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0079904,C2931826,PREVENTS,NF-kappa B,Potassium aggravated myotonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0081714,C0003850,PREVENTS,"Antigens, CD147",Arteriosclerosis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0083031,C0040034,PREVENTS,Interleukin-11,Thrombocytopenia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0083031,C0206750,PREVENTS,Interleukin-11,Coronavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0083031,C0520459,PREVENTS,Interleukin-11,Necrotizing Enterocolitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0084692,C0018889,PREVENTS,Pulmonary Surfactant-Associated Protein D,Helminthiasis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0084692,C0023794,PREVENTS,Pulmonary Surfactant-Associated Protein D,Lipoidosis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0084692,C0024117,PREVENTS,Pulmonary Surfactant-Associated Protein D,Chronic Obstructive Airway Disease,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0084692,C0035204,PREVENTS,Pulmonary Surfactant-Associated Protein D,Respiration Disorders,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0084692,C0035220,PREVENTS,Pulmonary Surfactant-Associated Protein D,"Respiratory Distress Syndrome, Newborn",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0084692,C0042769,PREVENTS,Pulmonary Surfactant-Associated Protein D,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0084692,C0276500,PREVENTS,Pulmonary Surfactant-Associated Protein D,Human immunodeficiency virus I infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0084692,C3899278,PREVENTS,Pulmonary Surfactant-Associated Protein D,Early Rheumatoid Arthritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0084795,C0947751,PREVENTS,Tristetraprolin,vascular inflammations,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0009319,PREVENTS,Interleukin-10,Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0013371,PREVENTS,Interleukin-10,Shigella Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0023281,PREVENTS,Interleukin-10,Leishmaniasis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0027051,PREVENTS,Interleukin-10,Myocardial Infarction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0032285,PREVENTS,Interleukin-10,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0035869,PREVENTS,Interleukin-10,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0041351,PREVENTS,Interleukin-10,Tularemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085295,C0151317,PREVENTS,Interleukin-10,Chronic infectious disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0003850,PREVENTS,"Immunoglobulins, Intravenous",Arteriosclerosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0004623,PREVENTS,"Immunoglobulins, Intravenous",Bacterial Infections,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0085297,C0010051,PREVENTS,"Immunoglobulins, Intravenous",Coronary Aneurysm,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0085297,C0010823,PREVENTS,"Immunoglobulins, Intravenous",Cytomegalovirus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0085297,C0018995,PREVENTS,"Immunoglobulins, Intravenous",Hemochromatosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0027059,PREVENTS,"Immunoglobulins, Intravenous",Myocarditis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0035235,PREVENTS,"Immunoglobulins, Intravenous",Respiratory Syncytial Virus Infections,aapp,dsyn,5,PREVENTS_AAPPprevDSYN
+C0085297,C0149725,PREVENTS,"Immunoglobulins, Intravenous",Lower respiratory tract infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0151699,PREVENTS,"Immunoglobulins, Intravenous",Intracranial Hemorrhages,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0205721,PREVENTS,"Immunoglobulins, Intravenous","Infections, Hospital",aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0085297,C0276253,PREVENTS,"Immunoglobulins, Intravenous",Cytomegaloviral pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C0856825,PREVENTS,"Immunoglobulins, Intravenous",Acute GVH disease,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0085297,C0940933,PREVENTS,"Immunoglobulins, Intravenous",infection as a complication,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085297,C1263835,PREVENTS,"Immunoglobulins, Intravenous",Infectious disorder of the fetus,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0085379,C0403588,PREVENTS,Muromonab-CD3,Acute rejection of renal transplant,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0087049,C0042769,PREVENTS,"Antigen T Cell Receptor, beta Chain",Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C0009319,PREVENTS,angiotensin I (1-7),Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C0018801,PREVENTS,angiotensin I (1-7),Heart failure,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C0038454,PREVENTS,angiotensin I (1-7),Cerebrovascular accident,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C0151650,PREVENTS,angiotensin I (1-7),Renal fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C0878544,PREVENTS,angiotensin I (1-7),Cardiomyopathies,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C1096155,PREVENTS,angiotensin I (1-7),Macrophage Activation Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0103306,C4020969,PREVENTS,angiotensin I (1-7),Inflammatory abnormality of the eye,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0107264,C0028754,PREVENTS,brown adipose tissue uncoupling protein,Obesity,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0118522,C0042769,PREVENTS,GA-Binding Protein Transcription Factor,Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0122620,C0042769,PREVENTS,human neutrophil peptide 1,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123257,C0011847,PREVENTS,Insulin-Like Growth Factor Binding Protein 2,Diabetes,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123515,C0042769,PREVENTS,indolicidin,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123759,C0009186,PREVENTS,Interleukin-12,Coccidioidomycosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123759,C0009450,PREVENTS,Interleukin-12,Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123759,C0032285,PREVENTS,Interleukin-12,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123759,C0034068,PREVENTS,Interleukin-12,Pulmonary Eosinophilia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0123771,C0748168,PREVENTS,Interleukin 4 Receptor,Pulmonary Pathology,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0142580,C0004623,PREVENTS,"PI3 protein, human",Bacterial Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0162768,C0035235,PREVENTS,Fusion protein,Respiratory Syncytial Virus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0165117,C0035235,PREVENTS,jasplakinolide,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0165174,C1175175,PREVENTS,MDL 28170,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0168273,C0038454,PREVENTS,bivalirudin,Cerebrovascular accident,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0206491,C0949083,PREVENTS,Bispecific Monoclonal Antibodies,Hospital acquired pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0214743,C1142536,PREVENTS,Interleukin-13,Pneumonia due to methicillin resistant Staphylococcus aureus,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0215955,C0036690,PREVENTS,"LCN2 protein, human",Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0219472,C0007785,PREVENTS,bcl-x protein,Cerebral Infarction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0242738,C0343401,PREVENTS,ATP-Binding Cassette Transporters,MRSA - Methicillin resistant Staphylococcus aureus infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0242738,C1320214,PREVENTS,ATP-Binding Cassette Transporters,Invasive Streptococcus pneumoniae disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0243044,C0042769,PREVENTS,HSP90 Heat-Shock Proteins,Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0243958,C0020538,PREVENTS,Heterogeneous-Nuclear Ribonucleoprotein Group F,Hypertensive disease,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0245109,C0036690,PREVENTS,anakinra,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0245109,C1145670,PREVENTS,anakinra,Respiratory Failure,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0282554,C0019693,PREVENTS,chemokine,HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282554,C0043124,PREVENTS,chemokine,West Nile Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282554,C0751955,PREVENTS,chemokine,Brain Infarction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282554,C0856169,PREVENTS,chemokine,endothelial dysfunction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C0014038,PREVENTS,"Antibodies, Blocking",Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C0019348,PREVENTS,"Antibodies, Blocking",Herpes Simplex Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C0035222,PREVENTS,"Antibodies, Blocking","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C0042769,PREVENTS,"Antibodies, Blocking",Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0282682,C0276447,PREVENTS,"Antibodies, Blocking",Rhinovirus infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C0276619,PREVENTS,"Antibodies, Blocking",Viral gastroenteritis due to Norwalk-like agent,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C0393642,PREVENTS,"Antibodies, Blocking",Sepsis-Associated Encephalopathy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C1175175,PREVENTS,"Antibodies, Blocking",Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0282682,C1290325,PREVENTS,"Antibodies, Blocking",Disorder of lower respiratory system,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0283960,C0018133,PREVENTS,soybean lectin,Graft-vs-Host Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0301521,C0276500,PREVENTS,therapeutic vaccine,Human immunodeficiency virus I infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0304052,C0276500,PREVENTS,Plant Lectins,Human immunodeficiency virus I infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0305052,C0042769,PREVENTS,Gamma globulin serum,Virus Diseases,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0305055,C0867389,PREVENTS,Lymphocyte immune globulin,Chronic graft-versus-host disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0309259,C0021334,PREVENTS,IBR VACCINE,Infectious Bovine Rhinotracheitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0309847,C1175175,PREVENTS,premier,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0310969,C0021831,PREVENTS,Escherichia coli antibody,Intestinal Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0312586,C0035235,PREVENTS,Polyclonal antibody,Respiratory Syncytial Virus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0312586,C1175175,PREVENTS,Polyclonal antibody,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0348038,C0001883,PREVENTS,Respiratory syncytial virus antibody,Airway Obstruction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0348038,C0032285,PREVENTS,Respiratory syncytial virus antibody,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0358321,C0003864,PREVENTS,Immune Globulin (Human),Arthritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0358321,C0035235,PREVENTS,Immune Globulin (Human),Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0358321,C0042749,PREVENTS,Immune Globulin (Human),Viremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0358321,C0343386,PREVENTS,Immune Globulin (Human),Clostridium difficile infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0359168,C0035235,PREVENTS,Mouse monoclonal antibody,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0359168,C0341558,PREVENTS,Mouse monoclonal antibody,Intestinal infection due to E. coli,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0368720,C0042769,PREVENTS,b antibody,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0369034,C0206750,PREVENTS,Coronavirus antibody,Coronavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0370126,C0009450,PREVENTS,Vaccinia virus antibody,Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0370126,C1290325,PREVENTS,Vaccinia virus antibody,Disorder of lower respiratory system,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0377274,C1175175,PREVENTS,Collectins,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0378910,C1698484,PREVENTS,Lymphocyte antigen CD66A,Mucosal Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0388014,C1290325,PREVENTS,Respigam,Disorder of lower respiratory system,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0389071,C0003850,PREVENTS,Adiponectin,Arteriosclerosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0389071,C0011860,PREVENTS,Adiponectin,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0389071,C0028754,PREVENTS,Adiponectin,Obesity,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0389071,C0155626,PREVENTS,Adiponectin,Acute myocardial infarction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0432633,C0748168,PREVENTS,Blood group antibody N,Pulmonary Pathology,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0009450,PREVENTS,Specific antibody,Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0014335,PREVENTS,Specific antibody,Enteritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0021400,PREVENTS,Specific antibody,Influenza,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0443640,C0024894,PREVENTS,Specific antibody,Mastitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0032285,PREVENTS,Specific antibody,Pneumonia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0443640,C0035204,PREVENTS,Specific antibody,Respiration Disorders,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0035235,PREVENTS,Specific antibody,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0042769,PREVENTS,Specific antibody,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0178238,PREVENTS,Specific antibody,Intestinal infectious disease (disorder),aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0443640,C0276289,PREVENTS,Specific antibody,Zika Virus Infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0443640,C0729555,PREVENTS,Specific antibody,Infection of digestive system,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0450226,C0042769,PREVENTS,Avid antibody,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0001175,PREVENTS,"Antibodies, Neutralizing",Acquired Immunodeficiency Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0009450,PREVENTS,"Antibodies, Neutralizing",Communicable Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0475463,C0014378,PREVENTS,"Antibodies, Neutralizing",Enterovirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0016052,PREVENTS,"Antibodies, Neutralizing",Fibromuscular Dysplasia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0017162,PREVENTS,"Antibodies, Neutralizing","Gastroenteritis, Transmissible, of Swine",aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0475463,C0032285,PREVENTS,"Antibodies, Neutralizing",Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0032310,PREVENTS,"Antibodies, Neutralizing","Pneumonia, Viral",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0035222,PREVENTS,"Antibodies, Neutralizing","Respiratory Distress Syndrome, Adult",aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0475463,C0035235,PREVENTS,"Antibodies, Neutralizing",Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0035613,PREVENTS,"Antibodies, Neutralizing",Rift Valley Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0042749,PREVENTS,"Antibodies, Neutralizing",Viremia,aapp,dsyn,6,PREVENTS_AAPPprevDSYN
+C0475463,C0042769,PREVENTS,"Antibodies, Neutralizing",Virus Diseases,aapp,dsyn,9,PREVENTS_AAPPprevDSYN
+C0475463,C0206752,PREVENTS,"Antibodies, Neutralizing",Alphavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C0276289,PREVENTS,"Antibodies, Neutralizing",Zika Virus Infection,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0475463,C0442886,PREVENTS,"Antibodies, Neutralizing",Secondary Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C1175175,PREVENTS,"Antibodies, Neutralizing",Severe Acute Respiratory Syndrome,aapp,dsyn,11,PREVENTS_AAPPprevDSYN
+C0475463,C1263835,PREVENTS,"Antibodies, Neutralizing",Infectious disorder of the fetus,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C1290325,PREVENTS,"Antibodies, Neutralizing",Disorder of lower respiratory system,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0475463,C3824759,PREVENTS,"Antibodies, Neutralizing",Flaviviral diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0475463,C3825458,PREVENTS,"Antibodies, Neutralizing",Arenavirus diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0525773,C0679408,PREVENTS,"Enkephalin, Ala(2)-MePhe(4)-Gly(5)-",Lesion of stomach,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0525856,C0679408,PREVENTS,"Enkephalin, D-Penicillamine (2,5)-",Lesion of stomach,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0534191,C0005779,PREVENTS,recombinant FVIIa,Blood Coagulation Disorders,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0537670,C0040034,PREVENTS,Oprelvekin,Thrombocytopenia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0596902,C0034063,PREVENTS,Membrane Transport Proteins,Pulmonary Edema,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0596902,C1290884,PREVENTS,Membrane Transport Proteins,Inflammatory disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0597357,C0041296,PREVENTS,receptor,Tuberculosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0597357,C0042769,PREVENTS,receptor,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0597357,C1175175,PREVENTS,receptor,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0597418,C0017160,PREVENTS,Rotavirus Vaccines,Gastroenteritis,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C0597418,C0205721,PREVENTS,Rotavirus Vaccines,"Infections, Hospital",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0597418,C1290807,PREVENTS,Rotavirus Vaccines,Diarrheal disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0599561,C0035204,PREVENTS,e protein,Respiration Disorders,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0599561,C0042769,PREVENTS,e protein,Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0599561,C1263835,PREVENTS,e protein,Infectious disorder of the fetus,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0620604,C0744673,PREVENTS,15-epi-lipoxin A4,heart inflammation,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0669365,C1135361,PREVENTS,"NOS3 protein, human",Persistent pulmonary hypertension,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0671062,C0035243,PREVENTS,cathelicidin,Respiratory Tract Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0672596,C0006271,PREVENTS,palivizumab,Bronchiolitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0672596,C0035235,PREVENTS,palivizumab,Respiratory Syncytial Virus Infections,aapp,dsyn,22,PREVENTS_AAPPprevDSYN
+C0672596,C0149725,PREVENTS,palivizumab,Lower respiratory tract infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0672596,C0206171,PREVENTS,palivizumab,Community-Acquired Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0672596,C0264408,PREVENTS,palivizumab,Childhood asthma,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0672596,C1290325,PREVENTS,palivizumab,Disorder of lower respiratory system,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0673968,C0012739,PREVENTS,compstatin,Disseminated Intravascular Coagulation,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0675121,C0042769,PREVENTS,"DLC1 protein, human",Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0677666,C0267454,PREVENTS,soy protein isolate,Necrotic enteritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0700271,C0009450,PREVENTS,"M Protein, multiple myeloma",Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0700271,C0031350,PREVENTS,"M Protein, multiple myeloma",Pharyngitis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0700271,C0042769,PREVENTS,"M Protein, multiple myeloma",Virus Diseases,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0700271,C0876973,PREVENTS,"M Protein, multiple myeloma",Infectious disease of lung,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0700271,C1175175,PREVENTS,"M Protein, multiple myeloma",Severe Acute Respiratory Syndrome,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0700271,C3694279,PREVENTS,"M Protein, multiple myeloma",Middle East Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0717811,C1320191,PREVENTS,Haemophilus B Conjugate Vaccine,Invasive hemophilus influenzae disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0729663,C0009450,PREVENTS,Maternal antibody,Communicable Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0729663,C0035235,PREVENTS,Maternal antibody,Respiratory Syncytial Virus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0729663,C0042749,PREVENTS,Maternal antibody,Viremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0730920,C0856825,PREVENTS,Thymoglobulin,Acute GVH disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0796392,C0011884,PREVENTS,bevacizumab,Diabetic Retinopathy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0796392,C0242420,PREVENTS,bevacizumab,Retinal Edema,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0887910,C0021400,PREVENTS,Virosomes,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0887910,C0035235,PREVENTS,Virosomes,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0887943,C0042769,PREVENTS,alpha-Defensins,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0913092,C0021053,PREVENTS,DC-specific ICAM-3 grabbing nonintegrin,Immune System Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0913092,C0041296,PREVENTS,DC-specific ICAM-3 grabbing nonintegrin,Tuberculosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0913092,C0276500,PREVENTS,DC-specific ICAM-3 grabbing nonintegrin,Human immunodeficiency virus I infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C0913092,C1290884,PREVENTS,DC-specific ICAM-3 grabbing nonintegrin,Inflammatory disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C0937932,C0740394,PREVENTS,Rasburicase,Hyperuricemia,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C0969324,C0014457,PREVENTS,mepolizumab,Eosinophilia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1100850,C0042740,PREVENTS,"TPT1 protein, human",Viral syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1120386,C0004030,PREVENTS,micafungin,Aspergillosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1120386,C0006840,PREVENTS,micafungin,Candidiasis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1134659,C0011884,PREVENTS,aflibercept,Diabetic Retinopathy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1136535,C0746883,PREVENTS,pegfilgrastim,Febrile Neutropenia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1256770,C0024534,PREVENTS,Vascular Endothelial Growth Factors,"Malaria, Cerebral",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1256770,C0035220,PREVENTS,Vascular Endothelial Growth Factors,"Respiratory Distress Syndrome, Newborn",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1298636,C0035235,PREVENTS,Monoclonal antibody preparation,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1310510,C0948008,PREVENTS,"POU3F2 protein, human",Ischemic stroke,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C1312248,C0042769,PREVENTS,"IFITM1 protein, human",Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1329979,C0003177,PREVENTS,Anthrax Vaccine Adsorbed,Cutaneous anthrax,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1335676,C0042769,PREVENTS,Recombinant Antibody,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1335676,C1175175,PREVENTS,Recombinant Antibody,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1336636,C0034069,PREVENTS,TLR4 gene,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1418457,C0036690,PREVENTS,PENK gene,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1420002,C3899278,PREVENTS,SFTPA1 gene,Early Rheumatoid Arthritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1420193,C0275524,PREVENTS,SLC4A1 gene,Coinfection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1423842,C0009187,PREVENTS,NELFCD gene,Coccidiosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1424250,C0034069,PREVENTS,NLRP3 gene,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1439284,C0020538,PREVENTS,AGTR1 gene,Hypertensive disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1440867,C0023886,PREVENTS,"lactoferrin, bovine","Liver Abscess, Amebic",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1447045,C0001126,PREVENTS,"EGR1 protein, human",Renal tubular acidosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1448177,C0041296,PREVENTS,"TNF protein, human",Tuberculosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1448177,C0042384,PREVENTS,"TNF protein, human",Vasculitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1448177,C0302809,PREVENTS,"TNF protein, human",Fulminant hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1448177,C0856169,PREVENTS,"TNF protein, human",endothelial dysfunction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1449159,C0032285,PREVENTS,"CCL2 protein, human",Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1449702,C0035235,PREVENTS,Protein Kinase Inhibitors,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1449886,C0043124,PREVENTS,"Adaptor Proteins, Signal Transducing",West Nile Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1456447,C0028754,PREVENTS,"SLC6A2 protein, human",Obesity,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1456447,C1175175,PREVENTS,"SLC6A2 protein, human",Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1456447,C1849334,PREVENTS,"SLC6A2 protein, human","Robinow syndrome, autosomal recessive",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1506697,C0018378,PREVENTS,"CD47 protein, human",Guillain-Barre Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1512511,C0009443,PREVENTS,Human Papilloma Virus Vaccine,Common Cold,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1512511,C0036916,PREVENTS,Human Papilloma Virus Vaccine,Sexually Transmitted Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1512511,C0343641,PREVENTS,Human Papilloma Virus Vaccine,Human papilloma virus infection,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C1512511,C1264606,PREVENTS,Human Papilloma Virus Vaccine,Persistent infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1512511,C1333810,PREVENTS,Human Papilloma Virus Vaccine,Genital Human Papillomavirus Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1522002,C0042769,PREVENTS,RNA Recognition Motif,Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C1522002,C1175175,PREVENTS,RNA Recognition Motif,Severe Acute Respiratory Syndrome,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C1522537,C0023890,PREVENTS,Recombinant Interferon,Liver Cirrhosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1527233,C0035235,PREVENTS,Recombinant Immune Globulin,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1527233,C0042769,PREVENTS,Recombinant Immune Globulin,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1527233,C0043124,PREVENTS,Recombinant Immune Globulin,West Nile Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1527233,C1175175,PREVENTS,Recombinant Immune Globulin,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1527233,C3694279,PREVENTS,Recombinant Immune Globulin,Middle East Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1537471,C0024117,PREVENTS,CFAP97 gene,Chronic Obstructive Airway Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1552907,C0001487,PREVENTS,Adenovirus Vaccine,"Adenovirus Infections, Human",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1566537,C0011884,PREVENTS,ranibizumab,Diabetic Retinopathy,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1566673,C0042769,PREVENTS,Antibody Fragments,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1568891,C0032285,PREVENTS,"HGS protein, human",Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1609165,C0003850,PREVENTS,tocilizumab,Arteriosclerosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C0032285,PREVENTS,Anti-Antibodies,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C0034069,PREVENTS,Anti-Antibodies,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C0035235,PREVENTS,Anti-Antibodies,Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C0043124,PREVENTS,Anti-Antibodies,West Nile Fever,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C0149931,PREVENTS,Anti-Antibodies,Migraine Disorders,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C0206608,PREVENTS,Anti-Antibodies,Flavivirus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C1624602,C1175175,PREVENTS,Anti-Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C1290807,PREVENTS,Anti-Antibodies,Diarrheal disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1624602,C4288963,PREVENTS,Anti-Antibodies,Hepatitis C Virus Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1698754,C0027051,PREVENTS,"IL6 protein, human",Myocardial Infarction,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1698754,C0032285,PREVENTS,"IL6 protein, human",Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1701118,C0023374,PREVENTS,"CCL19 protein, human",Lesch-Nyhan Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1701790,C0013370,PREVENTS,"IL17A protein, human",Amebic colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1701790,C0021400,PREVENTS,"IL17A protein, human",Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1701790,C0026946,PREVENTS,"IL17A protein, human",Mycoses,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1701790,C0155877,PREVENTS,"IL17A protein, human",Allergic asthma,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1706289,C0003864,PREVENTS,Interleukin-27,Arthritis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1706289,C0036690,PREVENTS,Interleukin-27,Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1718989,C0032285,PREVENTS,Streptococcus pneumoniae serotype (antigen),Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1718989,C1142127,PREVENTS,Streptococcus pneumoniae serotype (antigen),pneumococcal bacteremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1869620,C0014457,PREVENTS,reslizumab,Eosinophilia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1956061,C0030524,PREVENTS,Cathelicidins,Paratuberculosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1956061,C0035243,PREVENTS,Cathelicidins,Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C1956074,C0034069,PREVENTS,Lipocalins,Pulmonary Fibrosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2003387,C0021400,PREVENTS,DAS181,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2266975,C1535917,PREVENTS,Lipopeptides,Nipah Virus Infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2608641,C0037354,PREVENTS,ACAM2000,Smallpox,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2702333,C0036690,PREVENTS,"Immunoglobulin G, Human",Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2713599,C0006271,PREVENTS,motavizumab,Bronchiolitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2713599,C0035235,PREVENTS,motavizumab,Respiratory Syncytial Virus Infections,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C2744535,C0003047,PREVENTS,"CD69 protein, human",Animal Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0004096,PREVENTS,"CD69 protein, human",Asthma,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C2744535,C0007947,PREVENTS,"CD69 protein, human",Chancroids,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0009443,PREVENTS,"CD69 protein, human",Common Cold,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C2744535,C0009450,PREVENTS,"CD69 protein, human",Communicable Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0011847,PREVENTS,"CD69 protein, human",Diabetes,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0016627,PREVENTS,"CD69 protein, human",Influenza in Birds,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0018081,PREVENTS,"CD69 protein, human",Gonorrhea,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0021400,PREVENTS,"CD69 protein, human",Influenza,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C2744535,C0024117,PREVENTS,"CD69 protein, human",Chronic Obstructive Airway Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0024236,PREVENTS,"CD69 protein, human",Lymphedema,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0029882,PREVENTS,"CD69 protein, human",Otitis Media,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0032285,PREVENTS,"CD69 protein, human",Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0035222,PREVENTS,"CD69 protein, human","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0035243,PREVENTS,"CD69 protein, human",Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0036916,PREVENTS,"CD69 protein, human",Sexually Transmitted Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0039128,PREVENTS,"CD69 protein, human",Syphilis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0040558,PREVENTS,"CD69 protein, human",Toxoplasmosis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0205721,PREVENTS,"CD69 protein, human","Infections, Hospital",aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C2744535,C0271429,PREVENTS,"CD69 protein, human",Acute otitis media,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0277528,PREVENTS,"CD69 protein, human",Traveler's diarrhea,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0729531,PREVENTS,"CD69 protein, human",Viral respiratory infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C0865757,PREVENTS,"CD69 protein, human",Suppurative pharyngitis (acute),aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2744535,C1096155,PREVENTS,"CD69 protein, human",Macrophage Activation Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2936529,C0009319,PREVENTS,Inflammasomes,Colitis,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C2936529,C0035869,PREVENTS,Inflammasomes,Rotavirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2936529,C0302809,PREVENTS,Inflammasomes,Fulminant hepatitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2945724,C0006271,PREVENTS,f-protein,Bronchiolitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2945724,C0035235,PREVENTS,f-protein,Respiratory Syncytial Virus Infections,aapp,dsyn,3,PREVENTS_AAPPprevDSYN
+C2945724,C0149725,PREVENTS,f-protein,Lower respiratory tract infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C2985546,C0035235,PREVENTS,"Antibodies, Monoclonal, Humanized",Respiratory Syncytial Virus Infections,aapp,dsyn,4,PREVENTS_AAPPprevDSYN
+C2987429,C0015300,PREVENTS,teprotumumab,Exophthalmos,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3494363,C0042769,PREVENTS,Tight Junction Proteins,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3658037,C2747816,PREVENTS,"interleukin-13, human",Severe Malaria,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3711103,C0019693,PREVENTS,"CCR5 protein, human",HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3711684,C1175175,PREVENTS,"S protein, severe acute respiratory syndrome coronavirus",Severe Acute Respiratory Syndrome,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C3714928,C0020538,PREVENTS,"Angiotensin-2, Human",Hypertensive disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3849701,C0042749,PREVENTS,"interleukin 18 protein, human",Viremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3864947,C0343641,PREVENTS,Gardasil 9,Human papilloma virus infection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3887647,C0032285,PREVENTS,"Lymphotoxin-Alpha, human",Pneumonia,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C3887655,C0019693,PREVENTS,Recombinant Platelet Factor 4,HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3887665,C0400966,PREVENTS,"Thrombopoietin, human",Non-alcoholic Fatty Liver Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3887680,C0042769,PREVENTS,Human Aminopeptidase N,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3887822,C0011854,PREVENTS,visilizumab,"Diabetes Mellitus, Insulin-Dependent",aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3891304,C0004610,PREVENTS,"Cathelicidin LL-37, human",Bacteremia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3891304,C0035235,PREVENTS,"Cathelicidin LL-37, human",Respiratory Syncytial Virus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C3891304,C0036690,PREVENTS,"Cathelicidin LL-37, human",Septicemia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4048280,C0001314,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Acute Disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4048280,C0014038,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Encephalitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4048280,C0019693,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",HIV Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4048280,C0035243,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Respiratory Tract Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4048280,C0038826,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Superinfection,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4048280,C0041296,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Tuberculosis,aapp,dsyn,27,PREVENTS_AAPPprevDSYN
+C4084937,C0042769,PREVENTS,Antimicrobial Peptide,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4084937,C1290807,PREVENTS,Antimicrobial Peptide,Diarrheal disorder,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4086508,C0009319,PREVENTS,IL6 Receptor Antibody,Colitis,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4224790,C0155866,PREVENTS,Obiltoxaximab,Inhalational anthrax,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4281724,C0032285,PREVENTS,Protein S100-A9,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4281740,C0042769,PREVENTS,Recombinant human mannan-binding protein,Virus Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4281803,C0004364,PREVENTS,"Tumor Necrosis Factor Receptor Superfamily Member 8, human",Autoimmune Diseases,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4281806,C0275518,PREVENTS,Neural Cell Adhesion Molecule 1,Acute infectious disease,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4281807,C0011334,PREVENTS,"Vitronectin, human",Dental caries,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4281807,C0042769,PREVENTS,"Vitronectin, human",Virus Diseases,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C4281807,C1175175,PREVENTS,"Vitronectin, human",Severe Acute Respiratory Syndrome,aapp,dsyn,2,PREVENTS_AAPPprevDSYN
+C4281807,C3694279,PREVENTS,"Vitronectin, human",Middle East Respiratory Syndrome,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4287651,C0021400,PREVENTS,Quadrivalent Inactivated Influenza Vaccine,Influenza,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4547378,C0032285,PREVENTS,MEDI3902,Pneumonia,aapp,dsyn,1,PREVENTS_AAPPprevDSYN
+C4547814,C0010823,PREVENTS,RG7667,Cytomegalovirus Infections,aapp,dsyn,1,PREVENTS_AAPPprevDSYN

@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001884,C1512335,PRECEDES,Airway Resistance Test,Harvest Procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0006290,C0220825,PRECEDES,Bronchoscopy,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0006290,C1522577,PRECEDES,Bronchoscopy,follow-up,diap,hlca,2,PRECEDES_DIAPprcdHLCA
+C0011906,C0220908,PRECEDES,Differential Diagnosis,Screening procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0011911,C0699943,PRECEDES,Laboratory Diagnosis,Public health service,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0015260,C0220825,PRECEDES,Exercise stress test,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0024485,C0015187,PRECEDES,Magnetic Resonance Imaging,Euthanasia,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0033920,C0220825,PRECEDES,Psychometrics,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0040405,C0027462,PRECEDES,X-Ray Computed Tomography,"Health Services, National",diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0040405,C1261322,PRECEDES,X-Ray Computed Tomography,Evaluation procedure,diap,hlca,2,PRECEDES_DIAPprcdHLCA
+C0043299,C0009818,PRECEDES,Diagnostic radiologic examination,Consultation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0043299,C0030685,PRECEDES,Diagnostic radiologic examination,Patient Discharge,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0162701,C0031809,PRECEDES,Polysomnography,Physical Examination,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0431080,C0220825,PRECEDES,Diagnostic assessment,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0683454,C1261322,PRECEDES,internal-external locus of control scale,Evaluation procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0750430,C0018795,PRECEDES,work up,Cardiac Catheterization Procedures,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0807679,C0037943,PRECEDES,Radiology studies,Spinal Puncture,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0860888,C1522577,PRECEDES,"Tomography, Spiral Computed",follow-up,diap,hlca,2,PRECEDES_DIAPprcdHLCA
+C0872187,C0220908,PRECEDES,high throughput screening,Screening procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C2985547,C0030685,PRECEDES,Scintimammography,Patient Discharge,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4521453,C1522577,PRECEDES,FDG-Positron Emission Tomography and Computed Tomography Scan,follow-up,diap,hlca,1,PRECEDES_DIAPprcdHLCA

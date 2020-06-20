@@ -1,0 +1,838 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000809,C0032962,ISA,"Abortion, Habitual",Pregnancy Complications,dsyn,patf,1,ISA_DSYNisaPATF
+C0000833,C0021368,ISA,Abscess,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0000833,C3203360,ISA,Abscess,Suppuration,dsyn,patf,1,ISA_DSYNisaPATF
+C0000833,C3714514,ISA,Abscess,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0001125,C0220981,ISA,"Acidosis, Lactic",Metabolic acidosis,dsyn,patf,2,ISA_DSYNisaPATF
+C0001126,C0001122,ISA,Renal tubular acidosis,Acidosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0001175,C0030660,ISA,Acquired Immunodeficiency Syndrome,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0001175,C3714514,ISA,Acquired Immunodeficiency Syndrome,Infection,dsyn,patf,12,ISA_DSYNisaPATF
+C0001311,C0021368,ISA,Acute bronchiolitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0001327,C3714514,ISA,Acute laryngitis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0001339,C0021368,ISA,Acute pancreatitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0001344,C0021368,ISA,Acute pharyngitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0001344,C3714514,ISA,Acute pharyngitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0001361,C0679333,ISA,Acute tonsillitis,inflammation or infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0001486,C3714514,ISA,Adenovirus Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0001752,C3714514,ISA,African swine fever,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0001883,C0030660,ISA,Airway Obstruction,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0002106,C0020517,ISA,Allergic pneumonia,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0002390,C0020517,ISA,Extrinsic allergic alveolitis,Hypersensitivity,dsyn,patf,8,ISA_DSYNisaPATF
+C0002390,C0030660,ISA,Extrinsic allergic alveolitis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0002390,C1155266,ISA,Extrinsic allergic alveolitis,inflammatory response,dsyn,patf,1,ISA_DSYNisaPATF
+C0002395,C0030660,ISA,Alzheimer's Disease,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0002792,C0020517,ISA,anaphylaxis,Hypersensitivity,dsyn,patf,25,ISA_DSYNisaPATF
+C0002792,C0020523,ISA,anaphylaxis,Immediate hypersensitivity,dsyn,patf,3,ISA_DSYNisaPATF
+C0002792,C0036974,ISA,anaphylaxis,Shock,dsyn,patf,4,ISA_DSYNisaPATF
+C0002792,C1527304,ISA,anaphylaxis,Allergic Reaction,dsyn,patf,1,ISA_DSYNisaPATF
+C0002792,C3714514,ISA,anaphylaxis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0002965,C0030660,ISA,"Angina, Unstable",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0003175,C3714514,ISA,Anthrax disease,Infection,dsyn,patf,13,ISA_DSYNisaPATF
+C0003509,C0003860,ISA,Aortitis,Arteritis,dsyn,patf,1,ISA_DSYNisaPATF
+C0003850,C0030660,ISA,Arteriosclerosis,Pathologic Processes,dsyn,patf,4,ISA_DSYNisaPATF
+C0003864,C0021368,ISA,Arthritis,Inflammation,dsyn,patf,4,ISA_DSYNisaPATF
+C0003864,C0030660,ISA,Arthritis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0003869,C3714514,ISA,"Arthritis, Infectious",Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0003872,C0021368,ISA,"Arthritis, Psoriatic",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0003873,C0021368,ISA,Rheumatoid Arthritis,Inflammation,dsyn,patf,8,ISA_DSYNisaPATF
+C0004030,C3714514,ISA,Aspergillosis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0004031,C0020517,ISA,"Aspergillosis, Allergic Bronchopulmonary",Hypersensitivity,dsyn,patf,4,ISA_DSYNisaPATF
+C0004031,C0021368,ISA,"Aspergillosis, Allergic Bronchopulmonary",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0004031,C0237653,ISA,"Aspergillosis, Allergic Bronchopulmonary",Immunologic hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0004096,C0020517,ISA,Asthma,Hypersensitivity,dsyn,patf,81,ISA_DSYNisaPATF
+C0004096,C0021368,ISA,Asthma,Inflammation,dsyn,patf,51,ISA_DSYNisaPATF
+C0004096,C0030660,ISA,Asthma,Pathologic Processes,dsyn,patf,5,ISA_DSYNisaPATF
+C0004096,C0035228,ISA,Asthma,Respiratory Hypersensitivity,dsyn,patf,14,ISA_DSYNisaPATF
+C0004096,C0242656,ISA,Asthma,Disease Progression,dsyn,patf,2,ISA_DSYNisaPATF
+C0004096,C0392707,ISA,Asthma,Atopy,dsyn,patf,65,ISA_DSYNisaPATF
+C0004096,C1155266,ISA,Asthma,inflammatory response,dsyn,patf,4,ISA_DSYNisaPATF
+C0004096,C1527304,ISA,Asthma,Allergic Reaction,dsyn,patf,4,ISA_DSYNisaPATF
+C0004096,C3714514,ISA,Asthma,Infection,dsyn,patf,24,ISA_DSYNisaPATF
+C0004135,C0020517,ISA,Ataxia Telangiectasia,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0004153,C0030660,ISA,Atherosclerosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0004238,C0030660,ISA,Atrial Fibrillation,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0004364,C0030660,ISA,Autoimmune Diseases,Pathologic Processes,dsyn,patf,7,ISA_DSYNisaPATF
+C0004576,C3714514,ISA,Babesiosis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0004610,C3714514,ISA,Bacteremia,Infection,dsyn,patf,30,ISA_DSYNisaPATF
+C0004623,C3714514,ISA,Bacterial Infections,Infection,dsyn,patf,17,ISA_DSYNisaPATF
+C0004626,C0021368,ISA,"Pneumonia, Bacterial",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0004626,C3714514,ISA,"Pneumonia, Bacterial",Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0004771,C3714514,ISA,Bartonella Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0005716,C3714514,ISA,Blastomycosis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0005741,C0021368,ISA,Blepharitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0006057,C3714514,ISA,Botulism,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0006271,C0021368,ISA,Bronchiolitis,Inflammation,dsyn,patf,6,ISA_DSYNisaPATF
+C0006271,C0030660,ISA,Bronchiolitis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0006271,C0242656,ISA,Bronchiolitis,Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0006271,C3714514,ISA,Bronchiolitis,Infection,dsyn,patf,19,ISA_DSYNisaPATF
+C0006272,C0021368,ISA,Bronchiolitis Obliterans,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0006272,C0334094,ISA,Bronchiolitis Obliterans,Proliferation (morphologic abnormality),dsyn,patf,3,ISA_DSYNisaPATF
+C0006274,C3714514,ISA,"Bronchiolitis, Viral",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0006277,C0021368,ISA,Bronchitis,Inflammation,dsyn,patf,5,ISA_DSYNisaPATF
+C0006277,C3714514,ISA,Bronchitis,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0006285,C3714514,ISA,Bronchopneumonia,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0006309,C3714514,ISA,Brucellosis,Infection,dsyn,patf,9,ISA_DSYNisaPATF
+C0006840,C3714514,ISA,Candidiasis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0006902,C0021368,ISA,Capillaritis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0007193,C0030660,ISA,"Cardiomyopathy, Dilated",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0007194,C0036974,ISA,Hypertrophic Cardiomyopathy,Shock,dsyn,patf,1,ISA_DSYNisaPATF
+C0007222,C0030660,ISA,Cardiovascular Diseases,Pathologic Processes,dsyn,patf,4,ISA_DSYNisaPATF
+C0007684,C3714514,ISA,Central Nervous System Infection,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0007786,C0022116,ISA,Brain Ischemia,Ischemia,dsyn,patf,2,ISA_DSYNisaPATF
+C0008049,C3714514,ISA,Chickenpox,Infection,dsyn,patf,13,ISA_DSYNisaPATF
+C0008149,C3714514,ISA,Chlamydia Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0008325,C0021368,ISA,Cholecystitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0008325,C0030660,ISA,Cholecystitis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0008354,C3714514,ISA,Cholera,Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0008513,C0021368,ISA,Chorioretinitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0008526,C0021368,ISA,Choroiditis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0008677,C0021368,ISA,"Bronchitis, Chronic",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0008707,C0021368,ISA,Chronic osteomyelitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0008711,C0020517,ISA,Chronic rhinitis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0008728,C0018188,ISA,Eosinophilic granulomatosis with polyangiitis,Granuloma,dsyn,patf,1,ISA_DSYNisaPATF
+C0008733,C0013687,ISA,Chylothorax,effusion,dsyn,patf,1,ISA_DSYNisaPATF
+C0009062,C3714514,ISA,Clostridium Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0009186,C3714514,ISA,Coccidioidomycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0009187,C3714514,ISA,Coccidiosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0009319,C0021368,ISA,Colitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0009319,C0334094,ISA,Colitis,Proliferation (morphologic abnormality),dsyn,patf,5,ISA_DSYNisaPATF
+C0009319,C3714514,ISA,Colitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0009326,C0030660,ISA,Collagen Diseases,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0009443,C0020517,ISA,Common Cold,Hypersensitivity,dsyn,patf,3,ISA_DSYNisaPATF
+C0009443,C0021368,ISA,Common Cold,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0009443,C3714514,ISA,Common Cold,Infection,dsyn,patf,43,ISA_DSYNisaPATF
+C0009447,C0301889,ISA,Common Variable Immunodeficiency,Immune defect,dsyn,patf,1,ISA_DSYNisaPATF
+C0009450,C0030660,ISA,Communicable Diseases,Pathologic Processes,dsyn,patf,3,ISA_DSYNisaPATF
+C0009450,C3714514,ISA,Communicable Diseases,Infection,dsyn,patf,35,ISA_DSYNisaPATF
+C0009763,C0021368,ISA,Conjunctivitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0009763,C0333355,ISA,Conjunctivitis,Inflammatory disease of mucous membrane,dsyn,patf,1,ISA_DSYNisaPATF
+C0009763,C3714514,ISA,Conjunctivitis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0009766,C0020517,ISA,Allergic Conjunctivitis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0009766,C0020523,ISA,Allergic Conjunctivitis,Immediate hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0009952,C3714514,ISA,Febrile Convulsions,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0010232,C3714514,ISA,Cowpox,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0010278,C0030660,ISA,Craniosynostosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0010346,C0021368,ISA,Crohn Disease,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0010380,C0021368,ISA,Croup,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0010380,C3714514,ISA,Croup,Infection,dsyn,patf,10,ISA_DSYNisaPATF
+C0010414,C0021368,ISA,Infection by Cryptococcus neoformans,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0010414,C3714514,ISA,Infection by Cryptococcus neoformans,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0010418,C3714514,ISA,Cryptosporidiosis,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0010674,C0030660,ISA,Cystic Fibrosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0010678,C3714514,ISA,Cysticercosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0010692,C0021368,ISA,Cystitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0010692,C3714514,ISA,Cystitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0010709,C0334094,ISA,Cyst,Proliferation (morphologic abnormality),dsyn,patf,3,ISA_DSYNisaPATF
+C0010823,C3714514,ISA,Cytomegalovirus Infections,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0011303,C0011304,ISA,Demyelinating Diseases,Demyelination,dsyn,patf,2,ISA_DSYNisaPATF
+C0011311,C3714514,ISA,Dengue Fever,Infection,dsyn,patf,17,ISA_DSYNisaPATF
+C0011603,C0021368,ISA,Dermatitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0011606,C0020517,ISA,Exfoliative dermatitis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0011609,C0013182,ISA,Drug Eruptions,Drug Allergy,dsyn,patf,1,ISA_DSYNisaPATF
+C0011615,C0020517,ISA,"Dermatitis, Atopic",Hypersensitivity,dsyn,patf,21,ISA_DSYNisaPATF
+C0011615,C0392707,ISA,"Dermatitis, Atopic",Atopy,dsyn,patf,5,ISA_DSYNisaPATF
+C0011616,C0020517,ISA,Contact Dermatitis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0011630,C3714514,ISA,Dermatomycoses,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0011633,C0021368,ISA,Dermatomyositis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0011636,C3714514,ISA,Dermatophytosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0011847,C0030660,ISA,Diabetes,Pathologic Processes,dsyn,patf,4,ISA_DSYNisaPATF
+C0011849,C0030660,ISA,Diabetes Mellitus,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0011860,C0030660,ISA,"Diabetes Mellitus, Non-Insulin-Dependent",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0012546,C3714514,ISA,Diphtheria,Infection,dsyn,patf,10,ISA_DSYNisaPATF
+C0012754,C3714514,ISA,Distemper,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0013264,C0026846,ISA,"Muscular Dystrophy, Duchenne",Muscular Atrophy,dsyn,patf,2,ISA_DSYNisaPATF
+C0013369,C3714514,ISA,Dysentery,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0013371,C3714514,ISA,Shigella Infections,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0013537,C0032914,ISA,Eclampsia,Pre-Eclampsia,dsyn,patf,1,ISA_DSYNisaPATF
+C0013595,C0020517,ISA,Eczema,Hypersensitivity,dsyn,patf,3,ISA_DSYNisaPATF
+C0014009,C3714514,ISA,Empyema,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0014013,C0013687,ISA,"Empyema, Pleural",effusion,dsyn,patf,2,ISA_DSYNisaPATF
+C0014013,C3714514,ISA,"Empyema, Pleural",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014038,C0021368,ISA,Encephalitis,Inflammation,dsyn,patf,7,ISA_DSYNisaPATF
+C0014038,C3714514,ISA,Encephalitis,Infection,dsyn,patf,14,ISA_DSYNisaPATF
+C0014059,C0021368,ISA,"Encephalomyelitis, Acute Disseminated",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0014059,C3714514,ISA,"Encephalomyelitis, Acute Disseminated",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014070,C0021368,ISA,Encephalomyelitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0014070,C3714514,ISA,Encephalomyelitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014118,C0021368,ISA,Endocarditis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0014118,C3714514,ISA,Endocarditis,Infection,dsyn,patf,14,ISA_DSYNisaPATF
+C0014121,C3714514,ISA,Bacterial Endocarditis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0014122,C3714514,ISA,Subacute Bacterial Endocarditis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0014173,C0030660,ISA,Endometrial Hyperplasia,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0014175,C0008519,ISA,Endometriosis,Ectopic Tissue,dsyn,patf,2,ISA_DSYNisaPATF
+C0014175,C4304717,ISA,Endometriosis,Ectopic endometrial tissue,dsyn,patf,2,ISA_DSYNisaPATF
+C0014179,C0021368,ISA,Endometritis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0014179,C0030660,ISA,Endometritis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0014236,C3714514,ISA,Endophthalmitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014335,C0021368,ISA,Enteritis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0014378,C3714514,ISA,Enterovirus Infections,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0014457,C0020517,ISA,Eosinophilia,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0014457,C0021368,ISA,Eosinophilia,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0014458,C0020517,ISA,"Eosinophilia, Tropical",Hypersensitivity,dsyn,patf,2,ISA_DSYNisaPATF
+C0014458,C3714514,ISA,"Eosinophilia, Tropical",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014493,C3714514,ISA,Epidemic keratoconjunctivitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014518,C0013182,ISA,Toxic Epidermal Necrolysis,Drug Allergy,dsyn,patf,3,ISA_DSYNisaPATF
+C0014518,C0020517,ISA,Toxic Epidermal Necrolysis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0014518,C0041755,ISA,Toxic Epidermal Necrolysis,Adverse reaction to drug,dsyn,patf,1,ISA_DSYNisaPATF
+C0014518,C3714514,ISA,Toxic Epidermal Necrolysis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0014534,C0021368,ISA,Epididymitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0014541,C3714514,ISA,Epiglottitis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0014544,C0030660,ISA,Epilepsy,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0014661,C3714514,ISA,Equine Infectious Anemia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0014733,C0007642,ISA,Erysipelas,Cellulitis,dsyn,patf,3,ISA_DSYNisaPATF
+C0014836,C3714514,ISA,Escherichia coli Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0015652,C3714514,ISA,Fascioliasis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0015765,C3714514,ISA,Feline Panleukopenia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0015951,C0015927,ISA,Fetal Resorption,Fetal Death,dsyn,patf,1,ISA_DSYNisaPATF
+C0016397,C3714514,ISA,Focal Infection,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0016627,C3714514,ISA,Influenza in Birds,Infection,dsyn,patf,321,ISA_DSYNisaPATF
+C0016689,C0162834,ISA,Freckles,Hyperpigmentation,dsyn,patf,1,ISA_DSYNisaPATF
+C0016867,C0021368,ISA,Furunculosis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0017105,C3714514,ISA,Gas Gangrene,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0017152,C0021368,ISA,Gastritis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0017160,C0021368,ISA,Gastroenteritis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0017160,C3714514,ISA,Gastroenteritis,Infection,dsyn,patf,16,ISA_DSYNisaPATF
+C0017162,C3714514,ISA,"Gastroenteritis, Transmissible, of Swine",Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0017168,C0232483,ISA,Gastroesophageal reflux disease,Reflux,dsyn,patf,1,ISA_DSYNisaPATF
+C0017536,C3714514,ISA,Giardiasis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0017574,C0021368,ISA,Gingivitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0018081,C3714514,ISA,Gonorrhea,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0018378,C0242656,ISA,Guillain-Barre Syndrome,Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0018378,C3714514,ISA,Guillain-Barre Syndrome,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0018572,C3714514,ISA,"Hand, Foot and Mouth Disease",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0018621,C0020517,ISA,Hay fever,Hypersensitivity,dsyn,patf,5,ISA_DSYNisaPATF
+C0018621,C0021368,ISA,Hay fever,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0018621,C0392707,ISA,Hay fever,Atopy,dsyn,patf,1,ISA_DSYNisaPATF
+C0018621,C3714514,ISA,Hay fever,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0018801,C0030660,ISA,Heart failure,Pathologic Processes,dsyn,patf,3,ISA_DSYNisaPATF
+C0018802,C0036974,ISA,Congestive heart failure,Shock,dsyn,patf,1,ISA_DSYNisaPATF
+C0018802,C0036980,ISA,Congestive heart failure,"Shock, Cardiogenic",dsyn,patf,1,ISA_DSYNisaPATF
+C0018889,C3714514,ISA,Helminthiasis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0019061,C0040053,ISA,Hemolytic-Uremic Syndrome,Thrombosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0019077,C0019123,ISA,Hemopneumothorax,Hemothorax,dsyn,patf,1,ISA_DSYNisaPATF
+C0019097,C3714514,ISA,"Hemorrhagic Fever, Argentinian",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0019099,C3714514,ISA,"Hemorrhagic Fever, Crimean",Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0019100,C0019080,ISA,Severe Dengue,Hemorrhage,dsyn,patf,6,ISA_DSYNisaPATF
+C0019100,C3714514,ISA,Severe Dengue,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0019104,C0019080,ISA,"Hemorrhagic Fevers, Viral",Hemorrhage,dsyn,patf,2,ISA_DSYNisaPATF
+C0019104,C3714514,ISA,"Hemorrhagic Fevers, Viral",Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0019154,C0040053,ISA,Hepatic Vein Thrombosis,Thrombosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0019154,C0087086,ISA,Hepatic Vein Thrombosis,Thrombus,dsyn,patf,1,ISA_DSYNisaPATF
+C0019158,C0021368,ISA,Hepatitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0019158,C0030660,ISA,Hepatitis,Pathologic Processes,dsyn,patf,3,ISA_DSYNisaPATF
+C0019158,C3714514,ISA,Hepatitis,Infection,dsyn,patf,12,ISA_DSYNisaPATF
+C0019159,C3714514,ISA,Hepatitis A,Infection,dsyn,patf,29,ISA_DSYNisaPATF
+C0019163,C3714514,ISA,Hepatitis B,Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0019191,C3714514,ISA,Infectious Canine Hepatitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0019196,C0151763,ISA,Hepatitis C,Liver damage,dsyn,patf,1,ISA_DSYNisaPATF
+C0019196,C0242656,ISA,Hepatitis C,Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0019196,C3714514,ISA,Hepatitis C,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0019243,C0020517,ISA,"Angioedemas, Hereditary",Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0019338,C3714514,ISA,Herpangina,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0019340,C3714514,ISA,herpes,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0019342,C3714514,ISA,Genital Herpes,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0019348,C3714514,ISA,Herpes Simplex Infections,Infection,dsyn,patf,108,ISA_DSYNisaPATF
+C0019357,C3714514,ISA,"Keratitis, Herpetic",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0019360,C3714514,ISA,Herpes zoster disease,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0019364,C3714514,ISA,Herpes Zoster Ophthalmicus,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0019372,C3714514,ISA,Herpesviridae Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0019655,C3714514,ISA,Histoplasmosis,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0019693,C3714514,ISA,HIV Infections,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0020179,C0030660,ISA,Huntington Disease,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0020452,C0700148,ISA,Hyperemia,Congestion,dsyn,patf,2,ISA_DSYNisaPATF
+C0020456,C0020517,ISA,Hyperglycemia,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0020538,C0030660,ISA,Hypertensive disease,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0020538,C0032962,ISA,Hypertensive disease,Pregnancy Complications,dsyn,patf,1,ISA_DSYNisaPATF
+C0020951,C0020517,ISA,Immune Complex Diseases,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0020951,C3714514,ISA,Immune Complex Diseases,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0021053,C0030660,ISA,Immune System Diseases,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0021313,C3714514,ISA,Infection of kidney,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0021334,C3714514,ISA,Infectious Bovine Rhinotracheitis,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0021345,C3714514,ISA,Infectious Mononucleosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0021390,C0021368,ISA,Inflammatory Bowel Diseases,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0021390,C0030660,ISA,Inflammatory Bowel Diseases,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0021400,C0021368,ISA,Influenza,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0021400,C3714514,ISA,Influenza,Infection,dsyn,patf,834,ISA_DSYNisaPATF
+C0021832,C3714514,ISA,"Intestinal Diseases, Parasitic",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0021933,C0028778,ISA,Intussusception,Obstruction,dsyn,patf,3,ISA_DSYNisaPATF
+C0022073,C0021368,ISA,Iridocyclitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0022104,C0021368,ISA,Irritable Bowel Syndrome,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0022336,C3714514,ISA,Creutzfeldt-Jakob disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0022408,C0030660,ISA,Arthropathy,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0022521,C0020517,ISA,Kartagener Syndrome,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0022568,C0021368,ISA,Keratitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0022568,C3714514,ISA,Keratitis,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0022573,C3714514,ISA,Keratoconjunctivitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0022638,C0001122,ISA,Ketosis,Acidosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0022658,C0030660,ISA,Kidney Diseases,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0022660,C0178292,ISA,"Kidney Failure, Acute","Complications of pregnancy, childbirth and the puerperium",dsyn,patf,1,ISA_DSYNisaPATF
+C0022951,C0020517,ISA,Lactose Intolerance,Hypersensitivity,dsyn,patf,24,ISA_DSYNisaPATF
+C0023048,C3714514,ISA,Larva Migrans,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023067,C3714514,ISA,Laryngitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0023092,C3714514,ISA,Lassa Fever,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0023211,C0232219,ISA,Left Bundle-Branch Block,Abnormal cardiac conduction,dsyn,patf,1,ISA_DSYNisaPATF
+C0023240,C3714514,ISA,Legionellosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023281,C3714514,ISA,Leishmaniasis,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0023290,C3714514,ISA,"Leishmaniasis, Visceral",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023343,C3714514,ISA,Leprosy,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023364,C3714514,ISA,Leptospirosis,Infection,dsyn,patf,9,ISA_DSYNisaPATF
+C0023524,C0011304,ISA,"Leukoencephalopathy, Progressive Multifocal",Demyelination,dsyn,patf,2,ISA_DSYNisaPATF
+C0023530,C0010828,ISA,Leukopenia,Cytopenia,dsyn,patf,5,ISA_DSYNisaPATF
+C0023788,C3714514,ISA,Whipple Disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023860,C3714514,ISA,Listeriosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023885,C3714514,ISA,Liver Abscess,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023886,C3714514,ISA,"Liver Abscess, Amebic",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0023890,C0543419,ISA,Liver Cirrhosis,Sequela of disorder,dsyn,patf,1,ISA_DSYNisaPATF
+C0023895,C0030660,ISA,Liver diseases,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0024081,C0021368,ISA,Ludwig's Angina,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0024110,C3714514,ISA,Lung Abscess,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0024116,C3714514,ISA,"Lung Diseases, Fungal",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0024117,C0030660,ISA,Chronic Obstructive Airway Disease,Pathologic Processes,dsyn,patf,4,ISA_DSYNisaPATF
+C0024117,C0242656,ISA,Chronic Obstructive Airway Disease,Disease Progression,dsyn,patf,4,ISA_DSYNisaPATF
+C0024141,C0021368,ISA,"Lupus Erythematosus, Systemic",Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0024141,C0030660,ISA,"Lupus Erythematosus, Systemic",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0024198,C3714514,ISA,Lyme Disease,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0024291,C0021368,ISA,"Lymphohistiocytosis, Hemophagocytic",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0024312,C0010828,ISA,Lymphopenia,Cytopenia,dsyn,patf,3,ISA_DSYNisaPATF
+C0024449,C3714514,ISA,Mycetoma,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0024530,C3714514,ISA,Malaria,Infection,dsyn,patf,124,ISA_DSYNisaPATF
+C0024533,C3714514,ISA,"Malaria, Avian",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0024534,C3714514,ISA,"Malaria, Cerebral",Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0024535,C3714514,ISA,"Malaria, Falciparum",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0024709,C3714514,ISA,Mange,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0024710,C3714514,ISA,"Mange, Sarcoptic",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0024788,C3714514,ISA,Marburg Virus Disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0024894,C0021368,ISA,Mastitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0024894,C3714514,ISA,Mastitis,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0024904,C0021368,ISA,Mastoiditis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0025007,C0020517,ISA,Measles,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0025007,C3714514,ISA,Measles,Infection,dsyn,patf,69,ISA_DSYNisaPATF
+C0025064,C3714514,ISA,Mediastinitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0025218,C0162834,ISA,Chloasma,Hyperpigmentation,dsyn,patf,1,ISA_DSYNisaPATF
+C0025229,C3714514,ISA,Melioidosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0025289,C0021368,ISA,Meningitis,Inflammation,dsyn,patf,5,ISA_DSYNisaPATF
+C0025289,C3714514,ISA,Meningitis,Infection,dsyn,patf,24,ISA_DSYNisaPATF
+C0025303,C3714514,ISA,Meningococcal Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0025306,C3714514,ISA,Meningococcemia,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0025309,C0021368,ISA,Meningoencephalitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0025309,C3714514,ISA,Meningoencephalitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0025311,C0021368,ISA,Meningomyelitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0026393,C3714514,ISA,Molluscum Contagiosum,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0026691,C0003860,ISA,Mucocutaneous Lymph Node Syndrome,Arteritis,dsyn,patf,4,ISA_DSYNisaPATF
+C0026718,C3714514,ISA,Mucormycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0026769,C0011304,ISA,Multiple Sclerosis,Demyelination,dsyn,patf,12,ISA_DSYNisaPATF
+C0026769,C0030660,ISA,Multiple Sclerosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0026769,C3714514,ISA,Multiple Sclerosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0026780,C3714514,ISA,Mumps,Infection,dsyn,patf,12,ISA_DSYNisaPATF
+C0026918,C3714514,ISA,Mycobacterium Infections,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0026946,C3714514,ISA,Mycoses,Infection,dsyn,patf,9,ISA_DSYNisaPATF
+C0026975,C0021368,ISA,Myelitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0026976,C0011304,ISA,"Myelitis, Transverse",Demyelination,dsyn,patf,1,ISA_DSYNisaPATF
+C0026976,C0021368,ISA,"Myelitis, Transverse",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0027051,C0022116,ISA,Myocardial Infarction,Ischemia,dsyn,patf,2,ISA_DSYNisaPATF
+C0027051,C0028778,ISA,Myocardial Infarction,Obstruction,dsyn,patf,1,ISA_DSYNisaPATF
+C0027051,C0030660,ISA,Myocardial Infarction,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0027051,C0242184,ISA,Myocardial Infarction,Hypoxia,dsyn,patf,1,ISA_DSYNisaPATF
+C0027059,C0021368,ISA,Myocarditis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0027059,C0022116,ISA,Myocarditis,Ischemia,dsyn,patf,1,ISA_DSYNisaPATF
+C0027059,C3714514,ISA,Myocarditis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0027121,C0021368,ISA,Myositis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0027121,C0030660,ISA,Myositis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0027430,C0030660,ISA,Nasal Polyps,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0027441,C3714514,ISA,Nasopharyngitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0027697,C0021368,ISA,Nephritis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0027765,C0030660,ISA,nervous system disorder,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0027983,C3714514,ISA,Newcastle Disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0028754,C0030660,ISA,Obesity,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0028992,C3714514,ISA,Omphalitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0029118,C0030660,ISA,Opportunistic Infections,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0029118,C3714514,ISA,Opportunistic Infections,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0029291,C3714514,ISA,Psittacosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0029342,C3714514,ISA,Orthomyxoviridae Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0029400,C0021368,ISA,Osteitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0029408,C0021368,ISA,Degenerative polyarthritis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0029443,C3714514,ISA,Osteomyelitis,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0029456,C0030660,ISA,Osteoporosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0029878,C0021368,ISA,Otitis Externa,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0029882,C0021368,ISA,Otitis Media,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0029882,C3714514,ISA,Otitis Media,Infection,dsyn,patf,13,ISA_DSYNisaPATF
+C0029883,C0021368,ISA,Otitis Media with Effusion,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0029895,C3714514,ISA,Otomycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0030305,C0021368,ISA,Pancreatitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0030312,C0010828,ISA,Pancytopenia,Cytopenia,dsyn,patf,1,ISA_DSYNisaPATF
+C0030332,C3203360,ISA,Panophthalmitis,Suppuration,dsyn,patf,1,ISA_DSYNisaPATF
+C0030389,C3714514,ISA,Parainfluenza,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0030524,C3714514,ISA,Paratuberculosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0031024,C3714514,ISA,Suppurative Periapical Periodontitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0031036,C0003860,ISA,Polyarteritis Nodosa,Arteritis,dsyn,patf,2,ISA_DSYNisaPATF
+C0031039,C0013687,ISA,Pericardial effusion,effusion,dsyn,patf,1,ISA_DSYNisaPATF
+C0031046,C0021368,ISA,Pericarditis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0031099,C0021368,ISA,Periodontitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0031157,C3714514,ISA,Peritonsillar Abscess,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0031256,C0019080,ISA,Petechiae,Hemorrhage,dsyn,patf,8,ISA_DSYNisaPATF
+C0031350,C0021368,ISA,Pharyngitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0031350,C3714514,ISA,Pharyngitis,Infection,dsyn,patf,13,ISA_DSYNisaPATF
+C0032027,C0020517,ISA,Pityriasis Rubra Pilaris,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0032064,C3714514,ISA,Plague,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0032227,C0013687,ISA,Pleural effusion disorder,effusion,dsyn,patf,5,ISA_DSYNisaPATF
+C0032227,C0021368,ISA,Pleural effusion disorder,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0032227,C0546817,ISA,Pleural effusion disorder,Fluid overload,dsyn,patf,3,ISA_DSYNisaPATF
+C0032227,C3714514,ISA,Pleural effusion disorder,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0032231,C0021368,ISA,Pleurisy,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0032269,C3714514,ISA,Pneumococcal Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0032285,C0021368,ISA,Pneumonia,Inflammation,dsyn,patf,18,ISA_DSYNisaPATF
+C0032285,C0030660,ISA,Pneumonia,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0032285,C0334094,ISA,Pneumonia,Proliferation (morphologic abnormality),dsyn,patf,1,ISA_DSYNisaPATF
+C0032285,C3714514,ISA,Pneumonia,Infection,dsyn,patf,104,ISA_DSYNisaPATF
+C0032290,C3714514,ISA,Aspiration Pneumonia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0032300,C0021368,ISA,Lobar Pneumonia,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0032300,C3714514,ISA,Lobar Pneumonia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0032302,C3714514,ISA,Mycoplasma pneumonia,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0032310,C0030660,ISA,"Pneumonia, Viral",Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0032310,C3714514,ISA,"Pneumonia, Viral",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0032371,C0021368,ISA,Poliomyelitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0032371,C0242656,ISA,Poliomyelitis,Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0032371,C3714514,ISA,Poliomyelitis,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0032870,C3714514,ISA,Poxviridae Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0033740,C3714514,ISA,Protozoan Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0033860,C0030660,ISA,Psoriasis,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0034063,C0001122,ISA,Pulmonary Edema,Acidosis,dsyn,patf,2,ISA_DSYNisaPATF
+C0034065,C0178292,ISA,Pulmonary Embolism,"Complications of pregnancy, childbirth and the puerperium",dsyn,patf,1,ISA_DSYNisaPATF
+C0034068,C0021368,ISA,Pulmonary Eosinophilia,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0034068,C3714514,ISA,Pulmonary Eosinophilia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0034069,C0016059,ISA,Pulmonary Fibrosis,Fibrosis,dsyn,patf,2,ISA_DSYNisaPATF
+C0034069,C0021368,ISA,Pulmonary Fibrosis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0034069,C0030660,ISA,Pulmonary Fibrosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0034069,C0242656,ISA,Pulmonary Fibrosis,Disease Progression,dsyn,patf,3,ISA_DSYNisaPATF
+C0034074,C0087086,ISA,Pulmonary Infarction,Thrombus,dsyn,patf,1,ISA_DSYNisaPATF
+C0034152,C0020517,ISA,Henoch-Schoenlein Purpura,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0034186,C3714514,ISA,Pyelonephritis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0034362,C3714514,ISA,Q Fever,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0034902,C0030660,ISA,Pure Red-Cell Aplasia,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0035078,C0030660,ISA,Kidney Failure,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0035220,C0036974,ISA,"Respiratory Distress Syndrome, Newborn",Shock,dsyn,patf,1,ISA_DSYNisaPATF
+C0035222,C0030660,ISA,"Respiratory Distress Syndrome, Adult",Pathologic Processes,dsyn,patf,5,ISA_DSYNisaPATF
+C0035222,C0035229,ISA,"Respiratory Distress Syndrome, Adult",Respiratory Insufficiency,dsyn,patf,1,ISA_DSYNisaPATF
+C0035222,C0036974,ISA,"Respiratory Distress Syndrome, Adult",Shock,dsyn,patf,14,ISA_DSYNisaPATF
+C0035222,C0242656,ISA,"Respiratory Distress Syndrome, Adult",Disease Progression,dsyn,patf,3,ISA_DSYNisaPATF
+C0035222,C0546817,ISA,"Respiratory Distress Syndrome, Adult",Fluid overload,dsyn,patf,2,ISA_DSYNisaPATF
+C0035235,C0021368,ISA,Respiratory Syncytial Virus Infections,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0035235,C3714514,ISA,Respiratory Syncytial Virus Infections,Infection,dsyn,patf,10,ISA_DSYNisaPATF
+C0035243,C0030660,ISA,Respiratory Tract Infections,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0035243,C3714514,ISA,Respiratory Tract Infections,Infection,dsyn,patf,36,ISA_DSYNisaPATF
+C0035305,C0030660,ISA,Retinal Detachment,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0035436,C3714514,ISA,Rheumatic Fever,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0035439,C3714514,ISA,Rheumatic Heart Disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0035455,C0020517,ISA,Rhinitis,Hypersensitivity,dsyn,patf,3,ISA_DSYNisaPATF
+C0035455,C0021368,ISA,Rhinitis,Inflammation,dsyn,patf,7,ISA_DSYNisaPATF
+C0035455,C1155266,ISA,Rhinitis,inflammatory response,dsyn,patf,4,ISA_DSYNisaPATF
+C0035455,C3714514,ISA,Rhinitis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0035585,C3714514,ISA,Rickettsia Infections,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0035613,C3714514,ISA,Rift Valley Fever,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0035793,C3714514,ISA,Rocky Mountain Spotted Fever,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0035869,C3714514,ISA,Rotavirus Infections,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0035920,C3714514,ISA,Rubella,Infection,dsyn,patf,9,ISA_DSYNisaPATF
+C0036117,C3714514,ISA,Salmonella infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0036202,C0018188,ISA,Sarcoidosis,Granuloma,dsyn,patf,7,ISA_DSYNisaPATF
+C0036202,C3714514,ISA,Sarcoidosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0036205,C0018188,ISA,"Sarcoidosis, Pulmonary",Granuloma,dsyn,patf,1,ISA_DSYNisaPATF
+C0036205,C0242656,ISA,"Sarcoidosis, Pulmonary",Disease Progression,dsyn,patf,2,ISA_DSYNisaPATF
+C0036285,C3714514,ISA,Scarlet Fever,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0036323,C3714514,ISA,Schistosomiasis,Infection,dsyn,patf,11,ISA_DSYNisaPATF
+C0036472,C3714514,ISA,Scrub Typhus,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0036685,C3714514,ISA,gram negative sepsis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0036689,C3714514,ISA,Streptococcal sore throat,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0036690,C0030660,ISA,Septicemia,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0036690,C3714514,ISA,Septicemia,Infection,dsyn,patf,23,ISA_DSYNisaPATF
+C0036830,C0020517,ISA,Serum Sickness,Hypersensitivity,dsyn,patf,3,ISA_DSYNisaPATF
+C0036916,C3714514,ISA,Sexually Transmitted Diseases,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0037023,C0021368,ISA,Sialadenitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0037199,C0020517,ISA,Sinusitis,Hypersensitivity,dsyn,patf,2,ISA_DSYNisaPATF
+C0037199,C0021368,ISA,Sinusitis,Inflammation,dsyn,patf,4,ISA_DSYNisaPATF
+C0037199,C3714514,ISA,Sinusitis,Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0037274,C0030660,ISA,Dermatologic disorders,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0037278,C3714514,ISA,"Skin Diseases, Infectious",Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0037354,C3714514,ISA,Smallpox,Infection,dsyn,patf,24,ISA_DSYNisaPATF
+C0038013,C0021368,ISA,Ankylosing spondylitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0038160,C3714514,ISA,Staphylococcal Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0038325,C3714514,ISA,Stevens-Johnson Syndrome,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0038362,C0021368,ISA,Stomatitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0038362,C3714514,ISA,Stomatitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0038395,C3714514,ISA,Streptococcal Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0038463,C3714514,ISA,Strongyloidiasis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0038522,C3714514,ISA,Subacute Sclerosing Panencephalitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0038525,C2937358,ISA,Subarachnoid Hemorrhage,Cerebral Hemorrhage,dsyn,patf,2,ISA_DSYNisaPATF
+C0038826,C3714514,ISA,Superinfection,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0038833,C0028778,ISA,Superior Vena Cava Syndrome,Obstruction,dsyn,patf,1,ISA_DSYNisaPATF
+C0039128,C3714514,ISA,Syphilis,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0039445,C0012359,ISA,Hereditary hemorrhagic telangiectasia,Pathological Dilatation,dsyn,patf,1,ISA_DSYNisaPATF
+C0039614,C3714514,ISA,Tetanus,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0040034,C0010828,ISA,Thrombocytopenia,Cytopenia,dsyn,patf,1,ISA_DSYNisaPATF
+C0040247,C3714514,ISA,Tinea,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0040425,C0021368,ISA,Tonsillitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0040425,C3714514,ISA,Tonsillitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0040558,C3714514,ISA,Toxoplasmosis,Infection,dsyn,patf,13,ISA_DSYNisaPATF
+C0040584,C3714514,ISA,Tracheitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0040586,C0021368,ISA,Tracheobronchitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0040586,C3714514,ISA,Tracheobronchitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0040592,C3714514,ISA,Trachoma,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0040830,C3714514,ISA,Trench Fever,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0040896,C3714514,ISA,Trichinellosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0040921,C3714514,ISA,Trichomonas Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041228,C3714514,ISA,African Trypanosomiasis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041234,C3714514,ISA,Chagas Disease,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0041296,C3714514,ISA,Tuberculosis,Infection,dsyn,patf,56,ISA_DSYNisaPATF
+C0041307,C3714514,ISA,"Tuberculosis, Bovine",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041321,C3714514,ISA,"Tuberculosis, Miliary",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041327,C3714514,ISA,"Tuberculosis, Pulmonary",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041328,C3714514,ISA,"Tuberculosis, Renal",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041351,C3714514,ISA,Tularemia,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0041466,C3714514,ISA,Typhoid Fever,Infection,dsyn,patf,10,ISA_DSYNisaPATF
+C0041471,C3714514,ISA,TYPHUS,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0041834,C0021368,ISA,Erythema,Inflammation,dsyn,patf,7,ISA_DSYNisaPATF
+C0041912,C3714514,ISA,Upper Respiratory Infections,Infection,dsyn,patf,17,ISA_DSYNisaPATF
+C0041959,C3714514,ISA,Ureteritis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0042029,C3714514,ISA,Urinary tract infection,Infection,dsyn,patf,30,ISA_DSYNisaPATF
+C0042109,C0020517,ISA,Urticaria,Hypersensitivity,dsyn,patf,7,ISA_DSYNisaPATF
+C0042109,C0020523,ISA,Urticaria,Immediate hypersensitivity,dsyn,patf,3,ISA_DSYNisaPATF
+C0042164,C0021368,ISA,Uveitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0042214,C3714514,ISA,Vaccinia,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0042267,C3714514,ISA,Vaginitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0042384,C0021368,ISA,Vasculitis,Inflammation,dsyn,patf,5,ISA_DSYNisaPATF
+C0042721,C3714514,ISA,Viral hepatitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0042749,C3714514,ISA,Viremia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0042769,C0030660,ISA,Virus Diseases,Pathologic Processes,dsyn,patf,4,ISA_DSYNisaPATF
+C0042769,C3714514,ISA,Virus Diseases,Infection,dsyn,patf,49,ISA_DSYNisaPATF
+C0043124,C3714514,ISA,West Nile Fever,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0043167,C3714514,ISA,Pertussis,Infection,dsyn,patf,21,ISA_DSYNisaPATF
+C0043395,C3714514,ISA,Yellow Fever,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0043528,C3714514,ISA,Zoonoses,Infection,dsyn,patf,24,ISA_DSYNisaPATF
+C0043541,C3714514,ISA,Zygomycosis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0079035,C0428977,ISA,Bradyarrhythmia (disorder),Bradycardia,dsyn,patf,1,ISA_DSYNisaPATF
+C0080323,C0030660,ISA,Visna,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0085082,C3714514,ISA,Fungemia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0085166,C3714514,ISA,Bacterial Vaginosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0085207,C0032962,ISA,Gestational Diabetes,Pregnancy Complications,dsyn,patf,1,ISA_DSYNisaPATF
+C0085209,C3714514,ISA,"Encephalopathy, Bovine Spongiform",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0085273,C3714514,ISA,Erythema Infectiosum,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0085293,C3714514,ISA,Hepatitis E,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0085306,C0021368,ISA,Feline infectious peritonitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085306,C3714514,ISA,Feline infectious peritonitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0085399,C3714514,ISA,Ehrlichiosis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0085423,C3714514,ISA,Gram-Negative Bacterial Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0085435,C0021368,ISA,"Arthritis, Reactive",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085436,C0021368,ISA,"Meningitis, Cryptococcal",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085437,C0021368,ISA,"Meningitis, Bacterial",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085437,C3714514,ISA,"Meningitis, Bacterial",Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0085615,C0232219,ISA,Right bundle branch block,Abnormal cardiac conduction,dsyn,patf,1,ISA_DSYNisaPATF
+C0085650,C0040053,ISA,Purpura Fulminans,Thrombosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0085655,C0021368,ISA,Polymyositis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085692,C3714514,ISA,Hemorrhagic cystitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0085696,C0021368,ISA,Chronic prostatitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085786,C0016059,ISA,Hamman-Rich syndrome,Fibrosis,dsyn,patf,7,ISA_DSYNisaPATF
+C0085786,C0021368,ISA,Hamman-Rich syndrome,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0085786,C0030660,ISA,Hamman-Rich syndrome,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0149512,C0021368,ISA,Acute sinusitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0149514,C0021368,ISA,Acute bronchitis,Inflammation,dsyn,patf,6,ISA_DSYNisaPATF
+C0149514,C3714514,ISA,Acute bronchitis,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0149516,C0021368,ISA,Chronic sinusitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0149516,C0030660,ISA,Chronic sinusitis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0149622,C0232841,ISA,"Neurogenic Urinary Bladder, Atonic",Bladder dysfunction,dsyn,patf,1,ISA_DSYNisaPATF
+C0149678,C3714514,ISA,Epstein-Barr Virus Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0149704,C3714514,ISA,Gingivostomatitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0149721,C0020564,ISA,Left Ventricular Hypertrophy,Hypertrophy,dsyn,patf,1,ISA_DSYNisaPATF
+C0149725,C3714514,ISA,Lower respiratory tract infection,Infection,dsyn,patf,20,ISA_DSYNisaPATF
+C0149778,C3714514,ISA,Soft Tissue Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0149871,C0040053,ISA,Deep Vein Thrombosis,Thrombosis,dsyn,patf,2,ISA_DSYNisaPATF
+C0149871,C0087086,ISA,Deep Vein Thrombosis,Thrombus,dsyn,patf,5,ISA_DSYNisaPATF
+C0149948,C0021368,ISA,Acute otitis externa,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0149980,C0021368,ISA,Rhinitis medicamentosa,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0149993,C0274435,ISA,Febrile transfusion reaction,Transfusion Reaction,dsyn,patf,1,ISA_DSYNisaPATF
+C0151217,C0020517,ISA,Chronic otitis externa,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0151317,C0242656,ISA,Chronic infectious disease,Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0151317,C3714514,ISA,Chronic infectious disease,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0151594,C0019080,ISA,Hemorrhagic diarrhea,Hemorrhage,dsyn,patf,1,ISA_DSYNisaPATF
+C0151699,C0019080,ISA,Intracranial Hemorrhages,Hemorrhage,dsyn,patf,2,ISA_DSYNisaPATF
+C0151947,C0087086,ISA,Pulmonary artery thrombosis,Thrombus,dsyn,patf,1,ISA_DSYNisaPATF
+C0152113,C1264603,ISA,Rheumatic Chorea,Post-infectious disorder,dsyn,patf,1,ISA_DSYNisaPATF
+C0152936,C3714514,ISA,"Plague, Septicemic",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0152937,C3714514,ISA,Primary pneumonic plague,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0153042,C3714514,ISA,Herpetic whitlow,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0153064,C3714514,ISA,"Encephalomyelitis, Western Equine",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0153065,C3714514,ISA,"Encephalomyelitis, Eastern Equine",Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0153252,C3714514,ISA,Systemic candidiasis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0153308,C3714514,ISA,Toxoplasmosis chorioretinitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0155091,C0151571,ISA,Corneal abscess,Corneal lesion,dsyn,patf,1,ISA_DSYNisaPATF
+C0155626,C0030660,ISA,Acute myocardial infarction,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0155842,C3714514,ISA,Parapharyngeal abscess,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0155862,C3714514,ISA,Streptococcal pneumonia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0155866,C3714514,ISA,Inhalational anthrax,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0155877,C0020517,ISA,Allergic asthma,Hypersensitivity,dsyn,patf,6,ISA_DSYNisaPATF
+C0155877,C0021368,ISA,Allergic asthma,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0162820,C0020517,ISA,"Dermatitis, Allergic Contact",Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0162820,C1155266,ISA,"Dermatitis, Allergic Contact",inflammatory response,dsyn,patf,1,ISA_DSYNisaPATF
+C0162871,C0012359,ISA,"Aortic Aneurysm, Abdominal",Pathological Dilatation,dsyn,patf,1,ISA_DSYNisaPATF
+C0205721,C0010356,ISA,"Infections, Hospital",Cross Infection,dsyn,patf,20,ISA_DSYNisaPATF
+C0205721,C3714514,ISA,"Infections, Hospital",Infection,dsyn,patf,27,ISA_DSYNisaPATF
+C0206061,C0021368,ISA,"Pneumonia, Interstitial",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0206061,C0030660,ISA,"Pneumonia, Interstitial",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0206061,C0334094,ISA,"Pneumonia, Interstitial",Proliferation (morphologic abnormality),dsyn,patf,8,ISA_DSYNisaPATF
+C0206061,C3714514,ISA,"Pneumonia, Interstitial",Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0206171,C3714514,ISA,Community-Acquired Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0206526,C3714514,ISA,"Tuberculosis, Multidrug-Resistant",Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0206750,C3714514,ISA,Coronavirus Infections,Infection,dsyn,patf,10,ISA_DSYNisaPATF
+C0221725,C0030660,ISA,Obstruction of bronchus,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0221757,C0013990,ISA,alpha 1-Antitrypsin Deficiency,Pathological accumulation of air in tissues,dsyn,patf,2,ISA_DSYNisaPATF
+C0234935,C0020523,ISA,Acute urticaria,Immediate hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0238013,C3714514,ISA,Invasive aspergillosis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0238124,C3714514,ISA,Necrotizing fasciitis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0238469,C3714514,ISA,Abscess of tonsil,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0241910,C0021368,ISA,"Hepatitis, Autoimmune",Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0241954,C3714514,ISA,Canine leptospirosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0242723,C3714514,ISA,Parasitemia,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0242770,C0016059,ISA,Bronchiolitis Obliterans Organizing Pneumonia,Fibrosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0242770,C0021368,ISA,Bronchiolitis Obliterans Organizing Pneumonia,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0242852,C0030660,ISA,Proliferative vitreoretinopathy,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0242966,C0021368,ISA,Systemic Inflammatory Response Syndrome,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0242966,C0036974,ISA,Systemic Inflammatory Response Syndrome,Shock,dsyn,patf,1,ISA_DSYNisaPATF
+C0242994,C3714514,ISA,Hantavirus Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0243010,C0021368,ISA,Viral Encephalitis,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C0243010,C3714514,ISA,Viral Encephalitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0243025,C3714514,ISA,Hantavirus Pulmonary Syndrome,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0243026,C3714514,ISA,Sepsis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0262426,C3714514,ISA,coccidiomycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0263421,C0333641,ISA,Acrodermatitis atrophicans chronica,Atrophic,dsyn,patf,1,ISA_DSYNisaPATF
+C0263979,C0021368,ISA,Purulent myositis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0264376,C0021368,ISA,Non-infectious pneumonia,Inflammation,dsyn,patf,4,ISA_DSYNisaPATF
+C0264385,C3714514,ISA,Airsacculitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0264394,C0013990,ISA,Paraseptal emphysema,Pathological accumulation of air in tissues,dsyn,patf,1,ISA_DSYNisaPATF
+C0264408,C0020517,ISA,Childhood asthma,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0264408,C0021368,ISA,Childhood asthma,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0264408,C0392707,ISA,Childhood asthma,Atopy,dsyn,patf,2,ISA_DSYNisaPATF
+C0264413,C0021368,ISA,Late onset asthma,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0264413,C0392707,ISA,Late onset asthma,Atopy,dsyn,patf,1,ISA_DSYNisaPATF
+C0264490,C0242656,ISA,Acute respiratory failure,Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0264499,C0004144,ISA,Compression Pulmonary Atelectasis,Atelectasis,dsyn,patf,1,ISA_DSYNisaPATF
+C0264511,C0020507,ISA,Lymphoid interstitial pneumonia,Hyperplasia,dsyn,patf,1,ISA_DSYNisaPATF
+C0264515,C0030660,ISA,"Pneumonia, Necrotizing",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0264550,C0013687,ISA,Pleural effusion associated with pulmonary infection,effusion,dsyn,patf,2,ISA_DSYNisaPATF
+C0264722,C0022116,ISA,Chronic congestive heart failure,Ischemia,dsyn,patf,1,ISA_DSYNisaPATF
+C0264936,C0020542,ISA,Secondary pulmonary hypertension,Pulmonary Hypertension,dsyn,patf,1,ISA_DSYNisaPATF
+C0265493,C0019080,ISA,Cat eye syndrome,Hemorrhage,dsyn,patf,1,ISA_DSYNisaPATF
+C0267380,C0334094,ISA,Crohn's disease of the ileum,Proliferation (morphologic abnormality),dsyn,patf,1,ISA_DSYNisaPATF
+C0267446,C3714514,ISA,Acute gastroenteritis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0267537,C0334094,ISA,Typhlitis,Proliferation (morphologic abnormality),dsyn,patf,2,ISA_DSYNisaPATF
+C0267541,C0334094,ISA,Typhlocolitis,Proliferation (morphologic abnormality),dsyn,patf,1,ISA_DSYNisaPATF
+C0267797,C0151763,ISA,Acute hepatitis,Liver damage,dsyn,patf,1,ISA_DSYNisaPATF
+C0267797,C3714514,ISA,Acute hepatitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0267841,C0021368,ISA,Acalculous Cholecystitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0268039,C0001122,ISA,Ketoacidosis due to acute alcohol intoxication,Acidosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0269050,C0021368,ISA,Endomyometritis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0271429,C0021368,ISA,Acute otitis media,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0271429,C3714514,ISA,Acute otitis media,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0271454,C0021376,ISA,Chronic purulent otitis media,Chronic inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0275518,C3714514,ISA,Acute infectious disease,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0275521,C3714514,ISA,Clinical infection,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0275522,C3714514,ISA,Asymptomatic Infections,Infection,dsyn,patf,9,ISA_DSYNisaPATF
+C0275524,C3714514,ISA,Coinfection,Infection,dsyn,patf,30,ISA_DSYNisaPATF
+C0275537,C3714514,ISA,Zooanthroponosis,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0275544,C3714514,ISA,Congenital infectious disease,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0275551,C0031154,ISA,Primary bacterial peritonitis,Peritonitis,dsyn,patf,1,ISA_DSYNisaPATF
+C0275551,C3714514,ISA,Primary bacterial peritonitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0275566,C3714514,ISA,Pulmonary actinomycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0275744,C3714514,ISA,Turkey coryza,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0276138,C0021368,ISA,Viral myocarditis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0276139,C0021368,ISA,Viral pericarditis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0276143,C3714514,ISA,Viral pharyngitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0276180,C3714514,ISA,Monkeypox,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C0276185,C3714514,ISA,Camelpox,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0276226,C3714514,ISA,Herpes encephalitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0276248,C3714514,ISA,Disseminated herpes zoster,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0276253,C3714514,ISA,Cytomegaloviral pneumonia,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0276289,C3714514,ISA,Zika Virus Infection,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0276311,C3714514,ISA,Bovine viral diarrhea,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0276623,C3714514,ISA,Chronic viral hepatitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0276651,C3714514,ISA,Aspergilloma,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0276653,C3714514,ISA,Invasive Pulmonary Aspergillosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0276758,C3714514,ISA,Fusariosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0277528,C3714514,ISA,Traveler's diarrhea,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0281833,C0015927,ISA,Early Intrauterine Fetal Death,Fetal Death,dsyn,patf,1,ISA_DSYNisaPATF
+C0282002,C3714514,ISA,Superficial Infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0282312,C3714514,ISA,Bubonic Plague,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0282687,C0019080,ISA,"Hemorrhagic Fever, Ebola",Hemorrhage,dsyn,patf,1,ISA_DSYNisaPATF
+C0282687,C3714514,ISA,"Hemorrhagic Fever, Ebola",Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0301918,C0020517,ISA,Hypersensitivity reaction mediated by immune complex,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0302809,C3714514,ISA,Fulminant hepatitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0311376,C3714514,ISA,Zoonotic bacterial disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0311386,C3714514,ISA,Isosporiasis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0333523,C3714514,ISA,Deep caries,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0338573,C0040053,ISA,Cerebral venous sinus thrombosis,Thrombosis,dsyn,patf,1,ISA_DSYNisaPATF
+C0339816,C0019080,ISA,Posterior epistaxis,Hemorrhage,dsyn,patf,1,ISA_DSYNisaPATF
+C0339901,C3714514,ISA,Acute respiratory infections,Infection,dsyn,patf,10,ISA_DSYNisaPATF
+C0339916,C3714514,ISA,Viral upper respiratory tract infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0339959,C3714514,ISA,Chlamydial pneumonia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0340249,C0028778,ISA,Bronchial anastomotic stricture,Obstruction,dsyn,patf,1,ISA_DSYNisaPATF
+C0340548,C0700080,ISA,Pulmonary capillary hemangiomatosis,Vascular proliferation,dsyn,patf,1,ISA_DSYNisaPATF
+C0341503,C0021368,ISA,Bacterial peritonitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0341503,C0031154,ISA,Bacterial peritonitis,Peritonitis,dsyn,patf,1,ISA_DSYNisaPATF
+C0341858,C0030660,ISA,Endometriosis of uterus,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0341858,C4304717,ISA,Endometriosis of uterus,Ectopic endometrial tissue,dsyn,patf,1,ISA_DSYNisaPATF
+C0342257,C0030660,ISA,Complications of Diabetes Mellitus,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0343387,C3714514,ISA,"Enterocolitis, Neutropenic",Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0343401,C3714514,ISA,MRSA - Methicillin resistant Staphylococcus aureus infection,Infection,dsyn,patf,12,ISA_DSYNisaPATF
+C0343532,C3714514,ISA,Streptococcal toxic shock syndrome,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0343537,C3714514,ISA,Specific viral infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0343634,C3714514,ISA,Filoviral hemorrhagic fever,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0343641,C3714514,ISA,Human papilloma virus infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0343771,C3714514,ISA,Human Ehrlichiosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0348802,C3714514,ISA,Rhinocerebral mucormycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0376300,C0036974,ISA,Dengue Shock Syndrome,Shock,dsyn,patf,4,ISA_DSYNisaPATF
+C0376329,C3714514,ISA,New Variant Creutzfeldt-Jakob Disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0376538,C3714514,ISA,Porcine Reproductive and Respiratory Syndrome,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0391922,C3714514,ISA,Hemorrhagic enteritis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0395866,C3714514,ISA,Recurrent acute otitis media,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0400966,C0152254,ISA,Non-alcoholic Fatty Liver Disease,Fatty degeneration,dsyn,patf,3,ISA_DSYNisaPATF
+C0403414,C3714514,ISA,Acute post-streptococcal glomerulonephritis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0403529,C0019080,ISA,Anti-Glomerular Basement Membrane Disease,Hemorrhage,dsyn,patf,2,ISA_DSYNisaPATF
+C0410480,C0030660,ISA,Avascular Necrosis of Femur Head,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0413234,C0021368,ISA,Acute allergic reaction,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C0442886,C3714514,ISA,Secondary Infections,Infection,dsyn,patf,12,ISA_DSYNisaPATF
+C0497156,C0030660,ISA,Lymphadenopathy,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0497169,C3714514,ISA,hiv-infection/aids,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0520743,C0020564,ISA,Mediastinal lymphadenopathy,Hypertrophy,dsyn,patf,1,ISA_DSYNisaPATF
+C0521839,C3714514,ISA,Influenza-like illness,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0524851,C0030660,ISA,Neurodegenerative Disorders,Pathologic Processes,dsyn,patf,6,ISA_DSYNisaPATF
+C0524909,C3714514,ISA,"Hepatitis B, Chronic",Infection,dsyn,patf,9,ISA_DSYNisaPATF
+C0524910,C0242656,ISA,"Hepatitis C, Chronic",Disease Progression,dsyn,patf,1,ISA_DSYNisaPATF
+C0524910,C3714514,ISA,"Hepatitis C, Chronic",Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0553548,C0003860,ISA,Necrotizing Arteritis,Arteritis,dsyn,patf,1,ISA_DSYNisaPATF
+C0565599,C0032914,ISA,Maternal hypertension,Pre-Eclampsia,dsyn,patf,1,ISA_DSYNisaPATF
+C0582415,C1155266,ISA,Acute asthma,inflammatory response,dsyn,patf,1,ISA_DSYNisaPATF
+C0582415,C3714514,ISA,Acute asthma,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0600327,C0036974,ISA,Toxic Shock Syndrome,Shock,dsyn,patf,2,ISA_DSYNisaPATF
+C0684256,C3714514,ISA,Bacterial sepsis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C0694549,C3714514,ISA,Community acquired pneumonia,Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C0702176,C3714514,ISA,Cervical abscess,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0729531,C3714514,ISA,Viral respiratory infection,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0740272,C3714514,ISA,Cryptococcus infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0740690,C3203360,ISA,Multiple abscesses,Suppuration,dsyn,patf,1,ISA_DSYNisaPATF
+C0740766,C0030660,ISA,acute pneumonia,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0745136,C0020546,ISA,Hypertensive emergency,Hypertensive crisis,dsyn,patf,1,ISA_DSYNisaPATF
+C0745138,C0020546,ISA,Hypertensive urgency,Hypertensive crisis,dsyn,patf,1,ISA_DSYNisaPATF
+C0745492,C3714514,ISA,septic joint,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0745687,C3714514,ISA,leg infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0850742,C0030660,ISA,Chronic bronchiolitis,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C0851341,C3714514,ISA,Infestation,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0851887,C3714514,ISA,Adenoviral infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0851901,C3714514,ISA,Rhinovirus infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0854530,C3714514,ISA,Infection by human herpesvirus 6,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0854706,C3714514,ISA,neonatal infection,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0856238,C3714514,ISA,influenza (epidemic),Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0856716,C0020517,ISA,aspirin asthma,Hypersensitivity,dsyn,patf,2,ISA_DSYNisaPATF
+C0858318,C3714514,ISA,Plasmodium falciparum infection,Infection,dsyn,patf,18,ISA_DSYNisaPATF
+C0858320,C3714514,ISA,Plasmodium ovale infection,Infection,dsyn,patf,7,ISA_DSYNisaPATF
+C0858321,C3714514,ISA,Plasmodium vivax infection,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0867389,C3714514,ISA,Chronic graft-versus-host disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0870082,C0020507,ISA,Hyperkeratosis,Hyperplasia,dsyn,patf,1,ISA_DSYNisaPATF
+C0872054,C3714514,ISA,latent infection,Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0872084,C0026846,ISA,Sarcopenia,Muscular Atrophy,dsyn,patf,2,ISA_DSYNisaPATF
+C0872315,C3714514,ISA,"Communicable Diseases, Emerging",Infection,dsyn,patf,12,ISA_DSYNisaPATF
+C0876973,C3714514,ISA,Infectious disease of lung,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0877046,C3714514,ISA,Infection of tooth,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0877148,C3714514,ISA,pharyngotonsillitis,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0877203,C3714514,ISA,Viral Respiratory Tract Infection,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C0878544,C0030660,ISA,Cardiomyopathies,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C0948343,C0036974,ISA,Transfusion-Related Acute Lung Injury,Shock,dsyn,patf,1,ISA_DSYNisaPATF
+C0948780,C0020517,ISA,Rhinosinusitis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C0948780,C0021368,ISA,Rhinosinusitis,Inflammation,dsyn,patf,3,ISA_DSYNisaPATF
+C0948780,C1155266,ISA,Rhinosinusitis,inflammatory response,dsyn,patf,1,ISA_DSYNisaPATF
+C0948780,C3714514,ISA,Rhinosinusitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C0949083,C0010356,ISA,Hospital acquired pneumonia,Cross Infection,dsyn,patf,6,ISA_DSYNisaPATF
+C0949083,C3714514,ISA,Hospital acquired pneumonia,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C0949690,C3714514,ISA,Spondylarthritis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1096155,C0021368,ISA,Macrophage Activation Syndrome,Inflammation,dsyn,patf,2,ISA_DSYNisaPATF
+C1096584,C3714514,ISA,Chlamydia pneumoniae Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1112157,C3714514,ISA,intrauterine infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1112209,C3714514,ISA,Intraabdominal Infections,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C1142127,C3714514,ISA,pneumococcal bacteremia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1142578,C0021368,ISA,Bilateral pneumonia,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C1175175,C0030660,ISA,Severe Acute Respiratory Syndrome,Pathologic Processes,dsyn,patf,2,ISA_DSYNisaPATF
+C1175175,C3714514,ISA,Severe Acute Respiratory Syndrome,Infection,dsyn,patf,229,ISA_DSYNisaPATF
+C1258215,C0028778,ISA,Ileus,Obstruction,dsyn,patf,1,ISA_DSYNisaPATF
+C1260881,C0021368,ISA,Allergic bronchitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C1262006,C0020517,ISA,Bacterial sinusitis,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C1262020,C0030660,ISA,diffuse alveolar damage,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C1262313,C3714514,ISA,Invasive Fungal Infections,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C1264606,C3714514,ISA,Persistent infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1264610,C0031154,ISA,Infectious peritonitis,Peritonitis,dsyn,patf,1,ISA_DSYNisaPATF
+C1274778,C0021368,ISA,Nodular panniculitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C1278807,C3714514,ISA,Chlamydial urethritis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1282208,C0007642,ISA,Preseptal cellulitis,Cellulitis,dsyn,patf,1,ISA_DSYNisaPATF
+C1282998,C3714514,ISA,Human monkeypox,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C1290336,C3714514,ISA,Acute bronchopneumonia,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1290344,C0021368,ISA,Nonspecific interstitial pneumonia,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C1290884,C0030660,ISA,Inflammatory disorder,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C1320211,C3714514,ISA,Invasive Group A beta-hemolytic streptococcal disease,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1321098,C3714514,ISA,Human rabies,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C1321909,C3714514,ISA,Latent virus infection phase,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1336827,C3714514,ISA,Tropical Disease,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C1442786,C3714514,ISA,Acute respiratory tract infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1443237,C3714514,ISA,Healthcare associated pneumonia,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C1443847,C0019080,ISA,Hemorrhagic meningitis,Hemorrhage,dsyn,patf,1,ISA_DSYNisaPATF
+C1443892,C3714514,ISA,Chronic Q Fever,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1443953,C3714514,ISA,Acute viral disease,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C1444605,C3714514,ISA,Ocular syphilis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1449647,C0031154,ISA,Secondary Peritonitis,Peritonitis,dsyn,patf,1,ISA_DSYNisaPATF
+C1449809,C3714514,ISA,Bovine Respiratory Disease Complex,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1527407,C0020517,ISA,Eosinophilic Pneumonia,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C1535939,C3714514,ISA,Pneumocystis jiroveci pneumonia,Infection,dsyn,patf,5,ISA_DSYNisaPATF
+C1623038,C0016059,ISA,Cirrhosis,Fibrosis,dsyn,patf,4,ISA_DSYNisaPATF
+C1698398,C0021368,ISA,Eosinophilic bronchitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C1698484,C3714514,ISA,Mucosal Infection,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C1701940,C0010356,ISA,"Pneumonia, Ventilator-Associated",Cross Infection,dsyn,patf,11,ISA_DSYNisaPATF
+C1701940,C3714514,ISA,"Pneumonia, Ventilator-Associated",Infection,dsyn,patf,8,ISA_DSYNisaPATF
+C1704272,C0005001,ISA,Benign Prostatic Hyperplasia,Benign prostatic hypertrophy,dsyn,patf,2,ISA_DSYNisaPATF
+C1704272,C0020564,ISA,Benign Prostatic Hyperplasia,Hypertrophy,dsyn,patf,2,ISA_DSYNisaPATF
+C1704275,C3714514,ISA,Pyomyositis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1707758,C3714514,ISA,Direct Contact Transmission Infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1719672,C0021368,ISA,Severe Sepsis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C1719672,C0036974,ISA,Severe Sepsis,Shock,dsyn,patf,2,ISA_DSYNisaPATF
+C1719672,C3714514,ISA,Severe Sepsis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C1861861,C0030660,ISA,"CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 1 (disorder)",Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C1868703,C3714514,ISA,Bacterial tracheitis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2028293,C3714514,ISA,Haemophilus influenzae Type b Infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2062441,C3714514,ISA,Influenza A,Infection,dsyn,patf,69,ISA_DSYNisaPATF
+C2074700,C0333355,ISA,chronic gingivostomatitis,Inflammatory disease of mucous membrane,dsyn,patf,2,ISA_DSYNisaPATF
+C2074898,C3714514,ISA,chronic Lung Inflammations,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2076596,C3714514,ISA,Influenza A/H5N1,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2076600,C3714514,ISA,Influenza due to Influenza A virus subtype H1N1,Infection,dsyn,patf,4,ISA_DSYNisaPATF
+C2316159,C0016470,ISA,Oral allergy syndrome,Food Allergy,dsyn,patf,1,ISA_DSYNisaPATF
+C2317131,C0021368,ISA,Acute rhinosinusitis,Inflammation,dsyn,patf,5,ISA_DSYNisaPATF
+C2317131,C3714514,ISA,Acute rhinosinusitis,Infection,dsyn,patf,3,ISA_DSYNisaPATF
+C2350035,C0021368,ISA,Viral Croup,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C2368066,C3714514,ISA,vancomycin resistant Enterococcal infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2732697,C0021368,ISA,Autoimmune inflammation of skeletal muscle,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C2930674,C3714514,ISA,Human Babesiosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2930941,C0020517,ISA,Carrington syndrome,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C2936258,C0021368,ISA,Peri-Implantitis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C2945607,C3714514,ISA,Salmonellosis (except human typhoid & paratyphoid),Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C2973725,C0020542,ISA,Pulmonary arterial hypertension,Pulmonary Hypertension,dsyn,patf,2,ISA_DSYNisaPATF
+C2980104,C3714514,ISA,Superficial mycosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C3161105,C0020507,ISA,Neuroendocrine cell hyperplasia of infancy,Hyperplasia,dsyn,patf,1,ISA_DSYNisaPATF
+C3178973,C3714514,ISA,Disseminated Fusariosis,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C3266628,C0392707,ISA,Persistent asthma,Atopy,dsyn,patf,1,ISA_DSYNisaPATF
+C3495559,C0021368,ISA,Juvenile arthritis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C3541994,C0013182,ISA,Drug Hypersensitivity Syndrome,Drug Allergy,dsyn,patf,1,ISA_DSYNisaPATF
+C3541994,C0020517,ISA,Drug Hypersensitivity Syndrome,Hypersensitivity,dsyn,patf,1,ISA_DSYNisaPATF
+C3694279,C3714514,ISA,Middle East Respiratory Syndrome,Infection,dsyn,patf,55,ISA_DSYNisaPATF
+C3698407,C0021368,ISA,Peri-implant mucositis,Inflammation,dsyn,patf,1,ISA_DSYNisaPATF
+C3714602,C0036974,ISA,Staphylococcal toxic shock syndrome,Shock,dsyn,patf,2,ISA_DSYNisaPATF
+C3837051,C3714514,ISA,invasive Pneumococcal Infections,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C3873487,C3714514,ISA,Waterborne Diseases,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C3875321,C0030660,ISA,Inflammatory dermatosis,Pathologic Processes,dsyn,patf,1,ISA_DSYNisaPATF
+C3899656,C3714514,ISA,Pediatric Infectious Disorder,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C4040349,C3714514,ISA,Bacteremia due to Methicillin resistant Staphylococcus aureus,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C4082764,C3714514,ISA,Gastrointestinal infection,Infection,dsyn,patf,2,ISA_DSYNisaPATF
+C4288963,C3714514,ISA,Hepatitis C Virus Infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C4289590,C3714514,ISA,Endogenous Infection,Infection,dsyn,patf,1,ISA_DSYNisaPATF
+C4302102,C3714514,ISA,Malaria caused by Plasmodium not Plasmodium falciparum,Infection,dsyn,patf,1,ISA_DSYNisaPATF

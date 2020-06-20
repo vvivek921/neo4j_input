@@ -1,0 +1,36 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007757,C0020517,AFFECTS,Cereals,Hypersensitivity,food,patf,1,AFFECTS_FOODafctPATF
+C0012155,C0020517,AFFECTS,Diet,Hypersensitivity,food,patf,1,AFFECTS_FOODafctPATF
+C0012155,C0021368,AFFECTS,Diet,Inflammation,food,patf,1,AFFECTS_FOODafctPATF
+C0012155,C3658208,AFFECTS,Diet,Dysbiosis,food,patf,1,AFFECTS_FOODafctPATF
+C0012173,C3658208,AFFECTS,Dietary Fiber,Dysbiosis,food,patf,1,AFFECTS_FOODafctPATF
+C0016452,C0016470,AFFECTS,Food,Food Allergy,food,patf,2,AFFECTS_FOODafctPATF
+C0016452,C0020517,AFFECTS,Food,Hypersensitivity,food,patf,1,AFFECTS_FOODafctPATF
+C0016452,C0028778,AFFECTS,Food,Obstruction,food,patf,1,AFFECTS_FOODafctPATF
+C0016452,C0036679,AFFECTS,Food,Diastasis,food,patf,1,AFFECTS_FOODafctPATF
+C0016452,C1520005,AFFECTS,Food,Viral Pathogenesis,food,patf,1,AFFECTS_FOODafctPATF
+C0016452,C3714514,AFFECTS,Food,Infection,food,patf,3,AFFECTS_FOODafctPATF
+C0016767,C0021368,AFFECTS,Fruit,Inflammation,food,patf,1,AFFECTS_FOODafctPATF
+C0032852,C0242781,AFFECTS,Poultry Products,disease transmission,food,patf,1,AFFECTS_FOODafctPATF
+C0206208,C3714514,AFFECTS,Seafood,Infection,food,patf,1,AFFECTS_FOODafctPATF
+C0242295,C0001511,AFFECTS,Dietary Supplements,Tissue Adhesions,food,patf,1,AFFECTS_FOODafctPATF
+C0242295,C0002994,AFFECTS,Dietary Supplements,Angioedema,food,patf,1,AFFECTS_FOODafctPATF
+C0242295,C0020507,AFFECTS,Dietary Supplements,Hyperplasia,food,patf,1,AFFECTS_FOODafctPATF
+C0242295,C3714514,AFFECTS,Dietary Supplements,Infection,food,patf,1,AFFECTS_FOODafctPATF
+C0349966,C0016059,AFFECTS,Figs - dietary,Fibrosis,food,patf,1,AFFECTS_FOODafctPATF
+C0349966,C3714514,AFFECTS,Figs - dietary,Infection,food,patf,1,AFFECTS_FOODafctPATF
+C0359583,C0003130,AFFECTS,enrich,Anoxia,food,patf,1,AFFECTS_FOODafctPATF
+C0359583,C0020517,AFFECTS,enrich,Hypersensitivity,food,patf,1,AFFECTS_FOODafctPATF
+C0359583,C0021368,AFFECTS,enrich,Inflammation,food,patf,1,AFFECTS_FOODafctPATF
+C0453834,C3714514,AFFECTS,Contaminated food,Infection,food,patf,1,AFFECTS_FOODafctPATF
+C0678420,C0242656,AFFECTS,Cocktail,Disease Progression,food,patf,1,AFFECTS_FOODafctPATF
+C1510451,C3714514,AFFECTS,French fries,Infection,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C0020517,AFFECTS,Pivot,Hypersensitivity,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C0020963,AFFECTS,Pivot,Immune Tolerance,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C0021368,AFFECTS,Pivot,Inflammation,food,patf,4,AFFECTS_FOODafctPATF
+C2947019,C0021655,AFFECTS,Pivot,Insulin Resistance,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C0030660,AFFECTS,Pivot,Pathologic Processes,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C0242656,AFFECTS,Pivot,Disease Progression,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C0242781,AFFECTS,Pivot,disease transmission,food,patf,1,AFFECTS_FOODafctPATF
+C2947019,C1155266,AFFECTS,Pivot,inflammatory response,food,patf,3,AFFECTS_FOODafctPATF
+C2947019,C1520005,AFFECTS,Pivot,Viral Pathogenesis,food,patf,1,AFFECTS_FOODafctPATF

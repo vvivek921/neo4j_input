@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002475,C0012860,CAUSES,Mitomycin,DNA Damage,antb,comd,2,CAUSES_ANTBcausCOMD
+C0002475,C0919532,CAUSES,Mitomycin,Genomic Instability,antb,comd,1,CAUSES_ANTBcausCOMD
+C0003232,C0596402,CAUSES,Antibiotics,cytotoxicity,antb,comd,1,CAUSES_ANTBcausCOMD
+C0003236,C1511667,CAUSES,"Antibiotics, Antineoplastic","DNA Breaks, Double-Stranded",antb,comd,1,CAUSES_ANTBcausCOMD
+C0013089,C0012860,CAUSES,Doxorubicin,DNA Damage,antb,comd,1,CAUSES_ANTBcausCOMD
+C0013089,C0242606,CAUSES,Doxorubicin,Oxidative Stress,antb,comd,2,CAUSES_ANTBcausCOMD
+C0013089,C0596402,CAUSES,Doxorubicin,cytotoxicity,antb,comd,3,CAUSES_ANTBcausCOMD
+C0030842,C0302106,CAUSES,Penicillins,Platelet destruction,antb,comd,1,CAUSES_ANTBcausCOMD
+C0038432,C0012860,CAUSES,Streptozocin,DNA Damage,antb,comd,1,CAUSES_ANTBcausCOMD
+C0038432,C0242606,CAUSES,Streptozocin,Oxidative Stress,antb,comd,1,CAUSES_ANTBcausCOMD
+C0073591,C0012860,CAUSES,rosoxacin,DNA Damage,antb,comd,11,CAUSES_ANTBcausCOMD
+C0073591,C0242606,CAUSES,rosoxacin,Oxidative Stress,antb,comd,25,CAUSES_ANTBcausCOMD
+C0073591,C0599732,CAUSES,rosoxacin,cell injury,antb,comd,7,CAUSES_ANTBcausCOMD
+C0073591,C1515263,CAUSES,rosoxacin,Telomere Shortening,antb,comd,1,CAUSES_ANTBcausCOMD
+C0073591,C1516373,CAUSES,rosoxacin,Cellular Stress,antb,comd,1,CAUSES_ANTBcausCOMD
+C0279516,C0599732,CAUSES,Anti-Bacterial Agents,cell injury,antb,comd,1,CAUSES_ANTBcausCOMD
+C3536856,C0302106,CAUSES,Cephalosporins,Platelet destruction,antb,comd,1,CAUSES_ANTBcausCOMD
+C3854019,C0242606,CAUSES,Gentamicin,Oxidative Stress,antb,comd,1,CAUSES_ANTBcausCOMD

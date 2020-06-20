@@ -1,0 +1,65 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005854,C0162367,PRODUCES,Blood - brain barrier anatomy,Interstitial Fluid,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0006104,C0007806,PRODUCES,Brain,Cerebrospinal Fluid,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0006270,C1511332,PRODUCES,Bronchioles,Bronchial Secretion,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0006323,C0026727,PRODUCES,Brunner Glands,Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0008524,C0005889,PRODUCES,Structure of choroid plexus,Body Fluids,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0008524,C0007806,PRODUCES,Structure of choroid plexus,Cerebrospinal Fluid,bpoc,bdsu,3,PRODUCES_BPOCprodBDSU
+C0008779,C0003662,PRODUCES,Ciliary Body,Aqueous Humor,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0008779,C0005889,PRODUCES,Ciliary Body,Body Fluids,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0010031,C0003662,PRODUCES,Cornea,Aqueous Humor,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0015183,C0026727,PRODUCES,Eustachian Tube,Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0021851,C0026727,PRODUCES,Large Intestine,Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0021852,C0026727,PRODUCES,"Intestines, Small",Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0021853,C0015733,PRODUCES,Intestines,Feces,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0022646,C0005889,PRODUCES,Kidney,Body Fluids,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0023317,C0003662,PRODUCES,"Lens, Crystalline",Aqueous Humor,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0023884,C0005767,PRODUCES,Liver,Blood,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0023884,C0017119,PRODUCES,Liver,Gastric Acid,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0023884,C0032105,PRODUCES,Liver,Plasma,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0023884,C0229671,PRODUCES,Liver,Serum,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0024109,C0005767,PRODUCES,Lung,Blood,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0024109,C0006279,PRODUCES,Lung,Bronchoalveolar Lavage Fluid,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0024204,C0005767,PRODUCES,lymph nodes,Blood,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0024204,C0024202,PRODUCES,lymph nodes,Lymph,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0028429,C0005767,PRODUCES,Nose,Blood,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0030274,C0005767,PRODUCES,Pancreas,Blood,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0030274,C0030296,PRODUCES,Pancreas,pancreatic juice,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0030580,C0036087,PRODUCES,Parotid Gland,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0035298,C0003662,PRODUCES,Retina,Aqueous Humor,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0036098,C0036087,PRODUCES,Salivary Glands,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0036099,C0036087,PRODUCES,Minor salivary gland structure,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0036505,C0036511,PRODUCES,Sebaceous Glands,Sebum,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0037993,C0005767,PRODUCES,Spleen,Blood,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0038351,C0026727,PRODUCES,Stomach,Mucous body substance,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0038553,C0036087,PRODUCES,Sublingual Gland,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0038556,C0036087,PRODUCES,Submandibular gland,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0038556,C2753459,PRODUCES,Submandibular gland,mucus layer,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0038989,C0038984,PRODUCES,Sweat Glands,Sweat,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0040578,C0006279,PRODUCES,Trachea,Bronchoalveolar Lavage Fluid,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0225584,C0015388,PRODUCES,Tracheal mucous membrane,Exudate,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0225587,C0026727,PRODUCES,Structure of tracheal gland,Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0225602,C0026727,PRODUCES,Bronchial mucous gland,Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0225777,C0225778,PRODUCES,Parietal pleura,Pleural fluid,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0227284,C0038352,PRODUCES,Duodenal mucosa,Gastric Content,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0227286,C0036087,PRODUCES,Duodenal epithelium,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0228487,C0229671,PRODUCES,Cerebellar tuber,Serum,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0229168,C0003662,PRODUCES,Corona ciliaris,Aqueous Humor,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0262304,C0229671,PRODUCES,pars postrema of the ventral lateral nucleus,Serum,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0262304,C1550101,PRODUCES,pars postrema of the ventral lateral nucleus,Supernatant,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0262304,C1550661,PRODUCES,pars postrema of the ventral lateral nucleus,Specimen Type - Stool = Fecal,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0282582,C0036087,PRODUCES,Salivary duct structure,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0458827,C0015388,PRODUCES,Airway structure,Exudate,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0458827,C0026727,PRODUCES,Airway structure,Mucous body substance,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0459736,C0005889,PRODUCES,Ciliary epithelium,Body Fluids,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0599333,C2753459,PRODUCES,Epithelium of bronchus,mucus layer,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0836189,C0005889,PRODUCES,Capillary plexus,Body Fluids,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C0929301,C0005889,PRODUCES,Mammary gland,Body Fluids,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C0929301,C0009413,PRODUCES,Mammary gland,Colostrum,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C1285092,C0026727,PRODUCES,Gland,Mucous body substance,bpoc,bdsu,9,PRODUCES_BPOCprodBDSU
+C1285092,C0036087,PRODUCES,Gland,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C1285092,C0036614,PRODUCES,Gland,Seminal fluid,bpoc,bdsu,2,PRODUCES_BPOCprodBDSU
+C1285092,C0225392,PRODUCES,Gland,Nasal mucus,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C1285092,C2753459,PRODUCES,Gland,mucus layer,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C1882814,C0036087,PRODUCES,Rat Parotid Gland,saliva,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU
+C3714556,C0227245,PRODUCES,Papilla,Ruminal contents,bpoc,bdsu,1,PRODUCES_BPOCprodBDSU

@@ -1,0 +1,65 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001349,C3157043,AFFECTS,Acute-Phase Reaction,energy homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0001511,C0042765,AFFECTS,Tissue Adhesions,Virulence,patf,biof,1,AFFECTS_PATFafctBIOF
+C0001511,C0220781,AFFECTS,Tissue Adhesions,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0003130,C0220781,AFFECTS,Anoxia,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0004044,C0232478,AFFECTS,Asphyxia,Ingestion,patf,biof,1,AFFECTS_PATFafctBIOF
+C0011304,C0042765,AFFECTS,Demyelination,Virulence,patf,biof,3,AFFECTS_PATFafctBIOF
+C0013922,C0220781,AFFECTS,Embolism,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0015927,C0333528,AFFECTS,Fetal Death,Mummification,patf,biof,1,AFFECTS_PATFafctBIOF
+C0016059,C0220781,AFFECTS,Fibrosis,Anabolism,patf,biof,3,AFFECTS_PATFafctBIOF
+C0016059,C1820201,AFFECTS,Fibrosis,tissue remodeling,patf,biof,1,AFFECTS_PATFafctBIOF
+C0018188,C0220781,AFFECTS,Granuloma,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0019080,C0220781,AFFECTS,Hemorrhage,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020517,C0013203,AFFECTS,Hypersensitivity,Drug resistance,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020517,C0019868,AFFECTS,Hypersensitivity,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020517,C0042765,AFFECTS,Hypersensitivity,Virulence,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020517,C0042767,AFFECTS,Hypersensitivity,Virus Activation,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020517,C3714634,AFFECTS,Hypersensitivity,Biological Processes,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020517,C3853734,AFFECTS,Hypersensitivity,viral process,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020522,C1817882,AFFECTS,Delayed Hypersensitivity,Granuloma formation,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020564,C0220781,AFFECTS,Hypertrophy,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0020963,C0019868,AFFECTS,Immune Tolerance,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0021368,C0019868,AFFECTS,Inflammation,Homeostasis,patf,biof,6,AFFECTS_PATFafctBIOF
+C0021368,C0220781,AFFECTS,Inflammation,Anabolism,patf,biof,5,AFFECTS_PATFafctBIOF
+C0021368,C1537068,AFFECTS,Inflammation,Virus Internalization,patf,biof,1,AFFECTS_PATFafctBIOF
+C0021368,C1817959,AFFECTS,Inflammation,tolerance induction,patf,biof,1,AFFECTS_PATFafctBIOF
+C0021376,C1820201,AFFECTS,Chronic inflammation,tissue remodeling,patf,biof,1,AFFECTS_PATFafctBIOF
+C0022116,C0220781,AFFECTS,Ischemia,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0024348,C0042765,AFFECTS,Lysis,Virulence,patf,biof,1,AFFECTS_PATFafctBIOF
+C0027686,C0019868,AFFECTS,Pathologic Neovascularization,Homeostasis,patf,biof,2,AFFECTS_PATFafctBIOF
+C0027686,C0220781,AFFECTS,Pathologic Neovascularization,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0028778,C3714634,AFFECTS,Obstruction,Biological Processes,patf,biof,1,AFFECTS_PATFafctBIOF
+C0030660,C3714634,AFFECTS,Pathologic Processes,Biological Processes,patf,biof,1,AFFECTS_PATFafctBIOF
+C0036983,C0019868,AFFECTS,Septic Shock,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0242649,C0042765,AFFECTS,"Infectious Disease Transmission, Horizontal",Virulence,patf,biof,1,AFFECTS_PATFafctBIOF
+C0277585,C0013203,AFFECTS,Drug intolerance,Drug resistance,patf,biof,1,AFFECTS_PATFafctBIOF
+C0332448,C0019868,AFFECTS,Infiltration,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0332448,C0042765,AFFECTS,Infiltration,Virulence,patf,biof,1,AFFECTS_PATFafctBIOF
+C0333186,C0019868,AFFECTS,Restenosis,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0333467,C0220781,AFFECTS,Cytopathic effect,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0543419,C0019868,AFFECTS,Sequela of disorder,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C0728867,C1699206,AFFECTS,Drug effect disorder,Virologic Failure,patf,biof,1,AFFECTS_PATFafctBIOF
+C0745283,C0220781,AFFECTS,INFECTIOUS PROCESS,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C0878751,C0220781,AFFECTS,late pregnancy,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C1155266,C0019868,AFFECTS,inflammatory response,Homeostasis,patf,biof,3,AFFECTS_PATFafctBIOF
+C1155266,C0042765,AFFECTS,inflammatory response,Virulence,patf,biof,2,AFFECTS_PATFafctBIOF
+C1155266,C0220781,AFFECTS,inflammatory response,Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C1155266,C1160638,AFFECTS,inflammatory response,Viral life cycle,patf,biof,1,AFFECTS_PATFafctBIOF
+C1155266,C1537068,AFFECTS,inflammatory response,Virus Internalization,patf,biof,1,AFFECTS_PATFafctBIOF
+C1155266,C1817882,AFFECTS,inflammatory response,Granuloma formation,patf,biof,2,AFFECTS_PATFafctBIOF
+C1155266,C3714634,AFFECTS,inflammatory response,Biological Processes,patf,biof,1,AFFECTS_PATFafctBIOF
+C1155266,C3853734,AFFECTS,inflammatory response,viral process,patf,biof,1,AFFECTS_PATFafctBIOF
+C1155266,C3894443,AFFECTS,inflammatory response,reactive oxygen species biosynthetic process,patf,biof,1,AFFECTS_PATFafctBIOF
+C1319200,C0019868,AFFECTS,Postoperative confusion,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C1373218,C0220781,AFFECTS,Decreased Immunologic Activity [PE],Anabolism,patf,biof,1,AFFECTS_PATFafctBIOF
+C1373218,C0596824,AFFECTS,Decreased Immunologic Activity [PE],latent virus infection process,patf,biof,1,AFFECTS_PATFafctBIOF
+C1516670,C0019868,AFFECTS,Clonal Expansion,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C1520005,C0220781,AFFECTS,Viral Pathogenesis,Anabolism,patf,biof,2,AFFECTS_PATFafctBIOF
+C1520005,C1537068,AFFECTS,Viral Pathogenesis,Virus Internalization,patf,biof,1,AFFECTS_PATFafctBIOF
+C3714514,C0013203,AFFECTS,Infection,Drug resistance,patf,biof,1,AFFECTS_PATFafctBIOF
+C3714514,C0019868,AFFECTS,Infection,Homeostasis,patf,biof,1,AFFECTS_PATFafctBIOF
+C3714514,C0042765,AFFECTS,Infection,Virulence,patf,biof,1,AFFECTS_PATFafctBIOF
+C3714514,C0220781,AFFECTS,Infection,Anabolism,patf,biof,2,AFFECTS_PATFafctBIOF
+C3714514,C1817972,AFFECTS,Infection,immune system development,patf,biof,1,AFFECTS_PATFafctBIOF
+C3714514,C3714634,AFFECTS,Infection,Biological Processes,patf,biof,1,AFFECTS_PATFafctBIOF

@@ -1,0 +1,710 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003183,C0043528,DIAGNOSES,Anthropologist,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0008961,C0024115,DIAGNOSES,Clinical Investigators,Lung diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0011327,C1175175,DIAGNOSES,Dental Assistants,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0011441,C0042769,DIAGNOSES,Dentist,Virus Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0015535,C0009450,DIAGNOSES,Faculty,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0015535,C0154652,DIAGNOSES,Faculty,Eosinophilic meningitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0015535,C0206750,DIAGNOSES,Faculty,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0015535,C1175175,DIAGNOSES,Faculty,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0004096,DIAGNOSES,General Practitioners,Asthma,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0011860,DIAGNOSES,General Practitioners,"Diabetes Mellitus, Non-Insulin-Dependent",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0015397,DIAGNOSES,General Practitioners,Disorder of eye,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0017178,DIAGNOSES,General Practitioners,Gastrointestinal Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0020538,DIAGNOSES,General Practitioners,Hypertensive disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0021400,DIAGNOSES,General Practitioners,Influenza,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0024117,DIAGNOSES,General Practitioners,Chronic Obstructive Airway Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0017319,C0032285,DIAGNOSES,General Practitioners,Pneumonia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0017319,C1175175,DIAGNOSES,General Practitioners,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0006840,DIAGNOSES,Health Personnel,Candidiasis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0009450,DIAGNOSES,Health Personnel,Communicable Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0010278,DIAGNOSES,Health Personnel,Craniosynostosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0019158,DIAGNOSES,Health Personnel,Hepatitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0019693,DIAGNOSES,Health Personnel,HIV Infections,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0021400,DIAGNOSES,Health Personnel,Influenza,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0023895,DIAGNOSES,Health Personnel,Liver diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0024530,DIAGNOSES,Health Personnel,Malaria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0032285,DIAGNOSES,Health Personnel,Pneumonia,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0035243,DIAGNOSES,Health Personnel,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0043528,DIAGNOSES,Health Personnel,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0205721,DIAGNOSES,Health Personnel,"Infections, Hospital",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0206750,DIAGNOSES,Health Personnel,Coronavirus Infections,humn,dsyn,5,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0264219,DIAGNOSES,Health Personnel,Acute respiratory disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0270724,DIAGNOSES,Health Personnel,Infantile Neuroaxonal Dystrophy,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0275524,DIAGNOSES,Health Personnel,Coinfection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C0750103,DIAGNOSES,Health Personnel,vaginalis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0018724,C1175175,DIAGNOSES,Health Personnel,Severe Acute Respiratory Syndrome,humn,dsyn,14,DIAGNOSES_HUMNdiagDSYN
+C0018724,C1336827,DIAGNOSES,Health Personnel,Tropical Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C1536220,DIAGNOSES,Health Personnel,ST segment elevation myocardial infarction,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0018724,C1856053,DIAGNOSES,Health Personnel,Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0018724,C1861537,DIAGNOSES,Health Personnel,OROFACIAL CLEFT 1,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C2317131,DIAGNOSES,Health Personnel,Acute rhinosinusitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0018724,C3694279,DIAGNOSES,Health Personnel,Middle East Respiratory Syndrome,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0021821,C0004096,DIAGNOSES,Interviewers,Asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0021821,C3495919,DIAGNOSES,Interviewers,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0025106,C0009450,DIAGNOSES,Medical Staff,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0025106,C0032285,DIAGNOSES,Medical Staff,Pneumonia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0025106,C1175175,DIAGNOSES,Medical Staff,Severe Acute Respiratory Syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0028652,C1175175,DIAGNOSES,Nurse Administrator,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0001175,DIAGNOSES,Nurses,Acquired Immunodeficiency Syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0009450,DIAGNOSES,Nurses,Communicable Diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0011127,DIAGNOSES,Nurses,Pressure Ulcer,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0021400,DIAGNOSES,Nurses,Influenza,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0023092,DIAGNOSES,Nurses,Lassa Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0025289,DIAGNOSES,Nurses,Meningitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0175701,DIAGNOSES,Nurses,Aarskog syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0205721,DIAGNOSES,Nurses,"Infections, Hospital",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0206750,DIAGNOSES,Nurses,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0270724,DIAGNOSES,Nurses,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0282687,DIAGNOSES,Nurses,"Hemorrhagic Fever, Ebola",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C0863093,DIAGNOSES,Nurses,cold symptoms,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0028661,C1175175,DIAGNOSES,Nurses,Severe Acute Respiratory Syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0028698,C1175175,DIAGNOSES,Nursing Staff,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0029146,C3495919,DIAGNOSES,Optometrist,Enthesitis-Related Arthritis,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0030450,C0037231,DIAGNOSES,Paramedical Personnel,Sjogren-Larsson Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0030450,C3495919,DIAGNOSES,Paramedical Personnel,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031228,C0041912,DIAGNOSES,"Personnel, Hospital",Upper Respiratory Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031228,C0205721,DIAGNOSES,"Personnel, Hospital","Infections, Hospital",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031228,C1175175,DIAGNOSES,"Personnel, Hospital",Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031228,C1412002,DIAGNOSES,"Personnel, Hospital",Atypical pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031228,C1856053,DIAGNOSES,"Personnel, Hospital",Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031323,C0009443,DIAGNOSES,Pharmacist,Common Cold,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031323,C0009450,DIAGNOSES,Pharmacist,Communicable Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031323,C1175175,DIAGNOSES,Pharmacist,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0001175,DIAGNOSES,Physicians,Acquired Immunodeficiency Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0004096,DIAGNOSES,Physicians,Asthma,humn,dsyn,61,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0004623,DIAGNOSES,Physicians,Bacterial Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0005779,DIAGNOSES,Physicians,Blood Coagulation Disorders,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0006271,DIAGNOSES,Physicians,Bronchiolitis,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0006274,DIAGNOSES,Physicians,"Bronchiolitis, Viral",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0007222,DIAGNOSES,Physicians,Cardiovascular Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0007684,DIAGNOSES,Physicians,Central Nervous System Infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0008677,DIAGNOSES,Physicians,"Bronchitis, Chronic",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0008679,DIAGNOSES,Physicians,Chronic disease,humn,dsyn,5,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0009443,DIAGNOSES,Physicians,Common Cold,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0009450,DIAGNOSES,Physicians,Communicable Diseases,humn,dsyn,11,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0010380,DIAGNOSES,Physicians,Croup,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0010674,DIAGNOSES,Physicians,Cystic Fibrosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0011615,DIAGNOSES,Physicians,"Dermatitis, Atopic",humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0013595,DIAGNOSES,Physicians,Eczema,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0016627,DIAGNOSES,Physicians,Influenza in Birds,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0018081,DIAGNOSES,Physicians,Gonorrhea,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0018572,DIAGNOSES,Physicians,"Hand, Foot and Mouth Disease",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0018802,DIAGNOSES,Physicians,Congestive heart failure,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0018889,DIAGNOSES,Physicians,Helminthiasis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0019693,DIAGNOSES,Physicians,HIV Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0020538,DIAGNOSES,Physicians,Hypertensive disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0021400,DIAGNOSES,Physicians,Influenza,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0024198,DIAGNOSES,Physicians,Lyme Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0025289,DIAGNOSES,Physicians,Meningitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0027051,DIAGNOSES,Physicians,Myocardial Infarction,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0027341,DIAGNOSES,Physicians,Nail-Patella Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0029882,DIAGNOSES,Physicians,Otitis Media,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0031350,DIAGNOSES,Physicians,Pharyngitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0032285,DIAGNOSES,Physicians,Pneumonia,humn,dsyn,23,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0034069,DIAGNOSES,Physicians,Pulmonary Fibrosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0035222,DIAGNOSES,Physicians,"Respiratory Distress Syndrome, Adult",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0035243,DIAGNOSES,Physicians,Respiratory Tract Infections,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0035436,DIAGNOSES,Physicians,Rheumatic Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0035455,DIAGNOSES,Physicians,Rhinitis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0036690,DIAGNOSES,Physicians,Septicemia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0040830,DIAGNOSES,Physicians,Trench Fever,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0042769,DIAGNOSES,Physicians,Virus Diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0043167,DIAGNOSES,Physicians,Pertussis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0085129,DIAGNOSES,Physicians,Bronchial Hyperreactivity,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0149514,DIAGNOSES,Physicians,Acute bronchitis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0149725,DIAGNOSES,Physicians,Lower respiratory tract infection,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0205721,DIAGNOSES,Physicians,"Infections, Hospital",humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0206062,DIAGNOSES,Physicians,"Lung Diseases, Interstitial",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0206750,DIAGNOSES,Physicians,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0242339,DIAGNOSES,Physicians,Dyslipidemias,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0264219,DIAGNOSES,Physicians,Acute respiratory disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0269936,DIAGNOSES,Physicians,Puerperal sepsis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0270724,DIAGNOSES,Physicians,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0271429,DIAGNOSES,Physicians,Acute otitis media,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0339901,DIAGNOSES,Physicians,Acute respiratory infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0521839,DIAGNOSES,Physicians,Influenza-like illness,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0554628,DIAGNOSES,Physicians,Group A Streptococcal Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0694549,DIAGNOSES,Physicians,Community acquired pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0699744,DIAGNOSES,Physicians,Infection of ear,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0742343,DIAGNOSES,Physicians,Acute Chest Syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0746102,DIAGNOSES,Physicians,Chronic lung disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0748412,DIAGNOSES,Physicians,rhinitis viral,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0796085,DIAGNOSES,Physicians,Nance-Horan syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0876973,DIAGNOSES,Physicians,Infectious disease of lung,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0877148,DIAGNOSES,Physicians,pharyngotonsillitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0948089,DIAGNOSES,Physicians,Acute Coronary Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C0948873,DIAGNOSES,Physicians,flu symptoms,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1141882,DIAGNOSES,Physicians,pharyngitis bacterial,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1175175,DIAGNOSES,Physicians,Severe Acute Respiratory Syndrome,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1290325,DIAGNOSES,Physicians,Disorder of lower respiratory system,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1535939,DIAGNOSES,Physicians,Pneumocystis jiroveci pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1719672,DIAGNOSES,Physicians,Severe Sepsis,humn,dsyn,12,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1740754,DIAGNOSES,Physicians,Intermittent asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1856053,DIAGNOSES,Physicians,Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C1997249,DIAGNOSES,Physicians,Pudendal Neuralgia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C2062441,DIAGNOSES,Physicians,Influenza A,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C2076600,DIAGNOSES,Physicians,Influenza due to Influenza A virus subtype H1N1,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C2973725,DIAGNOSES,Physicians,Pulmonary arterial hypertension,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0031831,C3495919,DIAGNOSES,Physicians,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0031831,C3694279,DIAGNOSES,Physicians,Middle East Respiratory Syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0031831,C3887658,DIAGNOSES,Physicians,"PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0033131,C0001344,DIAGNOSES,Primary Care Physicians,Acute pharyngitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0033131,C0035243,DIAGNOSES,Primary Care Physicians,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0033131,C0271429,DIAGNOSES,Primary Care Physicians,Acute otitis media,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0033872,C3495919,DIAGNOSES,Psychiatrist,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0001623,DIAGNOSES,Research Personnel,Adrenal gland hypofunction,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0003047,DIAGNOSES,Research Personnel,Animal Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0003850,DIAGNOSES,Research Personnel,Arteriosclerosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0003864,DIAGNOSES,Research Personnel,Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0004096,DIAGNOSES,Research Personnel,Asthma,humn,dsyn,9,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0004623,DIAGNOSES,Research Personnel,Bacterial Infections,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0004626,DIAGNOSES,Research Personnel,"Pneumonia, Bacterial",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0006271,DIAGNOSES,Research Personnel,Bronchiolitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0008354,DIAGNOSES,Research Personnel,Cholera,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0009443,DIAGNOSES,Research Personnel,Common Cold,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0009450,DIAGNOSES,Research Personnel,Communicable Diseases,humn,dsyn,6,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0010068,DIAGNOSES,Research Personnel,Coronary heart disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0010380,DIAGNOSES,Research Personnel,Croup,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0011847,DIAGNOSES,Research Personnel,Diabetes,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0013369,DIAGNOSES,Research Personnel,Dysentery,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0014130,DIAGNOSES,Research Personnel,Endocrine System Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0014518,DIAGNOSES,Research Personnel,Toxic Epidermal Necrolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0015674,DIAGNOSES,Research Personnel,Chronic Fatigue Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0016627,DIAGNOSES,Research Personnel,Influenza in Birds,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0019163,DIAGNOSES,Research Personnel,Hepatitis B,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0020456,DIAGNOSES,Research Personnel,Hyperglycemia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0020498,DIAGNOSES,Research Personnel,"Hyperostosis, Diffuse Idiopathic Skeletal",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0020538,DIAGNOSES,Research Personnel,Hypertensive disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0021400,DIAGNOSES,Research Personnel,Influenza,humn,dsyn,8,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0021832,DIAGNOSES,Research Personnel,"Intestinal Diseases, Parasitic",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0022660,DIAGNOSES,Research Personnel,"Kidney Failure, Acute",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0023281,DIAGNOSES,Research Personnel,Leishmaniasis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0023343,DIAGNOSES,Research Personnel,Leprosy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0024115,DIAGNOSES,Research Personnel,Lung diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0024117,DIAGNOSES,Research Personnel,Chronic Obstructive Airway Disease,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0024141,DIAGNOSES,Research Personnel,"Lupus Erythematosus, Systemic",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0024198,DIAGNOSES,Research Personnel,Lyme Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0024530,DIAGNOSES,Research Personnel,Malaria,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0026769,DIAGNOSES,Research Personnel,Multiple Sclerosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0027341,DIAGNOSES,Research Personnel,Nail-Patella Syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0032285,DIAGNOSES,Research Personnel,Pneumonia,humn,dsyn,5,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0032310,DIAGNOSES,Research Personnel,"Pneumonia, Viral",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0034069,DIAGNOSES,Research Personnel,Pulmonary Fibrosis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0035204,DIAGNOSES,Research Personnel,Respiration Disorders,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0035222,DIAGNOSES,Research Personnel,"Respiratory Distress Syndrome, Adult",humn,dsyn,11,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0035235,DIAGNOSES,Research Personnel,Respiratory Syncytial Virus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0035869,DIAGNOSES,Research Personnel,Rotavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0036202,DIAGNOSES,Research Personnel,Sarcoidosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0036457,DIAGNOSES,Research Personnel,Scrapie,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0036690,DIAGNOSES,Research Personnel,Septicemia,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0041296,DIAGNOSES,Research Personnel,Tuberculosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0042769,DIAGNOSES,Research Personnel,Virus Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0042940,DIAGNOSES,Research Personnel,Voice Disorders,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0043528,DIAGNOSES,Research Personnel,Zoonoses,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0085096,DIAGNOSES,Research Personnel,Peripheral Vascular Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0149514,DIAGNOSES,Research Personnel,Acute bronchitis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0149678,DIAGNOSES,Research Personnel,Epstein-Barr Virus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0149725,DIAGNOSES,Research Personnel,Lower respiratory tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0151317,DIAGNOSES,Research Personnel,Chronic infectious disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0206750,DIAGNOSES,Research Personnel,Coronavirus Infections,humn,dsyn,8,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0242852,DIAGNOSES,Research Personnel,Proliferative vitreoretinopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0243026,DIAGNOSES,Research Personnel,Sepsis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0263214,DIAGNOSES,Research Personnel,Pyotraumatic dermatitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0270724,DIAGNOSES,Research Personnel,Infantile Neuroaxonal Dystrophy,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0275518,DIAGNOSES,Research Personnel,Acute infectious disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0276479,DIAGNOSES,Research Personnel,Murine hepatitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0342731,DIAGNOSES,Research Personnel,Deficiency of mevalonate kinase,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0347950,DIAGNOSES,Research Personnel,Asthma attack,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0349782,DIAGNOSES,Research Personnel,Ischemic cardiomyopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0400966,DIAGNOSES,Research Personnel,Non-alcoholic Fatty Liver Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0520459,DIAGNOSES,Research Personnel,Necrotizing Enterocolitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C0876973,DIAGNOSES,Research Personnel,Infectious disease of lung,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C1096155,DIAGNOSES,Research Personnel,Macrophage Activation Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C1175175,DIAGNOSES,Research Personnel,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C1719672,DIAGNOSES,Research Personnel,Severe Sepsis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C2062441,DIAGNOSES,Research Personnel,Influenza A,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0035173,C2315667,DIAGNOSES,Research Personnel,Fetal microcephaly,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C2609139,DIAGNOSES,Research Personnel,Gastrointestinal virus,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C3273225,DIAGNOSES,Research Personnel,Hereditary Neurodegenerative Disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C3495919,DIAGNOSES,Research Personnel,Enthesitis-Related Arthritis,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0035173,C3826556,DIAGNOSES,Research Personnel,Clostridium diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0035173,C4505065,DIAGNOSES,Research Personnel,Noncommunicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0038495,C0009450,DIAGNOSES,"Students, Medical",Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0038495,C1856053,DIAGNOSES,"Students, Medical",Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0038496,C0796085,DIAGNOSES,"Students, Nursing",Nance-Horan syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042462,C0154830,DIAGNOSES,Vendors,Proliferative diabetic retinopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0004096,DIAGNOSES,Voluntary Workers,Asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0010340,DIAGNOSES,Voluntary Workers,Critical Illness,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0014518,DIAGNOSES,Voluntary Workers,Toxic Epidermal Necrolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0017160,DIAGNOSES,Voluntary Workers,Gastroenteritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0033770,DIAGNOSES,Voluntary Workers,Prune Belly Syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0085436,DIAGNOSES,Voluntary Workers,"Meningitis, Cryptococcal",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C0729531,DIAGNOSES,Voluntary Workers,Viral respiratory infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C1175175,DIAGNOSES,Voluntary Workers,Severe Acute Respiratory Syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0042960,C3160718,DIAGNOSES,Voluntary Workers,"PARKINSON DISEASE, LATE-ONSET",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C3541994,DIAGNOSES,Voluntary Workers,Drug Hypersensitivity Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0042960,C3665704,DIAGNOSES,Voluntary Workers,Congenital reticular ichthyosiform erythroderma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0079619,C0009450,DIAGNOSES,Infection Control Practitioners,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0079619,C0205721,DIAGNOSES,Infection Control Practitioners,"Infections, Hospital",humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0085537,C0014544,DIAGNOSES,Caregiver,Epilepsy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0085537,C0027441,DIAGNOSES,Caregiver,Nasopharyngitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0085537,C0035243,DIAGNOSES,Caregiver,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0085546,C0011311,DIAGNOSES,Ethics Committees,Dengue Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0085546,C0018572,DIAGNOSES,Ethics Committees,"Hand, Foot and Mouth Disease",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0085751,C0270724,DIAGNOSES,Administrators,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0085751,C3495919,DIAGNOSES,Administrators,Enthesitis-Related Arthritis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0086516,C3495919,DIAGNOSES,Laboratory Scientists,Enthesitis-Related Arthritis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0086825,C0033770,DIAGNOSES,Police officer,Prune Belly Syndrome,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0086911,C1175175,DIAGNOSES,"Ethics Committees, Research",Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0004364,DIAGNOSES,Hospital specialist,Autoimmune Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0009450,DIAGNOSES,Hospital specialist,Communicable Diseases,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0014518,DIAGNOSES,Hospital specialist,Toxic Epidermal Necrolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0018801,DIAGNOSES,Hospital specialist,Heart failure,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0032285,DIAGNOSES,Hospital specialist,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0041327,DIAGNOSES,Hospital specialist,"Tuberculosis, Pulmonary",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0206062,DIAGNOSES,Hospital specialist,"Lung Diseases, Interstitial",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0497169,DIAGNOSES,Hospital specialist,hiv-infection/aids,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C0796085,DIAGNOSES,Hospital specialist,Nance-Horan syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C1175175,DIAGNOSES,Hospital specialist,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C3495919,DIAGNOSES,Hospital specialist,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C3534575,DIAGNOSES,Hospital specialist,Animal Health,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C3899656,DIAGNOSES,Hospital specialist,Pediatric Infectious Disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0087009,C4317046,DIAGNOSES,Hospital specialist,Hematological abnormality,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0175906,C0003507,DIAGNOSES,Cardiologists,Aortic Valve Stenosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0175906,C0018801,DIAGNOSES,Cardiologists,Heart failure,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0175906,C0018802,DIAGNOSES,Cardiologists,Congestive heart failure,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0206212,C0027765,DIAGNOSES,Veterinary technician,nervous system disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221191,C0014518,DIAGNOSES,Judge,Toxic Epidermal Necrolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221191,C0021400,DIAGNOSES,Judge,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221193,C0001175,DIAGNOSES,Journalist,Acquired Immunodeficiency Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221193,C0009450,DIAGNOSES,Journalist,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221193,C3160718,DIAGNOSES,Journalist,"PARKINSON DISEASE, LATE-ONSET",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221456,C0038454,DIAGNOSES,Physicist,Cerebrovascular accident,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221460,C0035334,DIAGNOSES,Farmers,Retinitis Pigmentosa,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0221460,C3534575,DIAGNOSES,Farmers,Animal Health,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0237426,C0014059,DIAGNOSES,Neurologists,"Encephalomyelitis, Acute Disseminated",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0237426,C0026769,DIAGNOSES,Neurologists,Multiple Sclerosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0237426,C0751956,DIAGNOSES,Neurologists,Acute Cerebrovascular Accidents,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0237433,C0006271,DIAGNOSES,Pediatrician (occupation),Bronchiolitis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0237433,C0009450,DIAGNOSES,Pediatrician (occupation),Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0237433,C0032285,DIAGNOSES,Pediatrician (occupation),Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0237485,C0019099,DIAGNOSES,Attendants -- group,"Hemorrhagic Fever, Crimean",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0237733,C0206750,DIAGNOSES,Ministers,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0238703,C0021400,DIAGNOSES,Athletes,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0238703,C0023364,DIAGNOSES,Athletes,Leptospirosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0238703,C0037284,DIAGNOSES,Athletes,Skin lesion,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0238703,C0155679,DIAGNOSES,Athletes,Acute pericarditis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0238703,C0729608,DIAGNOSES,Athletes,Myocarditis due to infectious agent,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0238703,C2939465,DIAGNOSES,Athletes,Deficiency of glucose-6-phosphate dehydrogenase,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0240169,C1175175,DIAGNOSES,LAUNDRY WORKER,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0240346,C0024788,DIAGNOSES,Miners,Marburg Virus Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242170,C0009450,DIAGNOSES,Policy Makers,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242304,C0032285,DIAGNOSES,Government Officials,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242304,C0270724,DIAGNOSES,Government Officials,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242304,C1175175,DIAGNOSES,Government Officials,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0003047,DIAGNOSES,Veterinarian,Animal Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0003175,DIAGNOSES,Veterinarian,Anthrax disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0005716,DIAGNOSES,Veterinarian,Blastomycosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0009450,DIAGNOSES,Veterinarian,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0022661,DIAGNOSES,Veterinarian,"Kidney Failure, Chronic",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0023281,DIAGNOSES,Veterinarian,Leishmaniasis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0042749,DIAGNOSES,Veterinarian,Viremia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C0851341,DIAGNOSES,Veterinarian,Infestation,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C1856053,DIAGNOSES,Veterinarian,Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C3534575,DIAGNOSES,Veterinarian,Animal Health,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0242856,C3714534,DIAGNOSES,Veterinarian,dowling-degos disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C3874414,DIAGNOSES,Veterinarian,Human metapneumovirus infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0242856,C3887949,DIAGNOSES,Veterinarian,Apparent mineralocorticoid excess,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259831,C0039128,DIAGNOSES,Dermatologist,Syphilis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259852,C0009450,DIAGNOSES,Ecologist,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259852,C0043528,DIAGNOSES,Ecologist,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259853,C0497169,DIAGNOSES,Educator,hiv-infection/aids,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259853,C3541994,DIAGNOSES,Educator,Drug Hypersensitivity Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259990,C0206750,DIAGNOSES,Oncologists,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0259990,C3495919,DIAGNOSES,Oncologists,Enthesitis-Related Arthritis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0260010,C0009450,DIAGNOSES,Microbiologist,Communicable Diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0260010,C0043528,DIAGNOSES,Microbiologist,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260010,C1262313,DIAGNOSES,Microbiologist,Invasive Fungal Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260010,C3887949,DIAGNOSES,Microbiologist,Apparent mineralocorticoid excess,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260039,C0022658,DIAGNOSES,Nephrologists,Kidney Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260141,C3281223,DIAGNOSES,Physiologist,"CEREBELLAR ATAXIA, NEUROPATHY, AND VESTIBULAR AREFLEXIA SYNDROME",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0024115,DIAGNOSES,radiologist,Lung diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0029456,DIAGNOSES,radiologist,Osteoporosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0032285,DIAGNOSES,radiologist,Pneumonia,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0085786,DIAGNOSES,radiologist,Hamman-Rich syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0206062,DIAGNOSES,radiologist,"Lung Diseases, Interstitial",humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0238990,DIAGNOSES,radiologist,Acute lower respiratory tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0497156,DIAGNOSES,radiologist,Lymphadenopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C0876973,DIAGNOSES,radiologist,Infectious disease of lung,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C1175175,DIAGNOSES,radiologist,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260194,C3694279,DIAGNOSES,radiologist,Middle East Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260272,C3495919,DIAGNOSES,Oral and Maxillofacial Surgeons,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260280,C0024530,DIAGNOSES,Technologist,Malaria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260319,C0009450,DIAGNOSES,Virologists,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260319,C0021400,DIAGNOSES,Virologists,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0260319,C0031887,DIAGNOSES,Virologists,Picornaviridae Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0278602,C0009450,DIAGNOSES,Internist,Communicable Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0334707,C0009450,DIAGNOSES,Chemist,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334707,C3160718,DIAGNOSES,Chemist,"PARKINSON DISEASE, LATE-ONSET",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334726,C0042769,DIAGNOSES,Astronomical scientist,Virus Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334866,C0031887,DIAGNOSES,Medical pathologist,Picornaviridae Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334866,C0032285,DIAGNOSES,Medical pathologist,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334866,C0206062,DIAGNOSES,Medical pathologist,"Lung Diseases, Interstitial",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334866,C1262313,DIAGNOSES,Medical pathologist,Invasive Fungal Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334866,C3495919,DIAGNOSES,Medical pathologist,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334885,C0265220,DIAGNOSES,General surgeon,Pallister-Hall syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0334889,C0004364,DIAGNOSES,Rheumatologist,Autoimmune Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334889,C0024141,DIAGNOSES,Rheumatologist,"Lupus Erythematosus, Systemic",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334891,C0033770,DIAGNOSES,Orthopedic Surgeons,Prune Belly Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334891,C3495919,DIAGNOSES,Orthopedic Surgeons,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334894,C0009450,DIAGNOSES,Public health physician,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334897,C0270724,DIAGNOSES,Obstetrician,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334910,C0009763,DIAGNOSES,Anesthesiologist,Conjunctivitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0334910,C0031350,DIAGNOSES,Anesthesiologist,Pharyngitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335034,C0041296,DIAGNOSES,Critic,Tuberculosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335038,C0154830,DIAGNOSES,Reporter (occupation),Proliferative diabetic retinopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335076,C0002395,DIAGNOSES,Singer,Alzheimer's Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335083,C0016627,DIAGNOSES,Actor,Influenza in Birds,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335083,C0021400,DIAGNOSES,Actor,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335083,C0270724,DIAGNOSES,Actor,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335083,C0271561,DIAGNOSES,Actor,Somatotropin deficiency,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335115,C0032064,DIAGNOSES,Historian,Plague,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335115,C1175175,DIAGNOSES,Historian,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335115,C3534575,DIAGNOSES,Historian,Animal Health,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0335350,C0038395,DIAGNOSES,Building caretaker,Streptococcal Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0341647,C1175175,DIAGNOSES,Secretary,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0401783,C0004096,DIAGNOSES,Adjudicator,Asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0401805,C0263214,DIAGNOSES,Estimator,Pyotraumatic dermatitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0401976,C0004096,DIAGNOSES,Occupational physician,Asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0008679,DIAGNOSES,Scientist,Chronic disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0009450,DIAGNOSES,Scientist,Communicable Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0013080,DIAGNOSES,Scientist,Down Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0016627,DIAGNOSES,Scientist,Influenza in Birds,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0019243,DIAGNOSES,Scientist,"Angioedemas, Hereditary",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0021400,DIAGNOSES,Scientist,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0032285,DIAGNOSES,Scientist,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0036690,DIAGNOSES,Scientist,Septicemia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0041912,DIAGNOSES,Scientist,Upper Respiratory Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0042769,DIAGNOSES,Scientist,Virus Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0206750,DIAGNOSES,Scientist,Coronavirus Infections,humn,dsyn,10,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0265308,DIAGNOSES,Scientist,Baller-Gerold syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0275524,DIAGNOSES,Scientist,Coinfection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C0948998,DIAGNOSES,Scientist,Viral Contagious disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402112,C3495919,DIAGNOSES,Scientist,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402404,C1175175,DIAGNOSES,Animal trader,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0402834,C0033770,DIAGNOSES,Strainer,Prune Belly Syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0403175,C0019159,DIAGNOSES,Factory worker (occupation),Hepatitis A,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0470689,C2675227,DIAGNOSES,Suppliers,Endocrine-Cerebroosteodysplasia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0473161,C0700323,DIAGNOSES,Anesthetist,Observation of Neuromuscular Block,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0012739,DIAGNOSES,Soldiers,Disseminated Intravascular Coagulation,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0018939,DIAGNOSES,Soldiers,Hematological Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0019101,DIAGNOSES,Soldiers,Hemorrhagic Fever with Renal Syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0024530,DIAGNOSES,Soldiers,Malaria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0034362,DIAGNOSES,Soldiers,Q Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0035613,DIAGNOSES,Soldiers,Rift Valley Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0038054,DIAGNOSES,Soldiers,"Sprue, Tropical",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C0041912,DIAGNOSES,Soldiers,Upper Respiratory Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0524647,C2350875,DIAGNOSES,Soldiers,Constrictive Bronchiolitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0554210,C0003864,DIAGNOSES,Shepherd,Arthritis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0554244,C3495919,DIAGNOSES,Maker (occupation),Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0557516,C0796085,DIAGNOSES,Medical officer,Nance-Horan syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0582175,C0031350,DIAGNOSES,Surgeon,Pharyngitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0582175,C0038220,DIAGNOSES,Surgeon,Status Epilepticus,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0582175,C0085605,DIAGNOSES,Surgeon,Liver Failure,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0582175,C1290864,DIAGNOSES,Surgeon,Disorder of abdomen,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0582175,C3495919,DIAGNOSES,Surgeon,Enthesitis-Related Arthritis,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0586842,C0035436,DIAGNOSES,Pediatric cardiologist,Rheumatic Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0586859,C0035243,DIAGNOSES,Pulmonologists,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0586859,C0206062,DIAGNOSES,Pulmonologists,"Lung Diseases, Interstitial",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0586859,C1175175,DIAGNOSES,Pulmonologists,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0586873,C0009450,DIAGNOSES,Infectious disease specialist,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0596910,C0206750,DIAGNOSES,mental health personnel,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0599518,C0009450,DIAGNOSES,college teachers,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0679924,C0042769,DIAGNOSES,professional occupation status,Virus Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0679924,C0043528,DIAGNOSES,professional occupation status,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0679924,C0270724,DIAGNOSES,professional occupation status,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0679924,C1175175,DIAGNOSES,professional occupation status,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0679924,C2930619,DIAGNOSES,professional occupation status,Sex Differentiation Disorders,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0679924,C3495919,DIAGNOSES,professional occupation status,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0682178,C0009450,DIAGNOSES,graduate students,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0684017,C0009450,DIAGNOSES,scholar,Communicable Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0684017,C0023895,DIAGNOSES,scholar,Liver diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0684017,C0032285,DIAGNOSES,scholar,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0684017,C0872315,DIAGNOSES,scholar,"Communicable Diseases, Emerging",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0684017,C1175175,DIAGNOSES,scholar,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0687693,C0021400,DIAGNOSES,Research nurse,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0687693,C0042769,DIAGNOSES,Research nurse,Virus Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0687693,C0149725,DIAGNOSES,Research nurse,Lower respiratory tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0687734,C0041296,DIAGNOSES,medical researcher,Tuberculosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0009450,DIAGNOSES,Staff,Communicable Diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0014518,DIAGNOSES,Staff,Toxic Epidermal Necrolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0018572,DIAGNOSES,Staff,"Hand, Foot and Mouth Disease",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0018799,DIAGNOSES,Staff,Heart Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0019099,DIAGNOSES,Staff,"Hemorrhagic Fever, Crimean",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0021400,DIAGNOSES,Staff,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0024530,DIAGNOSES,Staff,Malaria,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0032285,DIAGNOSES,Staff,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0036916,DIAGNOSES,Staff,Sexually Transmitted Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0275522,DIAGNOSES,Staff,Asymptomatic Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0339901,DIAGNOSES,Staff,Acute respiratory infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C0849867,DIAGNOSES,Staff,Widespread Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C1175175,DIAGNOSES,Staff,Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C1856053,DIAGNOSES,Staff,Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0851286,C4479344,DIAGNOSES,Staff,"SCLEROSING CHOLANGITIS, NEONATAL",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0003175,DIAGNOSES,Clinician,Anthrax disease,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0004096,DIAGNOSES,Clinician,Asthma,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0004364,DIAGNOSES,Clinician,Autoimmune Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0006267,DIAGNOSES,Clinician,Bronchiectasis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0006271,DIAGNOSES,Clinician,Bronchiolitis,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0009450,DIAGNOSES,Clinician,Communicable Diseases,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0010340,DIAGNOSES,Clinician,Critical Illness,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0012546,DIAGNOSES,Clinician,Diphtheria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0014038,DIAGNOSES,Clinician,Encephalitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0015674,DIAGNOSES,Clinician,Chronic Fatigue Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0016627,DIAGNOSES,Clinician,Influenza in Birds,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0019243,DIAGNOSES,Clinician,"Angioedemas, Hereditary",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0020538,DIAGNOSES,Clinician,Hypertensive disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0020676,DIAGNOSES,Clinician,Hypothyroidism,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0021051,DIAGNOSES,Clinician,Immunologic Deficiency Syndromes,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0021400,DIAGNOSES,Clinician,Influenza,humn,dsyn,13,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0022104,DIAGNOSES,Clinician,Irritable Bowel Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0023241,DIAGNOSES,Clinician,Legionnaires' Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0023364,DIAGNOSES,Clinician,Leptospirosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0024115,DIAGNOSES,Clinician,Lung diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0024141,DIAGNOSES,Clinician,"Lupus Erythematosus, Systemic",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0024198,DIAGNOSES,Clinician,Lyme Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0024282,DIAGNOSES,Clinician,Lymphocytosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0025289,DIAGNOSES,Clinician,Meningitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0025297,DIAGNOSES,Clinician,Viral meningitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0027059,DIAGNOSES,Clinician,Myocarditis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0029456,DIAGNOSES,Clinician,Osteoporosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0029882,DIAGNOSES,Clinician,Otitis Media,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0030353,DIAGNOSES,Clinician,Papilledema,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0031350,DIAGNOSES,Clinician,Pharyngitis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0031887,DIAGNOSES,Clinician,Picornaviridae Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0032227,DIAGNOSES,Clinician,Pleural effusion disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0032285,DIAGNOSES,Clinician,Pneumonia,humn,dsyn,7,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0032300,DIAGNOSES,Clinician,Lobar Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0032310,DIAGNOSES,Clinician,"Pneumonia, Viral",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0035204,DIAGNOSES,Clinician,Respiration Disorders,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0035222,DIAGNOSES,Clinician,"Respiratory Distress Syndrome, Adult",humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0035243,DIAGNOSES,Clinician,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0035435,DIAGNOSES,Clinician,Rheumatism,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0036285,DIAGNOSES,Clinician,Scarlet Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0036472,DIAGNOSES,Clinician,Scrub Typhus,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0036916,DIAGNOSES,Clinician,Sexually Transmitted Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0041912,DIAGNOSES,Clinician,Upper Respiratory Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0042029,DIAGNOSES,Clinician,Urinary tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0042769,DIAGNOSES,Clinician,Virus Diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0085293,DIAGNOSES,Clinician,Hepatitis E,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0149514,DIAGNOSES,Clinician,Acute bronchitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0149725,DIAGNOSES,Clinician,Lower respiratory tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0162429,DIAGNOSES,Clinician,Malnutrition,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0206062,DIAGNOSES,Clinician,"Lung Diseases, Interstitial",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0239946,DIAGNOSES,Clinician,"Fibrosis, Liver",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0268468,DIAGNOSES,Clinician,"Dystonia, Dopa-Responsive, due to Sepiapterin Reductase Deficiency",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0311335,DIAGNOSES,Clinician,Grand Mal Status Epilepticus,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0311386,DIAGNOSES,Clinician,Isosporiasis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0343398,DIAGNOSES,Clinician,Cyclosporiasis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0442874,DIAGNOSES,Clinician,Neuropathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0729531,DIAGNOSES,Clinician,Viral respiratory infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0751950,DIAGNOSES,Clinician,Neuromuscular Junction Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0856238,DIAGNOSES,Clinician,influenza (epidemic),humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0872054,DIAGNOSES,Clinician,latent infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0872315,DIAGNOSES,Clinician,"Communicable Diseases, Emerging",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C0876973,DIAGNOSES,Clinician,Infectious disease of lung,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0871685,C1175175,DIAGNOSES,Clinician,Severe Acute Respiratory Syndrome,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C0871685,C1262313,DIAGNOSES,Clinician,Invasive Fungal Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871685,C3495919,DIAGNOSES,Clinician,Enthesitis-Related Arthritis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C0871685,C4023113,DIAGNOSES,Clinician,Small vessel vasculitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0871904,C0270724,DIAGNOSES,Service Personnel,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C0920580,C0032285,DIAGNOSES,medical specialist,Pneumonia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1136114,C3887949,DIAGNOSES,Institutional Animal Care and Use Committees,Apparent mineralocorticoid excess,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320928,C0009450,DIAGNOSES,Resident (physician),Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320928,C0021400,DIAGNOSES,Resident (physician),Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320928,C1856053,DIAGNOSES,Resident (physician),Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320929,C0001311,DIAGNOSES,Attending physician,Acute bronchiolitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320929,C0004096,DIAGNOSES,Attending physician,Asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320929,C0006271,DIAGNOSES,Attending physician,Bronchiolitis,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C1320929,C0021400,DIAGNOSES,Attending physician,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320929,C0032285,DIAGNOSES,Attending physician,Pneumonia,humn,dsyn,5,DIAGNOSES_HUMNdiagDSYN
+C1320929,C1719672,DIAGNOSES,Attending physician,Severe Sepsis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1320929,C2076600,DIAGNOSES,Attending physician,Influenza due to Influenza A virus subtype H1N1,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1508823,C0021400,DIAGNOSES,Primary physician,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1510818,C0020538,DIAGNOSES,Advanced Practice Nurse,Hypertensive disease,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C1510818,C0033770,DIAGNOSES,Advanced Practice Nurse,Prune Belly Syndrome,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C1510818,C0206750,DIAGNOSES,Advanced Practice Nurse,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1510818,C1290884,DIAGNOSES,Advanced Practice Nurse,Inflammatory disorder,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C1510818,C2074898,DIAGNOSES,Advanced Practice Nurse,chronic Lung Inflammations,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1516908,C0001175,DIAGNOSES,Epidemiologists,Acquired Immunodeficiency Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1518579,C0027126,DIAGNOSES,Clinical Nurse Specialist - oncology,Myotonic Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1518579,C3694279,DIAGNOSES,Clinical Nurse Specialist - oncology,Middle East Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1521895,C0035222,DIAGNOSES,Principal Investigator,"Respiratory Distress Syndrome, Adult",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1522486,C0206750,DIAGNOSES,Professional Organization or Group,Coronavirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1522486,C1290884,DIAGNOSES,Professional Organization or Group,Inflammatory disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1552089,C0149725,DIAGNOSES,Staff Member,Lower respiratory tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1552089,C0205721,DIAGNOSES,Staff Member,"Infections, Hospital",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1552089,C2750737,DIAGNOSES,Staff Member,"DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1552363,C0003869,DIAGNOSES,Radiologic Technologist - Radiography,"Arthritis, Infectious",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1611835,C0008513,DIAGNOSES,Specialist,Chorioretinitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1611835,C0009450,DIAGNOSES,Specialist,Communicable Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C1611835,C0026936,DIAGNOSES,Specialist,Mycoplasma Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1611835,C3899656,DIAGNOSES,Specialist,Pediatric Infectious Disorder,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C1704221,C0149514,DIAGNOSES,"Physicians, Family",Acute bronchitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1704292,C1175175,DIAGNOSES,Ophthalmologist (occupation),Severe Acute Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0009450,DIAGNOSES,Practitioner,Communicable Diseases,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0011847,DIAGNOSES,Practitioner,Diabetes,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0021400,DIAGNOSES,Practitioner,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0024117,DIAGNOSES,Practitioner,Chronic Obstructive Airway Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0036689,DIAGNOSES,Practitioner,Streptococcal sore throat,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0036690,DIAGNOSES,Practitioner,Septicemia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0036916,DIAGNOSES,Practitioner,Sexually Transmitted Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0043528,DIAGNOSES,Practitioner,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0149869,DIAGNOSES,Practitioner,Spasmodic Croup,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0272285,DIAGNOSES,Practitioner,Heparin-induced thrombocytopenia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0872315,DIAGNOSES,Practitioner,"Communicable Diseases, Emerging",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C0948343,DIAGNOSES,Practitioner,Transfusion-Related Acute Lung Injury,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1709627,C3495919,DIAGNOSES,Practitioner,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1710470,C0035222,DIAGNOSES,Treating Physician,"Respiratory Distress Syndrome, Adult",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1710470,C0041466,DIAGNOSES,Treating Physician,Typhoid Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1710470,C0442886,DIAGNOSES,Treating Physician,Secondary Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1710470,C0856825,DIAGNOSES,Treating Physician,Acute GVH disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C1711305,C3495919,DIAGNOSES,Sponsor (person),Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2347961,C0020498,DIAGNOSES,Reverend,"Hyperostosis, Diffuse Idiopathic Skeletal",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C2362565,C0030552,DIAGNOSES,Physical Therapist,Paresis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2362565,C0035243,DIAGNOSES,Physical Therapist,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C0025007,DIAGNOSES,Health Official,Measles,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C0026780,DIAGNOSES,Health Official,Mumps,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C0154830,DIAGNOSES,Health Official,Proliferative diabetic retinopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C0270724,DIAGNOSES,Health Official,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C0282687,DIAGNOSES,Health Official,"Hemorrhagic Fever, Ebola",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C0376329,DIAGNOSES,Health Official,New Variant Creutzfeldt-Jakob Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C2826212,C1856053,DIAGNOSES,Health Official,Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3178774,C0043528,DIAGNOSES,Laboratory Personnel,Zoonoses,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0001175,DIAGNOSES,Author,Acquired Immunodeficiency Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0003850,DIAGNOSES,Author,Arteriosclerosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0004096,DIAGNOSES,Author,Asthma,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0004364,DIAGNOSES,Author,Autoimmune Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0004610,DIAGNOSES,Author,Bacteremia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0005716,DIAGNOSES,Author,Blastomycosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0006267,DIAGNOSES,Author,Bronchiectasis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0006271,DIAGNOSES,Author,Bronchiolitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0009450,DIAGNOSES,Author,Communicable Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0010340,DIAGNOSES,Author,Critical Illness,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0011303,DIAGNOSES,Author,Demyelinating Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0011311,DIAGNOSES,Author,Dengue Fever,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0011847,DIAGNOSES,Author,Diabetes,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0011849,DIAGNOSES,Author,Diabetes Mellitus,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0013371,DIAGNOSES,Author,Shigella Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0014038,DIAGNOSES,Author,Encephalitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0014518,DIAGNOSES,Author,Toxic Epidermal Necrolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0018799,DIAGNOSES,Author,Heart Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0019099,DIAGNOSES,Author,"Hemorrhagic Fever, Crimean",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0019243,DIAGNOSES,Author,"Angioedemas, Hereditary",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0021400,DIAGNOSES,Author,Influenza,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0023241,DIAGNOSES,Author,Legionnaires' Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0023530,DIAGNOSES,Author,Leukopenia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0024117,DIAGNOSES,Author,Chronic Obstructive Airway Disease,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0024141,DIAGNOSES,Author,"Lupus Erythematosus, Systemic",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0024530,DIAGNOSES,Author,Malaria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0026769,DIAGNOSES,Author,Multiple Sclerosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0027051,DIAGNOSES,Author,Myocardial Infarction,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0028754,DIAGNOSES,Author,Obesity,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0029882,DIAGNOSES,Author,Otitis Media,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0030360,DIAGNOSES,Author,Papillon-Lefevre Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0032285,DIAGNOSES,Author,Pneumonia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0032310,DIAGNOSES,Author,"Pneumonia, Viral",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0032870,DIAGNOSES,Author,Poxviridae Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0033770,DIAGNOSES,Author,Prune Belly Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0034069,DIAGNOSES,Author,Pulmonary Fibrosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0035204,DIAGNOSES,Author,Respiration Disorders,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0035222,DIAGNOSES,Author,"Respiratory Distress Syndrome, Adult",humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0035235,DIAGNOSES,Author,Respiratory Syncytial Virus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0035243,DIAGNOSES,Author,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0036690,DIAGNOSES,Author,Septicemia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0041296,DIAGNOSES,Author,Tuberculosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0041948,DIAGNOSES,Author,Uremia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0042769,DIAGNOSES,Author,Virus Diseases,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0085786,DIAGNOSES,Author,Hamman-Rich syndrome,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0149516,DIAGNOSES,Author,Chronic sinusitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0149725,DIAGNOSES,Author,Lower respiratory tract infection,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0155877,DIAGNOSES,Author,Allergic asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0206171,DIAGNOSES,Author,Community-Acquired Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0238421,DIAGNOSES,Author,Selenium deficiency,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0270250,DIAGNOSES,Author,Meconium peritonitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0270724,DIAGNOSES,Author,Infantile Neuroaxonal Dystrophy,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0275524,DIAGNOSES,Author,Coinfection,humn,dsyn,3,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0275556,DIAGNOSES,Author,Acute bacterial sinusitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0276226,DIAGNOSES,Author,Herpes encephalitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0276500,DIAGNOSES,Author,Human immunodeficiency virus I infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0362046,DIAGNOSES,Author,Prediabetes syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0519086,DIAGNOSES,Author,STREPTOCOCCUS PYOGENES PNEUMONIA,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0683381,DIAGNOSES,Author,inflammatory joint disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0856825,DIAGNOSES,Author,Acute GVH disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C0948343,DIAGNOSES,Author,Transfusion-Related Acute Lung Injury,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1175175,DIAGNOSES,Author,Severe Acute Respiratory Syndrome,humn,dsyn,5,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1279481,DIAGNOSES,Author,X-Linked Combined Immunodeficiency Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1290884,DIAGNOSES,Author,Inflammatory disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1318705,DIAGNOSES,Author,Effusive feline infectious peritonitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1531510,DIAGNOSES,Author,Bacterial endophthalmitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1623038,DIAGNOSES,Author,Cirrhosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1719672,DIAGNOSES,Author,Severe Sepsis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1837991,DIAGNOSES,Author,"Colorectal Adenomatous Polyposis, Autosomal Recessive",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1854469,DIAGNOSES,Author,Noonan Syndrome 2,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C1856053,DIAGNOSES,Author,Hydranencephaly with Renal Aplasia-Dysplasia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C2047226,DIAGNOSES,Author,human papilloma virus type 16,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C2076600,DIAGNOSES,Author,Influenza due to Influenza A virus subtype H1N1,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C2242472,DIAGNOSES,Author,Infection of bone,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3812881,C3495919,DIAGNOSES,Author,Enthesitis-Related Arthritis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C3812881,C3694279,DIAGNOSES,Author,Middle East Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C3824749,C0001314,DIAGNOSES,First responder,Acute Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4036465,C0003047,DIAGNOSES,UAP,Animal Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4046087,C3495919,DIAGNOSES,Diplomat,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4302937,C0024530,DIAGNOSES,Tropical medicine specialist,Malaria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4330683,C0024530,DIAGNOSES,Microscopist,Malaria,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0001883,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Airway Obstruction,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0002395,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Alzheimer's Disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0003873,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Rheumatoid Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0004096,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Asthma,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0004364,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Autoimmune Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0004610,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Bacteremia,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0004623,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Bacterial Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0007222,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Cardiovascular Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0009450,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Communicable Diseases,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0010418,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Cryptosporidiosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0012739,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Disseminated Intravascular Coagulation,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0019099,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,"Hemorrhagic Fever, Crimean",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0019243,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,"Angioedemas, Hereditary",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0019348,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Herpes Simplex Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0021400,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Influenza,humn,dsyn,5,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0022716,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Menkes Kinky Hair Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0023240,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Legionellosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0023364,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Leptospirosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0026769,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Multiple Sclerosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0027765,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,nervous system disorder,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0032285,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Pneumonia,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0033036,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Atrial Premature Complexes,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0034069,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Pulmonary Fibrosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0035222,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,"Respiratory Distress Syndrome, Adult",humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0035243,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Respiratory Tract Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0041296,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Tuberculosis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0042769,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Virus Diseases,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0149725,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Lower respiratory tract infection,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0151317,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Chronic infectious disease,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0175701,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Aarskog syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0206614,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Morbillivirus Infections,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0264490,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Acute respiratory failure,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0270724,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Infantile Neuroaxonal Dystrophy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0276226,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Herpes encephalitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0339941,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Acute viral bronchiolitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0442838,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Bilateral hilar adenopathy,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0524851,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Neurodegenerative Disorders,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0581354,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Recurrent sinusitis,humn,dsyn,2,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0748412,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,rhinitis viral,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C0948780,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Rhinosinusitis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C1096155,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Macrophage Activation Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C1175175,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Severe Acute Respiratory Syndrome,humn,dsyn,4,DIAGNOSES_HUMNdiagDSYN
+C4522252,C3495919,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Enthesitis-Related Arthritis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C3694279,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Middle East Respiratory Syndrome,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN
+C4522252,C3805089,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Hyperfibrinolysis,humn,dsyn,1,DIAGNOSES_HUMNdiagDSYN

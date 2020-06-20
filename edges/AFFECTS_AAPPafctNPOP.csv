@@ -1,0 +1,897 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000530,C0020291,AFFECTS,5'-NUCLEOTIDASE,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001044,C0020291,AFFECTS,Acetylcholinesterase,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0001047,C0042784,AFFECTS,Acetylcysteine,Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001271,C2717975,AFFECTS,Actins,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001271,C2717976,AFFECTS,Actins,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001271,C3826426,AFFECTS,Actins,Dynamics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0001390,C0001383,AFFECTS,Acyltransferase,Acylation,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0001457,C0011061,AFFECTS,ADENOSINE DEAMINASE,Deamination,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001473,C0005495,AFFECTS,Adenosine Triphosphatases,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001473,C0031764,AFFECTS,Adenosine Triphosphatases,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001473,C2936626,AFFECTS,Adenosine Triphosphatases,Tumor Microenvironment,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0001479,C2348693,AFFECTS,Na(+)-K(+)-Exchanging ATPase,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001897,C3826426,AFFECTS,Alamethicin,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0001898,C0376525,AFFECTS,Alanine,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002199,C0243052,AFFECTS,Interferon-alpha,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002199,C4042908,AFFECTS,Interferon-alpha,Seroconversion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002245,C0020291,AFFECTS,alpha-Amylases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0007382,AFFECTS,Amino Acids,Catalysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0002520,C0020276,AFFECTS,Amino Acids,Hydrogen Bonding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0031164,AFFECTS,Amino Acids,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0037783,AFFECTS,Amino Acids,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0042333,AFFECTS,Amino Acids,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0243178,AFFECTS,Amino Acids,chemical properties,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0301630,AFFECTS,Amino Acids,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0376525,AFFECTS,Amino Acids,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0376534,AFFECTS,Amino Acids,Electrostatics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0002520,C0678590,AFFECTS,Amino Acids,equilibrium constant,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C0678591,AFFECTS,Amino Acids,free energy,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0002520,C0678592,AFFECTS,Amino Acids,free energy change,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C2717976,AFFECTS,Amino Acids,Virus Budding,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0002520,C2936412,AFFECTS,Amino Acids,Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002520,C2936413,AFFECTS,Amino Acids,Host Range,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0002525,C0039029,AFFECTS,"Amino Acids, Essential",Symbiosis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002570,C0020291,AFFECTS,Aminopeptidase,Hydrolysis,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0002712,C0020291,AFFECTS,Amylases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0002723,C0042333,AFFECTS,Serum amyloid A protein,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003009,C0031164,AFFECTS,angiotensin II,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0010423,AFFECTS,Antibodies,Crystallization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0016315,AFFECTS,Antibodies,Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0022702,AFFECTS,Antibodies,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0037783,AFFECTS,Antibodies,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0042333,AFFECTS,Antibodies,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0162535,AFFECTS,Antibodies,electrical resistance,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0243052,AFFECTS,Antibodies,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C0678559,AFFECTS,Antibodies,deformability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003241,C4042908,AFFECTS,Antibodies,Seroconversion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003242,C0037783,AFFECTS,"Antibodies, Anti-Idiotypic",Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003242,C0376525,AFFECTS,"Antibodies, Anti-Idiotypic",Dimerization,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0003250,C0003317,AFFECTS,Monoclonal Antibodies,Antigenic Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003250,C0022702,AFFECTS,Monoclonal Antibodies,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003250,C0031164,AFFECTS,Monoclonal Antibodies,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003762,C0020291,AFFECTS,ARGINASE,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003765,C0007382,AFFECTS,Arginine,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003940,C0020291,AFFECTS,Arylsulfatases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003995,C0007382,AFFECTS,Asparagine,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0003995,C0017982,AFFECTS,Asparagine,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0004015,C0376534,AFFECTS,Aspartic Acid,Electrostatics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0005554,C3850077,AFFECTS,Biopolymers,Drug Liberation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0005740,C0851346,AFFECTS,Bleomycin,Radiation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0006100,C0020291,AFFECTS,Bradykinin,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0006100,C0031164,AFFECTS,Bradykinin,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0006100,C0677482,AFFECTS,Bradykinin,Parasitism,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0006685,C0806140,AFFECTS,Calcium Channel,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0006992,C0042784,AFFECTS,Carbocysteine,Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0007367,C0020291,AFFECTS,CATALASE,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0007428,C0020291,AFFECTS,Cathepsins,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0007578,C0031164,AFFECTS,Cell Adhesion Molecules,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0008385,C0020291,AFFECTS,sterol esterase,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0009498,C0031164,AFFECTS,Complement System Proteins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0009498,C0042333,AFFECTS,Complement System Proteins,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0009498,C1948023,AFFECTS,Complement System Proteins,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0009498,C3826426,AFFECTS,Complement System Proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010590,C0301630,AFFECTS,Cycloserine,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010590,C2936626,AFFECTS,Cycloserine,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010592,C2717975,AFFECTS,Cyclosporine,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010646,C0020291,AFFECTS,Cystatins,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010654,C0007382,AFFECTS,Cysteine,Catalysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0010654,C0376525,AFFECTS,Cysteine,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010654,C1709375,AFFECTS,Cysteine,Oxidation-Reduction Potential,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010656,C2717975,AFFECTS,caspase,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0010934,C0851346,AFFECTS,Dactinomycin,Radiation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0011519,C0007382,AFFECTS,Deoxyribonuclease I,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0011519,C0042784,AFFECTS,Deoxyribonuclease I,Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0012177,C0031164,AFFECTS,Dietary Proteins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014128,C0020291,AFFECTS,Endochitinase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014230,C0020291,AFFECTS,endonuclease,Hydrolysis,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0014241,C0007382,AFFECTS,Endoribonucleases,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014241,C0020291,AFFECTS,Endoribonucleases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014241,C1948023,AFFECTS,Endoribonucleases,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014372,C0031164,AFFECTS,Enterotoxins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014372,C2348693,AFFECTS,Enterotoxins,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0014894,C0020291,AFFECTS,Esterases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0015528,C0243052,AFFECTS,factor XIII,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0016829,C0005495,AFFECTS,Fungal Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017040,C0020291,AFFECTS,Gamma-glutamyl transferase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017278,C2717976,AFFECTS,"Gene Products, env",Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017279,C2717976,AFFECTS,"Gene Products, gag",Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017339,C0243053,AFFECTS,"Genes, Bacterial",Bacterial Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017360,C0022702,AFFECTS,pol genes,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017376,C0086685,AFFECTS,"Genes, Viral",Natural Selection,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017622,C0031164,AFFECTS,Gliadin,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017645,C0037783,AFFECTS,Globin,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017735,C0020291,AFFECTS,GLUCOSE OXIDASE,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017742,C0031164,AFFECTS,Glucose Transporter,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017764,C0020291,AFFECTS,GLUCOSIDASE,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017789,C3826426,AFFECTS,Glutamates,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017797,C0007382,AFFECTS,Glutamine,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017797,C0678595,AFFECTS,Glutamine,peptide bond,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017817,C1709375,AFFECTS,Glutathione,Oxidation-Reduction Potential,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017968,C0012222,AFFECTS,Glycoproteins,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017968,C0017982,AFFECTS,Glycoproteins,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017968,C0022702,AFFECTS,Glycoproteins,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017968,C0042784,AFFECTS,Glycoproteins,Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017968,C2936412,AFFECTS,Glycoproteins,Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0017968,C2936413,AFFECTS,Glycoproteins,Host Range,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0017976,C0017982,AFFECTS,Glycoside Hydrolases,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0018296,C0005495,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0018296,C3826426,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Dynamics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0018324,C0011061,AFFECTS,GUANINE DEAMINASE,Deamination,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0018850,C0020291,AFFECTS,Heat shock proteins,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0018850,C3826426,AFFECTS,Heat shock proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0019046,C0031164,AFFECTS,Hemoglobin,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0019602,C0007382,AFFECTS,Histidine,Catalysis,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0019602,C0376525,AFFECTS,Histidine,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0019652,C0031164,AFFECTS,Histones,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0019878,C1709375,AFFECTS,homocysteine,Oxidation-Reduction Potential,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0019941,C0032931,AFFECTS,Horseradish Peroxidase,Precipitation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0020197,C0020291,AFFECTS,Hyaluronidase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0020289,C0020291,AFFECTS,Hydrolase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021641,C0020276,AFFECTS,Insulin,Hydrogen Bonding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021641,C1948023,AFFECTS,Insulin,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021699,C0005495,AFFECTS,Integral Membrane Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021699,C0031164,AFFECTS,Integral Membrane Proteins,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0021699,C2717976,AFFECTS,Integral Membrane Proteins,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021701,C0031164,AFFECTS,Integrins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021747,C0031164,AFFECTS,Interferons,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021747,C0042730,AFFECTS,Interferons,Viral Interference,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021747,C1948023,AFFECTS,Interferons,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021755,C0031164,AFFECTS,Interleukin-1,Permeability,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C0021756,C0022203,AFFECTS,Interleukin-2,Isomerism,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021760,C0031164,AFFECTS,Interleukin-6,Permeability,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0021760,C0238617,AFFECTS,Interleukin-6,High altitude (physical force),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021760,C0376525,AFFECTS,Interleukin-6,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021760,C3826426,AFFECTS,Interleukin-6,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021918,C0011061,AFFECTS,Intrinsic factor,Deamination,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0021918,C0022702,AFFECTS,Intrinsic factor,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0022009,C0031164,AFFECTS,Ion Channel,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0022009,C0243052,AFFECTS,Ion Channel,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0022009,C2717975,AFFECTS,Ion Channel,Virus Release,aapp,npop,7,AFFECTS_AAPPafctNPOP
+C0023206,C0032931,AFFECTS,Lectin,Precipitation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0023206,C0039029,AFFECTS,Lectin,Symbiosis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0023206,C1948023,AFFECTS,Lectin,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0023206,C2936412,AFFECTS,Lectin,Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0023689,C1257888,AFFECTS,Ligase,Phase Transition,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0023764,C0020291,AFFECTS,Lipase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0023764,C1948023,AFFECTS,Lipase,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0023816,C0020291,AFFECTS,LIPOPROTEIN LIPASE,Hydrolysis,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C0024337,C0007382,AFFECTS,Lysine,Catalysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0024337,C0376534,AFFECTS,Lysine,Electrostatics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0024375,C0020291,AFFECTS,Protein-Lysine 6-Oxidase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0024375,C0178576,AFFECTS,Protein-Lysine 6-Oxidase,Cross link,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0024429,C0031164,AFFECTS,Migration Inhibitory Factor,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0024746,C0017982,AFFECTS,Mannosidase,glycosylation,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0025250,C0020291,AFFECTS,Neprilysin,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025252,C0012222,AFFECTS,Membrane Proteins,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025252,C0031764,AFFECTS,Membrane Proteins,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025252,C2717976,AFFECTS,Membrane Proteins,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025252,C3826426,AFFECTS,Membrane Proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025543,C0007382,AFFECTS,Metalloproteases,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025543,C0020291,AFFECTS,Metalloproteases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0025646,C0009264,AFFECTS,Methionine,Cold Temperature,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0026456,C0011061,AFFECTS,Monoamine Oxidase B,Deamination,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0026682,C0017982,AFFECTS,Mucins,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0026682,C0038887,AFFECTS,Mucins,Surface Tension,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0026682,C0042784,AFFECTS,Mucins,Viscosity,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0026794,C0042784,AFFECTS,Muramidase,Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027021,C1450275,AFFECTS,Peroxidase,luminescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027096,C0806140,AFFECTS,Myosin ATPase,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027100,C3826426,AFFECTS,Myosin Heavy Chains,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027108,C0445194,AFFECTS,Myosin Light Chains,Power output,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027803,C0012222,AFFECTS,Neuraminidase,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027803,C0871499,AFFECTS,Neuraminidase,temperature effects,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0027803,C2717975,AFFECTS,Neuraminidase,Virus Release,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0028589,C0005495,AFFECTS,Nuclear Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0028954,C0020291,AFFECTS,Oligopeptides,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030016,C1257749,AFFECTS,Oxidoreductase,Herb-Drug Interactions,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030940,C0020291,AFFECTS,Peptide Hydrolases,Hydrolysis,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0030940,C0031164,AFFECTS,Peptide Hydrolases,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0030940,C0243052,AFFECTS,Peptide Hydrolases,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030940,C0376525,AFFECTS,Peptide Hydrolases,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030940,C0678595,AFFECTS,Peptide Hydrolases,peptide bond,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030940,C2936413,AFFECTS,Peptide Hydrolases,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0020291,AFFECTS,Endopeptidases,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0022702,AFFECTS,Endopeptidases,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0243052,AFFECTS,Endopeptidases,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0376525,AFFECTS,Endopeptidases,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0678595,AFFECTS,Endopeptidases,peptide bond,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0678616,AFFECTS,Endopeptidases,peptide bond formation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C0806140,AFFECTS,Endopeptidases,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C1563773,AFFECTS,Endopeptidases,Virus Viability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030946,C3826426,AFFECTS,Endopeptidases,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030962,C0020291,AFFECTS,Peptidyltransferase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0030962,C0178576,AFFECTS,Peptidyltransferase,Cross link,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031453,C0017982,AFFECTS,Phenylalanine,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031640,C0020291,AFFECTS,phosphoric diester hydrolase,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0031671,C0020291,AFFECTS,Phospholipase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031678,C0020291,AFFECTS,Phosphoric Monoester Hydrolases,Hydrolysis,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C0031689,C3826426,AFFECTS,Phosphoproteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031727,C0031164,AFFECTS,Phosphotransferases,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031727,C0376525,AFFECTS,Phosphotransferases,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031727,C1948023,AFFECTS,Phosphotransferases,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0031727,C2348693,AFFECTS,Phosphotransferases,Flux,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0032120,C0311418,AFFECTS,Plasma Proteins,Oncotic pressure,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033382,C0029391,AFFECTS,Proline,Osmosis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033382,C0376534,AFFECTS,Proline,Electrostatics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033640,C2717976,AFFECTS,Protein Kinases,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033640,C3826426,AFFECTS,Protein Kinases,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033679,C0376525,AFFECTS,Transglutaminases,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033692,C0243052,AFFECTS,Proteoglycan,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0033706,C0178529,AFFECTS,Prothrombin,carboxylation,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0034340,C2348693,AFFECTS,PYRUVATE CARBOXYLASE,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0034783,C3826426,AFFECTS,Adrenergic Receptor,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0034790,C0178576,AFFECTS,T-Cell Receptor,Cross link,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0034800,C0037783,AFFECTS,"Receptors, Cell Surface",Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0034800,C3826426,AFFECTS,"Receptors, Cell Surface",Dynamics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0034848,C0042730,AFFECTS,"Receptors, Virus",Viral Interference,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0034861,C0017982,AFFECTS,Recombinant Proteins,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0035342,C3826426,AFFECTS,Retinol Binding Proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0035679,C0005495,AFFECTS,RNA Polymerase II,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0035685,C0007382,AFFECTS,RNA-Directed RNA Polymerase,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0035714,C0678595,AFFECTS,"RNA, Transfer, Amino Acyl",peptide bond,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0036720,C3826426,AFFECTS,Serine,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0037659,C0022702,AFFECTS,Somatostatin,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0038585,C0020291,AFFECTS,Substance P,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0040005,C0007382,AFFECTS,Threonine,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0040005,C3826426,AFFECTS,Threonine,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0040018,C0031164,AFFECTS,Thrombin,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0040085,C0301630,AFFECTS,Thymidylate Synthase,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0040691,C0001515,AFFECTS,Transforming Growth Factors,Adhesiveness,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041197,C1948023,AFFECTS,Tropomyosin,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041236,C0020291,AFFECTS,TRYPSIN,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041236,C0022702,AFFECTS,TRYPSIN,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041249,C0022702,AFFECTS,Tryptophan,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041368,C0031164,AFFECTS,Tumor Necrosis Factors,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041485,C0813987,AFFECTS,Tyrosine,transesterification,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041538,C0007987,AFFECTS,Ubiquitin,chemical synthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041538,C0020291,AFFECTS,Ubiquitin,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0041538,C2717976,AFFECTS,Ubiquitin,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042666,C1948023,AFFECTS,Vimentin,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042711,C2717976,AFFECTS,Viral Envelope Proteins,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042720,C0022702,AFFECTS,Viral Genome,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042720,C0243052,AFFECTS,Viral Genome,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042720,C1563773,AFFECTS,Viral Genome,Virus Viability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042720,C2936413,AFFECTS,Viral Genome,Host Range,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0042736,C0005495,AFFECTS,Viral Proteins,Origin of Life,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0042736,C0031164,AFFECTS,Viral Proteins,Permeability,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C0042736,C0037783,AFFECTS,Viral Proteins,Species Specificity,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0042736,C0243052,AFFECTS,Viral Proteins,Virus Physiological Phenomena,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0042736,C1948023,AFFECTS,Viral Proteins,Stimulation (motivation),aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0042736,C2348693,AFFECTS,Viral Proteins,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042736,C2717975,AFFECTS,Viral Proteins,Virus Release,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0042736,C2936413,AFFECTS,Viral Proteins,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0042981,C2936413,AFFECTS,VP(1),Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0050668,C2936194,AFFECTS,Activins,Hydrodynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0051618,C0020291,AFFECTS,Aminoacylase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0052538,C0020291,AFFECTS,Aspartoacylase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0053409,C0020291,AFFECTS,Invertase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0053413,C0020291,AFFECTS,Beta-mannosidase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0054757,C0031164,AFFECTS,carboxypeptidase H,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0055546,C2717976,AFFECTS,cholesterol-binding protein,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0055817,C0243052,AFFECTS,citrate carrier,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0056080,C3826426,AFFECTS,cofilin,Dynamics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0056884,C0020291,AFFECTS,cysteinyl-glycine dipeptidase,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0056889,C0034553,AFFECTS,Cystic Fibrosis Transmembrane Conductance Regulator,Radioactivity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0056889,C0806140,AFFECTS,Cystic Fibrosis Transmembrane Conductance Regulator,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0057256,C2936626,AFFECTS,Defensins,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0058610,C0243052,AFFECTS,HSP40 Heat-Shock Proteins,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0059038,C0016315,AFFECTS,Peptide Elongation Factor G,Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0059038,C3826426,AFFECTS,Peptide Elongation Factor G,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0059256,C0016315,AFFECTS,Endopeptidase K,Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0059386,C0016315,AFFECTS,"enterotoxin B, staphylococcal",Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0060320,C0243052,AFFECTS,fibrillarin,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0061057,C0043085,AFFECTS,gamma-glutamylaminomethylsulfonic acid,Weather,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0061355,C2348693,AFFECTS,Glucagon-Like Peptide 1,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0061472,C0007382,AFFECTS,Glutamic Acid,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0061516,C0301630,AFFECTS,Glutathione Disulfide,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0061928,C0020291,AFFECTS,GTPase-Activating Proteins,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0063690,C0085406,AFFECTS,Integrase,Anisotropy,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0065042,C0020034,AFFECTS,Annexins,Host-Parasite Interactions,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0065451,C0020291,AFFECTS,mRNA guanylyltransferase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0065827,C0022702,AFFECTS,Measles Virus Nucleoprotein,Kinetics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0065827,C0376534,AFFECTS,Measles Virus Nucleoprotein,Electrostatics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0068601,C0376706,AFFECTS,neuromedin B,Mechanics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0069156,C1563773,AFFECTS,nucleoside triphosphatase,Virus Viability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0069856,C0031164,AFFECTS,"oxytocin, 1-penicillamyl-Leu(2)-",Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0070358,C2348693,AFFECTS,Peptide YY,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0070410,C0243052,AFFECTS,perforin,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0071795,C0376525,AFFECTS,2-5A-dependent ribonuclease,Dimerization,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0072132,C0020291,AFFECTS,prolyl oligopeptidase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0072402,C3826426,AFFECTS,Protein-Serine-Threonine Kinases,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0072600,C0038887,AFFECTS,Pulmonary Surfactant-Associated Proteins,Surface Tension,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0073240,C0005495,AFFECTS,Ribonuclease III,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0073381,C3826426,AFFECTS,rimorphin,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0074011,C0020291,AFFECTS,Sambucus nigra lectins,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0074367,C0001383,AFFECTS,Serine carboxypeptidase,Acylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0075302,C0031164,AFFECTS,streptolysin S,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0077401,C2348693,AFFECTS,Troponin I,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0078057,C0032931,AFFECTS,vascular factor,Precipitation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0078989,C0596391,AFFECTS,Aspartic Acid Endopeptidases,covalent bond,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079189,C0022702,AFFECTS,cytokine,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079189,C0031164,AFFECTS,cytokine,Permeability,aapp,npop,5,AFFECTS_AAPPafctNPOP
+C0079189,C0037783,AFFECTS,cytokine,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079189,C0042730,AFFECTS,cytokine,Viral Interference,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079189,C0679215,AFFECTS,cytokine,health and disease,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079189,C1948023,AFFECTS,cytokine,Stimulation (motivation),aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0079460,C0022702,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079460,C0851346,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Radiation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079633,C0031164,AFFECTS,Interleukin-8,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0079686,C0376525,AFFECTS,Leucine Zippers,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079784,C0597571,AFFECTS,Macrophage Colony-Stimulating Factor,thermostability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0079904,C2348693,AFFECTS,NF-kappa B,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0082731,C2936413,AFFECTS,Glycine dehydrogenase (decarboxylating),Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0082926,C0031164,AFFECTS,HOE 140,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0084378,C0020291,AFFECTS,RNA Helicase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0084692,C0243052,AFFECTS,Pulmonary Surfactant-Associated Protein D,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0084913,C0031764,AFFECTS,Ubiquitin-Conjugating Enzymes,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0085175,C3826426,AFFECTS,Vinculin,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0085177,C0005495,AFFECTS,RNA-Binding Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0085182,C3826426,AFFECTS,Talin,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0085219,C0032931,AFFECTS,HIV Core Protein p24,Precipitation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0085249,C0017982,AFFECTS,glycosyltransferase,glycosylation,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0085295,C3826426,AFFECTS,Interleukin-10,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0085431,C0020291,AFFECTS,Ribonuclease H,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0086376,C2717976,AFFECTS,GTP-Binding Proteins,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0086376,C3826426,AFFECTS,GTP-Binding Proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0087044,C0020291,AFFECTS,Synapsin I,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0101671,C3826426,AFFECTS,ADP-Ribosylation Factors,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0103403,C3826426,AFFECTS,Annexin A1,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0108471,C0020291,AFFECTS,carboxypeptidase C,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0111429,C1257888,AFFECTS,Cyclin E,Phase Transition,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0115305,C0001515,AFFECTS,E-Selectin,Adhesiveness,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0120285,C0016315,AFFECTS,Green Fluorescent Proteins,Fluorescence,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0120285,C2348693,AFFECTS,Green Fluorescent Proteins,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0120465,C0376525,AFFECTS,Guanine Nucleotide Exchange Factors,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0121925,C0042333,AFFECTS,"reverse transcriptase, Human immunodeficiency virus 1",Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0125393,C3826426,AFFECTS,formin 1,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0140599,C3826426,AFFECTS,"TAP1 protein, human",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0142580,C3826426,AFFECTS,"PI3 protein, human",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0145620,C0020291,AFFECTS,thimet oligopeptidase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0148340,C0022702,AFFECTS,Vesicle-Associated Membrane Protein 2,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0162745,C0020291,AFFECTS,COLLAGENASE,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0164198,C0005495,AFFECTS,Cyclophilin A,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0164198,C0022702,AFFECTS,Cyclophilin A,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0164371,C0031164,AFFECTS,Matrix Metalloproteinase 3,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0174045,C0031164,AFFECTS,rho GTP-Binding Proteins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0174045,C3826426,AFFECTS,rho GTP-Binding Proteins,Dynamics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0175168,C0042784,AFFECTS,"Protein, Organized by Structure",Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0206454,C3826426,AFFECTS,Growth Factor Receptors,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0208355,C0020291,AFFECTS,multicatalytic endopeptidase complex,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0208355,C0597571,AFFECTS,multicatalytic endopeptidase complex,thermostability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0214743,C0022702,AFFECTS,Interleukin-13,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0215825,C2936194,AFFECTS,adrenomedullin,Hydrodynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0216680,C0031164,AFFECTS,"Receptor, TIE-2",Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0218158,C0020291,AFFECTS,Agammaglobulinaemia tyrosine kinase,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0242210,C0037783,AFFECTS,Binding Proteins,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0242210,C3826426,AFFECTS,Binding Proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0242565,C0031164,AFFECTS,Intercellular Adhesion Molecules,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0242738,C0005495,AFFECTS,ATP-Binding Cassette Transporters,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0242738,C0031764,AFFECTS,ATP-Binding Cassette Transporters,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0243041,C0005495,AFFECTS,Molecular Chaperones,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0243041,C2936626,AFFECTS,Molecular Chaperones,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0243043,C0243052,AFFECTS,Heat-Shock Proteins 70,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0243044,C0005495,AFFECTS,HSP90 Heat-Shock Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0243045,C1257888,AFFECTS,Cyclin-Dependent Kinases,Phase Transition,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0243795,C0020291,AFFECTS,Aminopeptidase P,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0246118,C0020291,AFFECTS,Endothelin-converting enzyme 1,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0247111,C2717975,AFFECTS,"TNFRSF9 protein, human",Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0248587,C3826426,AFFECTS,"SMARCA4 protein, human",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0250400,C0005495,AFFECTS,occludin,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0250400,C0031164,AFFECTS,occludin,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0251914,C0005495,AFFECTS,"PDIA3 protein, human",Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0252902,C3826426,AFFECTS,"PKN1 protein, human",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0257535,C0031164,AFFECTS,Mitogen-Activated Protein Kinase 14,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0258823,C2717975,AFFECTS,protein kinase D,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282554,C0022702,AFFECTS,chemokine,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282554,C0042333,AFFECTS,chemokine,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282554,C0678544,AFFECTS,chemokine,wave - physical agent,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282554,C1948023,AFFECTS,chemokine,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282641,C0022702,AFFECTS,Transgenes,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282641,C1948023,AFFECTS,Transgenes,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0282682,C0041625,AFFECTS,"Antibodies, Blocking",Ultraviolet Rays,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0283960,C0039029,AFFECTS,soybean lectin,Symbiosis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0284930,C0022702,AFFECTS,cathepsin K,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0291573,C0031164,AFFECTS,caspase-3,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0299382,C2717976,AFFECTS,"M protein, Vesicular stomatitis virus",Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0300423,C0031164,AFFECTS,cadherin 5,Permeability,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0301521,C0598197,AFFECTS,therapeutic vaccine,contagion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0304052,C0005520,AFFECTS,Plant Lectins,Biological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0304866,C0001383,AFFECTS,"Insulin, Beef",Acylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0314620,C0042333,AFFECTS,Non structural gene,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0348035,C0010423,AFFECTS,oxidized low density lipoprotein,Crystallization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0358321,C0005495,AFFECTS,Immune Globulin (Human),Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0376515,C0031164,AFFECTS,BCL2 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0377091,C0017982,AFFECTS,Glycopeptidase F,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0378910,C0376525,AFFECTS,Lymphocyte antigen CD66A,Dimerization,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0384768,C0376525,AFFECTS,"IRF3 protein, human",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0388176,C0031164,AFFECTS,Vascular Endothelial Growth Factor B,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0388389,C0043052,AFFECTS,aquaporin 5,Water Movements,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0389916,C0376525,AFFECTS,"nucleocapsid protein, Coronavirus",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0391845,C0020291,AFFECTS,Lysosomal enzyme,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0440471,C2350446,AFFECTS,Genetic Materials,Physical Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0443640,C0243052,AFFECTS,Specific antibody,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0457610,C2936194,AFFECTS,Measles-rubella vaccine (live),Hydrodynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0475463,C0042333,AFFECTS,"Antibodies, Neutralizing",Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0526999,C1257888,AFFECTS,anaphase-promoting complex,Phase Transition,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0528529,C0376525,AFFECTS,"3C-like proteinase, Coronavirus",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0529196,C0020291,AFFECTS,ADAM17 Protein,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0530467,C0031164,AFFECTS,"2B protein, poliovirus",Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0533668,C0031164,AFFECTS,"ANGPT1 protein, human",Permeability,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0538091,C0376525,AFFECTS,caspase-6,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0538747,C0301630,AFFECTS,"Receptors, CCR1",Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0540193,C0007382,AFFECTS,"DNA, Catalytic",Catalysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0582263,C0031164,AFFECTS,Structural protein,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0582263,C2717976,AFFECTS,Structural protein,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0582263,C2936412,AFFECTS,Structural protein,Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0596902,C0031164,AFFECTS,Membrane Transport Proteins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0596902,C2348693,AFFECTS,Membrane Transport Proteins,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597094,C0005495,AFFECTS,nuclease,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597094,C0020291,AFFECTS,nuclease,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597094,C0022702,AFFECTS,nuclease,Kinetics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0597298,C3826426,AFFECTS,Protein Isoforms,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597336,C3826426,AFFECTS,Quantitative Trait Loci,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597357,C0031164,AFFECTS,receptor,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597357,C0042333,AFFECTS,receptor,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597357,C0178576,AFFECTS,receptor,Cross link,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597357,C1948023,AFFECTS,receptor,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597357,C2717975,AFFECTS,receptor,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597357,C2936413,AFFECTS,receptor,Host Range,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0597548,C0011094,AFFECTS,synthetic enzyme,Decarboxylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597603,C0005495,AFFECTS,translation factor,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0597721,C0376525,AFFECTS,Janus kinase,Dimerization,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0597721,C1948023,AFFECTS,Janus kinase,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0001876,AFFECTS,Protein Subunits,Air Pressure,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0005495,AFFECTS,Protein Subunits,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0017982,AFFECTS,Protein Subunits,glycosylation,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0599220,C0020291,AFFECTS,Protein Subunits,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0020365,AFFECTS,Protein Subunits,Hydroxylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0022702,AFFECTS,Protein Subunits,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0031764,AFFECTS,Protein Subunits,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599220,C0243052,AFFECTS,Protein Subunits,Virus Physiological Phenomena,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0599561,C0031164,AFFECTS,e protein,Permeability,aapp,npop,13,AFFECTS_AAPPafctNPOP
+C0599561,C0806140,AFFECTS,e protein,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599561,C2717976,AFFECTS,e protein,Virus Budding,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0599770,C2936413,AFFECTS,genetic element,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0599770,C3826426,AFFECTS,genetic element,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0608871,C0007382,AFFECTS,kynurenine aminotransferase II,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0623362,C0031164,AFFECTS,Matrix Metalloproteinases,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0632308,C0007382,AFFECTS,H 256,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0658605,C0678591,AFFECTS,ribonuclease R,free energy,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0663914,C0376525,AFFECTS,IkappaB kinase,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0667477,C3826426,AFFECTS,"TNFRSF11A protein, human",Dynamics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0669365,C0806140,AFFECTS,"NOS3 protein, human",Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0670902,C0023693,AFFECTS,Tumor Necrosis Factor Ligand Superfamily Member 14,Light,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0683187,C2348693,AFFECTS,receptor operated channel,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0700271,C0376525,AFFECTS,"M Protein, multiple myeloma",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0700271,C2936412,AFFECTS,"M Protein, multiple myeloma",Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0700271,C3826426,AFFECTS,"M Protein, multiple myeloma",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0729663,C4042908,AFFECTS,Maternal antibody,Seroconversion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0751455,C0031164,AFFECTS,"Gene Products, Protein",Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0751455,C2348693,AFFECTS,"Gene Products, Protein",Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0751973,C2350399,AFFECTS,Proteome,Metabolome,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0751984,C3826426,AFFECTS,Monomeric GTP-Binding Proteins,Dynamics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C0752085,C0005495,AFFECTS,Small Nucleolar Ribonucleoproteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0755295,C0005495,AFFECTS,"FBXW7 protein, human",Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0756977,C0026597,AFFECTS,1-deoxy-D-xylulose 5-phosphate reductoisomerase,Motion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0765152,C0031164,AFFECTS,angiopoietin 4,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0769218,C0012222,AFFECTS,matriptase,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0769218,C0162535,AFFECTS,matriptase,electrical resistance,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0808901,C2718051,AFFECTS,EWSR1 gene,Climate Change,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0812198,C0031164,AFFECTS,BAX gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0812263,C0016315,AFFECTS,EPHA3 gene,Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0812445,C0031164,AFFECTS,CXCL1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0815043,C0042730,AFFECTS,"Protein, Organized by Function",Viral Interference,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0815047,C3826426,AFFECTS,regulatory proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0872241,C3826426,AFFECTS,PDZ protein,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0883306,C0243052,AFFECTS,Platelet associated antibody,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0901047,C0020291,AFFECTS,eukaryotic initiation factor-5B,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0914216,C0031164,AFFECTS,zonulin,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0919490,C2936413,AFFECTS,SPI1 gene,Host Range,aapp,npop,5,AFFECTS_AAPPafctNPOP
+C0919538,C0376525,AFFECTS,TGFBR2 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0920283,C0020291,AFFECTS,DNA Helicases,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C0920283,C0599882,AFFECTS,DNA Helicases,Melting,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0949610,C3826426,AFFECTS,Mitochondrial Proteins,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0949791,C0031164,AFFECTS,Organic Anion Transport Polypeptides,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0950108,C2936413,AFFECTS,Reptilian Proteins,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0962179,C0020291,AFFECTS,falcipain 2,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0962546,C3826426,AFFECTS,Destrin,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C0966855,C0376525,AFFECTS,GDP-mannose transporter,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1100367,C0020291,AFFECTS,falcipain 3,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1120843,C3826426,AFFECTS,mitogen-activated protein kinase p38,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1135662,C0042784,AFFECTS,Dornase Alfa,Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1136102,C0005495,AFFECTS,Capsid Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1136102,C0678591,AFFECTS,Capsid Proteins,free energy,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1136102,C2936412,AFFECTS,Capsid Proteins,Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1136102,C2936413,AFFECTS,Capsid Proteins,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1136161,C0376525,AFFECTS,Protomers,Dimerization,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C1143167,C0011061,AFFECTS,"APOBEC3G protein, human",Deamination,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1144786,C0020291,AFFECTS,"DNASE1 protein, human",Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1172734,C0012222,AFFECTS,natalizumab,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1179435,C0042333,AFFECTS,Protein Component,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1180347,C0031764,AFFECTS,Protein complex,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1256770,C0031164,AFFECTS,Vascular Endothelial Growth Factors,Permeability,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C1275917,C0017982,AFFECTS,Immunoglobulin G subclass,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1305923,C0005495,AFFECTS,Polypeptides,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1305923,C2936413,AFFECTS,Polypeptides,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1309025,C0005495,AFFECTS,"SH2D3A protein, human",Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1309483,C0005495,AFFECTS,"DICER1 protein, human",Origin of Life,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1309483,C0376525,AFFECTS,"DICER1 protein, human",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1310463,C0376525,AFFECTS,"IFIH1 protein, human",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1310468,C1948023,AFFECTS,"DDX58 protein, human",Stimulation (motivation),aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1321919,C0031164,AFFECTS,"TLR4 protein, human",Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1321919,C0301630,AFFECTS,"TLR4 protein, human",Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1328025,C0376525,AFFECTS,pertuzumab,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332386,C0037783,AFFECTS,BCAR3 gene,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332386,C1948023,AFFECTS,BCAR3 gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332397,C0031164,AFFECTS,BCL2L1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332684,C0162524,AFFECTS,CCL21 gene,Chemiluminescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332759,C0020291,AFFECTS,CHRM3 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332822,C0243052,AFFECTS,CXCR3 gene,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1332838,C0031164,AFFECTS,Candidate Disease Gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1333350,C3826426,AFFECTS,EPS8 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1333676,C0005495,AFFECTS,GIT1 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1333723,C2717976,AFFECTS,GTF2H1 gene,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1333908,C0022702,AFFECTS,HMGB1 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1333908,C1948023,AFFECTS,HMGB1 gene,Stimulation (motivation),aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1334043,C0005495,AFFECTS,Homologous Gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334043,C2936413,AFFECTS,Homologous Gene,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334046,C1948023,AFFECTS,"Genes, Housekeeping",Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334078,C0022702,AFFECTS,IFITM1 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334078,C0031164,AFFECTS,IFITM1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334078,C2717975,AFFECTS,IFITM1 gene,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334081,C0376525,AFFECTS,IFNAR1 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334090,C0005495,AFFECTS,IGF2R gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334130,C0031164,AFFECTS,INHA gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334139,C0005495,AFFECTS,IRF3 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334139,C0376525,AFFECTS,IRF3 gene,Dimerization,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C1334535,C0031164,AFFECTS,MTCP1 gene,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1334860,C0017982,AFFECTS,"N33 protein, human",glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334885,C2936626,AFFECTS,NMI gene,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1334899,C0031164,AFFECTS,NR3C1 gene,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1335057,C0016315,AFFECTS,"PTPN22 protein, human",Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335071,C0376525,AFFECTS,Nuclear LIM Interactor-Interacting Factor 2,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335216,C0005495,AFFECTS,PI4KB gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335238,C3826426,AFFECTS,PPARG gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335439,C0243052,AFFECTS,Polymerase,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335439,C0678590,AFFECTS,Polymerase,equilibrium constant,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335439,C2936413,AFFECTS,Polymerase,Host Range,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1335532,C0007382,AFFECTS,Protein Family,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335631,C3826426,AFFECTS,ROCK1 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335872,C0376525,AFFECTS,STAT1 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1335872,C1948023,AFFECTS,STAT1 gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1336602,C0031164,AFFECTS,TEK gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1336636,C0031164,AFFECTS,TLR4 gene,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1336636,C0376525,AFFECTS,TLR4 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1336670,C0005495,AFFECTS,TREX1 gene,Origin of Life,aapp,npop,7,AFFECTS_AAPPafctNPOP
+C1336690,C0007382,AFFECTS,TXN gene,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1336763,C0039029,AFFECTS,Toll-Like Receptor Family Gene,Symbiosis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1366753,C0376525,AFFECTS,STAT protein,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1366894,C3826426,AFFECTS,PTK2 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1367307,C3826426,AFFECTS,STAT3 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412056,C0022702,AFFECTS,AAVS1 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412090,C0005495,AFFECTS,ABCD3 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412208,C1521797,AFFECTS,ADAMTS2 gene,transmission process,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412208,C3826426,AFFECTS,ADAMTS2 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412215,C0011061,AFFECTS,ADAR gene,Deamination,aapp,npop,8,AFFECTS_AAPPafctNPOP
+C1412279,C1563773,AFFECTS,AGL gene,Virus Viability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412290,C0011682,AFFECTS,AGXT gene,Desiccation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412382,C0243052,AFFECTS,AMELX gene,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412417,C0031164,AFFECTS,ANXA1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412472,C0011061,AFFECTS,APOBEC1 gene,Deamination,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412493,C0041625,AFFECTS,AQP3 gene,Ultraviolet Rays,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412504,C3826426,AFFECTS,ARF1 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412513,C0020291,AFFECTS,ARFGAP3 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412533,C0806140,AFFECTS,ARIH1 gene,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1412756,C0020276,AFFECTS,BCHE gene,Hydrogen Bonding,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1412831,C2717975,AFFECTS,BST2 gene,Virus Release,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1412831,C2717976,AFFECTS,BST2 gene,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413038,C0243052,AFFECTS,CA1 gene,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413188,C0031164,AFFECTS,CCR2 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413357,C3826426,AFFECTS,CFLAR gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413474,C0031164,AFFECTS,CLDN4 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413475,C0031164,AFFECTS,CLDN5 gene,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1413623,C3826426,AFFECTS,CORO1B gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413661,C0020291,AFFECTS,COX8A gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413666,C1450275,AFFECTS,CPB2 gene,luminescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413713,C0026597,AFFECTS,CRLF1 gene,Motion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413713,C0806140,AFFECTS,CRLF1 gene,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1413962,C0243052,AFFECTS,DDX3X gene,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414052,C0376525,AFFECTS,DIO2 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414141,C0022702,AFFECTS,DPP4 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414141,C2936413,AFFECTS,DPP4 gene,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414158,C0016701,AFFECTS,DSC3 gene,Freezing,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414158,C0599882,AFFECTS,DSC3 gene,Melting,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414197,C0678613,AFFECTS,DUX4 gene,feedback inhibition,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414244,C0020291,AFFECTS,ECE1 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414314,C0022702,AFFECTS,EGR1 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414333,C0005495,AFFECTS,AGO2 gene,Origin of Life,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C1414359,C0020291,AFFECTS,EIF5 gene,Hydrolysis,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1414406,C0020291,AFFECTS,ENPEP gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414512,C0020291,AFFECTS,FAAH gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414688,C0016315,AFFECTS,FOXP1 gene,Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1414862,C0017982,AFFECTS,FUT1 gene,glycosylation,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1414951,C0017982,AFFECTS,GALNT1 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415002,C3826426,AFFECTS,GBF1 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415053,C0020291,AFFECTS,GGT1 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415188,C0596391,AFFECTS,GP2 gene,covalent bond,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415188,C0596800,AFFECTS,GP2 gene,Ionic Bonding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415284,C0337016,AFFECTS,GRAP2 gene,Landslides,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415284,C0598197,AFFECTS,GRAP2 gene,contagion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415347,C0563533,AFFECTS,GTF2I gene,Magnetic Fields,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415351,C0596800,AFFECTS,GTPBP1 gene,Ionic Bonding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415351,C2936412,AFFECTS,GTPBP1 gene,Host Specificity,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1415761,C0376525,AFFECTS,HSPA5 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415764,C0005495,AFFECTS,HSPA8 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415764,C0243052,AFFECTS,HSPA8 gene,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415894,C0522534,AFFECTS,IFIT2 gene,Saturated,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1415895,C0522534,AFFECTS,IFIT3 gene,Saturated,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1415898,C0005495,AFFECTS,IFITM3 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1415898,C0031164,AFFECTS,IFITM3 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416471,C0005495,AFFECTS,IQGAP1 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416475,C0005495,AFFECTS,IRF7 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416521,C0376525,AFFECTS,ITSN2 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416797,C0016248,AFFECTS,STMN1 gene,Floods,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416797,C0025594,AFFECTS,STMN1 gene,Meteorological Factors,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1416797,C0806140,AFFECTS,STMN1 gene,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416797,C3826426,AFFECTS,STMN1 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416865,C0022702,AFFECTS,LIPA gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416899,C0178576,AFFECTS,LOXL2 gene,Cross link,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1416989,C3826426,AFFECTS,MAL gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417005,C3826426,AFFECTS,MAP1LC3A gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417035,C0031764,AFFECTS,MARS gene,Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417035,C3826426,AFFECTS,MARS gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417036,C0031164,AFFECTS,MASP1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417092,C3826426,AFFECTS,ME1 gene,Dynamics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1417196,C2717975,AFFECTS,MLYCD gene,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417510,C0022702,AFFECTS,MX1 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417679,C0243052,AFFECTS,NES gene,Virus Physiological Phenomena,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1417776,C0042333,AFFECTS,NPC1 gene,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417776,C2936413,AFFECTS,NPC1 gene,Host Range,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1417806,C0005495,AFFECTS,NPM3 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1417914,C1948023,AFFECTS,OAS3 gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418269,C0020291,AFFECTS,PARG gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418476,C0005495,AFFECTS,PEX16 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418482,C0030604,AFFECTS,CFP gene,Partial Pressure,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418616,C0038887,AFFECTS,PLA2G10 gene,Surface Tension,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418617,C2717975,AFFECTS,PLA2G1B gene,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418624,C0020291,AFFECTS,PLA2G6 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418652,C0178576,AFFECTS,PLOD2 gene,Cross link,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418793,C0007382,AFFECTS,PPIA gene,Catalysis,aapp,npop,8,AFFECTS_AAPPafctNPOP
+C1418793,C0243052,AFFECTS,PPIA gene,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418797,C0005495,AFFECTS,PPID gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1418975,C0376525,AFFECTS,PSAP gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419086,C3826426,AFFECTS,PTMS gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419147,C0005495,AFFECTS,PEX19 gene,Origin of Life,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1419195,C0005495,AFFECTS,RAB27A gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419208,C1948023,AFFECTS,RAB3D gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419212,C0031164,AFFECTS,RAB5A gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419212,C3826426,AFFECTS,RAB5A gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419214,C3826426,AFFECTS,RAB5C gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1419815,C0037709,AFFECTS,SAR1A gene,Sound - physical agent,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420016,C2717975,AFFECTS,SGTA gene,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420017,C1948023,AFFECTS,SH2D1A gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420084,C0017982,AFFECTS,SLAMF1 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420086,C0037783,AFFECTS,SLC10A1 gene,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420172,C2348693,AFFECTS,SLC2A2 gene,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420204,C0042333,AFFECTS,SLC5A5 gene,Variation (Genetics),aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1420216,C0376706,AFFECTS,SLC6A6 gene,Mechanics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420267,C0806140,AFFECTS,SNAI1 gene,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420427,C0597678,AFFECTS,SSNA1 gene,water flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420588,C3826426,AFFECTS,TARDBP gene,Dynamics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1420744,C0031164,AFFECTS,TJP1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420745,C0031164,AFFECTS,TJP2 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1420746,C0031164,AFFECTS,TJP3 gene,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1421395,C0017982,AFFECTS,USP18 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1421406,C0012222,AFFECTS,USP5 gene,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1421424,C0005495,AFFECTS,VAPA gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1421425,C0005495,AFFECTS,VAPB gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1421479,C0678544,AFFECTS,WASF1 gene,wave - physical agent,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1422036,C2717975,AFFECTS,ERVW-1 gene,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422064,C0013790,AFFECTS,ACE2 gene,Electricity,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1422064,C0020291,AFFECTS,ACE2 gene,Hydrolysis,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1422064,C0376525,AFFECTS,ACE2 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422064,C0542479,AFFECTS,ACE2 gene,"Energy, Physics",aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422064,C0598197,AFFECTS,ACE2 gene,contagion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422064,C1948023,AFFECTS,ACE2 gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422162,C0376525,AFFECTS,NUTF2 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422269,C0005495,AFFECTS,DDX39B gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422837,C0012222,AFFECTS,SPATA1 gene,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1422840,C0031164,AFFECTS,JAM2 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1423498,C0005495,AFFECTS,GOLPH3 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1423506,C0009264,AFFECTS,SPINK5 gene,Cold Temperature,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1423633,C0376525,AFFECTS,TLR9 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1424611,C0020291,AFFECTS,MFN2 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1424633,C0022702,AFFECTS,SYNCRIP gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1424651,C0005495,AFFECTS,DGAT2 gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1424783,C0376525,AFFECTS,LY96 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1424969,C1563773,AFFECTS,CLSTN2 gene,Virus Viability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1425040,C0022702,AFFECTS,DHRS3 gene,Kinetics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1425076,C3826426,AFFECTS,LIN7B gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1425131,C0012222,AFFECTS,CHPT1 gene,Diffusion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1425157,C0007382,AFFECTS,APEX2 gene,Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1425402,C0020291,AFFECTS,MFN1 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1425514,C3826426,AFFECTS,HAVCR2 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1425964,C0376525,AFFECTS,TRIM56 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1426113,C3826426,AFFECTS,TERF2IP gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1426208,C0017982,AFFECTS,SOCS1 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1426335,C0017982,AFFECTS,NECTIN4 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1426344,C2717975,AFFECTS,PLK2 gene,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1427303,C0017982,AFFECTS,SEC63 gene,glycosylation,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1427472,C3826426,AFFECTS,PTCRA gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1427791,C3820537,AFFECTS,SYMPK gene,arbuscular mycorrhizal symbiosis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1428114,C0600572,AFFECTS,TBATA gene,Food Web,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1428114,C0806140,AFFECTS,TBATA gene,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1428114,C3826426,AFFECTS,TBATA gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1428948,C3826426,AFFECTS,PDXP gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1431519,C0376525,AFFECTS,"TP63 protein, human",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1431519,C0522534,AFFECTS,"TP63 protein, human",Saturated,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1438415,C0022702,AFFECTS,"DDX20 protein, human",Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1442738,C3826426,AFFECTS,PABPC1 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1442758,C0038884,AFFECTS,SFTPC gene,Surface Properties,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1448177,C0031164,AFFECTS,"TNF protein, human",Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1449035,C0026597,AFFECTS,"SPRR2A protein, human",Motion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1449886,C0022702,AFFECTS,"Adaptor Proteins, Signal Transducing",Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1449886,C3826426,AFFECTS,"Adaptor Proteins, Signal Transducing",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1456447,C0037605,AFFECTS,"SLC6A2 protein, human",Solar Energy,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1456447,C0376534,AFFECTS,"SLC6A2 protein, human",Electrostatics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1456447,C2718051,AFFECTS,"SLC6A2 protein, human",Climate Change,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1456447,C2963164,AFFECTS,"SLC6A2 protein, human",Wildfires,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1456447,C3826426,AFFECTS,"SLC6A2 protein, human",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1506024,C0031164,AFFECTS,Voltage-Dependent Anion Channels,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1512474,C2936626,AFFECTS,Histone deacetylase inhibitor,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1522712,C0031164,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1530270,C1948023,AFFECTS,"IRF1 protein, human",Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1531217,C0020291,AFFECTS,"DSP protein, human",Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1537447,C2348693,AFFECTS,RUBCN gene,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1537486,C3826426,AFFECTS,KLF6 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1537647,C0042333,AFFECTS,MALAT1 gene,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1538416,C2718051,AFFECTS,ADIRF gene,Climate Change,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1538785,C3826426,AFFECTS,ELMOD3 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539479,C0043085,AFFECTS,FATE1 gene,Weather,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539479,C0596583,AFFECTS,FATE1 gene,Food Chain,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539482,C0038887,AFFECTS,FBXL15 gene,Surface Tension,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1539482,C0337037,AFFECTS,FBXL15 gene,Electric field,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539482,C0806140,AFFECTS,FBXL15 gene,Flow,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1539703,C2717976,AFFECTS,RSAD2 gene,Virus Budding,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539835,C0032931,AFFECTS,SPEN gene,Precipitation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539847,C3826426,AFFECTS,SRFBP1 gene,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539862,C0017982,AFFECTS,ST3GAL4 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1539922,C0031164,AFFECTS,TAOK1 gene,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1540081,C0376534,AFFECTS,TSPAN1 gene,Electrostatics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1540210,C2717975,AFFECTS,ASZ1 gene,Virus Release,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1540290,C2936626,AFFECTS,CD200R1 gene,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1564904,C0020276,AFFECTS,Catenins,Hydrogen Bonding,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1565115,C0031164,AFFECTS,Apoptosis Inducing Proteins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1565860,C0016315,AFFECTS,"PTGS2 protein, human",Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1568204,C0007382,AFFECTS,"IFNAR1 protein, human",Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1624602,C0016315,AFFECTS,Anti-Antibodies,Fluorescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1700887,C0022702,AFFECTS,"IL2RA protein, human",Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1705085,C1959569,AFFECTS,CD19 wt Allele,Volatility,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1705504,C0026597,AFFECTS,HTATIP wt Allele,Motion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1705504,C1449602,AFFECTS,HTATIP wt Allele,Icebergs,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1705590,C4042896,AFFECTS,PIK3CB wt Allele,Organelle Biogenesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1705982,C2717975,AFFECTS,KRAS wt Allele,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1706005,C0376525,AFFECTS,CD40LG wt Allele,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1707995,C1257888,AFFECTS,FABP4 wt Allele,Phase Transition,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1708010,C0031164,AFFECTS,FES wt Allele,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1710602,C0010546,AFFECTS,VIPR1 wt Allele,Cyclization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1742862,C2936413,AFFECTS,"CISH protein, human",Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1823075,C0005495,AFFECTS,SNUPN gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1823138,C0017982,AFFECTS,STT3A gene,glycosylation,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1823140,C0013835,AFFECTS,STX2 gene,Electromagnetic Fields,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1823437,C0376525,AFFECTS,TMEM173 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1823437,C0442540,AFFECTS,TMEM173 gene,Streams,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1823437,C2936626,AFFECTS,TMEM173 gene,Tumor Microenvironment,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1823521,C3826310,AFFECTS,TSPO gene,Fouling,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1824509,C0020291,AFFECTS,RTCB gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825318,C0022702,AFFECTS,FRRS1 gene,Kinetics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1825325,C3826426,AFFECTS,G3BP1 gene,Dynamics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1825501,C2348693,AFFECTS,ATG10 gene,Flux,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0005495,AFFECTS,IMPACT gene,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0008946,AFFECTS,IMPACT gene,Climate,aapp,npop,5,AFFECTS_AAPPafctNPOP
+C1825598,C0012222,AFFECTS,IMPACT gene,Diffusion,aapp,npop,4,AFFECTS_AAPPafctNPOP
+C1825598,C0013463,AFFECTS,IMPACT gene,Earthquakes,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0016248,AFFECTS,IMPACT gene,Floods,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0020167,AFFECTS,IMPACT gene,Humidity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0025594,AFFECTS,IMPACT gene,Meteorological Factors,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0027485,AFFECTS,IMPACT gene,Natural Disasters,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0037605,AFFECTS,IMPACT gene,Solar Energy,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0043085,AFFECTS,IMPACT gene,Weather,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0086312,AFFECTS,IMPACT gene,Forests,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0162358,AFFECTS,IMPACT gene,Ecosystem,aapp,npop,8,AFFECTS_AAPPafctNPOP
+C1825598,C0301630,AFFECTS,IMPACT gene,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0337050,AFFECTS,IMPACT gene,Rivers,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0428692,AFFECTS,IMPACT gene,Ambient temperature,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0596583,AFFECTS,IMPACT gene,Food Chain,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0598197,AFFECTS,IMPACT gene,contagion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C0677482,AFFECTS,IMPACT gene,Parasitism,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1825598,C0806140,AFFECTS,IMPACT gene,Flow,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1825598,C1959569,AFFECTS,IMPACT gene,Volatility,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C1825598,C2371697,AFFECTS,IMPACT gene,Natural events,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825598,C2718051,AFFECTS,IMPACT gene,Climate Change,aapp,npop,17,AFFECTS_AAPPafctNPOP
+C1825598,C3826426,AFFECTS,IMPACT gene,Dynamics,aapp,npop,17,AFFECTS_AAPPafctNPOP
+C1825621,C0032931,AFFECTS,ISG15 gene,Precipitation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825621,C0243052,AFFECTS,ISG15 gene,Virus Physiological Phenomena,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1825621,C0376525,AFFECTS,ISG15 gene,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825621,C2936413,AFFECTS,ISG15 gene,Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1825858,C0683110,AFFECTS,B4GALNT1 gene,acoustic stimulus,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1826433,C0020291,AFFECTS,NLRC4 gene,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1837895,C0022702,AFFECTS,ARHGAP32 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1842308,C1948023,AFFECTS,SPPL2C gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1955894,C0031164,AFFECTS,Viral Accessory Proteins,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1955907,C0376706,AFFECTS,Adipokines,Mechanics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1955992,C0031764,AFFECTS,"Genome, Chloroplast",Photosynthesis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1955992,C2350399,AFFECTS,"Genome, Chloroplast",Metabolome,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C1969646,C0679215,AFFECTS,CXCL17 gene,health and disease,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C1999501,C0031164,AFFECTS,vascular endothelial growth factor-165,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2239666,C0017982,AFFECTS,MAGT1 gene,glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2239937,C0016248,AFFECTS,SMAD5-AS1 gene,Floods,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C2239937,C0162358,AFFECTS,SMAD5-AS1 gene,Ecosystem,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C2239937,C0597678,AFFECTS,SMAD5-AS1 gene,water flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2239937,C0806140,AFFECTS,SMAD5-AS1 gene,Flow,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C2350701,C3826426,AFFECTS,Macrophage Inflammatory Protein-1,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2681866,C0022702,AFFECTS,NEAT1 gene,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2699122,C1720789,AFFECTS,ATP7A wt Allele,DNA Denaturation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2718006,C0031164,AFFECTS,Claudins,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C2744535,C0016248,AFFECTS,"CD69 protein, human",Floods,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744535,C0020167,AFFECTS,"CD69 protein, human",Humidity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744535,C0020291,AFFECTS,"CD69 protein, human",Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744535,C0025594,AFFECTS,"CD69 protein, human",Meteorological Factors,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744535,C0042333,AFFECTS,"CD69 protein, human",Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744535,C3826426,AFFECTS,"CD69 protein, human",Dynamics,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C2744535,C4042908,AFFECTS,"CD69 protein, human",Seroconversion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744535,C4279909,AFFECTS,"CD69 protein, human","Shelf Life, Food",aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744579,C0005495,AFFECTS,"ATP8A2 protein, human",Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744579,C0376525,AFFECTS,"ATP8A2 protein, human",Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744579,C0459800,AFFECTS,"ATP8A2 protein, human",Vibration - physical agent,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2744579,C0596835,AFFECTS,"ATP8A2 protein, human",light emission,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2756983,C0020291,AFFECTS,Secretory Phospholipase A2,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2826044,C0442540,AFFECTS,MIR451 wt Allele,Streams,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2827433,C0005495,AFFECTS,Argonaute Proteins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C2827563,C2936412,AFFECTS,HBG1 wt Allele,Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3273837,C2717975,AFFECTS,S100B wt Allele,Virus Release,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3273937,C0522534,AFFECTS,SF3B1 wt Allele,Saturated,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3273937,C3826426,AFFECTS,SF3B1 wt Allele,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3494363,C0031164,AFFECTS,Tight Junction Proteins,Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C3538714,C0376525,AFFECTS,TTN wt Allele,Dimerization,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C3538735,C3826426,AFFECTS,AMH wt Allele,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3538738,C0376525,AFFECTS,TMEM173 wt Allele,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3538756,C0679215,AFFECTS,NLRP1 wt Allele,health and disease,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3539704,C0026597,AFFECTS,MTR wt Allele,Motion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3540252,C0162358,AFFECTS,PYURF gene,Ecosystem,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3540595,C0022702,AFFECTS,CD8A wt Allele,Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3540622,C0020291,AFFECTS,PLA2G1B wt Allele,Hydrolysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3541878,C0162524,AFFECTS,USP9X wt Allele,Chemiluminescence,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3658346,C0678610,AFFECTS,Multifunctional Enzymes,transfer reaction,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3660996,C0301630,AFFECTS,dupilumab,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3710914,C0376525,AFFECTS,"EIF2AK2 protein, human",Dimerization,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C3715044,C0301630,AFFECTS,AKR1A1 wt Allele,Reduction (chemical),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3812695,C0376525,AFFECTS,LPAR3 wt Allele,Dimerization,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3826857,C3826426,AFFECTS,Expression Quantitative Trait Locus,Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3849511,C0031164,AFFECTS,"ANGPT2 protein, human",Permeability,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C3853563,C2936413,AFFECTS,"Serine/Threonine-Protein Kinase A-Raf, Human",Host Range,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3884528,C0025594,AFFECTS,"HBEGF protein, human",Meteorological Factors,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3887659,C0017982,AFFECTS,"Purine Nucleoside Phosphorylase, human",glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3887659,C3850077,AFFECTS,"Purine Nucleoside Phosphorylase, human",Drug Liberation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3887680,C0037783,AFFECTS,Human Aminopeptidase N,Species Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3890018,C0042333,AFFECTS,HSP90B2P wt Allele,Variation (Genetics),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3890660,C1948023,AFFECTS,NRAV gene,Stimulation (motivation),aapp,npop,1,AFFECTS_AAPPafctNPOP
+C3897553,C0031164,AFFECTS,Solute Carrier Family,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4048280,C0022702,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Kinetics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4048280,C3826426,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Dynamics,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4048299,C0522534,AFFECTS,Tissue Factor,Saturated,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4084937,C0031164,AFFECTS,Antimicrobial Peptide,Permeability,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4084937,C0813987,AFFECTS,Antimicrobial Peptide,transesterification,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4277675,C0005495,AFFECTS,Perilipins,Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4281807,C0017982,AFFECTS,"Vitronectin, human",glycosylation,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4281807,C2936412,AFFECTS,"Vitronectin, human",Host Specificity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4283882,C0243052,AFFECTS,NR1I2 wt Allele,Virus Physiological Phenomena,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4284302,C0598197,AFFECTS,EHD1 wt Allele,contagion,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4284302,C3826426,AFFECTS,EHD1 wt Allele,Dynamics,aapp,npop,3,AFFECTS_AAPPafctNPOP
+C4317106,C0005495,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Origin of Life,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4317106,C0007382,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4317106,C0042784,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Viscosity,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4521273,C0028884,AFFECTS,TRAF Family Member-Associated NF-Kappa-B Activator,Odors,aapp,npop,2,AFFECTS_AAPPafctNPOP
+C4521273,C0806140,AFFECTS,TRAF Family Member-Associated NF-Kappa-B Activator,Flow,aapp,npop,1,AFFECTS_AAPPafctNPOP
+C4521302,C0007382,AFFECTS,"Angiotensin-1, human",Catalysis,aapp,npop,1,AFFECTS_AAPPafctNPOP

@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003082,C0010813,CAUSES,Anisomycin,Cytokinesis,antb,celf,1,CAUSES_ANTBcausCELF
+C0003233,C1325881,CAUSES,"Antibiotics, Aminoglycoside",biofilm formation,antb,celf,1,CAUSES_ANTBcausCELF
+C0010572,C0007587,CAUSES,Cycloheximide,Cell Death,antb,celf,1,CAUSES_ANTBcausCELF
+C0010572,C0010813,CAUSES,Cycloheximide,Cytokinesis,antb,celf,1,CAUSES_ANTBcausCELF
+C0010572,C0162638,CAUSES,Cycloheximide,Apoptosis,antb,celf,3,CAUSES_ANTBcausCELF
+C0011015,C0162638,CAUSES,Daunorubicin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C0004391,CAUSES,Doxorubicin,Autophagy,antb,celf,5,CAUSES_ANTBcausCELF
+C0013089,C0007587,CAUSES,Doxorubicin,Cell Death,antb,celf,3,CAUSES_ANTBcausCELF
+C0013089,C0007620,CAUSES,Doxorubicin,Cell Survival,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C0162638,CAUSES,Doxorubicin,Apoptosis,antb,celf,4,CAUSES_ANTBcausCELF
+C0013089,C1155229,CAUSES,Doxorubicin,Humoral immune response,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C1820119,CAUSES,Doxorubicin,Mitochondrial Degradation,antb,celf,11,CAUSES_ANTBcausCELF
+C0013089,C2611952,CAUSES,Doxorubicin,muscle cell apoptotic process,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C2611954,CAUSES,Doxorubicin,cardiac muscle cell apoptotic process,antb,celf,1,CAUSES_ANTBcausCELF
+C0013090,C1820119,CAUSES,Doxycycline,Mitochondrial Degradation,antb,celf,1,CAUSES_ANTBcausCELF
+C0016610,C1156309,CAUSES,Fosfomycin,syncytium formation by plasma membrane fusion,antb,celf,2,CAUSES_ANTBcausCELF
+C0016610,C1159455,CAUSES,Fosfomycin,syncytium formation,antb,celf,1,CAUSES_ANTBcausCELF
+C0038432,C0162638,CAUSES,Streptozocin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0052796,C0031308,CAUSES,Azithromycin,Phagocytosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0052796,C0162638,CAUSES,Azithromycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0054036,C0162638,CAUSES,Brefeldin A,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0055856,C0162638,CAUSES,Clarithromycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0061179,C0162638,CAUSES,geldanamycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0072980,C0004391,CAUSES,Sirolimus,Autophagy,antb,celf,63,CAUSES_ANTBcausCELF
+C0072980,C0037083,CAUSES,Sirolimus,Signal Transduction,antb,celf,2,CAUSES_ANTBcausCELF
+C0072980,C0042774,CAUSES,Sirolimus,Virus Replication,antb,celf,2,CAUSES_ANTBcausCELF
+C0072980,C1326207,CAUSES,Sirolimus,"Programmed Cell Death, Type II",antb,celf,1,CAUSES_ANTBcausCELF
+C0072980,C2611772,CAUSES,Sirolimus,autophagosome assembly,antb,celf,1,CAUSES_ANTBcausCELF
+C0072980,C3546483,CAUSES,Sirolimus,autolysosome formation,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C0004391,CAUSES,rosoxacin,Autophagy,antb,celf,3,CAUSES_ANTBcausCELF
+C0073591,C0007586,CAUSES,rosoxacin,Cell Cycle,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C0007587,CAUSES,rosoxacin,Cell Death,antb,celf,15,CAUSES_ANTBcausCELF
+C0073591,C0024426,CAUSES,rosoxacin,Macrophage Activation,antb,celf,2,CAUSES_ANTBcausCELF
+C0073591,C0037083,CAUSES,rosoxacin,Signal Transduction,antb,celf,2,CAUSES_ANTBcausCELF
+C0073591,C0040682,CAUSES,rosoxacin,cell transformation,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C0042774,CAUSES,rosoxacin,Virus Replication,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C0085416,CAUSES,rosoxacin,Respiratory Burst,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C0162638,CAUSES,rosoxacin,Apoptosis,antb,celf,30,CAUSES_ANTBcausCELF
+C0073591,C1327415,CAUSES,rosoxacin,interleukin-1 secretion,antb,celf,2,CAUSES_ANTBcausCELF
+C0073591,C1660771,CAUSES,rosoxacin,Apoptosis of neurons,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C1720920,CAUSES,rosoxacin,"Membrane Potential, Mitochondrial",antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C1820119,CAUSES,rosoxacin,Mitochondrial Degradation,antb,celf,1,CAUSES_ANTBcausCELF
+C0073591,C3825288,CAUSES,rosoxacin,Cellular signal transduction,antb,celf,1,CAUSES_ANTBcausCELF
+C0675974,C0162638,CAUSES,tanespimycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0878412,C0600485,CAUSES,A-23187,Acrosome Reaction,antb,celf,1,CAUSES_ANTBcausCELF
+C1451406,C0162638,CAUSES,tulathromycin,Apoptosis,antb,celf,2,CAUSES_ANTBcausCELF

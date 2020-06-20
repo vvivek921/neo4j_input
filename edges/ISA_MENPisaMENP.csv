@@ -1,0 +1,94 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002957,C0013987,ISA,Anger,Emotions,menp,menp,18,ISA_MENPisaMENP
+C0002957,C0935620,ISA,Anger,Emotional states,menp,menp,1,ISA_MENPisaMENP
+C0003808,C0025361,ISA,Arousal,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0004268,C0004448,ISA,Attention,Awareness,menp,menp,5,ISA_MENPisaMENP
+C0004268,C0009240,ISA,Attention,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0004268,C0025361,ISA,Attention,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0004268,C0030971,ISA,Attention,Perception,menp,menp,2,ISA_MENPisaMENP
+C0004268,C0234421,ISA,Attention,Conscious,menp,menp,4,ISA_MENPisaMENP
+C0004448,C0009240,ISA,Awareness,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0004448,C0030971,ISA,Awareness,Perception,menp,menp,6,ISA_MENPisaMENP
+C0004448,C0229992,ISA,Awareness,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0004448,C0234421,ISA,Awareness,Conscious,menp,menp,12,ISA_MENPisaMENP
+C0006019,C0013987,ISA,Boredom,Emotions,menp,menp,3,ISA_MENPisaMENP
+C0009242,C0009240,ISA,Cognitive Dissonance,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0010297,C0025361,ISA,Creativity,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0010297,C0229992,ISA,Creativity,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0011109,C0009240,ISA,Decision Making,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0011109,C0025361,ISA,Decision Making,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0011109,C0039869,ISA,Decision Making,"Thinking, function",menp,menp,2,ISA_MENPisaMENP
+C0013987,C0025361,ISA,Emotions,Mental Processes,menp,menp,2,ISA_MENPisaMENP
+C0015726,C0013987,ISA,Fear (Mental Process),Emotions,menp,menp,5,ISA_MENPisaMENP
+C0016770,C0013987,ISA,Frustration,Emotions,menp,menp,2,ISA_MENPisaMENP
+C0018379,C0013987,ISA,Guilt,Emotions,menp,menp,2,ISA_MENPisaMENP
+C0018592,C0013987,ISA,Happiness,Emotions,menp,menp,10,ISA_MENPisaMENP
+C0018592,C0229992,ISA,Happiness,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0018592,C0679105,ISA,Happiness,pleasurable emotion,menp,menp,1,ISA_MENPisaMENP
+C0018616,C0013987,ISA,Hate,Emotions,menp,menp,2,ISA_MENPisaMENP
+C0020913,C0009240,ISA,Imagination,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0021118,C0031208,ISA,Imprinting (Psychology),Personality,menp,menp,1,ISA_MENPisaMENP
+C0021704,C0031208,ISA,Intelligence,Personality,menp,menp,1,ISA_MENPisaMENP
+C0022423,C0009240,ISA,Judgment,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0023013,C0009240,ISA,Language Development,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0024028,C0013987,ISA,Love,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0025260,C0009240,ISA,Memory,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0025260,C0563143,ISA,Memory,Mental function,menp,menp,1,ISA_MENPisaMENP
+C0025265,C0025260,ISA,"Memory, Short-Term",Memory,menp,menp,1,ISA_MENPisaMENP
+C0030971,C0229992,ISA,Perception,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0033363,C0004083,ISA,Projection Defense Mechanism,Mental association,menp,menp,1,ISA_MENPisaMENP
+C0034770,C0229992,ISA,Mental Recall,Psyche structure,menp,menp,2,ISA_MENPisaMENP
+C0036938,C0013987,ISA,Shame,Emotions,menp,menp,4,ISA_MENPisaMENP
+C0036938,C0018379,ISA,Shame,Guilt,menp,menp,1,ISA_MENPisaMENP
+C0039869,C0009240,ISA,"Thinking, function",Cognition,menp,menp,1,ISA_MENPisaMENP
+C0039869,C0025361,ISA,"Thinking, function",Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0039869,C0229992,ISA,"Thinking, function",Psyche structure,menp,menp,2,ISA_MENPisaMENP
+C0043012,C0003808,ISA,Wakefulness,Arousal,menp,menp,1,ISA_MENPisaMENP
+C0043012,C0004268,ISA,Wakefulness,Attention,menp,menp,5,ISA_MENPisaMENP
+C0043012,C0004448,ISA,Wakefulness,Awareness,menp,menp,3,ISA_MENPisaMENP
+C0080101,C0013987,ISA,Regret,Emotions,menp,menp,5,ISA_MENPisaMENP
+C0086045,C0004268,ISA,Mental concentration,Attention,menp,menp,6,ISA_MENPisaMENP
+C0086045,C0004448,ISA,Mental concentration,Awareness,menp,menp,5,ISA_MENPisaMENP
+C0150035,C0018235,ISA,Anticipatory grief,Grief reaction,menp,menp,1,ISA_MENPisaMENP
+C0150277,C0229992,ISA,meditation,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0175631,C0009240,ISA,Imagery,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0175631,C0030971,ISA,Imagery,Perception,menp,menp,1,ISA_MENPisaMENP
+C0175631,C0039869,ISA,Imagery,"Thinking, function",menp,menp,2,ISA_MENPisaMENP
+C0233495,C0013987,ISA,Feeling mixed emotions,Emotions,menp,menp,3,ISA_MENPisaMENP
+C0233496,C0013987,ISA,Aversion (finding),Emotions,menp,menp,1,ISA_MENPisaMENP
+C0233820,C0023185,ISA,Insight,Learning,menp,menp,1,ISA_MENPisaMENP
+C0233820,C0039869,ISA,Insight,"Thinking, function",menp,menp,1,ISA_MENPisaMENP
+C0234421,C0009240,ISA,Conscious,Cognition,menp,menp,2,ISA_MENPisaMENP
+C0237428,C0004271,ISA,Optimism,Attitude,menp,menp,1,ISA_MENPisaMENP
+C0237428,C0013987,ISA,Optimism,Emotions,menp,menp,4,ISA_MENPisaMENP
+C0237428,C0031208,ISA,Optimism,Personality,menp,menp,2,ISA_MENPisaMENP
+C0237607,C0023185,ISA,Practice Experience,Learning,menp,menp,1,ISA_MENPisaMENP
+C0237607,C0596545,ISA,Practice Experience,Experience,menp,menp,3,ISA_MENPisaMENP
+C0242428,C0004271,ISA,Satisfaction,Attitude,menp,menp,1,ISA_MENPisaMENP
+C0242428,C0013987,ISA,Satisfaction,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0242498,C0030971,ISA,Self-Perception,Perception,menp,menp,1,ISA_MENPisaMENP
+C0392347,C0013987,ISA,Hope (emotion),Emotions,menp,menp,1,ISA_MENPisaMENP
+C0424134,C0004271,ISA,Pessimism,Attitude,menp,menp,2,ISA_MENPisaMENP
+C0459920,C0039869,ISA,Abstract thinking ability,"Thinking, function",menp,menp,3,ISA_MENPisaMENP
+C0459920,C0229992,ISA,Abstract thinking ability,Psyche structure,menp,menp,2,ISA_MENPisaMENP
+C0543488,C0026605,ISA,Interested,Motivation,menp,menp,6,ISA_MENPisaMENP
+C0561843,C0025260,ISA,"Memory, Episodic",Memory,menp,menp,1,ISA_MENPisaMENP
+C0596130,C0030971,ISA,attribution,Perception,menp,menp,1,ISA_MENPisaMENP
+C0596545,C0023185,ISA,Experience,Learning,menp,menp,1,ISA_MENPisaMENP
+C0596545,C0229992,ISA,Experience,Psyche structure,menp,menp,2,ISA_MENPisaMENP
+C0600564,C0004271,ISA,Self Efficacy,Attitude,menp,menp,3,ISA_MENPisaMENP
+C0600564,C0030971,ISA,Self Efficacy,Perception,menp,menp,30,ISA_MENPisaMENP
+C0679082,C0679199,ISA,Social Learning,strategy,menp,menp,1,ISA_MENPisaMENP
+C0679106,C0013987,ISA,anticipation,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0679106,C0229992,ISA,anticipation,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0679201,C0684328,ISA,Inference,Reasoning,menp,menp,7,ISA_MENPisaMENP
+C0683283,C0013987,ISA,disgust,Emotions,menp,menp,3,ISA_MENPisaMENP
+C0683287,C0013987,ISA,sympathy,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0684328,C0039869,ISA,Reasoning,"Thinking, function",menp,menp,3,ISA_MENPisaMENP
+C0684328,C0229992,ISA,Reasoning,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0870186,C0025361,ISA,avoidance,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0870427,C0013987,ISA,disappointment,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0870444,C0013987,ISA,doubt,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0935584,C0009240,ISA,Executive Function,Cognition,menp,menp,1,ISA_MENPisaMENP
+C2936631,C0030971,ISA,Diagnostic Self Evaluation,Perception,menp,menp,2,ISA_MENPisaMENP
+C3536794,C0013987,ISA,Sad mood,Emotions,menp,menp,10,ISA_MENPisaMENP

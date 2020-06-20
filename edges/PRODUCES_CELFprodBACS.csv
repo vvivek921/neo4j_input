@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003272,C0008013,PRODUCES,Antibody-Dependent Cellular Cytotoxicity,Chemotactic Factors,celf,bacs,1,PRODUCES_CELFprodBACS
+C0007582,C0162772,PRODUCES,Cell Communication,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C0007587,C0162772,PRODUCES,Cell Death,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C0007595,C0064582,PRODUCES,cell growth,Lactic acid,celf,bacs,2,PRODUCES_CELFprodBACS
+C0007613,C0040549,PRODUCES,Cell physiology,Toxin,celf,bacs,1,PRODUCES_CELFprodBACS
+C0007620,C0028128,PRODUCES,Cell Survival,Nitric Oxide,celf,bacs,1,PRODUCES_CELFprodBACS
+C0008018,C0162772,PRODUCES,Chemotaxis,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C0010813,C0028606,PRODUCES,Cytokinesis,Nucleic Acids,celf,bacs,1,PRODUCES_CELFprodBACS
+C0010813,C0035142,PRODUCES,Cytokinesis,Replicon,celf,bacs,1,PRODUCES_CELFprodBACS
+C0010813,C0035682,PRODUCES,Cytokinesis,RNA Precursors,celf,bacs,2,PRODUCES_CELFprodBACS
+C0010813,C0035693,PRODUCES,Cytokinesis,"RNA, Double-Stranded",celf,bacs,2,PRODUCES_CELFprodBACS
+C0010813,C0035696,PRODUCES,Cytokinesis,"RNA, Messenger",celf,bacs,1,PRODUCES_CELFprodBACS
+C0010813,C0035701,PRODUCES,Cytokinesis,Ribosomal RNA,celf,bacs,2,PRODUCES_CELFprodBACS
+C0010813,C0040549,PRODUCES,Cytokinesis,Toxin,celf,bacs,2,PRODUCES_CELFprodBACS
+C0010813,C0056912,PRODUCES,Cytokinesis,cytidylyl-3'-5'-guanosine,celf,bacs,1,PRODUCES_CELFprodBACS
+C0010813,C1099354,PRODUCES,Cytokinesis,"RNA, Small Interfering",celf,bacs,10,PRODUCES_CELFprodBACS
+C0010813,C1101610,PRODUCES,Cytokinesis,MicroRNAs,celf,bacs,2,PRODUCES_CELFprodBACS
+C0010813,C1136170,PRODUCES,Cytokinesis,Virulence Factors,celf,bacs,1,PRODUCES_CELFprodBACS
+C0014139,C0028606,PRODUCES,Endocytosis,Nucleic Acids,celf,bacs,1,PRODUCES_CELFprodBACS
+C0031308,C0012854,PRODUCES,Phagocytosis,DNA,celf,bacs,1,PRODUCES_CELFprodBACS
+C0031308,C0019053,PRODUCES,Phagocytosis,Hemolysin,celf,bacs,1,PRODUCES_CELFprodBACS
+C0031308,C0028128,PRODUCES,Phagocytosis,Nitric Oxide,celf,bacs,3,PRODUCES_CELFprodBACS
+C0031308,C0028158,PRODUCES,Phagocytosis,Nitrogen,celf,bacs,1,PRODUCES_CELFprodBACS
+C0031308,C0030054,PRODUCES,Phagocytosis,Oxygen,celf,bacs,1,PRODUCES_CELFprodBACS
+C0031308,C0162772,PRODUCES,Phagocytosis,Reactive Oxygen Species,celf,bacs,4,PRODUCES_CELFprodBACS
+C0031308,C0178645,PRODUCES,Phagocytosis,oxygen free radical,celf,bacs,1,PRODUCES_CELFprodBACS
+C0031945,C0162772,PRODUCES,Pinocytosis,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C0032176,C0019588,PRODUCES,Platelet aggregation,Histamine,celf,bacs,1,PRODUCES_CELFprodBACS
+C0032176,C0036751,PRODUCES,Platelet aggregation,Serotonin,celf,bacs,1,PRODUCES_CELFprodBACS
+C0037083,C0599745,PRODUCES,Signal Transduction,lipid mediator,celf,bacs,1,PRODUCES_CELFprodBACS
+C0042774,C0035693,PRODUCES,Virus Replication,"RNA, Double-Stranded",celf,bacs,7,PRODUCES_CELFprodBACS
+C0042774,C0082774,PRODUCES,Virus Replication,"RNA, Guide",celf,bacs,1,PRODUCES_CELFprodBACS
+C0085416,C0162772,PRODUCES,Respiratory Burst,Reactive Oxygen Species,celf,bacs,2,PRODUCES_CELFprodBACS
+C0085416,C0969698,PRODUCES,Respiratory Burst,Reactive Nitrogen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C0162638,C0001480,PRODUCES,Apoptosis,Adenosine Triphosphate,celf,bacs,1,PRODUCES_CELFprodBACS
+C0162638,C0012854,PRODUCES,Apoptosis,DNA,celf,bacs,2,PRODUCES_CELFprodBACS
+C0162638,C0012929,PRODUCES,Apoptosis,"DNA, Mitochondrial",celf,bacs,1,PRODUCES_CELFprodBACS
+C0162638,C0017725,PRODUCES,Apoptosis,Glucose,celf,bacs,1,PRODUCES_CELFprodBACS
+C0162638,C0028128,PRODUCES,Apoptosis,Nitric Oxide,celf,bacs,2,PRODUCES_CELFprodBACS
+C0162638,C0040549,PRODUCES,Apoptosis,Toxin,celf,bacs,1,PRODUCES_CELFprodBACS
+C0162638,C0162772,PRODUCES,Apoptosis,Reactive Oxygen Species,celf,bacs,2,PRODUCES_CELFprodBACS
+C0282636,C0007012,PRODUCES,Cell Respiration,Carbon Dioxide,celf,bacs,1,PRODUCES_CELFprodBACS
+C0282636,C0023545,PRODUCES,Cell Respiration,Leukotrienes,celf,bacs,1,PRODUCES_CELFprodBACS
+C0596898,C0008377,PRODUCES,membrane biogenesis,Cholesterol,celf,bacs,1,PRODUCES_CELFprodBACS
+C0599952,C1101610,PRODUCES,modulation by virus of host morphology or physiology,MicroRNAs,celf,bacs,1,PRODUCES_CELFprodBACS
+C0678851,C0162772,PRODUCES,mitochondrial transport,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C0949629,C0028128,PRODUCES,Bystander Effect,Nitric Oxide,celf,bacs,1,PRODUCES_CELFprodBACS
+C0949629,C0136157,PRODUCES,Bystander Effect,Peroxynitrite,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155003,C0012854,PRODUCES,B-Cell Activation,DNA,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155065,C1519315,PRODUCES,T-Cell Activation,Signaling Molecule,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155074,C0162772,PRODUCES,mast cell activation,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155229,C0028128,PRODUCES,Humoral immune response,Nitric Oxide,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155263,C0028128,PRODUCES,T-helper 2 type immune response,Nitric Oxide,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155342,C0025196,PRODUCES,cellular response to unfolded protein,Melanins,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155873,C0162772,PRODUCES,Cell Cycle Arrest,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C1155874,C0000545,PRODUCES,Cell Cycle Checkpoints,Eicosapentaenoic Acid,celf,bacs,1,PRODUCES_CELFprodBACS
+C1157569,C0887859,PRODUCES,viral translation,Intergenic Region,celf,bacs,1,PRODUCES_CELFprodBACS
+C1157855,C0075301,PRODUCES,cell wall macromolecule catabolic process,streptolysin O,celf,bacs,1,PRODUCES_CELFprodBACS
+C1159342,C0017950,PRODUCES,Secretory Pathway,Glycolipids,celf,bacs,1,PRODUCES_CELFprodBACS
+C1159527,C0017725,PRODUCES,glucose uptake,Glucose,celf,bacs,1,PRODUCES_CELFprodBACS
+C1159527,C0162772,PRODUCES,glucose uptake,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C1325881,C0034211,PRODUCES,biofilm formation,Pyocyanine,celf,bacs,1,PRODUCES_CELFprodBACS
+C1325881,C1136170,PRODUCES,biofilm formation,Virulence Factors,celf,bacs,1,PRODUCES_CELFprodBACS
+C1326347,C0162772,PRODUCES,fibroblast proliferation,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C1326474,C0006675,PRODUCES,vesicle fusion,Calcium,celf,bacs,1,PRODUCES_CELFprodBACS
+C1327616,C0010868,PRODUCES,Cell secretion,Cytotoxin,celf,bacs,1,PRODUCES_CELFprodBACS
+C1327616,C0017725,PRODUCES,Cell secretion,Glucose,celf,bacs,1,PRODUCES_CELFprodBACS
+C1327616,C0030054,PRODUCES,Cell secretion,Oxygen,celf,bacs,1,PRODUCES_CELFprodBACS
+C1516022,C0023546,PRODUCES,Antimicrobial Effect,Leukotriene B4,celf,bacs,1,PRODUCES_CELFprodBACS
+C1523298,C1519315,PRODUCES,epithelial to mesenchymal transition,Signaling Molecule,celf,bacs,1,PRODUCES_CELFprodBACS
+C1523305,C0162772,PRODUCES,phagolysosome assembly,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C1622844,C0162772,PRODUCES,eosinophil degranulation,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C1660642,C0035701,PRODUCES,cellular localization,Ribosomal RNA,celf,bacs,1,PRODUCES_CELFprodBACS
+C1720920,C0162772,PRODUCES,"Membrane Potential, Mitochondrial",Reactive Oxygen Species,celf,bacs,3,PRODUCES_CELFprodBACS
+C2610947,C0162772,PRODUCES,mucus secretion,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C2611812,C0033567,PRODUCES,signaling cascade,Epoprostenol,celf,bacs,1,PRODUCES_CELFprodBACS
+C3158983,C0162772,PRODUCES,mitochondrial permeability transition,Reactive Oxygen Species,celf,bacs,1,PRODUCES_CELFprodBACS
+C3820816,C0028128,PRODUCES,quiescence,Nitric Oxide,celf,bacs,1,PRODUCES_CELFprodBACS

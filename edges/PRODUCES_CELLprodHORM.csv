@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007600,C0012472,PRODUCES,Cultured Cell Line,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0007600,C0033554,PRODUCES,Cultured Cell Line,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0011306,C0033554,PRODUCES,Dendritic Cells,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0014597,C0012472,PRODUCES,Epithelial Cells,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0016030,C0723595,PRODUCES,Fibroblasts,Tace,cell,horm,1,PRODUCES_CELLprodHORM
+C0017471,C0002844,PRODUCES,Germ Cells,Androgens,cell,horm,1,PRODUCES_CELLprodHORM
+C0018207,C0033308,PRODUCES,granulosa cell,Progesterone,cell,horm,1,PRODUCES_CELLprodHORM
+C0022801,C0033554,PRODUCES,Hepatic macrophage,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0023602,C0002844,PRODUCES,Structure of interstitial cell of Leydig,Androgens,cell,horm,1,PRODUCES_CELLprodHORM
+C0023602,C0039601,PRODUCES,Structure of interstitial cell of Leydig,Testosterone,cell,horm,6,PRODUCES_CELLprodHORM
+C0024156,C0033308,PRODUCES,Luteal Cells,Progesterone,cell,horm,1,PRODUCES_CELLprodHORM
+C0024432,C0010124,PRODUCES,macrophage,Corticosterone,cell,horm,1,PRODUCES_CELLprodHORM
+C0024432,C0012472,PRODUCES,macrophage,Dinoprostone,cell,horm,7,PRODUCES_CELLprodHORM
+C0024432,C0039601,PRODUCES,macrophage,Testosterone,cell,horm,1,PRODUCES_CELLprodHORM
+C0026473,C0012472,PRODUCES,Monocytes,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0026473,C0033554,PRODUCES,Monocytes,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0027836,C0033554,PRODUCES,Neuroglia,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0027950,C0012472,PRODUCES,neutrophil,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0029974,C0014939,PRODUCES,Ovum,Estrogens,cell,horm,1,PRODUCES_CELLprodHORM
+C0029974,C0033308,PRODUCES,Ovum,Progesterone,cell,horm,1,PRODUCES_CELLprodHORM
+C0031307,C0033554,PRODUCES,Phagocytes,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0036387,C0012472,PRODUCES,Schwann Cells,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0036770,C0039601,PRODUCES,Structure of sertoli cell,Testosterone,cell,horm,1,PRODUCES_CELLprodHORM
+C0037868,C0012471,PRODUCES,sperm cell,Dinoprost,cell,horm,1,PRODUCES_CELLprodHORM
+C0037868,C0012472,PRODUCES,sperm cell,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0039194,C0012472,PRODUCES,T-Lymphocyte,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0206116,C0012472,PRODUCES,Microglia,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0206131,C0002006,PRODUCES,Adipocytes,Aldosterone,cell,horm,3,PRODUCES_CELLprodHORM
+C0206190,C0012472,PRODUCES,"Macrophages, Peritoneal",Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0225336,C0033554,PRODUCES,Endothelial Cells,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C0334227,C0012472,PRODUCES,"Tumor cells, malignant",Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C0440752,C0682762,PRODUCES,Inflammatory cell,pregnancy hormones,cell,horm,1,PRODUCES_CELLprodHORM
+C0597032,C0036884,PRODUCES,Neoplastic Cell,Gonadal Steroid Hormones,cell,horm,1,PRODUCES_CELLprodHORM
+C0920751,C0723595,PRODUCES,Heart cell,Tace,cell,horm,1,PRODUCES_CELLprodHORM
+C1135969,C0014912,PRODUCES,Large Luteal Cells,Estradiol,cell,horm,1,PRODUCES_CELLprodHORM
+C1519221,C0449838,PRODUCES,Secretory cell,Hormone secreted,cell,horm,1,PRODUCES_CELLprodHORM
+C1711178,C0012472,PRODUCES,Bronchial Epithelial Cell,Dinoprostone,cell,horm,3,PRODUCES_CELLprodHORM
+C4042840,C0012472,PRODUCES,RAW 264.7 Cells,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM
+C4042840,C0033554,PRODUCES,RAW 264.7 Cells,Prostaglandins,cell,horm,1,PRODUCES_CELLprodHORM
+C4330475,C0002844,PRODUCES,Immune Cell,Androgens,cell,horm,1,PRODUCES_CELLprodHORM
+C4330475,C0012472,PRODUCES,Immune Cell,Dinoprostone,cell,horm,1,PRODUCES_CELLprodHORM

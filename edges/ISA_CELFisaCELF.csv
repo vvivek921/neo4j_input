@@ -1,0 +1,143 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003272,C0301896,ISA,Antibody-Dependent Cellular Cytotoxicity,Cell-Mediated Cytolysis,celf,celf,5,ISA_CELFisaCELF
+C0004391,C0007587,ISA,Autophagy,Cell Death,celf,celf,10,ISA_CELFisaCELF
+C0004391,C0007613,ISA,Autophagy,Cell physiology,celf,celf,40,ISA_CELFisaCELF
+C0004391,C0014139,ISA,Autophagy,Endocytosis,celf,celf,1,ISA_CELFisaCELF
+C0004391,C0031308,ISA,Autophagy,Phagocytosis,celf,celf,2,ISA_CELFisaCELF
+C0004391,C1524026,ISA,Autophagy,"Metabolic Process, Cellular",celf,celf,2,ISA_CELFisaCELF
+C0007577,C0007582,ISA,Cell Adhesion,Cell Communication,celf,celf,2,ISA_CELFisaCELF
+C0007577,C0007613,ISA,Cell Adhesion,Cell physiology,celf,celf,5,ISA_CELFisaCELF
+C0007586,C0007613,ISA,Cell Cycle,Cell physiology,celf,celf,7,ISA_CELFisaCELF
+C0007587,C0007613,ISA,Cell Death,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C0007589,C0007613,ISA,Cell Differentiation process,Cell physiology,celf,celf,5,ISA_CELFisaCELF
+C0007590,C0007586,ISA,Cell division,Cell Cycle,celf,celf,1,ISA_CELFisaCELF
+C0007590,C0007613,ISA,Cell division,Cell physiology,celf,celf,4,ISA_CELFisaCELF
+C0007595,C0007613,ISA,cell growth,Cell physiology,celf,celf,10,ISA_CELFisaCELF
+C0007620,C0007613,ISA,Cell Survival,Cell physiology,celf,celf,3,ISA_CELFisaCELF
+C0007620,C1516362,ISA,Cell Survival,Cell Viability Process,celf,celf,1,ISA_CELFisaCELF
+C0008018,C0007613,ISA,Chemotaxis,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C0008018,C1622501,ISA,Chemotaxis,"Migration, Cell",celf,celf,1,ISA_CELFisaCELF
+C0010813,C0007590,ISA,Cytokinesis,Cell division,celf,celf,2,ISA_CELFisaCELF
+C0010813,C0007613,ISA,Cytokinesis,Cell physiology,celf,celf,3,ISA_CELFisaCELF
+C0010813,C0026255,ISA,Cytokinesis,Mitosis,celf,celf,1,ISA_CELFisaCELF
+C0010813,C1155789,ISA,Cytokinesis,nuclear division,celf,celf,1,ISA_CELFisaCELF
+C0014139,C0007613,ISA,Endocytosis,Cell physiology,celf,celf,7,ISA_CELFisaCELF
+C0014139,C1325417,ISA,Endocytosis,vesicle-mediated transport,celf,celf,1,ISA_CELFisaCELF
+C0015283,C1327616,ISA,Exocytosis,Cell secretion,celf,celf,4,ISA_CELFisaCELF
+C0025186,C0007590,ISA,Meiosis,Cell division,celf,celf,2,ISA_CELFisaCELF
+C0026255,C0007590,ISA,Mitosis,Cell division,celf,celf,2,ISA_CELFisaCELF
+C0026255,C0007591,ISA,Mitosis,Cell division phases,celf,celf,1,ISA_CELFisaCELF
+C0026255,C0007613,ISA,Mitosis,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C0026255,C1516337,ISA,Mitosis,Cell Cycle Phase,celf,celf,1,ISA_CELFisaCELF
+C0027793,C0007613,ISA,Synaptic Transmission,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C0031308,C0007613,ISA,Phagocytosis,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C0031308,C0014139,ISA,Phagocytosis,Endocytosis,celf,celf,8,ISA_CELFisaCELF
+C0031945,C0014139,ISA,Pinocytosis,Endocytosis,celf,celf,3,ISA_CELFisaCELF
+C0037083,C0007582,ISA,Signal Transduction,Cell Communication,celf,celf,2,ISA_CELFisaCELF
+C0037083,C0007613,ISA,Signal Transduction,Cell physiology,celf,celf,20,ISA_CELFisaCELF
+C0162638,C0007587,ISA,Apoptosis,Cell Death,celf,celf,72,ISA_CELFisaCELF
+C0162638,C0007613,ISA,Apoptosis,Cell physiology,celf,celf,28,ISA_CELFisaCELF
+C0162638,C3268855,ISA,Apoptosis,cell suicide,celf,celf,6,ISA_CELFisaCELF
+C0162638,C3546446,ISA,Apoptosis,regulated cell death,celf,celf,1,ISA_CELFisaCELF
+C0282636,C0007613,ISA,Cell Respiration,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C0312861,C0312860,ISA,Neutrophil chemotaxis,"Neutrophil migration, function",celf,celf,1,ISA_CELFisaCELF
+C0333904,C1155631,ISA,Karyopyknosis,Chromosome Condensation,celf,celf,1,ISA_CELFisaCELF
+C0596290,C0007613,ISA,Cell Proliferation,Cell physiology,celf,celf,14,ISA_CELFisaCELF
+C0596873,C0596290,ISA,lymphocyte proliferation,Cell Proliferation,celf,celf,1,ISA_CELFisaCELF
+C0597601,C1325417,ISA,Transcytosis,vesicle-mediated transport,celf,celf,1,ISA_CELFisaCELF
+C0598948,C0007613,ISA,axonal guidance,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C0598952,C0007613,ISA,anterograde transport,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C0599814,C0007613,ISA,Intracellular Transport,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C0600431,C0037083,ISA,Calcium Signaling,Signal Transduction,celf,celf,1,ISA_CELFisaCELF
+C0815089,C0007613,ISA,Cell development,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C0872070,C0007613,ISA,nucleocytoplasmic transport,Cell physiology,celf,celf,3,ISA_CELFisaCELF
+C0872097,C0007587,ISA,Anoikis,Cell Death,celf,celf,2,ISA_CELFisaCELF
+C0872097,C0162638,ISA,Anoikis,Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C1154599,C0007582,ISA,quorum sensing,Cell Communication,celf,celf,1,ISA_CELFisaCELF
+C1155013,C0206431,ISA,T cell differentiation,Antigen Presentation,celf,celf,1,ISA_CELFisaCELF
+C1155046,C1155065,ISA,T-Cell Proliferation,T-Cell Activation,celf,celf,1,ISA_CELFisaCELF
+C1155046,C1326120,ISA,T-Cell Proliferation,cell activation,celf,celf,1,ISA_CELFisaCELF
+C1155065,C0007582,ISA,T-Cell Activation,Cell Communication,celf,celf,1,ISA_CELFisaCELF
+C1155065,C0007613,ISA,T-Cell Activation,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C1155065,C0206431,ISA,T-Cell Activation,Antigen Presentation,celf,celf,5,ISA_CELFisaCELF
+C1155604,C0004391,ISA,macroautophagy,Autophagy,celf,celf,2,ISA_CELFisaCELF
+C1155711,C0596290,ISA,Stem Cell Self-Renewal,Cell Proliferation,celf,celf,1,ISA_CELFisaCELF
+C1155748,C1155874,ISA,Mitotic Checkpoints,Cell Cycle Checkpoints,celf,celf,1,ISA_CELFisaCELF
+C1155872,C0007613,ISA,Cell Cycle Control,Cell physiology,celf,celf,7,ISA_CELFisaCELF
+C1155872,C0596290,ISA,Cell Cycle Control,Cell Proliferation,celf,celf,1,ISA_CELFisaCELF
+C1155873,C0007586,ISA,Cell Cycle Arrest,Cell Cycle,celf,celf,1,ISA_CELFisaCELF
+C1155873,C0007590,ISA,Cell Cycle Arrest,Cell division,celf,celf,1,ISA_CELFisaCELF
+C1155874,C0007586,ISA,Cell Cycle Checkpoints,Cell Cycle,celf,celf,3,ISA_CELFisaCELF
+C1155874,C0596290,ISA,Cell Cycle Checkpoints,Cell Proliferation,celf,celf,1,ISA_CELFisaCELF
+C1156067,C0007613,ISA,Mitochondrial Fusion,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C1156086,C0004391,ISA,pexophagy,Autophagy,celf,celf,2,ISA_CELFisaCELF
+C1156140,C1818645,ISA,ribosome biogenesis,ribonucleoprotein complex biogenesis,celf,celf,1,ISA_CELFisaCELF
+C1156273,C2262731,ISA,iron ion homeostasis,metal ion homeostasis,celf,celf,1,ISA_CELFisaCELF
+C1156309,C1159455,ISA,syncytium formation by plasma membrane fusion,syncytium formation,celf,celf,2,ISA_CELFisaCELF
+C1159339,C0007613,ISA,Protein Secretion,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C1159339,C1327616,ISA,Protein Secretion,Cell secretion,celf,celf,1,ISA_CELFisaCELF
+C1159762,C0031308,ISA,opsonization,Phagocytosis,celf,celf,6,ISA_CELFisaCELF
+C1160698,C0014139,ISA,viral budding,Endocytosis,celf,celf,1,ISA_CELFisaCELF
+C1326205,C0007587,ISA,Positive Regulation of Apoptosis,Cell Death,celf,celf,1,ISA_CELFisaCELF
+C1326207,C0004391,ISA,"Programmed Cell Death, Type II",Autophagy,celf,celf,2,ISA_CELFisaCELF
+C1326207,C0007587,ISA,"Programmed Cell Death, Type II",Cell Death,celf,celf,3,ISA_CELFisaCELF
+C1326207,C0162638,ISA,"Programmed Cell Death, Type II",Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C1326243,C0014139,ISA,clathrin coat assembly,Endocytosis,celf,celf,1,ISA_CELFisaCELF
+C1327543,C0008018,ISA,positive chemotaxis,Chemotaxis,celf,celf,1,ISA_CELFisaCELF
+C1327616,C0007613,ISA,Cell secretion,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C1327616,C1519624,ISA,Cell secretion,Transmembrane Transport,celf,celf,1,ISA_CELFisaCELF
+C1512772,C0007587,ISA,Negative Regulation of Apoptosis,Cell Death,celf,celf,2,ISA_CELFisaCELF
+C1512772,C0162638,ISA,Negative Regulation of Apoptosis,Apoptosis,celf,celf,2,ISA_CELFisaCELF
+C1516334,C0007586,ISA,Cell Cycle Progression,Cell Cycle,celf,celf,1,ISA_CELFisaCELF
+C1516334,C0007613,ISA,Cell Cycle Progression,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C1516334,C0596290,ISA,Cell Cycle Progression,Cell Proliferation,celf,celf,2,ISA_CELFisaCELF
+C1516337,C0007586,ISA,Cell Cycle Phase,Cell Cycle,celf,celf,1,ISA_CELFisaCELF
+C1523908,C0031308,ISA,apoptotic cell clearance,Phagocytosis,celf,celf,3,ISA_CELFisaCELF
+C1523935,C0004391,ISA,cellular catabolic process,Autophagy,celf,celf,4,ISA_CELFisaCELF
+C1523944,C0004391,ISA,cellular protein catabolic process,Autophagy,celf,celf,1,ISA_CELFisaCELF
+C1621812,C0007590,ISA,Metaphase,Cell division,celf,celf,1,ISA_CELFisaCELF
+C1621812,C0025186,ISA,Metaphase,Meiosis,celf,celf,1,ISA_CELFisaCELF
+C1622501,C0007613,ISA,"Migration, Cell",Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C1622858,C0162638,ISA,apoptosis signaling,Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C1658773,C0007613,ISA,centrosome duplication,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C1660771,C0162638,ISA,Apoptosis of neurons,Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C1709317,C0007587,ISA,Oncosis,Cell Death,celf,celf,1,ISA_CELFisaCELF
+C1752930,C0596290,ISA,mitogenic activity,Cell Proliferation,celf,celf,1,ISA_CELFisaCELF
+C1817588,C0014139,ISA,membrane invagination,Endocytosis,celf,celf,1,ISA_CELFisaCELF
+C1820119,C0004391,ISA,Mitochondrial Degradation,Autophagy,celf,celf,13,ISA_CELFisaCELF
+C1820119,C0007613,ISA,Mitochondrial Degradation,Cell physiology,celf,celf,3,ISA_CELFisaCELF
+C1820119,C3494455,ISA,Mitochondrial Degradation,Mitochondrial Turnover,celf,celf,1,ISA_CELFisaCELF
+C2244223,C0007613,ISA,cellular homeostasis,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C2610698,C0007587,ISA,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,Cell Death,celf,celf,1,ISA_CELFisaCELF
+C2610958,C0007587,ISA,necroptotic process,Cell Death,celf,celf,9,ISA_CELFisaCELF
+C2610958,C0162638,ISA,necroptotic process,Apoptosis,celf,celf,9,ISA_CELFisaCELF
+C2610958,C3546254,ISA,necroptotic process,regulated necrosis,celf,celf,1,ISA_CELFisaCELF
+C2610958,C3546313,ISA,necroptotic process,programmed necrotic cell death,celf,celf,4,ISA_CELFisaCELF
+C2610960,C0007587,ISA,Pyroptosis,Cell Death,celf,celf,11,ISA_CELFisaCELF
+C2610960,C0162638,ISA,Pyroptosis,Apoptosis,celf,celf,5,ISA_CELFisaCELF
+C2611772,C0004391,ISA,autophagosome assembly,Autophagy,celf,celf,5,ISA_CELFisaCELF
+C2611772,C0007613,ISA,autophagosome assembly,Cell physiology,celf,celf,2,ISA_CELFisaCELF
+C2611812,C0037083,ISA,signaling cascade,Signal Transduction,celf,celf,2,ISA_CELFisaCELF
+C2936268,C0031308,ISA,Cytophagocytosis,Phagocytosis,celf,celf,1,ISA_CELFisaCELF
+C2984268,C1622501,ISA,Axon Guidance,"Migration, Cell",celf,celf,1,ISA_CELFisaCELF
+C3156642,C0014139,ISA,clathrin-dependent endocytosis,Endocytosis,celf,celf,6,ISA_CELFisaCELF
+C3156642,C0597361,ISA,clathrin-dependent endocytosis,Receptor Mediated Endocytosis,celf,celf,2,ISA_CELFisaCELF
+C3156643,C0014139,ISA,caveolin-mediated endocytosis,Endocytosis,celf,celf,2,ISA_CELFisaCELF
+C3156643,C0597361,ISA,caveolin-mediated endocytosis,Receptor Mediated Endocytosis,celf,celf,1,ISA_CELFisaCELF
+C3156756,C0007613,ISA,lymphocyte migration,Cell physiology,celf,celf,1,ISA_CELFisaCELF
+C3158983,C3158980,ISA,mitochondrial permeability transition,positive regulation of mitochondrial membrane permeability,celf,celf,2,ISA_CELFisaCELF
+C3269135,C0162638,ISA,apoptotic signaling pathway,Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C3269137,C0162638,ISA,death receptor-mediated apoptosis,Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C3271453,C0004391,ISA,aggrephagy,Autophagy,celf,celf,2,ISA_CELFisaCELF
+C3271950,C0031945,ISA,micropinocytosis,Pinocytosis,celf,celf,1,ISA_CELFisaCELF
+C3271951,C0014139,ISA,macropinocytosis,Endocytosis,celf,celf,9,ISA_CELFisaCELF
+C3548489,C0004391,ISA,autophagosome maturation,Autophagy,celf,celf,1,ISA_CELFisaCELF
+C3820986,C0007587,ISA,TNF-induced necroptosis,Cell Death,celf,celf,1,ISA_CELFisaCELF
+C3890362,C0004391,ISA,chaperone-mediated autophagy,Autophagy,celf,celf,1,ISA_CELFisaCELF
+C3895894,C0162638,ISA,epithelial cell apoptotic process,Apoptosis,celf,celf,1,ISA_CELFisaCELF
+C4236609,C0007582,ISA,synaptic signaling,Cell Communication,celf,celf,1,ISA_CELFisaCELF
+C4236733,C0004391,ISA,xenophagy,Autophagy,celf,celf,8,ISA_CELFisaCELF
+C4236737,C0007587,ISA,ferroptosis,Cell Death,celf,celf,4,ISA_CELFisaCELF
+C4236737,C3546446,ISA,ferroptosis,regulated cell death,celf,celf,1,ISA_CELFisaCELF
+C4236836,C0004391,ISA,lipophagy,Autophagy,celf,celf,5,ISA_CELFisaCELF
+C4236851,C0004391,ISA,reticulophagy,Autophagy,celf,celf,1,ISA_CELFisaCELF

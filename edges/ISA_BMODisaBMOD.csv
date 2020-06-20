@@ -1,0 +1,44 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002346,C1879848,ISA,Alternative Medicine,Biomedicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0005574,C1879848,ISA,Biotechnology,Biomedicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0008003,C0031330,ISA,"Chemistry, Pharmaceutical",Pharmacology,bmod,bmod,1,ISA_BMODisaBMOD
+C0014507,C1879848,ISA,Epidemiology,Biomedicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0020405,C0033909,ISA,Hygiene,Psychology,bmod,bmod,1,ISA_BMODisaBMOD
+C0025122,C0025131,ISA,"Medicine, Ayurvedic","Medicine, Traditional",bmod,bmod,4,ISA_BMODisaBMOD
+C0025122,C1879848,ISA,"Medicine, Ayurvedic",Biomedicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0025124,C0025131,ISA,Traditional Chinese Medicine,"Medicine, Traditional",bmod,bmod,3,ISA_BMODisaBMOD
+C0025124,C1879848,ISA,Traditional Chinese Medicine,Biomedicine,bmod,bmod,3,ISA_BMODisaBMOD
+C0025131,C1879848,ISA,"Medicine, Traditional",Biomedicine,bmod,bmod,2,ISA_BMODisaBMOD
+C0026376,C1879848,ISA,Molecular Biology,Biomedicine,bmod,bmod,2,ISA_BMODisaBMOD
+C0028677,C0018722,ISA,Discipline of Nursing,Health Occupations,bmod,bmod,1,ISA_BMODisaBMOD
+C0029355,C0037781,ISA,Orthopedics,"Specialties, Surgical",bmod,bmod,1,ISA_BMODisaBMOD
+C0030667,C0030664,ISA,"Pathology, Clinical",Pathology,bmod,bmod,2,ISA_BMODisaBMOD
+C0031330,C1879848,ISA,Pharmacology,Biomedicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0031336,C0005532,ISA,Pharmacy (field),biology (field),bmod,bmod,1,ISA_BMODisaBMOD
+C0031336,C1879848,ISA,Pharmacy (field),Biomedicine,bmod,bmod,2,ISA_BMODisaBMOD
+C0031842,C0005532,ISA,Physiology,biology (field),bmod,bmod,2,ISA_BMODisaBMOD
+C0031842,C1879848,ISA,Physiology,Biomedicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0033924,C0152036,ISA,Psychoneuroimmunology,Immunology,bmod,bmod,1,ISA_BMODisaBMOD
+C0040541,C0031330,ISA,Toxicology,Pharmacology,bmod,bmod,9,ISA_BMODisaBMOD
+C0041186,C0018722,ISA,Tropical Medicine,Health Occupations,bmod,bmod,1,ISA_BMODisaBMOD
+C0086345,C0005532,ISA,Molecular Genetics (discipline),biology (field),bmod,bmod,1,ISA_BMODisaBMOD
+C0206173,C0014507,ISA,Molecular Epidemiology,Epidemiology,bmod,bmod,2,ISA_BMODisaBMOD
+C0376537,C0008964,ISA,Evidence-Based Medicine,Clinical Medicine,bmod,bmod,1,ISA_BMODisaBMOD
+C0678966,C0033909,ISA,personality psychology,Psychology,bmod,bmod,2,ISA_BMODisaBMOD
+C0752221,C0025131,ISA,"Medicine, Kampo","Medicine, Traditional",bmod,bmod,2,ISA_BMODisaBMOD
+C0872252,C0005532,ISA,Proteomics,biology (field),bmod,bmod,1,ISA_BMODisaBMOD
+C0872252,C0887950,ISA,Proteomics,Genomics,bmod,bmod,37,ISA_BMODisaBMOD
+C0872252,C1140694,ISA,Proteomics,Bio-Informatics,bmod,bmod,3,ISA_BMODisaBMOD
+C1136394,C0040541,ISA,Toxicogenomics,Toxicology,bmod,bmod,1,ISA_BMODisaBMOD
+C1140694,C0376528,ISA,Bio-Informatics,Computational Biology,bmod,bmod,1,ISA_BMODisaBMOD
+C1319405,C0030664,ISA,Clinical microbiology,Pathology,bmod,bmod,1,ISA_BMODisaBMOD
+C1319413,C0152036,ISA,Clinical immunology,Immunology,bmod,bmod,1,ISA_BMODisaBMOD
+C1328813,C0005532,ISA,Metabolomics,biology (field),bmod,bmod,1,ISA_BMODisaBMOD
+C1450477,C0005532,ISA,Systems Biology,biology (field),bmod,bmod,5,ISA_BMODisaBMOD
+C1512513,C0030664,ISA,Human Pathology,Pathology,bmod,bmod,1,ISA_BMODisaBMOD
+C1512717,C0014507,ISA,Infectious Disease Epidemiology,Epidemiology,bmod,bmod,1,ISA_BMODisaBMOD
+C1641588,C1273939,ISA,Urological oncology,Clinical specialty,bmod,bmod,1,ISA_BMODisaBMOD
+C1655731,C0005532,ISA,study of epigenetics,biology (field),bmod,bmod,2,ISA_BMODisaBMOD
+C1956136,C1328813,ISA,Metabonomics,Metabolomics,bmod,bmod,1,ISA_BMODisaBMOD
+C2936263,C0887950,ISA,Epigenomics,Genomics,bmod,bmod,4,ISA_BMODisaBMOD
+C4277527,C0033110,ISA,Preventive Care,preventive medicine specialty,bmod,bmod,1,ISA_BMODisaBMOD

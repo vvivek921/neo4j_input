@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003009,C0018801,COMPLICATES,angiotensin II,Heart failure,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0003241,C0042769,COMPLICATES,Antibodies,Virus Diseases,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0003241,C0442886,COMPLICATES,Antibodies,Secondary Infections,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0003242,C0009782,COMPLICATES,"Antibodies, Anti-Idiotypic",Connective Tissue Diseases,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0010592,C0009782,COMPLICATES,Cyclosporine,Connective Tissue Diseases,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0010592,C1536220,COMPLICATES,Cyclosporine,ST segment elevation myocardial infarction,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0017687,C0020541,COMPLICATES,Glucagon,"Hypertension, Portal",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0018850,C0035222,COMPLICATES,Heat shock proteins,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0020388,C0239946,COMPLICATES,Hydroxyproline,"Fibrosis, Liver",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0021760,C0003864,COMPLICATES,Interleukin-6,Arthritis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0040691,C0239946,COMPLICATES,Transforming Growth Factors,"Fibrosis, Liver",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0042413,C0151740,COMPLICATES,Vasopressins,Intracranial Hypertension,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0042666,C0007684,COMPLICATES,Vimentin,Central Nervous System Infection,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0079633,C0003864,COMPLICATES,Interleukin-8,Arthritis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0079633,C0032285,COMPLICATES,Interleukin-8,Pneumonia,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0080222,C0032285,COMPLICATES,"TGFB1 protein, human",Pneumonia,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0085295,C0004364,COMPLICATES,Interleukin-10,Autoimmune Diseases,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0282554,C0024312,COMPLICATES,chemokine,Lymphopenia,aapp,dsyn,2,COMPLICATES_AAPPcmpcDSYN
+C0393022,C0042769,COMPLICATES,rituximab,Virus Diseases,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0699918,C0035222,COMPLICATES,Elastases,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0699919,C0276138,COMPLICATES,Cathepsins B,Viral myocarditis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0812307,C0003864,COMPLICATES,LYN gene,Arthritis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0812307,C0027697,COMPLICATES,LYN gene,Nephritis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0812307,C1290884,COMPLICATES,LYN gene,Inflammatory disorder,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C0966897,C0876973,COMPLICATES,hepcidin,Infectious disease of lung,aapp,dsyn,2,COMPLICATES_AAPPcmpcDSYN
+C1292269,C0012739,COMPLICATES,Activated coagulation factor (substance),Disseminated Intravascular Coagulation,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1332819,C0035222,COMPLICATES,CXCL5 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1334126,C0035222,COMPLICATES,CXCR2 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1336636,C0035222,COMPLICATES,TLR4 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1412498,C0008370,COMPLICATES,AQP8 gene,Cholestasis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1413978,C0019693,COMPLICATES,DEFB4A gene,HIV Infections,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1418597,C0022660,COMPLICATES,PITX3 gene,"Kidney Failure, Acute",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1422064,C0008370,COMPLICATES,ACE2 gene,Cholestasis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1422064,C0015695,COMPLICATES,ACE2 gene,Fatty Liver,aapp,dsyn,5,COMPLICATES_AAPPcmpcDSYN
+C1422064,C0020538,COMPLICATES,ACE2 gene,Hypertensive disease,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1422064,C0239946,COMPLICATES,ACE2 gene,"Fibrosis, Liver",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1422064,C0271650,COMPLICATES,ACE2 gene,Impaired glucose tolerance,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1422064,C0948755,COMPLICATES,ACE2 gene,Pulmonary failure,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1527865,C0006285,COMPLICATES,"CAV1 protein, human",Bronchopneumonia,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1539615,C0442886,COMPLICATES,GREM2 gene,Secondary Infections,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1539620,C0019158,COMPLICATES,GSDMD gene,Hepatitis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1675724,C0004364,COMPLICATES,"FASLG protein, human",Autoimmune Diseases,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C1701790,C2118460,COMPLICATES,"IL17A protein, human",Acute colitis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C3711684,C0035222,COMPLICATES,"S protein, severe acute respiratory syndrome coronavirus","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN
+C4048302,C2711227,COMPLICATES,"T-Lymphocyte Activation Antigen CD80, human",Steatohepatitis,aapp,dsyn,1,COMPLICATES_AAPPcmpcDSYN

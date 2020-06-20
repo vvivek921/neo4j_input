@@ -1,0 +1,221 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0002556,USES,Inhalation Drug Administration,Aminoglycosides,hlca,orch,1,USES_HLCAusesORCH
+C0002423,C0282563,USES,ambulatory care services,Macrolides,hlca,orch,1,USES_HLCAusesORCH
+C0002423,C0360714,USES,ambulatory care services,Hydroxymethylglutaryl-CoA Reductase Inhibitors,hlca,orch,1,USES_HLCAusesORCH
+C0009818,C2728259,USES,Consultation,Program,hlca,orch,1,USES_HLCAusesORCH
+C0009818,C2926735,USES,Consultation,Duration,hlca,orch,1,USES_HLCAusesORCH
+C0010337,C0034272,USES,Care of intensive care unit patient,pyridoxine,hlca,orch,1,USES_HLCAusesORCH
+C0013164,C0052430,USES,Drug Compounding,artemisinine,hlca,orch,1,USES_HLCAusesORCH
+C0013164,C0059756,USES,Drug Compounding,ethyl cellulose,hlca,orch,1,USES_HLCAusesORCH
+C0015187,C0004745,USES,Euthanasia,Barbiturates,hlca,orch,2,USES_HLCAusesORCH
+C0015187,C0022180,USES,Euthanasia,Isoflurane,hlca,orch,1,USES_HLCAusesORCH
+C0015187,C0022614,USES,Euthanasia,Ketamine,hlca,orch,3,USES_HLCAusesORCH
+C0015187,C0043366,USES,Euthanasia,Xylazine,hlca,orch,2,USES_HLCAusesORCH
+C0015187,C0700349,USES,Euthanasia,Pentobarbital Sodium,hlca,orch,1,USES_HLCAusesORCH
+C0015187,C0702208,USES,Euthanasia,Nembutal,hlca,orch,1,USES_HLCAusesORCH
+C0018570,C0001962,USES,Hand Disinfection,Ethanol,hlca,orch,12,USES_HLCAusesORCH
+C0018570,C0022237,USES,Hand Disinfection,Isopropyl Alcohol,hlca,orch,1,USES_HLCAusesORCH
+C0018570,C0032857,USES,Hand Disinfection,Povidone-Iodine,hlca,orch,1,USES_HLCAusesORCH
+C0018747,C0034665,USES,Health Services,Ranitidine,hlca,orch,1,USES_HLCAusesORCH
+C0018747,C2917745,USES,Health Services,Safe-Guard,hlca,orch,1,USES_HLCAusesORCH
+C0019993,C0360714,USES,Hospitalization,Hydroxymethylglutaryl-CoA Reductase Inhibitors,hlca,orch,2,USES_HLCAusesORCH
+C0019993,C2728259,USES,Hospitalization,Program,hlca,orch,1,USES_HLCAusesORCH
+C0019993,C2926735,USES,Hospitalization,Duration,hlca,orch,3,USES_HLCAusesORCH
+C0023977,C0000956,USES,long-term care,Acenocoumarol,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0001962,USES,long-term care,Ethanol,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0002598,USES,long-term care,Amiodarone,hlca,orch,2,USES_HLCAusesORCH
+C0023977,C0008269,USES,long-term care,Chloroquine,hlca,orch,3,USES_HLCAusesORCH
+C0023977,C0011777,USES,long-term care,Dexamethasone,hlca,orch,2,USES_HLCAusesORCH
+C0023977,C0020336,USES,long-term care,Hydroxychloroquine,hlca,orch,2,USES_HLCAusesORCH
+C0023977,C0025677,USES,long-term care,Methotrexate,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0027996,USES,long-term care,Niacin,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0031412,USES,long-term care,Phenobarbital,hlca,orch,2,USES_HLCAusesORCH
+C0023977,C0032950,USES,long-term care,prednisolone,hlca,orch,3,USES_HLCAusesORCH
+C0023977,C0054201,USES,long-term care,Budesonide,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0055147,USES,long-term care,Cetirizine,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0061751,USES,long-term care,Glycyrrhizic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0064113,USES,long-term care,Itraconazole,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0085149,USES,long-term care,Tacrolimus,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0282563,USES,long-term care,Macrolides,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0376357,USES,long-term care,Flolan,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0529793,USES,long-term care,sildenafil,hlca,orch,2,USES_HLCAusesORCH
+C0023977,C0718566,USES,long-term care,Anti-Fungal,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C0874161,USES,long-term care,Oseltamivir,hlca,orch,1,USES_HLCAusesORCH
+C0023977,C1876199,USES,long-term care,CVT-6883,hlca,orch,1,USES_HLCAusesORCH
+C0024870,C0281643,USES,Mass Screening,incomplete Freund's adjuvant,hlca,orch,1,USES_HLCAusesORCH
+C0030677,C0011777,USES,Patient Care Management,Dexamethasone,hlca,orch,1,USES_HLCAusesORCH
+C0030677,C0718566,USES,Patient Care Management,Anti-Fungal,hlca,orch,1,USES_HLCAusesORCH
+C0030677,C0874161,USES,Patient Care Management,Oseltamivir,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0000975,USES,Patient Discharge,Acetate,hlca,orch,8,USES_HLCAusesORCH
+C0030685,C0008269,USES,Patient Discharge,Chloroquine,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0020740,USES,Patient Discharge,Ibuprofen,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0029904,USES,Patient Discharge,Ouabain,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0031990,USES,Patient Discharge,Piroxicam,hlca,orch,2,USES_HLCAusesORCH
+C0030685,C0032594,USES,Patient Discharge,Polysaccharides,hlca,orch,8,USES_HLCAusesORCH
+C0030685,C0042291,USES,Patient Discharge,Valproic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0042679,USES,Patient Discharge,Vincristine,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0058405,USES,Patient Discharge,diphyllin,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0061078,USES,Patient Discharge,gamma-Linolenic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0073096,USES,Patient Discharge,resveratrol,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0078569,USES,Patient Discharge,venlafaxine,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0093999,USES,Patient Discharge,nedaplatin,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0144576,USES,Patient Discharge,Paclitaxel,hlca,orch,2,USES_HLCAusesORCH
+C0030685,C0246415,USES,Patient Discharge,docetaxel,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0309049,USES,Patient Discharge,favor,hlca,orch,1,USES_HLCAusesORCH
+C0030685,C0675175,USES,Patient Discharge,cysteinyl-leukotriene,hlca,orch,2,USES_HLCAusesORCH
+C0030685,C0917591,USES,Patient Discharge,CTN,hlca,orch,6,USES_HLCAusesORCH
+C0030685,C0958739,USES,Patient Discharge,ammonium carbamate,hlca,orch,3,USES_HLCAusesORCH
+C0030685,C2728259,USES,Patient Discharge,Program,hlca,orch,1,USES_HLCAusesORCH
+C0030695,C0019139,USES,Patient Monitoring,"Heparin, Low-Molecular-Weight",hlca,orch,1,USES_HLCAusesORCH
+C0030695,C2926735,USES,Patient Monitoring,Duration,hlca,orch,1,USES_HLCAusesORCH
+C0034020,C2728259,USES,Public Health Administration,Program,hlca,orch,2,USES_HLCAusesORCH
+C0034115,C4050026,USES,Paracentesis,Matrix,hlca,orch,2,USES_HLCAusesORCH
+C0034117,C0037513,USES,Puncture procedure,heparin sodium,hlca,orch,1,USES_HLCAusesORCH
+C0034117,C0076836,USES,Puncture procedure,Toremifene,hlca,orch,1,USES_HLCAusesORCH
+C0034117,C0293352,USES,Puncture procedure,Antral,hlca,orch,7,USES_HLCAusesORCH
+C0085421,C2728259,USES,Drug Monitoring,Program,hlca,orch,1,USES_HLCAusesORCH
+C0085557,C1096766,USES,Infectious disease prevention / control,Cisatracurium,hlca,orch,1,USES_HLCAusesORCH
+C0085557,C2728259,USES,Infectious disease prevention / control,Program,hlca,orch,2,USES_HLCAusesORCH
+C0150270,C0001911,USES,Medication Management,Albendazole,hlca,orch,1,USES_HLCAusesORCH
+C0150270,C0038766,USES,Medication Management,Sulfonylurea Compounds,hlca,orch,1,USES_HLCAusesORCH
+C0150270,C0106513,USES,Medication Management,bis-benzimidazole,hlca,orch,1,USES_HLCAusesORCH
+C0150270,C2926735,USES,Medication Management,Duration,hlca,orch,1,USES_HLCAusesORCH
+C0150600,C0019139,USES,Advice,"Heparin, Low-Molecular-Weight",hlca,orch,1,USES_HLCAusesORCH
+C0184666,C0008269,USES,Hospital admission,Chloroquine,hlca,orch,1,USES_HLCAusesORCH
+C0184666,C0020336,USES,Hospital admission,Hydroxychloroquine,hlca,orch,1,USES_HLCAusesORCH
+C0199174,C0718566,USES,General treatment,Anti-Fungal,hlca,orch,1,USES_HLCAusesORCH
+C0204695,C0034392,USES,Feeding patient,Quercetin,hlca,orch,1,USES_HLCAusesORCH
+C0204695,C0039294,USES,Feeding patient,Tannic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0206082,C0292818,USES,Immunization Programs,Ritonavir,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0001962,USES,Evaluation,Ethanol,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0006865,USES,Evaluation,Cannabinol,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0010583,USES,Evaluation,Cyclophosphamide,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0012403,USES,Evaluation,Dimethyl Sulfoxide,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0044549,USES,Evaluation,edelfosine,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0061751,USES,Evaluation,Glycyrrhizic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0086140,USES,Evaluation,Dextran,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0209227,USES,Evaluation,famciclovir,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0225326,USES,Evaluation,Fiber,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0251991,USES,Evaluation,LY 294002,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0281643,USES,Evaluation,incomplete Freund's adjuvant,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0286651,USES,Evaluation,atorvastatin,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0699680,USES,Evaluation,Metric,hlca,orch,20,USES_HLCAusesORCH
+C0220825,C0718133,USES,Evaluation,a & d,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0718566,USES,Evaluation,Anti-Fungal,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0874161,USES,Evaluation,Oseltamivir,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C0885297,USES,Evaluation,"Eosinum, eosin, Homeopathic preparation",hlca,orch,24,USES_HLCAusesORCH
+C0220825,C1620102,USES,Evaluation,U 73122,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C2728259,USES,Evaluation,Program,hlca,orch,4,USES_HLCAusesORCH
+C0220825,C3490407,USES,Evaluation,PF-429242,hlca,orch,1,USES_HLCAusesORCH
+C0220825,C4050026,USES,Evaluation,Matrix,hlca,orch,2,USES_HLCAusesORCH
+C0220908,C0001962,USES,Screening procedure,Ethanol,hlca,orch,2,USES_HLCAusesORCH
+C0220908,C0008269,USES,Screening procedure,Chloroquine,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C0008318,USES,Screening procedure,Cholecalciferol,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C0014963,USES,Screening procedure,Ethacrynic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C0017696,USES,Screening procedure,Glucans,hlca,orch,2,USES_HLCAusesORCH
+C0220908,C0032594,USES,Screening procedure,Polysaccharides,hlca,orch,4,USES_HLCAusesORCH
+C0220908,C0040221,USES,Screening procedure,Tilorone,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C0053546,USES,Screening procedure,bialaphos,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C0073080,USES,Screening procedure,resazurin,hlca,orch,2,USES_HLCAusesORCH
+C0220908,C0178487,USES,Screening procedure,Ascorbate,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C0281643,USES,Screening procedure,incomplete Freund's adjuvant,hlca,orch,3,USES_HLCAusesORCH
+C0220908,C0718566,USES,Screening procedure,Anti-Fungal,hlca,orch,5,USES_HLCAusesORCH
+C0220908,C0912024,USES,Screening procedure,Apigenin,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C2728259,USES,Screening procedure,Program,hlca,orch,6,USES_HLCAusesORCH
+C0220908,C3179052,USES,Screening procedure,Polyketides,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C3467746,USES,Screening procedure,FAR 90X2,hlca,orch,1,USES_HLCAusesORCH
+C0220908,C4050026,USES,Screening procedure,Matrix,hlca,orch,17,USES_HLCAusesORCH
+C0262754,C1675326,USES,drug management,peramivir,hlca,orch,1,USES_HLCAusesORCH
+C0278329,C0006644,USES,prescribed,Caffeine,hlca,orch,1,USES_HLCAusesORCH
+C0278329,C0874161,USES,prescribed,Oseltamivir,hlca,orch,5,USES_HLCAusesORCH
+C0441587,C0039663,USES,Clinical act of insertion,Tetrahydrocannabinol,hlca,orch,1,USES_HLCAusesORCH
+C0441587,C2728259,USES,Clinical act of insertion,Program,hlca,orch,2,USES_HLCAusesORCH
+C0441640,C0011777,USES,Tapering - action,Dexamethasone,hlca,orch,1,USES_HLCAusesORCH
+C0441640,C0031412,USES,Tapering - action,Phenobarbital,hlca,orch,1,USES_HLCAusesORCH
+C0441640,C0032950,USES,Tapering - action,prednisolone,hlca,orch,1,USES_HLCAusesORCH
+C0444793,C0003392,USES,Position change,Antineoplastic Agents,hlca,orch,1,USES_HLCAusesORCH
+C0558024,C0028247,USES,Functional behavioral assessment,Nocodazole,hlca,orch,1,USES_HLCAusesORCH
+C0558024,C0664589,USES,Functional behavioral assessment,glabridin,hlca,orch,1,USES_HLCAusesORCH
+C0582103,C0022180,USES,Medical Examination,Isoflurane,hlca,orch,1,USES_HLCAusesORCH
+C0582103,C0022614,USES,Medical Examination,Ketamine,hlca,orch,1,USES_HLCAusesORCH
+C0588388,C0885297,USES,General observation,"Eosinum, eosin, Homeopathic preparation",hlca,orch,1,USES_HLCAusesORCH
+C0588388,C2949227,USES,General observation,Schiff,hlca,orch,1,USES_HLCAusesORCH
+C0679860,C1831992,USES,nontreatment,ABT 263,hlca,orch,1,USES_HLCAusesORCH
+C0679878,C0002556,USES,acute care,Aminoglycosides,hlca,orch,1,USES_HLCAusesORCH
+C0700325,C0874161,USES,Patient observation,Oseltamivir,hlca,orch,1,USES_HLCAusesORCH
+C0805586,C0004057,USES,Challenge,Aspirin,hlca,orch,1,USES_HLCAusesORCH
+C0805586,C0006931,USES,Challenge,Capsaicin,hlca,orch,1,USES_HLCAusesORCH
+C0805586,C0039294,USES,Challenge,Tannic Acid,hlca,orch,1,USES_HLCAusesORCH
+C0805586,C0301363,USES,Challenge,5-Trimethoxyamphetamine,hlca,orch,2,USES_HLCAusesORCH
+C0814459,C0001962,USES,brief intervention,Ethanol,hlca,orch,1,USES_HLCAusesORCH
+C0814459,C2926735,USES,brief intervention,Duration,hlca,orch,2,USES_HLCAusesORCH
+C1113679,C2917745,USES,patient safety,Safe-Guard,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0002508,USES,Evaluation procedure,Amines,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0011501,USES,Evaluation procedure,Deoxyglucose,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0011816,USES,Evaluation procedure,Dextromethorphan,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0013618,USES,Evaluation procedure,Edetic Acid,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0020336,USES,Evaluation procedure,Hydroxychloroquine,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0031441,USES,Evaluation procedure,Phenoxybenzamine,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0042523,USES,Evaluation procedure,Verapamil,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0114346,USES,Evaluation procedure,Dimesna,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0178487,USES,Evaluation procedure,Ascorbate,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0281643,USES,Evaluation procedure,incomplete Freund's adjuvant,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0529793,USES,Evaluation procedure,sildenafil,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0633055,USES,Evaluation procedure,pentalenolactone F methyl ester,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C0699680,USES,Evaluation procedure,Metric,hlca,orch,3,USES_HLCAusesORCH
+C1261322,C0885297,USES,Evaluation procedure,"Eosinum, eosin, Homeopathic preparation",hlca,orch,5,USES_HLCAusesORCH
+C1261322,C0949738,USES,Evaluation procedure,Indole Alkaloids,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C2347728,USES,Evaluation procedure,Quarfloxin,hlca,orch,1,USES_HLCAusesORCH
+C1261322,C2728259,USES,Evaluation procedure,Program,hlca,orch,5,USES_HLCAusesORCH
+C1273999,C3152857,USES,Monitoring procedure,Prevail,hlca,orch,1,USES_HLCAusesORCH
+C1292969,C0022614,USES,Procedure on blood vessel,Ketamine,hlca,orch,1,USES_HLCAusesORCH
+C1318955,C2728259,USES,Asthma management,Program,hlca,orch,1,USES_HLCAusesORCH
+C1331096,C0162969,USES,vaccine delivery,Chitosan,hlca,orch,1,USES_HLCAusesORCH
+C1406915,C0054201,USES,breathing therapy,Budesonide,hlca,orch,1,USES_HLCAusesORCH
+C1406915,C0216660,USES,breathing therapy,Zanamivir,hlca,orch,1,USES_HLCAusesORCH
+C1456630,C0874161,USES,Assisted Living,Oseltamivir,hlca,orch,1,USES_HLCAusesORCH
+C1512335,C2926735,USES,Harvest Procedure,Duration,hlca,orch,1,USES_HLCAusesORCH
+C1514918,C0041175,USES,Retrieval,Tromethamine,hlca,orch,3,USES_HLCAusesORCH
+C1514918,C0142825,USES,Retrieval,sodium citrate,hlca,orch,4,USES_HLCAusesORCH
+C1516615,C4033447,USES,Clinical Management,sacubitril,hlca,orch,1,USES_HLCAusesORCH
+C1516879,C0309049,USES,Enrollment,favor,hlca,orch,1,USES_HLCAusesORCH
+C1522577,C0145943,USES,follow-up,TimeLine Fluoride Releasing Resin,hlca,orch,1,USES_HLCAusesORCH
+C1522577,C0309049,USES,follow-up,favor,hlca,orch,1,USES_HLCAusesORCH
+C1522577,C1096768,USES,follow-up,meglumine antimoniate,hlca,orch,1,USES_HLCAusesORCH
+C1522577,C2926735,USES,follow-up,Duration,hlca,orch,1,USES_HLCAusesORCH
+C1522577,C2930789,USES,follow-up,nintedanib,hlca,orch,1,USES_HLCAusesORCH
+C1698974,C0206008,USES,public transport,2-Mercaptoethanesulfonic Acid,hlca,orch,1,USES_HLCAusesORCH
+C1880359,C0020336,USES,Dispense,Hydroxychloroquine,hlca,orch,1,USES_HLCAusesORCH
+C1880359,C0022237,USES,Dispense,Isopropyl Alcohol,hlca,orch,1,USES_HLCAusesORCH
+C1880359,C0282563,USES,Dispense,Macrolides,hlca,orch,1,USES_HLCAusesORCH
+C2350442,C0054201,USES,Nasal Lavage,Budesonide,hlca,orch,4,USES_HLCAusesORCH
+C2350442,C0298130,USES,Nasal Lavage,montelukast,hlca,orch,1,USES_HLCAusesORCH
+C2599893,C0008196,USES,Oral care,Chlorhexidine,hlca,orch,5,USES_HLCAusesORCH
+C2718016,C0020336,USES,Compassionate Use,Hydroxychloroquine,hlca,orch,1,USES_HLCAusesORCH
+C2718026,C2728259,USES,Capacity Building,Program,hlca,orch,1,USES_HLCAusesORCH
+C2826232,C0019139,USES,Dose Adjustment,"Heparin, Low-Molecular-Weight",hlca,orch,1,USES_HLCAusesORCH
+C2826232,C0113293,USES,Dose Adjustment,Dexmedetomidine,hlca,orch,1,USES_HLCAusesORCH
+C2826232,C0729218,USES,Dose Adjustment,FK-506,hlca,orch,1,USES_HLCAusesORCH
+C2936697,C0001962,USES,Hand Sanitization,Ethanol,hlca,orch,1,USES_HLCAusesORCH
+C2936698,C0032857,USES,Surgical Scrubbing,Povidone-Iodine,hlca,orch,1,USES_HLCAusesORCH
+C3494318,C0699680,USES,Public Health Surveillance,Metric,hlca,orch,1,USES_HLCAusesORCH
+C3824919,C2728259,USES,Insurance claims,Program,hlca,orch,1,USES_HLCAusesORCH
+C3845682,C2728259,USES,Annual assessment,Program,hlca,orch,1,USES_HLCAusesORCH
+C3889687,C1138004,USES,Clinical Observation,shosaiko-to,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0008318,USES,Contacts,Cholecalciferol,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0021236,USES,Contacts,indole,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0025872,USES,Contacts,Metronidazole,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0032594,USES,Contacts,Polysaccharides,hlca,orch,2,USES_HLCAusesORCH
+C4036459,C0063034,USES,Contacts,huperzine B,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0063083,USES,Contacts,Hydrogel,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0065610,USES,Contacts,maltose tetrapalmitate,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C0772162,USES,Contacts,AROMATICS,hlca,orch,3,USES_HLCAusesORCH
+C4036459,C2825250,USES,Contacts,Fenamole,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C2926735,USES,Contacts,Duration,hlca,orch,3,USES_HLCAusesORCH
+C4036459,C3486107,USES,Contacts,Longrange,hlca,orch,1,USES_HLCAusesORCH
+C4036459,C4050026,USES,Contacts,Matrix,hlca,orch,1,USES_HLCAusesORCH
+C4046039,C0874161,USES,Overtreatment,Oseltamivir,hlca,orch,1,USES_HLCAusesORCH
+C4505068,C0076275,USES,Obesity Management,orlistat,hlca,orch,1,USES_HLCAusesORCH
+C4505148,C2728259,USES,Vaccination Coverage,Program,hlca,orch,4,USES_HLCAusesORCH
+C4505148,C2926735,USES,Vaccination Coverage,Duration,hlca,orch,2,USES_HLCAusesORCH
+C4542605,C0699680,USES,Demonstration Project,Metric,hlca,orch,1,USES_HLCAusesORCH

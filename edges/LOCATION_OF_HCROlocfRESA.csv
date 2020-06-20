@@ -1,0 +1,985 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000872,C0005544,LOCATION_OF,Academic Medical Centers,Biometry,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0007328,LOCATION_OF,Academic Medical Centers,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0008976,LOCATION_OF,Academic Medical Centers,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0010101,LOCATION_OF,Academic Medical Centers,Correlation Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0010362,LOCATION_OF,Academic Medical Centers,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0010995,LOCATION_OF,Academic Medical Centers,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0024907,LOCATION_OF,Academic Medical Centers,Matched Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0033522,LOCATION_OF,Academic Medical Centers,Prospective Studies,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0000872,C0035171,LOCATION_OF,Academic Medical Centers,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0035363,LOCATION_OF,Academic Medical Centers,Retrospective Studies,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0000872,C0150093,LOCATION_OF,Academic Medical Centers,case series,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0150097,LOCATION_OF,Academic Medical Centers,Cross-Over Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0000872,C0242800,LOCATION_OF,Academic Medical Centers,Patient Recruitment,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0282460,LOCATION_OF,Academic Medical Centers,Phase 2 Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C0302523,LOCATION_OF,Academic Medical Centers,Observation in research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0000872,C0814861,LOCATION_OF,Academic Medical Centers,prevention trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C1518527,LOCATION_OF,Academic Medical Centers,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C1709599,LOCATION_OF,Academic Medical Centers,Population Based Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0000872,C1709709,LOCATION_OF,Academic Medical Centers,Prospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0000872,C2603343,LOCATION_OF,Academic Medical Centers,Study,hcro,resa,20,LOCATION_OF_HCROlocfRESA
+C0000872,C2985505,LOCATION_OF,Academic Medical Centers,Retrospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C0007328,LOCATION_OF,Ambulatory Care Facilities,Case-Control Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C0008972,LOCATION_OF,Ambulatory Care Facilities,Clinical Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C0008976,LOCATION_OF,Ambulatory Care Facilities,Clinical Trials,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0002424,C0010362,LOCATION_OF,Ambulatory Care Facilities,Cross-Sectional Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C0016441,LOCATION_OF,Ambulatory Care Facilities,Follow-Up Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0031928,LOCATION_OF,Ambulatory Care Facilities,Pilot Projects,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0002424,C0033522,LOCATION_OF,Ambulatory Care Facilities,Prospective Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0002424,C0034656,LOCATION_OF,Ambulatory Care Facilities,Randomization,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0035363,LOCATION_OF,Ambulatory Care Facilities,Retrospective Studies,hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0002424,C0206034,LOCATION_OF,Ambulatory Care Facilities,"Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0242791,LOCATION_OF,Ambulatory Care Facilities,Sentinel Surveillance,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C0262727,LOCATION_OF,Ambulatory Care Facilities,Research data collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0302523,LOCATION_OF,Ambulatory Care Facilities,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0596572,LOCATION_OF,Ambulatory Care Facilities,field study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0679083,LOCATION_OF,Ambulatory Care Facilities,simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0681814,LOCATION_OF,Ambulatory Care Facilities,research study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0002424,C0681817,LOCATION_OF,Ambulatory Care Facilities,national survey,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C0681833,LOCATION_OF,Ambulatory Care Facilities,basic research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0808279,LOCATION_OF,Ambulatory Care Facilities,Toxicology studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0920472,LOCATION_OF,Ambulatory Care Facilities,Drug Discovery,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C0949415,LOCATION_OF,Ambulatory Care Facilities,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C1515657,LOCATION_OF,Ambulatory Care Facilities,In Vivo Model,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C1518527,LOCATION_OF,Ambulatory Care Facilities,Observational Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0002424,C1519941,LOCATION_OF,Ambulatory Care Facilities,Validation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C1705187,LOCATION_OF,Ambulatory Care Facilities,Safety Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C1709599,LOCATION_OF,Ambulatory Care Facilities,Population Based Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C1709631,LOCATION_OF,Ambulatory Care Facilities,Nonclinical Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C2603343,LOCATION_OF,Ambulatory Care Facilities,Study,hcro,resa,43,LOCATION_OF_HCROlocfRESA
+C0002424,C2911685,LOCATION_OF,Ambulatory Care Facilities,Evaluation Method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C2936546,LOCATION_OF,Ambulatory Care Facilities,Molecular Typing,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002424,C2985505,LOCATION_OF,Ambulatory Care Facilities,Retrospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0002424,C3161471,LOCATION_OF,Ambulatory Care Facilities,Treatment Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0002455,C0008976,LOCATION_OF,American Cancer Society,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0005770,C0002783,LOCATION_OF,Blood Banks,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0005770,C0008976,LOCATION_OF,Blood Banks,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0005770,C2603343,LOCATION_OF,Blood Banks,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0006425,C1518527,LOCATION_OF,Burn Units,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0002783,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0010362,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0011000,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Data Reporting,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0007670,C0205664,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Animal Experiments,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0007670,C0206031,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Logistic Regression,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0007670,C0282460,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Phase 2 Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0376344,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),National Health and Nutrition Examination Survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0681814,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),research study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0007670,C0683955,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),operational definition,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0814873,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),multistage sampling design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C0871424,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),statistical analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0007670,C1519941,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Validation,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0007670,C2603343,LOCATION_OF,Centers for Disease Control and Prevention (U.S.),Study,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0009469,C0033522,LOCATION_OF,Community Health Centers,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0010066,C2603343,LOCATION_OF,Coronary Care Units,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0011212,C0031928,LOCATION_OF,Delivery Rooms,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0011212,C0150095,LOCATION_OF,Delivery Rooms,Convenience Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0011212,C0814861,LOCATION_OF,Delivery Rooms,prevention trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0011212,C2603343,LOCATION_OF,Delivery Rooms,Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0011344,C0150095,LOCATION_OF,Dental Clinics,Convenience Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0011357,C0010362,LOCATION_OF,Dental Facilities,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0013185,C0008976,LOCATION_OF,Drug Industry,Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0013185,C0013206,LOCATION_OF,Drug Industry,"Drug Evaluation, Preclinical",hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0013185,C0033522,LOCATION_OF,Drug Industry,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0013185,C0035170,LOCATION_OF,Drug Industry,Research and Development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0013185,C0681805,LOCATION_OF,Drug Industry,research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0013185,C0681934,LOCATION_OF,Drug Industry,Bioanalytical Validation Method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0013185,C0920472,LOCATION_OF,Drug Industry,Drug Discovery,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0016457,C2603343,LOCATION_OF,"Food and Agricultural Organization, United Nations",Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018262,C2603343,LOCATION_OF,Group Practice,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0010995,LOCATION_OF,Health Care Systems,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0020125,LOCATION_OF,Health Care Systems,Human Genome Project,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0023981,LOCATION_OF,Health Care Systems,Longitudinal Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0029066,LOCATION_OF,Health Care Systems,Operations Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0035363,LOCATION_OF,Health Care Systems,Retrospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018696,C0242239,LOCATION_OF,Health Care Systems,Data Linkage,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0376368,LOCATION_OF,Health Care Systems,Research Priorities,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0679083,LOCATION_OF,Health Care Systems,simulation,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018696,C0681797,LOCATION_OF,Health Care Systems,paradigm,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0681798,LOCATION_OF,Health Care Systems,research agenda,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0870071,LOCATION_OF,Health Care Systems,modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0871505,LOCATION_OF,Health Care Systems,test bias,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C0949415,LOCATION_OF,Health Care Systems,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C1096776,LOCATION_OF,Health Care Systems,Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C1515095,LOCATION_OF,Health Care Systems,Surveillance Program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C1518527,LOCATION_OF,Health Care Systems,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C1710191,LOCATION_OF,Health Care Systems,Statistical Technique,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018696,C2603343,LOCATION_OF,Health Care Systems,Study,hcro,resa,17,LOCATION_OF_HCROlocfRESA
+C0018696,C2985505,LOCATION_OF,Health Care Systems,Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0002783,LOCATION_OF,Health care facility,Epidemiologic Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0018704,C0003048,LOCATION_OF,Health care facility,Animal Experimentation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0007328,LOCATION_OF,Health care facility,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0008976,LOCATION_OF,Health care facility,Clinical Trials,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0018704,C0009085,LOCATION_OF,Health care facility,statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0010101,LOCATION_OF,Health care facility,Correlation Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0010362,LOCATION_OF,Health care facility,Cross-Sectional Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0010995,LOCATION_OF,Health care facility,Data Collection,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0018704,C0023981,LOCATION_OF,Health care facility,Longitudinal Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0031928,LOCATION_OF,Health care facility,Pilot Projects,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0033522,LOCATION_OF,Health care facility,Prospective Studies,hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0018704,C0035171,LOCATION_OF,Health care facility,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0035363,LOCATION_OF,Health care facility,Retrospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0018704,C0038136,LOCATION_OF,Health care facility,Standardization,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0150093,LOCATION_OF,Health care facility,case series,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0150095,LOCATION_OF,Health care facility,Convenience Sampling,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0150114,LOCATION_OF,Health care facility,unaware,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0205664,LOCATION_OF,Health care facility,Animal Experiments,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0242791,LOCATION_OF,Health care facility,Sentinel Surveillance,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0242802,LOCATION_OF,Health care facility,Patient Selection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0260206,LOCATION_OF,Health care facility,research grants,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0302523,LOCATION_OF,Health care facility,Observation in research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0678323,LOCATION_OF,Health care facility,experimentation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0681804,LOCATION_OF,Health care facility,collaborative study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0681867,LOCATION_OF,Health care facility,controlled study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0681871,LOCATION_OF,Health care facility,study planning,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0018704,C0681873,LOCATION_OF,Health care facility,research data,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0018704,C0683955,LOCATION_OF,Health care facility,operational definition,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0871424,LOCATION_OF,Health care facility,statistical analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C0949415,LOCATION_OF,Health care facility,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C1515095,LOCATION_OF,Health care facility,Surveillance Program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C1518101,LOCATION_OF,Health care facility,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C1519043,LOCATION_OF,Health care facility,Phase I/II Trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C1519941,LOCATION_OF,Health care facility,Validation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C1710191,LOCATION_OF,Health care facility,Statistical Technique,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018704,C2603343,LOCATION_OF,Health care facility,Study,hcro,resa,84,LOCATION_OF_HCROlocfRESA
+C0018704,C2985505,LOCATION_OF,Health care facility,Retrospective Cohort Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0018720,C0600367,LOCATION_OF,Health Maintenance Organizations,Seroprevalence,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0018720,C2603343,LOCATION_OF,Health Maintenance Organizations,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019947,C0681817,LOCATION_OF,hospice environment,national survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019947,C2603343,LOCATION_OF,hospice environment,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019961,C0010362,LOCATION_OF,Hospital Departments,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019961,C0242802,LOCATION_OF,Hospital Departments,Patient Selection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019961,C2603343,LOCATION_OF,Hospital Departments,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019988,C0302523,LOCATION_OF,Hospital Units,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019988,C2603343,LOCATION_OF,Hospital Units,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019988,C2985505,LOCATION_OF,Hospital Units,Retrospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0002783,LOCATION_OF,Hospitals,Epidemiologic Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0019994,C0003048,LOCATION_OF,Hospitals,Animal Experimentation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0005540,LOCATION_OF,Hospitals,Biomedical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0007328,LOCATION_OF,Hospitals,Case-Control Studies,hcro,resa,19,LOCATION_OF_HCROlocfRESA
+C0019994,C0008972,LOCATION_OF,Hospitals,Clinical Research,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0019994,C0008976,LOCATION_OF,Hospitals,Clinical Trials,hcro,resa,35,LOCATION_OF_HCROlocfRESA
+C0019994,C0009085,LOCATION_OF,Hospitals,statistical cluster,hcro,resa,15,LOCATION_OF_HCROlocfRESA
+C0019994,C0009933,LOCATION_OF,Hospitals,Controlled Clinical Trials as Topic,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0019994,C0010101,LOCATION_OF,Hospitals,Correlation Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0010362,LOCATION_OF,Hospitals,Cross-Sectional Studies,hcro,resa,23,LOCATION_OF_HCROlocfRESA
+C0019994,C0010995,LOCATION_OF,Hospitals,Data Collection,hcro,resa,17,LOCATION_OF_HCROlocfRESA
+C0019994,C0011000,LOCATION_OF,Hospitals,Data Reporting,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C0012630,LOCATION_OF,Hospitals,Discriminant Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0013175,LOCATION_OF,Hospitals,Drug Evaluation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0014503,LOCATION_OF,Hospitals,Epidemiologic Methods,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0015195,LOCATION_OF,Hospitals,Evaluation Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0016441,LOCATION_OF,Hospitals,Follow-Up Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0018762,LOCATION_OF,Hospitals,Health Surveys,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C0022886,LOCATION_OF,Hospitals,Laboratory Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0023981,LOCATION_OF,Hospitals,Longitudinal Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0019994,C0024907,LOCATION_OF,Hospitals,Matched Case-Control Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0027775,LOCATION_OF,Hospitals,Nested Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0031928,LOCATION_OF,Hospitals,Pilot Projects,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0019994,C0033522,LOCATION_OF,Hospitals,Prospective Studies,hcro,resa,39,LOCATION_OF_HCROlocfRESA
+C0019994,C0034656,LOCATION_OF,Hospitals,Randomization,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0019994,C0035171,LOCATION_OF,Hospitals,Research Design,hcro,resa,18,LOCATION_OF_HCROlocfRESA
+C0019994,C0035363,LOCATION_OF,Hospitals,Retrospective Studies,hcro,resa,54,LOCATION_OF_HCROlocfRESA
+C0019994,C0036449,LOCATION_OF,Hospitals,Scoring Methods,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0036744,LOCATION_OF,Hospitals,Seroepidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0038136,LOCATION_OF,Hospitals,Standardization,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0039778,LOCATION_OF,Hospitals,Theoretical Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0086027,LOCATION_OF,Hospitals,"Analysis, Cohort",hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0150093,LOCATION_OF,Hospitals,case series,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0019994,C0150095,LOCATION_OF,Hospitals,Convenience Sampling,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0019994,C0150097,LOCATION_OF,Hospitals,Cross-Over Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C0150103,LOCATION_OF,Hospitals,MATCHING,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0150108,LOCATION_OF,Hospitals,Blinded,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0150114,LOCATION_OF,Hospitals,unaware,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C0206012,LOCATION_OF,Hospitals,Multicenter Trials,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0019994,C0206034,LOCATION_OF,Hospitals,"Clinical Trials, Randomized",hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0019994,C0242278,LOCATION_OF,Hospitals,Evaluation Report,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0242481,LOCATION_OF,Hospitals,Research Activities,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0242791,LOCATION_OF,Hospitals,Sentinel Surveillance,hcro,resa,14,LOCATION_OF_HCROlocfRESA
+C0019994,C0242800,LOCATION_OF,Hospitals,Patient Recruitment,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0242802,LOCATION_OF,Hospitals,Patient Selection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0260206,LOCATION_OF,Hospitals,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0302523,LOCATION_OF,Hospitals,Observation in research,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0019994,C0596572,LOCATION_OF,Hospitals,field study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0019994,C0600367,LOCATION_OF,Hospitals,Seroprevalence,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0019994,C0679083,LOCATION_OF,Hospitals,simulation,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0019994,C0681797,LOCATION_OF,Hospitals,paradigm,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0681812,LOCATION_OF,Hospitals,empirical study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0681814,LOCATION_OF,Hospitals,research study,hcro,resa,14,LOCATION_OF_HCROlocfRESA
+C0019994,C0681817,LOCATION_OF,Hospitals,national survey,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C0681840,LOCATION_OF,Hospitals,re-evaluation,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0681867,LOCATION_OF,Hospitals,controlled study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0019994,C0681873,LOCATION_OF,Hospitals,research data,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C0681883,LOCATION_OF,Hospitals,Stratified Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0681908,LOCATION_OF,Hospitals,testing protocols,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0681912,LOCATION_OF,Hospitals,face-to-face interview,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0683955,LOCATION_OF,Hospitals,operational definition,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0683962,LOCATION_OF,Hospitals,univariate statistics,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0700032,LOCATION_OF,Hospitals,research project,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0814896,LOCATION_OF,Hospitals,significance level,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0870071,LOCATION_OF,Hospitals,modeling,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0019994,C0871424,LOCATION_OF,Hospitals,statistical analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0920317,LOCATION_OF,Hospitals,Meta Analysis (statistical procedure),hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C0920321,LOCATION_OF,Hospitals,Phase I Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0920631,LOCATION_OF,Hospitals,patient registry,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0935545,LOCATION_OF,Hospitals,behavior analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C0949415,LOCATION_OF,Hospitals,Qualitative Research,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C1096776,LOCATION_OF,Hospitals,Multicenter Study,hcro,resa,12,LOCATION_OF_HCROlocfRESA
+C0019994,C1510567,LOCATION_OF,Hospitals,Qualitative procedures,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C1515093,LOCATION_OF,Hospitals,Surveillance Methods,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C1515095,LOCATION_OF,Hospitals,Surveillance Program,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0019994,C1518101,LOCATION_OF,Hospitals,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C1518527,LOCATION_OF,Hospitals,Observational Study,hcro,resa,27,LOCATION_OF_HCROlocfRESA
+C0019994,C1519068,LOCATION_OF,Hospitals,Phylogenetic Analysis,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C1519941,LOCATION_OF,Hospitals,Validation,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0019994,C1609488,LOCATION_OF,Hospitals,cDNA Microarray Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C1707635,LOCATION_OF,Hospitals,Data Extraction,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C1709323,LOCATION_OF,Hospitals,Open Label Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C1709599,LOCATION_OF,Hospitals,Population Based Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C1709709,LOCATION_OF,Hospitals,Prospective Cohort Study,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0019994,C2347038,LOCATION_OF,Hospitals,Blinded Clinical Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C2603343,LOCATION_OF,Hospitals,Study,hcro,resa,500,LOCATION_OF_HCROlocfRESA
+C0019994,C2826345,LOCATION_OF,Hospitals,Parallel Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C2936546,LOCATION_OF,Hospitals,Molecular Typing,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0019994,C2985410,LOCATION_OF,Hospitals,Non-Randomized Controlled Trials as Topic,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C2985505,LOCATION_OF,Hospitals,Retrospective Cohort Study,hcro,resa,16,LOCATION_OF_HCROlocfRESA
+C0019994,C2986480,LOCATION_OF,Hospitals,Subset Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C3161471,LOCATION_OF,Hospitals,Treatment Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C3274035,LOCATION_OF,Hospitals,Interventional Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C3824729,LOCATION_OF,Hospitals,Case-control method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019994,C4505128,LOCATION_OF,Hospitals,Non-Inferiority Trial,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0019994,C4528420,LOCATION_OF,Hospitals,Genomic Data Commons,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019996,C0681814,LOCATION_OF,"Hospitals, Animal",research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019996,C0681817,LOCATION_OF,"Hospitals, Animal",national survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0019996,C2603343,LOCATION_OF,"Hospitals, Animal",Study,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0019996,C2986480,LOCATION_OF,"Hospitals, Animal",Subset Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020003,C0008976,LOCATION_OF,"Hospitals, Community",Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020003,C0010362,LOCATION_OF,"Hospitals, Community",Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020003,C0033522,LOCATION_OF,"Hospitals, Community",Prospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0020003,C0150093,LOCATION_OF,"Hospitals, Community",case series,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020003,C1709709,LOCATION_OF,"Hospitals, Community",Prospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020003,C2603343,LOCATION_OF,"Hospitals, Community",Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020005,C1709599,LOCATION_OF,"Hospitals, County",Population Based Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020005,C2603343,LOCATION_OF,"Hospitals, County",Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020006,C0010362,LOCATION_OF,"Hospitals, District",Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020006,C0035363,LOCATION_OF,"Hospitals, District",Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020006,C2603343,LOCATION_OF,"Hospitals, District",Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0020008,C0002783,LOCATION_OF,"Hospitals, General",Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C0010362,LOCATION_OF,"Hospitals, General",Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C0033522,LOCATION_OF,"Hospitals, General",Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C0035363,LOCATION_OF,"Hospitals, General",Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C0178693,LOCATION_OF,"Hospitals, General",human study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C0681925,LOCATION_OF,"Hospitals, General",logistic regression analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C1518527,LOCATION_OF,"Hospitals, General",Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020008,C2603343,LOCATION_OF,"Hospitals, General",Study,hcro,resa,15,LOCATION_OF_HCROlocfRESA
+C0020010,C1518527,LOCATION_OF,"Hospitals, Maternity",Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020012,C2603343,LOCATION_OF,Military Hospitals,Study,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0020012,C2985505,LOCATION_OF,Military Hospitals,Retrospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020013,C0035363,LOCATION_OF,"Hospitals, Municipal",Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020013,C0681814,LOCATION_OF,"Hospitals, Municipal",research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020013,C2603343,LOCATION_OF,"Hospitals, Municipal",Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C0008972,LOCATION_OF,"Hospitals, Pediatric",Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C0008976,LOCATION_OF,"Hospitals, Pediatric",Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C0010362,LOCATION_OF,"Hospitals, Pediatric",Cross-Sectional Studies,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0020017,C0010995,LOCATION_OF,"Hospitals, Pediatric",Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C0033522,LOCATION_OF,"Hospitals, Pediatric",Prospective Studies,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0020017,C0035171,LOCATION_OF,"Hospitals, Pediatric",Research Design,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020017,C0035363,LOCATION_OF,"Hospitals, Pediatric",Retrospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0020017,C0150093,LOCATION_OF,"Hospitals, Pediatric",case series,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020017,C0150095,LOCATION_OF,"Hospitals, Pediatric",Convenience Sampling,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020017,C0150097,LOCATION_OF,"Hospitals, Pediatric",Cross-Over Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C0242791,LOCATION_OF,"Hospitals, Pediatric",Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C0920317,LOCATION_OF,"Hospitals, Pediatric",Meta Analysis (statistical procedure),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C1096776,LOCATION_OF,"Hospitals, Pediatric",Multicenter Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020017,C1518527,LOCATION_OF,"Hospitals, Pediatric",Observational Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0020017,C1709599,LOCATION_OF,"Hospitals, Pediatric",Population Based Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020017,C1709709,LOCATION_OF,"Hospitals, Pediatric",Prospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020017,C2603343,LOCATION_OF,"Hospitals, Pediatric",Study,hcro,resa,38,LOCATION_OF_HCROlocfRESA
+C0020017,C2985410,LOCATION_OF,"Hospitals, Pediatric",Non-Randomized Controlled Trials as Topic,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020021,C0150108,LOCATION_OF,Psychiatric hospital,Blinded,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020021,C2603343,LOCATION_OF,Psychiatric hospital,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020022,C0010362,LOCATION_OF,"Hospitals, Public",Cross-Sectional Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020022,C0035171,LOCATION_OF,"Hospitals, Public",Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020022,C0681814,LOCATION_OF,"Hospitals, Public",research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020022,C0681816,LOCATION_OF,"Hospitals, Public",local survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020022,C2603343,LOCATION_OF,"Hospitals, Public",Study,hcro,resa,25,LOCATION_OF_HCROlocfRESA
+C0020023,C0949415,LOCATION_OF,"Hospitals, Rural",Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020023,C2603343,LOCATION_OF,"Hospitals, Rural",Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020025,C0008976,LOCATION_OF,special hospital,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020025,C0035363,LOCATION_OF,special hospital,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020027,C0008976,LOCATION_OF,Teaching Hospitals,Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020027,C0010362,LOCATION_OF,Teaching Hospitals,Cross-Sectional Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0020027,C0024907,LOCATION_OF,Teaching Hospitals,Matched Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020027,C0033522,LOCATION_OF,Teaching Hospitals,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020027,C0035363,LOCATION_OF,Teaching Hospitals,Retrospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020027,C1709709,LOCATION_OF,Teaching Hospitals,Prospective Cohort Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020027,C2603343,LOCATION_OF,Teaching Hospitals,Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0020028,C0002783,LOCATION_OF,"Hospitals, University",Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0007328,LOCATION_OF,"Hospitals, University",Case-Control Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C0008976,LOCATION_OF,"Hospitals, University",Clinical Trials,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0020028,C0010362,LOCATION_OF,"Hospitals, University",Cross-Sectional Studies,hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0020028,C0010995,LOCATION_OF,"Hospitals, University",Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0013072,LOCATION_OF,"Hospitals, University",Double-Blind Method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0027775,LOCATION_OF,"Hospitals, University",Nested Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0033522,LOCATION_OF,"Hospitals, University",Prospective Studies,hcro,resa,24,LOCATION_OF_HCROlocfRESA
+C0020028,C0035171,LOCATION_OF,"Hospitals, University",Research Design,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C0035363,LOCATION_OF,"Hospitals, University",Retrospective Studies,hcro,resa,10,LOCATION_OF_HCROlocfRESA
+C0020028,C0086027,LOCATION_OF,"Hospitals, University","Analysis, Cohort",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0150093,LOCATION_OF,"Hospitals, University",case series,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C0205664,LOCATION_OF,"Hospitals, University",Animal Experiments,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0206034,LOCATION_OF,"Hospitals, University","Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0681805,LOCATION_OF,"Hospitals, University",research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0681814,LOCATION_OF,"Hospitals, University",research study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C0681867,LOCATION_OF,"Hospitals, University",controlled study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C0681913,LOCATION_OF,"Hospitals, University",structured interview,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C0920321,LOCATION_OF,"Hospitals, University",Phase I Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C1096776,LOCATION_OF,"Hospitals, University",Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C1515095,LOCATION_OF,"Hospitals, University",Surveillance Program,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020028,C1516631,LOCATION_OF,"Hospitals, University",Clinical Sensitivity,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C1518527,LOCATION_OF,"Hospitals, University",Observational Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020028,C1709599,LOCATION_OF,"Hospitals, University",Population Based Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C1709709,LOCATION_OF,"Hospitals, University",Prospective Cohort Study,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0020028,C2603343,LOCATION_OF,"Hospitals, University",Study,hcro,resa,80,LOCATION_OF_HCROlocfRESA
+C0020028,C2826346,LOCATION_OF,"Hospitals, University",Single Group Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C2985505,LOCATION_OF,"Hospitals, University",Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C3274035,LOCATION_OF,"Hospitals, University",Interventional Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020028,C3494163,LOCATION_OF,"Hospitals, University",Translational Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020029,C0033522,LOCATION_OF,"Hospitals, Urban",Prospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020029,C0683944,LOCATION_OF,"Hospitals, Urban",secondary data analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020029,C1518527,LOCATION_OF,"Hospitals, Urban",Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020029,C2603343,LOCATION_OF,"Hospitals, Urban",Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0020029,C2985505,LOCATION_OF,"Hospitals, Urban",Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020030,C0035363,LOCATION_OF,"Hospitals, Veterans",Retrospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020030,C0150093,LOCATION_OF,"Hospitals, Veterans",case series,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0020030,C0205664,LOCATION_OF,"Hospitals, Veterans",Animal Experiments,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0020030,C2603343,LOCATION_OF,"Hospitals, Veterans",Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0021708,C0002783,LOCATION_OF,intensive care unit,Epidemiologic Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0007328,LOCATION_OF,intensive care unit,Case-Control Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0008972,LOCATION_OF,intensive care unit,Clinical Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0008976,LOCATION_OF,intensive care unit,Clinical Trials,hcro,resa,36,LOCATION_OF_HCROlocfRESA
+C0021708,C0009085,LOCATION_OF,intensive care unit,statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0009933,LOCATION_OF,intensive care unit,Controlled Clinical Trials as Topic,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0010362,LOCATION_OF,intensive care unit,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0010995,LOCATION_OF,intensive care unit,Data Collection,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0021708,C0013072,LOCATION_OF,intensive care unit,Double-Blind Method,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0016441,LOCATION_OF,intensive care unit,Follow-Up Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0027775,LOCATION_OF,intensive care unit,Nested Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0033522,LOCATION_OF,intensive care unit,Prospective Studies,hcro,resa,37,LOCATION_OF_HCROlocfRESA
+C0021708,C0035171,LOCATION_OF,intensive care unit,Research Design,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0035363,LOCATION_OF,intensive care unit,Retrospective Studies,hcro,resa,36,LOCATION_OF_HCROlocfRESA
+C0021708,C0086027,LOCATION_OF,intensive care unit,"Analysis, Cohort",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0086750,LOCATION_OF,intensive care unit,Outcomes Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0150093,LOCATION_OF,intensive care unit,case series,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0150095,LOCATION_OF,intensive care unit,Convenience Sampling,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0150097,LOCATION_OF,intensive care unit,Cross-Over Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0150114,LOCATION_OF,intensive care unit,unaware,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0201734,LOCATION_OF,intensive care unit,Pharmacokinetic study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0206012,LOCATION_OF,intensive care unit,Multicenter Trials,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0206031,LOCATION_OF,intensive care unit,Logistic Regression,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0206034,LOCATION_OF,intensive care unit,"Clinical Trials, Randomized",hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0021708,C0206035,LOCATION_OF,intensive care unit,"Controlled Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0242802,LOCATION_OF,intensive care unit,Patient Selection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0302523,LOCATION_OF,intensive care unit,Observation in research,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0021708,C0543472,LOCATION_OF,intensive care unit,Outcome Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0596572,LOCATION_OF,intensive care unit,field study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0681797,LOCATION_OF,intensive care unit,paradigm,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0681814,LOCATION_OF,intensive care unit,research study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0681817,LOCATION_OF,intensive care unit,national survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0681834,LOCATION_OF,intensive care unit,applied research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0681867,LOCATION_OF,intensive care unit,controlled study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021708,C0681873,LOCATION_OF,intensive care unit,research data,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0681913,LOCATION_OF,intensive care unit,structured interview,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0681925,LOCATION_OF,intensive care unit,logistic regression analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0683962,LOCATION_OF,intensive care unit,univariate statistics,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C0814861,LOCATION_OF,intensive care unit,prevention trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C0920317,LOCATION_OF,intensive care unit,Meta Analysis (statistical procedure),hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0021708,C0949415,LOCATION_OF,intensive care unit,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C1096776,LOCATION_OF,intensive care unit,Multicenter Study,hcro,resa,15,LOCATION_OF_HCROlocfRESA
+C0021708,C1514983,LOCATION_OF,intensive care unit,Stratification,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C1515980,LOCATION_OF,intensive care unit,Ancillary Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C1518527,LOCATION_OF,intensive care unit,Observational Study,hcro,resa,22,LOCATION_OF_HCROlocfRESA
+C0021708,C1518914,LOCATION_OF,intensive care unit,Patient-Focused Outcomes,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C1521729,LOCATION_OF,intensive care unit,Nutritional Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C1709323,LOCATION_OF,intensive care unit,Open Label Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021708,C1709709,LOCATION_OF,intensive care unit,Prospective Cohort Study,hcro,resa,17,LOCATION_OF_HCROlocfRESA
+C0021708,C2603343,LOCATION_OF,intensive care unit,Study,hcro,resa,218,LOCATION_OF_HCROlocfRESA
+C0021708,C2985410,LOCATION_OF,intensive care unit,Non-Randomized Controlled Trials as Topic,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C2985505,LOCATION_OF,intensive care unit,Retrospective Cohort Study,hcro,resa,9,LOCATION_OF_HCROlocfRESA
+C0021708,C2986480,LOCATION_OF,intensive care unit,Subset Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021708,C3274035,LOCATION_OF,intensive care unit,Interventional Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0021708,C4505280,LOCATION_OF,intensive care unit,Proof of Concept Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0007328,LOCATION_OF,"Intensive Care Units, Neonatal",Case-Control Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021709,C0009085,LOCATION_OF,"Intensive Care Units, Neonatal",statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0010362,LOCATION_OF,"Intensive Care Units, Neonatal",Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0015730,LOCATION_OF,"Intensive Care Units, Neonatal",Feasibility Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0031928,LOCATION_OF,"Intensive Care Units, Neonatal",Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0033522,LOCATION_OF,"Intensive Care Units, Neonatal",Prospective Studies,hcro,resa,9,LOCATION_OF_HCROlocfRESA
+C0021709,C0035363,LOCATION_OF,"Intensive Care Units, Neonatal",Retrospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0021709,C0150097,LOCATION_OF,"Intensive Care Units, Neonatal",Cross-Over Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0021709,C0206034,LOCATION_OF,"Intensive Care Units, Neonatal","Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0302523,LOCATION_OF,"Intensive Care Units, Neonatal",Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C0920321,LOCATION_OF,"Intensive Care Units, Neonatal",Phase I Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C1518527,LOCATION_OF,"Intensive Care Units, Neonatal",Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C1709709,LOCATION_OF,"Intensive Care Units, Neonatal",Prospective Cohort Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0021709,C2603343,LOCATION_OF,"Intensive Care Units, Neonatal",Study,hcro,resa,29,LOCATION_OF_HCROlocfRESA
+C0021709,C2985505,LOCATION_OF,"Intensive Care Units, Neonatal",Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021709,C3850092,LOCATION_OF,"Intensive Care Units, Neonatal",Interrupted Time Series Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021710,C0010995,LOCATION_OF,Pediatric intensive care unit,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021710,C0023981,LOCATION_OF,Pediatric intensive care unit,Longitudinal Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021710,C0033522,LOCATION_OF,Pediatric intensive care unit,Prospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0021710,C0035363,LOCATION_OF,Pediatric intensive care unit,Retrospective Studies,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0021710,C0150093,LOCATION_OF,Pediatric intensive care unit,case series,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021710,C1096776,LOCATION_OF,Pediatric intensive care unit,Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0021710,C2603343,LOCATION_OF,Pediatric intensive care unit,Study,hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0022877,C0002783,LOCATION_OF,Laboratory,Epidemiologic Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0005540,LOCATION_OF,Laboratory,Biomedical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0008972,LOCATION_OF,Laboratory,Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0008976,LOCATION_OF,Laboratory,Clinical Trials,hcro,resa,24,LOCATION_OF_HCROlocfRESA
+C0022877,C0010362,LOCATION_OF,Laboratory,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0010995,LOCATION_OF,Laboratory,Data Collection,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0022877,C0011000,LOCATION_OF,Laboratory,Data Reporting,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0013072,LOCATION_OF,Laboratory,Double-Blind Method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0016441,LOCATION_OF,Laboratory,Follow-Up Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0016464,LOCATION_OF,Laboratory,Food deprivation (experimental),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0022886,LOCATION_OF,Laboratory,Laboratory Research,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0023981,LOCATION_OF,Laboratory,Longitudinal Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0031928,LOCATION_OF,Laboratory,Pilot Projects,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C0033522,LOCATION_OF,Laboratory,Prospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C0035170,LOCATION_OF,Laboratory,Research and Development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0035363,LOCATION_OF,Laboratory,Retrospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0022877,C0036449,LOCATION_OF,Laboratory,Scoring Methods,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0036718,LOCATION_OF,Laboratory,Serial Passage,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0022877,C0036744,LOCATION_OF,Laboratory,Seroepidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0037680,LOCATION_OF,Laboratory,Sonication,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0038136,LOCATION_OF,Laboratory,Standardization,hcro,resa,10,LOCATION_OF_HCROlocfRESA
+C0022877,C0042768,LOCATION_OF,Laboratory,Virus Cultivation,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0022877,C0150095,LOCATION_OF,Laboratory,Convenience Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0150103,LOCATION_OF,Laboratory,MATCHING,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C0162588,LOCATION_OF,Laboratory,"Models, Organizational",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0178693,LOCATION_OF,Laboratory,human study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0205664,LOCATION_OF,Laboratory,Animal Experiments,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0022877,C0242481,LOCATION_OF,Laboratory,Research Activities,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0242791,LOCATION_OF,Laboratory,Sentinel Surveillance,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0022877,C0243064,LOCATION_OF,Laboratory,Genetic Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0260206,LOCATION_OF,Laboratory,research grants,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0302523,LOCATION_OF,Laboratory,Observation in research,hcro,resa,12,LOCATION_OF_HCROlocfRESA
+C0022877,C0449876,LOCATION_OF,Laboratory,Test protocol used,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0596404,LOCATION_OF,Laboratory,Data Management,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0022877,C0596572,LOCATION_OF,Laboratory,field study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0596723,LOCATION_OF,Laboratory,human data,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0597634,LOCATION_OF,Laboratory,vaccine development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0600367,LOCATION_OF,Laboratory,Seroprevalence,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C0678323,LOCATION_OF,Laboratory,experimentation,hcro,resa,17,LOCATION_OF_HCROlocfRESA
+C0022877,C0679083,LOCATION_OF,Laboratory,simulation,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0681797,LOCATION_OF,Laboratory,paradigm,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0681804,LOCATION_OF,Laboratory,collaborative study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0681805,LOCATION_OF,Laboratory,research funding,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C0681814,LOCATION_OF,Laboratory,research study,hcro,resa,378,LOCATION_OF_HCROlocfRESA
+C0022877,C0681828,LOCATION_OF,Laboratory,in vitro study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0022877,C0681829,LOCATION_OF,Laboratory,in vivo study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0681833,LOCATION_OF,Laboratory,basic research,hcro,resa,12,LOCATION_OF_HCROlocfRESA
+C0022877,C0681836,LOCATION_OF,Laboratory,Validation Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0681867,LOCATION_OF,Laboratory,controlled study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0022877,C0681876,LOCATION_OF,Laboratory,Population Study (research activity),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0681908,LOCATION_OF,Laboratory,testing protocols,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0022877,C0683933,LOCATION_OF,Laboratory,scientific research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0683935,LOCATION_OF,Laboratory,research program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0683961,LOCATION_OF,Laboratory,data analysis method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0870071,LOCATION_OF,Laboratory,modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0871738,LOCATION_OF,Laboratory,experimental method,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C0871881,LOCATION_OF,Laboratory,repeated measures,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0920317,LOCATION_OF,Laboratory,Meta Analysis (statistical procedure),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C0949415,LOCATION_OF,Laboratory,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1293089,LOCATION_OF,Laboratory,Animal trials,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0022877,C1510899,LOCATION_OF,Laboratory,Animal Testing,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1511036,LOCATION_OF,Laboratory,Bacterial Model,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1515093,LOCATION_OF,Laboratory,Surveillance Methods,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1515095,LOCATION_OF,Laboratory,Surveillance Program,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0022877,C1515653,LOCATION_OF,Laboratory,In Vitro Assay,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1515657,LOCATION_OF,Laboratory,In Vivo Model,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C1516365,LOCATION_OF,Laboratory,Cellular Assay,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1516634,LOCATION_OF,Laboratory,research clinical testing,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C1518101,LOCATION_OF,Laboratory,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0022877,C1518613,LOCATION_OF,Laboratory,Organism Modification,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C1519068,LOCATION_OF,Laboratory,Phylogenetic Analysis,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0022877,C1519941,LOCATION_OF,Laboratory,Validation,hcro,resa,43,LOCATION_OF_HCROlocfRESA
+C0022877,C1657306,LOCATION_OF,Laboratory,Reverse Genetics,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0022877,C1709631,LOCATION_OF,Laboratory,Nonclinical Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0022877,C1882115,LOCATION_OF,Laboratory,Normalize,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C2348164,LOCATION_OF,Laboratory,Screening Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C2603343,LOCATION_OF,Laboratory,Study,hcro,resa,205,LOCATION_OF_HCROlocfRESA
+C0022877,C2826345,LOCATION_OF,Laboratory,Parallel Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C2827447,LOCATION_OF,Laboratory,Genetic Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C2911685,LOCATION_OF,Laboratory,Evaluation Method,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C2936546,LOCATION_OF,Laboratory,Molecular Typing,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C3494163,LOCATION_OF,Laboratory,Translational Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C4054739,LOCATION_OF,Laboratory,Immunogenicity Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C4288563,LOCATION_OF,Laboratory,Observational Model,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C4505280,LOCATION_OF,Laboratory,Proof of Concept Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C4505282,LOCATION_OF,Laboratory,Proof of Concept Evaluation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022877,C4525107,LOCATION_OF,Laboratory,Physicochemical Property Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0022879,C2603343,LOCATION_OF,"Laboratories, Hospital",Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0023337,C0679083,LOCATION_OF,Leper Colonies,simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027450,C0376344,LOCATION_OF,National Center for Health Statistics (U.S.),National Health and Nutrition Examination Survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027463,C2603343,LOCATION_OF,National Institute for Occupational Safety and Health (U.S.),Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C0003048,LOCATION_OF,United States National Institutes of Health,Animal Experimentation,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027468,C0008972,LOCATION_OF,United States National Institutes of Health,Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C0008976,LOCATION_OF,United States National Institutes of Health,Clinical Trials,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0027468,C0020125,LOCATION_OF,United States National Institutes of Health,Human Genome Project,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C0031928,LOCATION_OF,United States National Institutes of Health,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C0035170,LOCATION_OF,United States National Institutes of Health,Research and Development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C0260206,LOCATION_OF,United States National Institutes of Health,research grants,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027468,C0282460,LOCATION_OF,United States National Institutes of Health,Phase 2 Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027468,C0681797,LOCATION_OF,United States National Institutes of Health,paradigm,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C0681805,LOCATION_OF,United States National Institutes of Health,research funding,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027468,C0681814,LOCATION_OF,United States National Institutes of Health,research study,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0027468,C0681876,LOCATION_OF,United States National Institutes of Health,Population Study (research activity),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C1096776,LOCATION_OF,United States National Institutes of Health,Multicenter Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027468,C1518101,LOCATION_OF,United States National Institutes of Health,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C1518935,LOCATION_OF,United States National Institutes of Health,Pediatric Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027468,C1519888,LOCATION_OF,United States National Institutes of Health,Vaccine Clinical Trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C1519901,LOCATION_OF,United States National Institutes of Health,Vaccine Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C1709323,LOCATION_OF,United States National Institutes of Health,Open Label Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0027468,C2603343,LOCATION_OF,United States National Institutes of Health,Study,hcro,resa,10,LOCATION_OF_HCROlocfRESA
+C0027468,C3494163,LOCATION_OF,United States National Institutes of Health,Translational Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0027470,C0681833,LOCATION_OF,National Library of Medicine (U.S.),basic research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0002783,LOCATION_OF,Nursing Homes,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0007328,LOCATION_OF,Nursing Homes,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0008976,LOCATION_OF,Nursing Homes,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0010995,LOCATION_OF,Nursing Homes,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0033522,LOCATION_OF,Nursing Homes,Prospective Studies,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0028688,C0035363,LOCATION_OF,Nursing Homes,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0150093,LOCATION_OF,Nursing Homes,case series,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0206034,LOCATION_OF,Nursing Homes,"Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0242791,LOCATION_OF,Nursing Homes,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0681817,LOCATION_OF,Nursing Homes,national survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C0681915,LOCATION_OF,Nursing Homes,content analysis,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0028688,C0683962,LOCATION_OF,Nursing Homes,univariate statistics,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C1709599,LOCATION_OF,Nursing Homes,Population Based Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0028688,C2603343,LOCATION_OF,Nursing Homes,Study,hcro,resa,27,LOCATION_OF_HCROlocfRESA
+C0028688,C2985505,LOCATION_OF,Nursing Homes,Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0029064,C0008972,LOCATION_OF,Operating Room,Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0029064,C0679083,LOCATION_OF,Operating Room,simulation,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0029064,C2603343,LOCATION_OF,Operating Room,Study,hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0031322,C0031928,LOCATION_OF,Pharmacy facility,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0031322,C0150095,LOCATION_OF,Pharmacy facility,Convenience Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0031322,C2603343,LOCATION_OF,Pharmacy facility,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0031834,C0011000,LOCATION_OF,Physicians' Offices,Data Reporting,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0031834,C0022886,LOCATION_OF,Physicians' Offices,Laboratory Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0031834,C2603343,LOCATION_OF,Physicians' Offices,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0033173,C1518527,LOCATION_OF,"Hospitals, Private",Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0033173,C2603343,LOCATION_OF,"Hospitals, Private",Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0034871,C2603343,LOCATION_OF,Postoperative anesthesia care unit (PACU),Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0035215,C0027775,LOCATION_OF,Respiratory Care Units,Nested Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0035215,C2603343,LOCATION_OF,Respiratory Care Units,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0035215,C4505280,LOCATION_OF,Respiratory Care Units,Proof of Concept Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0036378,C0003048,LOCATION_OF,"Schools, Medical",Animal Experimentation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0036378,C0035170,LOCATION_OF,"Schools, Medical",Research and Development,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0036378,C0205664,LOCATION_OF,"Schools, Medical",Animal Experiments,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0036378,C0302523,LOCATION_OF,"Schools, Medical",Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0036378,C0681805,LOCATION_OF,"Schools, Medical",research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0036378,C0681814,LOCATION_OF,"Schools, Medical",research study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0036378,C2603343,LOCATION_OF,"Schools, Medical",Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0036383,C0003048,LOCATION_OF,"Schools, Veterinary",Animal Experimentation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0037265,C0002783,LOCATION_OF,skilled nursing facility,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0037265,C0150093,LOCATION_OF,skilled nursing facility,case series,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0037265,C0206012,LOCATION_OF,skilled nursing facility,Multicenter Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0037265,C0206034,LOCATION_OF,skilled nursing facility,"Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0037265,C0681814,LOCATION_OF,skilled nursing facility,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0037265,C2603343,LOCATION_OF,skilled nursing facility,Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0040278,C0015320,LOCATION_OF,Tissue Banks,Experimental Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0040786,C0010995,LOCATION_OF,Trauma Centers,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0040786,C0033522,LOCATION_OF,Trauma Centers,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0040786,C0035363,LOCATION_OF,Trauma Centers,Retrospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0040786,C0086027,LOCATION_OF,Trauma Centers,"Analysis, Cohort",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0040786,C2603343,LOCATION_OF,Trauma Centers,Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0041711,C0524785,LOCATION_OF,United States Dept. of Health and Human Services,Benefit-Risk Assessment,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0041711,C0681814,LOCATION_OF,United States Dept. of Health and Human Services,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0041714,C0002783,LOCATION_OF,United States Food and Drug Administration,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0041714,C0008976,LOCATION_OF,United States Food and Drug Administration,Clinical Trials,hcro,resa,9,LOCATION_OF_HCROlocfRESA
+C0041714,C0599950,LOCATION_OF,United States Food and Drug Administration,clinical trials in animals,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0041714,C0681833,LOCATION_OF,United States Food and Drug Administration,basic research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0041714,C1519941,LOCATION_OF,United States Food and Drug Administration,Validation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0041714,C2603343,LOCATION_OF,United States Food and Drug Administration,Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C0043237,C0008976,LOCATION_OF,World Health Organization,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C0035171,LOCATION_OF,World Health Organization,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C0038136,LOCATION_OF,World Health Organization,Standardization,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C0260206,LOCATION_OF,World Health Organization,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C0681804,LOCATION_OF,World Health Organization,collaborative study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C1515095,LOCATION_OF,World Health Organization,Surveillance Program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C1519901,LOCATION_OF,World Health Organization,Vaccine Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0043237,C2603343,LOCATION_OF,World Health Organization,Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0086690,C2603343,LOCATION_OF,Neighborhood Health Centers,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0150767,C0009085,LOCATION_OF,Shelter facility,statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0150767,C0010995,LOCATION_OF,Shelter facility,Data Collection,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0150767,C0596572,LOCATION_OF,Shelter facility,field study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0150767,C2603343,LOCATION_OF,Shelter facility,Study,hcro,resa,11,LOCATION_OF_HCROlocfRESA
+C0205754,C1519941,LOCATION_OF,Clean Rooms,Validation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0205754,C1881959,LOCATION_OF,Clean Rooms,Nanofabrication,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0221502,C0681814,LOCATION_OF,infirmaries,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0221502,C2603343,LOCATION_OF,infirmaries,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0242638,C2603343,LOCATION_OF,"Surveillance, Epidemiology, and End Results (SEER) Program",Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0242795,C2603343,LOCATION_OF,Home Care Agencies,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0259944,C0031928,LOCATION_OF,hospital wards,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0259944,C1519941,LOCATION_OF,hospital wards,Validation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0259944,C2603343,LOCATION_OF,hospital wards,Study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0260123,C0010995,LOCATION_OF,hospital pharmacies,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0282484,C2603343,LOCATION_OF,Accountable Health Plans,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0282599,C0035363,LOCATION_OF,Integrated Health Care Systems,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331761,C0260206,LOCATION_OF,abbott,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331779,C0949415,LOCATION_OF,basel,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331792,C0681805,LOCATION_OF,boehringer ingelheim,research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331798,C0681804,LOCATION_OF,Burroughs Wellcome,collaborative study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331820,C0260206,LOCATION_OF,genentech,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331822,C0035170,LOCATION_OF,glaxo,Research and Development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331842,C0035170,LOCATION_OF,janssen,Research and Development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331842,C0681805,LOCATION_OF,janssen,research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331843,C4277728,LOCATION_OF,Johnson and Johnson,Pharmaceutical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331857,C0681814,LOCATION_OF,mason,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331864,C0022886,LOCATION_OF,Merck Sharp & Dohme,Laboratory Research,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0331873,C0008976,LOCATION_OF,nordic,Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0331883,C0681814,LOCATION_OF,paddock,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331888,C0008976,LOCATION_OF,pfizer,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331888,C0260206,LOCATION_OF,pfizer,research grants,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0331888,C0681805,LOCATION_OF,pfizer,research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331888,C2603343,LOCATION_OF,pfizer,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331889,C0681814,LOCATION_OF,princeton,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331897,C0681814,LOCATION_OF,searle,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331925,C0201734,LOCATION_OF,wallace,Pharmacokinetic study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331965,C0260206,LOCATION_OF,roche,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0331965,C0681834,LOCATION_OF,roche,applied research,hcro,resa,269,LOCATION_OF_HCROlocfRESA
+C0332030,C2603343,LOCATION_OF,biomed,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0332037,C0302523,LOCATION_OF,Protocol Group,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337952,C2603343,LOCATION_OF,Primary care hospital,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337953,C0031928,LOCATION_OF,Secondary care hospital,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337954,C0002783,LOCATION_OF,Tertiary care hospital,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337954,C0007328,LOCATION_OF,Tertiary care hospital,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337954,C0008976,LOCATION_OF,Tertiary care hospital,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337954,C0010362,LOCATION_OF,Tertiary care hospital,Cross-Sectional Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0337954,C0031928,LOCATION_OF,Tertiary care hospital,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337954,C0033522,LOCATION_OF,Tertiary care hospital,Prospective Studies,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0337954,C0035363,LOCATION_OF,Tertiary care hospital,Retrospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0337954,C1518527,LOCATION_OF,Tertiary care hospital,Observational Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0337954,C1709323,LOCATION_OF,Tertiary care hospital,Open Label Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337954,C1709709,LOCATION_OF,Tertiary care hospital,Prospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0337954,C2603343,LOCATION_OF,Tertiary care hospital,Study,hcro,resa,20,LOCATION_OF_HCROlocfRESA
+C0337960,C0242791,LOCATION_OF,Government hospital,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337960,C2603343,LOCATION_OF,Government hospital,Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0337961,C0033522,LOCATION_OF,Veteran's administration hospital,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337961,C0681814,LOCATION_OF,Veteran's administration hospital,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0337961,C2603343,LOCATION_OF,Veteran's administration hospital,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0337964,C0033522,LOCATION_OF,Geriatric hospital,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0338037,C0150095,LOCATION_OF,Private physicians' group office,Convenience Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0338037,C2603343,LOCATION_OF,Private physicians' group office,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0338053,C0242791,LOCATION_OF,Sexually transmitted disease clinic,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0338053,C2603343,LOCATION_OF,Sexually transmitted disease clinic,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0008976,LOCATION_OF,Clinic,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0009085,LOCATION_OF,Clinic,statistical cluster,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0442592,C0010362,LOCATION_OF,Clinic,Cross-Sectional Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0442592,C0010995,LOCATION_OF,Clinic,Data Collection,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0442592,C0031928,LOCATION_OF,Clinic,Pilot Projects,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0442592,C0033522,LOCATION_OF,Clinic,Prospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0442592,C0035171,LOCATION_OF,Clinic,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0150097,LOCATION_OF,Clinic,Cross-Over Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0201734,LOCATION_OF,Clinic,Pharmacokinetic study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0242791,LOCATION_OF,Clinic,Sentinel Surveillance,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0442592,C0282461,LOCATION_OF,Clinic,Phase 3 Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0302523,LOCATION_OF,Clinic,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0600367,LOCATION_OF,Clinic,Seroprevalence,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0442592,C0679083,LOCATION_OF,Clinic,simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0681883,LOCATION_OF,Clinic,Stratified Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0681913,LOCATION_OF,Clinic,structured interview,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0681925,LOCATION_OF,Clinic,logistic regression analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0871881,LOCATION_OF,Clinic,repeated measures,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C0920317,LOCATION_OF,Clinic,Meta Analysis (statistical procedure),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0442592,C2603343,LOCATION_OF,Clinic,Study,hcro,resa,25,LOCATION_OF_HCROlocfRESA
+C0471011,C0260206,LOCATION_OF,octapharma,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0471186,C0681797,LOCATION_OF,Local Health Authority,paradigm,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0008976,LOCATION_OF,Health center,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0010362,LOCATION_OF,Health center,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0010995,LOCATION_OF,Health center,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0013175,LOCATION_OF,Health center,Drug Evaluation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0015195,LOCATION_OF,Health center,Evaluation Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0035363,LOCATION_OF,Health center,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0150095,LOCATION_OF,Health center,Convenience Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0260206,LOCATION_OF,Health center,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0302523,LOCATION_OF,Health center,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C0681836,LOCATION_OF,Health center,Validation Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0475309,C2603343,LOCATION_OF,Health center,Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0525051,C2603343,LOCATION_OF,Healthcare Industry,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0007328,LOCATION_OF,Accident and Emergency department,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0008976,LOCATION_OF,Accident and Emergency department,Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0562508,C0010362,LOCATION_OF,Accident and Emergency department,Cross-Sectional Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0562508,C0010995,LOCATION_OF,Accident and Emergency department,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0035171,LOCATION_OF,Accident and Emergency department,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0206035,LOCATION_OF,Accident and Emergency department,"Controlled Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0242791,LOCATION_OF,Accident and Emergency department,Sentinel Surveillance,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0562508,C0679083,LOCATION_OF,Accident and Emergency department,simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0681814,LOCATION_OF,Accident and Emergency department,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0681817,LOCATION_OF,Accident and Emergency department,national survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C0814897,LOCATION_OF,Accident and Emergency department,statistical power,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C1096776,LOCATION_OF,Accident and Emergency department,Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C1134635,LOCATION_OF,Accident and Emergency department,screening questionnaire,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C1518527,LOCATION_OF,Accident and Emergency department,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C1519068,LOCATION_OF,Accident and Emergency department,Phylogenetic Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0562508,C1709709,LOCATION_OF,Accident and Emergency department,Prospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0562508,C2603343,LOCATION_OF,Accident and Emergency department,Study,hcro,resa,22,LOCATION_OF_HCROlocfRESA
+C0565990,C0008972,LOCATION_OF,Medical center,Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0008976,LOCATION_OF,Medical center,Clinical Trials,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0565990,C0010362,LOCATION_OF,Medical center,Cross-Sectional Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0565990,C0010995,LOCATION_OF,Medical center,Data Collection,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0565990,C0031928,LOCATION_OF,Medical center,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0033522,LOCATION_OF,Medical center,Prospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0565990,C0034656,LOCATION_OF,Medical center,Randomization,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0035171,LOCATION_OF,Medical center,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0035363,LOCATION_OF,Medical center,Retrospective Studies,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0565990,C0205664,LOCATION_OF,Medical center,Animal Experiments,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0206034,LOCATION_OF,Medical center,"Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0282460,LOCATION_OF,Medical center,Phase 2 Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0282461,LOCATION_OF,Medical center,Phase 3 Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0302523,LOCATION_OF,Medical center,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0600367,LOCATION_OF,Medical center,Seroprevalence,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0565990,C0681814,LOCATION_OF,Medical center,research study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0565990,C0681873,LOCATION_OF,Medical center,research data,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C0814861,LOCATION_OF,Medical center,prevention trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C1518527,LOCATION_OF,Medical center,Observational Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0565990,C2347038,LOCATION_OF,Medical center,Blinded Clinical Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0565990,C2603343,LOCATION_OF,Medical center,Study,hcro,resa,26,LOCATION_OF_HCROlocfRESA
+C0565990,C2985505,LOCATION_OF,Medical center,Retrospective Cohort Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0587437,C0002783,LOCATION_OF,Tertiary Care Centers,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0007328,LOCATION_OF,Tertiary Care Centers,Case-Control Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0587437,C0010362,LOCATION_OF,Tertiary Care Centers,Cross-Sectional Studies,hcro,resa,8,LOCATION_OF_HCROlocfRESA
+C0587437,C0021823,LOCATION_OF,Tertiary Care Centers,"Interviews, Telephone",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0031928,LOCATION_OF,Tertiary Care Centers,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0033522,LOCATION_OF,Tertiary Care Centers,Prospective Studies,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0587437,C0035363,LOCATION_OF,Tertiary Care Centers,Retrospective Studies,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C0587437,C0150093,LOCATION_OF,Tertiary Care Centers,case series,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0150105,LOCATION_OF,Tertiary Care Centers,Random Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0206034,LOCATION_OF,Tertiary Care Centers,"Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0242800,LOCATION_OF,Tertiary Care Centers,Patient Recruitment,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0260206,LOCATION_OF,Tertiary Care Centers,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C0949415,LOCATION_OF,Tertiary Care Centers,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587437,C1096776,LOCATION_OF,Tertiary Care Centers,Multicenter Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C0587437,C1518527,LOCATION_OF,Tertiary Care Centers,Observational Study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0587437,C1709709,LOCATION_OF,Tertiary Care Centers,Prospective Cohort Study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0587437,C2603343,LOCATION_OF,Tertiary Care Centers,Study,hcro,resa,51,LOCATION_OF_HCROlocfRESA
+C0587437,C2985505,LOCATION_OF,Tertiary Care Centers,Retrospective Cohort Study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0587437,C2986480,LOCATION_OF,Tertiary Care Centers,Subset Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587438,C0010995,LOCATION_OF,Day hospital,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587444,C2603343,LOCATION_OF,Radiotherapy department,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587445,C0035363,LOCATION_OF,Adult intensive care unit,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587449,C1518527,LOCATION_OF,Respiratory intensive care unit,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587449,C1709709,LOCATION_OF,Respiratory intensive care unit,Prospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587450,C0035171,LOCATION_OF,Medical department,Research Design,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587450,C2603343,LOCATION_OF,Medical department,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587450,C2985505,LOCATION_OF,Medical department,Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587478,C2603343,LOCATION_OF,Rehabilitation department,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587482,C0007328,LOCATION_OF,Pediatric department,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587482,C0024907,LOCATION_OF,Pediatric department,Matched Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587482,C0033522,LOCATION_OF,Pediatric department,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587482,C0681867,LOCATION_OF,Pediatric department,controlled study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587482,C1515095,LOCATION_OF,Pediatric department,Surveillance Program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587482,C2603343,LOCATION_OF,Pediatric department,Study,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C0587500,C0035363,LOCATION_OF,Radiology department,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587500,C0679083,LOCATION_OF,Radiology department,simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587500,C2603343,LOCATION_OF,Radiology department,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587503,C2603343,LOCATION_OF,Surgical department,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587514,C0008976,LOCATION_OF,"Ear, nose and throat department",Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587525,C2603343,LOCATION_OF,Orthopedic department,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587527,C0033522,LOCATION_OF,Pediatric surgical department,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587727,C0010362,LOCATION_OF,Pediatric Accident and Emergency department,Cross-Sectional Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0587727,C0679083,LOCATION_OF,Pediatric Accident and Emergency department,simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587727,C0681817,LOCATION_OF,Pediatric Accident and Emergency department,national survey,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0587727,C1096776,LOCATION_OF,Pediatric Accident and Emergency department,Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587727,C1709709,LOCATION_OF,Pediatric Accident and Emergency department,Prospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0587727,C2603343,LOCATION_OF,Pediatric Accident and Emergency department,Study,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C0587906,C2603343,LOCATION_OF,Hospital clinic,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0587906,C2985505,LOCATION_OF,Hospital clinic,Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0587907,C0600367,LOCATION_OF,Community clinic,Seroprevalence,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0600622,C0031928,LOCATION_OF,Wellness Centers,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0600622,C0242791,LOCATION_OF,Wellness Centers,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0600622,C0681804,LOCATION_OF,Wellness Centers,collaborative study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0600622,C0681947,LOCATION_OF,Wellness Centers,structural equation modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0679900,C2603343,LOCATION_OF,free clinic,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0679901,C0242791,LOCATION_OF,detoxification center,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0745280,C0002783,LOCATION_OF,Infectious disease clinic,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0745280,C0008972,LOCATION_OF,Infectious disease clinic,Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0814517,C2603343,LOCATION_OF,primary care facility,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C0815184,C1518527,LOCATION_OF,treatment setting,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0815266,C0035170,LOCATION_OF,drug companies,Research and Development,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0815266,C0282461,LOCATION_OF,drug companies,Phase 3 Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0815266,C0870071,LOCATION_OF,drug companies,modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0815266,C1515653,LOCATION_OF,drug companies,In Vitro Assay,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0871286,C2603343,LOCATION_OF,sanatoriums,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0872103,C2603343,LOCATION_OF,Assisted Living Facilities,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C0920545,C2603343,LOCATION_OF,health organization,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273802,C0242791,LOCATION_OF,Regional office,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273802,C2603343,LOCATION_OF,Regional office,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273803,C0242791,LOCATION_OF,Health Authority,Sentinel Surveillance,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273803,C0260205,LOCATION_OF,Health Authority,Experimental Medicine,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273803,C0870071,LOCATION_OF,Health Authority,modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273804,C0008976,LOCATION_OF,Primary Care Group,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1273810,C2603343,LOCATION_OF,nhs trust,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0002783,LOCATION_OF,Ward (environment),Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0007328,LOCATION_OF,Ward (environment),Case-Control Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1305702,C0008976,LOCATION_OF,Ward (environment),Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0009085,LOCATION_OF,Ward (environment),statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0010362,LOCATION_OF,Ward (environment),Cross-Sectional Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C1305702,C0031928,LOCATION_OF,Ward (environment),Pilot Projects,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C1305702,C0033522,LOCATION_OF,Ward (environment),Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0034656,LOCATION_OF,Ward (environment),Randomization,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0035363,LOCATION_OF,Ward (environment),Retrospective Studies,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C1305702,C0086027,LOCATION_OF,Ward (environment),"Analysis, Cohort",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0242791,LOCATION_OF,Ward (environment),Sentinel Surveillance,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1305702,C0600367,LOCATION_OF,Ward (environment),Seroprevalence,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1305702,C0679083,LOCATION_OF,Ward (environment),simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0681797,LOCATION_OF,Ward (environment),paradigm,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0681840,LOCATION_OF,Ward (environment),re-evaluation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0681876,LOCATION_OF,Ward (environment),Population Study (research activity),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0681880,LOCATION_OF,Ward (environment),Matched Sampling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C0814861,LOCATION_OF,Ward (environment),prevention trial,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1305702,C0949415,LOCATION_OF,Ward (environment),Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1305702,C1518527,LOCATION_OF,Ward (environment),Observational Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1305702,C2603343,LOCATION_OF,Ward (environment),Study,hcro,resa,27,LOCATION_OF_HCROlocfRESA
+C1321139,C0242802,LOCATION_OF,Ambulatory surgery center,Patient Selection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1511521,C0681814,LOCATION_OF,Core Facility,research study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1511521,C1096776,LOCATION_OF,Core Facility,Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1511521,C1518101,LOCATION_OF,Core Facility,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1511716,C0205664,LOCATION_OF,Dana-Farber/Harvard Cancer Center,Animal Experiments,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1512006,C0302523,LOCATION_OF,Division of Extramural Activities,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1512006,C0681814,LOCATION_OF,Division of Extramural Activities,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1512006,C0870071,LOCATION_OF,Division of Extramural Activities,modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1512162,C2603343,LOCATION_OF,Eastern Cooperative Oncology Group,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513120,C0282459,LOCATION_OF,Memorial Sloan-Kettering Cancer Center,"Clinical Trial, Phase I",hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1513120,C0681797,LOCATION_OF,Memorial Sloan-Kettering Cancer Center,paradigm,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513120,C2603343,LOCATION_OF,Memorial Sloan-Kettering Cancer Center,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513817,C2985505,LOCATION_OF,NCI-Designated Cancer Center,Retrospective Cohort Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513845,C1709631,LOCATION_OF,NIH Vaccine Research Center,Nonclinical Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513882,C0008972,LOCATION_OF,National Cancer Institute,Clinical Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513882,C0008976,LOCATION_OF,National Cancer Institute,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513882,C0282461,LOCATION_OF,National Cancer Institute,Phase 3 Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1513882,C0302523,LOCATION_OF,National Cancer Institute,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513882,C0681814,LOCATION_OF,National Cancer Institute,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513882,C0920321,LOCATION_OF,National Cancer Institute,Phase I Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1513882,C4528420,LOCATION_OF,National Cancer Institute,Genomic Data Commons,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513895,C0008976,LOCATION_OF,National Institute of Allergy and Infectious Diseases (U.S.),Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1513895,C0681798,LOCATION_OF,National Institute of Allergy and Infectious Diseases (U.S.),research agenda,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1513895,C0681814,LOCATION_OF,National Institute of Allergy and Infectious Diseases (U.S.),research study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1513895,C0683935,LOCATION_OF,National Institute of Allergy and Infectious Diseases (U.S.),research program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1513895,C1519888,LOCATION_OF,National Institute of Allergy and Infectious Diseases (U.S.),Vaccine Clinical Trial,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1516476,C2603343,LOCATION_OF,Children's Cancer Group,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1516985,C0008976,LOCATION_OF,European Organization for Research and Treatment of Cancer,Clinical Trials,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C1516985,C0033522,LOCATION_OF,European Organization for Research and Treatment of Cancer,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1516985,C1518527,LOCATION_OF,European Organization for Research and Treatment of Cancer,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1517309,C0033522,LOCATION_OF,Fred Hutchinson/University of Washington Cancer Consortium,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1517309,C0035363,LOCATION_OF,Fred Hutchinson/University of Washington Cancer Consortium,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1517309,C0681814,LOCATION_OF,Fred Hutchinson/University of Washington Cancer Consortium,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1517309,C2603343,LOCATION_OF,Fred Hutchinson/University of Washington Cancer Consortium,Study,hcro,resa,9,LOCATION_OF_HCROlocfRESA
+C1517309,C2985505,LOCATION_OF,Fred Hutchinson/University of Washington Cancer Consortium,Retrospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1517707,C0678323,LOCATION_OF,Laboratory Animal Production and Facilities,experimentation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1518932,C0008976,LOCATION_OF,Pediatric Oncology Group,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1519110,C0008976,LOCATION_OF,Roswell Park Cancer Institute,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1519805,C0008976,LOCATION_OF,University of Texas MD Anderson Cancer Center,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1519805,C2603343,LOCATION_OF,University of Texas MD Anderson Cancer Center,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1545982,C0038136,LOCATION_OF,Nursing unit,Standardization,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1546885,C0205664,LOCATION_OF,New York Blood Center,Animal Experiments,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C1550683,C0010362,LOCATION_OF,Outpatient facility,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1550683,C2603343,LOCATION_OF,Outpatient facility,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1551285,C2603343,LOCATION_OF,Urgent Care Clinic/Center,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1552881,C0681805,LOCATION_OF,Abbott Laboratories,research funding,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1552903,C0022886,LOCATION_OF,SmithKline Beecham,Laboratory Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1552903,C0260206,LOCATION_OF,SmithKline Beecham,research grants,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1552903,C0681805,LOCATION_OF,SmithKline Beecham,research funding,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C1690590,C0008976,LOCATION_OF,Surgical intensive care unit,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1690590,C0033522,LOCATION_OF,Surgical intensive care unit,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1707735,C2603343,LOCATION_OF,Dialysis Center,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1708333,C2603343,LOCATION_OF,Health Care Organization,Study,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C1708467,C2603343,LOCATION_OF,Imaging Center,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1709628,C2603343,LOCATION_OF,Practitioners Engaged in Applied Research and Learning Network,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1709762,C2603343,LOCATION_OF,Psychiatric Center,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1718195,C0031928,LOCATION_OF,Pediatric unit,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1718195,C0035363,LOCATION_OF,Pediatric unit,Retrospective Studies,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C1718195,C0302523,LOCATION_OF,Pediatric unit,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1718195,C2603343,LOCATION_OF,Pediatric unit,Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C1882265,C2603343,LOCATION_OF,Practice-Based Research Collaborative in Evidence-Based Dentistry,Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C1955969,C0150108,LOCATION_OF,National Eye Institute (U.S.),Blinded,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1955974,C0681814,LOCATION_OF,National Institute on Aging (U.S.),research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C1955974,C1512959,LOCATION_OF,National Institute on Aging (U.S.),Intramural Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2347790,C2603343,LOCATION_OF,Clinical Study Site,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2350581,C0679083,LOCATION_OF,"Stations, Quarantine",simulation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2350581,C0870071,LOCATION_OF,"Stations, Quarantine",modeling,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2350581,C2348164,LOCATION_OF,"Stations, Quarantine",Screening Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2350581,C2603343,LOCATION_OF,"Stations, Quarantine",Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C0002783,LOCATION_OF,Medical intensive care unit,Epidemiologic Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C0031928,LOCATION_OF,Medical intensive care unit,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C0033522,LOCATION_OF,Medical intensive care unit,Prospective Studies,hcro,resa,6,LOCATION_OF_HCROlocfRESA
+C2711734,C0035363,LOCATION_OF,Medical intensive care unit,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C0949415,LOCATION_OF,Medical intensive care unit,Qualitative Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C1096776,LOCATION_OF,Medical intensive care unit,Multicenter Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C1518527,LOCATION_OF,Medical intensive care unit,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2711734,C2603343,LOCATION_OF,Medical intensive care unit,Study,hcro,resa,10,LOCATION_OF_HCROlocfRESA
+C2711734,C2985505,LOCATION_OF,Medical intensive care unit,Retrospective Cohort Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C2826342,C0681876,LOCATION_OF,Fogarty International Center,Population Study (research activity),hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2936717,C1519068,LOCATION_OF,Veterinary Clinics,Phylogenetic Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2936717,C1519941,LOCATION_OF,Veterinary Clinics,Validation,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C2936717,C2603343,LOCATION_OF,Veterinary Clinics,Study,hcro,resa,7,LOCATION_OF_HCROlocfRESA
+C3242770,C0596404,LOCATION_OF,Medical Laboratory,Data Management,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3242770,C2603343,LOCATION_OF,Medical Laboratory,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3258821,C0009085,LOCATION_OF,Nursing facility,statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3258821,C1709709,LOCATION_OF,Nursing facility,Prospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3641653,C2985505,LOCATION_OF,Seattle Cancer Care Alliance,Retrospective Cohort Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3658282,C2603343,LOCATION_OF,Secondary Care Centers,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3661443,C2603343,LOCATION_OF,Safety-net Hospitals,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3661820,C0008976,LOCATION_OF,Provincial hospital,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3661820,C0033522,LOCATION_OF,Provincial hospital,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3661820,C0035363,LOCATION_OF,Provincial hospital,Retrospective Studies,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3661820,C1518527,LOCATION_OF,Provincial hospital,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3661820,C2603343,LOCATION_OF,Provincial hospital,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3661916,C0010362,LOCATION_OF,Acute care hospital,Cross-Sectional Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3661916,C0035363,LOCATION_OF,Acute care hospital,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3661916,C1515095,LOCATION_OF,Acute care hospital,Surveillance Program,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3661916,C1518527,LOCATION_OF,Acute care hospital,Observational Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3661916,C2603343,LOCATION_OF,Acute care hospital,Study,hcro,resa,10,LOCATION_OF_HCROlocfRESA
+C3810819,C0031928,LOCATION_OF,Allergy clinic,Pilot Projects,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3810819,C2603343,LOCATION_OF,Allergy clinic,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3810844,C0920631,LOCATION_OF,Breast clinic,patient registry,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3816500,C0035363,LOCATION_OF,Pediatric cardiology clinic,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3824747,C1516225,LOCATION_OF,Biobanks,Cancer Research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3824817,C2603343,LOCATION_OF,Specialty hospitals,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3838770,C0007328,LOCATION_OF,Asthma clinic,Case-Control Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3839701,C0033522,LOCATION_OF,Pediatric clinic,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3839701,C2603343,LOCATION_OF,Pediatric clinic,Study,hcro,resa,4,LOCATION_OF_HCROlocfRESA
+C3840745,C0206034,LOCATION_OF,Hospital emergency department,"Clinical Trials, Randomized",hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3840745,C0242791,LOCATION_OF,Hospital emergency department,Sentinel Surveillance,hcro,resa,3,LOCATION_OF_HCROlocfRESA
+C3840745,C0681812,LOCATION_OF,Hospital emergency department,empirical study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3840745,C0681939,LOCATION_OF,Hospital emergency department,Time Series Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3840745,C2603343,LOCATION_OF,Hospital emergency department,Study,hcro,resa,5,LOCATION_OF_HCROlocfRESA
+C3844762,C0010995,LOCATION_OF,Acute hospital,Data Collection,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3844762,C1518527,LOCATION_OF,Acute hospital,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3844762,C2603343,LOCATION_OF,Acute hospital,Study,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C3845566,C2603343,LOCATION_OF,Rehabilitation facility,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3850013,C0011000,LOCATION_OF,Organisation for Economic Co-Operation and Development,Data Reporting,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3850013,C2603343,LOCATION_OF,Organisation for Economic Co-Operation and Development,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3872700,C2603343,LOCATION_OF,Clinical pathology service,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C3897480,C0031928,LOCATION_OF,Student Health Clinic,Pilot Projects,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C0008976,LOCATION_OF,Care setting,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C0009085,LOCATION_OF,Care setting,statistical cluster,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C0023981,LOCATION_OF,Care setting,Longitudinal Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C0033522,LOCATION_OF,Care setting,Prospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C0302523,LOCATION_OF,Care setting,Observation in research,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C0679083,LOCATION_OF,Care setting,simulation,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C4034203,C1518527,LOCATION_OF,Care setting,Observational Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4034203,C2603343,LOCATION_OF,Care setting,Study,hcro,resa,12,LOCATION_OF_HCROlocfRESA
+C4035596,C0035363,LOCATION_OF,Hospital-ICU,Retrospective Studies,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4035596,C2603343,LOCATION_OF,Hospital-ICU,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4038534,C0260206,LOCATION_OF,Sanofi Pasteur,research grants,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4038534,C0681805,LOCATION_OF,Sanofi Pasteur,research funding,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C4038534,C2603343,LOCATION_OF,Sanofi Pasteur,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4038537,C0008976,LOCATION_OF,VaxGen,Clinical Trials,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4038538,C1705187,LOCATION_OF,Wyeth,Safety Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4047661,C2603343,LOCATION_OF,Trauma intensive care unit,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4086621,C0008976,LOCATION_OF,Neoadjuvant Therapy Clinical Trial Setting,Clinical Trials,hcro,resa,2,LOCATION_OF_HCROlocfRESA
+C4086621,C2986480,LOCATION_OF,Neoadjuvant Therapy Clinical Trial Setting,Subset Analysis,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4318495,C0681817,LOCATION_OF,Short Term General Hospital -- object,national survey,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4331452,C2603343,LOCATION_OF,University Medical Information Network,Study,hcro,resa,1,LOCATION_OF_HCROlocfRESA
+C4520473,C0681814,LOCATION_OF,Vision center,research study,hcro,resa,1,LOCATION_OF_HCROlocfRESA

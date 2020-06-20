@@ -1,0 +1,625 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001047,C0020517,PREVENTS,Acetylcysteine,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0001271,C0021368,PREVENTS,Actins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0001347,C0021368,PREVENTS,Acute-Phase Proteins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0001924,C0019080,PREVENTS,Albumins,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0001924,C0021368,PREVENTS,Albumins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0001924,C0242781,PREVENTS,Albumins,disease transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002199,C0333467,PREVENTS,Interferon-alpha,Cytopathic effect,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002520,C0020517,PREVENTS,Amino Acids,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002520,C0024348,PREVENTS,Amino Acids,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002520,C1520005,PREVENTS,Amino Acids,Viral Pathogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002525,C0026846,PREVENTS,"Amino Acids, Essential",Muscular Atrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002716,C0011560,PREVENTS,Amyloid,Amyloid deposition,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0002716,C0021368,PREVENTS,Amyloid,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003009,C0016059,PREVENTS,angiotensin II,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003009,C0020517,PREVENTS,angiotensin II,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003009,C0021368,PREVENTS,angiotensin II,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003009,C0231176,PREVENTS,angiotensin II,Acute failure,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003018,C0032914,PREVENTS,Angiotensins,Pre-Eclampsia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C0011304,PREVENTS,Antibodies,Demyelination,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003241,C0020517,PREVENTS,Antibodies,Hypersensitivity,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003241,C0021359,PREVENTS,Antibodies,Infertility,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003241,C0021368,PREVENTS,Antibodies,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003241,C0024348,PREVENTS,Antibodies,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C0027686,PREVENTS,Antibodies,Pathologic Neovascularization,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C0243083,PREVENTS,Antibodies,associated disease,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C0332448,PREVENTS,Antibodies,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C0333467,PREVENTS,Antibodies,Cytopathic effect,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003241,C0815080,PREVENTS,Antibodies,organ rejection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C1520005,PREVENTS,Antibodies,Viral Pathogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003241,C3714514,PREVENTS,Antibodies,Infection,aapp,patf,19,PREVENTS_AAPPprevPATF
+C0003242,C0001511,PREVENTS,"Antibodies, Anti-Idiotypic",Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003242,C0021368,PREVENTS,"Antibodies, Anti-Idiotypic",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003242,C0332448,PREVENTS,"Antibodies, Anti-Idiotypic",Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0015927,PREVENTS,Monoclonal Antibodies,Fetal Death,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0016059,PREVENTS,Monoclonal Antibodies,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0020517,PREVENTS,Monoclonal Antibodies,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0021368,PREVENTS,Monoclonal Antibodies,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003250,C0021375,PREVENTS,Monoclonal Antibodies,allergic inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0243083,PREVENTS,Monoclonal Antibodies,associated disease,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0282474,PREVENTS,Monoclonal Antibodies,Maternal-Fetal Infection Transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0345468,PREVENTS,Monoclonal Antibodies,Transplanted organ rejection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003250,C0815080,PREVENTS,Monoclonal Antibodies,organ rejection,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0003250,C3714514,PREVENTS,Monoclonal Antibodies,Infection,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0003313,C0021368,PREVENTS,Immune complex,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003369,C0301946,PREVENTS,Antilymphocyte Antibodies,Acute cellular graft rejection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003442,C0011304,PREVENTS,"Lymphocyte Immune Globulin, Anti-Thymocyte Globulin",Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003595,C0021368,PREVENTS,Apolipoprotein E,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003595,C3714514,PREVENTS,Apolipoprotein E,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003641,C0019080,PREVENTS,Aprotinin,Hemorrhage,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0003641,C3714514,PREVENTS,Aprotinin,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0003691,C0021375,PREVENTS,Arachidonate 12-Lipoxygenase,allergic inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0004204,C0016059,PREVENTS,ATP Receptors,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0004630,C0001511,PREVENTS,Bacterial Toxins,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0005789,C0019080,PREVENTS,Blood Coagulation Factor,Hemorrhage,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0005789,C0274435,PREVENTS,Blood Coagulation Factor,Transfusion Reaction,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0005789,C0333565,PREVENTS,Blood Coagulation Factor,Fibrin deposition,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0006784,C0021368,PREVENTS,Calpain,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0006992,C0020564,PREVENTS,Carbocysteine,Hypertrophy,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0007367,C0003130,PREVENTS,CATALASE,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0007367,C0015376,PREVENTS,CATALASE,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0007428,C0021368,PREVENTS,Cathepsins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0009498,C0021368,PREVENTS,Complement System Proteins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0009498,C0024348,PREVENTS,Complement System Proteins,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0009498,C0030660,PREVENTS,Complement System Proteins,Pathologic Processes,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0009498,C3714514,PREVENTS,Complement System Proteins,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0009500,C1566590,PREVENTS,Complement C1 Inactivator Proteins,Delayed Graft Function,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0009521,C0021368,PREVENTS,Complement C5a,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0010592,C0021368,PREVENTS,Cyclosporine,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0010592,C0028778,PREVENTS,Cyclosporine,Obstruction,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0010592,C0333467,PREVENTS,Cyclosporine,Cytopathic effect,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0010656,C0302158,PREVENTS,caspase,Leucocytic infiltrate,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0011701,C0019080,PREVENTS,desmopressin,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0011702,C0000786,PREVENTS,Desmosine,Spontaneous abortion,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0014025,C0016059,PREVENTS,Enalapril,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0014241,C0020517,PREVENTS,Endoribonucleases,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0016004,C0019080,PREVENTS,Fibrin Tissue Adhesive,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0016006,C0019080,PREVENTS,Fibrinogen,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0016016,C0019080,PREVENTS,Plasmin,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0016194,C3714514,PREVENTS,Flagellin,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017007,C0040053,PREVENTS,Gamma globulin,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017237,C0019080,PREVENTS,Gelatin,Hemorrhage,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0017279,C0242656,PREVENTS,"Gene Products, gag",Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017645,C0020517,PREVENTS,Globin,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017687,C0026766,PREVENTS,Glucagon,Multiple Organ Failure,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017797,C1155266,PREVENTS,Glutamine,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017817,C1265828,PREVENTS,Glutathione,Progressive inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017822,C0003130,PREVENTS,GLUTATHIONE PEROXIDASE,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017824,C0003130,PREVENTS,Glutathione Reductase,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017968,C0021359,PREVENTS,Glycoproteins,Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017968,C0162633,PREVENTS,Glycoproteins,Viral Shedding,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0017968,C3714514,PREVENTS,Glycoproteins,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0018296,C0332448,PREVENTS,Guanosine Triphosphate Phosphohydrolases,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0018847,C0021368,PREVENTS,Heat Shock Protein 27,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0019046,C3714514,PREVENTS,Hemoglobin,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0019630,C0024348,PREVENTS,Histocompatibility Antigens Class II,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0020838,C0001511,PREVENTS,Secretory Immunoglobulin A,Tissue Adhesions,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0020838,C0020517,PREVENTS,Secretory Immunoglobulin A,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0020838,C3714514,PREVENTS,Secretory Immunoglobulin A,Infection,aapp,patf,4,PREVENTS_AAPPprevPATF
+C0020960,C0020522,PREVENTS,Immune Sera,Delayed Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0020960,C0242656,PREVENTS,Immune Sera,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0020960,C0243083,PREVENTS,Immune Sera,associated disease,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0020960,C0333467,PREVENTS,Immune Sera,Cytopathic effect,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021027,C3714514,PREVENTS,Immunoglobulins,Infection,aapp,patf,6,PREVENTS_AAPPprevPATF
+C0021641,C0020517,PREVENTS,Insulin,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021641,C0021655,PREVENTS,Insulin,Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021641,C0026766,PREVENTS,Insulin,Multiple Organ Failure,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021641,C0036974,PREVENTS,Insulin,Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021665,C1155266,PREVENTS,Insulin-Like Growth Factor I,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021701,C0332448,PREVENTS,Integrins,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021740,C0020507,PREVENTS,Recombinant Interferon-gamma,Hyperplasia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021740,C0332448,PREVENTS,Recombinant Interferon-gamma,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021743,C2911645,PREVENTS,Interferon Type I,Weight Loss Adverse Event,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021747,C0151763,PREVENTS,Interferons,Liver damage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021747,C1155266,PREVENTS,Interferons,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021753,C0021368,PREVENTS,Interleukin-1 beta,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021755,C0016059,PREVENTS,Interleukin-1,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021755,C0021368,PREVENTS,Interleukin-1,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0021755,C0242656,PREVENTS,Interleukin-1,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021755,C0332448,PREVENTS,Interleukin-1,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021755,C1155266,PREVENTS,Interleukin-1,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021756,C0016059,PREVENTS,Interleukin-2,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021756,C0020507,PREVENTS,Interleukin-2,Hyperplasia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021758,C0011304,PREVENTS,Interleukin-4,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021758,C0020507,PREVENTS,Interleukin-4,Hyperplasia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021758,C3714514,PREVENTS,Interleukin-4,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021760,C0003130,PREVENTS,Interleukin-6,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021760,C0011304,PREVENTS,Interleukin-6,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021760,C0022116,PREVENTS,Interleukin-6,Ischemia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021760,C0242656,PREVENTS,Interleukin-6,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021760,C0332448,PREVENTS,Interleukin-6,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021760,C1155266,PREVENTS,Interleukin-6,inflammatory response,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0021769,C0015376,PREVENTS,Intermediate Filament Proteins,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0021918,C0021368,PREVENTS,Intrinsic factor,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0023206,C0242781,PREVENTS,Lectin,disease transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0023401,C2911645,PREVENTS,Leucine,Weight Loss Adverse Event,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0023820,C0728867,PREVENTS,Lipoproteins,Drug effect disorder,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0024746,C0020963,PREVENTS,Mannosidase,Immune Tolerance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0025252,C0020517,PREVENTS,Membrane Proteins,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0025741,C0027686,PREVENTS,Methyldopa,Pathologic Neovascularization,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0028612,C0020517,PREVENTS,Nucleoproteins,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0029297,C1155266,PREVENTS,Orosomucoid,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0030016,C0035228,PREVENTS,Oxidoreductase,Respiratory Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0030095,C0032797,PREVENTS,Oxytocin,Postpartum Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0030817,C0242656,PREVENTS,Penicillamine,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0030946,C0021368,PREVENTS,Endopeptidases,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0030946,C0036679,PREVENTS,Endopeptidases,Diastasis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0030946,C3714514,PREVENTS,Endopeptidases,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0032120,C0013609,PREVENTS,Plasma Proteins,Localized edema,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0032140,C0019080,PREVENTS,Plasminogen,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0033621,C1155266,PREVENTS,Protein C,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0033640,C0021368,PREVENTS,Protein Kinases,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0033799,C0021368,PREVENTS,Pseudogenes,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0034783,C0015376,PREVENTS,Adrenergic Receptor,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0034783,C0021368,PREVENTS,Adrenergic Receptor,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0034800,C0027686,PREVENTS,"Receptors, Cell Surface",Pathologic Neovascularization,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0034805,C0021376,PREVENTS,Fc Receptor,Chronic inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0034830,C1155266,PREVENTS,Nicotinic Receptors,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0034862,C1520005,PREVENTS,"Vaccines, Recombinant",Viral Pathogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0034862,C3714514,PREVENTS,"Vaccines, Recombinant",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0035094,C0032914,PREVENTS,Renin,Pre-Eclampsia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0036100,C0206277,PREVENTS,Salivary Proteins,Fatal Outcome,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0036734,C0019080,PREVENTS,Serine Endopeptidases,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0036773,C4061114,PREVENTS,Serum Albumin,Acute illness,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0038838,C0003130,PREVENTS,Superoxide Dismutase,Anoxia,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0040018,C0001511,PREVENTS,Thrombin,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0040648,C0243083,PREVENTS,TRANSCRIPTION FACTOR,associated disease,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0040691,C0016059,PREVENTS,Transforming Growth Factors,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0040691,C0021368,PREVENTS,Transforming Growth Factors,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0040691,C1155266,PREVENTS,Transforming Growth Factors,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0041242,C0021368,PREVENTS,Trypsin Inhibitors,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0041368,C0018188,PREVENTS,Tumor Necrosis Factors,Granuloma,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0041368,C0021368,PREVENTS,Tumor Necrosis Factors,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0041368,C0332448,PREVENTS,Tumor Necrosis Factors,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0041538,C1398094,PREVENTS,Ubiquitin,induced; birth,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0042736,C0024348,PREVENTS,Viral Proteins,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0042736,C3714514,PREVENTS,Viral Proteins,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0052193,C0020517,PREVENTS,apolipoprotein D,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0052201,C3714514,PREVENTS,Apolipoprotein E4,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0052350,C0001511,PREVENTS,arginyl-glycyl-aspartic acid,Tissue Adhesions,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0052441,C0021368,PREVENTS,Aryl Hydrocarbon Receptor,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0053851,C0036974,PREVENTS,blocking factor,Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0054015,C0016059,PREVENTS,Nesiritide,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0054871,C0333471,PREVENTS,Cathepsin L,Collagenolysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0054874,C0004366,PREVENTS,cathepsin S,Autoimmune Response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0056889,C0021376,PREVENTS,Cystic Fibrosis Transmembrane Conductance Regulator,Chronic inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0061355,C0332448,PREVENTS,Glucagon-Like Peptide 1,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0062525,C0242648,PREVENTS,hepatitis B immune globulin,Vertical Disease Transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0063355,C0332448,PREVENTS,IgY,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0063695,C1563937,PREVENTS,Intercellular adhesion molecule 1,Atherogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0063695,C3714514,PREVENTS,Intercellular adhesion molecule 1,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0065827,C0021359,PREVENTS,Measles Virus Nucleoprotein,Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0066510,C3714514,PREVENTS,Antimicrobial Cationic Peptides,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0069856,C0021368,PREVENTS,"oxytocin, 1-penicillamyl-Leu(2)-",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0070338,C1849249,PREVENTS,peptide B,SENILE PLAQUE FORMATION,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0071795,C0011304,PREVENTS,2-5A-dependent ribonuclease,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0072259,C0020542,PREVENTS,Prostacyclin synthase,Pulmonary Hypertension,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0072600,C0333563,PREVENTS,Pulmonary Surfactant-Associated Proteins,Hyaline membrane,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0072978,C0011304,PREVENTS,RANTES,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0072978,C0021368,PREVENTS,RANTES,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0072978,C0332448,PREVENTS,RANTES,Infiltration,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0074129,C0021368,PREVENTS,scavenger receptor,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0074129,C0087086,PREVENTS,scavenger receptor,Thrombus,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0076727,C0021368,PREVENTS,kallistatin,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0077401,C0020517,PREVENTS,Troponin I,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0077678,C1096176,PREVENTS,ubiquitin-protein ligase,mitochondrial toxicity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0078056,C0021368,PREVENTS,Vascular Cell Adhesion Molecule-1,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0078056,C1563937,PREVENTS,Vascular Cell Adhesion Molecule-1,Atherogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C0016059,PREVENTS,cytokine,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C0020507,PREVENTS,cytokine,Hyperplasia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C0021368,PREVENTS,cytokine,Inflammation,aapp,patf,4,PREVENTS_AAPPprevPATF
+C0079189,C0026766,PREVENTS,cytokine,Multiple Organ Failure,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C0332448,PREVENTS,cytokine,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C0334094,PREVENTS,cytokine,Proliferation (morphologic abnormality),aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C1155266,PREVENTS,cytokine,inflammatory response,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0079189,C1373218,PREVENTS,cytokine,Decreased Immunologic Activity [PE],aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079189,C3714514,PREVENTS,cytokine,Infection,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0079259,C0016059,PREVENTS,Dystrophin,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079259,C0333606,PREVENTS,Dystrophin,Dystrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079459,C0010356,PREVENTS,Granulocyte Colony-Stimulating Factor,Cross Infection,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0079459,C0020517,PREVENTS,Granulocyte Colony-Stimulating Factor,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079459,C0021308,PREVENTS,Granulocyte Colony-Stimulating Factor,Infarction,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079459,C0333355,PREVENTS,Granulocyte Colony-Stimulating Factor,Inflammatory disease of mucous membrane,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0079460,C0021368,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0079460,C1155266,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079460,C3714514,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079633,C0001511,PREVENTS,Interleukin-8,Tissue Adhesions,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0079633,C0016059,PREVENTS,Interleukin-8,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079904,C0016059,PREVENTS,NF-kappa B,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0079904,C0021368,PREVENTS,NF-kappa B,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0081714,C0001511,PREVENTS,"Antigens, CD147",Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0083032,C1155266,PREVENTS,Interleukin 7 Receptor,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0084692,C0020564,PREVENTS,Pulmonary Surfactant-Associated Protein D,Hypertrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0084692,C0021368,PREVENTS,Pulmonary Surfactant-Associated Protein D,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085295,C0003130,PREVENTS,Interleukin-10,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085295,C0015376,PREVENTS,Interleukin-10,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085295,C0020507,PREVENTS,Interleukin-10,Hyperplasia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085295,C0021368,PREVENTS,Interleukin-10,Inflammation,aapp,patf,4,PREVENTS_AAPPprevPATF
+C0085295,C0242184,PREVENTS,Interleukin-10,Hypoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085297,C0021368,PREVENTS,"Immunoglobulins, Intravenous",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085297,C0161816,PREVENTS,"Immunoglobulins, Intravenous",Cardiac complication,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0085297,C0162633,PREVENTS,"Immunoglobulins, Intravenous",Viral Shedding,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085297,C1155266,PREVENTS,"Immunoglobulins, Intravenous",inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0085297,C1373218,PREVENTS,"Immunoglobulins, Intravenous",Decreased Immunologic Activity [PE],aapp,patf,2,PREVENTS_AAPPprevPATF
+C0085297,C3714514,PREVENTS,"Immunoglobulins, Intravenous",Infection,aapp,patf,10,PREVENTS_AAPPprevPATF
+C0086344,C0016059,PREVENTS,Immune response gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0086376,C2911645,PREVENTS,GTP-Binding Proteins,Weight Loss Adverse Event,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0086903,C0021368,PREVENTS,"GTP-Binding Protein alpha Subunits, Gs",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0103306,C0019080,PREVENTS,angiotensin I (1-7),Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0103306,C0020542,PREVENTS,angiotensin I (1-7),Pulmonary Hypertension,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0103306,C0021368,PREVENTS,angiotensin I (1-7),Inflammation,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0103306,C0021375,PREVENTS,angiotensin I (1-7),allergic inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0103306,C1155266,PREVENTS,angiotensin I (1-7),inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0107264,C0021655,PREVENTS,brown adipose tissue uncoupling protein,Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0108685,C0016059,PREVENTS,CCAAT-Enhancer-Binding Proteins,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0115305,C0021368,PREVENTS,E-Selectin,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0115305,C0334096,PREVENTS,E-Selectin,Intimal proliferation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0115305,C1563937,PREVENTS,E-Selectin,Atherogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0123759,C0011304,PREVENTS,Interleukin-12,Demyelination,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0123759,C0021368,PREVENTS,Interleukin-12,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0134835,C0040053,PREVENTS,P-Selectin,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0136134,C0334094,PREVENTS,perlecan,Proliferation (morphologic abnormality),aapp,patf,1,PREVENTS_AAPPprevPATF
+C0140080,C1155266,PREVENTS,Insulin-Like-Growth Factor I Receptor,inflammatory response,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0142580,C0021368,PREVENTS,"PI3 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0145779,C0087086,PREVENTS,Thrombomodulin,Thrombus,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0162508,C0020507,PREVENTS,JUN gene,Hyperplasia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0162768,C0001511,PREVENTS,Fusion protein,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0162768,C0020517,PREVENTS,Fusion protein,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0162768,C3714514,PREVENTS,Fusion protein,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0165519,C0021368,PREVENTS,Matrix Metalloproteinase 9,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0166417,C0021368,PREVENTS,PPAR gamma,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0166418,C0021655,PREVENTS,Peroxisome Proliferator-Activated Receptors,Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0167117,C2936381,PREVENTS,exenatide,Neointima Formation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0167636,C0024348,PREVENTS,paired box 5 protein (B-cell lineage specific activator),Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0168318,C0302158,PREVENTS,interleukin-1beta-converting enzyme inhibitor,Leucocytic infiltrate,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0171484,C0011560,PREVENTS,secretase,Amyloid deposition,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0174045,C0015376,PREVENTS,rho GTP-Binding Proteins,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0206517,C0700148,PREVENTS,Leukotriene Receptor,Congestion,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0206517,C2718128,PREVENTS,Leukotriene Receptor,Nasal inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0207071,C0011304,PREVENTS,Ciliary Neurotrophic Factor,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0209278,C0021368,PREVENTS,Hepatocyte Nuclear Factor 1-alpha,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0209606,C0015376,PREVENTS,Integrin alpha4beta1,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0214743,C0016059,PREVENTS,Interleukin-13,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0217532,C0333467,PREVENTS,ficolin,Cytopathic effect,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0242210,C0021368,PREVENTS,Binding Proteins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0243043,C0003130,PREVENTS,Heat-Shock Proteins 70,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0243043,C0022116,PREVENTS,Heat-Shock Proteins 70,Ischemia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0243044,C1155266,PREVENTS,HSP90 Heat-Shock Proteins,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0244713,C0016059,PREVENTS,interferon beta-1b,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0245109,C0021368,PREVENTS,anakinra,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0245662,C0151763,PREVENTS,CD95 Antigens,Liver damage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0246694,C0541794,PREVENTS,MG 132,Skeletal muscle atrophy,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0246694,C1155266,PREVENTS,MG 132,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0250400,C0021368,PREVENTS,occludin,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0255808,C0020517,PREVENTS,tumor necrosis factor receptor 1A,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0282554,C0026766,PREVENTS,chemokine,Multiple Organ Failure,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0282554,C0332448,PREVENTS,chemokine,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0282554,C3714514,PREVENTS,chemokine,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0282651,C0332448,PREVENTS,Selectins,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0282682,C0021359,PREVENTS,"Antibodies, Blocking",Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0282682,C0021368,PREVENTS,"Antibodies, Blocking",Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0282682,C0332448,PREVENTS,"Antibodies, Blocking",Infiltration,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0282682,C3714514,PREVENTS,"Antibodies, Blocking",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0287653,C0021368,PREVENTS,"CRIP1 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0291147,C0020517,PREVENTS,tuberous sclerosis complex 2 protein,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0297817,C0334094,PREVENTS,ribonucleotide reductase M2,Proliferation (morphologic abnormality),aapp,patf,1,PREVENTS_AAPPprevPATF
+C0301521,C0242656,PREVENTS,therapeutic vaccine,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0301850,C3714514,PREVENTS,B cell antibody,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0312586,C3714514,PREVENTS,Polyclonal antibody,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0313106,C0087086,PREVENTS,Blood group antibody e,Thrombus,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0348038,C0035228,PREVENTS,Respiratory syncytial virus antibody,Respiratory Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0369303,C3714514,PREVENTS,Helicobacter pylori antibody,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0378910,C0021368,PREVENTS,Lymphocyte antigen CD66A,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0387687,C0021368,PREVENTS,Chemokine (C-C Motif) Receptor 5,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0389071,C0021368,PREVENTS,Adiponectin,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0389071,C0021655,PREVENTS,Adiponectin,Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0390423,C0231176,PREVENTS,"Angiotensin II Receptor, Type 2",Acute failure,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0393022,C1373218,PREVENTS,rituximab,Decreased Immunologic Activity [PE],aapp,patf,3,PREVENTS_AAPPprevPATF
+C0432616,C0011304,PREVENTS,Blood group antibody A,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0432626,C0024348,PREVENTS,Blood group antibody c,Lysis,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0443640,C0162633,PREVENTS,Specific antibody,Viral Shedding,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0443640,C1692321,PREVENTS,Specific antibody,Cellular infiltrate,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0443640,C3714514,PREVENTS,Specific antibody,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0475463,C0021359,PREVENTS,"Antibodies, Neutralizing",Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0475463,C0021368,PREVENTS,"Antibodies, Neutralizing",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0475463,C0243083,PREVENTS,"Antibodies, Neutralizing",associated disease,aapp,patf,3,PREVENTS_AAPPprevPATF
+C0475463,C1155266,PREVENTS,"Antibodies, Neutralizing",inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0475463,C3714514,PREVENTS,"Antibodies, Neutralizing",Infection,aapp,patf,5,PREVENTS_AAPPprevPATF
+C0483249,C0040053,PREVENTS,Protein C (activated),Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0524914,C0021368,PREVENTS,chemokine receptor,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0524914,C0332448,PREVENTS,chemokine receptor,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0529196,C0027686,PREVENTS,ADAM17 Protein,Pathologic Neovascularization,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0529196,C0206277,PREVENTS,ADAM17 Protein,Fatal Outcome,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0530316,C1155266,PREVENTS,N-acetyltyrosyl-valyl-alanyl-aspartyl aldehyde,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0533668,C0015376,PREVENTS,"ANGPT1 protein, human",Extravasation,aapp,patf,6,PREVENTS_AAPPprevPATF
+C0533668,C0021368,PREVENTS,"ANGPT1 protein, human",Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0534191,C0019080,PREVENTS,recombinant FVIIa,Hemorrhage,aapp,patf,6,PREVENTS_AAPPprevPATF
+C0534191,C0040053,PREVENTS,recombinant FVIIa,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0534191,C0333279,PREVENTS,recombinant FVIIa,Massive hemorrhage,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0537439,C0036974,PREVENTS,enfuvirtide,Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0537670,C0333355,PREVENTS,Oprelvekin,Inflammatory disease of mucous membrane,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0538161,C0587240,PREVENTS,Tumor necrosis factor receptor 11b,bone erosion,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0539471,C1510411,PREVENTS,"NS1 protein, parvovirus",metaplastic cell transformation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0592198,C0019080,PREVENTS,Trasylol,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0597357,C3714514,PREVENTS,receptor,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0597427,C0242656,PREVENTS,secretory protein,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0597551,C0021368,PREVENTS,synthetic peptide,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0599220,C0020517,PREVENTS,Protein Subunits,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0599220,C0021368,PREVENTS,Protein Subunits,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0599797,C3714514,PREVENTS,hla gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0623362,C0013990,PREVENTS,Matrix Metalloproteinases,Pathological accumulation of air in tissues,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0663246,C3714514,PREVENTS,Interleukin-1 Receptor-Associated Kinase 2,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0669368,C1155266,PREVENTS,Nitric Oxide Synthase Type I,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0669372,C0020542,PREVENTS,"NOS2A protein, human",Pulmonary Hypertension,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0671062,C3714514,PREVENTS,cathelicidin,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0672596,C3714514,PREVENTS,palivizumab,Infection,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0673968,C0021368,PREVENTS,compstatin,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0673968,C0040053,PREVENTS,compstatin,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0677829,C0333355,PREVENTS,Palifermin,Inflammatory disease of mucous membrane,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0717758,C0020542,PREVENTS,Etanercept,Pulmonary Hypertension,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0717758,C0035228,PREVENTS,Etanercept,Respiratory Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0729663,C3714514,PREVENTS,Maternal antibody,Infection,aapp,patf,2,PREVENTS_AAPPprevPATF
+C0795677,C0040053,PREVENTS,"von Willebrand factor, human",Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0796392,C0027686,PREVENTS,bevacizumab,Pathologic Neovascularization,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0812306,C0020542,PREVENTS,GLI2 gene,Pulmonary Hypertension,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0919336,C0021368,PREVENTS,MMP gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0960880,C0016059,PREVENTS,angiotensin converting enzyme 2,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C0971134,C0021368,PREVENTS,interleukin-22 receptor,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1099812,C0016059,PREVENTS,"SOD3 protein, human",Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1121571,C0021368,PREVENTS,Paraoxonase 1,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1136102,C0020517,PREVENTS,Capsid Proteins,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1143976,C0242656,PREVENTS,"TREM2 protein, human",Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1172734,C0021368,PREVENTS,natalizumab,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1174749,C0242648,PREVENTS,Fuzeon,Vertical Disease Transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1256770,C0015376,PREVENTS,Vascular Endothelial Growth Factors,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1256770,C0027686,PREVENTS,Vascular Endothelial Growth Factors,Pathologic Neovascularization,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1256770,C1285228,PREVENTS,Vascular Endothelial Growth Factors,Degenerative disorder of cartilage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1307407,C0021368,PREVENTS,"FRAP1 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1310463,C0011304,PREVENTS,"IFIH1 protein, human",Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1311470,C1096176,PREVENTS,"PARK2 protein, human",mitochondrial toxicity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1313494,C0021368,PREVENTS,"TLR3 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1321919,C0036974,PREVENTS,"TLR4 protein, human",Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332651,C2699153,PREVENTS,C-Terminal Binding Protein 2,Cell Invasion,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332685,C0011304,PREVENTS,CCL22 gene,Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332699,C0021376,PREVENTS,CCR1 gene,Chronic inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332700,C0011304,PREVENTS,CCR5 gene,Demyelination,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1332700,C0021368,PREVENTS,CCR5 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332700,C0242648,PREVENTS,CCR5 gene,Vertical Disease Transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332700,C0332448,PREVENTS,CCR5 gene,Infiltration,aapp,patf,4,PREVENTS_AAPPprevPATF
+C1332700,C2936381,PREVENTS,CCR5 gene,Neointima Formation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1332838,C0021368,PREVENTS,Candidate Disease Gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334043,C3714514,PREVENTS,Homologous Gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334081,C0021368,PREVENTS,IFNAR1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334081,C0302158,PREVENTS,IFNAR1 gene,Leucocytic infiltrate,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334111,C0740914,PREVENTS,IL1A gene,Dust allergy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334126,C0021368,PREVENTS,CXCR2 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334126,C0332448,PREVENTS,CXCR2 gene,Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334134,C0021368,PREVENTS,IRAK1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334139,C1155266,PREVENTS,IRF3 gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1334879,C1155266,PREVENTS,NGFR gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1335267,C4290181,PREVENTS,PRTN3 gene,thrombotic occlusion,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1335872,C4061114,PREVENTS,STAT1 gene,Acute illness,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1335873,C0020517,PREVENTS,STAT2 gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336633,C0333186,PREVENTS,TK Gene,Restenosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336636,C0151763,PREVENTS,TLR4 gene,Liver damage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336636,C0162633,PREVENTS,TLR4 gene,Viral Shedding,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336636,C1155266,PREVENTS,TLR4 gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336641,C2911645,PREVENTS,TMPRSS2 gene,Weight Loss Adverse Event,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336652,C0036983,PREVENTS,TNF Receptor Family Gene,Septic Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336677,C0021359,PREVENTS,TRRAP gene,Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336681,C0021368,PREVENTS,TSLP gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336763,C0011560,PREVENTS,Toll-Like Receptor Family Gene,Amyloid deposition,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1336763,C0021368,PREVENTS,Toll-Like Receptor Family Gene,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1336763,C0162633,PREVENTS,Toll-Like Receptor Family Gene,Viral Shedding,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1336763,C3714514,PREVENTS,Toll-Like Receptor Family Gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1366449,C3714514,PREVENTS,F2R gene,Infection,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1366513,C0036974,PREVENTS,CASP4 gene,Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1367710,C0021368,PREVENTS,C5 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1367710,C1155266,PREVENTS,C5 gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412058,C0021655,PREVENTS,ABCA1 gene,Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412208,C3714514,PREVENTS,ADAMTS2 gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412361,C0016059,PREVENTS,ALOX5 gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412361,C0021368,PREVENTS,ALOX5 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412361,C0152254,PREVENTS,ALOX5 gene,Fatty degeneration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412417,C0021368,PREVENTS,ANXA1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412515,C0021375,PREVENTS,ARG1 gene,allergic inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412731,C0001511,PREVENTS,BAG3 gene,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412731,C0020517,PREVENTS,BAG3 gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412801,C1155266,PREVENTS,BLVRA gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1412854,C0021376,PREVENTS,BUB1B gene,Chronic inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1412871,C0015376,PREVENTS,VPS51 gene,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1413323,C0016059,PREVENTS,CEBPB gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1413478,C0015376,PREVENTS,CLDN8 gene,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1413844,C0021368,PREVENTS,CYBB gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1413962,C0020517,PREVENTS,DDX3X gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1413966,C2911645,PREVENTS,DHX9 gene,Weight Loss Adverse Event,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1413976,C0001511,PREVENTS,DEFA5 gene,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1414141,C0021368,PREVENTS,DPP4 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1414141,C0920563,PREVENTS,DPP4 gene,Insulin Sensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1414224,C0334096,PREVENTS,E2F3 gene,Intimal proliferation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1414462,C0920393,PREVENTS,ESR2 gene,aldosterone hypertension,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1414603,C0026846,PREVENTS,FGF19 gene,Muscular Atrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1414609,C0040053,PREVENTS,FGL2 gene,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1414609,C0333565,PREVENTS,FGL2 gene,Fibrin deposition,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1415587,C0024348,PREVENTS,HLA-G gene,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1415619,C0020542,PREVENTS,HMOX1 gene,Pulmonary Hypertension,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1415619,C0021368,PREVENTS,HMOX1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1415764,C0024348,PREVENTS,HSPA8 gene,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1415800,C0151521,PREVENTS,HTN1 gene,Bacterial resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1415898,C1155266,PREVENTS,IFITM3 gene,inflammatory response,aapp,patf,3,PREVENTS_AAPPprevPATF
+C1416386,C0016059,PREVENTS,IL13RA2 gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1416433,C0004366,PREVENTS,IDO1 gene,Autoimmune Response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1416475,C0028778,PREVENTS,IRF7 gene,Obstruction,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1416523,C0860239,PREVENTS,IVD gene,Catheter related infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1416659,C0003130,PREVENTS,KLF2 gene,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1417005,C0021359,PREVENTS,MAP1LC3A gene,Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1417005,C0024348,PREVENTS,MAP1LC3A gene,Lysis,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1417202,C1285228,PREVENTS,MMP13 gene,Degenerative disorder of cartilage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1417530,C0021368,PREVENTS,MYD88 gene,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1417838,C0016059,PREVENTS,NR5A1 gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1417838,C1155266,PREVENTS,NR5A1 gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418252,C0019080,PREVENTS,SERPINE1 gene,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418597,C0021368,PREVENTS,PITX3 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418597,C3714514,PREVENTS,PITX3 gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418742,C0920563,PREVENTS,POLR2D gene,Insulin Sensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418793,C0021368,PREVENTS,PPIA gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418793,C0815080,PREVENTS,PPIA gene,organ rejection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1418882,C1096176,PREVENTS,PRDX5 gene,mitochondrial toxicity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1419788,C0860239,PREVENTS,S100A6 gene,Catheter related infection,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1419788,C3714514,PREVENTS,S100A6 gene,Infection,aapp,patf,3,PREVENTS_AAPPprevPATF
+C1419941,C0042487,PREVENTS,SELPLG gene,Venous Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1420017,C0016059,PREVENTS,SH2D1A gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1420071,C0016059,PREVENTS,SIRT2 gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1420071,C1383860,PREVENTS,SIRT2 gene,Cardiac Hypertrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1420403,C0021368,PREVENTS,SRL gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1420744,C0021368,PREVENTS,TJP1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1420810,C3714514,PREVENTS,TNFRSF18 gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1421113,C0004366,PREVENTS,TRE-TTC3-1 gene,Autoimmune Response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1421113,C0021368,PREVENTS,TRE-TTC3-1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1421318,C0151763,PREVENTS,SCGB1A1 gene,Liver damage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1421429,C0020517,PREVENTS,VTRNA1-1 gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1421429,C0543419,PREVENTS,VTRNA1-1 gene,Sequela of disorder,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1422036,C0162633,PREVENTS,ERVW-1 gene,Viral Shedding,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1422064,C0011560,PREVENTS,ACE2 gene,Amyloid deposition,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1422064,C0016059,PREVENTS,ACE2 gene,Fibrosis,aapp,patf,3,PREVENTS_AAPPprevPATF
+C1422064,C0020517,PREVENTS,ACE2 gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1422064,C0020542,PREVENTS,ACE2 gene,Pulmonary Hypertension,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1422064,C0021368,PREVENTS,ACE2 gene,Inflammation,aapp,patf,6,PREVENTS_AAPPprevPATF
+C1422064,C0231176,PREVENTS,ACE2 gene,Acute failure,aapp,patf,5,PREVENTS_AAPPprevPATF
+C1422064,C0332448,PREVENTS,ACE2 gene,Infiltration,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1422064,C1383860,PREVENTS,ACE2 gene,Cardiac Hypertrophy,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1422064,C3887486,PREVENTS,ACE2 gene,Interstitial lung fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423506,C0003130,PREVENTS,SPINK5 gene,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423506,C0040053,PREVENTS,SPINK5 gene,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423506,C0242781,PREVENTS,SPINK5 gene,disease transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423633,C0036974,PREVENTS,TLR9 gene,Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423837,C0021368,PREVENTS,SAMHD1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423842,C0020517,PREVENTS,NELFCD gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1423842,C0021368,PREVENTS,NELFCD gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1424250,C0021368,PREVENTS,NLRP3 gene,Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1424734,C2717792,PREVENTS,ICOSLG gene,Airway Remodeling,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1424945,C0242656,PREVENTS,ALLC gene,Disease Progression,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1426208,C0021368,PREVENTS,SOCS1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1426330,C0021368,PREVENTS,GPBAR1 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1428399,C3714514,PREVENTS,FBF1 gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1428758,C3714514,PREVENTS,FAM53B gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1428927,C0020517,PREVENTS,MIR7-3HG gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1433763,C3714514,PREVENTS,"L1 protein, Human papillomavirus type 18",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1439030,C0087086,PREVENTS,"SHORT ROOT protein, Arabidopsis",Thrombus,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1439030,C1383860,PREVENTS,"SHORT ROOT protein, Arabidopsis",Cardiac Hypertrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1447020,C0332448,PREVENTS,"DPP4 protein, human",Infiltration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1447786,C0020517,PREVENTS,"TNFRSF1B protein, human",Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1448177,C0021368,PREVENTS,"TNF protein, human",Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1449159,C0027055,PREVENTS,"CCL2 protein, human",Myocardial Reperfusion Injury,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1453722,C0020517,PREVENTS,"TNFRSF1A protein, human",Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1454489,C0017639,PREVENTS,"MAPT protein, human",Gliosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1512474,C0036983,PREVENTS,Histone deacetylase inhibitor,Septic Shock,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1527233,C3714514,PREVENTS,Recombinant Immune Globulin,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1530270,C3714514,PREVENTS,"IRF1 protein, human",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1537381,C0543419,PREVENTS,HSD17B6 gene,Sequela of disorder,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1537860,C0021368,PREVENTS,MIR222 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1538570,C0020517,PREVENTS,PAGE5 gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1538586,C4061114,PREVENTS,PARP9 gene,Acute illness,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1539125,C0151654,PREVENTS,CORIN gene,Myocardial fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1539221,C0015376,PREVENTS,DCLK3 gene,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1539221,C0019080,PREVENTS,DCLK3 gene,Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1539940,C0016059,PREVENTS,TBL1XR1 gene,Fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1539940,C0151654,PREVENTS,TBL1XR1 gene,Myocardial fibrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1539940,C3178781,PREVENTS,TBL1XR1 gene,Vascular Stiffness,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1541483,C1566590,PREVENTS,eculizumab,Delayed Graft Function,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1564779,C2911645,PREVENTS,"Heat-Shock Proteins, Small",Weight Loss Adverse Event,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1564892,C0024348,PREVENTS,Complement Inactivating Agents,Lysis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1564904,C0021368,PREVENTS,Catenins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1565860,C0021368,PREVENTS,"PTGS2 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1619962,C0238217,PREVENTS,belatacept,Renal transplant rejection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1624602,C0021359,PREVENTS,Anti-Antibodies,Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1624602,C0027686,PREVENTS,Anti-Antibodies,Pathologic Neovascularization,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1624602,C1155266,PREVENTS,Anti-Antibodies,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1698754,C0242184,PREVENTS,"IL6 protein, human",Hypoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1700887,C0815080,PREVENTS,"IL2RA protein, human",organ rejection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1701790,C1155266,PREVENTS,"IL17A protein, human",inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1701790,C3714514,PREVENTS,"IL17A protein, human",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1702088,C0021368,PREVENTS,"IL5 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1702088,C0035228,PREVENTS,"IL5 protein, human",Respiratory Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1706005,C0036983,PREVENTS,CD40LG wt Allele,Septic Shock,aapp,patf,3,PREVENTS_AAPPprevPATF
+C1741104,C0013990,PREVENTS,DX 890,Pathological accumulation of air in tissues,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1823202,C0334096,PREVENTS,C1QTNF9 gene,Intimal proliferation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1823458,C0302158,PREVENTS,TNFAIP8L2 gene,Leucocytic infiltrate,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1823796,C3714514,PREVENTS,TSACC gene,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1824728,C0021368,PREVENTS,CFB gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1824730,C1155266,PREVENTS,CHAC1 gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1824884,C0151686,PREVENTS,ACKR1 gene,Growth retardation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1825502,C0020517,PREVENTS,ATG16L1 gene,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1825598,C0162633,PREVENTS,IMPACT gene,Viral Shedding,aapp,patf,2,PREVENTS_AAPPprevPATF
+C1825598,C0242781,PREVENTS,IMPACT gene,disease transmission,aapp,patf,5,PREVENTS_AAPPprevPATF
+C1825598,C1520005,PREVENTS,IMPACT gene,Viral Pathogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1825598,C3714514,PREVENTS,IMPACT gene,Infection,aapp,patf,5,PREVENTS_AAPPprevPATF
+C1826043,C0020564,PREVENTS,MIR489 gene,Hypertrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1826357,C1155266,PREVENTS,NAA50 gene,inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1826439,C0021368,PREVENTS,NLRP6 gene,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1826950,C0003130,PREVENTS,RTL1 gene,Anoxia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1955901,C0021368,PREVENTS,Stromal Cell-Derived Factor-1alpha,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1956061,C3714514,PREVENTS,Cathelicidins,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1956074,C0021368,PREVENTS,Lipocalins,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1956109,C0020517,PREVENTS,Human Microbiome,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1956394,C1383860,PREVENTS,Thioredoxin 1,Cardiac Hypertrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C1958909,C0021368,PREVENTS,"Nsp1 protein, SARS coronavirus",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2047258,C3714514,PREVENTS,"human papilloma virus vaccine, quadrivalent",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2316217,C0021368,PREVENTS,antithrombin alfa,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2316467,C1262023,PREVENTS,Packed red blood cells,dilutional coagulopathy,aapp,patf,2,PREVENTS_AAPPprevPATF
+C2362067,C4505499,PREVENTS,Platelet concentrate,Transfusion-Transmitted Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2681538,C0020517,PREVENTS,CMTR1 gene,Hypersensitivity,aapp,patf,2,PREVENTS_AAPPprevPATF
+C2698694,C0242781,PREVENTS,PITX2 wt Allele,disease transmission,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2718773,C0021368,PREVENTS,canakinumab,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C0010356,PREVENTS,"CD69 protein, human",Cross Infection,aapp,patf,5,PREVENTS_AAPPprevPATF
+C2744535,C0011164,PREVENTS,"CD69 protein, human",Abnormal degeneration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C0011304,PREVENTS,"CD69 protein, human",Demyelination,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C0021368,PREVENTS,"CD69 protein, human",Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C2744535,C0151763,PREVENTS,"CD69 protein, human",Liver damage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C0428977,PREVENTS,"CD69 protein, human",Bradycardia,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C1155266,PREVENTS,"CD69 protein, human",inflammatory response,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C1520005,PREVENTS,"CD69 protein, human",Viral Pathogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C3203360,PREVENTS,"CD69 protein, human",Suppuration,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744535,C3714514,PREVENTS,"CD69 protein, human",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2744579,C0021368,PREVENTS,"ATP8A2 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2825821,C4505075,PREVENTS,MIR30A wt Allele,Microvascular Rarefaction,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2829991,C1155266,PREVENTS,PALM3 gene,inflammatory response,aapp,patf,2,PREVENTS_AAPPprevPATF
+C2936529,C0018188,PREVENTS,Inflammasomes,Granuloma,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2936529,C3714514,PREVENTS,Inflammasomes,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2945724,C0162633,PREVENTS,f-protein,Viral Shedding,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2983957,C0281169,PREVENTS,"Interleukin-6, human",pulmonary complications,aapp,patf,1,PREVENTS_AAPPprevPATF
+C2985546,C0021368,PREVENTS,"Antibodies, Monoclonal, Humanized",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3177552,C0040053,PREVENTS,Revacept,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3177552,C0087086,PREVENTS,Revacept,Thrombus,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3179274,C0029445,PREVENTS,electronegative low-density lipoprotein,Bone necrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3179274,C1563937,PREVENTS,electronegative low-density lipoprotein,Atherogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3273474,C0020517,PREVENTS,Cytospin-B,Hypersensitivity,aapp,patf,2,PREVENTS_AAPPprevPATF
+C3494234,C0021368,PREVENTS,VHH Immunoglobulin Fragments,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3537272,C0015376,PREVENTS,Serpin B9,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3538683,C0015376,PREVENTS,LGALS1 wt Allele,Extravasation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3538708,C0040053,PREVENTS,GZMB wt Allele,Thrombosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3538756,C0001511,PREVENTS,NLRP1 wt Allele,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3538756,C0151763,PREVENTS,NLRP1 wt Allele,Liver damage,aapp,patf,2,PREVENTS_AAPPprevPATF
+C3541895,C0020517,PREVENTS,FCGR1A wt Allele,Hypersensitivity,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3542429,C0021368,PREVENTS,SGPL1 wt Allele,Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3715113,C0021655,PREVENTS,HSD11B1 wt Allele,Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3715113,C0029445,PREVENTS,HSD11B1 wt Allele,Bone necrosis,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3811063,C0242781,PREVENTS,SLC27A4 wt Allele,disease transmission,aapp,patf,3,PREVENTS_AAPPprevPATF
+C3811063,C3714514,PREVENTS,SLC27A4 wt Allele,Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3849574,C0021368,PREVENTS,"EPHB2 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3849701,C0021368,PREVENTS,"interleukin 18 protein, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3872829,C0001511,PREVENTS,Adhesion protein,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3889161,C0001511,PREVENTS,LTBR wt Allele,Tissue Adhesions,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3890018,C0030660,PREVENTS,HSP90B2P wt Allele,Pathologic Processes,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3891006,C1383860,PREVENTS,MHRT gene,Cardiac Hypertrophy,aapp,patf,1,PREVENTS_AAPPprevPATF
+C3891304,C3714514,PREVENTS,"Cathelicidin LL-37, human",Infection,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4048280,C0021359,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Infertility,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4048280,C0021368,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Inflammation,aapp,patf,2,PREVENTS_AAPPprevPATF
+C4048280,C0021655,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Insulin Resistance,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4281807,C0162633,PREVENTS,"Vitronectin, human",Viral Shedding,aapp,patf,2,PREVENTS_AAPPprevPATF
+C4283742,C0021368,PREVENTS,"Ceramide Glucosyltransferase, human",Inflammation,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4284302,C0042484,PREVENTS,EHD1 wt Allele,Venous Engorgement,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4316927,C0019080,PREVENTS,"Endothelin-1, human",Hemorrhage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4521273,C0333257,PREVENTS,TRAF Family Member-Associated NF-Kappa-B Activator,Air leakage,aapp,patf,1,PREVENTS_AAPPprevPATF
+C4521302,C1520005,PREVENTS,"Angiotensin-1, human",Viral Pathogenesis,aapp,patf,1,PREVENTS_AAPPprevPATF

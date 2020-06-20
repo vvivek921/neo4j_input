@@ -1,0 +1,91 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000786,C0019080,PRECEDES,Spontaneous abortion,Hemorrhage,patf,patf,1,PRECEDES_PATFprcdPATF
+C0001511,C0012359,PRECEDES,Tissue Adhesions,Pathological Dilatation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0001511,C0015376,PRECEDES,Tissue Adhesions,Extravasation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0003130,C0020542,PRECEDES,Anoxia,Pulmonary Hypertension,patf,patf,1,PRECEDES_PATFprcdPATF
+C0003130,C0026766,PRECEDES,Anoxia,Multiple Organ Failure,patf,patf,1,PRECEDES_PATFprcdPATF
+C0006110,C0281947,PRECEDES,Brain Death,pituitary dysfunction,patf,patf,1,PRECEDES_PATFprcdPATF
+C0007642,C0038862,PRECEDES,Cellulitis,Suppurative inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0008495,C0235883,PRECEDES,Chorioamnionitis,uterine inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0010828,C0019080,PRECEDES,Cytopenia,Hemorrhage,patf,patf,1,PRECEDES_PATFprcdPATF
+C0011304,C0017639,PRECEDES,Demyelination,Gliosis,patf,patf,2,PRECEDES_PATFprcdPATF
+C0011304,C0021368,PRECEDES,Demyelination,Inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0011304,C0242656,PRECEDES,Demyelination,Disease Progression,patf,patf,1,PRECEDES_PATFprcdPATF
+C0011304,C2004491,PRECEDES,Demyelination,Cicatrix,patf,patf,1,PRECEDES_PATFprcdPATF
+C0015376,C0013609,PRECEDES,Extravasation,Localized edema,patf,patf,1,PRECEDES_PATFprcdPATF
+C0015376,C0036974,PRECEDES,Extravasation,Shock,patf,patf,2,PRECEDES_PATFprcdPATF
+C0016059,C0006663,PRECEDES,Fibrosis,Calcinosis,patf,patf,2,PRECEDES_PATFprcdPATF
+C0019080,C0003130,PRECEDES,Hemorrhage,Anoxia,patf,patf,1,PRECEDES_PATFprcdPATF
+C0019080,C0015376,PRECEDES,Hemorrhage,Extravasation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0019080,C0036974,PRECEDES,Hemorrhage,Shock,patf,patf,1,PRECEDES_PATFprcdPATF
+C0019080,C0332448,PRECEDES,Hemorrhage,Infiltration,patf,patf,1,PRECEDES_PATFprcdPATF
+C0019080,C2586211,PRECEDES,Hemorrhage,Thrombosis of blood vessel,patf,patf,1,PRECEDES_PATFprcdPATF
+C0019080,C3714514,PRECEDES,Hemorrhage,Infection,patf,patf,1,PRECEDES_PATFprcdPATF
+C0020542,C0020507,PRECEDES,Pulmonary Hypertension,Hyperplasia,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021308,C0012359,PRECEDES,Infarction,Pathological Dilatation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021308,C2004491,PRECEDES,Infarction,Cicatrix,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021368,C0006663,PRECEDES,Inflammation,Calcinosis,patf,patf,2,PRECEDES_PATFprcdPATF
+C0021368,C0016059,PRECEDES,Inflammation,Fibrosis,patf,patf,3,PRECEDES_PATFprcdPATF
+C0021368,C0151654,PRECEDES,Inflammation,Myocardial fibrosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021368,C0332448,PRECEDES,Inflammation,Infiltration,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021368,C0334044,PRECEDES,Inflammation,Dysplasia,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021368,C1155266,PRECEDES,Inflammation,inflammatory response,patf,patf,1,PRECEDES_PATFprcdPATF
+C0021368,C2004491,PRECEDES,Inflammation,Cicatrix,patf,patf,1,PRECEDES_PATFprcdPATF
+C0022116,C0001511,PRECEDES,Ischemia,Tissue Adhesions,patf,patf,1,PRECEDES_PATFprcdPATF
+C0022116,C0003130,PRECEDES,Ischemia,Anoxia,patf,patf,1,PRECEDES_PATFprcdPATF
+C0022116,C0021308,PRECEDES,Ischemia,Infarction,patf,patf,1,PRECEDES_PATFprcdPATF
+C0022116,C0027055,PRECEDES,Ischemia,Myocardial Reperfusion Injury,patf,patf,1,PRECEDES_PATFprcdPATF
+C0022116,C0027686,PRECEDES,Ischemia,Pathologic Neovascularization,patf,patf,2,PRECEDES_PATFprcdPATF
+C0022116,C2004491,PRECEDES,Ischemia,Cicatrix,patf,patf,1,PRECEDES_PATFprcdPATF
+C0022876,C0151526,PRECEDES,Premature Obstetric Labor,Premature Birth,patf,patf,1,PRECEDES_PATFprcdPATF
+C0024348,C0011304,PRECEDES,Lysis,Demyelination,patf,patf,2,PRECEDES_PATFprcdPATF
+C0024348,C0026766,PRECEDES,Lysis,Multiple Organ Failure,patf,patf,1,PRECEDES_PATFprcdPATF
+C0024348,C0036679,PRECEDES,Lysis,Diastasis,patf,patf,2,PRECEDES_PATFprcdPATF
+C0024348,C0332448,PRECEDES,Lysis,Infiltration,patf,patf,1,PRECEDES_PATFprcdPATF
+C0024348,C1155266,PRECEDES,Lysis,inflammatory response,patf,patf,1,PRECEDES_PATFprcdPATF
+C0027046,C0333641,PRECEDES,Myocardial degeneration,Atrophic,patf,patf,2,PRECEDES_PATFprcdPATF
+C0028778,C4042763,PRECEDES,Obstruction,Postoperative Residual Curarization,patf,patf,1,PRECEDES_PATFprcdPATF
+C0029445,C0036974,PRECEDES,Bone necrosis,Shock,patf,patf,2,PRECEDES_PATFprcdPATF
+C0032797,C0341950,PRECEDES,Postpartum Hemorrhage,Severe pre-eclampsia,patf,patf,1,PRECEDES_PATFprcdPATF
+C0036679,C0019080,PRECEDES,Diastasis,Hemorrhage,patf,patf,1,PRECEDES_PATFprcdPATF
+C0036983,C0026766,PRECEDES,Septic Shock,Multiple Organ Failure,patf,patf,2,PRECEDES_PATFprcdPATF
+C0151526,C0392707,PRECEDES,Premature Birth,Atopy,patf,patf,1,PRECEDES_PATFprcdPATF
+C0162633,C3714514,PRECEDES,Viral Shedding,Infection,patf,patf,1,PRECEDES_PATFprcdPATF
+C0240059,C0151526,PRECEDES,Ventricular hemorrhage,Premature Birth,patf,patf,1,PRECEDES_PATFprcdPATF
+C0332448,C0087086,PRECEDES,Infiltration,Thrombus,patf,patf,1,PRECEDES_PATFprcdPATF
+C0332448,C3686533,PRECEDES,Infiltration,Lymphoid cuffing,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333276,C0016059,PRECEDES,Acute hemorrhage,Fibrosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333276,C0333563,PRECEDES,Acute hemorrhage,Hyaline membrane,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333288,C0021308,PRECEDES,Dissecting hemorrhage,Infarction,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333386,C0036679,PRECEDES,Chronic lymphocytic inflammation,Diastasis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333432,C1155266,PRECEDES,Primary degeneration,inflammatory response,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333563,C0019080,PRECEDES,Hyaline membrane,Hemorrhage,patf,patf,1,PRECEDES_PATFprcdPATF
+C0334146,C0021376,PRECEDES,Fibrous plaque,Chronic inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0376297,C0006110,PRECEDES,Cardiac Death,Brain Death,patf,patf,1,PRECEDES_PATFprcdPATF
+C0392689,C1961112,PRECEDES,Overhydration,Heart Decompensation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0565653,C0020523,PRECEDES,Immunization reaction,Immediate hypersensitivity,patf,patf,1,PRECEDES_PATFprcdPATF
+C0700185,C0028778,PRECEDES,Decalcification,Obstruction,patf,patf,2,PRECEDES_PATFprcdPATF
+C0700185,C0333288,PRECEDES,Decalcification,Dissecting hemorrhage,patf,patf,3,PRECEDES_PATFprcdPATF
+C0877326,C0013928,PRECEDES,Bone infarction,Fat embolism (disorder),patf,patf,1,PRECEDES_PATFprcdPATF
+C0919691,C0581359,PRECEDES,Anastomotic Leak,Acute intestinal obstruction,patf,patf,1,PRECEDES_PATFprcdPATF
+C0920569,C0151763,PRECEDES,hepatic ischemia,Liver damage,patf,patf,2,PRECEDES_PATFprcdPATF
+C1155266,C0004366,PRECEDES,inflammatory response,Autoimmune Response,patf,patf,1,PRECEDES_PATFprcdPATF
+C1155266,C0011304,PRECEDES,inflammatory response,Demyelination,patf,patf,1,PRECEDES_PATFprcdPATF
+C1155266,C0021368,PRECEDES,inflammatory response,Inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C1373218,C3714514,PRECEDES,Decreased Immunologic Activity [PE],Infection,patf,patf,1,PRECEDES_PATFprcdPATF
+C1720776,C0017639,PRECEDES,"Kindling, Neurologic",Gliosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C2937358,C0015376,PRECEDES,Cerebral Hemorrhage,Extravasation,patf,patf,1,PRECEDES_PATFprcdPATF
+C3658208,C0016059,PRECEDES,Dysbiosis,Fibrosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0011071,PRECEDES,Infection,Sudden death,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0021359,PRECEDES,Infection,Infertility,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0021368,PRECEDES,Infection,Inflammation,patf,patf,3,PRECEDES_PATFprcdPATF
+C3714514,C0024348,PRECEDES,Infection,Lysis,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0242656,PRECEDES,Infection,Disease Progression,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0332448,PRECEDES,Infection,Infiltration,patf,patf,2,PRECEDES_PATFprcdPATF
+C3714514,C0543419,PRECEDES,Infection,Sequela of disorder,patf,patf,3,PRECEDES_PATFprcdPATF
+C3714514,C0679221,PRECEDES,Infection,hypofunction,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C1155266,PRECEDES,Infection,inflammatory response,patf,patf,2,PRECEDES_PATFprcdPATF
+C4061114,C0008767,PRECEDES,Acute illness,Cicatrization,patf,patf,1,PRECEDES_PATFprcdPATF
+C4061114,C0085298,PRECEDES,Acute illness,Sudden Cardiac Death,patf,patf,1,PRECEDES_PATFprcdPATF
+C4061114,C0151701,PRECEDES,Acute illness,Pulmonary hemorrhage,patf,patf,1,PRECEDES_PATFprcdPATF
+C4061114,C0162633,PRECEDES,Acute illness,Viral Shedding,patf,patf,1,PRECEDES_PATFprcdPATF

@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003320,C0003241,LOWER_THAN,Antigens,Antibodies,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0003320,C0025252,LOWER_THAN,Antigens,Membrane Proteins,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0003320,C0358321,LOWER_THAN,Antigens,Immune Globulin (Human),imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0003320,C1417950,LOWER_THAN,Antigens,OMP gene,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0003342,C0010590,LOWER_THAN,"Antigens, Viral",Cycloserine,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0042210,C1883559,LOWER_THAN,Vaccines,Wild Type,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0042210,C4284302,LOWER_THAN,Vaccines,EHD1 wt Allele,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0069180,C1883559,LOWER_THAN,O Antigens,Wild Type,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C0085408,C0086376,LOWER_THAN,ISCOMs,GTP-Binding Proteins,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP
+C1883036,C0039938,LOWER_THAN,Single-Chain Antibodies,Thioredoxins,imft,aapp,1,LOWER_THAN_IMFTlowtAAPP

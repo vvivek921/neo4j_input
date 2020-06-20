@@ -1,0 +1,970 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003811,C0001883,PREDISPOSES,Cardiac Arrhythmia,Airway Obstruction,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0003811,C0038454,PREDISPOSES,Cardiac Arrhythmia,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0003811,C0878544,PREDISPOSES,Cardiac Arrhythmia,Cardiomyopathies,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0005607,C0004096,PREDISPOSES,Birth Order,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0007166,C0009492,PREDISPOSES,Low Cardiac Output,Compartment syndromes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0007166,C0035078,PREDISPOSES,Low Cardiac Output,Kidney Failure,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0008301,C0032285,PREDISPOSES,Choking,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0004623,PREDISPOSES,Comorbidity,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0007222,PREDISPOSES,Comorbidity,Cardiovascular Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0009488,C0011849,PREDISPOSES,Comorbidity,Diabetes Mellitus,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0021400,PREDISPOSES,Comorbidity,Influenza,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0009488,C0022658,PREDISPOSES,Comorbidity,Kidney Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0022660,PREDISPOSES,Comorbidity,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0032269,PREDISPOSES,Comorbidity,Pneumococcal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0032285,PREDISPOSES,Comorbidity,Pneumonia,fndg,dsyn,4,PREDISPOSES_FNDGpredDSYN
+C0009488,C0034065,PREDISPOSES,Comorbidity,Pulmonary Embolism,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0035222,PREDISPOSES,Comorbidity,"Respiratory Distress Syndrome, Adult",fndg,dsyn,6,PREDISPOSES_FNDGpredDSYN
+C0009488,C0035235,PREDISPOSES,Comorbidity,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0035243,PREDISPOSES,Comorbidity,Respiratory Tract Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0009488,C0036690,PREDISPOSES,Comorbidity,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0042029,PREDISPOSES,Comorbidity,Urinary tract infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0042749,PREDISPOSES,Comorbidity,Viremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C0205721,PREDISPOSES,Comorbidity,"Infections, Hospital",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0009488,C0740304,PREDISPOSES,Comorbidity,copd exacerbation,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C1175175,PREDISPOSES,Comorbidity,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0009488,C1849718,PREDISPOSES,Comorbidity,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0009488,C4505330,PREDISPOSES,Comorbidity,Travel-Related Illness,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0015663,C0009450,PREDISPOSES,Fasting,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0016815,C0242852,PREDISPOSES,Functional Residual Capacity,Proliferative vitreoretinopathy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0016927,C0032290,PREDISPOSES,Gagging,Aspiration Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0018800,C0032227,PREDISPOSES,Cardiomegaly,Pleural effusion disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020578,C0034063,PREDISPOSES,Hyperventilation,Pulmonary Edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020578,C0520540,PREDISPOSES,Hyperventilation,Rebound hypertension,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020649,C0018790,PREDISPOSES,Hypotension,Cardiac Arrest,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020649,C0035078,PREDISPOSES,Hypotension,Kidney Failure,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0020649,C0035222,PREDISPOSES,Hypotension,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020649,C1565489,PREDISPOSES,Hypotension,Renal Insufficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020672,C0005779,PREDISPOSES,"Hypothermia, natural",Blood Coagulation Disorders,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0020672,C0012739,PREDISPOSES,"Hypothermia, natural",Disseminated Intravascular Coagulation,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0020672,C0940931,PREDISPOSES,"Hypothermia, natural",hemorrhage as a complication,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0004096,PREDISPOSES,"Infant, Premature",Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0006271,PREDISPOSES,"Infant, Premature",Bronchiolitis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0021294,C0007789,PREDISPOSES,"Infant, Premature",Cerebral Palsy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0035220,PREDISPOSES,"Infant, Premature","Respiratory Distress Syndrome, Newborn",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0035222,PREDISPOSES,"Infant, Premature","Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0035235,PREDISPOSES,"Infant, Premature",Respiratory Syncytial Virus Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0021294,C0038644,PREDISPOSES,"Infant, Premature",Sudden infant death syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0149725,PREDISPOSES,"Infant, Premature",Lower respiratory tract infection,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0021294,C0158940,PREDISPOSES,"Infant, Premature",Transitory tachypnea of newborn,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0264408,PREDISPOSES,"Infant, Premature",Childhood asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C0339968,PREDISPOSES,"Infant, Premature",Neonatal pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0021294,C1278797,PREDISPOSES,"Infant, Premature",Postnatal infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0024032,C0007789,PREDISPOSES,Low Birth Weights,Cerebral Palsy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0024032,C0010054,PREDISPOSES,Low Birth Weights,Coronary Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0024032,C0011847,PREDISPOSES,Low Birth Weights,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0024032,C0028754,PREDISPOSES,Low Birth Weights,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0024032,C0032285,PREDISPOSES,Low Birth Weights,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0024032,C0035235,PREDISPOSES,Low Birth Weights,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0026751,C0856825,PREDISPOSES,Multiparity,Acute GVH disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0030318,C0014544,PREDISPOSES,Panic,Epilepsy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0030563,C0004364,PREDISPOSES,Parity,Autoimmune Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0032646,C0004096,PREDISPOSES,Poor compliance,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033213,C0009450,PREDISPOSES,Problem,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033213,C0024115,PREDISPOSES,Problem,Lung diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0033213,C0205721,PREDISPOSES,Problem,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033213,C0277548,PREDISPOSES,Problem,Epidemic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033213,C1175175,PREDISPOSES,Problem,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033213,C2747816,PREDISPOSES,Problem,Severe Malaria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033213,C3873487,PREDISPOSES,Problem,Waterborne Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0033687,C0022661,PREDISPOSES,Proteinuria,"Kidney Failure, Chronic",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0001314,PREDISPOSES,risk factors,Acute Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0001339,PREDISPOSES,risk factors,Acute pancreatitis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0035648,C0002395,PREDISPOSES,risk factors,Alzheimer's Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0003850,PREDISPOSES,risk factors,Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0004096,PREDISPOSES,risk factors,Asthma,fndg,dsyn,10,PREDISPOSES_FNDGpredDSYN
+C0035648,C0004610,PREDISPOSES,risk factors,Bacteremia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0035648,C0006267,PREDISPOSES,risk factors,Bronchiectasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0006271,PREDISPOSES,risk factors,Bronchiolitis,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0035648,C0006274,PREDISPOSES,risk factors,"Bronchiolitis, Viral",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0007222,PREDISPOSES,risk factors,Cardiovascular Diseases,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0035648,C0009450,PREDISPOSES,risk factors,Communicable Diseases,fndg,dsyn,4,PREDISPOSES_FNDGpredDSYN
+C0035648,C0010054,PREDISPOSES,risk factors,Coronary Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0010340,PREDISPOSES,risk factors,Critical Illness,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0010418,PREDISPOSES,risk factors,Cryptosporidiosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0010823,PREDISPOSES,risk factors,Cytomegalovirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0013369,PREDISPOSES,risk factors,Dysentery,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0016627,PREDISPOSES,risk factors,Influenza in Birds,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0017563,PREDISPOSES,risk factors,Gingival Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0018799,PREDISPOSES,risk factors,Heart Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0021400,PREDISPOSES,risk factors,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0022660,PREDISPOSES,risk factors,"Kidney Failure, Acute",fndg,dsyn,4,PREDISPOSES_FNDGpredDSYN
+C0035648,C0023530,PREDISPOSES,risk factors,Leukopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0024117,PREDISPOSES,risk factors,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0025289,PREDISPOSES,risk factors,Meningitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0026769,PREDISPOSES,risk factors,Multiple Sclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0027059,PREDISPOSES,risk factors,Myocarditis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0029883,PREDISPOSES,risk factors,Otitis Media with Effusion,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0032269,PREDISPOSES,risk factors,Pneumococcal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0032285,PREDISPOSES,risk factors,Pneumonia,fndg,dsyn,11,PREDISPOSES_FNDGpredDSYN
+C0035648,C0035204,PREDISPOSES,risk factors,Respiration Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0035222,PREDISPOSES,risk factors,"Respiratory Distress Syndrome, Adult",fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0035648,C0035235,PREDISPOSES,risk factors,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0035243,PREDISPOSES,risk factors,Respiratory Tract Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0035648,C0035436,PREDISPOSES,risk factors,Rheumatic Fever,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0036202,PREDISPOSES,risk factors,Sarcoidosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0042769,PREDISPOSES,risk factors,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0155877,PREDISPOSES,risk factors,Allergic asthma,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0035648,C0205721,PREDISPOSES,risk factors,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0206062,PREDISPOSES,risk factors,"Lung Diseases, Interstitial",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0264408,PREDISPOSES,risk factors,Childhood asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0265514,PREDISPOSES,risk factors,Dermatofibrosis lenticularis disseminata,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0275524,PREDISPOSES,risk factors,Coinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0333205,PREDISPOSES,risk factors,Mural thrombus,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0339952,PREDISPOSES,risk factors,Secondary bacterial pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0398623,PREDISPOSES,risk factors,Thrombophilia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0442886,PREDISPOSES,risk factors,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0694549,PREDISPOSES,risk factors,Community acquired pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0741923,PREDISPOSES,risk factors,cardiac event,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0872054,PREDISPOSES,risk factors,latent infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0948008,PREDISPOSES,risk factors,Ischemic stroke,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0948343,PREDISPOSES,risk factors,Transfusion-Related Acute Lung Injury,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C0948441,PREDISPOSES,risk factors,Venoocclusive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C1175175,PREDISPOSES,risk factors,Severe Acute Respiratory Syndrome,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0035648,C1394891,PREDISPOSES,risk factors,Intrinsic Factor Deficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C1565662,PREDISPOSES,risk factors,Acute Kidney Insufficiency,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0035648,C1609538,PREDISPOSES,risk factors,Latent Tuberculosis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0035648,C1704436,PREDISPOSES,risk factors,Peripheral Arterial Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C3694279,PREDISPOSES,risk factors,Middle East Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0035648,C4505065,PREDISPOSES,risk factors,Noncommunicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0037420,C0497169,PREDISPOSES,Social Interaction,hiv-infection/aids,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0037420,C1175175,PREDISPOSES,Social Interaction,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0004096,PREDISPOSES,Stress,Asthma,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0038435,C0004153,PREDISPOSES,Stress,Atherosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0004623,PREDISPOSES,Stress,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0009187,PREDISPOSES,Stress,Coccidiosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0009443,PREDISPOSES,Stress,Common Cold,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0009450,PREDISPOSES,Stress,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0011847,PREDISPOSES,Stress,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0017563,PREDISPOSES,Stress,Gingival Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0020456,PREDISPOSES,Stress,Hyperglycemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0025289,PREDISPOSES,Stress,Meningitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0030636,PREDISPOSES,Stress,Pasteurella Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0035222,PREDISPOSES,Stress,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0035235,PREDISPOSES,Stress,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0035243,PREDISPOSES,Stress,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0277556,PREDISPOSES,Stress,Recurrent disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0376538,PREDISPOSES,Stress,Porcine Reproductive and Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0442893,PREDISPOSES,Stress,Systemic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C0748168,PREDISPOSES,Stress,Pulmonary Pathology,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C1443953,PREDISPOSES,Stress,Acute viral disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0038435,C4505065,PREDISPOSES,Stress,Noncommunicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0039231,C0035222,PREDISPOSES,Tachycardia,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0039231,C0876998,PREDISPOSES,Tachycardia,Thrombus of cardiac chamber,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0043094,C0037315,PREDISPOSES,Weight Gain,Sleep Apnea Syndromes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C0008049,PREDISPOSES,Immunocompromised Host,Chickenpox,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C0019348,PREDISPOSES,Immunocompromised Host,Herpes Simplex Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C0032269,PREDISPOSES,Immunocompromised Host,Pneumococcal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C0032285,PREDISPOSES,Immunocompromised Host,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0085393,C0036690,PREDISPOSES,Immunocompromised Host,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C0149725,PREDISPOSES,Immunocompromised Host,Lower respiratory tract infection,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0085393,C0410251,PREDISPOSES,Immunocompromised Host,Fungal myositis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C1175175,PREDISPOSES,Immunocompromised Host,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C1262313,PREDISPOSES,Immunocompromised Host,Invasive Fungal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085393,C1290325,PREDISPOSES,Immunocompromised Host,Disorder of lower respiratory system,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0085639,C1861172,PREDISPOSES,Falls,Venous Thromboembolism,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0086565,C0004610,PREDISPOSES,Liver Dysfunction,Bacteremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0086565,C0006114,PREDISPOSES,Liver Dysfunction,Cerebral Edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0087130,C0009450,PREDISPOSES,Uncertainty,Communicable Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0087130,C0027059,PREDISPOSES,Uncertainty,Myocarditis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0087130,C0032285,PREDISPOSES,Uncertainty,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0087130,C0206750,PREDISPOSES,Uncertainty,Coronavirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0087130,C0948008,PREDISPOSES,Uncertainty,Ischemic stroke,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150077,C0262655,PREDISPOSES,Broken skin,Recurrent urinary tract infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0004096,PREDISPOSES,Present,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0004610,PREDISPOSES,Present,Bacteremia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0004623,PREDISPOSES,Present,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0004626,PREDISPOSES,Present,"Pneumonia, Bacterial",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0006111,PREDISPOSES,Present,Brain Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0006267,PREDISPOSES,Present,Bronchiectasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0006271,PREDISPOSES,Present,Bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0007222,PREDISPOSES,Present,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0008679,PREDISPOSES,Present,Chronic disease,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0150312,C0009450,PREDISPOSES,Present,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0010054,PREDISPOSES,Present,Coronary Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0011168,PREDISPOSES,Present,Deglutition Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0011849,PREDISPOSES,Present,Diabetes Mellitus,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0011860,PREDISPOSES,Present,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0013570,PREDISPOSES,Present,"Ecthyma, Contagious",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0014518,PREDISPOSES,Present,Toxic Epidermal Necrolysis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0016627,PREDISPOSES,Present,Influenza in Birds,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0018133,PREDISPOSES,Present,Graft-vs-Host Disease,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0150312,C0019372,PREDISPOSES,Present,Herpesviridae Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0021053,PREDISPOSES,Present,Immune System Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0021400,PREDISPOSES,Present,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0022658,PREDISPOSES,Present,Kidney Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0023524,PREDISPOSES,Present,"Leukoencephalopathy, Progressive Multifocal",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0023530,PREDISPOSES,Present,Leukopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0024115,PREDISPOSES,Present,Lung diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0024312,PREDISPOSES,Present,Lymphopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0024534,PREDISPOSES,Present,"Malaria, Cerebral",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0029882,PREDISPOSES,Present,Otitis Media,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0030305,PREDISPOSES,Present,Pancreatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0032285,PREDISPOSES,Present,Pneumonia,fndg,dsyn,7,PREDISPOSES_FNDGpredDSYN
+C0150312,C0032290,PREDISPOSES,Present,Aspiration Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0034069,PREDISPOSES,Present,Pulmonary Fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0035204,PREDISPOSES,Present,Respiration Disorders,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0035222,PREDISPOSES,Present,"Respiratory Distress Syndrome, Adult",fndg,dsyn,5,PREDISPOSES_FNDGpredDSYN
+C0150312,C0035235,PREDISPOSES,Present,Respiratory Syncytial Virus Infections,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0150312,C0036690,PREDISPOSES,Present,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0037199,PREDISPOSES,Present,Sinusitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0038454,PREDISPOSES,Present,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0038644,PREDISPOSES,Present,Sudden infant death syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0042749,PREDISPOSES,Present,Viremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0043528,PREDISPOSES,Present,Zoonoses,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0149871,PREDISPOSES,Present,Deep Vein Thrombosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0152244,PREDISPOSES,Present,"Bone Cysts, Aneurysmal",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0206750,PREDISPOSES,Present,Coronavirus Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0235272,PREDISPOSES,Present,Retinal damage,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0263214,PREDISPOSES,Present,Pyotraumatic dermatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0265514,PREDISPOSES,Present,Dermatofibrosis lenticularis disseminata,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0275524,PREDISPOSES,Present,Coinfection,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0276156,PREDISPOSES,Present,Adenoviral pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0276447,PREDISPOSES,Present,Rhinovirus infection,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0339949,PREDISPOSES,Present,Nocardial pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0150312,C0442886,PREDISPOSES,Present,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0577631,PREDISPOSES,Present,Carotid Atherosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0729531,PREDISPOSES,Present,Viral respiratory infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0749769,PREDISPOSES,Present,underlying infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0751583,PREDISPOSES,Present,"Encephalitis, West Nile Fever",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0856825,PREDISPOSES,Present,Acute GVH disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C0878544,PREDISPOSES,Present,Cardiomyopathies,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C1561643,PREDISPOSES,Present,Chronic Kidney Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C1719672,PREDISPOSES,Present,Severe Sepsis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C1861172,PREDISPOSES,Present,Venous Thromboembolism,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150312,C2076600,PREDISPOSES,Present,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150637,C1145670,PREDISPOSES,assessment.initial,Respiratory Failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0150872,C1145670,PREDISPOSES,chest findings,Respiratory Failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151539,C0002871,PREDISPOSES,Blood urea increased,Anemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151539,C1565489,PREDISPOSES,Blood urea increased,Renal Insufficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151576,C0022660,PREDISPOSES,Elevated creatine kinase,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151576,C0023241,PREDISPOSES,Elevated creatine kinase,Legionnaires' Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151691,C0018799,PREDISPOSES,Decreased circulating high-density lipoprotein levels,Heart Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151691,C0020557,PREDISPOSES,Decreased circulating high-density lipoprotein levels,Hypertriglyceridemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151723,C0002871,PREDISPOSES,Hypomagnesemia,Anemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151723,C0521170,PREDISPOSES,Hypomagnesemia,Osteoporotic Fractures,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151754,C0032285,PREDISPOSES,Elevated lactate dehydrogenase,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151854,C0007820,PREDISPOSES,Abnormal platelets,Cerebrovascular Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151854,C0034069,PREDISPOSES,Abnormal platelets,Pulmonary Fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0151889,C0038454,PREDISPOSES,Hyperreflexia,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0162643,C0035222,PREDISPOSES,treatment failure,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0205160,C0010380,PREDISPOSES,Negative,Croup,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0205160,C0032285,PREDISPOSES,Negative,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0205160,C1264606,PREDISPOSES,Negative,Persistent infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0205161,C0016052,PREDISPOSES,Abnormal,Fibromuscular Dysplasia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0205161,C0034069,PREDISPOSES,Abnormal,Pulmonary Fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0205161,C0242994,PREDISPOSES,Abnormal,Hantavirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0205400,C0876998,PREDISPOSES,Thickened,Thrombus of cardiac chamber,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0206076,C0004096,PREDISPOSES,Reproductive History,Asthma,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0206076,C0010823,PREDISPOSES,Reproductive History,Cytomegalovirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0206076,C0024117,PREDISPOSES,Reproductive History,Chronic Obstructive Airway Disease,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0206076,C0028754,PREDISPOSES,Reproductive History,Obesity,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0206076,C0035222,PREDISPOSES,Reproductive History,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0206076,C0042384,PREDISPOSES,Reproductive History,Vasculitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0206076,C0276500,PREDISPOSES,Reproductive History,Human immunodeficiency virus I infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0206076,C0729555,PREDISPOSES,Reproductive History,Infection of digestive system,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221082,C1175175,PREDISPOSES,adverse effect due to surgery,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221147,C0035222,PREDISPOSES,Decreased platelet production (finding),"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0006285,PREDISPOSES,Lesion,Bronchopneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0024894,PREDISPOSES,Lesion,Mastitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0031099,PREDISPOSES,Lesion,Periodontitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0032285,PREDISPOSES,Lesion,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0034186,PREDISPOSES,Lesion,Pyelonephritis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0041582,PREDISPOSES,Lesion,Ulcer,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0264385,PREDISPOSES,Lesion,Airsacculitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0221198,C0268279,PREDISPOSES,Lesion,Lipofuscinosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0227791,C0010692,PREDISPOSES,Vaginal Discharge,Cystitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231170,C0008679,PREDISPOSES,Disability,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231221,C0001175,PREDISPOSES,Asymptomatic,Acquired Immunodeficiency Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231221,C0019100,PREDISPOSES,Asymptomatic,Severe Dengue,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231221,C0029456,PREDISPOSES,Asymptomatic,Osteoporosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231221,C0275522,PREDISPOSES,Asymptomatic,Asymptomatic Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0231224,C0009450,PREDISPOSES,Crisis,Communicable Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0231225,C0742343,PREDISPOSES,Pain crisis,Acute Chest Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231303,C0729531,PREDISPOSES,Distress,Viral respiratory infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231303,C1739395,PREDISPOSES,Distress,Takotsubo Cardiomyopathy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231337,C0004096,PREDISPOSES,Senility,Asthma,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0231337,C0011860,PREDISPOSES,Senility,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231337,C0022650,PREDISPOSES,Senility,Kidney Calculi,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231337,C0035222,PREDISPOSES,Senility,"Respiratory Distress Syndrome, Adult",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0231337,C0035235,PREDISPOSES,Senility,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231337,C0085692,PREDISPOSES,Senility,Hemorrhagic cystitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231337,C0856825,PREDISPOSES,Senility,Acute GVH disease,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0231337,C1142127,PREDISPOSES,Senility,pneumococcal bacteremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231337,C2350344,PREDISPOSES,Senility,Chronic Lung Injury,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231441,C0398623,PREDISPOSES,Immobile,Thrombophilia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231835,C0018790,PREDISPOSES,Tachypnea,Cardiac Arrest,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231835,C0032285,PREDISPOSES,Tachypnea,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0231901,C0455988,PREDISPOSES,Intraabdominal pressure,"Hydrops Fetalis, Non-Immune",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0232051,C0032285,PREDISPOSES,Cough reflex,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0232051,C0085129,PREDISPOSES,Cough reflex,Bronchial Hyperreactivity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0232117,C1145670,PREDISPOSES,Pulse Rate,Respiratory Failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0232341,C0455988,PREDISPOSES,Increased vascular flow,"Hydrops Fetalis, Non-Immune",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0232370,C0026946,PREDISPOSES,Florid red complexion (finding),Mycoses,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0232805,C0022660,PREDISPOSES,Normal renal function,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0233308,C0014179,PREDISPOSES,Spontaneous rupture of membranes,Endometritis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0234146,C0006266,PREDISPOSES,Absent reflex,Bronchial Spasm,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0234146,C0032285,PREDISPOSES,Absent reflex,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0234428,C0032290,PREDISPOSES,Disturbance of consciousness,Aspiration Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0234708,C0017601,PREDISPOSES,Raised intraocular pressure,Glaucoma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0235195,C0006266,PREDISPOSES,Sedated state,Bronchial Spasm,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0235195,C0032285,PREDISPOSES,Sedated state,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0235896,C0042384,PREDISPOSES,Pulmonary Infiltrate,Vasculitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0236018,C0038454,PREDISPOSES,Aura,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0236175,C0004096,PREDISPOSES,Increased IgE level,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0237154,C0041296,PREDISPOSES,Homelessness,Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0237677,C1262313,PREDISPOSES,insensitivity,Invasive Fungal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0238580,C0035436,PREDISPOSES,blood type ABO incompatibility (finding),Rheumatic Fever,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0238614,C0006271,PREDISPOSES,ALLERGEN EXPOSURE,Bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0238614,C0582415,PREDISPOSES,ALLERGEN EXPOSURE,Acute asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0238646,C0009450,PREDISPOSES,ANIMAL EXPOSURE,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0238646,C0043528,PREDISPOSES,ANIMAL EXPOSURE,Zoonoses,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0238908,C3662483,PREDISPOSES,CAT EXPOSURE,Allergic sensitization,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239126,C0010823,PREDISPOSES,corticosteroid use,Cytomegalovirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239126,C0023518,PREDISPOSES,corticosteroid use,Leukocytosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239126,C0042769,PREDISPOSES,corticosteroid use,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239126,C0940933,PREDISPOSES,corticosteroid use,infection as a complication,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239134,C0442886,PREDISPOSES,Productive cough,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239134,C0740304,PREDISPOSES,Productive cough,copd exacerbation,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239200,C3662483,PREDISPOSES,dust exposure,Allergic sensitization,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239997,C0007789,PREDISPOSES,Maternal infection,Cerebral Palsy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239997,C0158944,PREDISPOSES,Maternal infection,Infections specific to perinatal period,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239997,C0205721,PREDISPOSES,Maternal infection,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239998,C0162429,PREDISPOSES,Recurrent infections,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239998,C0206171,PREDISPOSES,Recurrent infections,Community-Acquired Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0239998,C0271454,PREDISPOSES,Recurrent infections,Chronic purulent otitis media,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0240016,C0036690,PREDISPOSES,Insulin used,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0240021,C0265514,PREDISPOSES,INTERCURRENT INFECTION,Dermatofibrosis lenticularis disseminata,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0240278,C0034063,PREDISPOSES,Lymphatic obstruction,Pulmonary Edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0240604,C1861172,PREDISPOSES,birth control pill use,Venous Thromboembolism,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0240618,C0746102,PREDISPOSES,ozone exposure,Chronic lung disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241863,C0020488,PREDISPOSES,diabetic,Hypernatremia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0241863,C0036690,PREDISPOSES,diabetic,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0004096,PREDISPOSES,Family history,Asthma,fndg,dsyn,6,PREDISPOSES_FNDGpredDSYN
+C0241889,C0004364,PREDISPOSES,Family history,Autoimmune Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0006271,PREDISPOSES,Family history,Bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0007682,PREDISPOSES,Family history,CNS disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0014544,PREDISPOSES,Family history,Epilepsy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0019880,PREDISPOSES,Family history,Homocystinuria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0024796,PREDISPOSES,Family history,Marfan Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0149781,PREDISPOSES,Family history,Spontaneous pneumothorax,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0241889,C0339901,PREDISPOSES,Family history,Acute respiratory infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0242089,C0041296,PREDISPOSES,Serology positive,Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0242089,C0872054,PREDISPOSES,Serology positive,latent infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0262613,C1561643,PREDISPOSES,Renal mass,Chronic Kidney Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0262926,C0004659,PREDISPOSES,Medical History,Bacteriuria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0262926,C0009450,PREDISPOSES,Medical History,Communicable Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0262926,C0013595,PREDISPOSES,Medical History,Eczema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0277608,C0005779,PREDISPOSES,Death in hospital,Blood Coagulation Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0277787,C0001175,PREDISPOSES,Social stigmata,Acquired Immunodeficiency Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0277787,C1175175,PREDISPOSES,Social stigmata,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0277885,C0876998,PREDISPOSES,Decreased systolic arterial pressure,Thrombus of cardiac chamber,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0278252,C0034069,PREDISPOSES,Prognosis bad,Pulmonary Fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0279134,C0032285,PREDISPOSES,prior radiation therapy,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0311277,C1262289,PREDISPOSES,"Obesity, Abdominal",dysmetabolic syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0311277,C1704272,PREDISPOSES,"Obesity, Abdominal",Benign Prostatic Hyperplasia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0311468,C1263988,PREDISPOSES,Increased bilirubin level (finding),Hemolytic disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0314761,C0032285,PREDISPOSES,Normal flora,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0314761,C4082764,PREDISPOSES,Normal flora,Gastrointestinal infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0002792,PREDISPOSES,Possible,anaphylaxis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0004364,PREDISPOSES,Possible,Autoimmune Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C0004626,PREDISPOSES,Possible,"Pneumonia, Bacterial",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0009443,PREDISPOSES,Possible,Common Cold,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0009450,PREDISPOSES,Possible,Communicable Diseases,fndg,dsyn,5,PREDISPOSES_FNDGpredDSYN
+C0332149,C0010278,PREDISPOSES,Possible,Craniosynostosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0014038,PREDISPOSES,Possible,Encephalitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0018802,PREDISPOSES,Possible,Congestive heart failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0021400,PREDISPOSES,Possible,Influenza,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0332149,C0023240,PREDISPOSES,Possible,Legionellosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0024117,PREDISPOSES,Possible,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0024591,PREDISPOSES,Possible,Malignant hyperpyrexia due to anesthesia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0025517,PREDISPOSES,Possible,Metabolic Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0029118,PREDISPOSES,Possible,Opportunistic Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0029882,PREDISPOSES,Possible,Otitis Media,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0030779,PREDISPOSES,Possible,Pelger-Huet Anomaly,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0032285,PREDISPOSES,Possible,Pneumonia,fndg,dsyn,4,PREDISPOSES_FNDGpredDSYN
+C0332149,C0032371,PREDISPOSES,Possible,Poliomyelitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0033860,PREDISPOSES,Possible,Psoriasis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C0035222,PREDISPOSES,Possible,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0035235,PREDISPOSES,Possible,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0035243,PREDISPOSES,Possible,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0036690,PREDISPOSES,Possible,Septicemia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C0037199,PREDISPOSES,Possible,Sinusitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0041296,PREDISPOSES,Possible,Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0042769,PREDISPOSES,Possible,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0079924,PREDISPOSES,Possible,Oligohydramnios,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0085786,PREDISPOSES,Possible,Hamman-Rich syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0151317,PREDISPOSES,Possible,Chronic infectious disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0162429,PREDISPOSES,Possible,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0205721,PREDISPOSES,Possible,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0238644,PREDISPOSES,Possible,"Anemia, severe",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0265514,PREDISPOSES,Possible,Dermatofibrosis lenticularis disseminata,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C0268854,PREDISPOSES,Possible,Contracted bladder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0275524,PREDISPOSES,Possible,Coinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0276289,PREDISPOSES,Possible,Zika Virus Infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0276796,PREDISPOSES,Possible,Disease due to Eimeria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0277556,PREDISPOSES,Possible,Recurrent disease,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C0947961,PREDISPOSES,Possible,Atopic condition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0948008,PREDISPOSES,Possible,Ischemic stroke,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C0948343,PREDISPOSES,Possible,Transfusion-Related Acute Lung Injury,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C1175175,PREDISPOSES,Possible,Severe Acute Respiratory Syndrome,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0332149,C1290886,PREDISPOSES,Possible,Chronic inflammatory disorder,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332149,C1609538,PREDISPOSES,Possible,Latent Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332149,C3694279,PREDISPOSES,Possible,Middle East Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332155,C0029118,PREDISPOSES,Did not receive therapy or drug for,Opportunistic Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332155,C0940933,PREDISPOSES,Did not receive therapy or drug for,infection as a complication,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332219,C0007222,PREDISPOSES,Easy,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332219,C0008049,PREDISPOSES,Easy,Chickenpox,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332219,C0017168,PREDISPOSES,Easy,Gastroesophageal reflux disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332219,C0021167,PREDISPOSES,Easy,Incontinence,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0332219,C0021400,PREDISPOSES,Easy,Influenza,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0332219,C0037199,PREDISPOSES,Easy,Sinusitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0337664,C0009443,PREDISPOSES,Smoker,Common Cold,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0337664,C0024115,PREDISPOSES,Smoker,Lung diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0337664,C0032269,PREDISPOSES,Smoker,Pneumococcal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0337664,C0948008,PREDISPOSES,Smoker,Ischemic stroke,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0337664,C1175175,PREDISPOSES,Smoker,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0337672,C0024117,PREDISPOSES,Non-smoker,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0349790,C0004096,PREDISPOSES,Exacerbation of asthma,Asthma,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0376618,C0008370,PREDISPOSES,Endotoxemia,Cholestasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0376705,C0042373,PREDISPOSES,Viral Load result,Vascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0391841,C0016052,PREDISPOSES,Oxygen content,Fibromuscular Dysplasia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0007222,PREDISPOSES,Nutritional status,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0008370,PREDISPOSES,Nutritional status,Cholestasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0009450,PREDISPOSES,Nutritional status,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0032285,PREDISPOSES,Nutritional status,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0041327,PREDISPOSES,Nutritional status,"Tuberculosis, Pulmonary",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0042769,PREDISPOSES,Nutritional status,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0392209,C0162429,PREDISPOSES,Nutritional status,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0403723,C0153252,PREDISPOSES,Candiduria,Systemic candidiasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0421451,C0004096,PREDISPOSES,Patient date of birth,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0422837,C0014038,PREDISPOSES,Neurological observations,Encephalitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0423995,C0014059,PREDISPOSES,Puzzled,"Encephalomyelitis, Acute Disseminated",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424448,C0042769,PREDISPOSES,Mask-like facies,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424575,C0277548,PREDISPOSES,General health,Epidemic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424660,C4225412,PREDISPOSES,Percentage weight gain,Spondylo-ocular syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424679,C0030552,PREDISPOSES,Fat-free mass,Paresis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424969,C0013595,PREDISPOSES,Mother smokes,Eczema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424969,C0035243,PREDISPOSES,Mother smokes,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0424969,C0038644,PREDISPOSES,Mother smokes,Sudden infant death syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0425104,C0010054,PREDISPOSES,Shift worker,Coronary Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0425152,C0032285,PREDISPOSES,Engaged to be married,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0425264,C0004576,PREDISPOSES,Willing to be donor of blood,Babesiosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0425687,C0034063,PREDISPOSES,Jugular venous engorgement,Pulmonary Edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0425945,C0149725,PREDISPOSES,Prolonged menses,Lower respiratory tract infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0426209,C0013927,PREDISPOSES,amniotic fluid meconium stained,"Embolism, Amniotic Fluid",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0426686,C4288963,PREDISPOSES,Liver finding,Hepatitis C Virus Infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0428642,C0010674,PREDISPOSES,Pulmonary artery pressure,Cystic Fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0428642,C0030305,PREDISPOSES,Pulmonary artery pressure,Pancreatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0428687,C0032326,PREDISPOSES,Expiratory time,Pneumothorax,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0429123,C0022660,PREDISPOSES,Cardiopulmonary bypass time,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0436343,C0004096,PREDISPOSES,Symptom mild,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0439662,C0034069,PREDISPOSES,Immune,Pulmonary Fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0439662,C0042769,PREDISPOSES,Immune,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0439662,C0155877,PREDISPOSES,Immune,Allergic asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0439662,C0743496,PREDISPOSES,Immune,end organ damage,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0439662,C1175175,PREDISPOSES,Immune,Severe Acute Respiratory Syndrome,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0442751,C0007222,PREDISPOSES,Distance vision 6/9,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0442760,C0020305,PREDISPOSES,3/9,Hydrops Fetalis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0442760,C0023860,PREDISPOSES,3/9,Listeriosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0442797,C0032285,PREDISPOSES,Decreasing,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0442797,C0205721,PREDISPOSES,Decreasing,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0442797,C0442886,PREDISPOSES,Decreasing,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0442797,C0520788,PREDISPOSES,Decreasing,Posttransfusion viral hepatitis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0449411,C0041234,PREDISPOSES,Causative_agents,Chagas Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0450093,C0035436,PREDISPOSES,Very large,Rheumatic Fever,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0455829,C0018799,PREDISPOSES,Waist Circumference,Heart Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0456909,C0009450,PREDISPOSES,Blindness,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0456909,C0022568,PREDISPOSES,Blindness,Keratitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0456909,C0030499,PREDISPOSES,Blindness,Parasitic Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0476442,C0001175,PREDISPOSES,High antibody titer,Acquired Immunodeficiency Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0476442,C0021400,PREDISPOSES,High antibody titer,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0481508,C0085083,PREDISPOSES,Donor status,Ovarian Hyperstimulation Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0497406,C0008679,PREDISPOSES,Overweight,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0497406,C0011603,PREDISPOSES,Overweight,Dermatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0497406,C0011847,PREDISPOSES,Overweight,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0497406,C0032285,PREDISPOSES,Overweight,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0497406,C0035222,PREDISPOSES,Overweight,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C0009450,PREDISPOSES,consideration,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C0018794,PREDISPOSES,consideration,Heart Block,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C0021400,PREDISPOSES,consideration,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C0206608,PREDISPOSES,consideration,Flavivirus Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0518609,C0238644,PREDISPOSES,consideration,"Anemia, severe",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C0865791,PREDISPOSES,consideration,obstructive bronchitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C2350529,PREDISPOSES,consideration,Pulmonary Aspergillosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0518609,C3888198,PREDISPOSES,consideration,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0521654,C0876973,PREDISPOSES,Neurologic Deficits,Infectious disease of lung,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0521874,C1175175,PREDISPOSES,Victim of neglect (finding),Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0521987,C0729531,PREDISPOSES,Pre-existing condition,Viral respiratory infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0522224,C0008679,PREDISPOSES,Paralysed,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0522224,C1135188,PREDISPOSES,Paralysed,Critical illness myopathy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0522224,C1145670,PREDISPOSES,Paralysed,Respiratory Failure,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0522569,C0398623,PREDISPOSES,Severe inflammation,Thrombophilia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0546884,C0009062,PREDISPOSES,Hypovolemia,Clostridium Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0546884,C0035078,PREDISPOSES,Hypovolemia,Kidney Failure,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0546884,C1565489,PREDISPOSES,Hypovolemia,Renal Insufficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0553544,C0038454,PREDISPOSES,Gaze,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0556137,C0011334,PREDISPOSES,Sucrose intake,Dental caries,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0556223,C0004096,PREDISPOSES,Vegetable intake,Asthma,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0557159,C0009450,PREDISPOSES,Financial circumstances,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0558141,C1397307,PREDISPOSES,Transsexual (finding),Cardiac fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0558265,C0036130,PREDISPOSES,Multiple sexual contacts,Salpingitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0558265,C0036916,PREDISPOSES,Multiple sexual contacts,Sexually Transmitted Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0559473,C0004096,PREDISPOSES,maternal history,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0560175,C0276829,PREDISPOSES,Carrier of disorder,Infection by Tritrichomonas,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0560219,C0694549,PREDISPOSES,Alcohol intake above recommended sensible limits,Community acquired pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0564439,C0013595,PREDISPOSES,Vitamin D intake,Eczema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0564470,C0032851,PREDISPOSES,Optimistic,Poultry Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0576471,C0275544,PREDISPOSES,Finding of brain,Congenital infectious disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578022,C0011168,PREDISPOSES,Finding of body mass index,Deglutition Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578022,C0011847,PREDISPOSES,Finding of body mass index,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578022,C0028754,PREDISPOSES,Finding of body mass index,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578022,C0035222,PREDISPOSES,Finding of body mass index,"Respiratory Distress Syndrome, Adult",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0578022,C0162429,PREDISPOSES,Finding of body mass index,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578022,C0205721,PREDISPOSES,Finding of body mass index,"Infections, Hospital",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0578022,C0271650,PREDISPOSES,Finding of body mass index,Impaired glucose tolerance,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578757,C0149725,PREDISPOSES,Good neonatal condition at birth,Lower respiratory tract infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0578862,C0017601,PREDISPOSES,Intraocular pressure finding,Glaucoma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0580493,C0032285,PREDISPOSES,Serum albumin low result,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0580493,C0038454,PREDISPOSES,Serum albumin low result,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0581126,C0582415,PREDISPOSES,Severe asthma,Acute asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0585348,C0001883,PREDISPOSES,Biphasic stridor,Airway Obstruction,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0586139,C0021400,PREDISPOSES,Influenza vaccination status,Influenza,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0586139,C0035243,PREDISPOSES,Influenza vaccination status,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0587170,C0009450,PREDISPOSES,Housing unsatisfactory,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0588012,C0277548,PREDISPOSES,Diet poor,Epidemic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0595998,C0008679,PREDISPOSES,Household composition,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0596013,C0004096,PREDISPOSES,Does stand,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0596013,C0020538,PREDISPOSES,Does stand,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0596020,C0272285,PREDISPOSES,Does hit (finding),Heparin-induced thrombocytopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0600109,C1175175,PREDISPOSES,Willing,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0600109,C3694279,PREDISPOSES,Willing,Middle East Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0678803,C0030567,PREDISPOSES,chemical exposure,Parkinson Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0682132,C0034362,PREDISPOSES,regional difference,Q Fever,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0682194,C1175175,PREDISPOSES,socioeconomic differences,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0683317,C0028754,PREDISPOSES,activity level,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0683317,C0031099,PREDISPOSES,activity level,Periodontitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0683321,C0019360,PREDISPOSES,poor health,Herpes zoster disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0683321,C0035222,PREDISPOSES,poor health,"Respiratory Distress Syndrome, Adult",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0683321,C0206750,PREDISPOSES,poor health,Coronavirus Infections,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0683321,C1701940,PREDISPOSES,poor health,"Pneumonia, Ventilator-Associated",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0683321,C4505065,PREDISPOSES,poor health,Noncommunicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0686744,C0032285,PREDISPOSES,Well child,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0686744,C0275524,PREDISPOSES,Well child,Coinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700292,C0004096,PREDISPOSES,Hypoxemia,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700292,C0022660,PREDISPOSES,Hypoxemia,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700292,C0742343,PREDISPOSES,Hypoxemia,Acute Chest Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700292,C0948755,PREDISPOSES,Hypoxemia,Pulmonary failure,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0700292,C1145670,PREDISPOSES,Hypoxemia,Respiratory Failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700292,C1565489,PREDISPOSES,Hypoxemia,Renal Insufficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700292,C1701940,PREDISPOSES,Hypoxemia,"Pneumonia, Ventilator-Associated",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0700590,C0037278,PREDISPOSES,Increased sweating,"Skin Diseases, Infectious",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0728834,C0001311,PREDISPOSES,Place in family order: youngest sibling,Acute bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0728899,C0032285,PREDISPOSES,Intoxication,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0730345,C0231211,PREDISPOSES,Microalbuminuria,Generalized functional disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0742906,C4085595,PREDISPOSES,Elevated C-reactive protein,AL-RAQAD SYNDROME,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C0742969,C0035222,PREDISPOSES,D-dimer above reference range,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0743534,C0019158,PREDISPOSES,enzymes elevated,Hepatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0743630,C0024117,PREDISPOSES,exacerbation acute,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0743630,C0264408,PREDISPOSES,exacerbation acute,Childhood asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0743912,C0027059,PREDISPOSES,Increased ferritin,Myocarditis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0743997,C0264733,PREDISPOSES,Incidental Findings,Ventricular dilatation (disorder),fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0743997,C0521530,PREDISPOSES,Incidental Findings,Lung consolidation,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0744979,C0024530,PREDISPOSES,HIV risk,Malaria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0744979,C0162429,PREDISPOSES,HIV risk,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745041,C0004623,PREDISPOSES,prolonged hospitalization,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745041,C0006287,PREDISPOSES,prolonged hospitalization,Bronchopulmonary Dysplasia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745041,C0032285,PREDISPOSES,prolonged hospitalization,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745076,C0037278,PREDISPOSES,poor hygiene,"Skin Diseases, Infectious",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745114,C0022660,PREDISPOSES,hypertension chronic,"Kidney Failure, Acute",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0745117,C0003850,PREDISPOSES,hypertension controlled,Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745117,C0010054,PREDISPOSES,hypertension controlled,Coronary Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745117,C0035078,PREDISPOSES,hypertension controlled,Kidney Failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745117,C0038454,PREDISPOSES,hypertension controlled,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0745188,C0264518,PREDISPOSES,Chronic hypoxemia,Chronic pulmonary edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0746961,C0032285,PREDISPOSES,Oxygen saturation below reference range,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0746977,C0264408,PREDISPOSES,obesity maternal,Childhood asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0748864,C0004096,PREDISPOSES,small size,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0750484,C0032285,PREDISPOSES,Confirmation,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0750484,C0940933,PREDISPOSES,Confirmation,infection as a complication,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0750558,C0013369,PREDISPOSES,Unlikely,Dysentery,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0750558,C0021400,PREDISPOSES,Unlikely,Influenza,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C0750558,C0032285,PREDISPOSES,Unlikely,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0750558,C0038454,PREDISPOSES,Unlikely,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0750558,C1175175,PREDISPOSES,Unlikely,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0853068,C0004623,PREDISPOSES,Decreased glomerular filtration rate,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0853986,C0032285,PREDISPOSES,Lymphocyte count decreased,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0854467,C0004610,PREDISPOSES,Myelosuppression,Bacteremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0854467,C0032285,PREDISPOSES,Myelosuppression,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0854467,C0581363,PREDISPOSES,Myelosuppression,Perianal infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0860752,C0038644,PREDISPOSES,Increased lactate,Sudden infant death syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0860864,C0022660,PREDISPOSES,Decreased albumin,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0860864,C0162429,PREDISPOSES,Decreased albumin,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0868658,C0009450,PREDISPOSES,health advice,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0868658,C0872315,PREDISPOSES,health advice,"Communicable Diseases, Emerging",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0877225,C0011860,PREDISPOSES,Decreased bone density,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0877225,C0020538,PREDISPOSES,Decreased bone density,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0919574,C0037278,PREDISPOSES,immobilization prolonged,"Skin Diseases, Infectious",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0947313,C0004096,PREDISPOSES,History of immunization,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1134488,C0020456,PREDISPOSES,hormonal changes,Hyperglycemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1134488,C0020538,PREDISPOSES,hormonal changes,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1260922,C0029118,PREDISPOSES,Abnormal breathing,Opportunistic Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1260922,C1175175,PREDISPOSES,Abnormal breathing,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1262477,C0006849,PREDISPOSES,Weight decreased,Oral candidiasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1262477,C0029118,PREDISPOSES,Weight decreased,Opportunistic Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1262477,C0341703,PREDISPOSES,Weight decreased,Adult Fanconi syndrome,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1262477,C0442886,PREDISPOSES,Weight decreased,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1275743,C0022660,PREDISPOSES,Co-morbid conditions,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1275743,C1704275,PREDISPOSES,Co-morbid conditions,Pyomyositis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1277200,C0032285,PREDISPOSES,Normal concentration,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1281905,C0009450,PREDISPOSES,At risk of disease,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1281905,C1175175,PREDISPOSES,At risk of disease,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1290905,C0020538,PREDISPOSES,Discrepancy,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299448,C0032285,PREDISPOSES,Patient ventilated,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299448,C0032326,PREDISPOSES,Patient ventilated,Pneumothorax,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299448,C0035222,PREDISPOSES,Patient ventilated,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299448,C1565489,PREDISPOSES,Patient ventilated,Renal Insufficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0004096,PREDISPOSES,Has difficulty doing (qualifier value),Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0004623,PREDISPOSES,Has difficulty doing (qualifier value),Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0006267,PREDISPOSES,Has difficulty doing (qualifier value),Bronchiectasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0007222,PREDISPOSES,Has difficulty doing (qualifier value),Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0009450,PREDISPOSES,Has difficulty doing (qualifier value),Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0010823,PREDISPOSES,Has difficulty doing (qualifier value),Cytomegalovirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0016627,PREDISPOSES,Has difficulty doing (qualifier value),Influenza in Birds,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1299586,C0020615,PREDISPOSES,Has difficulty doing (qualifier value),Hypoglycemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0021400,PREDISPOSES,Has difficulty doing (qualifier value),Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0024117,PREDISPOSES,Has difficulty doing (qualifier value),Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0032285,PREDISPOSES,Has difficulty doing (qualifier value),Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1299586,C0035204,PREDISPOSES,Has difficulty doing (qualifier value),Respiration Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0036690,PREDISPOSES,Has difficulty doing (qualifier value),Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0275524,PREDISPOSES,Has difficulty doing (qualifier value),Coinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1299586,C0694549,PREDISPOSES,Has difficulty doing (qualifier value),Community acquired pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1318963,C0009450,PREDISPOSES,Readiness,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1318963,C0021400,PREDISPOSES,Readiness,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1318963,C1175175,PREDISPOSES,Readiness,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1319065,C2919886,PREDISPOSES,Castrated male,Magnesium ammonium phosphate urolithiasis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1320226,C4505331,PREDISPOSES,Incubation period,Travel-Associated Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1320408,C0011881,PREDISPOSES,Urinary elimination status,Diabetic Nephropathy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1320796,C0948343,PREDISPOSES,High airway pressure,Transfusion-Related Acute Lung Injury,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1328799,C0017168,PREDISPOSES,Deep breathing,Gastroesophageal reflux disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1332859,C1565489,PREDISPOSES,Cast Formation,Renal Insufficiency,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1334929,C0878544,PREDISPOSES,Necrotic Lesion,Cardiomyopathies,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1408258,C0746556,PREDISPOSES,Kidney damage,metabolic disturbance,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1408353,C0009450,PREDISPOSES,Undiagnosed,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1443394,C0021400,PREDISPOSES,Vaccination status,Influenza,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C1444662,C0011175,PREDISPOSES,Discontinued,Dehydration,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1444662,C0022638,PREDISPOSES,Discontinued,Ketosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1457868,C0024117,PREDISPOSES,Worse,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1457868,C0029456,PREDISPOSES,Worse,Osteoporosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1457907,C0004030,PREDISPOSES,Surgical procedure finding,Aspergillosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1504561,C0011175,PREDISPOSES,Hypophagia,Dehydration,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0008679,PREDISPOSES,Exogenous Factors,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0009450,PREDISPOSES,Exogenous Factors,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0010346,PREDISPOSES,Exogenous Factors,Crohn Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0013595,PREDISPOSES,Exogenous Factors,Eczema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0019247,PREDISPOSES,Exogenous Factors,Hereditary Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0024141,PREDISPOSES,Exogenous Factors,"Lupus Erythematosus, Systemic",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0026769,PREDISPOSES,Exogenous Factors,Multiple Sclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0029882,PREDISPOSES,Exogenous Factors,Otitis Media,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1516998,C0035204,PREDISPOSES,Exogenous Factors,Respiration Disorders,fndg,dsyn,4,PREDISPOSES_FNDGpredDSYN
+C1516998,C0035243,PREDISPOSES,Exogenous Factors,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C0035455,PREDISPOSES,Exogenous Factors,Rhinitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1516998,C3277428,PREDISPOSES,Exogenous Factors,Severe viral infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1518340,C0340238,PREDISPOSES,No Evidence of Disease,Infectious disorder of bronchus,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1518340,C0948343,PREDISPOSES,No Evidence of Disease,Transfusion-Related Acute Lung Injury,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1532253,C0007222,PREDISPOSES,Sedentary lifestyle,Cardiovascular Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1532253,C0011847,PREDISPOSES,Sedentary lifestyle,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1532253,C0018799,PREDISPOSES,Sedentary lifestyle,Heart Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1532253,C0028754,PREDISPOSES,Sedentary lifestyle,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1532253,C0029456,PREDISPOSES,Sedentary lifestyle,Osteoporosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1532253,C0038454,PREDISPOSES,Sedentary lifestyle,Cerebrovascular accident,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1545588,C0004096,PREDISPOSES,Protection,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545588,C0009450,PREDISPOSES,Protection,Communicable Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1545588,C0016627,PREDISPOSES,Protection,Influenza in Birds,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545588,C0021400,PREDISPOSES,Protection,Influenza,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1545588,C0042749,PREDISPOSES,Protection,Viremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545588,C0242966,PREDISPOSES,Protection,Systemic Inflammatory Response Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545588,C0271429,PREDISPOSES,Protection,Acute otitis media,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545588,C0401151,PREDISPOSES,Protection,Chronic diarrhea,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545750,C0032310,PREDISPOSES,Second hand smoke exposure,"Pneumonia, Viral",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1545750,C0035455,PREDISPOSES,Second hand smoke exposure,Rhinitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1704258,C0028754,PREDISPOSES,Abnormality,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1709157,C1262006,PREDISPOSES,Negative Surgical Margin,Bacterial sinusitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1709157,C2747816,PREDISPOSES,Negative Surgical Margin,Severe Malaria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1710572,C0238106,PREDISPOSES,Unnecessary Therapy,Clostridium difficile colitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1821244,C0004096,PREDISPOSES,Normal development,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1821244,C0264220,PREDISPOSES,Normal development,Chronic disease of respiratory system,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1822492,C0024535,PREDISPOSES,Chronic Morbidities,"Malaria, Falciparum",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1822492,C0036690,PREDISPOSES,Chronic Morbidities,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1829841,C0011334,PREDISPOSES,Oral health.behavior,Dental caries,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1831741,C0032285,PREDISPOSES,poor performance status,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1832072,C0035459,PREDISPOSES,Accommodation,"Rhinitis, Atrophic",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1832073,C0003949,PREDISPOSES,Handling,Asbestosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1832073,C3694279,PREDISPOSES,Handling,Middle East Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1836141,C0037199,PREDISPOSES,Respiratory muscle weakness,Sinusitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1836348,C0010340,PREDISPOSES,Severe disorder,Critical Illness,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1836348,C0021400,PREDISPOSES,Severe disorder,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1836348,C0037354,PREDISPOSES,Severe disorder,Smallpox,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837066,C0004096,PREDISPOSES,Recurrent viral infection,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837066,C0024117,PREDISPOSES,Recurrent viral infection,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837655,C0009450,PREDISPOSES,Multifactorial,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837655,C0024117,PREDISPOSES,Multifactorial,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837655,C0038454,PREDISPOSES,Multifactorial,Cerebrovascular accident,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837655,C0042769,PREDISPOSES,Multifactorial,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1837655,C0149725,PREDISPOSES,Multifactorial,Lower respiratory tract infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1842211,C0035243,PREDISPOSES,Severe course,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1852416,C0035235,PREDISPOSES,Increased paternal age,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1853237,C0021400,PREDISPOSES,Isolated cases,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1854293,C0035222,PREDISPOSES,Iterations,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1855068,C1535939,PREDISPOSES,Low CD4+ count,Pneumocystis jiroveci pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1855204,C0041296,PREDISPOSES,Cellular immunodeficiency,Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1855575,C0039128,PREDISPOSES,Very rare,Syphilis,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C1856381,C0002878,PREDISPOSES,Glucose-6-phosphate deficiency,"Anemia, Hemolytic",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1856532,C0264490,PREDISPOSES,Restrictive impairment,Acute respiratory failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1857435,C0032285,PREDISPOSES,Pseudomonas colonization,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1857435,C0265514,PREDISPOSES,Pseudomonas colonization,Dermatofibrosis lenticularis disseminata,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1858576,C0004096,PREDISPOSES,Heterogeneous disorder,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1862763,C0001883,PREDISPOSES,Small airways,Airway Obstruction,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1862763,C0004096,PREDISPOSES,Small airways,Asthma,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C1862763,C0006271,PREDISPOSES,Small airways,Bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1864570,C0020473,PREDISPOSES,Insulin insensitivity,Hyperlipidemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1879905,C0022660,PREDISPOSES,Burned Medical Device or Device Component,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1880354,C0028754,PREDISPOSES,Disconnection Medical Device Problem,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1998319,C0694549,PREDISPOSES,Functional capacity,Community acquired pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C1998726,C0872315,PREDISPOSES,Adequate Knowledge,"Communicable Diseases, Emerging",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2136639,C0012739,PREDISPOSES,Body tissue injury,Disseminated Intravascular Coagulation,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2169607,C0699744,PREDISPOSES,recent General Surgery,Infection of ear,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2242554,C0004096,PREDISPOSES,Streptococcus colonisation,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2363736,C0162429,PREDISPOSES,Unintentional weight loss,Malnutrition,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2364300,C0034063,PREDISPOSES,Actual Adequate Hydration,Pulmonary Edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2585744,C0042769,PREDISPOSES,Virus present,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2597943,C0442886,PREDISPOSES,Index case,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2825142,C0021400,PREDISPOSES,Experimental Result,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2825972,C0032285,PREDISPOSES,Cant,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2825972,C0041296,PREDISPOSES,Cant,Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2825972,C0238013,PREDISPOSES,Cant,Invasive aspergillosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2826293,C0007222,PREDISPOSES,Clinical Significance,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2826293,C0020538,PREDISPOSES,Clinical Significance,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2826293,C0032285,PREDISPOSES,Clinical Significance,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2826293,C0037199,PREDISPOSES,Clinical Significance,Sinusitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2826293,C1698510,PREDISPOSES,Clinical Significance,Bacterial otitis media,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2826606,C0024117,PREDISPOSES,Fungal Colonization,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2919715,C0022660,PREDISPOSES,Intraabdominal pressure above reference range,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2931322,C0029118,PREDISPOSES,T-Lymphocytopenia,Opportunistic Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2945640,C0004610,PREDISPOSES,compromise,Bacteremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2945640,C0005779,PREDISPOSES,compromise,Blood Coagulation Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2945640,C0038522,PREDISPOSES,compromise,Subacute Sclerosing Panencephalitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2945640,C0340766,PREDISPOSES,compromise,Venous hypertension,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2945640,C1262313,PREDISPOSES,compromise,Invasive Fungal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2959885,C0264936,PREDISPOSES,Microthrombus,Secondary pulmonary hypertension,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2959885,C0940931,PREDISPOSES,Microthrombus,hemorrhage as a complication,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C2985135,C0023530,PREDISPOSES,Endobronchial Lesion,Leukopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3160719,C0178664,PREDISPOSES,"IgA NEPHROPATHY, SUSCEPTIBILITY TO, 1",Glomerulosclerosis (disorder),fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3176122,C0021400,PREDISPOSES,Data points,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3242228,C0006309,PREDISPOSES,new information,Brucellosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272281,C0011854,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score A,"Diabetes Mellitus, Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272282,C0019159,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score B,Hepatitis A,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0007222,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0009450,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0011860,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0021051,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Immunologic Deficiency Syndromes,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3272283,C0021400,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0032326,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Pneumothorax,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0036690,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0041296,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0151317,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Chronic infectious disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0497169,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,hiv-infection/aids,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C0522254,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Analgesic Overuse Headache,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C1145670,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Respiratory Failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C1175175,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272283,C1856053,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Hydranencephaly with Renal Aplasia-Dysplasia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272629,C0004623,PREDISPOSES,Epithelial Damage,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3272629,C0442886,PREDISPOSES,Epithelial Damage,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3273245,C0010823,PREDISPOSES,Acute Rejection,Cytomegalovirus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3273245,C0265514,PREDISPOSES,Acute Rejection,Dermatofibrosis lenticularis disseminata,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3274777,C0027051,PREDISPOSES,Severely Abnormal Ventricular Ejection Fraction,Myocardial Infarction,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3278575,C0032285,PREDISPOSES,Increased IL-8,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3472682,C0004096,PREDISPOSES,Insufficient prenatal care,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0009450,PREDISPOSES,Sign or Symptom,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0021400,PREDISPOSES,Sign or Symptom,Influenza,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0025311,PREDISPOSES,Sign or Symptom,Meningomyelitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0029118,PREDISPOSES,Sign or Symptom,Opportunistic Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0032285,PREDISPOSES,Sign or Symptom,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0043528,PREDISPOSES,Sign or Symptom,Zoonoses,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3540840,C0235840,PREDISPOSES,Sign or Symptom,Neonatal diarrhea,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3665437,C0022658,PREDISPOSES,Serum phosphate concentrations above normal (finding),Kidney Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3714738,C0009450,PREDISPOSES,Compliance,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3714738,C0016627,PREDISPOSES,Compliance,Influenza in Birds,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3714738,C0032371,PREDISPOSES,Compliance,Poliomyelitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3714738,C0742343,PREDISPOSES,Compliance,Acute Chest Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3714738,C3495498,PREDISPOSES,Compliance,"Cardiomyopathy, Familial Hypertrophic, 1 (disorder)",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3806166,C0024530,PREDISPOSES,Poor outcome,Malaria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3806829,C0018378,PREDISPOSES,"Muscle weakness, severe",Guillain-Barre Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3807656,C0032290,PREDISPOSES,Bulbar involvement,Aspiration Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3808828,C0004096,PREDISPOSES,Recurrent gastroenteritis,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3808828,C0032371,PREDISPOSES,Recurrent gastroenteritis,Poliomyelitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3811922,C0026946,PREDISPOSES,Liver transplant recipient,Mycoses,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3816499,C0002395,PREDISPOSES,Pathogenic,Alzheimer's Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3816499,C0017658,PREDISPOSES,Pathogenic,Glomerulonephritis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3816499,C0023895,PREDISPOSES,Pathogenic,Liver diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3816499,C0042373,PREDISPOSES,Pathogenic,Vascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3824706,C0007222,PREDISPOSES,Sedentary behavior,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3824706,C0011847,PREDISPOSES,Sedentary behavior,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3824706,C0028754,PREDISPOSES,Sedentary behavior,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3824706,C0037315,PREDISPOSES,Sedentary behavior,Sleep Apnea Syndromes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3824706,C2362324,PREDISPOSES,Sedentary behavior,Pediatric Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3827002,C0032310,PREDISPOSES,Ground Glass Opacity,"Pneumonia, Viral",fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C3829692,C1112157,PREDISPOSES,Histologic Chorioamnionitis,intrauterine infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3840880,C0004364,PREDISPOSES,Traffic,Autoimmune Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3840880,C0009450,PREDISPOSES,Traffic,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3840940,C1262313,PREDISPOSES,Potential problem,Invasive Fungal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3841253,C0442886,PREDISPOSES,Reusable,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3841722,C0029291,PREDISPOSES,2 - High,Psittacosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3841750,C0032269,PREDISPOSES,Mass gathering,Pneumococcal Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842087,C1867403,PREDISPOSES,4 mm,"Pyloric Stenosis, Infantile Hypertrophic 1",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842088,C0019163,PREDISPOSES,3 mm,Hepatitis B,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842090,C0009450,PREDISPOSES,1 mm,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842523,C0011847,PREDISPOSES,Heart condition,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842523,C0746102,PREDISPOSES,Heart condition,Chronic lung disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842568,C0017178,PREDISPOSES,Expatriate,Gastrointestinal Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842568,C0024530,PREDISPOSES,Expatriate,Malaria,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3842568,C1609538,PREDISPOSES,Expatriate,Latent Tuberculosis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3842672,C0036690,PREDISPOSES,Day 7,Septicemia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3842672,C1145670,PREDISPOSES,Day 7,Respiratory Failure,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3842781,C0026848,PREDISPOSES,Injury 4,Myopathy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843044,C0023530,PREDISPOSES,Changing schedule,Leukopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843156,C0206062,PREDISPOSES,Less often,"Lung Diseases, Interstitial",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843156,C0746102,PREDISPOSES,Less often,Chronic lung disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843309,C0022661,PREDISPOSES,1 time,"Kidney Failure, Chronic",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843647,C0004096,PREDISPOSES,> 2 years,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843647,C0149725,PREDISPOSES,> 2 years,Lower respiratory tract infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843647,C0152032,PREDISPOSES,> 2 years,Urinary hesitation,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843661,C0275524,PREDISPOSES,Too little,Coinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3843708,C0032285,PREDISPOSES,29+,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3844126,C0009450,PREDISPOSES,Can Do Very Little,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3844332,C0011847,PREDISPOSES,Not sure,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3844729,C0016627,PREDISPOSES,Very Important,Influenza in Birds,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3844729,C0043528,PREDISPOSES,Very Important,Zoonoses,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3845261,C0007222,PREDISPOSES,No activity,Cardiovascular Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3845645,C1175175,PREDISPOSES,Partial loss,Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3845714,C0280962,PREDISPOSES,Several days,Bone Marrow Suppression,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3845714,C1701940,PREDISPOSES,Several days,"Pneumonia, Ventilator-Associated",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3845726,C0205721,PREDISPOSES,Staffing level,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3846005,C0035222,PREDISPOSES,Room air,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0003850,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0004623,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Bacterial Infections,fndg,dsyn,6,PREDISPOSES_FNDGpredDSYN
+C3890735,C0007222,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Cardiovascular Diseases,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C3890735,C0010054,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Coronary Arteriosclerosis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3890735,C0011847,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0020625,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Hyponatremia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3890735,C0025289,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Meningitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0032285,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C3890735,C0036690,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Septicemia,fndg,dsyn,5,PREDISPOSES_FNDGpredDSYN
+C3890735,C0275524,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Coinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0456103,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Sepsis of the newborn,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0729520,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Bacterial lower respiratory infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C0876973,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Infectious disease of lung,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C1096721,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Neonatal Late-Onset Sepsis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C3890735,C1145670,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Respiratory Failure,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C4012276,C0004096,PREDISPOSES,Recurrent lower respiratory infections,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4021734,C0028754,PREDISPOSES,Abnormality of mitochondrial metabolism,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4021734,C0035222,PREDISPOSES,Abnormality of mitochondrial metabolism,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4021734,C3241937,PREDISPOSES,Abnormality of mitochondrial metabolism,Nonalcoholic Steatohepatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4022738,C0018799,PREDISPOSES,Neurodevelopmental delay,Heart Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4022738,C0020538,PREDISPOSES,Neurodevelopmental delay,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4023768,C1175175,PREDISPOSES,Total anosmia,Severe Acute Respiratory Syndrome,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4035627,C0032285,PREDISPOSES,2 times,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4035627,C0205721,PREDISPOSES,2 times,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4035627,C4505330,PREDISPOSES,2 times,Travel-Related Illness,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4036058,C0032326,PREDISPOSES,Too high,Pneumothorax,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4042775,C0238096,PREDISPOSES,Seated Position,"Embolism, Paradoxical",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4054230,C0343084,PREDISPOSES,Pathologic Response,Capillary Leak Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055223,C0004096,PREDISPOSES,Clinical Response,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055264,C0206061,PREDISPOSES,Cellular Debris,"Pneumonia, Interstitial",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0009319,PREDISPOSES,Accumulation,Colitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0020538,PREDISPOSES,Accumulation,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0022658,PREDISPOSES,Accumulation,Kidney Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0034063,PREDISPOSES,Accumulation,Pulmonary Edema,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0037052,PREDISPOSES,Accumulation,Sick Sinus Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0038826,PREDISPOSES,Accumulation,Superinfection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0042769,PREDISPOSES,Accumulation,Virus Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4055506,C0042798,PREDISPOSES,Accumulation,Low Vision,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0151650,PREDISPOSES,Accumulation,Renal fibrosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C0878544,PREDISPOSES,Accumulation,Cardiomyopathies,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4055506,C2242703,PREDISPOSES,Accumulation,Cardio-Renal Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4072750,C1290807,PREDISPOSES,Gastrointestinal pathogens,Diarrheal disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4086268,C0004096,PREDISPOSES,Exacerbation,Asthma,fndg,dsyn,6,PREDISPOSES_FNDGpredDSYN
+C4086268,C0004623,PREDISPOSES,Exacerbation,Bacterial Infections,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C4086268,C0022660,PREDISPOSES,Exacerbation,"Kidney Failure, Acute",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4086268,C0442886,PREDISPOSES,Exacerbation,Secondary Infections,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
+C4264314,C0042769,PREDISPOSES,Childhood diseases,Virus Diseases,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4264481,C0205721,PREDISPOSES,4 times,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4264481,C1960048,PREDISPOSES,4 times,Severe persistent asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0001883,PREDISPOSES,Colonization,Airway Obstruction,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0004030,PREDISPOSES,Colonization,Aspergillosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0004096,PREDISPOSES,Colonization,Asthma,fndg,dsyn,6,PREDISPOSES_FNDGpredDSYN
+C4289767,C0004610,PREDISPOSES,Colonization,Bacteremia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0004623,PREDISPOSES,Colonization,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0006277,PREDISPOSES,Colonization,Bronchitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0018378,PREDISPOSES,Colonization,Guillain-Barre Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0024117,PREDISPOSES,Colonization,Chronic Obstructive Airway Disease,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4289767,C0026918,PREDISPOSES,Colonization,Mycobacterium Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0029883,PREDISPOSES,Colonization,Otitis Media with Effusion,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0032285,PREDISPOSES,Colonization,Pneumonia,fndg,dsyn,9,PREDISPOSES_FNDGpredDSYN
+C4289767,C0032300,PREDISPOSES,Colonization,Lobar Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0035243,PREDISPOSES,Colonization,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0036690,PREDISPOSES,Colonization,Septicemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0042769,PREDISPOSES,Colonization,Virus Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0149725,PREDISPOSES,Colonization,Lower respiratory tract infection,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4289767,C0205721,PREDISPOSES,Colonization,"Infections, Hospital",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0243026,PREDISPOSES,Colonization,Sepsis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0265514,PREDISPOSES,Colonization,Dermatofibrosis lenticularis disseminata,fndg,dsyn,4,PREDISPOSES_FNDGpredDSYN
+C4289767,C0442886,PREDISPOSES,Colonization,Secondary Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0747676,PREDISPOSES,Colonization,pneumonia childhood,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0857862,PREDISPOSES,Colonization,Staphylococcus Aureus Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0940933,PREDISPOSES,Colonization,infection as a complication,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C0949083,PREDISPOSES,Colonization,Hospital acquired pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4289767,C1318973,PREDISPOSES,Colonization,Staphylococcus aureus infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4289767,C1864389,PREDISPOSES,Colonization,PREMATURE CHROMATID SEPARATION TRAIT,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4300344,C0032285,PREDISPOSES,Tobacco smoke exposure,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4300344,C0035235,PREDISPOSES,Tobacco smoke exposure,Respiratory Syncytial Virus Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0001339,PREDISPOSES,High Level,Acute pancreatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0002395,PREDISPOSES,High Level,Alzheimer's Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0003850,PREDISPOSES,High Level,Arteriosclerosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0004096,PREDISPOSES,High Level,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0006271,PREDISPOSES,High Level,Bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0009450,PREDISPOSES,High Level,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0011847,PREDISPOSES,High Level,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0011860,PREDISPOSES,High Level,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0018799,PREDISPOSES,High Level,Heart Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0024141,PREDISPOSES,High Level,"Lupus Erythematosus, Systemic",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0026769,PREDISPOSES,High Level,Multiple Sclerosis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
+C4321237,C0026780,PREDISPOSES,High Level,Mumps,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0030567,PREDISPOSES,High Level,Parkinson Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0032285,PREDISPOSES,High Level,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0035222,PREDISPOSES,High Level,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0035613,PREDISPOSES,High Level,Rift Valley Fever,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0037231,PREDISPOSES,High Level,Sjogren-Larsson Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0242231,PREDISPOSES,High Level,Coronary Stenosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0265514,PREDISPOSES,High Level,Dermatofibrosis lenticularis disseminata,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0271650,PREDISPOSES,High Level,Impaired glucose tolerance,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0582415,PREDISPOSES,High Level,Acute asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0856825,PREDISPOSES,High Level,Acute GVH disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0876973,PREDISPOSES,High Level,Infectious disease of lung,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C0878544,PREDISPOSES,High Level,Cardiomyopathies,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C1328840,PREDISPOSES,High Level,Autoimmune Lymphoproliferative Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C1609538,PREDISPOSES,High Level,Latent Tuberculosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321237,C4505065,PREDISPOSES,High Level,Noncommunicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4321335,C0035455,PREDISPOSES,Moderate Level,Rhinitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4479222,C0024312,PREDISPOSES,Increased apoptosis,Lymphopenia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4482418,C0008679,PREDISPOSES,Moderate physical activity,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4482418,C0011847,PREDISPOSES,Moderate physical activity,Diabetes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4482418,C0020538,PREDISPOSES,Moderate physical activity,Hypertensive disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4482418,C0028754,PREDISPOSES,Moderate physical activity,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4534306,C0032285,PREDISPOSES,Supplemental oxygen,Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4534363,C0010278,PREDISPOSES,At home,Craniosynostosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4534363,C0018572,PREDISPOSES,At home,"Hand, Foot and Mouth Disease",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4534363,C2076600,PREDISPOSES,At home,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4538607,C0035243,PREDISPOSES,Tracheobronchial stenosis,Respiratory Tract Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C4542603,C0009450,PREDISPOSES,Functional Limitation,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN

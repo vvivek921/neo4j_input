@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0006826,PREVENTS,Immunologic Adjuvants,Malignant Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0001551,C0598934,PREVENTS,Immunologic Adjuvants,tumor growth,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0023767,C0007847,PREVENTS,Lipid A,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0006826,PREVENTS,Vaccines,Malignant Neoplasms,imft,neop,4,PREVENTS_IMFTprevNEOP
+C0042210,C0007847,PREVENTS,Vaccines,Malignant tumor of cervix,imft,neop,9,PREVENTS_IMFTprevNEOP
+C0042210,C0027651,PREVENTS,Vaccines,Neoplasms,imft,neop,4,PREVENTS_IMFTprevNEOP
+C0042210,C0220630,PREVENTS,Vaccines,Adult Liver Carcinoma,imft,neop,2,PREVENTS_IMFTprevNEOP
+C0042210,C0278493,PREVENTS,Vaccines,recurrent breast cancer,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0349459,PREVENTS,Vaccines,Cervical intraepithelial neoplasia grade 2,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0521158,PREVENTS,Vaccines,Recurrent tumor,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0878500,PREVENTS,Vaccines,Intraepithelial Neoplasia,imft,neop,2,PREVENTS_IMFTprevNEOP
+C0042210,C1266119,PREVENTS,Vaccines,Solitary fibrous tumor,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C2239176,PREVENTS,Vaccines,Liver carcinoma,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C3899717,PREVENTS,Vaccines,Canine Melanoma,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0376613,C0027651,PREVENTS,"Vaccines, DNA",Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1721787,C0878500,PREVENTS,Gardasil,Intraepithelial Neoplasia,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1721789,C0007847,PREVENTS,Cervarix,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1721789,C0878500,PREVENTS,Cervarix,Intraepithelial Neoplasia,imft,neop,1,PREVENTS_IMFTprevNEOP
+C2240392,C0006826,PREVENTS,Hepatitis B Vaccines,Malignant Neoplasms,imft,neop,2,PREVENTS_IMFTprevNEOP

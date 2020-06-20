@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009938,C0949083,COMPLICATES,Contusions,Hospital acquired pneumonia,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C0026771,C0949083,COMPLICATES,Multiple Trauma,Hospital acquired pneumonia,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C0242488,C0267940,COMPLICATES,Acute Lung Injury,Acute hemorrhagic pancreatitis,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C0273115,C0035222,COMPLICATES,Lung Injury,"Respiratory Distress Syndrome, Adult",inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C0273115,C1175175,COMPLICATES,Lung Injury,Severe Acute Respiratory Syndrome,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C0560617,C1565489,COMPLICATES,knocked out,Renal Insufficiency,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C0746730,C0018801,COMPLICATES,myocardial injury,Heart failure,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C2905612,C0007222,COMPLICATES,Storm NOS,Cardiovascular Diseases,inpo,dsyn,2,COMPLICATES_INPOcmpcDSYN
+C2905612,C0024141,COMPLICATES,Storm NOS,"Lupus Erythematosus, Systemic",inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C2905612,C0085253,COMPLICATES,Storm NOS,Adult-Onset Still Disease,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN
+C2905612,C0442893,COMPLICATES,Storm NOS,Systemic disease,inpo,dsyn,1,COMPLICATES_INPOcmpcDSYN

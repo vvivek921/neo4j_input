@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013626,C0018749,ISA,"Education, Continuing",Health Services Administration,edac,hlca,1,ISA_EDACisaHLCA
+C0013631,C0017313,ISA,"Education, Medical",patient care,edac,hlca,2,ISA_EDACisaHLCA
+C0018701,C0018747,ISA,Health education,Health Services,edac,hlca,1,ISA_EDACisaHLCA
+C0018701,C0033137,ISA,Health education,Primary Health Care,edac,hlca,1,ISA_EDACisaHLCA
+C0030688,C1261322,ISA,Patient education (procedure),Evaluation procedure,edac,hlca,1,ISA_EDACisaHLCA
+C0040607,C0220825,ISA,Training Programs,Evaluation,edac,hlca,1,ISA_EDACisaHLCA
+C0086858,C0220825,ISA,Programmed Learning,Evaluation,edac,hlca,1,ISA_EDACisaHLCA
+C0220931,C0017313,ISA,Training,patient care,edac,hlca,4,ISA_EDACisaHLCA
+C0220931,C0033137,ISA,Training,Primary Health Care,edac,hlca,2,ISA_EDACisaHLCA
+C0220931,C0220825,ISA,Training,Evaluation,edac,hlca,4,ISA_EDACisaHLCA
+C0220931,C1261322,ISA,Training,Evaluation procedure,edac,hlca,4,ISA_EDACisaHLCA
+C0850356,C0086969,ISA,diabetes education,Self-Management,edac,hlca,9,ISA_EDACisaHLCA
+C0871106,C1261322,ISA,Postgraduate Training Programs,Evaluation procedure,edac,hlca,1,ISA_EDACisaHLCA
+C0871175,C1261322,ISA,Psychoeducation,Evaluation procedure,edac,hlca,1,ISA_EDACisaHLCA

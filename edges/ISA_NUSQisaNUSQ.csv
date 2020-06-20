@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009221,C0004793,ISA,Codon (nucleotide sequence),Base Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C0012591,C0004793,ISA,Direct Repeat,Base Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C0012591,C0162326,ISA,Direct Repeat,DNA Sequence,nusq,nusq,6,ISA_NUSQisaNUSQ
+C0080089,C0004793,ISA,Reading Frames (Nucleotide Sequence),Base Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C0080089,C0162326,ISA,Reading Frames (Nucleotide Sequence),DNA Sequence,nusq,nusq,14,ISA_NUSQisaNUSQ
+C0086908,C0162326,ISA,Repetitive Region,DNA Sequence,nusq,nusq,3,ISA_NUSQisaNUSQ
+C0162326,C0004793,ISA,DNA Sequence,Base Sequence,nusq,nusq,20,ISA_NUSQisaNUSQ
+C0162327,C0004793,ISA,RNA Sequence,Base Sequence,nusq,nusq,23,ISA_NUSQisaNUSQ
+C0242610,C0009221,ISA,"Codon, Initiator",Codon (nucleotide sequence),nusq,nusq,3,ISA_NUSQisaNUSQ
+C0242611,C0009221,ISA,"Codon, Terminator",Codon (nucleotide sequence),nusq,nusq,3,ISA_NUSQisaNUSQ
+C0242612,C0009221,ISA,"Codon, Nonsense",Codon (nucleotide sequence),nusq,nusq,1,ISA_NUSQisaNUSQ
+C0242612,C0242611,ISA,"Codon, Nonsense","Codon, Terminator",nusq,nusq,1,ISA_NUSQisaNUSQ
+C0600477,C0086908,ISA,Short Interspersed Nucleotide Elements,Repetitive Region,nusq,nusq,2,ISA_NUSQisaNUSQ
+C0600600,C0004793,ISA,3' Untranslated Regions,Base Sequence,nusq,nusq,4,ISA_NUSQisaNUSQ
+C0600600,C1883633,ISA,3' Untranslated Regions,3' Region,nusq,nusq,3,ISA_NUSQisaNUSQ
+C1512886,C0004793,ISA,Internal Ribosome Entry Sites,Base Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C1705686,C0162326,ISA,DNA Sequence - Cloning Site,DNA Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C1710092,C0752046,ISA,Intronic SNP,Single Nucleotide Polymorphism,nusq,nusq,1,ISA_NUSQisaNUSQ
+C1882939,C0162326,ISA,Restriction Enzyme Cleavage Site,DNA Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C1882940,C0162326,ISA,Restriction Site,DNA Sequence,nusq,nusq,9,ISA_NUSQisaNUSQ
+C1956148,C0004793,ISA,Amber Stop Codon,Base Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ
+C1956148,C0242611,ISA,Amber Stop Codon,"Codon, Terminator",nusq,nusq,1,ISA_NUSQisaNUSQ
+C1956150,C0009221,ISA,Opal Stop Codon,Codon (nucleotide sequence),nusq,nusq,1,ISA_NUSQisaNUSQ
+C1956150,C0242611,ISA,Opal Stop Codon,"Codon, Terminator",nusq,nusq,3,ISA_NUSQisaNUSQ
+C2985510,C0752046,ISA,Tagging SNP,Single Nucleotide Polymorphism,nusq,nusq,1,ISA_NUSQisaNUSQ
+C3178798,C0004793,ISA,DNA Motifs,Base Sequence,nusq,nusq,1,ISA_NUSQisaNUSQ

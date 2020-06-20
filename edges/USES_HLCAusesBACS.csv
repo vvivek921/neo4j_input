@@ -1,0 +1,43 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0015187,C0030054,USES,Euthanasia,Oxygen,hlca,bacs,1,USES_HLCAusesBACS
+C0021634,C0030054,USES,Insufflation,Oxygen,hlca,bacs,2,USES_HLCAusesBACS
+C0023977,C0030054,USES,long-term care,Oxygen,hlca,bacs,2,USES_HLCAusesBACS
+C0023977,C0034085,USES,long-term care,Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C0023977,C0042105,USES,long-term care,Ursodiol,hlca,bacs,1,USES_HLCAusesBACS
+C0023977,C3712557,USES,long-term care,Echinaforce,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0001041,USES,Patient Discharge,Acetylcholine,hlca,bacs,24,USES_HLCAusesBACS
+C0030685,C0001443,USES,Patient Discharge,Adenosine,hlca,bacs,2,USES_HLCAusesBACS
+C0030685,C0001480,USES,Patient Discharge,Adenosine Triphosphate,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0006675,USES,Patient Discharge,Calcium,hlca,bacs,48,USES_HLCAusesBACS
+C0030685,C0007412,USES,Patient Discharge,Catecholamines,hlca,bacs,17,USES_HLCAusesBACS
+C0030685,C0009968,USES,Patient Discharge,Copper,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0013030,USES,Patient Discharge,Dopamine,hlca,bacs,17,USES_HLCAusesBACS
+C0030685,C0017725,USES,Patient Discharge,Glucose,hlca,bacs,5,USES_HLCAusesBACS
+C0030685,C0017861,USES,Patient Discharge,Glycerin,hlca,bacs,2,USES_HLCAusesBACS
+C0030685,C0017973,USES,Patient Discharge,Glycosaminoglycans,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0019134,USES,Patient Discharge,heparin,hlca,bacs,2,USES_HLCAusesBACS
+C0030685,C0028128,USES,Patient Discharge,Nitric Oxide,hlca,bacs,36,USES_HLCAusesBACS
+C0030685,C0030054,USES,Patient Discharge,Oxygen,hlca,bacs,5,USES_HLCAusesBACS
+C0030685,C0034085,USES,Patient Discharge,Pulmonary Surfactants,hlca,bacs,7,USES_HLCAusesBACS
+C0030685,C0041942,USES,Patient Discharge,Urea,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0043481,USES,Patient Discharge,Zinc,hlca,bacs,21,USES_HLCAusesBACS
+C0030685,C0064582,USES,Patient Discharge,Lactic acid,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0302583,USES,Patient Discharge,Iron,hlca,bacs,7,USES_HLCAusesBACS
+C0030695,C0000545,USES,Patient Monitoring,Eicosapentaenoic Acid,hlca,bacs,1,USES_HLCAusesBACS
+C0086969,C0017725,USES,Self-Management,Glucose,hlca,bacs,1,USES_HLCAusesBACS
+C0184959,C0034085,USES,Instillation (procedure),Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0006675,USES,Evaluation,Calcium,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0013030,USES,Evaluation,Dopamine,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0017725,USES,Evaluation,Glucose,hlca,bacs,2,USES_HLCAusesBACS
+C0220825,C0030054,USES,Evaluation,Oxygen,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0032821,USES,Evaluation,Potassium,hlca,bacs,2,USES_HLCAusesBACS
+C0220825,C0037494,USES,Evaluation,Sodium Chloride,hlca,bacs,1,USES_HLCAusesBACS
+C0220908,C0018282,USES,Screening procedure,Growth Inhibitors,hlca,bacs,1,USES_HLCAusesBACS
+C0220908,C0037494,USES,Screening procedure,Sodium Chloride,hlca,bacs,1,USES_HLCAusesBACS
+C0220908,C0043481,USES,Screening procedure,Zinc,hlca,bacs,2,USES_HLCAusesBACS
+C0558024,C0000545,USES,Functional behavioral assessment,Eicosapentaenoic Acid,hlca,bacs,1,USES_HLCAusesBACS
+C0700325,C0034085,USES,Patient observation,Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C0805586,C0001443,USES,Challenge,Adenosine,hlca,bacs,1,USES_HLCAusesBACS
+C1406915,C0034085,USES,breathing therapy,Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C1522577,C0042105,USES,follow-up,Ursodiol,hlca,bacs,1,USES_HLCAusesBACS
+C4036459,C0030054,USES,Contacts,Oxygen,hlca,bacs,1,USES_HLCAusesBACS

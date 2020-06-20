@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0042765,AFFECTS,Acclimatization,Virulence,orgf,biof,5,AFFECTS_ORGFafctBIOF
+C0000934,C1537068,AFFECTS,Acclimatization,Virus Internalization,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0001811,C0019868,AFFECTS,Aging,Homeostasis,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0001811,C3714634,AFFECTS,Aging,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0001811,C4330047,AFFECTS,Aging,Glucocorticoid Sensitivity,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0003618,C0019868,AFFECTS,Desire for food,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0004048,C0232478,AFFECTS,Inspiration function,Ingestion,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0005615,C0019868,AFFECTS,Birth,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0005615,C1537068,AFFECTS,Birth,Virus Internalization,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0006159,C0003261,AFFECTS,Breeding,Antibody Formation,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0008810,C0019868,AFFECTS,Circadian Rhythms,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0008810,C1160638,AFFECTS,Circadian Rhythms,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0009253,C0042765,AFFECTS,Coitus,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0011065,C0019868,AFFECTS,Cessation of life,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0012238,C0220781,AFFECTS,Digestion,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0012238,C3714634,AFFECTS,Digestion,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0013470,C0220781,AFFECTS,Eating,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0014653,C0003261,AFFECTS,Equilibrium,Antibody Formation,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0014653,C0042765,AFFECTS,Equilibrium,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0014653,C0220781,AFFECTS,Equilibrium,Anabolism,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0014653,C1537068,AFFECTS,Equilibrium,Virus Internalization,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0014653,C3714634,AFFECTS,Equilibrium,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0018270,C0042765,AFFECTS,Growth,Virulence,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0018270,C0178849,AFFECTS,Growth,species difference,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0018270,C0220781,AFFECTS,Growth,Anabolism,orgf,biof,4,AFFECTS_ORGFafctBIOF
+C0018270,C1817972,AFFECTS,Growth,immune system development,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0020966,C0003261,AFFECTS,Cellular Immunity,Antibody Formation,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0020966,C0220781,AFFECTS,Cellular Immunity,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0025519,C0019868,AFFECTS,Metabolism,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0025519,C0220781,AFFECTS,Metabolism,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0025519,C3714634,AFFECTS,Metabolism,Biological Processes,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0026559,C0220781,AFFECTS,Morphogenesis,Anabolism,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0026559,C0282629,AFFECTS,Morphogenesis,Virus Assembly,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0026559,C1327622,AFFECTS,Morphogenesis,Regulation of biological process,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0026559,C1820201,AFFECTS,Morphogenesis,tissue remodeling,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0026649,C0220781,AFFECTS,Movement,Anabolism,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0028161,C3714634,AFFECTS,Nitrogen Fixation,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0032961,C0003261,AFFECTS,Pregnancy,Antibody Formation,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0032961,C1160638,AFFECTS,Pregnancy,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0035154,C0019868,AFFECTS,Reproductive Behavior,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0043240,C0019868,AFFECTS,Wound Healing,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0043240,C0220781,AFFECTS,Wound Healing,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0043240,C1820201,AFFECTS,Wound Healing,tissue remodeling,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0596570,C0220781,AFFECTS,fibrogenesis,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0596935,C3714634,AFFECTS,Microbial Interactions,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0597252,C0220781,AFFECTS,Plant Development,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678121,C0019868,AFFECTS,Basal metabolic rate,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678723,C0042765,AFFECTS,Biologic Development,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678723,C0220781,AFFECTS,Biologic Development,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678723,C0282629,AFFECTS,Biologic Development,Virus Assembly,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678723,C1537068,AFFECTS,Biologic Development,Virus Internalization,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678723,C3714634,AFFECTS,Biologic Development,Biological Processes,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0678889,C0019868,AFFECTS,Immunoregulation,Homeostasis,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0699900,C0019868,AFFECTS,Catabolism,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0699900,C0220781,AFFECTS,Catabolism,Anabolism,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0699900,C1160638,AFFECTS,Catabolism,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0699900,C3821011,AFFECTS,Catabolism,cap snatching,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0814002,C3714634,AFFECTS,Neurogenesis,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1154988,C3714634,AFFECTS,defense response,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1155328,C0019868,AFFECTS,Antiviral Response,Homeostasis,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C1159366,C0220781,AFFECTS,regulated exocytosis,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1160185,C0019868,AFFECTS,transduction,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1160185,C3714634,AFFECTS,transduction,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1327461,C0019868,AFFECTS,hair cycle,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1510470,C1537068,AFFECTS,Motility,Virus Internalization,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1510470,C3714634,AFFECTS,Motility,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1516559,C0019868,AFFECTS,Circulatory Process,Homeostasis,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C1523351,C3714634,AFFECTS,tissue homeostasis,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1563744,C0220781,AFFECTS,Lipogenesis,Anabolism,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C1654934,C0220781,AFFECTS,Immune Evasion,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1654934,C0596824,AFFECTS,Immune Evasion,latent virus infection process,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1749719,C0042765,AFFECTS,Adaptive Immune Response,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1819426,C1817882,AFFECTS,chemokine production,Granuloma formation,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1819430,C0042765,AFFECTS,type I interferon production,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1819445,C1819787,AFFECTS,interleukin-18 production,antimicrobial peptide production,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C2936272,C0019868,AFFECTS,Circadian Clocks,Homeostasis,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C3658355,C0520989,AFFECTS,CRISPR-Cas Systems,Viral resistance,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C3658355,C1160638,AFFECTS,CRISPR-Cas Systems,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF

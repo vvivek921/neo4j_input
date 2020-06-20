@@ -1,0 +1,103 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0004561,AFFECTS,Immunologic Adjuvants,B-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0001551,C4330475,AFFECTS,Immunologic Adjuvants,Immune Cell,imft,cell,3,AFFECTS_IMFTafctCELL
+C0002092,C0011306,AFFECTS,Allergens,Dendritic Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0002092,C0024880,AFFECTS,Allergens,mast cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0002092,C0039194,AFFECTS,Allergens,T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0002092,C0039198,AFFECTS,Allergens,Regulatory T-Lymphocytes,imft,cell,2,AFFECTS_IMFTafctCELL
+C0002092,C0039215,AFFECTS,Allergens,CD4 Positive T Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0002092,C1267822,AFFECTS,Allergens,CD4+ CD25+ Regulatory T Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0002092,C3641721,AFFECTS,Allergens,Naive T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003316,C0004561,AFFECTS,Epitopes,B-Lymphocytes,imft,cell,5,AFFECTS_IMFTafctCELL
+C0003316,C0009013,AFFECTS,Epitopes,Clone Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003316,C0039194,AFFECTS,Epitopes,T-Lymphocyte,imft,cell,5,AFFECTS_IMFTafctCELL
+C0003316,C0039195,AFFECTS,Epitopes,Cytotoxic T-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003316,C0039198,AFFECTS,Epitopes,Regulatory T-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003316,C0039215,AFFECTS,Epitopes,CD4 Positive T Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0003315,AFFECTS,Antigens,Antigen-Presenting Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0004561,AFFECTS,Antigens,B-Lymphocytes,imft,cell,9,AFFECTS_IMFTafctCELL
+C0003320,C0009013,AFFECTS,Antigens,Clone Cells,imft,cell,2,AFFECTS_IMFTafctCELL
+C0003320,C0014792,AFFECTS,Antigens,Erythrocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0015161,AFFECTS,Antigens,Eukaryotic Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0017471,AFFECTS,Antigens,Germ Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0018894,AFFECTS,Antigens,Helper-Inducer T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0023005,AFFECTS,Antigens,Langerhans cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0024264,AFFECTS,Antigens,Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0024432,AFFECTS,Antigens,macrophage,imft,cell,2,AFFECTS_IMFTafctCELL
+C0003320,C0024880,AFFECTS,Antigens,mast cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0039194,AFFECTS,Antigens,T-Lymphocyte,imft,cell,24,AFFECTS_IMFTafctCELL
+C0003320,C0039195,AFFECTS,Antigens,Cytotoxic T-Lymphocytes,imft,cell,2,AFFECTS_IMFTafctCELL
+C0003320,C0039215,AFFECTS,Antigens,CD4 Positive T Lymphocytes,imft,cell,2,AFFECTS_IMFTafctCELL
+C0003320,C0086574,AFFECTS,Antigens,Lymphoid Cells,imft,cell,2,AFFECTS_IMFTafctCELL
+C0003320,C0206116,AFFECTS,Antigens,Microglia,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0206190,AFFECTS,Antigens,"Macrophages, Peritoneal",imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0229657,AFFECTS,Antigens,Plasmablast (cell),imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C0242629,AFFECTS,Antigens,CD8-Positive T-Lymphocytes,imft,cell,4,AFFECTS_IMFTafctCELL
+C0003320,C0682638,AFFECTS,Antigens,memory b cell,imft,cell,2,AFFECTS_IMFTafctCELL
+C0003320,C0682639,AFFECTS,Antigens,Memory T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C1515879,AFFECTS,Antigens,Activated Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C3641721,AFFECTS,Antigens,Naive T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C3641722,AFFECTS,Antigens,Effector T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003320,C4527316,AFFECTS,Antigens,Chimeric Antigen Receptor T-cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003321,C4330475,AFFECTS,"Antigens, Bacterial",Immune Cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003335,C0039194,AFFECTS,"Antigens, Neoplasm",T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003335,C4086901,AFFECTS,"Antigens, Neoplasm",Therapeutic gamma delta T-lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003339,C0027950,AFFECTS,Surface Antigens,neutrophil,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0004561,AFFECTS,"Antigens, Viral",B-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0022688,AFFECTS,"Antigens, Viral",Natural Killer Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0024432,AFFECTS,"Antigens, Viral",macrophage,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0039194,AFFECTS,"Antigens, Viral",T-Lymphocyte,imft,cell,5,AFFECTS_IMFTafctCELL
+C0003342,C0039195,AFFECTS,"Antigens, Viral",Cytotoxic T-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0039215,AFFECTS,"Antigens, Viral",CD4 Positive T Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0042542,AFFECTS,"Antigens, Viral",Vero Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0003342,C0206116,AFFECTS,"Antigens, Viral",Microglia,imft,cell,1,AFFECTS_IMFTafctCELL
+C0004359,C0003315,AFFECTS,Autoantigens,Antigen-Presenting Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0004359,C0004561,AFFECTS,Autoantigens,B-Lymphocytes,imft,cell,4,AFFECTS_IMFTafctCELL
+C0004359,C0039194,AFFECTS,Autoantigens,T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0004359,C3641721,AFFECTS,Autoantigens,Naive T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0005525,C4330475,AFFECTS,Biological Response Modifiers,Immune Cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0018909,C0039194,AFFECTS,Hemagglutinin,T-Lymphocyte,imft,cell,2,AFFECTS_IMFTafctCELL
+C0021081,C0024880,AFFECTS,Immunosuppressive Agents,mast cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0021081,C0027950,AFFECTS,Immunosuppressive Agents,neutrophil,imft,cell,1,AFFECTS_IMFTafctCELL
+C0021081,C0039194,AFFECTS,Immunosuppressive Agents,T-Lymphocyte,imft,cell,2,AFFECTS_IMFTafctCELL
+C0022144,C0014792,AFFECTS,Isoantibodies,Erythrocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0040673,C0039194,AFFECTS,Transfer Factor,T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0042210,C0014467,AFFECTS,Vaccines,eosinophil,imft,cell,1,AFFECTS_IMFTafctCELL
+C0042210,C0016030,AFFECTS,Vaccines,Fibroblasts,imft,cell,1,AFFECTS_IMFTafctCELL
+C0042210,C0039194,AFFECTS,Vaccines,T-Lymphocyte,imft,cell,4,AFFECTS_IMFTafctCELL
+C0042210,C0312737,AFFECTS,Vaccines,Immunologic cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0042210,C0312738,AFFECTS,Vaccines,Pre-B Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0042210,C4330475,AFFECTS,Vaccines,Immune Cell,imft,cell,2,AFFECTS_IMFTafctCELL
+C0042742,C1321301,AFFECTS,Viral Vaccines,Peripheral blood mononuclear cell (cell),imft,cell,1,AFFECTS_IMFTafctCELL
+C0078968,C0039194,AFFECTS,"Antigens, Immunodominant",T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0085358,C0039194,AFFECTS,CD8 Antigens,T-Lymphocyte,imft,cell,2,AFFECTS_IMFTafctCELL
+C0085408,C0039195,AFFECTS,ISCOMs,Cytotoxic T-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0103647,C0027950,AFFECTS,Antineutrophil Cytoplasmic Antibodies,neutrophil,imft,cell,6,AFFECTS_IMFTafctCELL
+C0103647,C0225336,AFFECTS,Antineutrophil Cytoplasmic Antibodies,Endothelial Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0121459,C0007600,AFFECTS,Hepatitis C Antigens,Cultured Cell Line,imft,cell,1,AFFECTS_IMFTafctCELL
+C0282580,C0039215,AFFECTS,"Epitopes, T-Lymphocyte",CD4 Positive T Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0282580,C0682639,AFFECTS,"Epitopes, T-Lymphocyte",Memory T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0301838,C4086555,AFFECTS,Soluble antigen,M2 Macrophage,imft,cell,1,AFFECTS_IMFTafctCELL
+C0312555,C0039215,AFFECTS,Neoantigen,CD4 Positive T Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0376613,C0004561,AFFECTS,"Vaccines, DNA",B-Lymphocytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C0376613,C0023005,AFFECTS,"Vaccines, DNA",Langerhans cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0376613,C0039194,AFFECTS,"Vaccines, DNA",T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0456981,C0024264,AFFECTS,Specific antigen,Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C0521390,C0027882,AFFECTS,neuronal,Neurons,imft,cell,2,AFFECTS_IMFTafctCELL
+C0521390,C0206116,AFFECTS,neuronal,Microglia,imft,cell,1,AFFECTS_IMFTafctCELL
+C0599796,C0009013,AFFECTS,mhc antigen,Clone Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C0599796,C0027836,AFFECTS,mhc antigen,Neuroglia,imft,cell,1,AFFECTS_IMFTafctCELL
+C0887902,C0023005,AFFECTS,"Vaccines, Edible",Langerhans cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C0914468,C0039194,AFFECTS,class-I restricted T cell-associated molecule,T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C1441165,C0024432,AFFECTS,S-100,macrophage,imft,cell,1,AFFECTS_IMFTafctCELL
+C1441165,C0206116,AFFECTS,S-100,Microglia,imft,cell,1,AFFECTS_IMFTafctCELL
+C1441165,C0598800,AFFECTS,S-100,Pericytes,imft,cell,1,AFFECTS_IMFTafctCELL
+C1519887,C0039194,AFFECTS,Vaccine Antigen,T-Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C1567994,C4330475,AFFECTS,"Antigens, Plant",Immune Cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C1699926,C0039198,AFFECTS,fingolimod,Regulatory T-Lymphocytes,imft,cell,2,AFFECTS_IMFTafctCELL
+C2825347,C0014597,AFFECTS,"Immunoglobulin A, Human",Epithelial Cells,imft,cell,1,AFFECTS_IMFTafctCELL
+C2825347,C0024264,AFFECTS,"Immunoglobulin A, Human",Lymphocyte,imft,cell,1,AFFECTS_IMFTafctCELL
+C2825347,C0027950,AFFECTS,"Immunoglobulin A, Human",neutrophil,imft,cell,1,AFFECTS_IMFTafctCELL
+C2987378,C0039194,AFFECTS,"Anti-CEA BiTE Monoclonal Antibody MEDI-565, Human",T-Lymphocyte,imft,cell,2,AFFECTS_IMFTafctCELL
+C3272757,C1269647,AFFECTS,Live Attenuated Influenza Vaccine,Entire cell,imft,cell,1,AFFECTS_IMFTafctCELL
+C4040232,C4330475,AFFECTS,Plasmodium Ag,Immune Cell,imft,cell,1,AFFECTS_IMFTafctCELL

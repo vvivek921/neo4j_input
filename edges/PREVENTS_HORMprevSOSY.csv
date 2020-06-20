@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0011991,PREVENTS,Adrenal Cortex Hormones,Diarrhea,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0001617,C0013604,PREVENTS,Adrenal Cortex Hormones,Edema,horm,sosy,4,PREVENTS_HORMprevSOSY
+C0001617,C0015967,PREVENTS,Adrenal Cortex Hormones,Fever,horm,sosy,3,PREVENTS_HORMprevSOSY
+C0001617,C0030193,PREVENTS,Adrenal Cortex Hormones,Pain,horm,sosy,2,PREVENTS_HORMprevSOSY
+C0001617,C0038450,PREVENTS,Adrenal Cortex Hormones,Stridor,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0001617,C0043144,PREVENTS,Adrenal Cortex Hormones,Wheezing,horm,sosy,6,PREVENTS_HORMprevSOSY
+C0001617,C0349410,PREVENTS,Adrenal Cortex Hormones,Single organ dysfunction,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0002844,C0013604,PREVENTS,Androgens,Edema,horm,sosy,2,PREVENTS_HORMprevSOSY
+C0002845,C0239313,PREVENTS,"Androgens, Synthetic",exercise induced,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0010137,C0740903,PREVENTS,Cortisone,allergic symptom,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0014912,C0236075,PREVENTS,Estradiol,Menopausal symptom,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0014912,C1517205,PREVENTS,Estradiol,Flare,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0014939,C0006625,PREVENTS,Estrogens,Cachexia,horm,sosy,1,PREVENTS_HORMprevSOSY
+C0039601,C0030193,PREVENTS,Testosterone,Pain,horm,sosy,1,PREVENTS_HORMprevSOSY
+C3540777,C0013604,PREVENTS,"Glucocorticoids, Systemic",Edema,horm,sosy,1,PREVENTS_HORMprevSOSY

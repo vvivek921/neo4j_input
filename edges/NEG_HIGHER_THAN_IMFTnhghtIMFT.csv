@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003320,C0003320,NEG_HIGHER_THAN,Antigens,Antigens,imft,imft,1,NEG_HIGHER_THAN_IMFTnhghtIMFT
+C0042210,C0042210,NEG_HIGHER_THAN,Vaccines,Vaccines,imft,imft,2,NEG_HIGHER_THAN_IMFTnhghtIMFT
+C0042210,C0042212,NEG_HIGHER_THAN,Vaccines,"Vaccines, Inactivated",imft,imft,1,NEG_HIGHER_THAN_IMFTnhghtIMFT
+C0042211,C0042210,NEG_HIGHER_THAN,"Vaccines, Attenuated",Vaccines,imft,imft,1,NEG_HIGHER_THAN_IMFTnhghtIMFT
+C0887892,C0042210,NEG_HIGHER_THAN,"Vaccines, Subunit",Vaccines,imft,imft,1,NEG_HIGHER_THAN_IMFTnhghtIMFT
+C0887892,C0042212,NEG_HIGHER_THAN,"Vaccines, Subunit","Vaccines, Inactivated",imft,imft,2,NEG_HIGHER_THAN_IMFTnhghtIMFT

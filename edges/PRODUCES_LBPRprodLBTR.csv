@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004650,C0079356,PRODUCES,Bacteriophage Typing,DNA Fingerprints,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0007584,C0205557,PRODUCES,Cell Count,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0007584,C0427861,PRODUCES,Cell Count,Human cells,lbpr,lbtr,3,PRODUCES_LBPRprodLBTR
+C0013855,C0079356,PRODUCES,Electrophoresis,DNA Fingerprints,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0014441,C0205557,PRODUCES,Enzyme-Linked Immunosorbent Assay,False Positive,lbpr,lbtr,5,PRODUCES_LBPRprodLBTR
+C0014441,C0205558,PRODUCES,Enzyme-Linked Immunosorbent Assay,False Negative,lbpr,lbtr,2,PRODUCES_LBPRprodLBTR
+C0014441,C0428536,PRODUCES,Enzyme-Linked Immunosorbent Assay,Immunoglobulin level - finding,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0014441,C0741132,PRODUCES,Enzyme-Linked Immunosorbent Assay,antibody positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0017741,C4086730,PRODUCES,Glucose tolerance test,Pathology Result,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0022885,C0205557,PRODUCES,Laboratory Procedures,False Positive,lbpr,lbtr,4,PRODUCES_LBPRprodLBTR
+C0022885,C0205558,PRODUCES,Laboratory Procedures,False Negative,lbpr,lbtr,6,PRODUCES_LBPRprodLBTR
+C0022885,C0427861,PRODUCES,Laboratory Procedures,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0022885,C0521144,PRODUCES,Laboratory Procedures,Seronegative,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0022885,C0587081,PRODUCES,Laboratory Procedures,Laboratory test finding,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0036743,C0205557,PRODUCES,Serologic tests,False Positive,lbpr,lbtr,2,PRODUCES_LBPRprodLBTR
+C0036743,C0205558,PRODUCES,Serologic tests,False Negative,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0430420,C0205557,PRODUCES,Antigen assay,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0523559,C0427861,PRODUCES,Intermediate density lipoprotein cholesterol measurement (procedure),Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0597428,C0040210,PRODUCES,Sedimentation procedure,Tidal Volume,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0947630,C0427861,PRODUCES,Scientific Study,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0949466,C0427861,PRODUCES,Western Blot,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1318786,C0205557,PRODUCES,Fluorescent stain method,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1441604,C0205557,PRODUCES,High sensitivity,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1446041,C3463810,PRODUCES,Serum protein profile,Proteomic Profile,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1510438,C0015563,PRODUCES,Assay,False Positive Reactions,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1510438,C0205557,PRODUCES,Assay,False Positive,lbpr,lbtr,11,PRODUCES_LBPRprodLBTR
+C1510438,C0205558,PRODUCES,Assay,False Negative,lbpr,lbtr,4,PRODUCES_LBPRprodLBTR
+C1510438,C0427861,PRODUCES,Assay,Human cells,lbpr,lbtr,2,PRODUCES_LBPRprodLBTR
+C1705913,C0456984,PRODUCES,Rapid Antigen Test,Test Result,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1707759,C0205557,PRODUCES,Direct Fluorescent Antibody Test,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR

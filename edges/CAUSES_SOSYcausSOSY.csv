@@ -1,0 +1,217 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000737,C0004093,CAUSES,Abdominal Pain,Asthenia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0001416,C0043144,CAUSES,Adenitis,Wheezing,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0001416,C0850149,CAUSES,Adenitis,Dry cough,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0003862,C0015967,CAUSES,Arthralgia,Fever,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0004134,C0036572,CAUSES,Ataxia,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0004134,C0270790,CAUSES,Ataxia,Quadriparesis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0006625,C0013911,CAUSES,Cachexia,Emaciation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0009806,C0011991,CAUSES,Constipation,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0009806,C0042963,CAUSES,Constipation,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0009806,C0740577,CAUSES,Constipation,Acute abdominal pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0008031,CAUSES,Coughing,Chest Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0015967,CAUSES,Coughing,Fever,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0010200,C0016204,CAUSES,Coughing,Flatulence,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0016382,CAUSES,Coughing,Flushing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0027769,CAUSES,Coughing,Nervousness,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0030193,CAUSES,Coughing,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0032781,CAUSES,Coughing,Posterior rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0037383,CAUSES,Coughing,Sneezing,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0010200,C0042963,CAUSES,Coughing,Vomiting,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0010200,C0231218,CAUSES,Coughing,Malaise,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0010200,C0241235,CAUSES,Coughing,Purulent sputum,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0349410,CAUSES,Coughing,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0392674,CAUSES,Coughing,Exhaustion,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0562483,CAUSES,Coughing,Persistent cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0742857,CAUSES,Coughing,Acute onset cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0850149,CAUSES,Coughing,Dry cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010201,C0010200,CAUSES,Chronic cough,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0000737,CAUSES,Diarrhea,Abdominal Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0009806,CAUSES,Diarrhea,Constipation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0011992,CAUSES,Diarrhea,Infantile Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0013911,CAUSES,Diarrhea,Emaciation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0015967,CAUSES,Diarrhea,Fever,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0011991,C0036572,CAUSES,Diarrhea,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0042963,CAUSES,Diarrhea,Vomiting,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0011991,C0231218,CAUSES,Diarrhea,Malaise,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0011991,C0232462,CAUSES,Diarrhea,Decrease in appetite,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0232721,CAUSES,Diarrhea,Bulky stool,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0850149,CAUSES,Diarrhea,Dry cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C1397014,CAUSES,Diarrhea,Imbalance,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C1443924,CAUSES,Diarrhea,Severe diarrhea,sosy,sosy,6,CAUSES_SOSYcausSOSY
+C0011992,C0011991,CAUSES,Infantile Diarrhea,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0012833,C0013604,CAUSES,Dizziness,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0012833,C0030193,CAUSES,Dizziness,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013395,C0011991,CAUSES,Dyspepsia,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013404,C0003578,CAUSES,Dyspnea,Apnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013404,C0040822,CAUSES,Dyspnea,Tremor,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013404,C0349410,CAUSES,Dyspnea,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013404,C3714552,CAUSES,Dyspnea,Weakness,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0000737,CAUSES,Edema,Abdominal Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0008031,CAUSES,Edema,Chest Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0010200,CAUSES,Edema,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0011991,CAUSES,Edema,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0013404,CAUSES,Edema,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0015230,CAUSES,Edema,Exanthema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0015967,CAUSES,Edema,Fever,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0013604,C0019825,CAUSES,Edema,Hoarseness,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0027424,CAUSES,Edema,Nasal congestion (finding),sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0037383,CAUSES,Edema,Sneezing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0043144,CAUSES,Edema,Wheezing,sosy,sosy,3,CAUSES_SOSYcausSOSY
+C0013604,C0085620,CAUSES,Edema,Flaccid paralysis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0233205,CAUSES,Edema,Halo sign,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0238977,CAUSES,Edema,swollen cheek,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0349410,CAUSES,Edema,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0476273,CAUSES,Edema,Respiratory distress,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0574785,CAUSES,Edema,Lower Urinary Tract Symptoms,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C0677600,CAUSES,Edema,Inspiratory stridor,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0013604,C1260880,CAUSES,Edema,Rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0013604,C2126061,CAUSES,Edema,right Ocular proptosis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015230,C0003862,CAUSES,Exanthema,Arthralgia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015230,C0013404,CAUSES,Exanthema,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015230,C0015967,CAUSES,Exanthema,Fever,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015230,C0085620,CAUSES,Exanthema,Flaccid paralysis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015230,C0150055,CAUSES,Exanthema,Chronic pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015468,C1260880,CAUSES,Facial Pain,Rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015672,C0013404,CAUSES,Fatigue,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015672,C0231218,CAUSES,Fatigue,Malaise,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015672,C0349410,CAUSES,Fatigue,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015672,C0392674,CAUSES,Fatigue,Exhaustion,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0003862,CAUSES,Fever,Arthralgia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0004604,CAUSES,Fever,Back Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0008031,CAUSES,Fever,Chest Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0010200,CAUSES,Fever,Coughing,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0015967,C0013404,CAUSES,Fever,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0013604,CAUSES,Fever,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0015970,CAUSES,Fever,Fever of Unknown Origin,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0018681,CAUSES,Fever,Headache,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0022346,CAUSES,Fever,Icterus,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0023380,CAUSES,Fever,Lethargy,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0015967,C0030193,CAUSES,Fever,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0231218,CAUSES,Fever,Malaise,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0015967,C0235031,CAUSES,Fever,Neurologic Symptoms,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0349410,CAUSES,Fever,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C0856281,CAUSES,Fever,Pyrexia of unknown origin (excl puerperal),sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C1260880,CAUSES,Fever,Rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C1397014,CAUSES,Fever,Imbalance,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015967,C1517205,CAUSES,Fever,Flare,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0016204,C0016382,CAUSES,Flatulence,Flushing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0016204,C0085593,CAUSES,Flatulence,Chills,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0016204,C0231218,CAUSES,Flatulence,Malaise,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0018681,C0027497,CAUSES,Headache,Nausea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0020453,C0037763,CAUSES,Hyperesthesia,Spasm,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0023380,C0040822,CAUSES,Lethargy,Tremor,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0023380,C0085631,CAUSES,Lethargy,Agitation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0023380,C0277794,CAUSES,Lethargy,Extreme exhaustion,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0026821,C0038450,CAUSES,Muscle Cramp,Stridor,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0027424,C0013404,CAUSES,Nasal congestion (finding),Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0027497,C0018681,CAUSES,Nausea,Headache,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0027497,C0042963,CAUSES,Nausea,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0027497,C0349410,CAUSES,Nausea,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0027796,C0154729,CAUSES,Neuralgia,Atypical facial pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0028081,C0600142,CAUSES,Night sweats,Hot flushes,sosy,sosy,6,CAUSES_SOSYcausSOSY
+C0030193,C0010200,CAUSES,Pain,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0030193,C0013404,CAUSES,Pain,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0030193,C0020429,CAUSES,Pain,Hyperalgesia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0030193,C0042963,CAUSES,Pain,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0030193,C0085625,CAUSES,Pain,Hypoalgesia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0030193,C0231218,CAUSES,Pain,Malaise,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0032617,C0013604,CAUSES,Polyuria,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0032781,C0010200,CAUSES,Posterior rhinorrhea,Coughing,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0032781,C0010201,CAUSES,Posterior rhinorrhea,Chronic cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0032781,C0232534,CAUSES,Posterior rhinorrhea,Globus sensation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0032781,C0562483,CAUSES,Posterior rhinorrhea,Persistent cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036396,C0030193,CAUSES,Sciatica,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0010200,CAUSES,Seizures,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0015672,CAUSES,Seizures,Fatigue,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0018681,CAUSES,Seizures,Headache,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0231218,CAUSES,Seizures,Malaise,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C0010200,CAUSES,Signs and Symptoms,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C0011991,CAUSES,Signs and Symptoms,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C0013604,CAUSES,Signs and Symptoms,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C0036572,CAUSES,Signs and Symptoms,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C0043144,CAUSES,Signs and Symptoms,Wheezing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C0426359,CAUSES,Signs and Symptoms,Urinary symptoms,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037088,C1260880,CAUSES,Signs and Symptoms,Rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037090,C0426576,CAUSES,"Signs and Symptoms, Respiratory",Gastrointestinal symptom,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0037383,C0010200,CAUSES,Sneezing,Coughing,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0037383,C1260880,CAUSES,Sneezing,Rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0038450,C0010200,CAUSES,Stridor,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0038450,C1260880,CAUSES,Stridor,Rhinorrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0040822,C0036572,CAUSES,Tremor,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0009806,CAUSES,Vomiting,Constipation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0011991,CAUSES,Vomiting,Diarrhea,sosy,sosy,3,CAUSES_SOSYcausSOSY
+C0042963,C0016382,CAUSES,Vomiting,Flushing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0027497,CAUSES,Vomiting,Nausea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0036572,CAUSES,Vomiting,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0349410,CAUSES,Vomiting,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0043144,C0277856,CAUSES,Wheezing,Expiratory dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0085593,C0013604,CAUSES,Chills,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0085593,C0030193,CAUSES,Chills,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0085602,C0011991,CAUSES,Polydipsia,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0149696,C0011991,CAUSES,Food intolerance (disorder),Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0151825,C2936719,CAUSES,Bone pain,Mechanical Allodynia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0221151,C0042963,CAUSES,Projectile vomiting,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231218,C0011991,CAUSES,Malaise,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231218,C0013604,CAUSES,Malaise,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231218,C0030193,CAUSES,Malaise,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231218,C0349410,CAUSES,Malaise,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231239,C0036572,CAUSES,Fluctuation,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231528,C0349410,CAUSES,Myalgia,Single organ dysfunction,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0232292,C0013404,CAUSES,Chest tightness,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0232462,C0013911,CAUSES,Decrease in appetite,Emaciation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0232602,C0036572,CAUSES,Retching,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0235082,C0013911,CAUSES,"Tremor, Muscle",Emaciation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0235290,C0042963,CAUSES,bitter taste,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0239182,C0011991,CAUSES,Watery diarrhea,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0240211,C0013404,CAUSES,Lip swelling,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0241144,C0277794,CAUSES,Petechiae of skin,Extreme exhaustion,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0242706,C0013604,CAUSES,Hyperoxia,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0270790,C0020453,CAUSES,Quadriparesis,Hyperesthesia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0270790,C0277852,CAUSES,Quadriparesis,Stocking anesthesia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0281856,C0030193,CAUSES,Generalized aches and pains,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0392171,C0010200,CAUSES,Influenza-like symptoms,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0392171,C0018681,CAUSES,Influenza-like symptoms,Headache,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0392171,C0741585,CAUSES,Influenza-like symptoms,BODY ACHE,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0425449,C0231218,CAUSES,Gasping for breath,Malaise,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0426576,C0011991,CAUSES,Gastrointestinal symptom,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0426576,C0037090,CAUSES,Gastrointestinal symptom,"Signs and Symptoms, Respiratory",sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0427055,C3714552,CAUSES,Facial Paresis,Weakness,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0475858,C0020453,CAUSES,Generalized pruritus,Hyperesthesia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0476273,C0392674,CAUSES,Respiratory distress,Exhaustion,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0553668,C0003578,CAUSES,Labored breathing,Apnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0553668,C0010520,CAUSES,Labored breathing,Cyanosis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0596240,C0030193,CAUSES,Cancer Pain,Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0700184,C0850149,CAUSES,Throat irritation,Dry cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0740903,C0037317,CAUSES,allergic symptom,Sleep disturbances,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0742857,C0010200,CAUSES,Acute onset cough,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0749874,C0043144,CAUSES,upper respiratory symptom,Wheezing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0749874,C0476273,CAUSES,upper respiratory symptom,Respiratory distress,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0751378,C0036572,CAUSES,Neurologic Signs,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0850149,C0013404,CAUSES,Dry cough,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0850149,C0037383,CAUSES,Dry cough,Sneezing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0858854,C3714552,CAUSES,Unrest,Weakness,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0859028,C0042963,CAUSES,vomiting reflex,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0917801,C0015672,CAUSES,Sleeplessness,Fatigue,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0948775,C0015672,CAUSES,high weight,Fatigue,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1112500,C0011991,CAUSES,skin tenting,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1260880,C0010200,CAUSES,Rhinorrhea,Coughing,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C1260880,C0015468,CAUSES,Rhinorrhea,Facial Pain,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1260880,C0015967,CAUSES,Rhinorrhea,Fever,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1384493,C0011991,CAUSES,Catarrh,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1397014,C0013404,CAUSES,Imbalance,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1397014,C0013604,CAUSES,Imbalance,Edema,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1397014,C0015967,CAUSES,Imbalance,Fever,sosy,sosy,3,CAUSES_SOSYcausSOSY
+C1397014,C0037088,CAUSES,Imbalance,Signs and Symptoms,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1397014,C0040822,CAUSES,Imbalance,Tremor,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1397014,C0948775,CAUSES,Imbalance,high weight,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1397014,C1443924,CAUSES,Imbalance,Severe diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1443924,C0011991,CAUSES,Severe diarrhea,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C2107752,C0009806,CAUSES,Obstructive defecation,Constipation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0003578,CAUSES,Weakness,Apnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0009806,CAUSES,Weakness,Constipation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0010200,CAUSES,Weakness,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0013404,CAUSES,Weakness,Dyspnea,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C3714552,C0013911,CAUSES,Weakness,Emaciation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0270790,CAUSES,Weakness,Quadriparesis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C4287543,C0009806,CAUSES,Intestinal dysbiosis,Constipation,sosy,sosy,1,CAUSES_SOSYcausSOSY

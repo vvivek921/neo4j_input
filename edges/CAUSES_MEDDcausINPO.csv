@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013812,C0010957,CAUSES,electrode,Tissue damage,medd,inpo,1,CAUSES_MEDDcausINPO
+C0024861,C0282507,CAUSES,Masks,Heat Stress Disorders,medd,inpo,1,CAUSES_MEDDcausINPO
+C0030067,C0013926,CAUSES,Oxygenators,Air Embolism,medd,inpo,1,CAUSES_MEDDcausINPO
+C0087153,C0273115,CAUSES,Ventilator - respiratory equipment,Lung Injury,medd,inpo,1,CAUSES_MEDDcausINPO
+C0175735,C0337196,CAUSES,Scissors (device),Collision,medd,inpo,1,CAUSES_MEDDcausINPO
+C0178987,C0016542,CAUSES,Artificial Airways,Foreign Bodies,medd,inpo,1,CAUSES_MEDDcausINPO
+C0178987,C0273115,CAUSES,Artificial Airways,Lung Injury,medd,inpo,1,CAUSES_MEDDcausINPO
+C0178987,C0413297,CAUSES,Artificial Airways,Dry drowning,medd,inpo,1,CAUSES_MEDDcausINPO
+C0179323,C0000925,CAUSES,Blades (device),Incised wound,medd,inpo,1,CAUSES_MEDDcausINPO
+C0181064,C0000921,CAUSES,Gown,Accidental Falls,medd,inpo,1,CAUSES_MEDDcausINPO
+C0336630,C0043251,CAUSES,Endotracheal tube,Wounds and Injuries,medd,inpo,1,CAUSES_MEDDcausINPO
+C0348000,C0043242,CAUSES,Instrument - device,Superficial abrasion,medd,inpo,1,CAUSES_MEDDcausINPO
+C0348000,C0043251,CAUSES,Instrument - device,Wounds and Injuries,medd,inpo,2,CAUSES_MEDDcausINPO
+C0348000,C0273115,CAUSES,Instrument - device,Lung Injury,medd,inpo,1,CAUSES_MEDDcausINPO
+C0348000,C0337196,CAUSES,Instrument - device,Collision,medd,inpo,2,CAUSES_MEDDcausINPO
+C0441107,C0178324,CAUSES,Cuffs device,Vascular System Injuries,medd,inpo,2,CAUSES_MEDDcausINPO
+C0441107,C3203359,CAUSES,Cuffs device,Rupture,medd,inpo,1,CAUSES_MEDDcausINPO
+C0491921,C0010957,CAUSES,IMPACTOR,Tissue damage,medd,inpo,3,CAUSES_MEDDcausINPO
+C0492861,C0043251,CAUSES,"INSTRUMENT, BIOPSY",Wounds and Injuries,medd,inpo,1,CAUSES_MEDDcausINPO
+C0810635,C0010957,CAUSES,spinal cord stimulators,Tissue damage,medd,inpo,1,CAUSES_MEDDcausINPO
+C0972401,C1710055,CAUSES,Boards (medical device),Serious Injury,medd,inpo,1,CAUSES_MEDDcausINPO
+C1704776,C0273115,CAUSES,Bag Device Component,Lung Injury,medd,inpo,1,CAUSES_MEDDcausINPO
+C1706912,C0273115,CAUSES,BARRIER,Lung Injury,medd,inpo,2,CAUSES_MEDDcausINPO
+C1706912,C0481388,CAUSES,BARRIER,Nosocomial condition,medd,inpo,1,CAUSES_MEDDcausINPO
+C3495388,C2362502,CAUSES,Vacuum Pumps,Safety Issues,medd,inpo,1,CAUSES_MEDDcausINPO
+C3878897,C3263723,CAUSES,Reclining chair,Traumatic injury,medd,inpo,1,CAUSES_MEDDcausINPO

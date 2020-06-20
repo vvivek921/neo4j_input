@@ -1,0 +1,28 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017261,C1511695,PRECEDES,Gene Duplication,DNA Sequence Rearrangement,genf,genf,1,PRECEDES_GENFprcdGENF
+C0017262,C0035380,PRECEDES,Gene Expression,Reverse Transcription,genf,genf,1,PRECEDES_GENFprcdGENF
+C0020202,C0040649,PRECEDES,Crossbreeding,"Transcription, Genetic",genf,genf,1,PRECEDES_GENFprcdGENF
+C0026882,C0598496,PRECEDES,Mutation,Gene Silencing,genf,genf,1,PRECEDES_GENFprcdGENF
+C0034865,C0026882,PRECEDES,"Recombination, Genetic",Mutation,genf,genf,1,PRECEDES_GENFprcdGENF
+C0035380,C0040649,PRECEDES,Reverse Transcription,"Transcription, Genetic",genf,genf,1,PRECEDES_GENFprcdGENF
+C0035380,C0598312,PRECEDES,Reverse Transcription,DNA Replication,genf,genf,1,PRECEDES_GENFprcdGENF
+C0035380,C1158478,PRECEDES,Reverse Transcription,DNA Integration,genf,genf,1,PRECEDES_GENFprcdGENF
+C0035380,C1327288,PRECEDES,Reverse Transcription,RNA destabilization,genf,genf,1,PRECEDES_GENFprcdGENF
+C0035380,C2610186,PRECEDES,Reverse Transcription,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,PRECEDES_GENFprcdGENF
+C0040649,C0035380,PRECEDES,"Transcription, Genetic",Reverse Transcription,genf,genf,1,PRECEDES_GENFprcdGENF
+C0040649,C0035687,PRECEDES,"Transcription, Genetic",RNA Splicing,genf,genf,1,PRECEDES_GENFprcdGENF
+C0040649,C0678713,PRECEDES,"Transcription, Genetic",DNA template,genf,genf,2,PRECEDES_GENFprcdGENF
+C0040649,C1515669,PRECEDES,"Transcription, Genetic",mRNA Export,genf,genf,2,PRECEDES_GENFprcdGENF
+C0040649,C1622984,PRECEDES,"Transcription, Genetic",mRNA synthesis,genf,genf,1,PRECEDES_GENFprcdGENF
+C0040649,C2610186,PRECEDES,"Transcription, Genetic","nuclear mRNA cis splicing, via spliceosome",genf,genf,1,PRECEDES_GENFprcdGENF
+C0598312,C0017262,PRECEDES,DNA Replication,Gene Expression,genf,genf,1,PRECEDES_GENFprcdGENF
+C0598312,C0035380,PRECEDES,DNA Replication,Reverse Transcription,genf,genf,1,PRECEDES_GENFprcdGENF
+C0598312,C1158478,PRECEDES,DNA Replication,DNA Integration,genf,genf,1,PRECEDES_GENFprcdGENF
+C1148673,C0017255,PRECEDES,dna binding,Gene Activation,genf,genf,1,PRECEDES_GENFprcdGENF
+C1148673,C0017262,PRECEDES,dna binding,Gene Expression,genf,genf,1,PRECEDES_GENFprcdGENF
+C1158729,C1519613,PRECEDES,mRNA maturation,Translation Initiation,genf,genf,1,PRECEDES_GENFprcdGENF
+C1158816,C1171362,PRECEDES,mRNA transcription,protein expression,genf,genf,1,PRECEDES_GENFprcdGENF
+C1328949,C0040649,PRECEDES,RNA replication,"Transcription, Genetic",genf,genf,1,PRECEDES_GENFprcdGENF
+C1328949,C0598312,PRECEDES,RNA replication,DNA Replication,genf,genf,1,PRECEDES_GENFprcdGENF
+C1328949,C1152412,PRECEDES,RNA replication,RNA-directed RNA polymerase activity,genf,genf,1,PRECEDES_GENFprcdGENF
+C1519619,C1257759,PRECEDES,Translational Repression,mRNA Degradation,genf,genf,1,PRECEDES_GENFprcdGENF

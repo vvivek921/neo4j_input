@@ -1,0 +1,44 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002475,C0002475,HIGHER_THAN,Mitomycin,Mitomycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0002645,C0030840,HIGHER_THAN,Amoxicillin,Penicillin V,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002645,C1869686,HIGHER_THAN,Amoxicillin,cefovecin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002645,C3536856,HIGHER_THAN,Amoxicillin,Cephalosporins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002680,C0002680,HIGHER_THAN,Ampicillin,Ampicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0003232,C0003232,HIGHER_THAN,Antibiotics,Antibiotics,antb,antb,8,HIGHER_THAN_ANTBhghtANTB
+C0003232,C0282215,HIGHER_THAN,Antibiotics,beta-Lactams,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0003232,C0300903,HIGHER_THAN,Antibiotics,orbifloxacin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0003240,C0030840,HIGHER_THAN,Macrolide Antibiotics,Penicillin V,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0006968,C0030842,HIGHER_THAN,Carbapenems,Penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007557,C0039644,HIGHER_THAN,Cefoxitin,Tetracycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007562,C0055003,HIGHER_THAN,Cefuroxime,cefepime,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0008168,C0039644,HIGHER_THAN,Chloramphenicol,Tetracycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0008861,C0008861,HIGHER_THAN,Citrinin,Citrinin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0008947,C0030842,HIGHER_THAN,Clindamycin,Penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0013089,C0013089,HIGHER_THAN,Doxorubicin,Doxorubicin,antb,antb,3,HIGHER_THAN_ANTBhghtANTB
+C0013090,C0014806,HIGHER_THAN,Doxycycline,Erythromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0013090,C0039644,HIGHER_THAN,Doxycycline,Tetracycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030092,C0030842,HIGHER_THAN,Oxytetracycline,Penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030576,C0038425,HIGHER_THAN,Paromomycin,Streptomycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030827,C0007554,HIGHER_THAN,Penicillin G,Cefotaxime,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0035608,C0013090,HIGHER_THAN,Rifampin,Doxycycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0039644,C0003240,HIGHER_THAN,Tetracycline,Macrolide Antibiotics,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0014806,HIGHER_THAN,Azithromycin,Erythromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0055856,HIGHER_THAN,Azithromycin,Clarithromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0140575,HIGHER_THAN,Azithromycin,Rifabutin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0055003,C0007561,HIGHER_THAN,cefepime,Ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0055856,C0014806,HIGHER_THAN,Clarithromycin,Erythromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0073372,C0140575,HIGHER_THAN,rifapentine,Rifabutin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0171447,C0011015,HIGHER_THAN,sitafloxacin,Daunorubicin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0279516,C0002680,HIGHER_THAN,Anti-Bacterial Agents,Ampicillin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0279516,C0007546,HIGHER_THAN,Anti-Bacterial Agents,Cefazolin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0282386,C0052796,HIGHER_THAN,Levofloxacin,Azithromycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0304320,C0002645,HIGHER_THAN,Third generation cephalosporin,Amoxicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0389169,C0020933,HIGHER_THAN,doripenem,Imipenem,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0533545,C0007561,HIGHER_THAN,gemifloxacin,Ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0536495,C0282386,HIGHER_THAN,moxifloxacin,Levofloxacin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C2001521,C0007561,HIGHER_THAN,ceftaroline,Ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C3536856,C0002645,HIGHER_THAN,Cephalosporins,Amoxicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C3536856,C0030840,HIGHER_THAN,Cephalosporins,Penicillin V,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C3536856,C0030842,HIGHER_THAN,Cephalosporins,Penicillins,antb,antb,3,HIGHER_THAN_ANTBhghtANTB
+C3854019,C0008168,HIGHER_THAN,Gentamicin,Chloramphenicol,antb,antb,3,HIGHER_THAN_ANTBhghtANTB
+C3854019,C3854019,HIGHER_THAN,Gentamicin,Gentamicin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB

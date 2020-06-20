@@ -1,0 +1,72 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0001551,HIGHER_THAN,Immunologic Adjuvants,Immunologic Adjuvants,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0001551,C0301976,HIGHER_THAN,Immunologic Adjuvants,Incomplete adjuvant,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0001804,C0001804,HIGHER_THAN,Agglutinins,Agglutinins,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003316,C0003316,HIGHER_THAN,Epitopes,Epitopes,imft,imft,14,HIGHER_THAN_IMFThghtIMFT
+C0003316,C0003320,HIGHER_THAN,Epitopes,Antigens,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003316,C0042210,HIGHER_THAN,Epitopes,Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003316,C0079600,HIGHER_THAN,Epitopes,Immunodominant Epitopes,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003316,C0887892,HIGHER_THAN,Epitopes,"Vaccines, Subunit",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003320,C0001551,HIGHER_THAN,Antigens,Immunologic Adjuvants,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003320,C0003316,HIGHER_THAN,Antigens,Epitopes,imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C0003320,C0003320,HIGHER_THAN,Antigens,Antigens,imft,imft,4,HIGHER_THAN_IMFThghtIMFT
+C0003320,C0021403,HIGHER_THAN,Antigens,Influenza virus vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003320,C0042210,HIGHER_THAN,Antigens,Vaccines,imft,imft,3,HIGHER_THAN_IMFThghtIMFT
+C0003320,C0282580,HIGHER_THAN,Antigens,"Epitopes, T-Lymphocyte",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0003320,C2825347,HIGHER_THAN,Antigens,"Immunoglobulin A, Human",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0004359,C0004359,HIGHER_THAN,Autoantigens,Autoantigens,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0016712,C0001551,HIGHER_THAN,Freund's Adjuvant,Immunologic Adjuvants,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0019165,C0019165,HIGHER_THAN,Hepatitis B Antigens,Hepatitis B Antigens,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0019168,C0019168,HIGHER_THAN,Hepatitis B Surface Antigens,Hepatitis B Surface Antigens,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0021009,C0021009,HIGHER_THAN,Immunoglobulin Fragments,Immunoglobulin Fragments,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0021403,C0001551,HIGHER_THAN,Influenza virus vaccine,Immunologic Adjuvants,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0021403,C0021403,HIGHER_THAN,Influenza virus vaccine,Influenza virus vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0021403,C0042210,HIGHER_THAN,Influenza virus vaccine,Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0021403,C0042212,HIGHER_THAN,Influenza virus vaccine,"Vaccines, Inactivated",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0001551,HIGHER_THAN,Vaccines,Immunologic Adjuvants,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0021403,HIGHER_THAN,Vaccines,Influenza virus vaccine,imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0025010,HIGHER_THAN,Vaccines,Measles Vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0034496,HIGHER_THAN,Vaccines,Rabies Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0042210,HIGHER_THAN,Vaccines,Vaccines,imft,imft,34,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0042211,HIGHER_THAN,Vaccines,"Vaccines, Attenuated",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0042212,HIGHER_THAN,Vaccines,"Vaccines, Inactivated",imft,imft,4,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0376613,HIGHER_THAN,Vaccines,"Vaccines, DNA",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0597641,HIGHER_THAN,Vaccines,plasmid vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0770694,HIGHER_THAN,Vaccines,trivalent influenza vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C0946132,HIGHER_THAN,Vaccines,Human papilloma virus (antigen),imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042210,C1720919,HIGHER_THAN,Vaccines,Zostavax,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042211,C0042212,HIGHER_THAN,"Vaccines, Attenuated","Vaccines, Inactivated",imft,imft,9,HIGHER_THAN_IMFThghtIMFT
+C0042211,C0887892,HIGHER_THAN,"Vaccines, Attenuated","Vaccines, Subunit",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042212,C0018909,HIGHER_THAN,"Vaccines, Inactivated",Hemagglutinin,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042212,C0042210,HIGHER_THAN,"Vaccines, Inactivated",Vaccines,imft,imft,3,HIGHER_THAN_IMFThghtIMFT
+C0042212,C0042211,HIGHER_THAN,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,4,HIGHER_THAN_IMFThghtIMFT
+C0042742,C0042210,HIGHER_THAN,Viral Vaccines,Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042742,C0042212,HIGHER_THAN,Viral Vaccines,"Vaccines, Inactivated",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0042742,C0887892,HIGHER_THAN,Viral Vaccines,"Vaccines, Subunit",imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C0085408,C0042212,HIGHER_THAN,ISCOMs,"Vaccines, Inactivated",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0206253,C0376613,HIGHER_THAN,"Vaccines, Combined","Vaccines, DNA",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0206515,C0042210,HIGHER_THAN,"Vaccines, Conjugate",Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0282580,C0003316,HIGHER_THAN,"Epitopes, T-Lymphocyte",Epitopes,imft,imft,4,HIGHER_THAN_IMFThghtIMFT
+C0312561,C0003333,HIGHER_THAN,Homologous antigen,"Antigens, Heterophile",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0376613,C0042210,HIGHER_THAN,"Vaccines, DNA",Vaccines,imft,imft,5,HIGHER_THAN_IMFThghtIMFT
+C0376613,C0376613,HIGHER_THAN,"Vaccines, DNA","Vaccines, DNA",imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C0770689,C0301508,HIGHER_THAN,"MEASLES VIRUS VACCINE,LIVE ATTENUATED",Yellow Fever Vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0887892,C0042210,HIGHER_THAN,"Vaccines, Subunit",Vaccines,imft,imft,3,HIGHER_THAN_IMFThghtIMFT
+C0887892,C0042211,HIGHER_THAN,"Vaccines, Subunit","Vaccines, Attenuated",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C0887892,C1520145,HIGHER_THAN,"Vaccines, Subunit",Whole Cell Vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C1291777,C0003316,HIGHER_THAN,Protein antigen,Epitopes,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C1291777,C0376613,HIGHER_THAN,Protein antigen,"Vaccines, DNA",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C1320239,C0002092,HIGHER_THAN,Food allergen,Allergens,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C1520145,C0042210,HIGHER_THAN,Whole Cell Vaccine,Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C1883036,C0003320,HIGHER_THAN,Single-Chain Antibodies,Antigens,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C1883036,C1883036,HIGHER_THAN,Single-Chain Antibodies,Single-Chain Antibodies,imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C2355474,C0042210,HIGHER_THAN,hepatitis B vaccine AS04,Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C2825347,C2825347,HIGHER_THAN,"Immunoglobulin A, Human","Immunoglobulin A, Human",imft,imft,6,HIGHER_THAN_IMFThghtIMFT
+C2986386,C0376613,HIGHER_THAN,Virus-neutralizing Antibody,"Vaccines, DNA",imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C3161957,C0042210,HIGHER_THAN,INFLUENZA strains,Vaccines,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C3272757,C0042212,HIGHER_THAN,Live Attenuated Influenza Vaccine,"Vaccines, Inactivated",imft,imft,3,HIGHER_THAN_IMFThghtIMFT
+C3272757,C0770694,HIGHER_THAN,Live Attenuated Influenza Vaccine,trivalent influenza vaccine,imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C3272757,C3272757,HIGHER_THAN,Live Attenuated Influenza Vaccine,Live Attenuated Influenza Vaccine,imft,imft,2,HIGHER_THAN_IMFThghtIMFT
+C3490361,C3490361,HIGHER_THAN,Act-Hib vaccine,Act-Hib vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C3833499,C0001551,HIGHER_THAN,AS03 Adjuvant,Immunologic Adjuvants,imft,imft,1,HIGHER_THAN_IMFThghtIMFT
+C4505396,C0021403,HIGHER_THAN,High-Dose Trivalent Influenza Vaccine,Influenza virus vaccine,imft,imft,1,HIGHER_THAN_IMFThghtIMFT

@@ -1,0 +1,326 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005540,C0182400,USES,Biomedical Research,Probes,resa,medd,1,USES_RESAusesMEDD
+C0007328,C0024861,USES,Case-Control Studies,Masks,resa,medd,1,USES_RESAusesMEDD
+C0008972,C0182158,USES,Clinical Research,Pads,resa,medd,1,USES_RESAusesMEDD
+C0008972,C1273532,USES,Clinical Research,Diagnostic device,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0006086,USES,Clinical Trials,Braces-Orthopedic appliances,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0009653,USES,Clinical Trials,"Condoms, Male",resa,medd,1,USES_RESAusesMEDD
+C0008976,C0013812,USES,Clinical Trials,electrode,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0014243,USES,Clinical Trials,Endoscopes,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0024861,USES,Clinical Trials,Masks,resa,medd,3,USES_RESAusesMEDD
+C0008976,C0027524,USES,Clinical Trials,Nebulizers,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0042497,USES,Clinical Trials,Mechanical Ventilator,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0085275,USES,Clinical Trials,Rubber Dams,resa,medd,2,USES_RESAusesMEDD
+C0008976,C0175731,USES,Clinical Trials,T-tube,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0179199,USES,Clinical Trials,"Balance, device",resa,medd,1,USES_RESAusesMEDD
+C0008976,C0180799,USES,Clinical Trials,explorers,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0336587,USES,Clinical Trials,"Surgical drill, device (physical object)",resa,medd,1,USES_RESAusesMEDD
+C0008976,C0348000,USES,Clinical Trials,Instrument - device,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0441084,USES,Clinical Trials,Single probe,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0493188,USES,Clinical Trials,Subclavian catheter,resa,medd,2,USES_RESAusesMEDD
+C0008976,C0581447,USES,Clinical Trials,Arterial catheter,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0725865,USES,Clinical Trials,disposable,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0728990,USES,Clinical Trials,Clinical Use Template,resa,medd,1,USES_RESAusesMEDD
+C0008976,C0777169,USES,Clinical Trials,Lancet,resa,medd,1,USES_RESAusesMEDD
+C0008976,C1145640,USES,Clinical Trials,"Central venous catheter, device",resa,medd,1,USES_RESAusesMEDD
+C0008976,C1618912,USES,Clinical Trials,"TRANSFER DEVICE, ANY TYPE, EACH",resa,medd,1,USES_RESAusesMEDD
+C0008976,C1706912,USES,Clinical Trials,BARRIER,resa,medd,1,USES_RESAusesMEDD
+C0008976,C3714774,USES,Clinical Trials,Cap device,resa,medd,1,USES_RESAusesMEDD
+C0009015,C1260969,USES,Cloning,Ring device,resa,medd,1,USES_RESAusesMEDD
+C0009085,C0013194,USES,statistical cluster,Drug Packaging,resa,medd,4,USES_RESAusesMEDD
+C0010101,C0013194,USES,Correlation Study,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0010995,C0007963,USES,Data Collection,Charts (device),resa,medd,1,USES_RESAusesMEDD
+C0010995,C0013194,USES,Data Collection,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0010995,C0178951,USES,Data Collection,accelerometers,resa,medd,1,USES_RESAusesMEDD
+C0010995,C0180279,USES,Data Collection,automated flow cytometers,resa,medd,1,USES_RESAusesMEDD
+C0010995,C0348000,USES,Data Collection,Instrument - device,resa,medd,1,USES_RESAusesMEDD
+C0010995,C1139930,USES,Data Collection,Device Plate,resa,medd,1,USES_RESAusesMEDD
+C0010995,C1706912,USES,Data Collection,BARRIER,resa,medd,1,USES_RESAusesMEDD
+C0012630,C3875774,USES,Discriminant Analysis,Laser Doppler blood flowmeter,resa,medd,1,USES_RESAusesMEDD
+C0013175,C0302713,USES,Drug Evaluation,Iontophoretic Drug Delivery,resa,medd,1,USES_RESAusesMEDD
+C0015730,C0179533,USES,Feasibility Studies,"Camera, device",resa,medd,2,USES_RESAusesMEDD
+C0016441,C0183115,USES,Follow-Up Studies,Scanning Systems,resa,medd,1,USES_RESAusesMEDD
+C0017395,C0182301,USES,Genetic Techniques,Pipette (physical object),resa,medd,1,USES_RESAusesMEDD
+C0022886,C0024861,USES,Laboratory Research,Masks,resa,medd,1,USES_RESAusesMEDD
+C0022886,C0179533,USES,Laboratory Research,"Camera, device",resa,medd,2,USES_RESAusesMEDD
+C0023981,C0879240,USES,Longitudinal Studies,Nasal Swabs,resa,medd,1,USES_RESAusesMEDD
+C0031928,C0183309,USES,Pilot Projects,Simulators,resa,medd,1,USES_RESAusesMEDD
+C0031928,C0872345,USES,Pilot Projects,Gene Chips,resa,medd,1,USES_RESAusesMEDD
+C0034656,C0007963,USES,Randomization,Charts (device),resa,medd,1,USES_RESAusesMEDD
+C0034656,C0179199,USES,Randomization,"Balance, device",resa,medd,1,USES_RESAusesMEDD
+C0035171,C0013194,USES,Research Design,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0035171,C0179226,USES,Research Design,Basin,resa,medd,1,USES_RESAusesMEDD
+C0035363,C0007963,USES,Retrospective Studies,Charts (device),resa,medd,1,USES_RESAusesMEDD
+C0035363,C0024861,USES,Retrospective Studies,Masks,resa,medd,1,USES_RESAusesMEDD
+C0035363,C0181839,USES,Retrospective Studies,Microscopes,resa,medd,1,USES_RESAusesMEDD
+C0035363,C0879240,USES,Retrospective Studies,Nasal Swabs,resa,medd,1,USES_RESAusesMEDD
+C0036718,C0492792,USES,Serial Passage,"DISH, TISSUE CULTURE",resa,medd,1,USES_RESAusesMEDD
+C0037680,C0179245,USES,Sonication,water baths,resa,medd,2,USES_RESAusesMEDD
+C0037680,C0182400,USES,Sonication,Probes,resa,medd,6,USES_RESAusesMEDD
+C0037680,C0728475,USES,Sonication,ultra,resa,medd,6,USES_RESAusesMEDD
+C0038136,C0687603,USES,Standardization,thermographs,resa,medd,1,USES_RESAusesMEDD
+C0038953,C0013194,USES,Survival Analysis,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0079435,C0728990,USES,Genome Mapping,Clinical Use Template,resa,medd,1,USES_RESAusesMEDD
+C0150093,C0175730,USES,case series,biomedical tube device,resa,medd,1,USES_RESAusesMEDD
+C0150103,C0013194,USES,MATCHING,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0150103,C0175720,USES,MATCHING,Caliper,resa,medd,1,USES_RESAusesMEDD
+C0150103,C0182400,USES,MATCHING,Probes,resa,medd,1,USES_RESAusesMEDD
+C0150103,C2700619,USES,MATCHING,Test Strip (device),resa,medd,1,USES_RESAusesMEDD
+C0150108,C0024861,USES,Blinded,Masks,resa,medd,1,USES_RESAusesMEDD
+C0150108,C0181839,USES,Blinded,Microscopes,resa,medd,2,USES_RESAusesMEDD
+C0150114,C0181839,USES,unaware,Microscopes,resa,medd,1,USES_RESAusesMEDD
+C0178693,C0024861,USES,human study,Masks,resa,medd,1,USES_RESAusesMEDD
+C0178693,C0027524,USES,human study,Nebulizers,resa,medd,1,USES_RESAusesMEDD
+C0178693,C0972401,USES,human study,Boards (medical device),resa,medd,1,USES_RESAusesMEDD
+C0206031,C0013194,USES,Logistic Regression,Drug Packaging,resa,medd,3,USES_RESAusesMEDD
+C0206055,C0183400,USES,"Spectroscopy, Fourier Transform Infrared",spectrophotometer,resa,medd,1,USES_RESAusesMEDD
+C0242481,C0972401,USES,Research Activities,Boards (medical device),resa,medd,1,USES_RESAusesMEDD
+C0242623,C0013812,USES,Voltage-Clamp Techniques,electrode,resa,medd,2,USES_RESAusesMEDD
+C0242625,C0182301,USES,Patch-Clamp Techniques,Pipette (physical object),resa,medd,1,USES_RESAusesMEDD
+C0260206,C1314650,USES,research grants,"SUPPLY, NOT OTHERWISE SPECIFIED",resa,medd,2,USES_RESAusesMEDD
+C0302523,C0013194,USES,Observation in research,Drug Packaging,resa,medd,2,USES_RESAusesMEDD
+C0302523,C0042497,USES,Observation in research,Mechanical Ventilator,resa,medd,1,USES_RESAusesMEDD
+C0302523,C0180153,USES,Observation in research,Covers (device),resa,medd,2,USES_RESAusesMEDD
+C0302523,C0181839,USES,Observation in research,Microscopes,resa,medd,1,USES_RESAusesMEDD
+C0302523,C0181845,USES,Observation in research,Electron microscope,resa,medd,3,USES_RESAusesMEDD
+C0302523,C0183427,USES,Observation in research,Sphygmomanometers,resa,medd,1,USES_RESAusesMEDD
+C0302523,C0262878,USES,Observation in research,"Microscopes, Electron, Scanning",resa,medd,1,USES_RESAusesMEDD
+C0302523,C0262880,USES,Observation in research,Transmission Electron Microscopes,resa,medd,1,USES_RESAusesMEDD
+C0302523,C0348000,USES,Observation in research,Instrument - device,resa,medd,2,USES_RESAusesMEDD
+C0302523,C0457177,USES,Observation in research,Telescopes,resa,medd,3,USES_RESAusesMEDD
+C0302523,C0810635,USES,Observation in research,spinal cord stimulators,resa,medd,4,USES_RESAusesMEDD
+C0302523,C1626420,USES,Observation in research,Confocal microscope,resa,medd,1,USES_RESAusesMEDD
+C0524527,C1618912,USES,Drug Formulation Process,"TRANSFER DEVICE, ANY TYPE, EACH",resa,medd,1,USES_RESAusesMEDD
+C0596404,C0013194,USES,Data Management,Drug Packaging,resa,medd,2,USES_RESAusesMEDD
+C0597634,C0009653,USES,vaccine development,"Condoms, Male",resa,medd,5,USES_RESAusesMEDD
+C0600367,C3495449,USES,Seroprevalence,Mobility aid,resa,medd,1,USES_RESAusesMEDD
+C0678323,C1139930,USES,experimentation,Device Plate,resa,medd,1,USES_RESAusesMEDD
+C0678323,C1706912,USES,experimentation,BARRIER,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0005978,USES,simulation,Bone Wires,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0013194,USES,simulation,Drug Packaging,resa,medd,20,USES_RESAusesMEDD
+C0679083,C0024861,USES,simulation,Masks,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0043016,USES,simulation,Walkers,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0085104,USES,simulation,Drug Delivery Systems,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0180979,USES,simulation,Frame (physical object),resa,medd,1,USES_RESAusesMEDD
+C0679083,C0181467,USES,simulation,knife,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0183309,USES,simulation,Simulators,resa,medd,3,USES_RESAusesMEDD
+C0679083,C0336587,USES,simulation,"Surgical drill, device (physical object)",resa,medd,1,USES_RESAusesMEDD
+C0679083,C0337184,USES,simulation,Physical restraint equipment (device),resa,medd,3,USES_RESAusesMEDD
+C0679083,C0441083,USES,simulation,Barostat,resa,medd,2,USES_RESAusesMEDD
+C0679083,C0740043,USES,simulation,medical supplies,resa,medd,1,USES_RESAusesMEDD
+C0679083,C0789995,USES,simulation,Air Cleaners - Device,resa,medd,1,USES_RESAusesMEDD
+C0679083,C1314650,USES,simulation,"SUPPLY, NOT OTHERWISE SPECIFIED",resa,medd,1,USES_RESAusesMEDD
+C0679083,C1706912,USES,simulation,BARRIER,resa,medd,1,USES_RESAusesMEDD
+C0681797,C0180459,USES,paradigm,Disks (device),resa,medd,1,USES_RESAusesMEDD
+C0681797,C0441084,USES,paradigm,Single probe,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0005971,USES,research study,Bone plates,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0009653,USES,research study,"Condoms, Male",resa,medd,8,USES_RESAusesMEDD
+C0681814,C0013194,USES,research study,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0013812,USES,research study,electrode,resa,medd,3,USES_RESAusesMEDD
+C0681814,C0024861,USES,research study,Masks,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0027524,USES,research study,Nebulizers,resa,medd,3,USES_RESAusesMEDD
+C0681814,C0038257,USES,research study,"Stent, device",resa,medd,1,USES_RESAusesMEDD
+C0681814,C0039142,USES,research study,Syringes,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0042497,USES,research study,Mechanical Ventilator,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0085590,USES,research study,catheter device,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0175648,USES,research study,Mats,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0175722,USES,research study,Clip,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0175730,USES,research study,biomedical tube device,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0179533,USES,research study,"Camera, device",resa,medd,1,USES_RESAusesMEDD
+C0681814,C0179630,USES,research study,Cartridge device,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0179834,USES,research study,Centrifuges (device),resa,medd,1,USES_RESAusesMEDD
+C0681814,C0180266,USES,research study,CUVETTES,resa,medd,5,USES_RESAusesMEDD
+C0681814,C0180459,USES,research study,Disks (device),resa,medd,4,USES_RESAusesMEDD
+C0681814,C0181064,USES,research study,Gown,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0181168,USES,research study,HEMOCYTOMETER,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0181200,USES,research study,homogenizers,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0181206,USES,research study,Class II biological safety cabinet,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0181620,USES,research study,Hoist device,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0181687,USES,research study,loops,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0181839,USES,research study,Microscopes,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0182158,USES,research study,Pads,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0182301,USES,research study,Pipette (physical object),resa,medd,1,USES_RESAusesMEDD
+C0681814,C0182400,USES,research study,Probes,resa,medd,22,USES_RESAusesMEDD
+C0681814,C0183212,USES,research study,Separators,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0183309,USES,research study,Simulators,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0183396,USES,research study,Mass Spectrometers (device),resa,medd,1,USES_RESAusesMEDD
+C0681814,C0183400,USES,research study,spectrophotometer,resa,medd,3,USES_RESAusesMEDD
+C0681814,C0183884,USES,research study,Test tube,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0184104,USES,research study,blood collection tubes,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0184187,USES,research study,Tweezer,resa,medd,12,USES_RESAusesMEDD
+C0681814,C0221872,USES,research study,Sizer,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0348000,USES,research study,Instrument - device,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0376432,USES,research study,Bioreactors,resa,medd,3,USES_RESAusesMEDD
+C0681814,C0441088,USES,research study,Gene probe,resa,medd,2,USES_RESAusesMEDD
+C0681814,C0441210,USES,research study,Nylon mesh,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0491970,USES,research study,Light microscope,resa,medd,3,USES_RESAusesMEDD
+C0681814,C0492524,USES,research study,Analytical balance,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0492792,USES,research study,"DISH, TISSUE CULTURE",resa,medd,1,USES_RESAusesMEDD
+C0681814,C0492793,USES,research study,"FLASK, TISSUE CULTURE",resa,medd,1,USES_RESAusesMEDD
+C0681814,C0492870,USES,research study,AIRBRUSH,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0498465,USES,research study,"Nebulizer, with compressor",resa,medd,1,USES_RESAusesMEDD
+C0681814,C0728990,USES,research study,Clinical Use Template,resa,medd,7,USES_RESAusesMEDD
+C0681814,C0810635,USES,research study,spinal cord stimulators,resa,medd,1,USES_RESAusesMEDD
+C0681814,C0878835,USES,research study,blood gas analyzer,resa,medd,1,USES_RESAusesMEDD
+C0681814,C1139930,USES,research study,Device Plate,resa,medd,5,USES_RESAusesMEDD
+C0681814,C1140606,USES,research study,"SORTER, CELL",resa,medd,2,USES_RESAusesMEDD
+C0681814,C1260969,USES,research study,Ring device,resa,medd,1,USES_RESAusesMEDD
+C0681814,C1272835,USES,research study,Test kit,resa,medd,1,USES_RESAusesMEDD
+C0681814,C1609474,USES,research study,Prefilled Syringe,resa,medd,1,USES_RESAusesMEDD
+C0681814,C1626420,USES,research study,Confocal microscope,resa,medd,1,USES_RESAusesMEDD
+C0681814,C1706912,USES,research study,BARRIER,resa,medd,1,USES_RESAusesMEDD
+C0681814,C1875499,USES,research study,MICROCHAMBER,resa,medd,1,USES_RESAusesMEDD
+C0681814,C2363670,USES,research study,developers,resa,medd,1,USES_RESAusesMEDD
+C0681814,C3875892,USES,research study,Anemometer,resa,medd,1,USES_RESAusesMEDD
+C0681814,C3879234,USES,research study,Liquid scintillation counter,resa,medd,1,USES_RESAusesMEDD
+C0681828,C0087153,USES,in vitro study,Ventilator - respiratory equipment,resa,medd,1,USES_RESAusesMEDD
+C0681828,C0183103,USES,in vitro study,Dental ultrasonic scaler,resa,medd,1,USES_RESAusesMEDD
+C0681828,C0184301,USES,in vitro study,Vial device,resa,medd,1,USES_RESAusesMEDD
+C0681829,C0024861,USES,in vivo study,Masks,resa,medd,1,USES_RESAusesMEDD
+C0681829,C0178959,USES,in vivo study,ADAPTER,resa,medd,1,USES_RESAusesMEDD
+C0681829,C0181758,USES,in vivo study,Surgical face mask,resa,medd,1,USES_RESAusesMEDD
+C0681906,C0009653,USES,Patient Self-Report,"Condoms, Male",resa,medd,1,USES_RESAusesMEDD
+C0681925,C0013194,USES,logistic regression analysis,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0681935,C0179302,USES,triangulation,"Binder, device",resa,medd,2,USES_RESAusesMEDD
+C0681942,C0013194,USES,qualitative data analysis,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0683935,C0183396,USES,research program,Mass Spectrometers (device),resa,medd,1,USES_RESAusesMEDD
+C0683941,C0013194,USES,comparative analysis,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0683952,C0009653,USES,placebo study,"Condoms, Male",resa,medd,1,USES_RESAusesMEDD
+C0683962,C0024861,USES,univariate statistics,Masks,resa,medd,1,USES_RESAusesMEDD
+C0683963,C0013194,USES,path analysis,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0814847,C1706912,USES,research quality,BARRIER,resa,medd,1,USES_RESAusesMEDD
+C0814861,C0009653,USES,prevention trial,"Condoms, Male",resa,medd,1,USES_RESAusesMEDD
+C0814926,C0013194,USES,Spatial Analysis,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0814926,C0336587,USES,Spatial Analysis,"Surgical drill, device (physical object)",resa,medd,2,USES_RESAusesMEDD
+C0870071,C0013194,USES,modeling,Drug Packaging,resa,medd,3,USES_RESAusesMEDD
+C0870071,C0178987,USES,modeling,Artificial Airways,resa,medd,1,USES_RESAusesMEDD
+C0870071,C0180112,USES,modeling,Controllers,resa,medd,1,USES_RESAusesMEDD
+C0870071,C0337184,USES,modeling,Physical restraint equipment (device),resa,medd,1,USES_RESAusesMEDD
+C0870071,C0728990,USES,modeling,Clinical Use Template,resa,medd,4,USES_RESAusesMEDD
+C0870071,C1273532,USES,modeling,Diagnostic device,resa,medd,1,USES_RESAusesMEDD
+C0871424,C0005971,USES,statistical analysis,Bone plates,resa,medd,1,USES_RESAusesMEDD
+C0871424,C0013194,USES,statistical analysis,Drug Packaging,resa,medd,87,USES_RESAusesMEDD
+C0871424,C0024861,USES,statistical analysis,Masks,resa,medd,1,USES_RESAusesMEDD
+C0871424,C0181839,USES,statistical analysis,Microscopes,resa,medd,1,USES_RESAusesMEDD
+C0871424,C0182400,USES,statistical analysis,Probes,resa,medd,1,USES_RESAusesMEDD
+C0871738,C0810635,USES,experimental method,spinal cord stimulators,resa,medd,1,USES_RESAusesMEDD
+C0872303,C0025973,USES,voltage clamp,Microelectrodes,resa,medd,2,USES_RESAusesMEDD
+C0920317,C0009653,USES,Meta Analysis (statistical procedure),"Condoms, Male",resa,medd,1,USES_RESAusesMEDD
+C0920317,C0013194,USES,Meta Analysis (statistical procedure),Drug Packaging,resa,medd,2,USES_RESAusesMEDD
+C0920317,C0181064,USES,Meta Analysis (statistical procedure),Gown,resa,medd,1,USES_RESAusesMEDD
+C0920472,C0013194,USES,Drug Discovery,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C0920472,C0085104,USES,Drug Discovery,Drug Delivery Systems,resa,medd,1,USES_RESAusesMEDD
+C0920472,C0182400,USES,Drug Discovery,Probes,resa,medd,1,USES_RESAusesMEDD
+C1328902,C0182400,USES,human DNA sequencing,Probes,resa,medd,1,USES_RESAusesMEDD
+C1514983,C0027524,USES,Stratification,Nebulizers,resa,medd,1,USES_RESAusesMEDD
+C1514983,C0183956,USES,Stratification,tissue markers,resa,medd,1,USES_RESAusesMEDD
+C1515095,C0184047,USES,Surveillance Program,Trap medical device,resa,medd,1,USES_RESAusesMEDD
+C1515653,C0728990,USES,In Vitro Assay,Clinical Use Template,resa,medd,2,USES_RESAusesMEDD
+C1515653,C1139930,USES,In Vitro Assay,Device Plate,resa,medd,1,USES_RESAusesMEDD
+C1515653,C3495449,USES,In Vitro Assay,Mobility aid,resa,medd,1,USES_RESAusesMEDD
+C1515654,C0178987,USES,In Vitro Model,Artificial Airways,resa,medd,1,USES_RESAusesMEDD
+C1515654,C1706912,USES,In Vitro Model,BARRIER,resa,medd,5,USES_RESAusesMEDD
+C1515657,C0021102,USES,In Vivo Model,Implants,resa,medd,1,USES_RESAusesMEDD
+C1516769,C0337184,USES,Computational Technique,Physical restraint equipment (device),resa,medd,2,USES_RESAusesMEDD
+C1518101,C0179038,USES,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,"Analyzer, device",resa,medd,1,USES_RESAusesMEDD
+C1518527,C0348000,USES,Observational Study,Instrument - device,resa,medd,1,USES_RESAusesMEDD
+C1518613,C0178959,USES,Organism Modification,ADAPTER,resa,medd,1,USES_RESAusesMEDD
+C1519042,C0183086,USES,Phase II/III Trial,sanitizers,resa,medd,1,USES_RESAusesMEDD
+C1519068,C0013194,USES,Phylogenetic Analysis,Drug Packaging,resa,medd,2,USES_RESAusesMEDD
+C1519068,C0179038,USES,Phylogenetic Analysis,"Analyzer, device",resa,medd,2,USES_RESAusesMEDD
+C1519068,C0728990,USES,Phylogenetic Analysis,Clinical Use Template,resa,medd,1,USES_RESAusesMEDD
+C1519889,C0728990,USES,Vaccine Design,Clinical Use Template,resa,medd,1,USES_RESAusesMEDD
+C1519941,C0013194,USES,Validation,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C1519941,C0085104,USES,Validation,Drug Delivery Systems,resa,medd,5,USES_RESAusesMEDD
+C1519941,C0179038,USES,Validation,"Analyzer, device",resa,medd,1,USES_RESAusesMEDD
+C1519941,C0179177,USES,Validation,Autoclave,resa,medd,1,USES_RESAusesMEDD
+C1519941,C0179302,USES,Validation,"Binder, device",resa,medd,2,USES_RESAusesMEDD
+C1519941,C0182400,USES,Validation,Probes,resa,medd,3,USES_RESAusesMEDD
+C1519941,C0183309,USES,Validation,Simulators,resa,medd,1,USES_RESAusesMEDD
+C1657306,C0182400,USES,Reverse Genetics,Probes,resa,medd,1,USES_RESAusesMEDD
+C1707433,C0175723,USES,Collision-Induced Dissociation,Bands,resa,medd,1,USES_RESAusesMEDD
+C1707887,C0009653,USES,Efficacy Study,"Condoms, Male",resa,medd,1,USES_RESAusesMEDD
+C1708949,C0013194,USES,Maximum Likelihood Estimation,Drug Packaging,resa,medd,1,USES_RESAusesMEDD
+C1881045,C0013194,USES,Hierarchical Clustering,Drug Packaging,resa,medd,3,USES_RESAusesMEDD
+C1881045,C0180063,USES,Hierarchical Clustering,compressor,resa,medd,1,USES_RESAusesMEDD
+C1881959,C0182400,USES,Nanofabrication,Probes,resa,medd,1,USES_RESAusesMEDD
+C1881959,C0728990,USES,Nanofabrication,Clinical Use Template,resa,medd,1,USES_RESAusesMEDD
+C1881963,C0182400,USES,Nanolithography,Probes,resa,medd,1,USES_RESAusesMEDD
+C1882115,C0005971,USES,Normalize,Bone plates,resa,medd,1,USES_RESAusesMEDD
+C1882115,C0013194,USES,Normalize,Drug Packaging,resa,medd,2,USES_RESAusesMEDD
+C1882115,C0182400,USES,Normalize,Probes,resa,medd,1,USES_RESAusesMEDD
+C1882115,C0348000,USES,Normalize,Instrument - device,resa,medd,1,USES_RESAusesMEDD
+C2348822,C0183396,USES,Tryptic Digestion,Mass Spectrometers (device),resa,medd,3,USES_RESAusesMEDD
+C2603343,C0007439,USES,Study,Indwelling Catheter,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0009653,USES,Study,"Condoms, Male",resa,medd,13,USES_RESAusesMEDD
+C2603343,C0013194,USES,Study,Drug Packaging,resa,medd,10,USES_RESAusesMEDD
+C2603343,C0013812,USES,Study,electrode,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0021102,USES,Study,Implants,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0021461,USES,Study,Inhaler,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0024861,USES,Study,Masks,resa,medd,9,USES_RESAusesMEDD
+C2603343,C0025256,USES,Study,"Membranes, Artificial",resa,medd,2,USES_RESAusesMEDD
+C2603343,C0026032,USES,Study,Microspheres,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0027524,USES,Study,Nebulizers,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0027551,USES,Study,Needle device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0039142,USES,Study,Syringes,resa,medd,3,USES_RESAusesMEDD
+C2603343,C0040661,USES,Study,Transducers,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0042497,USES,Study,Mechanical Ventilator,resa,medd,7,USES_RESAusesMEDD
+C2603343,C0043016,USES,Study,Walkers,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0085104,USES,Study,Drug Delivery Systems,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0150789,USES,Study,Patient Holding Stretchers,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0178987,USES,Study,Artificial Airways,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0179448,USES,Study,"Cytology brush, device",resa,medd,1,USES_RESAusesMEDD
+C2603343,C0179533,USES,Study,"Camera, device",resa,medd,1,USES_RESAusesMEDD
+C2603343,C0179630,USES,Study,Cartridge device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0180112,USES,Study,Controllers,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0181168,USES,Study,HEMOCYTOMETER,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0181620,USES,Study,Hoist device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0181758,USES,Study,Surgical face mask,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0181839,USES,Study,Microscopes,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0182400,USES,Study,Probes,resa,medd,21,USES_RESAusesMEDD
+C2603343,C0182537,USES,Study,pump (device),resa,medd,2,USES_RESAusesMEDD
+C2603343,C0182634,USES,Study,radiometers,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0183309,USES,Study,Simulators,resa,medd,4,USES_RESAusesMEDD
+C2603343,C0183396,USES,Study,Mass Spectrometers (device),resa,medd,1,USES_RESAusesMEDD
+C2603343,C0183644,USES,Study,Wheeled Stretchers,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0183969,USES,Study,Tonometer,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0184047,USES,Study,Trap medical device,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0184301,USES,Study,Vial device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0348000,USES,Study,Instrument - device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0376432,USES,Study,Bioreactors,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0441088,USES,Study,Gene probe,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0444240,USES,Study,Crosby capsule,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0450240,USES,Study,Cassette (physical object),resa,medd,1,USES_RESAusesMEDD
+C2603343,C0457169,USES,Study,Respiratory equipment,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0491921,USES,Study,IMPACTOR,resa,medd,2,USES_RESAusesMEDD
+C2603343,C0492226,USES,Study,"SCANNER, FLUORESCENT",resa,medd,1,USES_RESAusesMEDD
+C2603343,C0497878,USES,Study,Mouth piece,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0677048,USES,Study,Manual Cytometers,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0702122,USES,Study,Intra-aortic balloon pump device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0725865,USES,Study,disposable,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0728990,USES,Study,Clinical Use Template,resa,medd,3,USES_RESAusesMEDD
+C2603343,C0750164,USES,Study,venous access,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0777169,USES,Study,Lancet,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0878992,USES,Study,Cooling Units,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0879140,USES,Study,Towelettes,resa,medd,1,USES_RESAusesMEDD
+C2603343,C0879240,USES,Study,Nasal Swabs,resa,medd,4,USES_RESAusesMEDD
+C2603343,C1135964,USES,Study,Earplugs,resa,medd,1,USES_RESAusesMEDD
+C2603343,C1139930,USES,Study,Device Plate,resa,medd,1,USES_RESAusesMEDD
+C2603343,C1260969,USES,Study,Ring device,resa,medd,1,USES_RESAusesMEDD
+C2603343,C1272835,USES,Study,Test kit,resa,medd,2,USES_RESAusesMEDD
+C2603343,C1273294,USES,Study,Silver catheter,resa,medd,2,USES_RESAusesMEDD
+C2603343,C1304654,USES,Study,Thermistors,resa,medd,2,USES_RESAusesMEDD
+C2603343,C1314650,USES,Study,"SUPPLY, NOT OTHERWISE SPECIFIED",resa,medd,2,USES_RESAusesMEDD
+C2603343,C1608928,USES,Study,Refractometer,resa,medd,1,USES_RESAusesMEDD
+C2603343,C3873850,USES,Study,Glucose monitoring system,resa,medd,1,USES_RESAusesMEDD
+C2827447,C0178959,USES,Genetic Study,ADAPTER,resa,medd,1,USES_RESAusesMEDD
+C2936295,C0182400,USES,Click Chemistry,Probes,resa,medd,1,USES_RESAusesMEDD
+C2936544,C0175723,USES,Multilocus Sequence Typing,Bands,resa,medd,1,USES_RESAusesMEDD
+C2983594,C0184108,USES,Cervical Dislocation,"TUBE, COLLECTION, CAPILLARY BLOOD",resa,medd,1,USES_RESAusesMEDD
+C2985643,C0178987,USES,Performed Procedure,Artificial Airways,resa,medd,1,USES_RESAusesMEDD
+C2986858,C1139930,USES,Colorimetric Cell Viability Assay,Device Plate,resa,medd,1,USES_RESAusesMEDD
+C4505280,C0040661,USES,Proof of Concept Study,Transducers,resa,medd,1,USES_RESAusesMEDD
+C4505280,C1139930,USES,Proof of Concept Study,Device Plate,resa,medd,1,USES_RESAusesMEDD
+C4522273,C0179834,USES,Particle Size Distribution,Centrifuges (device),resa,medd,1,USES_RESAusesMEDD
+C4522273,C0221872,USES,Particle Size Distribution,Sizer,resa,medd,1,USES_RESAusesMEDD
+C4522273,C0348000,USES,Particle Size Distribution,Instrument - device,resa,medd,1,USES_RESAusesMEDD

@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005516,C0015230,INTERACTS_WITH,Biological Markers,Exanthema,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C0023380,INTERACTS_WITH,Biological Markers,Lethargy,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C0349410,INTERACTS_WITH,Biological Markers,Single organ dysfunction,clna,sosy,3,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C1517205,INTERACTS_WITH,Biological Markers,Flare,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0018810,C0231239,INTERACTS_WITH,heart rate,Fluctuation,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0026687,C0010200,INTERACTS_WITH,Mucociliary Clearance,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0010200,INTERACTS_WITH,Precipitating Factors,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0036572,INTERACTS_WITH,Precipitating Factors,Seizures,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0231218,INTERACTS_WITH,Precipitating Factors,Malaise,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0574785,INTERACTS_WITH,Precipitating Factors,Lower Urinary Tract Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0011991,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0851473,C0036572,INTERACTS_WITH,temperature conditions,Seizures,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C1514593,C0086132,INTERACTS_WITH,Psychological Impact,Depressive Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C1980023,C0010200,INTERACTS_WITH,Wall motion,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2713234,C0030193,INTERACTS_WITH,Mood:-:Point in time:^Patient:-,Pain,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2741673,C0010200,INTERACTS_WITH,Account number:Identifier:Point in time:^Patient:Nominal,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2741673,C0011991,INTERACTS_WITH,Account number:Identifier:Point in time:^Patient:Nominal,Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0011991,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0015967,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Fever,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0037088,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Signs and Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0086132,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Depressive Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0235169,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Excitability,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0349410,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Single organ dysfunction,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0518214,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Perceived quality of life,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2979880,C0015967,INTERACTS_WITH,Subjective:Finding:Point in time:^Patient:Narrative,Fever,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2979880,C3714552,INTERACTS_WITH,Subjective:Finding:Point in time:^Patient:Narrative,Weakness,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3173575,C0010200,INTERACTS_WITH,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3830527,C0039070,INTERACTS_WITH,Detectable,Syncope,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY

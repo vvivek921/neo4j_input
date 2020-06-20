@@ -1,0 +1,87 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001758,C0220825,ISA,Aftercare,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0009586,C0220825,ISA,Comprehensive Health Care,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0009861,C0010210,ISA,Family Planning,Counseling,hlca,hlca,1,ISA_HLCAisaHLCA
+C0013961,C0018747,ISA,Emergency medical service,Health Services,hlca,hlca,2,ISA_HLCAisaHLCA
+C0013961,C0220825,ISA,Emergency medical service,Evaluation,hlca,hlca,2,ISA_HLCAisaHLCA
+C0015187,C0220825,ISA,Euthanasia,Evaluation,hlca,hlca,2,ISA_HLCAisaHLCA
+C0018738,C1261322,ISA,Health Promotion,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019855,C0018747,ISA,Home Care Services,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019993,C0018747,ISA,Hospitalization,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019993,C0021629,ISA,Hospitalization,Institutionalization,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019993,C0184643,ISA,Hospitalization,Mental health care,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019993,C0220825,ISA,Hospitalization,Evaluation,hlca,hlca,2,ISA_HLCAisaHLCA
+C0019993,C0940824,ISA,Hospitalization,Additional procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019993,C1261322,ISA,Hospitalization,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0020042,C0010210,ISA,Hotlines,Counseling,hlca,hlca,4,ISA_HLCAisaHLCA
+C0021711,C0085559,ISA,Neonatal Intensive Care,intensive care,hlca,hlca,1,ISA_HLCAisaHLCA
+C0021711,C1261322,ISA,Neonatal Intensive Care,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C0023977,C0034379,ISA,long-term care,Quality of Health Care,hlca,hlca,1,ISA_HLCAisaHLCA
+C0023977,C0220825,ISA,long-term care,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0030494,C1261322,ISA,Parasite Control,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0030672,C0018747,ISA,Patient Acceptance of Health Care,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0030672,C0220825,ISA,Patient Acceptance of Health Care,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0030685,C1261322,ISA,Patient Discharge,Evaluation procedure,hlca,hlca,7,ISA_HLCAisaHLCA
+C0030695,C1261322,ISA,Patient Monitoring,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0030768,C0220825,ISA,Peer Review,Evaluation,hlca,hlca,2,ISA_HLCAisaHLCA
+C0031809,C0199182,ISA,Physical Examination,History taking,hlca,hlca,4,ISA_HLCAisaHLCA
+C0031809,C0220825,ISA,Physical Examination,Evaluation,hlca,hlca,4,ISA_HLCAisaHLCA
+C0031809,C0582103,ISA,Physical Examination,Medical Examination,hlca,hlca,3,ISA_HLCAisaHLCA
+C0031809,C1261322,ISA,Physical Examination,Evaluation procedure,hlca,hlca,5,ISA_HLCAisaHLCA
+C0033021,C0013961,ISA,Prehospital Emergency Care,Emergency medical service,hlca,hlca,1,ISA_HLCAisaHLCA
+C0033080,C0031321,ISA,Prescription procedure,Pharmaceutical Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0033101,C0220825,ISA,pretesting,Evaluation,hlca,hlca,2,ISA_HLCAisaHLCA
+C0033101,C1261322,ISA,pretesting,Evaluation procedure,hlca,hlca,5,ISA_HLCAisaHLCA
+C0033137,C0017313,ISA,Primary Health Care,patient care,hlca,hlca,1,ISA_HLCAisaHLCA
+C0034024,C0220825,ISA,Public Health Practice,Evaluation,hlca,hlca,3,ISA_HLCAisaHLCA
+C0035649,C0220825,ISA,Risk Management,Evaluation,hlca,hlca,3,ISA_HLCAisaHLCA
+C0035649,C1261322,ISA,Risk Management,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C0039423,C0220825,ISA,"Technology Assessment, Biomedical",Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0043113,C1261322,ISA,Wellness Programs,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0085204,C0085557,ISA,Universal Precautions,Infectious disease prevention / control,hlca,hlca,2,ISA_HLCAisaHLCA
+C0085557,C0017313,ISA,Infectious disease prevention / control,patient care,hlca,hlca,2,ISA_HLCAisaHLCA
+C0085557,C0220825,ISA,Infectious disease prevention / control,Evaluation,hlca,hlca,2,ISA_HLCAisaHLCA
+C0085559,C0010337,ISA,intensive care,Care of intensive care unit patient,hlca,hlca,5,ISA_HLCAisaHLCA
+C0085566,C0220825,ISA,Process Assessment (Health Care),Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0086583,C0220825,ISA,Managed Care,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0086930,C0035649,ISA,Risk Assessment,Risk Management,hlca,hlca,5,ISA_HLCAisaHLCA
+C0086930,C0220825,ISA,Risk Assessment,Evaluation,hlca,hlca,5,ISA_HLCAisaHLCA
+C0086930,C1261322,ISA,Risk Assessment,Evaluation procedure,hlca,hlca,5,ISA_HLCAisaHLCA
+C0162648,C0011211,ISA,Telemedicine,Delivery of Health Care,hlca,hlca,2,ISA_HLCAisaHLCA
+C0162648,C0018747,ISA,Telemedicine,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0162648,C0220825,ISA,Telemedicine,Evaluation,hlca,hlca,7,ISA_HLCAisaHLCA
+C0162648,C1261322,ISA,Telemedicine,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C0175637,C1261322,ISA,Health evaluation,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0184640,C0018747,ISA,Maintaining a safe environment,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0184666,C0018747,ISA,Hospital admission,Health Services,hlca,hlca,2,ISA_HLCAisaHLCA
+C0184666,C0019993,ISA,Hospital admission,Hospitalization,hlca,hlca,18,ISA_HLCAisaHLCA
+C0184666,C0220825,ISA,Hospital admission,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0189477,C0034115,ISA,Thoracentesis,Paracentesis,hlca,hlca,2,ISA_HLCAisaHLCA
+C0204695,C0220825,ISA,Feeding patient,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0206082,C0033109,ISA,Immunization Programs,Preventive Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0220908,C0220825,ISA,Screening procedure,Evaluation,hlca,hlca,18,ISA_HLCAisaHLCA
+C0220908,C1261322,ISA,Screening procedure,Evaluation procedure,hlca,hlca,5,ISA_HLCAisaHLCA
+C0282600,C0018747,ISA,"Delivery of Health Care, Integrated",Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0513836,C1261322,ISA,Weight monitoring,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0557980,C0220825,ISA,Evaluating interventions,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0581122,C0220825,ISA,Asthma severity,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0582103,C0940824,ISA,Medical Examination,Additional procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0582103,C1261322,ISA,Medical Examination,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C0583237,C0019993,ISA,Emergency room admission,Hospitalization,hlca,hlca,1,ISA_HLCAisaHLCA
+C0597720,C0220825,ISA,interdisciplinary collaboration,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0600015,C0010210,ISA,Emotional support,Counseling,hlca,hlca,1,ISA_HLCAisaHLCA
+C0600290,C0030700,ISA,Hospital Readmissions,Patient Readmission,hlca,hlca,1,ISA_HLCAisaHLCA
+C0683509,C0220825,ISA,disease detection,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C0699943,C0018747,ISA,Public health service,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0872283,C0162648,ISA,Telenursing,Telemedicine,hlca,hlca,1,ISA_HLCAisaHLCA
+C0872369,C0162648,ISA,telecare,Telemedicine,hlca,hlca,1,ISA_HLCAisaHLCA
+C1283821,C0085557,ISA,Barrier nursing,Infectious disease prevention / control,hlca,hlca,1,ISA_HLCAisaHLCA
+C1319069,C1261322,ISA,Point-of-Care Testing,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C1444562,C0220825,ISA,Wellness surveillance,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA
+C1517942,C1522577,ISA,Long-term Follow-up,follow-up,hlca,hlca,1,ISA_HLCAisaHLCA
+C1522577,C0220825,ISA,follow-up,Evaluation,hlca,hlca,53,ISA_HLCAisaHLCA
+C1533162,C0018747,ISA,maternal care,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C3494318,C0034024,ISA,Public Health Surveillance,Public Health Practice,hlca,hlca,1,ISA_HLCAisaHLCA
+C3494318,C0220825,ISA,Public Health Surveillance,Evaluation,hlca,hlca,7,ISA_HLCAisaHLCA
+C3650404,C0019993,ISA,Admission unit,Hospitalization,hlca,hlca,2,ISA_HLCAisaHLCA
+C3658272,C0220825,ISA,Hazard Analysis and Critical Control Points,Evaluation,hlca,hlca,1,ISA_HLCAisaHLCA

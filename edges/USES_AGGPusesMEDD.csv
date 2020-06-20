@@ -1,0 +1,58 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001675,C0021461,USES,Adult,Inhaler,aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C0027524,USES,Adult,Nebulizers,aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C0042497,USES,Adult,Mechanical Ventilator,aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C0175735,USES,Adult,Scissors (device),aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C0179063,USES,Adult,Anesthesia ventilator,aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C0183479,USES,Adult,Spreader,aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C0879240,USES,Adult,Nasal Swabs,aggp,medd,1,USES_AGGPusesMEDD
+C0001675,C3875892,USES,Adult,Anemometer,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0009199,USES,Child,Cochlear Implants,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0009653,USES,Child,"Condoms, Male",aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0010397,USES,Child,Crutches,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0021455,USES,Child,Inhalation Devices,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0021461,USES,Child,Inhaler,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0024861,USES,Child,Masks,aggp,medd,6,USES_AGGPusesMEDD
+C0008059,C0027524,USES,Child,Nebulizers,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0042497,USES,Child,Mechanical Ventilator,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0085678,USES,Child,Nasogastric tube,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0175722,USES,Child,Clip,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0175730,USES,Child,biomedical tube device,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0178987,USES,Child,Artificial Airways,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0179802,USES,Child,Urinary catheter,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0179986,USES,Child,"CLIP, NOSE",aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0180153,USES,Child,Covers (device),aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0181869,USES,Child,Dental mirror,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0182123,USES,Child,Oxygen concentrator (device),aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0182256,USES,Child,Light meter,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0182400,USES,Child,Probes,aggp,medd,2,USES_AGGPusesMEDD
+C0008059,C0184106,USES,Child,breathing tubes,aggp,medd,6,USES_AGGPusesMEDD
+C0008059,C0184147,USES,Child,Myringotomy tubes (device),aggp,medd,3,USES_AGGPusesMEDD
+C0008059,C0221874,USES,Child,spacer device,aggp,medd,2,USES_AGGPusesMEDD
+C0008059,C0336630,USES,Child,Endotracheal tube,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0445087,USES,Child,Nasal prongs,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0492229,USES,Child,PNEUMOTACHOMETER,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0687607,USES,Child,"Thermometers, Electronic, Infrared, Ear",aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0810635,USES,Child,spinal cord stimulators,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0879240,USES,Child,Nasal Swabs,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0879241,USES,Child,Pharyngeal Swabs,aggp,medd,1,USES_AGGPusesMEDD
+C0008059,C0993596,USES,Child,Metered Dose Inhaler,aggp,medd,2,USES_AGGPusesMEDD
+C0008059,C1145640,USES,Child,"Central venous catheter, device",aggp,medd,2,USES_AGGPusesMEDD
+C0008059,C1706912,USES,Child,BARRIER,aggp,medd,2,USES_AGGPusesMEDD
+C0008059,C3495449,USES,Child,Mobility aid,aggp,medd,2,USES_AGGPusesMEDD
+C0008059,C3694424,USES,Child,Indwelling Device,aggp,medd,1,USES_AGGPusesMEDD
+C0021270,C0042497,USES,Infant,Mechanical Ventilator,aggp,medd,1,USES_AGGPusesMEDD
+C0021270,C0085590,USES,Infant,catheter device,aggp,medd,2,USES_AGGPusesMEDD
+C0021270,C0179245,USES,Infant,water baths,aggp,medd,1,USES_AGGPusesMEDD
+C0021270,C0438916,USES,Infant,Attendant powered wheelchair,aggp,medd,1,USES_AGGPusesMEDD
+C0021270,C0581447,USES,Infant,Arterial catheter,aggp,medd,1,USES_AGGPusesMEDD
+C0021270,C0879241,USES,Infant,Pharyngeal Swabs,aggp,medd,1,USES_AGGPusesMEDD
+C0021270,C1706912,USES,Infant,BARRIER,aggp,medd,2,USES_AGGPusesMEDD
+C0021270,C3204189,USES,Infant,Nasoduodenal Tube,aggp,medd,1,USES_AGGPusesMEDD
+C0021289,C0179740,USES,"Infant, Newborn",Peripherally inserted central catheter (physical object),aggp,medd,9,USES_AGGPusesMEDD
+C0021289,C0441134,USES,"Infant, Newborn",Vascular Catheters,aggp,medd,1,USES_AGGPusesMEDD
+C0021289,C0745442,USES,"Infant, Newborn",Intravenous Catheters,aggp,medd,1,USES_AGGPusesMEDD
+C0021289,C0993596,USES,"Infant, Newborn",Metered Dose Inhaler,aggp,medd,1,USES_AGGPusesMEDD
+C0021289,C1139730,USES,"Infant, Newborn",monitoring systems,aggp,medd,1,USES_AGGPusesMEDD
+C0205653,C0021461,USES,Adolescent (age group),Inhaler,aggp,medd,1,USES_AGGPusesMEDD
+C0870221,C0005971,USES,Boys,Bone plates,aggp,medd,1,USES_AGGPusesMEDD

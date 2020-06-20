@@ -1,0 +1,67 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010592,C0017710,INHIBITS,Cyclosporine,Glucocorticoids,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0014025,C0002006,INHIBITS,Enalapril,Aldosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0017890,C0045341,INHIBITS,Glycine,"2,3-bis(3'-hydroxybenzyl)butyrolactone",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021641,C0002845,INHIBITS,Insulin,"Androgens, Synthetic",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021665,C0002845,INHIBITS,Insulin-Like Growth Factor I,"Androgens, Synthetic",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021755,C0002844,INHIBITS,Interleukin-1,Androgens,aapp,horm,2,INHIBITS_AAPPinhbHORM
+C0021755,C0017710,INHIBITS,Interleukin-1,Glucocorticoids,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021755,C0039601,INHIBITS,Interleukin-1,Testosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021756,C0039601,INHIBITS,Interleukin-2,Testosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021760,C0011185,INHIBITS,Interleukin-6,prasterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021760,C0017710,INHIBITS,Interleukin-6,Glucocorticoids,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0021760,C0020268,INHIBITS,Interleukin-6,Hydrocortisone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0030016,C0301818,INHIBITS,Oxidoreductase,Steroid hormone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0031667,C0012472,INHIBITS,Phospholipases A2,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0033551,C0033554,INHIBITS,Prostaglandin-Endoperoxide Synthase,Prostaglandins,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0037663,C0002845,INHIBITS,Growth Hormone,"Androgens, Synthetic",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0040162,C0040135,INHIBITS,Thyrotropin-Releasing Hormone,Thyroid Hormones,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0040691,C0723595,INHIBITS,Transforming Growth Factors,Tace,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0042413,C0028351,INHIBITS,Vasopressins,Norepinephrine,aapp,horm,2,INHIBITS_AAPPinhbHORM
+C0044707,C0020268,INHIBITS,11-beta-Hydroxysteroid Dehydrogenases,Hydrocortisone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0051169,C0012472,INHIBITS,Alkane 1-monooxygenase,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0056360,C0010124,INHIBITS,corticostatin,Corticosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0057356,C0014563,INHIBITS,deltorphin,Epinephrine,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0057356,C0028351,INHIBITS,deltorphin,Norepinephrine,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0083220,C0039601,INHIBITS,deslorelin,Testosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0127082,C0012472,INHIBITS,Interstitial Collagenase,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0164371,C0012472,INHIBITS,Matrix Metalloproteinase 3,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0164786,C0008214,INHIBITS,Proto-Oncogene Proteins c-akt,Chlormadinone Acetate,aapp,horm,2,INHIBITS_AAPPinhbHORM
+C0165519,C0012472,INHIBITS,Matrix Metalloproteinase 9,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0166059,C0012472,INHIBITS,Matrix Metalloproteinase 7,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0172537,C0012472,INHIBITS,Matrix Metalloproteinase 2,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0210492,C0723595,INHIBITS,Tissue Inhibitor of Metalloproteinase-3,Tace,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0282554,C0012472,INHIBITS,chemokine,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0282554,C0033554,INHIBITS,chemokine,Prostaglandins,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0299583,C0002845,INHIBITS,leptin,"Androgens, Synthetic",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0387583,C0012472,INHIBITS,cyclooxygenase 2,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0389003,C0033554,INHIBITS,cyclooxygenase 1,Prostaglandins,aapp,horm,2,INHIBITS_AAPPinhbHORM
+C0475463,C0012472,INHIBITS,"Antibodies, Neutralizing",Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0525037,C0008214,INHIBITS,CDKN2A gene,Chlormadinone Acetate,aapp,horm,2,INHIBITS_AAPPinhbHORM
+C0535906,C0772289,INHIBITS,astressin,"corticotropin-releasing factor, human",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C0812445,C0012472,INHIBITS,CXCL1 gene,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1100642,C0012472,INHIBITS,"phospholipase A2, group X protein",Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1141639,C0039601,INHIBITS,Human Chorionic Gonadotropin,Testosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1268900,C0014939,INHIBITS,Gonadotropin-Releasing Hormone Analog,Estrogens,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1268900,C0039601,INHIBITS,Gonadotropin-Releasing Hormone Analog,Testosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1332685,C0012472,INHIBITS,CCL22 gene,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1332819,C0012472,INHIBITS,CXCL5 gene,Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1334081,C0008214,INHIBITS,IFNAR1 gene,Chlormadinone Acetate,aapp,horm,3,INHIBITS_AAPPinhbHORM
+C1414805,C0008214,INHIBITS,MTOR gene,Chlormadinone Acetate,aapp,horm,4,INHIBITS_AAPPinhbHORM
+C1419142,C0813203,INHIBITS,NECTIN1 gene,Desoxycorticosterone acetate,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1422064,C0010124,INHIBITS,ACE2 gene,Corticosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1448177,C0020268,INHIBITS,"TNF protein, human",Hydrocortisone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1533698,C0039601,INHIBITS,Nitric Oxide Synthase Type II,Testosterone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1539835,C0014939,INHIBITS,SPEN gene,Estrogens,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1565830,C0012472,INHIBITS,"PTGS1 protein, human",Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1565830,C0033554,INHIBITS,"PTGS1 protein, human",Prostaglandins,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1565860,C0012472,INHIBITS,"PTGS2 protein, human",Dinoprostone,aapp,horm,3,INHIBITS_AAPPinhbHORM
+C1565860,C0033554,INHIBITS,"PTGS2 protein, human",Prostaglandins,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1568204,C0014563,INHIBITS,"IFNAR1 protein, human",Epinephrine,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1825598,C0772289,INHIBITS,IMPACT gene,"corticotropin-releasing factor, human",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C1979844,C0008214,INHIBITS,Alpha 1,Chlormadinone Acetate,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C2744579,C0002845,INHIBITS,"ATP8A2 protein, human","Androgens, Synthetic",aapp,horm,1,INHIBITS_AAPPinhbHORM
+C2744579,C0012472,INHIBITS,"ATP8A2 protein, human",Dinoprostone,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C2936529,C0025219,INHIBITS,Inflammasomes,Melatonin,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C3538735,C0017710,INHIBITS,AMH wt Allele,Glucocorticoids,aapp,horm,1,INHIBITS_AAPPinhbHORM
+C3889630,C0017710,INHIBITS,"Pro-Opiomelanocortin, human",Glucocorticoids,aapp,horm,1,INHIBITS_AAPPinhbHORM

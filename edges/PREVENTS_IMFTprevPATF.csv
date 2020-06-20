@@ -1,0 +1,57 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0004366,PREVENTS,Immunologic Adjuvants,Autoimmune Response,imft,patf,1,PREVENTS_IMFTprevPATF
+C0001551,C0020522,PREVENTS,Immunologic Adjuvants,Delayed Hypersensitivity,imft,patf,1,PREVENTS_IMFTprevPATF
+C0001551,C0021368,PREVENTS,Immunologic Adjuvants,Inflammation,imft,patf,3,PREVENTS_IMFTprevPATF
+C0001551,C0162633,PREVENTS,Immunologic Adjuvants,Viral Shedding,imft,patf,1,PREVENTS_IMFTprevPATF
+C0001551,C0345468,PREVENTS,Immunologic Adjuvants,Transplanted organ rejection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0001551,C1155266,PREVENTS,Immunologic Adjuvants,inflammatory response,imft,patf,2,PREVENTS_IMFTprevPATF
+C0001551,C1817976,PREVENTS,Immunologic Adjuvants,hypersensitivity response,imft,patf,1,PREVENTS_IMFTprevPATF
+C0004886,C3714514,PREVENTS,BCG Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0005525,C0021368,PREVENTS,Biological Response Modifiers,Inflammation,imft,patf,3,PREVENTS_IMFTprevPATF
+C0005525,C3714514,PREVENTS,Biological Response Modifiers,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0018909,C3714514,PREVENTS,Hemagglutinin,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0021081,C0815080,PREVENTS,Immunosuppressive Agents,organ rejection,imft,patf,2,PREVENTS_IMFTprevPATF
+C0021081,C3714514,PREVENTS,Immunosuppressive Agents,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0021403,C0206228,PREVENTS,Influenza virus vaccine,"Infectious Disease Transmission, Professional-to-Patient",imft,patf,1,PREVENTS_IMFTprevPATF
+C0021403,C0281169,PREVENTS,Influenza virus vaccine,pulmonary complications,imft,patf,1,PREVENTS_IMFTprevPATF
+C0021403,C3714514,PREVENTS,Influenza virus vaccine,Infection,imft,patf,4,PREVENTS_IMFTprevPATF
+C0032375,C3714514,PREVENTS,Oral Poliovirus Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0010356,PREVENTS,Vaccines,Cross Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0016470,PREVENTS,Vaccines,Food Allergy,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0019080,PREVENTS,Vaccines,Hemorrhage,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042210,C0020517,PREVENTS,Vaccines,Hypersensitivity,imft,patf,3,PREVENTS_IMFTprevPATF
+C0042210,C0021359,PREVENTS,Vaccines,Infertility,imft,patf,5,PREVENTS_IMFTprevPATF
+C0042210,C0021368,PREVENTS,Vaccines,Inflammation,imft,patf,3,PREVENTS_IMFTprevPATF
+C0042210,C0162633,PREVENTS,Vaccines,Viral Shedding,imft,patf,10,PREVENTS_IMFTprevPATF
+C0042210,C0242656,PREVENTS,Vaccines,Disease Progression,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042210,C0242781,PREVENTS,Vaccines,disease transmission,imft,patf,6,PREVENTS_IMFTprevPATF
+C0042210,C0243083,PREVENTS,Vaccines,associated disease,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0333390,PREVENTS,Vaccines,Chronic eosinophilic inflammation,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042210,C0452115,PREVENTS,Vaccines,Infection following immunization,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0543419,PREVENTS,Vaccines,Sequela of disorder,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C1520005,PREVENTS,Vaccines,Viral Pathogenesis,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042210,C3714514,PREVENTS,Vaccines,Infection,imft,patf,79,PREVENTS_IMFTprevPATF
+C0042211,C0021368,PREVENTS,"Vaccines, Attenuated",Inflammation,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042211,C0162633,PREVENTS,"Vaccines, Attenuated",Viral Shedding,imft,patf,3,PREVENTS_IMFTprevPATF
+C0042211,C1520005,PREVENTS,"Vaccines, Attenuated",Viral Pathogenesis,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042211,C3714514,PREVENTS,"Vaccines, Attenuated",Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042212,C0162633,PREVENTS,"Vaccines, Inactivated",Viral Shedding,imft,patf,3,PREVENTS_IMFTprevPATF
+C0042212,C1155266,PREVENTS,"Vaccines, Inactivated",inflammatory response,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042212,C3714514,PREVENTS,"Vaccines, Inactivated",Infection,imft,patf,3,PREVENTS_IMFTprevPATF
+C0052063,C0333565,PREVENTS,antimacrophage globulin,Fibrin deposition,imft,patf,1,PREVENTS_IMFTprevPATF
+C0086413,C3714514,PREVENTS,HIV Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0206253,C3714514,PREVENTS,"Vaccines, Combined",Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0305065,C3714514,PREVENTS,Polyvalent pneumococcal vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0376613,C0242656,PREVENTS,"Vaccines, DNA",Disease Progression,imft,patf,1,PREVENTS_IMFTprevPATF
+C0376613,C3714514,PREVENTS,"Vaccines, DNA",Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0770694,C3714514,PREVENTS,trivalent influenza vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0887892,C0162633,PREVENTS,"Vaccines, Subunit",Viral Shedding,imft,patf,1,PREVENTS_IMFTprevPATF
+C0979582,C3714514,PREVENTS,Pneumococcal 7-valent conjugate vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C1456404,C0162633,PREVENTS,Trivalent Live Attenuated Influenza Vaccine,Viral Shedding,imft,patf,1,PREVENTS_IMFTprevPATF
+C1519904,C3714514,PREVENTS,Vaccinia Vaccine,Infection,imft,patf,2,PREVENTS_IMFTprevPATF
+C2825347,C0001511,PREVENTS,"Immunoglobulin A, Human",Tissue Adhesions,imft,patf,1,PREVENTS_IMFTprevPATF
+C2825347,C0020517,PREVENTS,"Immunoglobulin A, Human",Hypersensitivity,imft,patf,1,PREVENTS_IMFTprevPATF
+C2825347,C0021368,PREVENTS,"Immunoglobulin A, Human",Inflammation,imft,patf,1,PREVENTS_IMFTprevPATF
+C2825347,C3714514,PREVENTS,"Immunoglobulin A, Human",Infection,imft,patf,2,PREVENTS_IMFTprevPATF
+C3653372,C0021368,PREVENTS,Selective immunosuppressants,Inflammation,imft,patf,1,PREVENTS_IMFTprevPATF
+C4505396,C3714514,PREVENTS,High-Dose Trivalent Influenza Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF

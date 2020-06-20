@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003308,C0003232,ISA,Antifungal Agents,Antibiotics,phsu,antb,2,ISA_PHSUisaANTB
+C0003374,C0003232,ISA,Antimalarials,Antibiotics,phsu,antb,2,ISA_PHSUisaANTB
+C0022022,C0003232,ISA,Ionophores,Antibiotics,phsu,antb,5,ISA_PHSUisaANTB
+C0041044,C0003232,ISA,Trimethoprim-Sulfamethoxazole Combination,Antibiotics,phsu,antb,15,ISA_PHSUisaANTB
+C0041044,C0038689,ISA,Trimethoprim-Sulfamethoxazole Combination,Sulfamethoxazole,phsu,antb,6,ISA_PHSUisaANTB
+C0041044,C0041041,ISA,Trimethoprim-Sulfamethoxazole Combination,Trimethoprim,phsu,antb,1,ISA_PHSUisaANTB
+C0041044,C0279516,ISA,Trimethoprim-Sulfamethoxazole Combination,Anti-Bacterial Agents,phsu,antb,1,ISA_PHSUisaANTB
+C0054066,C0002645,ISA,Amoxicillin / Clavulanate,Amoxicillin,phsu,antb,4,ISA_PHSUisaANTB
+C0054066,C0002680,ISA,Amoxicillin / Clavulanate,Ampicillin,phsu,antb,1,ISA_PHSUisaANTB
+C0054066,C0003232,ISA,Amoxicillin / Clavulanate,Antibiotics,phsu,antb,20,ISA_PHSUisaANTB
+C0054066,C0026458,ISA,Amoxicillin / Clavulanate,Monobactams,phsu,antb,1,ISA_PHSUisaANTB
+C0054066,C0030842,ISA,Amoxicillin / Clavulanate,Penicillins,phsu,antb,1,ISA_PHSUisaANTB
+C0054066,C0279516,ISA,Amoxicillin / Clavulanate,Anti-Bacterial Agents,phsu,antb,1,ISA_PHSUisaANTB
+C0054066,C0282215,ISA,Amoxicillin / Clavulanate,beta-Lactams,phsu,antb,1,ISA_PHSUisaANTB
+C0055337,C0008168,ISA,chloramphenicol palmitate,Chloramphenicol,phsu,antb,1,ISA_PHSUisaANTB
+C0071972,C0006968,ISA,Cilastatin / Imipenem,Carbapenems,phsu,antb,2,ISA_PHSUisaANTB
+C0071972,C0279516,ISA,Cilastatin / Imipenem,Anti-Bacterial Agents,phsu,antb,1,ISA_PHSUisaANTB
+C0165161,C0003232,ISA,sulperazone,Antibiotics,phsu,antb,1,ISA_PHSUisaANTB
+C0250480,C0003232,ISA,piperacillin-tazobactam combination,Antibiotics,phsu,antb,8,ISA_PHSUisaANTB
+C0250480,C0022914,ISA,piperacillin-tazobactam combination,Lactams,phsu,antb,2,ISA_PHSUisaANTB
+C0250480,C0026458,ISA,piperacillin-tazobactam combination,Monobactams,phsu,antb,4,ISA_PHSUisaANTB
+C0250480,C0030842,ISA,piperacillin-tazobactam combination,Penicillins,phsu,antb,1,ISA_PHSUisaANTB
+C0250480,C0031955,ISA,piperacillin-tazobactam combination,Piperacillin,phsu,antb,3,ISA_PHSUisaANTB
+C0250480,C0282215,ISA,piperacillin-tazobactam combination,beta-Lactams,phsu,antb,2,ISA_PHSUisaANTB
+C0280048,C0003232,ISA,cephalosporin agent,Antibiotics,phsu,antb,1,ISA_PHSUisaANTB
+C0526513,C0003232,ISA,dalfopristin / quinupristin,Antibiotics,phsu,antb,2,ISA_PHSUisaANTB
+C0591547,C0003232,ISA,Fucidin,Antibiotics,phsu,antb,1,ISA_PHSUisaANTB
+C0733530,C0030896,ISA,Co-Vidarabine,Pentostatin,phsu,antb,1,ISA_PHSUisaANTB
+C1602443,C0076681,ISA,Micotil,tilmicosin,phsu,antb,1,ISA_PHSUisaANTB

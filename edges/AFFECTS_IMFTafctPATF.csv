@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0020517,AFFECTS,Immunologic Adjuvants,Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C0001551,C1155266,AFFECTS,Immunologic Adjuvants,inflammatory response,imft,patf,1,AFFECTS_IMFTafctPATF
+C0002092,C0011071,AFFECTS,Allergens,Sudden death,imft,patf,1,AFFECTS_IMFTafctPATF
+C0002092,C0020517,AFFECTS,Allergens,Hypersensitivity,imft,patf,3,AFFECTS_IMFTafctPATF
+C0002092,C0020963,AFFECTS,Allergens,Immune Tolerance,imft,patf,1,AFFECTS_IMFTafctPATF
+C0002092,C0021375,AFFECTS,Allergens,allergic inflammation,imft,patf,1,AFFECTS_IMFTafctPATF
+C0002092,C0392707,AFFECTS,Allergens,Atopy,imft,patf,2,AFFECTS_IMFTafctPATF
+C0002092,C0700148,AFFECTS,Allergens,Congestion,imft,patf,1,AFFECTS_IMFTafctPATF
+C0002092,C1527304,AFFECTS,Allergens,Allergic Reaction,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003316,C0020517,AFFECTS,Epitopes,Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003316,C0021368,AFFECTS,Epitopes,Inflammation,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003316,C0242656,AFFECTS,Epitopes,Disease Progression,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003316,C0334094,AFFECTS,Epitopes,Proliferation (morphologic abnormality),imft,patf,1,AFFECTS_IMFTafctPATF
+C0003316,C1155266,AFFECTS,Epitopes,inflammatory response,imft,patf,2,AFFECTS_IMFTafctPATF
+C0003320,C0011304,AFFECTS,Antigens,Demyelination,imft,patf,2,AFFECTS_IMFTafctPATF
+C0003320,C0020517,AFFECTS,Antigens,Hypersensitivity,imft,patf,10,AFFECTS_IMFTafctPATF
+C0003320,C0021368,AFFECTS,Antigens,Inflammation,imft,patf,2,AFFECTS_IMFTafctPATF
+C0003320,C0392707,AFFECTS,Antigens,Atopy,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003320,C1527304,AFFECTS,Antigens,Allergic Reaction,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003320,C3714514,AFFECTS,Antigens,Infection,imft,patf,2,AFFECTS_IMFTafctPATF
+C0003339,C0745283,AFFECTS,Surface Antigens,INFECTIOUS PROCESS,imft,patf,1,AFFECTS_IMFTafctPATF
+C0003342,C0020517,AFFECTS,"Antigens, Viral",Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C0004359,C0004366,AFFECTS,Autoantigens,Autoimmune Response,imft,patf,1,AFFECTS_IMFTafctPATF
+C0004359,C0021368,AFFECTS,Autoantigens,Inflammation,imft,patf,1,AFFECTS_IMFTafctPATF
+C0004359,C1155266,AFFECTS,Autoantigens,inflammatory response,imft,patf,1,AFFECTS_IMFTafctPATF
+C0021054,C0021368,AFFECTS,Immunologic Factors,Inflammation,imft,patf,1,AFFECTS_IMFTafctPATF
+C0021081,C1373218,AFFECTS,Immunosuppressive Agents,Decreased Immunologic Activity [PE],imft,patf,1,AFFECTS_IMFTafctPATF
+C0021403,C3714514,AFFECTS,Influenza virus vaccine,Infection,imft,patf,1,AFFECTS_IMFTafctPATF
+C0032172,C0015376,AFFECTS,Platelet Activating Factor,Extravasation,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C0000786,AFFECTS,Vaccines,Spontaneous abortion,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C0020517,AFFECTS,Vaccines,Hypersensitivity,imft,patf,3,AFFECTS_IMFTafctPATF
+C0042210,C0021368,AFFECTS,Vaccines,Inflammation,imft,patf,2,AFFECTS_IMFTafctPATF
+C0042210,C0028778,AFFECTS,Vaccines,Obstruction,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C0151763,AFFECTS,Vaccines,Liver damage,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C0242656,AFFECTS,Vaccines,Disease Progression,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C0543419,AFFECTS,Vaccines,Sequela of disorder,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C1520005,AFFECTS,Vaccines,Viral Pathogenesis,imft,patf,1,AFFECTS_IMFTafctPATF
+C0042210,C3714514,AFFECTS,Vaccines,Infection,imft,patf,1,AFFECTS_IMFTafctPATF
+C0066992,C0020517,AFFECTS,myasthenia gravis anti-skeletal muscle antibody,Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C0301838,C0242648,AFFECTS,Soluble antigen,Vertical Disease Transmission,imft,patf,1,AFFECTS_IMFTafctPATF
+C0312555,C0684320,AFFECTS,Neoantigen,Disease regression,imft,patf,1,AFFECTS_IMFTafctPATF
+C0598658,C0020517,AFFECTS,antibody conjugate,Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C0887892,C0162633,AFFECTS,"Vaccines, Subunit",Viral Shedding,imft,patf,1,AFFECTS_IMFTafctPATF
+C0887902,C0021368,AFFECTS,"Vaccines, Edible",Inflammation,imft,patf,1,AFFECTS_IMFTafctPATF
+C0887902,C0035228,AFFECTS,"Vaccines, Edible",Respiratory Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C1699926,C0242656,AFFECTS,fingolimod,Disease Progression,imft,patf,1,AFFECTS_IMFTafctPATF
+C1883036,C0333467,AFFECTS,Single-Chain Antibodies,Cytopathic effect,imft,patf,1,AFFECTS_IMFTafctPATF
+C2347170,C0036974,AFFECTS,Mixed Bacteria Vaccine,Shock,imft,patf,1,AFFECTS_IMFTafctPATF
+C2825347,C0020517,AFFECTS,"Immunoglobulin A, Human",Hypersensitivity,imft,patf,1,AFFECTS_IMFTafctPATF
+C2825347,C1155266,AFFECTS,"Immunoglobulin A, Human",inflammatory response,imft,patf,1,AFFECTS_IMFTafctPATF

@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001527,C0680063,PART_OF,Adipose tissue,Offspring,tisu,famg,1,PART_OF_TISUprtfFAMG
+C0005953,C0680063,PART_OF,Bone Marrow,Offspring,tisu,famg,1,PART_OF_TISUprtfFAMG
+C0014609,C0870134,PART_OF,Epithelium,ancestors,tisu,famg,1,PART_OF_TISUprtfFAMG
+C0025255,C0030551,PART_OF,Tissue membrane,parent,tisu,famg,2,PART_OF_TISUprtfFAMG
+C0025255,C0080103,PART_OF,Tissue membrane,Relative (related person),tisu,famg,1,PART_OF_TISUprtfFAMG
+C0025255,C0870134,PART_OF,Tissue membrane,ancestors,tisu,famg,1,PART_OF_TISUprtfFAMG
+C0040300,C0030551,PART_OF,Body tissue,parent,tisu,famg,2,PART_OF_TISUprtfFAMG
+C0040300,C0680063,PART_OF,Body tissue,Offspring,tisu,famg,1,PART_OF_TISUprtfFAMG
+C0040300,C4053457,PART_OF,Body tissue,Surrogate,tisu,famg,1,PART_OF_TISUprtfFAMG
+C0682708,C0680063,PART_OF,White matter,Offspring,tisu,famg,1,PART_OF_TISUprtfFAMG
+C1522642,C0030551,PART_OF,Clone,parent,tisu,famg,18,PART_OF_TISUprtfFAMG

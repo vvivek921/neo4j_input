@@ -1,0 +1,83 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003241,C0001314,NEG_AFFECTS,Antibodies,Acute Disease,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0003241,C0007682,NEG_AFFECTS,Antibodies,CNS disorder,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0003241,C0014544,NEG_AFFECTS,Antibodies,Epilepsy,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0003241,C0282687,NEG_AFFECTS,Antibodies,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0003250,C0032371,NEG_AFFECTS,Monoclonal Antibodies,Poliomyelitis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0003250,C1855663,NEG_AFFECTS,Monoclonal Antibodies,Kaufman oculocerebrofacial syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0004599,C0948368,NEG_AFFECTS,Bacitracin,Kaufman-McKusick syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0009316,C0032285,NEG_AFFECTS,Colistin,Pneumonia,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0009316,C0042029,NEG_AFFECTS,Colistin,Urinary tract infection,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0009498,C0030389,NEG_AFFECTS,Complement System Proteins,Parainfluenza,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0009498,C0035920,NEG_AFFECTS,Complement System Proteins,Rubella,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0014241,C1850106,NEG_AFFECTS,Endoribonucleases,RAINE SYNDROME,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C0015980,C1264606,NEG_AFFECTS,Interferon-beta,Persistent infection,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0017968,C0042769,NEG_AFFECTS,Glycoproteins,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0021758,C0338474,NEG_AFFECTS,Interleukin-4,Central nervous system demyelination,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0021760,C2076600,NEG_AFFECTS,Interleukin-6,Influenza due to Influenza A virus subtype H1N1,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0025252,C0242301,NEG_AFFECTS,Membrane Proteins,furuncle,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C0030940,C0032027,NEG_AFFECTS,Peptide Hydrolases,Pityriasis Rubra Pilaris,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0034790,C0042721,NEG_AFFECTS,T-Cell Receptor,Viral hepatitis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0035923,C0014070,NEG_AFFECTS,Rubella virus vaccine,Encephalomyelitis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0036764,C0206751,NEG_AFFECTS,Serpins,Rhabdoviridae Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0041236,C0042769,NEG_AFFECTS,TRYPSIN,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0042720,C0042769,NEG_AFFECTS,Viral Genome,Virus Diseases,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C0042736,C0796149,NEG_AFFECTS,Viral Proteins,Scott Syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0057144,C0004610,NEG_AFFECTS,Daptomycin,Bacteremia,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0057256,C0266313,NEG_AFFECTS,Defensins,Allanson Pantzar McLeod syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0063695,C0010346,NEG_AFFECTS,Intercellular adhesion molecule 1,Crohn Disease,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0065827,C0042769,NEG_AFFECTS,Measles Virus Nucleoprotein,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0071795,C0042769,NEG_AFFECTS,2-5A-dependent ribonuclease,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0072978,C0014457,NEG_AFFECTS,RANTES,Eosinophilia,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0079189,C0028326,NEG_AFFECTS,cytokine,Noonan Syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0079189,C0035869,NEG_AFFECTS,cytokine,Rotavirus Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0085295,C0001314,NEG_AFFECTS,Interleukin-10,Acute Disease,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0085297,C0014457,NEG_AFFECTS,"Immunoglobulins, Intravenous",Eosinophilia,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C0085297,C0275524,NEG_AFFECTS,"Immunoglobulins, Intravenous",Coinfection,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0085297,C1096155,NEG_AFFECTS,"Immunoglobulins, Intravenous",Macrophage Activation Syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0178887,C0019693,NEG_AFFECTS,virus envelope,HIV Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0236525,C0001314,NEG_AFFECTS,Epstein-Barr virus antibody,Acute Disease,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0299583,C0028754,NEG_AFFECTS,leptin,Obesity,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C0440471,C0042769,NEG_AFFECTS,Genetic Materials,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0443640,C0033770,NEG_AFFECTS,Specific antibody,Prune Belly Syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0483249,C1168517,NEG_AFFECTS,Protein C (activated),Factor V Leiden Heterozygosity,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0597094,C0029883,NEG_AFFECTS,nuclease,Otitis Media with Effusion,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0597357,C0041296,NEG_AFFECTS,receptor,Tuberculosis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0699919,C0276500,NEG_AFFECTS,Cathepsins B,Human immunodeficiency virus I infection,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0700271,C0042769,NEG_AFFECTS,"M Protein, multiple myeloma",Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0913092,C0041296,NEG_AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,Tuberculosis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C0966225,C0014457,NEG_AFFECTS,omalizumab,Eosinophilia,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1143949,C0042769,NEG_AFFECTS,"TNFSF10 protein, human",Virus Diseases,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C1334078,C0858513,NEG_AFFECTS,IFITM1 gene,hiv-3,aapp,dsyn,4,NEG_AFFECTS_AAPPnafctDSYN
+C1335837,C0020456,NEG_AFFECTS,SLC2A1 gene,Hyperglycemia,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1335872,C0042769,NEG_AFFECTS,STAT1 gene,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1335873,C0042769,NEG_AFFECTS,STAT2 gene,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1412168,C0028326,NEG_AFFECTS,ACTN4 gene,Noonan Syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1415897,C0042769,NEG_AFFECTS,IFITM2 gene,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1415898,C0042769,NEG_AFFECTS,IFITM3 gene,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1416797,C0018572,NEG_AFFECTS,STMN1 gene,"Hand, Foot and Mouth Disease",aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1417530,C0019372,NEG_AFFECTS,MYD88 gene,Herpesviridae Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1419032,C0023895,NEG_AFFECTS,PSMD2 gene,Liver diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1419275,C0035690,NEG_AFFECTS,RARRES3 gene,RNA Virus Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1420697,C0042769,NEG_AFFECTS,TFAP4 gene,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1421249,C0028326,NEG_AFFECTS,TYK2 gene,Noonan Syndrome,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1421586,C0243026,NEG_AFFECTS,ZMPSTE24 gene,Sepsis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1423506,C0033817,NEG_AFFECTS,SPINK5 gene,Pseudomonas Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1426511,C0035690,NEG_AFFECTS,GBP5 gene,RNA Virus Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1439284,C3888198,NEG_AFFECTS,AGTR1 gene,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1538915,C0020538,NEG_AFFECTS,APLN gene,Hypertensive disease,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1539100,C1443953,NEG_AFFECTS,CLEC5A gene,Acute viral disease,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1568891,C0042769,NEG_AFFECTS,"HGS protein, human",Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1701032,C0032285,NEG_AFFECTS,"ITGAM protein, human",Pneumonia,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1701790,C0034069,NEG_AFFECTS,"IL17A protein, human",Pulmonary Fibrosis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1706019,C0003864,NEG_AFFECTS,BDKRB2 wt Allele,Arthritis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1706869,C0035235,NEG_AFFECTS,BAG1 wt Allele,Respiratory Syncytial Virus Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1825598,C0025289,NEG_AFFECTS,IMPACT gene,Meningitis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1825598,C0032285,NEG_AFFECTS,IMPACT gene,Pneumonia,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C1826560,C0019693,NEG_AFFECTS,PDPN gene,HIV Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C1883559,C0042769,NEG_AFFECTS,Wild Type,Virus Diseases,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C2945614,C0022729,NEG_AFFECTS,lactamase,Klebsiella Infections,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C3470591,C0276500,NEG_AFFECTS,LINC00173 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C3849701,C0267797,NEG_AFFECTS,"interleukin 18 protein, human",Acute hepatitis,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN
+C4048280,C0019693,NEG_AFFECTS,"T-Cell Surface Glycoprotein CD4, human",HIV Infections,aapp,dsyn,2,NEG_AFFECTS_AAPPnafctDSYN
+C4048280,C0276500,NEG_AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Human immunodeficiency virus I infection,aapp,dsyn,1,NEG_AFFECTS_AAPPnafctDSYN

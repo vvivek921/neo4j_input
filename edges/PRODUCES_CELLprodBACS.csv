@@ -1,0 +1,322 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001280,C0016693,PRODUCES,Armed macrophage,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0001280,C0028128,PRODUCES,Armed macrophage,Nitric Oxide,cell,bacs,31,PRODUCES_CELLprodBACS
+C0001280,C0068527,PRODUCES,Armed macrophage,Neopterin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0001280,C0211726,PRODUCES,Armed macrophage,anandamide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0001280,C0302583,PRODUCES,Armed macrophage,Iron,cell,bacs,1,PRODUCES_CELLprodBACS
+C0001280,C0920643,PRODUCES,Armed macrophage,reactive oxygen intermediate,cell,bacs,1,PRODUCES_CELLprodBACS
+C0001280,C1172779,PRODUCES,Armed macrophage,Endocannabinoids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0003315,C0032136,PRODUCES,Antigen-Presenting Cells,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0008377,PRODUCES,Astrocytes,Cholesterol,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0016693,PRODUCES,Astrocytes,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0027908,PRODUCES,Astrocytes,Neurotransmitters,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0028158,PRODUCES,Astrocytes,Nitrogen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0030054,PRODUCES,Astrocytes,Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0035693,PRODUCES,Astrocytes,"RNA, Double-Stranded",cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C0162772,PRODUCES,Astrocytes,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004112,C1519315,PRODUCES,Astrocytes,Signaling Molecule,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004561,C0012854,PRODUCES,B-Lymphocytes,DNA,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004561,C0012929,PRODUCES,B-Lymphocytes,"DNA, Mitochondrial",cell,bacs,1,PRODUCES_CELLprodBACS
+C0004561,C0242850,PRODUCES,B-Lymphocytes,Retroelements,cell,bacs,1,PRODUCES_CELLprodBACS
+C0004827,C0019588,PRODUCES,Basophils,Histamine,cell,bacs,6,PRODUCES_CELLprodBACS
+C0004827,C0023545,PRODUCES,Basophils,Leukotrienes,cell,bacs,1,PRODUCES_CELLprodBACS
+C0005773,C0036751,PRODUCES,Blood Cells,Serotonin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0008377,PRODUCES,Cultured Cell Line,Cholesterol,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0012854,PRODUCES,Cultured Cell Line,DNA,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0028128,PRODUCES,Cultured Cell Line,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0032136,PRODUCES,Cultured Cell Line,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0033532,PRODUCES,Cultured Cell Line,Prostaglandin D2,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0035142,PRODUCES,Cultured Cell Line,Replicon,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C0162772,PRODUCES,Cultured Cell Line,Reactive Oxygen Species,cell,bacs,3,PRODUCES_CELLprodBACS
+C0007600,C0600508,PRODUCES,Cultured Cell Line,Response Elements,cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C1099354,PRODUCES,Cultured Cell Line,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0007600,C1101610,PRODUCES,Cultured Cell Line,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C0009013,C0012854,PRODUCES,Clone Cells,DNA,cell,bacs,2,PRODUCES_CELLprodBACS
+C0009013,C0032136,PRODUCES,Clone Cells,Plasmids,cell,bacs,8,PRODUCES_CELLprodBACS
+C0009013,C0035142,PRODUCES,Clone Cells,Replicon,cell,bacs,1,PRODUCES_CELLprodBACS
+C0009013,C0035693,PRODUCES,Clone Cells,"RNA, Double-Stranded",cell,bacs,1,PRODUCES_CELLprodBACS
+C0009013,C0035696,PRODUCES,Clone Cells,"RNA, Messenger",cell,bacs,2,PRODUCES_CELLprodBACS
+C0009013,C0065335,PRODUCES,Clone Cells,lycorine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0011306,C0028128,PRODUCES,Dendritic Cells,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0011306,C0068527,PRODUCES,Dendritic Cells,Neopterin,cell,bacs,2,PRODUCES_CELLprodBACS
+C0011306,C0162772,PRODUCES,Dendritic Cells,Reactive Oxygen Species,cell,bacs,3,PRODUCES_CELLprodBACS
+C0014355,C0019588,PRODUCES,Argentaffin Cell,Histamine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014467,C0023542,PRODUCES,eosinophil,Leukotriene C4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014467,C0023544,PRODUCES,eosinophil,Leukotriene D4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014467,C0023545,PRODUCES,eosinophil,Leukotrienes,cell,bacs,2,PRODUCES_CELLprodBACS
+C0014467,C0023546,PRODUCES,eosinophil,Leukotriene B4,cell,bacs,2,PRODUCES_CELLprodBACS
+C0014467,C0028128,PRODUCES,eosinophil,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014467,C0125644,PRODUCES,eosinophil,Leukotriene E4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0001443,PRODUCES,Epithelial Cells,Adenosine,cell,bacs,2,PRODUCES_CELLprodBACS
+C0014597,C0008013,PRODUCES,Epithelial Cells,Chemotactic Factors,cell,bacs,2,PRODUCES_CELLprodBACS
+C0014597,C0008377,PRODUCES,Epithelial Cells,Cholesterol,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0010868,PRODUCES,Epithelial Cells,Cytotoxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0018338,PRODUCES,Epithelial Cells,Cyclic GMP,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0028128,PRODUCES,Epithelial Cells,Nitric Oxide,cell,bacs,2,PRODUCES_CELLprodBACS
+C0014597,C0031676,PRODUCES,Epithelial Cells,Phospholipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0032712,PRODUCES,Epithelial Cells,Porphyrins,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0034085,PRODUCES,Epithelial Cells,Pulmonary Surfactants,cell,bacs,4,PRODUCES_CELLprodBACS
+C0014597,C0035693,PRODUCES,Epithelial Cells,"RNA, Double-Stranded",cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0036733,PRODUCES,Epithelial Cells,Serine Proteinase Inhibitors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C0162772,PRODUCES,Epithelial Cells,Reactive Oxygen Species,cell,bacs,4,PRODUCES_CELLprodBACS
+C0014597,C0600472,PRODUCES,Epithelial Cells,Long Interspersed Nucleotide Element-1,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014597,C1519315,PRODUCES,Epithelial Cells,Signaling Molecule,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014792,C0001480,PRODUCES,Erythrocytes,Adenosine Triphosphate,cell,bacs,1,PRODUCES_CELLprodBACS
+C0014792,C0074565,PRODUCES,Erythrocytes,Singlet Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0015161,C0035696,PRODUCES,Eukaryotic Cells,"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C0016030,C0008013,PRODUCES,Fibroblasts,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0016030,C0017973,PRODUCES,Fibroblasts,Glycosaminoglycans,cell,bacs,1,PRODUCES_CELLprodBACS
+C0016030,C0022631,PRODUCES,Fibroblasts,Ketone Bodies,cell,bacs,1,PRODUCES_CELLprodBACS
+C0017471,C0035696,PRODUCES,Germ Cells,"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C0017473,C0012854,PRODUCES,Germ Line,DNA,cell,bacs,1,PRODUCES_CELLprodBACS
+C0018183,C0012929,PRODUCES,granulocyte,"DNA, Mitochondrial",cell,bacs,1,PRODUCES_CELLprodBACS
+C0018183,C0162772,PRODUCES,granulocyte,Reactive Oxygen Species,cell,bacs,3,PRODUCES_CELLprodBACS
+C0018873,C0032136,PRODUCES,HeLa Cells,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0018873,C0074565,PRODUCES,HeLa Cells,Singlet Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0018873,C0082180,PRODUCES,HeLa Cells,cytolethal distending toxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0018956,C1099354,PRODUCES,Hematopoietic stem cells,"RNA, Small Interfering",cell,bacs,2,PRODUCES_CELLprodBACS
+C0020204,C0600253,PRODUCES,Hybridomas,Intracisternal A-Particle Elements,cell,bacs,1,PRODUCES_CELLprodBACS
+C0021792,C0027908,PRODUCES,Interneurons,Neurotransmitters,cell,bacs,1,PRODUCES_CELLprodBACS
+C0022686,C0162772,PRODUCES,Killer Cells,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0022688,C0008013,PRODUCES,Natural Killer Cells,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0022688,C0012929,PRODUCES,Natural Killer Cells,"DNA, Mitochondrial",cell,bacs,1,PRODUCES_CELLprodBACS
+C0022688,C0028128,PRODUCES,Natural Killer Cells,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0022801,C0008013,PRODUCES,Hepatic macrophage,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0022801,C0162772,PRODUCES,Hepatic macrophage,Reactive Oxygen Species,cell,bacs,2,PRODUCES_CELLprodBACS
+C0023516,C0008013,PRODUCES,Leukocytes,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0023516,C0012854,PRODUCES,Leukocytes,DNA,cell,bacs,4,PRODUCES_CELLprodBACS
+C0023516,C0016693,PRODUCES,Leukocytes,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0023516,C0019588,PRODUCES,Leukocytes,Histamine,cell,bacs,3,PRODUCES_CELLprodBACS
+C0023516,C0023545,PRODUCES,Leukocytes,Leukotrienes,cell,bacs,1,PRODUCES_CELLprodBACS
+C0023516,C0028128,PRODUCES,Leukocytes,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0023516,C0064841,PRODUCES,Leukocytes,leukotoxin,cell,bacs,3,PRODUCES_CELLprodBACS
+C0023516,C0162772,PRODUCES,Leukocytes,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0023516,C0178645,PRODUCES,Leukocytes,oxygen free radical,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024264,C0016693,PRODUCES,Lymphocyte,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0001055,PRODUCES,macrophage,Acetylgalactosamine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0008013,PRODUCES,macrophage,Chemotactic Factors,cell,bacs,2,PRODUCES_CELLprodBACS
+C0024432,C0010868,PRODUCES,macrophage,Cytotoxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0016693,PRODUCES,macrophage,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0020196,PRODUCES,macrophage,Hyaluronic Acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0023545,PRODUCES,macrophage,Leukotrienes,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0023546,PRODUCES,macrophage,Leukotriene B4,cell,bacs,3,PRODUCES_CELLprodBACS
+C0024432,C0023823,PRODUCES,macrophage,Low-Density Lipoproteins,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0028128,PRODUCES,macrophage,Nitric Oxide,cell,bacs,24,PRODUCES_CELLprodBACS
+C0024432,C0028158,PRODUCES,macrophage,Nitrogen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0030054,PRODUCES,macrophage,Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0035696,PRODUCES,macrophage,"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0061101,PRODUCES,macrophage,"ganglioside, GD1a",cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0068527,PRODUCES,macrophage,Neopterin,cell,bacs,8,PRODUCES_CELLprodBACS
+C0024432,C0136157,PRODUCES,macrophage,Peroxynitrite,cell,bacs,2,PRODUCES_CELLprodBACS
+C0024432,C0162772,PRODUCES,macrophage,Reactive Oxygen Species,cell,bacs,11,PRODUCES_CELLprodBACS
+C0024432,C0178645,PRODUCES,macrophage,oxygen free radical,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0211726,PRODUCES,macrophage,anandamide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0302583,PRODUCES,macrophage,Iron,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0600472,PRODUCES,macrophage,Long Interspersed Nucleotide Element-1,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C0920643,PRODUCES,macrophage,reactive oxygen intermediate,cell,bacs,2,PRODUCES_CELLprodBACS
+C0024432,C0969698,PRODUCES,macrophage,Reactive Nitrogen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C1099354,PRODUCES,macrophage,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0024432,C1764827,PRODUCES,macrophage,Isolate - microorganism,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0008013,PRODUCES,mast cell,Chemotactic Factors,cell,bacs,2,PRODUCES_CELLprodBACS
+C0024880,C0019134,PRODUCES,mast cell,heparin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0019588,PRODUCES,mast cell,Histamine,cell,bacs,14,PRODUCES_CELLprodBACS
+C0024880,C0023542,PRODUCES,mast cell,Leukotriene C4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0023544,PRODUCES,mast cell,Leukotriene D4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0023545,PRODUCES,mast cell,Leukotrienes,cell,bacs,2,PRODUCES_CELLprodBACS
+C0024880,C0023546,PRODUCES,mast cell,Leukotriene B4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0027908,PRODUCES,mast cell,Neurotransmitters,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0028128,PRODUCES,mast cell,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0033532,PRODUCES,mast cell,Prostaglandin D2,cell,bacs,1,PRODUCES_CELLprodBACS
+C0024880,C0125644,PRODUCES,mast cell,Leukotriene E4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0025201,C0025196,PRODUCES,melanocyte,Melanins,cell,bacs,1,PRODUCES_CELLprodBACS
+C0026473,C0012929,PRODUCES,Monocytes,"DNA, Mitochondrial",cell,bacs,1,PRODUCES_CELLprodBACS
+C0026473,C0028128,PRODUCES,Monocytes,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0026473,C0034304,PRODUCES,Monocytes,Pyrogens,cell,bacs,1,PRODUCES_CELLprodBACS
+C0026473,C0068527,PRODUCES,Monocytes,Neopterin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0026473,C0162772,PRODUCES,Monocytes,Reactive Oxygen Species,cell,bacs,5,PRODUCES_CELLprodBACS
+C0026473,C0242850,PRODUCES,Monocytes,Retroelements,cell,bacs,1,PRODUCES_CELLprodBACS
+C0026609,C0001041,PRODUCES,Motor Neurons,Acetylcholine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027836,C0815278,PRODUCES,Neuroglia,Neurosteroids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C0001443,PRODUCES,Neurons,Adenosine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C0007412,PRODUCES,Neurons,Catecholamines,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C0008013,PRODUCES,Neurons,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C0008377,PRODUCES,Neurons,Cholesterol,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C0027908,PRODUCES,Neurons,Neurotransmitters,cell,bacs,3,PRODUCES_CELLprodBACS
+C0027882,C0028128,PRODUCES,Neurons,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C0162772,PRODUCES,Neurons,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C1099354,PRODUCES,Neurons,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0027882,C1101610,PRODUCES,Neurons,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027950,C0006675,PRODUCES,neutrophil,Calcium,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027950,C0008013,PRODUCES,neutrophil,Chemotactic Factors,cell,bacs,3,PRODUCES_CELLprodBACS
+C0027950,C0012854,PRODUCES,neutrophil,DNA,cell,bacs,2,PRODUCES_CELLprodBACS
+C0027950,C0012929,PRODUCES,neutrophil,"DNA, Mitochondrial",cell,bacs,1,PRODUCES_CELLprodBACS
+C0027950,C0016693,PRODUCES,neutrophil,Free Radicals,cell,bacs,4,PRODUCES_CELLprodBACS
+C0027950,C0019588,PRODUCES,neutrophil,Histamine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027950,C0023546,PRODUCES,neutrophil,Leukotriene B4,cell,bacs,4,PRODUCES_CELLprodBACS
+C0027950,C0028128,PRODUCES,neutrophil,Nitric Oxide,cell,bacs,2,PRODUCES_CELLprodBACS
+C0027950,C0030054,PRODUCES,neutrophil,Oxygen,cell,bacs,2,PRODUCES_CELLprodBACS
+C0027950,C0031676,PRODUCES,neutrophil,Phospholipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027950,C0036608,PRODUCES,neutrophil,Selfish DNA,cell,bacs,1,PRODUCES_CELLprodBACS
+C0027950,C0136157,PRODUCES,neutrophil,Peroxynitrite,cell,bacs,2,PRODUCES_CELLprodBACS
+C0027950,C0162772,PRODUCES,neutrophil,Reactive Oxygen Species,cell,bacs,33,PRODUCES_CELLprodBACS
+C0027950,C0178645,PRODUCES,neutrophil,oxygen free radical,cell,bacs,2,PRODUCES_CELLprodBACS
+C0027950,C1179920,PRODUCES,neutrophil,Nuclear deoxyribonucleic acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C0028944,C0008377,PRODUCES,Oligodendroglia,Cholesterol,cell,bacs,1,PRODUCES_CELLprodBACS
+C0028944,C0060955,PRODUCES,Oligodendroglia,galactocerebroside,cell,bacs,1,PRODUCES_CELLprodBACS
+C0029974,C0032136,PRODUCES,Ovum,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0031307,C0028128,PRODUCES,Phagocytes,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0031307,C0028158,PRODUCES,Phagocytes,Nitrogen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0031307,C0030054,PRODUCES,Phagocytes,Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0031307,C0074565,PRODUCES,Phagocytes,Singlet Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0031307,C0136157,PRODUCES,Phagocytes,Peroxynitrite,cell,bacs,1,PRODUCES_CELLprodBACS
+C0031307,C0162772,PRODUCES,Phagocytes,Reactive Oxygen Species,cell,bacs,8,PRODUCES_CELLprodBACS
+C0031307,C0178645,PRODUCES,Phagocytes,oxygen free radical,cell,bacs,1,PRODUCES_CELLprodBACS
+C0036387,C0001480,PRODUCES,Schwann Cells,Adenosine Triphosphate,cell,bacs,1,PRODUCES_CELLprodBACS
+C0036387,C0017950,PRODUCES,Schwann Cells,Glycolipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0036387,C0060955,PRODUCES,Schwann Cells,galactocerebroside,cell,bacs,1,PRODUCES_CELLprodBACS
+C0038250,C1101610,PRODUCES,Stem cells,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C0008013,PRODUCES,T-Lymphocyte,Chemotactic Factors,cell,bacs,2,PRODUCES_CELLprodBACS
+C0039194,C0010868,PRODUCES,T-Lymphocyte,Cytotoxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C0012929,PRODUCES,T-Lymphocyte,"DNA, Mitochondrial",cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C0014757,PRODUCES,T-Lymphocyte,Erythritol,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C0028128,PRODUCES,T-Lymphocyte,Nitric Oxide,cell,bacs,2,PRODUCES_CELLprodBACS
+C0039194,C0031617,PRODUCES,T-Lymphocyte,Lecithin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C0032136,PRODUCES,T-Lymphocyte,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C0035696,PRODUCES,T-Lymphocyte,"RNA, Messenger",cell,bacs,2,PRODUCES_CELLprodBACS
+C0039194,C0040549,PRODUCES,T-Lymphocyte,Toxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039194,C1099354,PRODUCES,T-Lymphocyte,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0039195,C0010868,PRODUCES,Cytotoxic T-Lymphocytes,Cytotoxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0039215,C1101610,PRODUCES,CD4 Positive T Lymphocytes,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C0042542,C0600472,PRODUCES,Vero Cells,Long Interspersed Nucleotide Element-1,cell,bacs,1,PRODUCES_CELLprodBACS
+C0042542,C1099354,PRODUCES,Vero Cells,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0042542,C1566558,PRODUCES,Vero Cells,Natural Products,cell,bacs,1,PRODUCES_CELLprodBACS
+C0085236,C0008013,PRODUCES,"Macrophages, Alveolar",Chemotactic Factors,cell,bacs,3,PRODUCES_CELLprodBACS
+C0085236,C0023542,PRODUCES,"Macrophages, Alveolar",Leukotriene C4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0085236,C0023544,PRODUCES,"Macrophages, Alveolar",Leukotriene D4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0085236,C0028128,PRODUCES,"Macrophages, Alveolar",Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0085236,C0041980,PRODUCES,"Macrophages, Alveolar",Uric Acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C0085236,C0125644,PRODUCES,"Macrophages, Alveolar",Leukotriene E4,cell,bacs,1,PRODUCES_CELLprodBACS
+C0085236,C0162772,PRODUCES,"Macrophages, Alveolar",Reactive Oxygen Species,cell,bacs,2,PRODUCES_CELLprodBACS
+C0086574,C0017950,PRODUCES,Lymphoid Cells,Glycolipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0162597,C1519315,PRODUCES,Stromal Cells,Signaling Molecule,cell,bacs,1,PRODUCES_CELLprodBACS
+C0162597,C4277571,PRODUCES,Stromal Cells,Oxysterols,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206116,C0016693,PRODUCES,Microglia,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206116,C0027908,PRODUCES,Microglia,Neurotransmitters,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206116,C0028128,PRODUCES,Microglia,Nitric Oxide,cell,bacs,3,PRODUCES_CELLprodBACS
+C0206116,C0028158,PRODUCES,Microglia,Nitrogen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206116,C0030054,PRODUCES,Microglia,Oxygen,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206116,C0162772,PRODUCES,Microglia,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206131,C0012854,PRODUCES,Adipocytes,DNA,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206131,C0028128,PRODUCES,Adipocytes,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206131,C1519315,PRODUCES,Adipocytes,Signaling Molecule,cell,bacs,1,PRODUCES_CELLprodBACS
+C0206190,C0028128,PRODUCES,"Macrophages, Peritoneal",Nitric Oxide,cell,bacs,3,PRODUCES_CELLprodBACS
+C0206427,C0064582,PRODUCES,Rod Photoreceptors,Lactic acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C0221284,C0032136,PRODUCES,Leptocyte,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0221284,C1099354,PRODUCES,Leptocyte,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0225335,C0017973,PRODUCES,Mesothelial cell,Glycosaminoglycans,cell,bacs,2,PRODUCES_CELLprodBACS
+C0225335,C0031676,PRODUCES,Mesothelial cell,Phospholipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225336,C0001443,PRODUCES,Endothelial Cells,Adenosine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225336,C0008013,PRODUCES,Endothelial Cells,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225336,C0018338,PRODUCES,Endothelial Cells,Cyclic GMP,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225336,C0028128,PRODUCES,Endothelial Cells,Nitric Oxide,cell,bacs,4,PRODUCES_CELLprodBACS
+C0225336,C0033567,PRODUCES,Endothelial Cells,Epoprostenol,cell,bacs,3,PRODUCES_CELLprodBACS
+C0225336,C0036733,PRODUCES,Endothelial Cells,Serine Proteinase Inhibitors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225369,C0017973,PRODUCES,Chondrocyte,Glycosaminoglycans,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225668,C0028128,PRODUCES,Clara cell,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225668,C0034085,PRODUCES,Clara cell,Pulmonary Surfactants,cell,bacs,3,PRODUCES_CELLprodBACS
+C0225698,C0034085,PRODUCES,Alveolar Epithelial Cells,Pulmonary Surfactants,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225698,C0035696,PRODUCES,Alveolar Epithelial Cells,"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C0225699,C0034085,PRODUCES,Type-I Pneumocytes,Pulmonary Surfactants,cell,bacs,1,PRODUCES_CELLprodBACS
+C0225700,C0031676,PRODUCES,Type-II Pneumocytes,Phospholipids,cell,bacs,6,PRODUCES_CELLprodBACS
+C0225700,C0034085,PRODUCES,Type-II Pneumocytes,Pulmonary Surfactants,cell,bacs,28,PRODUCES_CELLprodBACS
+C0225828,C0028128,PRODUCES,"Myocytes, Cardiac",Nitric Oxide,cell,bacs,2,PRODUCES_CELLprodBACS
+C0225828,C0035696,PRODUCES,"Myocytes, Cardiac","RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C0227276,C0304207,PRODUCES,Paneth Cells,Bacterial product,cell,bacs,1,PRODUCES_CELLprodBACS
+C0227525,C0005437,PRODUCES,Hepatocyte,Bilirubin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0227525,C0028128,PRODUCES,Hepatocyte,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0227525,C0140515,PRODUCES,Hepatocyte,ribose-5-phosphate,cell,bacs,1,PRODUCES_CELLprodBACS
+C0227525,C1101610,PRODUCES,Hepatocyte,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C0242629,C0028128,PRODUCES,CD8-Positive T-Lymphocytes,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0242632,C0068527,PRODUCES,T-helper cell type 1,Neopterin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0314587,C0040549,PRODUCES,Colony-forming unit of granulocytic lineage (cell),Toxin,cell,bacs,1,PRODUCES_CELLprodBACS
+C0334227,C0027303,PRODUCES,"Tumor cells, malignant",NADP,cell,bacs,1,PRODUCES_CELLprodBACS
+C0334227,C0035701,PRODUCES,"Tumor cells, malignant",Ribosomal RNA,cell,bacs,1,PRODUCES_CELLprodBACS
+C0334227,C0064582,PRODUCES,"Tumor cells, malignant",Lactic acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C0369668,C0018966,PRODUCES,Microcytic erythrocyte (cell),Heme,cell,bacs,1,PRODUCES_CELLprodBACS
+C0440752,C0028128,PRODUCES,Inflammatory cell,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0440752,C0031676,PRODUCES,Inflammatory cell,Phospholipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0440752,C0040549,PRODUCES,Inflammatory cell,Toxin,cell,bacs,2,PRODUCES_CELLprodBACS
+C0440752,C0162772,PRODUCES,Inflammatory cell,Reactive Oxygen Species,cell,bacs,4,PRODUCES_CELLprodBACS
+C0440752,C0178645,PRODUCES,Inflammatory cell,oxygen free radical,cell,bacs,1,PRODUCES_CELLprodBACS
+C0440752,C0599689,PRODUCES,Inflammatory cell,Lipoxins,cell,bacs,1,PRODUCES_CELLprodBACS
+C0444746,C0016693,PRODUCES,Endocyte,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C0506994,C0028128,PRODUCES,Goblet Cells,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0506994,C0034085,PRODUCES,Goblet Cells,Pulmonary Surfactants,cell,bacs,1,PRODUCES_CELLprodBACS
+C0524979,C0019588,PRODUCES,Enteroendocrine Cell,Histamine,cell,bacs,2,PRODUCES_CELLprodBACS
+C0524979,C0036751,PRODUCES,Enteroendocrine Cell,Serotonin,cell,bacs,3,PRODUCES_CELLprodBACS
+C0524984,C0162772,PRODUCES,Somatostatin-Secreting Cells,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0524984,C1519315,PRODUCES,Somatostatin-Secreting Cells,Signaling Molecule,cell,bacs,1,PRODUCES_CELLprodBACS
+C0553257,C0008013,PRODUCES,Epithelial cell of renal tubule,Chemotactic Factors,cell,bacs,1,PRODUCES_CELLprodBACS
+C0596208,C0013030,PRODUCES,brain cell,Dopamine,cell,bacs,1,PRODUCES_CELLprodBACS
+C0596508,C1099354,PRODUCES,Embryonic Stem Cells,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0598089,C2350877,PRODUCES,established cell line,"Promoter, Genetic",cell,bacs,1,PRODUCES_CELLprodBACS
+C0598091,C0032136,PRODUCES,stable cell line,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C0598091,C0035142,PRODUCES,stable cell line,Replicon,cell,bacs,3,PRODUCES_CELLprodBACS
+C0598091,C1099354,PRODUCES,stable cell line,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0682610,C0028128,PRODUCES,Enterocytes,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C0887899,C0002976,PRODUCES,Myeloid Cells,Angiogenesis Factor,cell,bacs,1,PRODUCES_CELLprodBACS
+C0887899,C0162772,PRODUCES,Myeloid Cells,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C0887899,C1519315,PRODUCES,Myeloid Cells,Signaling Molecule,cell,bacs,1,PRODUCES_CELLprodBACS
+C0920751,C1099354,PRODUCES,Heart cell,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C0935440,C0034085,PRODUCES,Cuboidal cell,Pulmonary Surfactants,cell,bacs,2,PRODUCES_CELLprodBACS
+C1135918,C0006675,PRODUCES,"Myocytes, Smooth Muscle",Calcium,cell,bacs,1,PRODUCES_CELLprodBACS
+C1135918,C0028128,PRODUCES,"Myocytes, Smooth Muscle",Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C1148382,C0068527,PRODUCES,Monocytes+Macrophages,Neopterin,cell,bacs,1,PRODUCES_CELLprodBACS
+C1182647,C0020196,PRODUCES,Non-pigmented ciliary epithelial cell,Hyaluronic Acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C1257909,C1099354,PRODUCES,Diploid Cell,"RNA, Small Interfering",cell,bacs,1,PRODUCES_CELLprodBACS
+C1257975,C0813622,PRODUCES,Mesenchymal Stem Cells,Hyaluronan,cell,bacs,1,PRODUCES_CELLprodBACS
+C1269647,C0017861,PRODUCES,Entire cell,Glycerin,cell,bacs,1,PRODUCES_CELLprodBACS
+C1272578,C0162772,PRODUCES,Skin fibroblast,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C1292097,C1872959,PRODUCES,IgA B lymphocyte,CC chemokine receptor 10,cell,bacs,1,PRODUCES_CELLprodBACS
+C1321301,C0028128,PRODUCES,Peripheral blood mononuclear cell (cell),Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C1321301,C0035696,PRODUCES,Peripheral blood mononuclear cell (cell),"RNA, Messenger",cell,bacs,3,PRODUCES_CELLprodBACS
+C1512977,C0018338,PRODUCES,Mammalian Cell,Cyclic GMP,cell,bacs,1,PRODUCES_CELLprodBACS
+C1512977,C0028128,PRODUCES,Mammalian Cell,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C1512977,C0030958,PRODUCES,Mammalian Cell,Peptidoglycan,cell,bacs,1,PRODUCES_CELLprodBACS
+C1512977,C0031676,PRODUCES,Mammalian Cell,Phospholipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C1512977,C0035693,PRODUCES,Mammalian Cell,"RNA, Double-Stranded",cell,bacs,2,PRODUCES_CELLprodBACS
+C1513095,C0061105,PRODUCES,Melanoma Cell,"ganglioside, GD3",cell,bacs,1,PRODUCES_CELLprodBACS
+C1513528,C0028128,PRODUCES,Mouse Cell Line,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C1514182,C0028215,PRODUCES,Mesothelial cell of pleura,Nitrous Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C1516469,C1101610,PRODUCES,Chicken Cells,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C1519221,C0023545,PRODUCES,Secretory cell,Leukotrienes,cell,bacs,1,PRODUCES_CELLprodBACS
+C1519477,C0028128,PRODUCES,Splenocyte,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C1519715,C0034085,PRODUCES,Type II Epithelial Receptor Cell,Pulmonary Surfactants,cell,bacs,2,PRODUCES_CELLprodBACS
+C1522109,C0035696,PRODUCES,Leukocyte - Lymphocyte - B-Lymphocyte (MMHCC),"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C1711178,C0008013,PRODUCES,Bronchial Epithelial Cell,Chemotactic Factors,cell,bacs,2,PRODUCES_CELLprodBACS
+C1711178,C0035696,PRODUCES,Bronchial Epithelial Cell,"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C1883178,C0032136,PRODUCES,Subclone,Plasmids,cell,bacs,9,PRODUCES_CELLprodBACS
+C1883178,C1481822,PRODUCES,Subclone,eukaryotic plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C1956385,C0035696,PRODUCES,Plasmacytoid Dendritic Cells,"RNA, Messenger",cell,bacs,1,PRODUCES_CELLprodBACS
+C2340138,C0020196,PRODUCES,Hepatic Stellate Cells,Hyaluronic Acid,cell,bacs,1,PRODUCES_CELLprodBACS
+C2717940,C0032136,PRODUCES,Hep G2 Cells,Plasmids,cell,bacs,1,PRODUCES_CELLprodBACS
+C2924433,C0017950,PRODUCES,Intestinal goblet cell,Glycolipids,cell,bacs,1,PRODUCES_CELLprodBACS
+C2936239,C0032136,PRODUCES,HEK293 Cells,Plasmids,cell,bacs,5,PRODUCES_CELLprodBACS
+C2936239,C1101610,PRODUCES,HEK293 Cells,MicroRNAs,cell,bacs,1,PRODUCES_CELLprodBACS
+C3178867,C1130460,PRODUCES,Plant Cells,phytoalexin,cell,bacs,1,PRODUCES_CELLprodBACS
+C3178867,C1566558,PRODUCES,Plant Cells,Natural Products,cell,bacs,1,PRODUCES_CELLprodBACS
+C3714800,C0162772,PRODUCES,SCID-Repopulating Cell,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C3825466,C0036751,PRODUCES,Paraneurons,Serotonin,cell,bacs,1,PRODUCES_CELLprodBACS
+C3896693,C0028128,PRODUCES,Bone Marrow-Derived Cell,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C4042840,C0033532,PRODUCES,RAW 264.7 Cells,Prostaglandin D2,cell,bacs,1,PRODUCES_CELLprodBACS
+C4082861,C0018338,PRODUCES,Vascular smooth muscle cell,Cyclic GMP,cell,bacs,1,PRODUCES_CELLprodBACS
+C4082861,C0033567,PRODUCES,Vascular smooth muscle cell,Epoprostenol,cell,bacs,1,PRODUCES_CELLprodBACS
+C4277543,C0028128,PRODUCES,Myeloid-Derived Suppressor Cells,Nitric Oxide,cell,bacs,1,PRODUCES_CELLprodBACS
+C4277577,C1101610,PRODUCES,A549 Cells,MicroRNAs,cell,bacs,2,PRODUCES_CELLprodBACS
+C4330475,C0001443,PRODUCES,Immune Cell,Adenosine,cell,bacs,1,PRODUCES_CELLprodBACS
+C4330475,C0002976,PRODUCES,Immune Cell,Angiogenesis Factor,cell,bacs,1,PRODUCES_CELLprodBACS
+C4330475,C0012854,PRODUCES,Immune Cell,DNA,cell,bacs,2,PRODUCES_CELLprodBACS
+C4330475,C0016693,PRODUCES,Immune Cell,Free Radicals,cell,bacs,1,PRODUCES_CELLprodBACS
+C4330475,C0034085,PRODUCES,Immune Cell,Pulmonary Surfactants,cell,bacs,1,PRODUCES_CELLprodBACS
+C4330475,C0162772,PRODUCES,Immune Cell,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS
+C4505192,C0162772,PRODUCES,THP-1 Cells,Reactive Oxygen Species,cell,bacs,1,PRODUCES_CELLprodBACS

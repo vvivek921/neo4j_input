@@ -1,0 +1,67 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001801,C0007613,ISA,agglutination,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C0013846,C0007613,ISA,Electron Transport,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C0023775,C0007613,ISA,Lipid Peroxidation,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C0025246,C2753244,ISA,Membrane Fusion,membrane organization,moft,celf,1,ISA_MOFTisaCELF
+C0030012,C0007613,ISA,Oxidation-Reduction,Cell physiology,moft,celf,4,ISA_MOFTisaCELF
+C0031715,C0007613,ISA,Phosphorylation,Cell physiology,moft,celf,2,ISA_MOFTisaCELF
+C0033666,C0007613,ISA,Post-Translational Protein Processing,Cell physiology,moft,celf,2,ISA_MOFTisaCELF
+C0033666,C1660642,ISA,Post-Translational Protein Processing,cellular localization,moft,celf,1,ISA_MOFTisaCELF
+C0036522,C0037083,ISA,Second Messenger Systems,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C0086982,C0007613,ISA,Signal Transduction Pathways,Cell physiology,moft,celf,3,ISA_MOFTisaCELF
+C0086982,C0037083,ISA,Signal Transduction Pathways,Signal Transduction,moft,celf,2,ISA_MOFTisaCELF
+C0162847,C0007613,ISA,protein folding,Cell physiology,moft,celf,5,ISA_MOFTisaCELF
+C0596620,C0007613,ISA,glucose metabolism,Cell physiology,moft,celf,4,ISA_MOFTisaCELF
+C0597295,C0007613,ISA,Protein Biosynthesis,Cell physiology,moft,celf,6,ISA_MOFTisaCELF
+C0597295,C1660642,ISA,Protein Biosynthesis,cellular localization,moft,celf,1,ISA_MOFTisaCELF
+C0597297,C0007613,ISA,"Protein Degradation, Metabolic",Cell physiology,moft,celf,5,ISA_MOFTisaCELF
+C0597358,C0014139,ISA,receptor binding,Endocytosis,moft,celf,3,ISA_MOFTisaCELF
+C0597358,C0596897,ISA,receptor binding,membrane activity,moft,celf,1,ISA_MOFTisaCELF
+C0597513,C0007613,ISA,Steroid biosynthesis,Cell physiology,moft,celf,3,ISA_MOFTisaCELF
+C0599474,C0007613,ISA,cholesterol biosynthesis,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C0752319,C0037083,ISA,MAP Kinase Cascade,Signal Transduction,moft,celf,9,ISA_MOFTisaCELF
+C0872079,C0007613,ISA,protein protein interaction,Cell physiology,moft,celf,3,ISA_MOFTisaCELF
+C1148916,C0007613,ISA,nucleotide binding,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1149035,C0037083,ISA,GTP Binding,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1149183,C0037083,ISA,interleukin receptor activity,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1149184,C0037083,ISA,interleukin-1 receptor activity,Signal Transduction,moft,celf,5,ISA_MOFTisaCELF
+C1149201,C0037083,ISA,interleukin-23 receptor activity,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1149205,C0037083,ISA,interleukin-27 receptor activity,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1150095,C0007613,ISA,peptidase activity,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1150423,C0007613,ISA,kinase activity,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1150571,C0037083,ISA,IkappaB kinase activity,Signal Transduction,moft,celf,8,ISA_MOFTisaCELF
+C1150635,C0037083,ISA,stem cell factor receptor activity,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1155503,C0037083,ISA,JAK-STAT cascade,Signal Transduction,moft,celf,3,ISA_MOFTisaCELF
+C1156200,C0007613,ISA,Histone Acetylation,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1157980,C0007613,ISA,erad,Cell physiology,moft,celf,2,ISA_MOFTisaCELF
+C1157980,C1155342,ISA,erad,cellular response to unfolded protein,moft,celf,3,ISA_MOFTisaCELF
+C1157990,C0599814,ISA,Sumoylation,Intracellular Transport,moft,celf,1,ISA_MOFTisaCELF
+C1158183,C0007613,ISA,ATP metabolic process,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1158886,C0007613,ISA,Protein phosphorylation,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1159267,C0007613,ISA,protein ADP-ribosylation,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1159825,C0007587,ISA,Caspase Activation,Cell Death,moft,celf,2,ISA_MOFTisaCELF
+C1159825,C0162638,ISA,Caspase Activation,Apoptosis,moft,celf,9,ISA_MOFTisaCELF
+C1159825,C1326205,ISA,Caspase Activation,Positive Regulation of Apoptosis,moft,celf,1,ISA_MOFTisaCELF
+C1325934,C0007613,ISA,T Cell Receptor Signaling Pathway,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1328948,C0007613,ISA,RNA biosynthesis,Cell physiology,moft,celf,1,ISA_MOFTisaCELF
+C1517339,C0007586,ISA,Negative Regulation of G1 to S Transition,Cell Cycle,moft,celf,2,ISA_MOFTisaCELF
+C1517341,C0007586,ISA,G1 to S Transition Process,Cell Cycle,moft,celf,3,ISA_MOFTisaCELF
+C1517346,C0007586,ISA,G2 to M Transition Process,Cell Cycle,moft,celf,3,ISA_MOFTisaCELF
+C1519751,C0007613,ISA,Ubiquitination,Cell physiology,moft,celf,4,ISA_MOFTisaCELF
+C1520113,C0037083,ISA,Wnt Signaling Pathway,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1621396,C0037083,ISA,JNK Pathway,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C1707312,C0007587,ISA,Caspase-Dependent Apoptosis,Cell Death,moft,celf,9,ISA_MOFTisaCELF
+C1817666,C0037083,ISA,phosphatidylinositol 3-kinase signaling,Signal Transduction,moft,celf,2,ISA_MOFTisaCELF
+C2247725,C0037083,ISA,toll-like receptor 4 signaling pathway,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C2610261,C0037083,ISA,p38MAPK cascade,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C2611094,C0037083,ISA,ERK1 and ERK2 cascade,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C2611302,C0037083,ISA,protein kinase C signaling,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C3160734,C0007613,ISA,Dephosphorylation,Cell physiology,moft,celf,2,ISA_MOFTisaCELF
+C3178960,C0037083,ISA,Wnt beta-Catenin Signaling Pathway,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C3179232,C0037083,ISA,p38 Kinase Pathway,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF
+C3179233,C0037083,ISA,MEK-ERK Pathway,Signal Transduction,moft,celf,4,ISA_MOFTisaCELF
+C3179234,C0037083,ISA,ERK Signal Tranduction Pathway,Signal Transduction,moft,celf,4,ISA_MOFTisaCELF
+C3269138,C0007587,ISA,extrinsic apoptosis,Cell Death,moft,celf,1,ISA_MOFTisaCELF
+C3269138,C0162638,ISA,extrinsic apoptosis,Apoptosis,moft,celf,2,ISA_MOFTisaCELF
+C3269144,C0162638,ISA,intrinsic apoptosis,Apoptosis,moft,celf,1,ISA_MOFTisaCELF
+C3271799,C0037083,ISA,Fc receptor signaling pathway,Signal Transduction,moft,celf,1,ISA_MOFTisaCELF

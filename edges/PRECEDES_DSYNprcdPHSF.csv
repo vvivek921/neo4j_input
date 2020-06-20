@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004623,C0242599,PRECEDES,Bacterial Infections,Neutrophil Activation,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0008049,C0020964,PRECEDES,Chickenpox,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0010340,C0035245,PRECEDES,Critical Illness,Respiratory physiology,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0011311,C0020964,PRECEDES,Dengue Fever,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0014070,C1514892,PRECEDES,Encephalomyelitis,Resistance Process,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0019342,C0221102,PRECEDES,Genital Herpes,Excretory function,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0019693,C1314973,PRECEDES,HIV Infections,Response to antigens,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0021400,C0020964,PRECEDES,Influenza,Immunity,dsyn,phsf,2,PRECEDES_DSYNprcdPHSF
+C0031069,C0678686,PRECEDES,Familial Mediterranean Fever,Dormancy,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0032285,C0005775,PRECEDES,Pneumonia,Blood Circulation,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0032285,C0035203,PRECEDES,Pneumonia,Respiration,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0032285,C0221102,PRECEDES,Pneumonia,Excretory function,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0034063,C0005775,PRECEDES,Pulmonary Edema,Blood Circulation,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0035112,C1512827,PRECEDES,Reoviridae Infections,Interferon Signaling Process,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0035222,C0035245,PRECEDES,"Respiratory Distress Syndrome, Adult",Respiratory physiology,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0035235,C0020964,PRECEDES,Respiratory Syncytial Virus Infections,Immunity,dsyn,phsf,3,PRECEDES_DSYNprcdPHSF
+C0035235,C0301944,PRECEDES,Respiratory Syncytial Virus Infections,Graft acceptance,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0036690,C0301944,PRECEDES,Septicemia,Graft acceptance,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0037278,C0005775,PRECEDES,"Skin Diseases, Infectious",Blood Circulation,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0038454,C0020964,PRECEDES,Cerebrovascular accident,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042749,C1328821,PRECEDES,Viremia,tissue tropism,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C0020964,PRECEDES,Virus Diseases,Immunity,dsyn,phsf,4,PRECEDES_DSYNprcdPHSF
+C0042769,C0035245,PRECEDES,Virus Diseases,Respiratory physiology,dsyn,phsf,3,PRECEDES_DSYNprcdPHSF
+C0042769,C0149784,PRECEDES,Virus Diseases,biological adaptation to stress,dsyn,phsf,2,PRECEDES_DSYNprcdPHSF
+C0042769,C0221102,PRECEDES,Virus Diseases,Excretory function,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C0678209,PRECEDES,Virus Diseases,Adaptive Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C0678662,PRECEDES,Virus Diseases,regulatory loop,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C1371848,PRECEDES,Virus Diseases,Decreased Protein Synthesis [PE],dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0043124,C0242732,PRECEDES,West Nile Fever,Tropism,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0149725,C0035245,PRECEDES,Lower respiratory tract infection,Respiratory physiology,dsyn,phsf,2,PRECEDES_DSYNprcdPHSF
+C0151317,C0312550,PRECEDES,Chronic infectious disease,Immune clearance,dsyn,phsf,2,PRECEDES_DSYNprcdPHSF
+C0238990,C0035203,PRECEDES,Acute lower respiratory tract infection,Respiration,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0242994,C0751982,PRECEDES,Hantavirus Infections,Neutrophil Infiltration,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0272285,C0018767,PRECEDES,Heparin-induced thrombocytopenia,Hearing,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275518,C0020964,PRECEDES,Acute infectious disease,Immunity,dsyn,phsf,2,PRECEDES_DSYNprcdPHSF
+C0275518,C0221102,PRECEDES,Acute infectious disease,Excretory function,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275518,C0242732,PRECEDES,Acute infectious disease,Tropism,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275518,C0301944,PRECEDES,Acute infectious disease,Graft acceptance,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275518,C0678209,PRECEDES,Acute infectious disease,Adaptive Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275519,C0242732,PRECEDES,Subacute infectious disease,Tropism,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275524,C0221102,PRECEDES,Coinfection,Excretory function,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0376538,C0678209,PRECEDES,Porcine Reproductive and Respiratory Syndrome,Adaptive Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0442886,C0020964,PRECEDES,Secondary Infections,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0442886,C0243144,PRECEDES,Secondary Infections,Uptake,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0582415,C0035245,PRECEDES,Acute asthma,Respiratory physiology,dsyn,phsf,2,PRECEDES_DSYNprcdPHSF
+C0729531,C0035245,PRECEDES,Viral respiratory infection,Respiratory physiology,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0740304,C0035245,PRECEDES,copd exacerbation,Respiratory physiology,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0748412,C2370955,PRECEDES,rhinitis viral,Smell function,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C1175175,C0020964,PRECEDES,Severe Acute Respiratory Syndrome,Immunity,dsyn,phsf,3,PRECEDES_DSYNprcdPHSF
+C1175175,C0751982,PRECEDES,Severe Acute Respiratory Syndrome,Neutrophil Infiltration,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C1258039,C1512827,PRECEDES,Henipavirus Infections,Interferon Signaling Process,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C3887949,C0243144,PRECEDES,Apparent mineralocorticoid excess,Uptake,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C4288963,C0243144,PRECEDES,Hepatitis C Virus Infection,Uptake,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF

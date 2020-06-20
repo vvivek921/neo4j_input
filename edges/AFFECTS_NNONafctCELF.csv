@@ -1,0 +1,135 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006233,C0042774,AFFECTS,Bromodeoxyuridine,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0006556,C0042774,AFFECTS,"DNA, Complementary",Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0006556,C0162638,AFFECTS,"DNA, Complementary",Apoptosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C0006556,C2755756,AFFECTS,"DNA, Complementary",cellular transcription,nnon,celf,1,AFFECTS_NNONafctCELF
+C0010711,C0042774,AFFECTS,Cytarabine,Virus Replication,nnon,celf,2,AFFECTS_NNONafctCELF
+C0010711,C1155046,AFFECTS,Cytarabine,T-Cell Proliferation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0011485,C0007590,AFFECTS,Deoxycytidine,Cell division,nnon,celf,1,AFFECTS_NNONafctCELF
+C0012924,C0007587,AFFECTS,"DNA, Bacterial",Cell Death,nnon,celf,1,AFFECTS_NNONafctCELF
+C0012931,C0007613,AFFECTS,Recombinant DNA,Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0012939,C0007582,AFFECTS,"DNA, Viral",Cell Communication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0016343,C1160466,AFFECTS,Floxuridine,conjugation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0017066,C0042774,AFFECTS,Ganciclovir,Virus Replication,nnon,celf,3,AFFECTS_NNONafctCELF
+C0018321,C0007613,AFFECTS,Guanine,Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0018328,C0007595,AFFECTS,Guanine Nucleotides,cell growth,nnon,celf,1,AFFECTS_NNONafctCELF
+C0018353,C0007595,AFFECTS,Guanosine Triphosphate,cell growth,nnon,celf,1,AFFECTS_NNONafctCELF
+C0018353,C0302167,AFFECTS,Guanosine Triphosphate,capping,nnon,celf,3,AFFECTS_NNONafctCELF
+C0018353,C0872070,AFFECTS,Guanosine Triphosphate,nucleocytoplasmic transport,nnon,celf,1,AFFECTS_NNONafctCELF
+C0018353,C1325417,AFFECTS,Guanosine Triphosphate,vesicle-mediated transport,nnon,celf,1,AFFECTS_NNONafctCELF
+C0020811,C0042774,AFFECTS,Idoxuridine,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0023978,C0007613,AFFECTS,Long Terminal Repeat,Cell physiology,nnon,celf,3,AFFECTS_NNONafctCELF
+C0023978,C0037083,AFFECTS,Long Terminal Repeat,Signal Transduction,nnon,celf,1,AFFECTS_NNONafctCELF
+C0023978,C2755756,AFFECTS,Long Terminal Repeat,cellular transcription,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028621,C0007590,AFFECTS,Nucleosides,Cell division,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028621,C0010813,AFFECTS,Nucleosides,Cytokinesis,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028621,C0042774,AFFECTS,Nucleosides,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028630,C0010813,AFFECTS,Nucleotides,Cytokinesis,nnon,celf,2,AFFECTS_NNONafctCELF
+C0028630,C0019595,AFFECTS,Nucleotides,Histamine Release,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028630,C0031308,AFFECTS,Nucleotides,Phagocytosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028630,C0037083,AFFECTS,Nucleotides,Signal Transduction,nnon,celf,2,AFFECTS_NNONafctCELF
+C0028630,C0042774,AFFECTS,Nucleotides,Virus Replication,nnon,celf,3,AFFECTS_NNONafctCELF
+C0028630,C0678836,AFFECTS,Nucleotides,cell recognition,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028630,C1160701,AFFECTS,Nucleotides,viral genome replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028630,C1622891,AFFECTS,Nucleotides,Mast cell degranulation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028631,C0037083,AFFECTS,"Nucleotides, Cyclic",Signal Transduction,nnon,celf,1,AFFECTS_NNONafctCELF
+C0028953,C0010813,AFFECTS,Oligonucleotides,Cytokinesis,nnon,celf,8,AFFECTS_NNONafctCELF
+C0028953,C0042774,AFFECTS,Oligonucleotides,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0032400,C1157569,AFFECTS,Poly A,viral translation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0032414,C0162638,AFFECTS,Poly I-C,Apoptosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C0033755,C0042774,AFFECTS,Proviruses,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0034136,C0019595,AFFECTS,Purine Nucleosides,Histamine Release,nnon,celf,1,AFFECTS_NNONafctCELF
+C0034136,C1622891,AFFECTS,Purine Nucleosides,Mast cell degranulation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035525,C0007613,AFFECTS,Ribavirin,Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035525,C0037083,AFFECTS,Ribavirin,Signal Transduction,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035525,C0042774,AFFECTS,Ribavirin,Virus Replication,nnon,celf,6,AFFECTS_NNONafctCELF
+C0035525,C1157569,AFFECTS,Ribavirin,viral translation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035525,C1327414,AFFECTS,Ribavirin,cytokine secretion,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035736,C0007613,AFFECTS,"RNA, Viral",Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035736,C0042774,AFFECTS,"RNA, Viral",Virus Replication,nnon,celf,7,AFFECTS_NNONafctCELF
+C0035736,C0599952,AFFECTS,"RNA, Viral",modulation by virus of host morphology or physiology,nnon,celf,2,AFFECTS_NNONafctCELF
+C0035736,C0887840,AFFECTS,"RNA, Viral",Nuclear Export,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035736,C1157569,AFFECTS,"RNA, Viral",viral translation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0035736,C1160700,AFFECTS,"RNA, Viral",viral gene expression,nnon,celf,2,AFFECTS_NNONafctCELF
+C0035736,C1660749,AFFECTS,"RNA, Viral",localization within cell,nnon,celf,1,AFFECTS_NNONafctCELF
+C0041984,C0010813,AFFECTS,Uridine,Cytokinesis,nnon,celf,1,AFFECTS_NNONafctCELF
+C0041984,C1819041,AFFECTS,Uridine,protein kinase activation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0045093,C1160701,AFFECTS,gemcitabine,viral genome replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0047569,C0042774,AFFECTS,3-methyladenine,Virus Replication,nnon,celf,2,AFFECTS_NNONafctCELF
+C0050063,C0004391,AFFECTS,8-chloro-cyclic adenosine monophosphate,Autophagy,nnon,celf,2,AFFECTS_NNONafctCELF
+C0050063,C0032176,AFFECTS,8-chloro-cyclic adenosine monophosphate,Platelet aggregation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0050063,C0162638,AFFECTS,8-chloro-cyclic adenosine monophosphate,Apoptosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C0050063,C1622501,AFFECTS,8-chloro-cyclic adenosine monophosphate,"Migration, Cell",nnon,celf,1,AFFECTS_NNONafctCELF
+C0054150,C0007613,AFFECTS,bropirimine,Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0069429,C1156192,AFFECTS,oligodeoxyadenylic acid,nucleosome positioning,nnon,celf,1,AFFECTS_NNONafctCELF
+C0071360,C1157569,AFFECTS,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",viral translation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0071360,C3825288,AFFECTS,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",Cellular signal transduction,nnon,celf,1,AFFECTS_NNONafctCELF
+C0128608,C0302167,AFFECTS,mizoribine,capping,nnon,celf,1,AFFECTS_NNONafctCELF
+C0164815,C0007620,AFFECTS,penciclovir,Cell Survival,nnon,celf,1,AFFECTS_NNONafctCELF
+C0369499,C0887840,AFFECTS,Human immunodeficiency virus 1 RNA,Nuclear Export,nnon,celf,1,AFFECTS_NNONafctCELF
+C0369499,C1157569,AFFECTS,Human immunodeficiency virus 1 RNA,viral translation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0382377,C1154599,AFFECTS,"RNAIII, Staphylococcus aureus",quorum sensing,nnon,celf,1,AFFECTS_NNONafctCELF
+C0597100,C0007613,AFFECTS,nucleic acid structure,Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0599013,C0007620,AFFECTS,aptamer,Cell Survival,nnon,celf,2,AFFECTS_NNONafctCELF
+C0599013,C0162638,AFFECTS,aptamer,Apoptosis,nnon,celf,2,AFFECTS_NNONafctCELF
+C0599013,C1157569,AFFECTS,aptamer,viral translation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0599013,C1160466,AFFECTS,aptamer,conjugation,nnon,celf,1,AFFECTS_NNONafctCELF
+C0599013,C1656555,AFFECTS,aptamer,viral entry into host cell,nnon,celf,1,AFFECTS_NNONafctCELF
+C0599566,C1160701,AFFECTS,expression vector,viral genome replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C0600680,C0042774,AFFECTS,Untranslated Regions,Virus Replication,nnon,celf,4,AFFECTS_NNONafctCELF
+C0600680,C0599952,AFFECTS,Untranslated Regions,modulation by virus of host morphology or physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C0600680,C1157569,AFFECTS,Untranslated Regions,viral translation,nnon,celf,2,AFFECTS_NNONafctCELF
+C0887909,C0007613,AFFECTS,"RNA, Untranslated",Cell physiology,nnon,celf,3,AFFECTS_NNONafctCELF
+C0887909,C0037083,AFFECTS,"RNA, Untranslated",Signal Transduction,nnon,celf,1,AFFECTS_NNONafctCELF
+C0887909,C0042774,AFFECTS,"RNA, Untranslated",Virus Replication,nnon,celf,4,AFFECTS_NNONafctCELF
+C0887909,C0815089,AFFECTS,"RNA, Untranslated",Cell development,nnon,celf,1,AFFECTS_NNONafctCELF
+C0914671,C1155003,AFFECTS,CPG-ODN,B-Cell Activation,nnon,celf,1,AFFECTS_NNONafctCELF
+C1453933,C0007613,AFFECTS,telbivudine,Cell physiology,nnon,celf,1,AFFECTS_NNONafctCELF
+C1453933,C0042774,AFFECTS,telbivudine,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C1453933,C0162638,AFFECTS,telbivudine,Apoptosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C1511699,C0599733,AFFECTS,DNA Structure,cell killing,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0007586,AFFECTS,Transcript,Cell Cycle,nnon,celf,2,AFFECTS_NNONafctCELF
+C1519595,C0007620,AFFECTS,Transcript,Cell Survival,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0010813,AFFECTS,Transcript,Cytokinesis,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0025186,AFFECTS,Transcript,Meiosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0037083,AFFECTS,Transcript,Signal Transduction,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0042774,AFFECTS,Transcript,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0162638,AFFECTS,Transcript,Apoptosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0596078,AFFECTS,Transcript,amino acid transport,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C0596897,AFFECTS,Transcript,membrane activity,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C1160186,AFFECTS,Transcript,unidirectional conjugation,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C1160701,AFFECTS,Transcript,viral genome replication,nnon,celf,2,AFFECTS_NNONafctCELF
+C1519595,C1516334,AFFECTS,Transcript,Cell Cycle Progression,nnon,celf,1,AFFECTS_NNONafctCELF
+C1519595,C2610960,AFFECTS,Transcript,Pyroptosis,nnon,celf,1,AFFECTS_NNONafctCELF
+C1579410,C0007590,AFFECTS,Nucleoside Analogs,Cell division,nnon,celf,1,AFFECTS_NNONafctCELF
+C1579410,C0010813,AFFECTS,Nucleoside Analogs,Cytokinesis,nnon,celf,1,AFFECTS_NNONafctCELF
+C1579410,C0042774,AFFECTS,Nucleoside Analogs,Virus Replication,nnon,celf,2,AFFECTS_NNONafctCELF
+C1698216,C0042774,AFFECTS,R1479,Virus Replication,nnon,celf,1,AFFECTS_NNONafctCELF
+C2743231,C4235287,AFFECTS,"Mirn124a microRNA, human",vascular smooth muscle cell proliferation,nnon,celf,1,AFFECTS_NNONafctCELF
+C2930586,C0007595,AFFECTS,Short Hairpin RNA,cell growth,nnon,celf,2,AFFECTS_NNONafctCELF
+C2930586,C0042774,AFFECTS,Short Hairpin RNA,Virus Replication,nnon,celf,2,AFFECTS_NNONafctCELF
+C2930586,C0887840,AFFECTS,Short Hairpin RNA,Nuclear Export,nnon,celf,1,AFFECTS_NNONafctCELF
+C2936494,C1817973,AFFECTS,"RNA, Small Untranslated",Leukocyte Differentiation,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C0004391,AFFECTS,Long Intergenic Non-Protein Coding RNA,Autophagy,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C0007586,AFFECTS,Long Intergenic Non-Protein Coding RNA,Cell Cycle,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C0007595,AFFECTS,Long Intergenic Non-Protein Coding RNA,cell growth,nnon,celf,2,AFFECTS_NNONafctCELF
+C2982391,C0007613,AFFECTS,Long Intergenic Non-Protein Coding RNA,Cell physiology,nnon,celf,9,AFFECTS_NNONafctCELF
+C2982391,C0010813,AFFECTS,Long Intergenic Non-Protein Coding RNA,Cytokinesis,nnon,celf,2,AFFECTS_NNONafctCELF
+C2982391,C0037083,AFFECTS,Long Intergenic Non-Protein Coding RNA,Signal Transduction,nnon,celf,3,AFFECTS_NNONafctCELF
+C2982391,C0042774,AFFECTS,Long Intergenic Non-Protein Coding RNA,Virus Replication,nnon,celf,7,AFFECTS_NNONafctCELF
+C2982391,C0596290,AFFECTS,Long Intergenic Non-Protein Coding RNA,Cell Proliferation,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C0872070,AFFECTS,Long Intergenic Non-Protein Coding RNA,nucleocytoplasmic transport,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C1155013,AFFECTS,Long Intergenic Non-Protein Coding RNA,T cell differentiation,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C1159914,AFFECTS,Long Intergenic Non-Protein Coding RNA,lymphocyte differentiation,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C1160700,AFFECTS,Long Intergenic Non-Protein Coding RNA,viral gene expression,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C1326120,AFFECTS,Long Intergenic Non-Protein Coding RNA,cell activation,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C1524026,AFFECTS,Long Intergenic Non-Protein Coding RNA,"Metabolic Process, Cellular",nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C1660642,AFFECTS,Long Intergenic Non-Protein Coding RNA,cellular localization,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C2244223,AFFECTS,Long Intergenic Non-Protein Coding RNA,cellular homeostasis,nnon,celf,1,AFFECTS_NNONafctCELF
+C2982391,C3850096,AFFECTS,Long Intergenic Non-Protein Coding RNA,Cellular Reprogramming,nnon,celf,2,AFFECTS_NNONafctCELF
+C3272452,C0010813,AFFECTS,Single-Stranded RNA,Cytokinesis,nnon,celf,1,AFFECTS_NNONafctCELF
+C3272453,C0007582,AFFECTS,Genomic DNA,Cell Communication,nnon,celf,1,AFFECTS_NNONafctCELF
+C3658200,C0004391,AFFECTS,Clustered Regularly Interspaced Short Palindromic Repeats,Autophagy,nnon,celf,1,AFFECTS_NNONafctCELF
+C4279131,C0007620,AFFECTS,GS-5734,Cell Survival,nnon,celf,1,AFFECTS_NNONafctCELF
+C4284346,C1159974,AFFECTS,MicroRNA 205-5p,osteoblast differentiation,nnon,celf,1,AFFECTS_NNONafctCELF
+C4330330,C1160700,AFFECTS,Human Immunodeficiency Virus RNA,viral gene expression,nnon,celf,1,AFFECTS_NNONafctCELF

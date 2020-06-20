@@ -1,0 +1,617 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000530,C0001443,PRODUCES,5'-NUCLEOTIDASE,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0001019,C0001026,PRODUCES,Acetyl-CoA C-Acetyltransferase,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0001022,C0024645,PRODUCES,Acetyl-CoA Carboxylase,Malonyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0001271,C0032136,PRODUCES,Actins,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0001473,C0025196,PRODUCES,Adenosine Triphosphatases,Melanins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0001492,C0001455,PRODUCES,Adenylate Cyclase,Cyclic AMP,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0001924,C0032136,PRODUCES,Albumins,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0002272,C0017725,PRODUCES,Alpha-glucosidase,Glucose,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0002520,C0001480,PRODUCES,Amino Acids,Adenosine Triphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0002520,C0009235,PRODUCES,Amino Acids,Coenzymes,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0002520,C0015691,PRODUCES,Amino Acids,"Fatty Acids, Volatile",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0002716,C0035696,PRODUCES,Amyloid,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0002723,C0023546,PRODUCES,Serum amyloid A protein,Leukotriene B4,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0002723,C0178645,PRODUCES,Serum amyloid A protein,oxygen free radical,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003009,C0162772,PRODUCES,angiotensin II,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003241,C0023139,PRODUCES,Antibodies,lauric acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003241,C0040549,PRODUCES,Antibodies,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003250,C0006675,PRODUCES,Monoclonal Antibodies,Calcium,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003250,C0012854,PRODUCES,Monoclonal Antibodies,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003250,C0032136,PRODUCES,Monoclonal Antibodies,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003250,C0162772,PRODUCES,Monoclonal Antibodies,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0003762,C0041942,PRODUCES,ARGINASE,Urea,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0003765,C0028128,PRODUCES,Arginine,Nitric Oxide,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0003765,C0136157,PRODUCES,Arginine,Peroxynitrite,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0005554,C0012854,PRODUCES,Biopolymers,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0005789,C0005522,PRODUCES,Blood Coagulation Factor,Biological Products,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0005789,C0041004,PRODUCES,Blood Coagulation Factor,Triglycerides,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0006772,C0001455,PRODUCES,Calmodulin,Cyclic AMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0007054,C0034170,PRODUCES,Carboxy-Lyases,Putrescine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0007367,C0162772,PRODUCES,CATALASE,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0009325,C0035721,PRODUCES,Collagen,Glycine-Specific tRNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0009325,C0035730,PRODUCES,Collagen,Proline-Specific tRNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0009325,C0162772,PRODUCES,Collagen,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0009498,C0008013,PRODUCES,Complement System Proteins,Chemotactic Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0009498,C0012854,PRODUCES,Complement System Proteins,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0009498,C0536566,PRODUCES,Complement System Proteins,suilysin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010377,C0019053,PRODUCES,Crotoxin,Hemolysin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010590,C0028128,PRODUCES,Cycloserine,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010590,C0035693,PRODUCES,Cycloserine,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010590,C0035696,PRODUCES,Cycloserine,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010592,C0012854,PRODUCES,Cyclosporine,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010654,C0038774,PRODUCES,Cysteine,Sulfur,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0010654,C0162772,PRODUCES,Cysteine,Reactive Oxygen Species,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0010762,C0020349,PRODUCES,Cytochrome P450,Hydroxyeicosatetraenoic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010798,C0136157,PRODUCES,Cytochromes,Peroxynitrite,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010806,C0035696,PRODUCES,Keratin-19,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0010934,C0035693,PRODUCES,Dactinomycin,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0011486,C0962772,PRODUCES,Deoxycytidine Kinase,lamivudine triphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0011516,C0032136,PRODUCES,Deoxyribonuclease EcoRI,Plasmids,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0011519,C0012854,PRODUCES,Deoxyribonuclease I,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0011519,C0684192,PRODUCES,Deoxyribonuclease I,DNA fragments,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0012524,C0025196,PRODUCES,Catechol Oxidase,Melanins,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0012550,C0040549,PRODUCES,Diphtheria Toxin,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0012892,C0012854,PRODUCES,DNA-Directed DNA Polymerase,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0012892,C0028606,PRODUCES,DNA-Directed DNA Polymerase,Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0012892,C0242850,PRODUCES,DNA-Directed DNA Polymerase,Retroelements,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0012906,C0012854,PRODUCES,DNA Restriction Enzymes,DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0012906,C0032136,PRODUCES,DNA Restriction Enzymes,Plasmids,aapp,bacs,5,PRODUCES_AAPPprodBACS
+C0012906,C0684192,PRODUCES,DNA Restriction Enzymes,DNA fragments,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0013729,C0018340,PRODUCES,Eukaryotic Initiation Factor-2,Guanosine Diphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0014230,C0035696,PRODUCES,endonuclease,"RNA, Messenger",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0014230,C0751969,PRODUCES,endonuclease,Small Nucleolar RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0014241,C0035701,PRODUCES,Endoribonucleases,Ribosomal RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0014372,C0040549,PRODUCES,Enterotoxins,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0014436,C0008013,PRODUCES,Enzyme Precursors,Chemotactic Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0015296,C0001465,PRODUCES,Exonuclease,Adenosine Monophosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0015879,C0302583,PRODUCES,Ferritin,Iron,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0016026,C0060955,PRODUCES,Fibroblast Growth Factor,galactocerebroside,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0016955,C0032136,PRODUCES,Galactosidase,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017278,C0012854,PRODUCES,"Gene Products, env",DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017343,C0032136,PRODUCES,"Genes, env",Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017360,C0032136,PRODUCES,pol genes,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017360,C1099354,PRODUCES,pol genes,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017364,C0032136,PRODUCES,"Genes, rev",Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017376,C0014587,PRODUCES,"Genes, Viral",Episomes,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017429,C0012854,PRODUCES,"Genome, Human",DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0017429,C1101610,PRODUCES,"Genome, Human",MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017626,C0038727,PRODUCES,Glial Fibrillary Acidic Protein,Sulfoglycosphingolipids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017645,C0035696,PRODUCES,Globin,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017687,C0017725,PRODUCES,Glucagon,Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017757,C0027303,PRODUCES,Glucosephosphate Dehydrogenase,NADP,aapp,bacs,7,PRODUCES_AAPPprodBACS
+C0017764,C0017725,PRODUCES,GLUCOSIDASE,Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017776,C0061444,PRODUCES,Beta-glucuronidase,Glucuronic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017789,C0027908,PRODUCES,Glutamates,Neurotransmitters,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017797,C0017725,PRODUCES,Glutamine,Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017797,C0027908,PRODUCES,Glutamine,Neurotransmitters,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017797,C0028128,PRODUCES,Glutamine,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017817,C0030054,PRODUCES,Glutathione,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017817,C0162772,PRODUCES,Glutathione,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017822,C0016693,PRODUCES,GLUTATHIONE PEROXIDASE,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017824,C0162772,PRODUCES,Glutathione Reductase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0017968,C0012854,PRODUCES,Glycoproteins,DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0017968,C0032136,PRODUCES,Glycoproteins,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0017968,C0035142,PRODUCES,Glycoproteins,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0018358,C0018338,PRODUCES,Guanylate Cyclase,Cyclic GMP,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0018358,C0028128,PRODUCES,Guanylate Cyclase,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0019046,C0018927,PRODUCES,Hemoglobin,Hematin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0019046,C0018966,PRODUCES,Hemoglobin,Heme,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0019046,C0302583,PRODUCES,Hemoglobin,Iron,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0019605,C0019588,PRODUCES,Histidine Decarboxylase,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0019643,C0086860,PRODUCES,Histone Deacetylase,promoter,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0020374,C0677647,PRODUCES,Hydroxymethylglutaryl-CoA reductase,Mevalonate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021641,C0043481,PRODUCES,Insulin,Zinc,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021740,C0028128,PRODUCES,Recombinant Interferon-gamma,Nitric Oxide,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0021747,C0019588,PRODUCES,Interferons,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021747,C0028606,PRODUCES,Interferons,Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021755,C0017973,PRODUCES,Interleukin-1,Glycosaminoglycans,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021755,C0019588,PRODUCES,Interleukin-1,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021755,C0028158,PRODUCES,Interleukin-1,Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021755,C0030054,PRODUCES,Interleukin-1,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021755,C0162772,PRODUCES,Interleukin-1,Reactive Oxygen Species,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0021756,C0023546,PRODUCES,Interleukin-2,Leukotriene B4,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021758,C0028128,PRODUCES,Interleukin-4,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021760,C0019588,PRODUCES,Interleukin-6,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021760,C0028128,PRODUCES,Interleukin-6,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021760,C0920643,PRODUCES,Interleukin-6,reactive oxygen intermediate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0021764,C0028128,PRODUCES,Interleukins,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0022714,C0019588,PRODUCES,Kinins,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0022948,C0028128,PRODUCES,LACTOPEROXIDASE,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0022959,C1099354,PRODUCES,LacZ Genes,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0023764,C0017861,PRODUCES,Lipase,Glycerin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0023837,C0028128,PRODUCES,Lipoxygenase,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0024075,C0032136,PRODUCES,Luciferases,Plasmids,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0024075,C0035142,PRODUCES,Luciferases,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0024075,C1099354,PRODUCES,Luciferases,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0024188,C0070939,PRODUCES,Lyase,phosphoethanolamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0024337,C0035696,PRODUCES,Lysine,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0024361,C0025196,PRODUCES,Lysophospholipase,Melanins,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0025248,C0067762,PRODUCES,Membrane Glycoproteins,N-Acetylneuraminic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0025545,C0009968,PRODUCES,Metallothionein,Copper,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0025635,C0028128,PRODUCES,Methemoglobin,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026452,C0031676,PRODUCES,Monoacylglycerol Lipases,Phospholipids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026682,C0035696,PRODUCES,Mucins,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026741,C0016693,PRODUCES,Multienzyme Complexes,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026741,C0017725,PRODUCES,Multienzyme Complexes,Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026741,C0162772,PRODUCES,Multienzyme Complexes,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026741,C0242494,PRODUCES,Multienzyme Complexes,Poly(A) Tail,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026741,C1101610,PRODUCES,Multienzyme Complexes,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0026832,C0035696,PRODUCES,Muscle Proteins,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0027021,C0016693,PRODUCES,Peroxidase,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0027021,C0162772,PRODUCES,Peroxidase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0027307,C0027303,PRODUCES,NADP Transhydrogenase,NADP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0027803,C0067762,PRODUCES,Neuraminidase,N-Acetylneuraminic Acid,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0028228,C0027270,PRODUCES,Nicotinamide-Nucleotide Adenylyltransferase,Nicotinamide adenine dinucleotide (NAD),aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0028615,C0962772,PRODUCES,Nucleoside-Diphosphate Kinase,lamivudine triphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0028625,C0001443,PRODUCES,Nucleotidases,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0028632,C3710730,PRODUCES,nucleotidyltransferase,cyclic guanosine monophosphate-adenosine monophosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0029073,C0040549,PRODUCES,Operon,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0029282,C0034170,PRODUCES,Ornithine Decarboxylase,Putrescine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030016,C0162772,PRODUCES,Oxidoreductase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030016,C0969698,PRODUCES,Oxidoreductase,Reactive Nitrogen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030065,C0005437,PRODUCES,Oxygenases,Bilirubin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030065,C0302583,PRODUCES,Oxygenases,Iron,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030909,C0032136,PRODUCES,Pepsin A,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030940,C0028158,PRODUCES,Peptide Hydrolases,Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030940,C0036733,PRODUCES,Peptide Hydrolases,Serine Proteinase Inhibitors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0030940,C0040549,PRODUCES,Peptide Hydrolases,Toxin,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0030940,C1136170,PRODUCES,Peptide Hydrolases,Virulence Factors,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0030946,C0031676,PRODUCES,Endopeptidases,Phospholipids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031453,C0007412,PRODUCES,Phenylalanine,Catecholamines,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031653,C1136170,PRODUCES,PHOSPHOGLUCOMUTASE,Virulence Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031667,C0015686,PRODUCES,Phospholipases A2,"Fatty Acids, Essential",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031667,C0023545,PRODUCES,Phospholipases A2,Leukotrienes,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031669,C0007745,PRODUCES,Phospholipase C,Ceramides,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031669,C0043791,PRODUCES,Phospholipase C,"1,2-diacylglycerol",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031670,C0008405,PRODUCES,Phospholipase D,Choline,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031671,C0031676,PRODUCES,Phospholipase,Phospholipids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031671,C0522095,PRODUCES,Phospholipase,Long chain fatty acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031678,C0035142,PRODUCES,Phosphoric Monoester Hydrolases,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0031727,C0035711,PRODUCES,Phosphotransferases,Transfer RNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0032120,C0028606,PRODUCES,Plasma Proteins,Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0032405,C0001461,PRODUCES,Poly(ADP-ribose) Polymerases,Adenosine Diphosphate Ribose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0032405,C0016693,PRODUCES,Poly(ADP-ribose) Polymerases,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033164,C0012854,PRODUCES,Prions,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033551,C0023545,PRODUCES,Prostaglandin-Endoperoxide Synthase,Leukotrienes,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033551,C0028128,PRODUCES,Prostaglandin-Endoperoxide Synthase,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033551,C0031619,PRODUCES,Prostaglandin-Endoperoxide Synthase,Phosphatidylglycerols,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033551,C0072288,PRODUCES,Prostaglandin-Endoperoxide Synthase,Prostaglandin H2,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033551,C0162772,PRODUCES,Prostaglandin-Endoperoxide Synthase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033551,C0599745,PRODUCES,Prostaglandin-Endoperoxide Synthase,lipid mediator,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0033665,C0032136,PRODUCES,Protein Precursors,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0034817,C0028606,PRODUCES,"Receptors, Immunologic",Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0034861,C0032136,PRODUCES,Recombinant Proteins,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0035379,C0012854,PRODUCES,RNA-Directed DNA Polymerase,DNA,aapp,bacs,11,PRODUCES_AAPPprodBACS
+C0035379,C0035693,PRODUCES,RNA-Directed DNA Polymerase,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035678,C0035701,PRODUCES,RNA Polymerase I,Ribosomal RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035679,C0086860,PRODUCES,RNA Polymerase II,promoter,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035679,C0242494,PRODUCES,RNA Polymerase II,Poly(A) Tail,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035679,C1101610,PRODUCES,RNA Polymerase II,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035679,C1337054,PRODUCES,RNA Polymerase II,Primary MicroRNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035680,C0035701,PRODUCES,RNA Polymerase III,Ribosomal RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035680,C0035711,PRODUCES,RNA Polymerase III,Transfer RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035685,C0035693,PRODUCES,RNA-Directed RNA Polymerase,"RNA, Double-Stranded",aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0035685,C1099354,PRODUCES,RNA-Directed RNA Polymerase,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0035899,C0035701,PRODUCES,Ribosomal RNA Genes,Ribosomal RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0036584,C0036581,PRODUCES,Selenomethionine,Selenium,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0036720,C0021544,PRODUCES,Serine,Inosinic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0036720,C0040077,PRODUCES,Serine,Thymidine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0037903,C0007745,PRODUCES,SPHINGOMYELINASE,Ceramides,aapp,bacs,6,PRODUCES_AAPPprodBACS
+C0040048,C0017973,PRODUCES,Thromboplastin,Glycosaminoglycans,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0040085,C0599538,PRODUCES,Thymidylate Synthase,thymidylate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0040627,C0013030,PRODUCES,Trans-Activators,Dopamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0040648,C0035696,PRODUCES,TRANSCRIPTION FACTOR,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0040676,C0001026,PRODUCES,Transferase,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0040709,C0027303,PRODUCES,TRANSKETOLASE,NADP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041249,C0027270,PRODUCES,Tryptophan,Nicotinamide adenine dinucleotide (NAD),aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041249,C4331440,PRODUCES,Tryptophan,Tryptophan Metabolite,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041368,C0017973,PRODUCES,Tumor Necrosis Factors,Glycosaminoglycans,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041368,C0019588,PRODUCES,Tumor Necrosis Factors,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041484,C0025196,PRODUCES,MONOPHENOL MONOOXYGENASE,Melanins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041538,C0012854,PRODUCES,Ubiquitin,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0041538,C0032136,PRODUCES,Ubiquitin,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042720,C0012854,PRODUCES,Viral Genome,DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0042720,C0032136,PRODUCES,Viral Genome,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042720,C0035142,PRODUCES,Viral Genome,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042720,C0035693,PRODUCES,Viral Genome,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042720,C0035696,PRODUCES,Viral Genome,"RNA, Messenger",aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0042720,C1136156,PRODUCES,Viral Genome,Nested Transcripts,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0042736,C0006675,PRODUCES,Viral Proteins,Calcium,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042736,C0012854,PRODUCES,Viral Proteins,DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0042736,C0032136,PRODUCES,Viral Proteins,Plasmids,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0042736,C0035142,PRODUCES,Viral Proteins,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042736,C0035696,PRODUCES,Viral Proteins,"RNA, Messenger",aapp,bacs,7,PRODUCES_AAPPprodBACS
+C0042736,C0035711,PRODUCES,Viral Proteins,Transfer RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042736,C0242494,PRODUCES,Viral Proteins,Poly(A) Tail,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0042736,C1099354,PRODUCES,Viral Proteins,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0043316,C0027289,PRODUCES,Xanthine Dehydrogenase,NADH,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0043316,C0041980,PRODUCES,Xanthine Dehydrogenase,Uric Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0043316,C0162772,PRODUCES,Xanthine Dehydrogenase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0043317,C0028128,PRODUCES,Xanthine Oxidase,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0043317,C0041980,PRODUCES,Xanthine Oxidase,Uric Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0043317,C0162772,PRODUCES,Xanthine Oxidase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0044602,C0031621,PRODUCES,1-Phosphatidylinositol 3-Kinase,Phosphatidylinositols,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0047645,C0136157,PRODUCES,3-nitrotyrosine,Peroxynitrite,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0051978,C0019588,PRODUCES,Anti-Immunoglobulin E antibody,Histamine,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0052908,C0035670,PRODUCES,bacteriophage T7 RNA polymerase,RNA Caps,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0053409,C0017725,PRODUCES,Invertase,Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0054757,C3494870,PRODUCES,carboxypeptidase H,Viral isolate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0054871,C0040112,PRODUCES,Cathepsin L,Thymus Extracts,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0055633,C0012854,PRODUCES,Chromogranin A,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0055633,C1136170,PRODUCES,Chromogranin A,Virulence Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0055633,C1508748,PRODUCES,Chromogranin A,second messenger,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0055633,C3710730,PRODUCES,Chromogranin A,cyclic guanosine monophosphate-adenosine monophosphate,aapp,bacs,21,PRODUCES_AAPPprodBACS
+C0055817,C0035693,PRODUCES,citrate carrier,"RNA, Double-Stranded",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0056669,C0178695,PRODUCES,cyanophycin,hyaluronate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0057256,C0035693,PRODUCES,Defensins,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0058099,C0041917,PRODUCES,Dihydroorotate dehydrogenase,Uracil,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0059100,C0022949,PRODUCES,"Xylan Endo-1,3-beta-Xylosidase",Lactose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0059266,C0035417,PRODUCES,endorhamnosidase,rhamnose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0060911,C1099354,PRODUCES,"G protein, vesicular stomatitis virus","RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0061516,C0043481,PRODUCES,Glutathione Disulfide,Zinc,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0061780,C0018346,PRODUCES,GMP synthase,Guanosine Monophosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0063700,C0028128,PRODUCES,Interferon Regulatory Factor 1,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0064293,C1136170,PRODUCES,keratinase,Virulence Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0064566,C0025196,PRODUCES,Laccase,Melanins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0065397,C0025196,PRODUCES,lysophospholipase-transacylase,Melanins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0065684,C0162772,PRODUCES,mannose receptor,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0065827,C0032136,PRODUCES,Measles Virus Nucleoprotein,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0065827,C0035142,PRODUCES,Measles Virus Nucleoprotein,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0068355,C0016693,PRODUCES,NADPH Oxidase,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0068355,C0162772,PRODUCES,NADPH Oxidase,Reactive Oxygen Species,aapp,bacs,7,PRODUCES_AAPPprodBACS
+C0068355,C0178645,PRODUCES,NADPH Oxidase,oxygen free radical,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0068452,C1677802,PRODUCES,naringinase,prunin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0071598,C0025196,PRODUCES,polyketide synthase,Melanins,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0072259,C0033567,PRODUCES,Prostacyclin synthase,Epoprostenol,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0072600,C0031676,PRODUCES,Pulmonary Surfactant-Associated Proteins,Phospholipids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0072600,C0034085,PRODUCES,Pulmonary Surfactant-Associated Proteins,Pulmonary Surfactants,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0073240,C0035693,PRODUCES,Ribonuclease III,"RNA, Double-Stranded",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0073240,C1099354,PRODUCES,Ribonuclease III,"RNA, Small Interfering",aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0073240,C1101610,PRODUCES,Ribonuclease III,MicroRNAs,aapp,bacs,5,PRODUCES_AAPPprodBACS
+C0073240,C1337053,PRODUCES,Ribonuclease III,pre-miRNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0074302,C0036581,PRODUCES,Selenoproteins,Selenium,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0074375,C0070939,PRODUCES,serine palmitoyltransferase,phosphoethanolamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0075813,C0012854,PRODUCES,Taq Polymerase,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0077503,C1519315,PRODUCES,Tumor Necrosis Factor Receptor,Signaling Molecule,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C0028128,PRODUCES,cytokine,Nitric Oxide,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0079189,C0028606,PRODUCES,cytokine,Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C0032136,PRODUCES,cytokine,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C0035696,PRODUCES,cytokine,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C0162772,PRODUCES,cytokine,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C0178555,PRODUCES,cytokine,chemical cofactor,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C0599745,PRODUCES,cytokine,lipid mediator,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0079189,C1099354,PRODUCES,cytokine,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079189,C1519315,PRODUCES,cytokine,Signaling Molecule,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079259,C0035696,PRODUCES,Dystrophin,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079633,C0019588,PRODUCES,Interleukin-8,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079904,C0162772,PRODUCES,NF-kappa B,Reactive Oxygen Species,aapp,bacs,4,PRODUCES_AAPPprodBACS
+C0079941,C0032136,PRODUCES,Open Reading Frames,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0079941,C0035693,PRODUCES,Open Reading Frames,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079941,C0035696,PRODUCES,Open Reading Frames,"RNA, Messenger",aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0079941,C0369169,PRODUCES,Open Reading Frames,Epstein-Barr virus DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079941,C1099354,PRODUCES,Open Reading Frames,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0079941,C1101610,PRODUCES,Open Reading Frames,MicroRNAs,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0080125,C0032136,PRODUCES,Catalytic RNA,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0080125,C0035693,PRODUCES,Catalytic RNA,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0082529,C0162772,PRODUCES,Mitogen-Activated Protein Kinase 3,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0083183,C0022949,PRODUCES,Lactase,Lactose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0083910,C0012925,PRODUCES,"P protein, Hepatitis B virus","DNA, Circular",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085193,C0027908,PRODUCES,Ion Pumps,Neurotransmitters,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085249,C0043375,PRODUCES,glycosyltransferase,Xylose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085249,C0061444,PRODUCES,glycosyltransferase,Glucuronic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085295,C0028158,PRODUCES,Interleukin-10,Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085295,C0030054,PRODUCES,Interleukin-10,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085431,C0012854,PRODUCES,Ribonuclease H,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0085431,C1101610,PRODUCES,Ribonuclease H,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0086376,C0001455,PRODUCES,GTP-Binding Proteins,Cyclic AMP,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0086376,C0012854,PRODUCES,GTP-Binding Proteins,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0116275,C0028128,PRODUCES,Eosinophil Granule Proteins,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0120285,C0016693,PRODUCES,Green Fluorescent Proteins,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0120285,C0032136,PRODUCES,Green Fluorescent Proteins,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0120285,C0035142,PRODUCES,Green Fluorescent Proteins,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0121925,C0012854,PRODUCES,"reverse transcriptase, Human immunodeficiency virus 1",DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0123759,C0028128,PRODUCES,Interleukin-12,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0123759,C0032136,PRODUCES,Interleukin-12,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0123759,C0162772,PRODUCES,Interleukin-12,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0132555,C0016693,PRODUCES,Nitric Oxide Synthase,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0132555,C0028128,PRODUCES,Nitric Oxide Synthase,Nitric Oxide,aapp,bacs,8,PRODUCES_AAPPprodBACS
+C0140662,C0035696,PRODUCES,RNA polymerase SP6,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0145779,C0001443,PRODUCES,Thrombomodulin,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0147080,C0019588,PRODUCES,TRYPTASE,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0162768,C0016945,PRODUCES,Fusion protein,Galactose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0162768,C0032136,PRODUCES,Fusion protein,Plasmids,aapp,bacs,5,PRODUCES_AAPPprodBACS
+C0162768,C0700214,PRODUCES,Fusion protein,carrier (molecular),aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0170884,C0048323,PRODUCES,chorismate pyruvate lyase,4-hydroxybenzoic acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0172537,C0028128,PRODUCES,Matrix Metalloproteinase 2,Nitric Oxide,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0172537,C1722427,PRODUCES,Matrix Metalloproteinase 2,shigyaku-san,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0178827,C0035693,PRODUCES,replicase,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0206414,C0032136,PRODUCES,"Genes, Reporter",Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0206492,C0012854,PRODUCES,"Antibodies, Bispecific",DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0209748,C0037906,PRODUCES,sphingomyelin synthase,Sphingomyelins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0210666,C0040549,PRODUCES,Panton-Valentine leukocidin,Toxin,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0243041,C0016693,PRODUCES,Molecular Chaperones,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0246951,C1508748,PRODUCES,Integrin alpha6beta1,second messenger,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0257766,C0032136,PRODUCES,"SILV protein, human",Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0258441,C0017725,PRODUCES,TNF receptor-associated factor 2,Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0282554,C0162772,PRODUCES,chemokine,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0282554,C0599745,PRODUCES,chemokine,lipid mediator,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0282554,C1099354,PRODUCES,chemokine,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0282641,C0035693,PRODUCES,Transgenes,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0282641,C1764827,PRODUCES,Transgenes,Isolate - microorganism,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0292142,C0028128,PRODUCES,lymphotoxin beta,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0292147,C1101610,PRODUCES,Importins,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0301713,C0008518,PRODUCES,Aromatic Amino Acids,Chorismic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0305052,C1519315,PRODUCES,Gamma globulin serum,Signaling Molecule,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0312399,C0065335,PRODUCES,"Alkaline phosphatase isoenzyme, bone fraction",lycorine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0313088,C0023139,PRODUCES,Blood group antibody I^D^,lauric acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0376570,C0043791,PRODUCES,Arrestins,"1,2-diacylglycerol",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0377274,C1136170,PRODUCES,Collectins,Virulence Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0377293,C0001443,PRODUCES,ecto-nucleotidase,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0378910,C0035696,PRODUCES,Lymphocyte antigen CD66A,"RNA, Messenger",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0378910,C3178793,PRODUCES,Lymphocyte antigen CD66A,Messenger RNA Isoforms,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0382144,C1528429,PRODUCES,taxadiene synthase,taxadiene,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0387583,C0033532,PRODUCES,cyclooxygenase 2,Prostaglandin D2,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0388911,C0001026,PRODUCES,Vascular Endothelial Growth Factor C,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0440471,C0012925,PRODUCES,Genetic Materials,"DNA, Circular",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0443640,C0068527,PRODUCES,Specific antibody,Neopterin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0475463,C0028128,PRODUCES,"Antibodies, Neutralizing",Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0475463,C0040549,PRODUCES,"Antibodies, Neutralizing",Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0487637,C0032136,PRODUCES,T lymphocyte antigen,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0524816,C1099354,PRODUCES,Nucleocapsid Proteins,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0524938,C0162772,PRODUCES,Mutase,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0537282,C0012854,PRODUCES,GB-D polymerase,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0538075,C0016693,PRODUCES,Chemokine CCL24,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0582263,C0032136,PRODUCES,Structural protein,Plasmids,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C0582263,C0035696,PRODUCES,Structural protein,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597094,C0035693,PRODUCES,nuclease,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597357,C0006675,PRODUCES,receptor,Calcium,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0597357,C0008013,PRODUCES,receptor,Chemotactic Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597357,C0019588,PRODUCES,receptor,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597357,C0021549,PRODUCES,receptor,"Inositol 1,4,5-Trisphosphate",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597357,C0302583,PRODUCES,receptor,Iron,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597427,C0032136,PRODUCES,secretory protein,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0597721,C0035693,PRODUCES,Janus kinase,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599220,C0006675,PRODUCES,Protein Subunits,Calcium,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599220,C0012854,PRODUCES,Protein Subunits,DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0599220,C0018340,PRODUCES,Protein Subunits,Guanosine Diphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599220,C0028606,PRODUCES,Protein Subunits,Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599220,C0035670,PRODUCES,Protein Subunits,RNA Caps,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599220,C0162772,PRODUCES,Protein Subunits,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599561,C0032136,PRODUCES,e protein,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599561,C0949655,PRODUCES,e protein,E-Box Elements,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0599770,C0040549,PRODUCES,genetic element,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0623362,C0162772,PRODUCES,Matrix Metalloproteinases,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0669365,C0028128,PRODUCES,"NOS3 protein, human",Nitric Oxide,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0669365,C0031617,PRODUCES,"NOS3 protein, human",Lecithin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0669365,C1519315,PRODUCES,"NOS3 protein, human",Signaling Molecule,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0669368,C0028128,PRODUCES,Nitric Oxide Synthase Type I,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0669372,C0028128,PRODUCES,"NOS2A protein, human",Nitric Oxide,aapp,bacs,16,PRODUCES_AAPPprodBACS
+C0669372,C0136157,PRODUCES,"NOS2A protein, human",Peroxynitrite,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0669372,C0920643,PRODUCES,"NOS2A protein, human",reactive oxygen intermediate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0671563,C0302583,PRODUCES,holotransferrin,Iron,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0673013,C0041917,PRODUCES,"GPER protein, human",Uracil,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0673013,C0042010,PRODUCES,"GPER protein, human",Uridine Triphosphate,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0699918,C1136170,PRODUCES,Elastases,Virulence Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0699919,C0162772,PRODUCES,Cathepsins B,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0760250,C0001374,PRODUCES,acyl CoA synthetase 5,Acyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0763658,C0028128,PRODUCES,"BIRC3 protein, human",Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0795657,C0025196,PRODUCES,"alpha 1-proteinase inhibitor, human",Melanins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0815043,C0302583,PRODUCES,"Protein, Organized by Function",Iron,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0815045,C0001460,PRODUCES,Storage proteins,Adenosine Diphosphate Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0910515,C0007745,PRODUCES,sphingosine-1-phosphate phosphatase,Ceramides,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0913092,C0032136,PRODUCES,DC-specific ICAM-3 grabbing nonintegrin,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0916194,C0162772,PRODUCES,dectin 1,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0917785,C0061414,PRODUCES,Glycogen Phosphorylase,glucose-1-phosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0917877,C0012854,PRODUCES,Cyclophilins,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0920283,C1101610,PRODUCES,DNA Helicases,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0950430,C0018338,PRODUCES,Bacillus intermedius ribonuclease,Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0964782,C1136156,PRODUCES,"lysozyme, chicken egg white",Nested Transcripts,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0971382,C0035693,PRODUCES,Dicer Enzyme,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C0971382,C1099354,PRODUCES,Dicer Enzyme,"RNA, Small Interfering",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0971382,C1101610,PRODUCES,Dicer Enzyme,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1097411,C0018338,PRODUCES,soluble guanylyl cyclase,Cyclic GMP,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C1098706,C0027289,PRODUCES,human AVP protein,NADH,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1099355,C1101610,PRODUCES,RNA-Induced Silencing Complex,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1100642,C0032615,PRODUCES,"phospholipase A2, group X protein",Polyunsaturated Fatty Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1136177,C0001461,PRODUCES,Sirtuins,Adenosine Diphosphate Ribose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1144709,C0018338,PRODUCES,Natriuretic Peptides,Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1179435,C1099354,PRODUCES,Protein Component,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1256770,C0002976,PRODUCES,Vascular Endothelial Growth Factors,Angiogenesis Factor,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1256770,C0035696,PRODUCES,Vascular Endothelial Growth Factors,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1257902,C0035693,PRODUCES,Jumping Genes,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1291775,C0012854,PRODUCES,Microbial antigen,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1305923,C0012854,PRODUCES,Polypeptides,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1305923,C0032136,PRODUCES,Polypeptides,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1305923,C0035693,PRODUCES,Polypeptides,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1305923,C0035696,PRODUCES,Polypeptides,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1305923,C0035711,PRODUCES,Polypeptides,Transfer RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1309483,C1099354,PRODUCES,"DICER1 protein, human","RNA, Small Interfering",aapp,bacs,20,PRODUCES_AAPPprodBACS
+C1309483,C1101610,PRODUCES,"DICER1 protein, human",MicroRNAs,aapp,bacs,9,PRODUCES_AAPPprodBACS
+C1310463,C0035693,PRODUCES,"IFIH1 protein, human","RNA, Double-Stranded",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1310468,C0028606,PRODUCES,"DDX58 protein, human",Nucleic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1310468,C0035693,PRODUCES,"DDX58 protein, human","RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1310550,C0032136,PRODUCES,"glutamate carboxypeptidase II, human",Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1332379,C0012929,PRODUCES,BAK1 gene,"DNA, Mitochondrial",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1332386,C0035142,PRODUCES,BCAR3 gene,Replicon,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1333217,C0042002,PRODUCES,DHODH gene,Uridine Monophosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1333218,C1101610,PRODUCES,DICER1 gene,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1333261,C0061393,PRODUCES,Deacetylase,glucosamine 6-phosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1333929,C0032136,PRODUCES,HSV-Tk Gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1334043,C0751969,PRODUCES,Homologous Gene,Small Nucleolar RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1334043,C3481430,PRODUCES,Homologous Gene,fusion transcript,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1334088,C1099354,PRODUCES,IGF1R gene,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1334435,C0032136,PRODUCES,Luc Gene,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1334435,C1099354,PRODUCES,Luc Gene,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335144,C0600508,PRODUCES,Orthologous Gene,Response Elements,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335221,C0020349,PRODUCES,PLA2G2A gene,Hydroxyeicosatetraenoic Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335271,C0033567,PRODUCES,PTGS1 gene,Epoprostenol,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1335439,C0000702,PRODUCES,Polymerase,"DNA, A-Form",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335439,C0012854,PRODUCES,Polymerase,DNA,aapp,bacs,6,PRODUCES_AAPPprodBACS
+C1335439,C0032136,PRODUCES,Polymerase,Plasmids,aapp,bacs,3,PRODUCES_AAPPprodBACS
+C1335439,C0035696,PRODUCES,Polymerase,"RNA, Messenger",aapp,bacs,5,PRODUCES_AAPPprodBACS
+C1335439,C0242494,PRODUCES,Polymerase,Poly(A) Tail,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335439,C1099354,PRODUCES,Polymerase,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335440,C0035696,PRODUCES,Polymerase Gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1335872,C0035696,PRODUCES,STAT1 gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1336636,C0040291,PRODUCES,TLR4 gene,Tissue Extracts,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1336636,C0162772,PRODUCES,TLR4 gene,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1336644,C0040549,PRODUCES,TNFRSF10B gene,Toxin,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1336763,C0028158,PRODUCES,Toll-Like Receptor Family Gene,Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1336763,C0030054,PRODUCES,Toll-Like Receptor Family Gene,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1336789,C0032136,PRODUCES,Transcription Repressor/Corepressor,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1367307,C0028128,PRODUCES,STAT3 gene,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1367477,C0028158,PRODUCES,CD14 gene,Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1367477,C0030054,PRODUCES,CD14 gene,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1367710,C0019588,PRODUCES,C5 gene,Histamine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412104,C0030234,PRODUCES,ACACA gene,Palmitic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412105,C0024645,PRODUCES,ACACB gene,Malonyl Coenzyme A,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1412206,C0032136,PRODUCES,ADAM8 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412361,C0023545,PRODUCES,ALOX5 gene,Leukotrienes,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412515,C0028128,PRODUCES,ARG1 gene,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412573,C0037907,PRODUCES,ASAH1 gene,Sphingosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412687,C0016693,PRODUCES,ATP6AP1 gene,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412687,C0030054,PRODUCES,ATP6AP1 gene,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412687,C0136157,PRODUCES,ATP6AP1 gene,Peroxynitrite,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412830,C0001461,PRODUCES,BST1 gene,Adenosine Diphosphate Ribose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1412882,C0162772,PRODUCES,TIGAR gene,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1413114,C0035696,PRODUCES,CAPNS1 gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1413371,C4277571,PRODUCES,CH25H gene,Oxysterols,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1413688,C0001026,PRODUCES,CPT1A gene,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1413834,C0040549,PRODUCES,MAMLD1 gene,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1413844,C0162772,PRODUCES,CYBB gene,Reactive Oxygen Species,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1414028,C1101610,PRODUCES,DGCR8 gene,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1414260,C0030054,PRODUCES,EDN1 gene,Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1414270,C0032136,PRODUCES,EEF1A1 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1414359,C0018340,PRODUCES,EIF5 gene,Guanosine Diphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1414407,C0001443,PRODUCES,ENPP1 gene,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1414615,C0001026,PRODUCES,VEGFD gene,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415273,C0032136,PRODUCES,TECR gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415284,C1764827,PRODUCES,GRAP2 gene,Isolate - microorganism,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415468,C4082271,PRODUCES,HAO1 gene,gluconic acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415553,C1099354,PRODUCES,HIVEP2 gene,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415619,C0018338,PRODUCES,HMOX1 gene,Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415761,C0032136,PRODUCES,HSPA5 gene,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1415877,C0027289,PRODUCES,IDH2 gene,NADH,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1415892,C0032136,PRODUCES,IFIT1 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1416467,C0035696,PRODUCES,FOXP3 gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1417092,C0027289,PRODUCES,ME1 gene,NADH,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1417663,C0597765,PRODUCES,NEDD8 gene,Adenylate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1417771,C0162772,PRODUCES,NOX4 gene,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1417810,C0018338,PRODUCES,NPR1 gene,Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1417861,C0001443,PRODUCES,NT5E gene,Adenosine,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1417862,C0035696,PRODUCES,NT5C2 gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1418401,C0001443,PRODUCES,PDCD1 gene,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1418503,C0018338,PRODUCES,PGC gene,Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1418616,C0032615,PRODUCES,PLA2G10 gene,Polyunsaturated Fatty Acids,aapp,bacs,4,PRODUCES_AAPPprodBACS
+C1418619,C0032615,PRODUCES,PLA2G2D gene,Polyunsaturated Fatty Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1419071,C0072288,PRODUCES,PTGIS gene,Prostaglandin H2,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1419142,C0035693,PRODUCES,NECTIN1 gene,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1419212,C0032136,PRODUCES,RAB5A gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1419692,C0019134,PRODUCES,RPLP1 gene,heparin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1420002,C0035696,PRODUCES,SFTPA1 gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1420006,C0018338,PRODUCES,SGCB gene,Cyclic GMP,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1421429,C0035693,PRODUCES,VTRNA1-1 gene,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1421429,C0035696,PRODUCES,VTRNA1-1 gene,"RNA, Messenger",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1421429,C0065335,PRODUCES,VTRNA1-1 gene,lycorine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1421429,C0086860,PRODUCES,VTRNA1-1 gene,promoter,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1421479,C0018338,PRODUCES,WASF1 gene,Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1421527,C0684192,PRODUCES,XBP1 gene,DNA fragments,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1421940,C0032136,PRODUCES,IFIT5 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1422064,C0030234,PRODUCES,ACE2 gene,Palmitic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1422064,C0034987,PRODUCES,ACE2 gene,"Regulatory Sequences, Nucleic Acid",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1423506,C0012854,PRODUCES,SPINK5 gene,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1427150,C0025196,PRODUCES,TPCN2 gene,Melanins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1427488,C0067762,PRODUCES,NEU4 gene,N-Acetylneuraminic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1428222,C0032136,PRODUCES,ZC3HAV1 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1428890,C0043791,PRODUCES,SGMS1 gene,"1,2-diacylglycerol",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1428924,C0032615,PRODUCES,PLA2G2F gene,Polyunsaturated Fatty Acids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1428927,C0035142,PRODUCES,MIR7-3HG gene,Replicon,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1431550,C0067762,PRODUCES,"BSM1 protein, Bos taurus",N-Acetylneuraminic Acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1439306,C0012854,PRODUCES,CP gene,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1448177,C0028158,PRODUCES,"TNF protein, human",Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1448177,C0030054,PRODUCES,"TNF protein, human",Oxygen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1448177,C0920643,PRODUCES,"TNF protein, human",reactive oxygen intermediate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1448238,C0162772,PRODUCES,"FCGR2A protein, human",Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1450145,C0035142,PRODUCES,"Luciferases, Renilla",Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1453024,C0031621,PRODUCES,"SDHD protein, human",Phosphatidylinositols,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1453427,C0012854,PRODUCES,"CCRL2 protein, human",DNA,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1517495,C0014290,PRODUCES,Gene Feature,"Enhancer Elements, Genetic",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1517495,C0086860,PRODUCES,Gene Feature,promoter,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1527233,C0040549,PRODUCES,Recombinant Immune Globulin,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1529727,C0018338,PRODUCES,"NPR2 protein, human",Cyclic GMP,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1533585,C0032136,PRODUCES,Fusion Gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1533698,C0028128,PRODUCES,Nitric Oxide Synthase Type II,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1537860,C1101610,PRODUCES,MIR222 gene,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1538577,C0001461,PRODUCES,PARP1 gene,Adenosine Diphosphate Ribose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1539100,C0162772,PRODUCES,CLEC5A gene,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1565830,C0031619,PRODUCES,"PTGS1 protein, human",Phosphatidylglycerols,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1565830,C0033567,PRODUCES,"PTGS1 protein, human",Epoprostenol,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1565830,C0136157,PRODUCES,"PTGS1 protein, human",Peroxynitrite,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1565860,C0031619,PRODUCES,"PTGS2 protein, human",Phosphatidylglycerols,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1699801,C0035693,PRODUCES,"IL9 protein, human","RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1704691,C1508748,PRODUCES,FCGR3A wt Allele,second messenger,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1705519,C0035693,PRODUCES,NRAS wt Allele,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1705590,C0031621,PRODUCES,PIK3CB wt Allele,Phosphatidylinositols,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1705982,C0032136,PRODUCES,KRAS wt Allele,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1706063,C0032136,PRODUCES,Wegener Autoantigen,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1706063,C0035693,PRODUCES,Wegener Autoantigen,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1707108,C0162772,PRODUCES,CDK1 wt Allele,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1822723,C0061105,PRODUCES,SIAE gene,"ganglioside, GD3",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1823381,C0016693,PRODUCES,TMEM121 gene,Free Radicals,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1823437,C0012854,PRODUCES,TMEM173 gene,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1823437,C0032136,PRODUCES,TMEM173 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1824730,C0032136,PRODUCES,CHAC1 gene,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1825598,C0001443,PRODUCES,IMPACT gene,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1825598,C0034085,PRODUCES,IMPACT gene,Pulmonary Surfactants,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1825598,C0162772,PRODUCES,IMPACT gene,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1825598,C1101610,PRODUCES,IMPACT gene,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1825621,C0032136,PRODUCES,ISG15 gene,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1826418,C0001026,PRODUCES,BDH1 gene,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1826596,C0018340,PRODUCES,PLEKHG5 gene,Guanosine Diphosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1826950,C0599689,PRODUCES,RTL1 gene,Lipoxins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1840635,C0028128,PRODUCES,HEPATIC PROTEIN,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1860425,C1099354,PRODUCES,EWSR1/FLI1 Fusion Gene,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1864770,C0162772,PRODUCES,MAVS gene,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1883559,C0035693,PRODUCES,Wild Type,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1883559,C1099354,PRODUCES,Wild Type,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1953384,C0012854,PRODUCES,Reverse primer,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1953384,C0032136,PRODUCES,Reverse primer,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C1953384,C2350877,PRODUCES,Reverse primer,"Promoter, Genetic",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C1955876,C0026661,PRODUCES,Human Immunodeficiency Virus Proteins,mRNA Precursor,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2362547,C0032136,PRODUCES,Beta protein,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2717970,C0010658,PRODUCES,Cysteine Proteases,Cysteine Proteinase Inhibitors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2744535,C0028128,PRODUCES,"CD69 protein, human",Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2744579,C0001443,PRODUCES,"ATP8A2 protein, human",Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2744579,C0017725,PRODUCES,"ATP8A2 protein, human",Glucose,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2744579,C0027908,PRODUCES,"ATP8A2 protein, human",Neurotransmitters,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2744579,C0162772,PRODUCES,"ATP8A2 protein, human",Reactive Oxygen Species,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C2936592,C0023545,PRODUCES,Lipoxygenases,Leukotrienes,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2936592,C0599689,PRODUCES,Lipoxygenases,Lipoxins,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2945724,C0032136,PRODUCES,f-protein,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C2945724,C0035696,PRODUCES,f-protein,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3147783,C3710730,PRODUCES,MB21D1 gene,cyclic guanosine monophosphate-adenosine monophosphate,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3470496,C0035696,PRODUCES,IFNG-AS1 gene,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3540560,C0600493,PRODUCES,MVP wt Allele,5' Untranslated Regions,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3540595,C0162772,PRODUCES,CD8A wt Allele,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3710914,C0035693,PRODUCES,"EIF2AK2 protein, human","RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3811629,C0028158,PRODUCES,Anti-Drug Antibody,Nitrogen,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3811629,C0041942,PRODUCES,Anti-Drug Antibody,Urea,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C3811765,C0001443,PRODUCES,ENTPD1 wt Allele,Adenosine,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C3812373,C0035142,PRODUCES,CHAF1A wt Allele,Replicon,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3849701,C0162772,PRODUCES,"interleukin 18 protein, human",Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3890660,C1099354,PRODUCES,NRAV gene,"RNA, Small Interfering",aapp,bacs,1,PRODUCES_AAPPprodBACS
+C3891560,C0969698,PRODUCES,Alarmins,Reactive Nitrogen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4042800,C1136170,PRODUCES,Type VII Secretion Systems,Virulence Factors,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4042815,C0040549,PRODUCES,Type I Secretion Systems,Toxin,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4048280,C0012854,PRODUCES,"T-Cell Surface Glycoprotein CD4, human",DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4048280,C0162772,PRODUCES,"T-Cell Surface Glycoprotein CD4, human",Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4084937,C0001443,PRODUCES,Antimicrobial Peptide,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4255077,C0032136,PRODUCES,Carbonic Anhydrase IX,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4281712,C0162772,PRODUCES,Tetrahydrobiopterin,Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4281724,C0032136,PRODUCES,Protein S100-A9,Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C4281807,C0032136,PRODUCES,"Vitronectin, human",Plasmids,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C4283742,C0162772,PRODUCES,"Ceramide Glucosyltransferase, human",Reactive Oxygen Species,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4316927,C0033567,PRODUCES,"Endothelin-1, human",Epoprostenol,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4317106,C0032136,PRODUCES,"Zinc Finger FYVE Domain-Containing Protein 9, human",Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
+C4505322,C0082774,PRODUCES,Zinc Finger Nucleases,"RNA, Guide",aapp,bacs,1,PRODUCES_AAPPprodBACS

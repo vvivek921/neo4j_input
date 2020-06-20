@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013969,C0182998,HIGHER_THAN,Emergency treatment,Resuscitator,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0015357,C1145640,HIGHER_THAN,Extracorporeal Membrane Oxygenation,"Central venous catheter, device",topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0021932,C0162645,HIGHER_THAN,"Intubation, Intratracheal",Laryngeal Masks,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0278911,C0182400,HIGHER_THAN,ifosfamide/lomustine/vinblastine,Probes,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0349707,C0441107,HIGHER_THAN,Aspiration-action,Cuffs device,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0456675,C0491576,HIGHER_THAN,Massive blood transfusion,Transcutaneous electrical nerve stimulator,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C1511790,C0175723,HIGHER_THAN,Detection,Bands,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C1511790,C0182400,HIGHER_THAN,Detection,Probes,topp,medd,2,HIGHER_THAN_TOPPhghtMEDD
+C1511790,C0879240,HIGHER_THAN,Detection,Nasal Swabs,topp,medd,3,HIGHER_THAN_TOPPhghtMEDD
+C1883520,C0013194,HIGHER_THAN,VePesid-Ifosfamide-Platinol Regimen,Drug Packaging,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD

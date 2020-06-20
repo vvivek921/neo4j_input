@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0043144,PREVENTS,Hospitalization,Wheezing,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0034117,C0030193,PREVENTS,Puncture procedure,Pain,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0034117,C0231218,PREVENTS,Puncture procedure,Malaise,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0204695,C0011991,PREVENTS,Feeding patient,Diarrhea,hlca,sosy,2,PREVENTS_HLCAprevSOSY
+C0220825,C0349410,PREVENTS,Evaluation,Single organ dysfunction,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0220908,C0006625,PREVENTS,Screening procedure,Cachexia,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C1516615,C0013604,PREVENTS,Clinical Management,Edema,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C1698974,C0011991,PREVENTS,public transport,Diarrhea,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C2826232,C0015230,PREVENTS,Dose Adjustment,Exanthema,hlca,sosy,1,PREVENTS_HLCAprevSOSY

@@ -1,0 +1,603 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0332149,CAUSES,Acetaminophen,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0000970,C0424595,CAUSES,Acetaminophen,Undifferentiated illness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0000970,C0600061,CAUSES,Acetaminophen,Serum creatinine level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001002,C0332149,CAUSES,Acetone,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001056,C0029053,CAUSES,Acetylglucosamine,Decreased translucency,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001159,C0003811,CAUSES,Aconitine,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001159,C1555024,CAUSES,Aconitine,Patient Deceased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001219,C0184511,CAUSES,Acrylates,Improved,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001927,C0162643,CAUSES,Albuterol,treatment failure,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0001962,C0150312,CAUSES,Ethanol,Present,orch,fndg,6,CAUSES_ORCHcausFNDG
+C0001962,C0332149,CAUSES,Ethanol,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C0424641,CAUSES,Ethanol,Decrease in height,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C0542127,CAUSES,Ethanol,over sedation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C0748604,CAUSES,Ethanol,seizure new onset,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C1268722,CAUSES,Ethanol,Mammographic difference in size (finding),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C1279682,CAUSES,Ethanol,Clever,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C1446390,CAUSES,Ethanol,Physical health problems,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C1545588,CAUSES,Ethanol,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C3272281,CAUSES,Ethanol,American College of Cardiology/American Heart Association Lesion Complexity Score A,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001962,C4055506,CAUSES,Ethanol,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001977,C0150312,CAUSES,Butanols,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001992,C0150312,CAUSES,Aldehydes,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001992,C0332149,CAUSES,Aldehydes,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0001992,C0423551,CAUSES,Aldehydes,Sensory symptoms,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002144,C0241158,CAUSES,Allopurinol,Scar Tissue,orch,fndg,4,CAUSES_ORCHcausFNDG
+C0002403,C4321237,CAUSES,Amantadine,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002502,C0150312,CAUSES,Amiloride,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002508,C0150312,CAUSES,Amines,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002556,C0011053,CAUSES,Aminoglycosides,Deafness,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0002556,C4055223,CAUSES,Aminoglycosides,Clinical Response,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002556,C4055506,CAUSES,Aminoglycosides,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002598,C0221198,CAUSES,Amiodarone,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002598,C0231191,CAUSES,Amiodarone,Idiosyncrasy,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002598,C4055506,CAUSES,Amiodarone,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002772,C0020649,CAUSES,"Analgesics, Opioid",Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002772,C0235195,CAUSES,"Analgesics, Opioid",Sedated state,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002772,C0436345,CAUSES,"Analgesics, Opioid",Symptom severe,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0002772,C0745041,CAUSES,"Analgesics, Opioid",prolonged hospitalization,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003290,C0003811,CAUSES,Tricyclic Antidepressive Agents,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003290,C0029053,CAUSES,Tricyclic Antidepressive Agents,Decreased translucency,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003290,C0043352,CAUSES,Tricyclic Antidepressive Agents,Xerostomia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003290,C0151878,CAUSES,Tricyclic Antidepressive Agents,Prolonged QT interval,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003290,C4055506,CAUSES,Tricyclic Antidepressive Agents,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003360,C0013144,CAUSES,Antihistamines,Drowsiness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003360,C0043352,CAUSES,Antihistamines,Xerostomia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003360,C0151878,CAUSES,Antihistamines,Prolonged QT interval,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003360,C0235195,CAUSES,Antihistamines,Sedated state,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003392,C1262477,CAUSES,Antineoplastic Agents,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003392,C1444783,CAUSES,Antineoplastic Agents,Instability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003392,C1709218,CAUSES,Antineoplastic Agents,Neuroendocrine Differentiation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003392,C1709770,CAUSES,Antineoplastic Agents,Pulmonary Dysfunction,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003392,C4055506,CAUSES,Antineoplastic Agents,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003682,C0332575,CAUSES,Arabinose,Redness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0003695,C0150312,CAUSES,Arachidonic Acid,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0004057,C0085639,CAUSES,Aspirin,Falls,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0004057,C1142499,CAUSES,Aspirin,gastrointestinal toxicity,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0004057,C4055506,CAUSES,Aspirin,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0004259,C0003811,CAUSES,Atropine,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0005064,C0235195,CAUSES,Benzodiazepines,Sedated state,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0005064,C0542127,CAUSES,Benzodiazepines,over sedation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0005117,C4021734,CAUSES,Berberine,Abnormality of mitochondrial metabolism,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006230,C0027854,CAUSES,Bromocriptine,Neurologic Manifestations,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006400,C0239242,CAUSES,Bupivacaine,peaked t waves,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006466,C3272629,CAUSES,butacaine,Epithelial Damage,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006523,C0333574,CAUSES,Butyric Acids,Fatty deposition,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006931,C3670500,CAUSES,Capsaicin,Neuronal degeneration,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006931,C4055506,CAUSES,Capsaicin,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0006949,C0424595,CAUSES,Carbamazepine,Undifferentiated illness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007004,C0424589,CAUSES,Carbohydrates,Vitality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007004,C1299586,CAUSES,Carbohydrates,Has difficulty doing (qualifier value),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007004,C1849265,CAUSES,Carbohydrates,Overgrowth,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007004,C3845645,CAUSES,Carbohydrates,Partial loss,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007004,C4055506,CAUSES,Carbohydrates,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007043,C0427184,CAUSES,Carbonyl Cyanide m-Chlorophenyl Hydrazone,No incoordination,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0007404,C0439662,CAUSES,Catechin,Immune,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C0003811,CAUSES,Chloroquine,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C0020649,CAUSES,Chloroquine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C0151613,CAUSES,Chloroquine,Electrolytes abnormal,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C0151878,CAUSES,Chloroquine,Prolonged QT interval,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0008269,C0332572,CAUSES,Chloroquine,Abnormal color,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C0855333,CAUSES,Chloroquine,Corrected Prolonged QT Interval by ECG Finding,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0008269,C1408258,CAUSES,Chloroquine,Kidney damage,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C1842820,CAUSES,Chloroquine,Cardiac conduction abnormality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C3806166,CAUSES,Chloroquine,Poor outcome,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008269,C4055506,CAUSES,Chloroquine,Accumulation,orch,fndg,7,CAUSES_ORCHcausFNDG
+C0008395,C0221198,CAUSES,"Cholesterol, Dietary",Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008809,C0162643,CAUSES,Ciprofloxacin,treatment failure,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008857,C0151723,CAUSES,Citrates,Hypomagnesemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008932,C0039870,CAUSES,Clenbuterol,Thinness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0008932,C0240417,CAUSES,Clenbuterol,Form of muscle,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009008,C4055506,CAUSES,Clomiphene,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009014,C0020649,CAUSES,Clonidine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009014,C0039231,CAUSES,Clonidine,Tachycardia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009014,C0442797,CAUSES,Clonidine,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009214,C0020649,CAUSES,Codeine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009214,C0151559,CAUSES,Codeine,Central nervous system depression (disorder),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009214,C4018909,CAUSES,Codeine,Overdose,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0009262,C0232474,CAUSES,Colchicine,Increased peristalsis,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0010583,C0156543,CAUSES,Cyclophosphamide,Unspecified Abortion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0010583,C0232090,CAUSES,Cyclophosphamide,Abnormal cardiovascular function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0010927,C0442797,CAUSES,Dacarbazine,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0010976,C0239572,CAUSES,Dantrolene,extreme fever,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0011777,C0150312,CAUSES,Dexamethasone,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0011777,C0151683,CAUSES,Dexamethasone,Neutrophilia (finding),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0011786,C1262477,CAUSES,Dexfenfluramine,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012010,C0235195,CAUSES,Diazepam,Sedated state,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0012201,C1262477,CAUSES,Diethylpropion,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012403,C0231337,CAUSES,Dimethyl Sulfoxide,Senility,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012403,C4321237,CAUSES,Dimethyl Sulfoxide,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012460,C0221198,CAUSES,Dinitrochlorobenzene,Lesion,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0012611,C0232459,CAUSES,Disaccharides,Abnormal digestive tract function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012611,C3714745,CAUSES,Disaccharides,Malabsorption,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012789,C0038435,CAUSES,Dithiothreitol,Stress,orch,fndg,4,CAUSES_ORCHcausFNDG
+C0012789,C0332149,CAUSES,Dithiothreitol,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012789,C0332155,CAUSES,Dithiothreitol,Did not receive therapy or drug for,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012789,C0423995,CAUSES,Dithiothreitol,Puzzled,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012789,C4055506,CAUSES,Dithiothreitol,Accumulation,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0012802,C4055506,CAUSES,Thiazide Diuretics,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0012963,C0039231,CAUSES,Dobutamine,Tachycardia,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0013618,C0085639,CAUSES,Edetic Acid,Falls,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0013618,C0427569,CAUSES,Edetic Acid,Platelet clumps,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0013618,C0860761,CAUSES,Edetic Acid,pH high,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0014695,C0032646,CAUSES,Ergocalciferol,Poor compliance,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0014695,C0221198,CAUSES,Ergocalciferol,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0014695,C3540840,CAUSES,Ergocalciferol,Sign or Symptom,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0014695,C4280567,CAUSES,Ergocalciferol,Abnormal skeletal development,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0014695,C4321237,CAUSES,Ergocalciferol,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015133,C2220378,CAUSES,Etoposide,severe Allergic disorders,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015620,C0038435,CAUSES,Famotidine,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015677,C3272281,CAUSES,Fatty acid glycerol esters,American College of Cardiology/American Heart Association Lesion Complexity Score A,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015684,C0424589,CAUSES,Fatty Acids,Vitality,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0015684,C1262477,CAUSES,Fatty Acids,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015684,C4055506,CAUSES,Fatty Acids,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015684,C4289767,CAUSES,Fatty Acids,Colonization,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015688,C0150312,CAUSES,Nonesterified Fatty Acids,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0015688,C0333574,CAUSES,Nonesterified Fatty Acids,Fatty deposition,orch,fndg,6,CAUSES_ORCHcausFNDG
+C0015688,C4479222,CAUSES,Nonesterified Fatty Acids,Increased apoptosis,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0016277,C0742985,CAUSES,Fluconazole,debilitation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0016410,C0038238,CAUSES,Folic Acid,Steatorrhea,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0016860,C0311428,CAUSES,Furosemide,Increased excretory function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0016971,C0522224,CAUSES,Gallamine,Paralysed,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0017082,C0439662,CAUSES,Gangliosides,Immune,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0017082,C1518294,CAUSES,Gangliosides,Neuronal Differentiation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0017718,C1444783,CAUSES,Glucosamine,Instability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0017906,C0150312,CAUSES,Glycoconjugates,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0017906,C1290905,CAUSES,Glycoconjugates,Discrepancy,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0017977,C0333574,CAUSES,Glycosides,Fatty deposition,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0017978,C0038435,CAUSES,Glycosphingolipids,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0018389,C0542243,CAUSES,Gum Arabic,toxic reaction (non-specific),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0018549,C0015663,CAUSES,Halothane,Fasting,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0018606,C4055506,CAUSES,Harringtonines,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0019139,C3272283,CAUSES,"Heparin, Low-Molecular-Weight",American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0019142,C0235601,CAUSES,Heparinoids,HYPOCOAGULABLE STATE,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0019873,C0221198,CAUSES,Ethidium Bromide,Lesion,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0019873,C0443213,CAUSES,Ethidium Bromide,Extrusion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020247,C0022107,CAUSES,"Hydrocarbons, Chlorinated",Irritable Mood,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020247,C0221198,CAUSES,"Hydrocarbons, Chlorinated",Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020247,C3671958,CAUSES,"Hydrocarbons, Chlorinated",Reproductive failure,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020336,C0003811,CAUSES,Hydroxychloroquine,Cardiac Arrhythmia,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0020336,C0151613,CAUSES,Hydroxychloroquine,Electrolytes abnormal,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020336,C0151878,CAUSES,Hydroxychloroquine,Prolonged QT interval,orch,fndg,4,CAUSES_ORCHcausFNDG
+C0020336,C0232459,CAUSES,Hydroxychloroquine,Abnormal digestive tract function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020336,C0544452,CAUSES,Hydroxychloroquine,Disease remission,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020336,C0814127,CAUSES,Hydroxychloroquine,early remission,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020336,C4053862,CAUSES,Hydroxychloroquine,Virologic Response,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020336,C4055506,CAUSES,Hydroxychloroquine,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0020929,C1254481,CAUSES,Imidoesters,Patient Problem,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0021246,C0410916,CAUSES,Indomethacin,Neonatal Death,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0021246,C0520890,CAUSES,Indomethacin,Increased vascular resistance,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022180,C0015663,CAUSES,Isoflurane,Fasting,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022180,C0020440,CAUSES,Isoflurane,Hypercapnia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022180,C0442797,CAUSES,Isoflurane,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022180,C0475746,CAUSES,Isoflurane,Light anesthesia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022209,C4321237,CAUSES,isoniazid,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022239,C0150312,CAUSES,Isopropyl Thiogalactoside,Present,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0022245,C0020649,CAUSES,Isoproterenol,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022245,C0151479,CAUSES,Isoproterenol,Amylase increased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022471,C0221198,CAUSES,Kainic Acid,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022614,C0235195,CAUSES,Ketamine,Sedated state,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022634,C4055506,CAUSES,Ketones,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022924,C4055506,CAUSES,Lactates,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022924,C4321237,CAUSES,Lactates,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022924,C4484175,CAUSES,Lactates,Growth phase,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022957,C0000731,CAUSES,Lactulose,Abdomen distended,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0022957,C2749237,CAUSES,Lactulose,Small bowel dilatation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023556,C0221198,CAUSES,Levamisole,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023660,C0020649,CAUSES,Lidocaine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023750,C0038435,CAUSES,Linoleic Acids,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C0038435,CAUSES,Lipids,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C0150034,CAUSES,Lipids,Impaired gas exchange,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C0333574,CAUSES,Lipids,Fatty deposition,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C0424589,CAUSES,Lipids,Vitality,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0023779,C1382398,CAUSES,Lipids,Increased capillary permeability (finding),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C1706412,CAUSES,Lipids,Lipidemias,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C4055506,CAUSES,Lipids,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023779,C4321237,CAUSES,Lipids,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0020649,CAUSES,Lipopolysaccharides,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0033213,CAUSES,Lipopolysaccharides,Problem,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0033687,CAUSES,Lipopolysaccharides,Proteinuria,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0038435,CAUSES,Lipopolysaccharides,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0085639,CAUSES,Lipopolysaccharides,Falls,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0150312,CAUSES,Lipopolysaccharides,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0184511,CAUSES,Lipopolysaccharides,Improved,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0221198,CAUSES,Lipopolysaccharides,Lesion,orch,fndg,5,CAUSES_ORCHcausFNDG
+C0023810,C0332149,CAUSES,Lipopolysaccharides,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0333361,CAUSES,Lipopolysaccharides,Acute inflammation,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0023810,C0342952,CAUSES,Lipopolysaccharides,Hypermetabolism,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0376618,CAUSES,Lipopolysaccharides,Endotoxemia,orch,fndg,14,CAUSES_ORCHcausFNDG
+C0023810,C0424545,CAUSES,Lipopolysaccharides,General physical finding,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0425932,CAUSES,Lipopolysaccharides,Date of last menstrual period,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0439662,CAUSES,Lipopolysaccharides,Immune,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0023810,C0476442,CAUSES,Lipopolysaccharides,High antibody titer,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0489749,CAUSES,Lipopolysaccharides,Rectal temperature,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0522567,CAUSES,Lipopolysaccharides,Mild inflammation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0522569,CAUSES,Lipopolysaccharides,Severe inflammation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0542243,CAUSES,Lipopolysaccharides,toxic reaction (non-specific),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0700292,CAUSES,Lipopolysaccharides,Hypoxemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0748024,CAUSES,Lipopolysaccharides,protein elevated,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0750394,CAUSES,Lipopolysaccharides,White blood cell count decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C0814127,CAUSES,Lipopolysaccharides,early remission,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C1511606,CAUSES,Lipopolysaccharides,Cystic Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C1545588,CAUSES,Lipopolysaccharides,Protection,orch,fndg,4,CAUSES_ORCHcausFNDG
+C0023810,C1709157,CAUSES,Lipopolysaccharides,Negative Surgical Margin,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C1709770,CAUSES,Lipopolysaccharides,Pulmonary Dysfunction,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C1836348,CAUSES,Lipopolysaccharides,Severe disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C1864676,CAUSES,Lipopolysaccharides,Glial activation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C2717793,CAUSES,Lipopolysaccharides,Small Airway Remodeling,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C3540840,CAUSES,Lipopolysaccharides,Sign or Symptom,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0023810,C3843661,CAUSES,Lipopolysaccharides,Too little,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C3845930,CAUSES,Lipopolysaccharides,Copious,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C3890735,CAUSES,Lipopolysaccharides,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C4021734,CAUSES,Lipopolysaccharides,Abnormality of mitochondrial metabolism,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023810,C4055506,CAUSES,Lipopolysaccharides,Accumulation,orch,fndg,9,CAUSES_ORCHcausFNDG
+C0023810,C4321237,CAUSES,Lipopolysaccharides,High Level,orch,fndg,4,CAUSES_ORCHcausFNDG
+C0023828,C0015663,CAUSES,Liposomes,Fasting,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023828,C0241526,CAUSES,Liposomes,Unresponsiveness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023828,C0442797,CAUSES,Liposomes,Decreasing,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0023828,C4055506,CAUSES,Liposomes,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023828,C4321237,CAUSES,Liposomes,High Level,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0023992,C4055506,CAUSES,Loperamide,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0023992,C4321237,CAUSES,Loperamide,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0024360,C0221198,CAUSES,Lysophosphatidylcholines,Lesion,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0024367,C4086268,CAUSES,Lysophospholipids,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025153,C3540840,CAUSES,Mefloquine,Sign or Symptom,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025598,C0241863,CAUSES,Metformin,diabetic,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025605,C0151878,CAUSES,Methadone,Prolonged QT interval,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025638,C1513916,CAUSES,Methenamine,Negative Finding,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025677,C0150077,CAUSES,Methotrexate,Broken skin,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025677,C0156543,CAUSES,Methotrexate,Unspecified Abortion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025677,C0544452,CAUSES,Methotrexate,Disease remission,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0025677,C1855575,CAUSES,Methotrexate,Very rare,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025859,C0020649,CAUSES,Metoprolol,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0025872,C3540840,CAUSES,Metronidazole,Sign or Symptom,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0026056,C0235195,CAUSES,Midazolam,Sedated state,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0026056,C0429306,CAUSES,Midazolam,Burst suppression,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0026259,C0231170,CAUSES,Mitoxantrone,Disability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0026259,C0232090,CAUSES,Mitoxantrone,Abnormal cardiovascular function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0026549,C0020649,CAUSES,Morphine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0026549,C0020672,CAUSES,Morphine,"Hypothermia, natural",orch,fndg,1,CAUSES_ORCHcausFNDG
+C0026549,C0235195,CAUSES,Morphine,Sedated state,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0026818,C0442797,CAUSES,Muscimol,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0027358,C0003811,CAUSES,Naloxone,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0027358,C0436345,CAUSES,Naloxone,Symptom severe,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028908,C0016927,CAUSES,Oils,Gagging,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028908,C0150312,CAUSES,Oils,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028908,C0278048,CAUSES,Oils,Fertility problem,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028908,C1836348,CAUSES,Oils,Severe disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028910,C0087130,CAUSES,"Oils, Volatile",Uncertainty,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028959,C0150312,CAUSES,Oligosaccharides,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0028978,C0424099,CAUSES,Omeprazole,Reduced concentration,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0029904,C0003811,CAUSES,Ouabain,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0029904,C0038435,CAUSES,Ouabain,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0030903,C1148454,CAUSES,Pentylenetetrazole,seizure activity,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031406,C1859430,CAUSES,Phenindione,Life-threatening infections,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031447,C1262477,CAUSES,Phentermine,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031507,C1444783,CAUSES,Phenytoin,Instability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031623,C4055506,CAUSES,Phosphatidylserines,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031701,C0150312,CAUSES,Phosphoric Acid Esters,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031935,C4055506,CAUSES,Pimozide,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0031957,C1559311,CAUSES,piperazine,CTCAE Grade 4 Diarrhea,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032594,C0038435,CAUSES,Polysaccharides,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032594,C0231299,CAUSES,Polysaccharides,Decreased stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032594,C0728899,CAUSES,Polysaccharides,Intoxication,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032594,C1299586,CAUSES,Polysaccharides,Has difficulty doing (qualifier value),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032594,C1545588,CAUSES,Polysaccharides,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032594,C4321237,CAUSES,Polysaccharides,High Level,orch,fndg,5,CAUSES_ORCHcausFNDG
+C0032857,C4289767,CAUSES,Povidone-Iodine,Colonization,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0032950,C0151683,CAUSES,prednisolone,Neutrophilia (finding),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0033126,C0391870,CAUSES,Primaquine,Abnormality of red blood cells,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0033216,C0151878,CAUSES,Procainamide,Prolonged QT interval,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0033487,C0020649,CAUSES,Propofol,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0033487,C0858603,CAUSES,Propofol,wave slowing,orch,fndg,5,CAUSES_ORCHcausFNDG
+C0033487,C2945640,CAUSES,Propofol,compromise,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0033497,C0020649,CAUSES,Propranolol,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0033558,C1301895,CAUSES,Prostaglandins D,Perioperative death,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0034266,C0086439,CAUSES,Pyridoxal Phosphate,Hypokinesia,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0034266,C0311428,CAUSES,Pyridoxal Phosphate,Increased excretory function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0034314,C3844397,CAUSES,Pyrones,Initial screen,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0034392,C4086268,CAUSES,Quercetin,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0034417,C0003811,CAUSES,Quinine,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0034428,C0151878,CAUSES,Quinolones,Prolonged QT interval,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0034435,C0038435,CAUSES,Quinones,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0034665,C0038435,CAUSES,Ranitidine,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0035179,C0020649,CAUSES,Reserpine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0035549,C3845645,CAUSES,Ribose,Partial loss,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0035629,C1545588,CAUSES,Rimantadine,Protection,orch,fndg,4,CAUSES_ORCHcausFNDG
+C0035629,C4321237,CAUSES,Rimantadine,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0035918,C0221198,CAUSES,Rubber,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0037533,C0020649,CAUSES,Sodium Nitroprusside,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0037556,C2676468,CAUSES,Sodium Tetradecyl Sulfate,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",orch,fndg,1,CAUSES_ORCHcausFNDG
+C0037688,C4055506,CAUSES,Sorbitol,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0037707,C0151878,CAUSES,Sotalol,Prolonged QT interval,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0037982,C0020461,CAUSES,Spironolactone,Hyperkalemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0037982,C0311428,CAUSES,Spironolactone,Increased excretory function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C0043094,CAUSES,Steroids,Weight Gain,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C0221198,CAUSES,Steroids,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C0231187,CAUSES,Steroids,Decompensation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C0521859,CAUSES,Steroids,Drug resistance to corticoids,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C0586406,CAUSES,Steroids,Eye symptom,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C0743630,CAUSES,Steroids,exacerbation acute,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C1457868,CAUSES,Steroids,Worse,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0038317,C3272283,CAUSES,Steroids,American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C4055223,CAUSES,Steroids,Clinical Response,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C4055506,CAUSES,Steroids,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038317,C4086268,CAUSES,Steroids,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038323,C1545588,CAUSES,Sterols,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038617,C4055506,CAUSES,Succinates,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038627,C0020461,CAUSES,Succinylcholine,Hyperkalemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038627,C2826244,CAUSES,Succinylcholine,Life Threatening,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038734,C4321237,CAUSES,Sulfhydryl Compounds,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0038766,C0020621,CAUSES,Sulfonylurea Compounds,Hypokalemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039286,C4055506,CAUSES,Tamoxifen,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039294,C0560435,CAUSES,Tannic Acid,Does skip,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039512,C4055506,CAUSES,Teniposide,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039848,C0038435,CAUSES,Thiamine Pyrophosphate,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039848,C0424589,CAUSES,Thiamine Pyrophosphate,Vitality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039925,C0332575,CAUSES,Thiopental,Redness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0039945,C4055506,CAUSES,Thiorphan,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0040982,C1545588,CAUSES,Trifluoroacetic Acid,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0041023,C0234918,CAUSES,Trimebutine,Morbilliform rash,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0041345,C0522224,CAUSES,Tubocurarine,Paralysed,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0042081,C1444783,CAUSES,Uronic Acids,Instability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042291,C4022659,CAUSES,Valproic Acid,Mitochondrial depletion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042523,C0003811,CAUSES,Verapamil,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042672,C0853087,CAUSES,Vinca Alkaloids,Nail abnormality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042672,C1855575,CAUSES,Vinca Alkaloids,Very rare,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042839,C0456909,CAUSES,Vitamin A,Blindness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042845,C0027854,CAUSES,Vitamin B 12,Neurologic Manifestations,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042845,C2826210,CAUSES,Vitamin B 12,Complete Recovery,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042866,C0439662,CAUSES,Vitamin D,Immune,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042874,C0332149,CAUSES,Vitamin E,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042874,C3842523,CAUSES,Vitamin E,Heart condition,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0042890,C4086268,CAUSES,Vitamins,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0043366,C0235195,CAUSES,Xylazine,Sedated state,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0043366,C0277591,CAUSES,Xylazine,Unexpected death,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0043366,C0700292,CAUSES,Xylazine,Hypoxemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0044042,C0041667,CAUSES,"1,6-anhydro-beta-glucopyranose",Underweight,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0046699,C4055506,CAUSES,25-hydroxycholesterol,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0049330,C4321237,CAUSES,5-nitro-2-(3-phenylpropylamino)benzoic acid,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0049660,C0677874,CAUSES,6-methylpurine,In complete remission,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0051767,C0221198,CAUSES,amsonic acid,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0052430,C0332149,CAUSES,artemisinine,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0052432,C0332149,CAUSES,artesunate,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0052919,C4055506,CAUSES,bafilomycin A1,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0053091,C1545588,CAUSES,benazepril,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0053208,C4055506,CAUSES,"benzo-1,2,3-thiadiazole",Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0053229,C4018909,CAUSES,benzonatate,Overdose,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0055233,C0020649,CAUSES,CGS 21680,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0055295,C4321237,CAUSES,chenodeoxycholate sulfate conjugate,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0056471,C0029053,CAUSES,creatinol phosphate,Decreased translucency,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0056471,C0332149,CAUSES,creatinol phosphate,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0056471,C4055506,CAUSES,creatinol phosphate,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0057919,C4528287,CAUSES,diethanolamine,Basophilic Hypertrophic Focus,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0058063,C1821718,CAUSES,dihydrodibutylstilbestrol,Diminished productivity,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0058231,C0231303,CAUSES,methylsulfonylmethane,Distress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0059438,C1821718,CAUSES,epigallocatechin gallate,Diminished productivity,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0061275,C4055506,CAUSES,ginsenoside Rh2,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0061751,C0020621,CAUSES,Glycyrrhizic Acid,Hypokalemia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0061751,C1545588,CAUSES,Glycyrrhizic Acid,Protection,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0062585,C0439662,CAUSES,hesperetin,Immune,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0063034,C0332167,CAUSES,huperzine B,High risk of,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0064113,C0311428,CAUSES,Itraconazole,Increased excretory function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0064113,C4055223,CAUSES,Itraconazole,Clinical Response,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0064113,C4055506,CAUSES,Itraconazole,Accumulation,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0064280,C0558141,CAUSES,kaempferol,Transsexual (finding),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0064678,C0442797,CAUSES,latrunculin B,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0066763,C4321237,CAUSES,monomethoxypolyethylene glycol,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0066776,C0476442,CAUSES,monophosphoryl lipid A,High antibody titer,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0066776,C4321237,CAUSES,monophosphoryl lipid A,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0066837,C0442797,CAUSES,moxonidine,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0067068,C0150312,CAUSES,myricitrin,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0067087,C4055506,CAUSES,myxothiazol,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0067742,C4321237,CAUSES,N-acetylmannosamine,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0069717,C0458247,CAUSES,oxaliplatin,Allodynia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0070664,C4321237,CAUSES,phenylamil,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0070999,C2825142,CAUSES,physcione,Experimental Result,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0071126,C3274777,CAUSES,Pirarubicin,Severely Abnormal Ventricular Ejection Fraction,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0071986,C0003962,CAUSES,pristane,Ascites,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0072683,C1262477,CAUSES,pyridine N-oxide,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0072735,C0150312,CAUSES,pyrithione,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0073361,C0424589,CAUSES,RID,Vitality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0073361,C1836348,CAUSES,RID,Severe disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0073361,C3816499,CAUSES,RID,Pathogenic,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0073561,C3274777,CAUSES,Rolipram,Severely Abnormal Ventricular Ejection Fraction,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0073571,C0239242,CAUSES,ropivacaine,peaked t waves,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074414,C1408258,CAUSES,sevoflurane,Kidney damage,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074455,C4055506,CAUSES,shikonin,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074554,C1545588,CAUSES,Simvastatin,Protection,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0074554,C1833334,CAUSES,Simvastatin,Early-onset,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074722,C0549409,CAUSES,Sodium Bicarbonate,Packed cell volume increased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C0035648,CAUSES,sphingosine 1-phosphate,risk factors,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C0149744,CAUSES,sphingosine 1-phosphate,Oral lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C0156543,CAUSES,sphingosine 1-phosphate,Unspecified Abortion,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0074992,C0162643,CAUSES,sphingosine 1-phosphate,treatment failure,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C0221198,CAUSES,sphingosine 1-phosphate,Lesion,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0074992,C0332149,CAUSES,sphingosine 1-phosphate,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C0577946,CAUSES,sphingosine 1-phosphate,Chest tympanitic to percussion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C0595939,CAUSES,sphingosine 1-phosphate,Stillbirth,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C3540840,CAUSES,sphingosine 1-phosphate,Sign or Symptom,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0074992,C4289767,CAUSES,sphingosine 1-phosphate,Colonization,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0075733,C0150312,CAUSES,t-butyloxycarbonyl group,Present,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0076115,C4055506,CAUSES,terconazole,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076271,C3845645,CAUSES,tetrahydrofuran,Partial loss,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076275,C3714745,CAUSES,orlistat,Malabsorption,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076316,C4055506,CAUSES,tetrandrine,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076379,C0241863,CAUSES,theaflavin,diabetic,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076442,C0332575,CAUSES,thiobarbituric acid,Redness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076456,C4321237,CAUSES,thiocolchicoside,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0076711,C0221198,CAUSES,tiotidine,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0077042,C0150312,CAUSES,trichloromethyl free radical,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0077608,C4055506,CAUSES,U 18666A,Accumulation,orch,fndg,8,CAUSES_ORCHcausFNDG
+C0077640,C0221198,CAUSES,adozelesin,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0079083,C0205161,CAUSES,Carboplatin,Abnormal,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0079083,C0442797,CAUSES,Carboplatin,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0079225,C3872830,CAUSES,Dextran Sulfate Sodium,Inflammatory lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0083136,C4055506,CAUSES,kifunensine,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0084844,C1299586,CAUSES,trestolone,Has difficulty doing (qualifier value),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0085149,C0332149,CAUSES,Tacrolimus,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0085149,C0743284,CAUSES,Tacrolimus,drug exposure,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0085170,C0043094,CAUSES,Astemizole,Weight Gain,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0104013,C0205400,CAUSES,arctigenin,Thickened,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0105185,C0231224,CAUSES,BANS,Crisis,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0113293,C0020649,CAUSES,Dexmedetomidine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0113293,C0039231,CAUSES,Dexmedetomidine,Tachycardia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0113293,C0235195,CAUSES,Dexmedetomidine,Sedated state,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0123931,C0476442,CAUSES,irinotecan,High antibody titer,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0124209,C0522570,CAUSES,Isothiocyanate,Focal inflammation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0126174,C0231441,CAUSES,Losartan,Immobile,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0127615,C4055223,CAUSES,mesalamine,Clinical Response,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0132515,C3272629,CAUSES,nimesulide,Epithelial Damage,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0140591,C0442797,CAUSES,rilmenidine,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0144576,C0232090,CAUSES,Paclitaxel,Abnormal cardiovascular function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0144576,C0442797,CAUSES,Paclitaxel,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0144576,C1837496,CAUSES,Paclitaxel,Axonal degeneration,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0146196,C0750484,CAUSES,toltrazuril,Confirmation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0148948,C0580545,CAUSES,xanthoangelol,Blood glucose normal,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0162969,C0007294,CAUSES,Chitosan,Genetic Carriers,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0162969,C4321237,CAUSES,Chitosan,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0166979,C4021734,CAUSES,dimethyl mercury,Abnormality of mitochondrial metabolism,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0171023,C0020649,CAUSES,olanzapine,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0172161,C3714738,CAUSES,tyramine-deoxysorbitol,Compliance,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0178638,C0332149,CAUSES,Folate,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0209891,C0221198,CAUSES,bizelesin,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0210243,C1820722,CAUSES,atevirdine,Skin alteration,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0216660,C1836348,CAUSES,Zanamivir,Severe disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0225326,C0029053,CAUSES,Fiber,Decreased translucency,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0225326,C1545588,CAUSES,Fiber,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0242209,C0184511,CAUSES,Sugars,Improved,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0244656,C1444783,CAUSES,fosphenytoin,Instability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0246415,C0232090,CAUSES,docetaxel,Abnormal cardiovascular function,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0253538,C0429856,CAUSES,prostaglandin E0,Arterial flow,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0258259,C0549428,CAUSES,GTS-21,Nicotinic Effect,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0281643,C0150312,CAUSES,incomplete Freund's adjuvant,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0282563,C0518609,CAUSES,Macrolides,consideration,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0293626,C0221198,CAUSES,CK 17,Lesion,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0293626,C0436343,CAUSES,CK 17,Symptom mild,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0297199,C0085639,CAUSES,PO-2,Falls,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0297666,C0086439,CAUSES,SB 203580,Hypokinesia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0297666,C0442797,CAUSES,SB 203580,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0297688,C1545588,CAUSES,AG 85,Protection,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0304518,C0086439,CAUSES,Aglycone,Hypokinesia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0304518,C0442797,CAUSES,Aglycone,Decreasing,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0360363,C1444662,CAUSES,Azole antifungal,Discontinued,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0376637,C3280118,CAUSES,Indinavir,Mild disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0378785,C0239984,CAUSES,"3,5-diisopropylsalicylic acid",Increased IgA level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0378785,C0332572,CAUSES,"3,5-diisopropylsalicylic acid",Abnormal color,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0386125,C0554101,CAUSES,stachybocin A,Villous atrophy,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0387008,C4055506,CAUSES,TM 1,Accumulation,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0388088,C4055506,CAUSES,FTY-720,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0388798,C4055506,CAUSES,Probenazole,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0393080,C1444662,CAUSES,voriconazole,Discontinued,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0520481,C1545588,CAUSES,Saponin,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0520481,C4055506,CAUSES,Saponin,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0525678,C0020649,CAUSES,rasagiline,Hypotension,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0525678,C0038435,CAUSES,rasagiline,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0525678,C0278252,CAUSES,rasagiline,Prognosis bad,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0525678,C1262477,CAUSES,rasagiline,Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0525678,C1836348,CAUSES,rasagiline,Severe disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0525678,C4230430,CAUSES,rasagiline,Inflammatory lung disease,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0527258,C0043094,CAUSES,Zyprexa,Weight Gain,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0530105,C0522224,CAUSES,cisatracurium besylate,Paralysed,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0542549,C1444783,CAUSES,Very long chain fatty acid,Instability,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0596845,C0087130,CAUSES,lipid structure,Uncertainty,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0600370,C0085639,CAUSES,Methacholine,Falls,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0605290,C0424859,CAUSES,SAS,Multiple lumps,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0605290,C4321237,CAUSES,SAS,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0628612,C0239984,CAUSES,compound FP 1,Increased IgA level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0628612,C0553702,CAUSES,compound FP 1,ca increase,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0628615,C0239984,CAUSES,compound FP 2,Increased IgA level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0628615,C0553702,CAUSES,compound FP 2,ca increase,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0630906,C0035648,CAUSES,vinyltriethoxysilane,risk factors,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0672708,C0033213,CAUSES,Vorinostat,Problem,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0678120,C0429306,CAUSES,Diprivan,Burst suppression,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0699680,C0087130,CAUSES,Metric,Uncertainty,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0699680,C3845594,CAUSES,Metric,Slight change,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0699930,C0043352,CAUSES,Salagen,Xerostomia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0700481,C0085639,CAUSES,Fenoldopam Mesylate,Falls,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0700481,C0221198,CAUSES,Fenoldopam Mesylate,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0718566,C2826606,CAUSES,Anti-Fungal,Fungal Colonization,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0720544,C1518294,CAUSES,G-1,Neuronal Differentiation,orch,fndg,3,CAUSES_ORCHcausFNDG
+C0721062,C0221198,CAUSES,InFed,Lesion,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0722861,C0003811,CAUSES,Propulsid,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0722861,C0871269,CAUSES,Propulsid,Rhythm,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0723179,C4055506,CAUSES,SSD,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0724139,C4086268,CAUSES,Urised,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0754280,C0020649,CAUSES,flibanserin,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0754280,C0151559,CAUSES,flibanserin,Central nervous system depression (disorder),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0756727,C4321237,CAUSES,F 390,High Level,orch,fndg,2,CAUSES_ORCHcausFNDG
+C0770456,C0043352,CAUSES,Pilocarpine Hydrochloride,Xerostomia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0770564,C0333574,CAUSES,prednisone acetate,Fatty deposition,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0796419,C0853087,CAUSES,Taxanes,Nail abnormality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0874161,C1836348,CAUSES,Oseltamivir,Severe disorder,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0876742,C0240320,CAUSES,Icar,medication use,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0908489,C0231299,CAUSES,Pain-Free,Decreased stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0911308,C4086268,CAUSES,CLIK148,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0915374,C4321237,CAUSES,dope,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0917964,C4055506,CAUSES,Colforsin,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0935989,C1444662,CAUSES,imatinib,Discontinued,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0935989,C1689996,CAUSES,imatinib,Decreased blood eosinophil number (finding),orch,fndg,1,CAUSES_ORCHcausFNDG
+C0949665,C0003811,CAUSES,Fluoroquinolones,Cardiac Arrhythmia,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0949665,C0020649,CAUSES,Fluoroquinolones,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0949665,C0221571,CAUSES,Fluoroquinolones,Nervous system problem,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0949665,C1408353,CAUSES,Fluoroquinolones,Undiagnosed,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0950301,C0150312,CAUSES,Baker's Antifol,Present,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0950301,C4055506,CAUSES,Baker's Antifol,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0964590,C0038435,CAUSES,pateamine A,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0971025,C4321237,CAUSES,NanoGel,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C0991850,C0038238,CAUSES,MILK FAT,Steatorrhea,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1122962,C4055506,CAUSES,gefitinib,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1145759,C0522055,CAUSES,Atazanavir,Electrocardiogram abnormal,orch,fndg,2,CAUSES_ORCHcausFNDG
+C1145759,C0860803,CAUSES,Atazanavir,glucose high,orch,fndg,2,CAUSES_ORCHcausFNDG
+C1145760,C0020649,CAUSES,Treprostinil,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1170231,C1545588,CAUSES,Dryvax,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1175112,C4321237,CAUSES,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1176309,C4479222,CAUSES,bortezomib,Increased apoptosis,orch,fndg,3,CAUSES_ORCHcausFNDG
+C1328819,C0020649,CAUSES,Small Molecule,Hypotension,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1328819,C0038435,CAUSES,Small Molecule,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1328819,C1855073,CAUSES,Small Molecule,"Mortality, Premature",orch,fndg,1,CAUSES_ORCHcausFNDG
+C1328819,C4479222,CAUSES,Small Molecule,Increased apoptosis,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1337247,C1706412,CAUSES,POLYETHYLENE GLYCOL 600,Lipidemias,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1450533,C3809610,CAUSES,torcetrapib,Elevated aldosterone,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1515915,C0682132,CAUSES,Monarch,regional difference,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1721377,C0854467,CAUSES,nilotinib,Myelosuppression,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1743645,C1545588,CAUSES,eritoran,Protection,orch,fndg,1,CAUSES_ORCHcausFNDG
+C1831992,C1855073,CAUSES,ABT 263,"Mortality, Premature",orch,fndg,4,CAUSES_ORCHcausFNDG
+C1960278,C0038435,CAUSES,RECONCILE,Stress,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2604741,C4055506,CAUSES,[ LAB] STF 62247,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2717891,C0205160,CAUSES,Biofuels,Negative,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2720164,C0231337,CAUSES,MLN4924,Senility,orch,fndg,2,CAUSES_ORCHcausFNDG
+C2728259,C0337600,CAUSES,Program,Bachelor,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2728259,C0427184,CAUSES,Program,No incoordination,orch,fndg,3,CAUSES_ORCHcausFNDG
+C2728259,C0436345,CAUSES,Program,Symptom severe,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2728259,C1318963,CAUSES,Program,Readiness,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2728259,C1709157,CAUSES,Program,Negative Surgical Margin,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2728259,C4086268,CAUSES,Program,Exacerbation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2728259,C4321237,CAUSES,Program,High Level,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2728259,C4330261,CAUSES,Program,High Confidence,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2825233,C0184547,CAUSES,"Steroid, Systemic",Altered immunity,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C0087130,CAUSES,Duration,Uncertainty,orch,fndg,2,CAUSES_ORCHcausFNDG
+C2926735,C0260701,CAUSES,Duration,Respirator dependence,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C0277814,CAUSES,Duration,Sitting position,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C0332149,CAUSES,Duration,Possible,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C0580352,CAUSES,Duration,Treatment completed,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C1299586,CAUSES,Duration,Has difficulty doing (qualifier value),orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C2826210,CAUSES,Duration,Complete Recovery,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2926735,C3845876,CAUSES,Duration,Consequent,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2937289,C0231221,CAUSES,Adapt (substance),Asymptomatic,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2937289,C1262477,CAUSES,Adapt (substance),Weight decreased,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2937289,C1836348,CAUSES,Adapt (substance),Severe disorder,orch,fndg,3,CAUSES_ORCHcausFNDG
+C2962221,C3277906,CAUSES,TAC,Cardiac dysfunction,orch,fndg,1,CAUSES_ORCHcausFNDG
+C2962221,C4055506,CAUSES,TAC,Accumulation,orch,fndg,2,CAUSES_ORCHcausFNDG
+C3178456,C4055506,CAUSES,CC 0651,Accumulation,orch,fndg,1,CAUSES_ORCHcausFNDG
+C3500970,C0043094,CAUSES,JNJ-37822681,Weight Gain,orch,fndg,1,CAUSES_ORCHcausFNDG
+C3641087,C1855073,CAUSES,ABT-199,"Mortality, Premature",orch,fndg,3,CAUSES_ORCHcausFNDG
+C3853822,C0231337,CAUSES,palbociclib,Senility,orch,fndg,1,CAUSES_ORCHcausFNDG
+C4050026,C0239573,CAUSES,Matrix,"Fever, high-grade",orch,fndg,1,CAUSES_ORCHcausFNDG
+C4050026,C0424099,CAUSES,Matrix,Reduced concentration,orch,fndg,1,CAUSES_ORCHcausFNDG
+C4050026,C0424589,CAUSES,Matrix,Vitality,orch,fndg,1,CAUSES_ORCHcausFNDG
+C4050026,C1299586,CAUSES,Matrix,Has difficulty doing (qualifier value),orch,fndg,1,CAUSES_ORCHcausFNDG
+C4050026,C1446614,CAUSES,Matrix,Convergent gaze,orch,fndg,1,CAUSES_ORCHcausFNDG
+C4050026,C4055506,CAUSES,Matrix,Accumulation,orch,fndg,2,CAUSES_ORCHcausFNDG
+C4283710,C0560435,CAUSES,eteplirsen,Does skip,orch,fndg,1,CAUSES_ORCHcausFNDG

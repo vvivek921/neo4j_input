@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0001551,LOWER_THAN,Immunologic Adjuvants,Immunologic Adjuvants,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0001551,C0042211,LOWER_THAN,Immunologic Adjuvants,"Vaccines, Attenuated",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0001551,C0376613,LOWER_THAN,Immunologic Adjuvants,"Vaccines, DNA",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0003316,C0003316,LOWER_THAN,Epitopes,Epitopes,imft,imft,4,LOWER_THAN_IMFTlowtIMFT
+C0003320,C0003320,LOWER_THAN,Antigens,Antigens,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0003320,C0042210,LOWER_THAN,Antigens,Vaccines,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0018909,C0042210,LOWER_THAN,Hemagglutinin,Vaccines,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0019167,C0019168,LOWER_THAN,Hepatitis B e Antigens,Hepatitis B Surface Antigens,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0019168,C0019168,LOWER_THAN,Hepatitis B Surface Antigens,Hepatitis B Surface Antigens,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042210,C0042210,LOWER_THAN,Vaccines,Vaccines,imft,imft,7,LOWER_THAN_IMFTlowtIMFT
+C0042210,C0042211,LOWER_THAN,Vaccines,"Vaccines, Attenuated",imft,imft,3,LOWER_THAN_IMFTlowtIMFT
+C0042210,C0597641,LOWER_THAN,Vaccines,plasmid vaccine,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042211,C0037355,LOWER_THAN,"Vaccines, Attenuated",Smallpox Vaccine,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042211,C0376613,LOWER_THAN,"Vaccines, Attenuated","Vaccines, DNA",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042212,C0042211,LOWER_THAN,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,4,LOWER_THAN_IMFTlowtIMFT
+C0376613,C0042211,LOWER_THAN,"Vaccines, DNA","Vaccines, Attenuated",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0535644,C1277100,LOWER_THAN,Diphtheria-Tetanus-acellular Pertussis Vaccines,Diphtheria-Tetanus-(whole-cell) Pertussis Vaccine,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0597641,C0042210,LOWER_THAN,plasmid vaccine,Vaccines,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0887892,C0042211,LOWER_THAN,"Vaccines, Subunit","Vaccines, Attenuated",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0887908,C0042742,LOWER_THAN,"Vaccines, Marker",Viral Vaccines,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0982332,C1520145,LOWER_THAN,"acellular pertussis vaccine, inactivated",Whole Cell Vaccine,imft,imft,1,LOWER_THAN_IMFTlowtIMFT

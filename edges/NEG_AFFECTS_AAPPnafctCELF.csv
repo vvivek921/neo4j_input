@@ -1,0 +1,244 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002520,C0010813,NEG_AFFECTS,Amino Acids,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0002520,C0014139,NEG_AFFECTS,Amino Acids,Endocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0002520,C1159772,NEG_AFFECTS,Amino Acids,intracellular protein transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003241,C0042774,NEG_AFFECTS,Antibodies,Virus Replication,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C0003241,C0596991,NEG_AFFECTS,Antibodies,myelination,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003241,C1624612,NEG_AFFECTS,Antibodies,endothelial cell migration,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003241,C1656945,NEG_AFFECTS,Antibodies,keratinocyte migration,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003242,C0042774,NEG_AFFECTS,"Antibodies, Anti-Idiotypic",Virus Replication,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C0003250,C0007582,NEG_AFFECTS,Monoclonal Antibodies,Cell Communication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003250,C0162585,NEG_AFFECTS,Monoclonal Antibodies,Ion Transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003250,C0162638,NEG_AFFECTS,Monoclonal Antibodies,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003765,C0042774,NEG_AFFECTS,Arginine,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0003995,C1159455,NEG_AFFECTS,Asparagine,syncytium formation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0009498,C0042774,NEG_AFFECTS,Complement System Proteins,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0010590,C0007613,NEG_AFFECTS,Cycloserine,Cell physiology,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0010590,C0162638,NEG_AFFECTS,Cycloserine,Apoptosis,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C0010654,C1156309,NEG_AFFECTS,Cysteine,syncytium formation by plasma membrane fusion,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C0010656,C0007587,NEG_AFFECTS,caspase,Cell Death,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C0010656,C0162638,NEG_AFFECTS,caspase,Apoptosis,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C0014241,C0007620,NEG_AFFECTS,Endoribonucleases,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0014241,C0302167,NEG_AFFECTS,Endoribonucleases,capping,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0017258,C0042774,NEG_AFFECTS,Gene Clusters,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0017968,C0007620,NEG_AFFECTS,Glycoproteins,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0019629,C0042774,NEG_AFFECTS,Histocompatibility Antigens Class I,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0020960,C0007577,NEG_AFFECTS,Immune Sera,Cell Adhesion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0021747,C0007620,NEG_AFFECTS,Interferons,Cell Survival,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C0021755,C0042774,NEG_AFFECTS,Interleukin-1,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0021760,C0042774,NEG_AFFECTS,Interleukin-6,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0021769,C0025251,NEG_AFFECTS,Intermediate Filament Proteins,Membrane Potentials,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0022009,C0042774,NEG_AFFECTS,Ion Channel,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0022959,C0008018,NEG_AFFECTS,LacZ Genes,Chemotaxis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0023206,C0031308,NEG_AFFECTS,Lectin,Phagocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0026682,C1325881,NEG_AFFECTS,Mucins,biofilm formation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0028608,C1156140,NEG_AFFECTS,Nucleolar Proteins,ribosome biogenesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0030946,C0042774,NEG_AFFECTS,Endopeptidases,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0030946,C1160466,NEG_AFFECTS,Endopeptidases,conjugation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0031453,C0037848,NEG_AFFECTS,Phenylalanine,Sperm Motility,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0031727,C1156246,NEG_AFFECTS,Phosphotransferases,filamentous growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0034805,C0014139,NEG_AFFECTS,Fc Receptor,Endocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0042287,C0007620,NEG_AFFECTS,Valinomycin,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0042720,C0007595,NEG_AFFECTS,Viral Genome,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0042720,C0042774,NEG_AFFECTS,Viral Genome,Virus Replication,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C0042736,C0007586,NEG_AFFECTS,Viral Proteins,Cell Cycle,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0042736,C0007620,NEG_AFFECTS,Viral Proteins,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0042736,C2753904,NEG_AFFECTS,Viral Proteins,bicellular tight junction assembly,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0052088,C0025251,NEG_AFFECTS,antiporter,Membrane Potentials,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0052193,C0598958,NEG_AFFECTS,apolipoprotein D,Neuroprotection,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0053065,C1156160,NEG_AFFECTS,beauvericin,cell wall biogenesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0053355,C0007595,NEG_AFFECTS,ubenimex,cell growth,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C0053355,C0007620,NEG_AFFECTS,ubenimex,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0053355,C0037848,NEG_AFFECTS,ubenimex,Sperm Motility,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0054757,C0042774,NEG_AFFECTS,carboxypeptidase H,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0059256,C0010813,NEG_AFFECTS,Endopeptidase K,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0062503,C1154394,NEG_AFFECTS,Heparan Sulfate Proteoglycans,neuron cell-cell adhesion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0062539,C0596290,NEG_AFFECTS,hepsin,Cell Proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0063355,C1159762,NEG_AFFECTS,IgY,opsonization,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0065827,C1820119,NEG_AFFECTS,Measles Virus Nucleoprotein,Mitochondrial Degradation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0069139,C0042774,NEG_AFFECTS,nucleolin,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0070329,C0007620,NEG_AFFECTS,pepstatin,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0071795,C0042774,NEG_AFFECTS,2-5A-dependent ribonuclease,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0071795,C1157569,NEG_AFFECTS,2-5A-dependent ribonuclease,viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079189,C0042774,NEG_AFFECTS,cytokine,Virus Replication,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C0079189,C0162638,NEG_AFFECTS,cytokine,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079419,C0162638,NEG_AFFECTS,TP53 gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079423,C0007587,NEG_AFFECTS,"Genes, vpr",Cell Death,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079423,C1155873,NEG_AFFECTS,"Genes, vpr",Cell Cycle Arrest,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079633,C0042774,NEG_AFFECTS,Interleukin-8,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079883,C4235361,NEG_AFFECTS,N-Methylaspartate,tumor necrosis factor secretion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079904,C3546359,NEG_AFFECTS,NF-kappa B,pro-apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0079941,C0042774,NEG_AFFECTS,Open Reading Frames,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0084692,C0031308,NEG_AFFECTS,Pulmonary Surfactant-Associated Protein D,Phagocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0085295,C1511002,NEG_AFFECTS,Interleukin-10,b cell differentiation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0085431,C0010813,NEG_AFFECTS,Ribonuclease H,Cytokinesis,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C0110610,C0162638,NEG_AFFECTS,connective tissue growth factor,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0110610,C0596290,NEG_AFFECTS,connective tissue growth factor,Cell Proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0120285,C0007613,NEG_AFFECTS,Green Fluorescent Proteins,Cell physiology,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0120285,C0042774,NEG_AFFECTS,Green Fluorescent Proteins,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0123759,C1155065,NEG_AFFECTS,Interleukin-12,T-Cell Activation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0123759,C1817908,NEG_AFFECTS,Interleukin-12,Cellular Immune Response,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0145106,C0014139,NEG_AFFECTS,Teicoplanin,Endocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0148340,C0015283,NEG_AFFECTS,Vesicle-Associated Membrane Protein 2,Exocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0164198,C1159788,NEG_AFFECTS,Cyclophilin A,transport of virus,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0164613,C0042774,NEG_AFFECTS,interferon alfacon-1,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0164786,C0007595,NEG_AFFECTS,Proto-Oncogene Proteins c-akt,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0164786,C0008018,NEG_AFFECTS,Proto-Oncogene Proteins c-akt,Chemotaxis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0165117,C0042774,NEG_AFFECTS,jasplakinolide,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0166049,C0007620,NEG_AFFECTS,Hepatitis C Antibodies,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0166049,C3546359,NEG_AFFECTS,Hepatitis C Antibodies,pro-apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0170270,C0014139,NEG_AFFECTS,amphiphysin,Endocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0171998,C0334220,NEG_AFFECTS,noggin,Remyelination,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0173532,C1157569,NEG_AFFECTS,cyclin D3,viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0208355,C0206430,NEG_AFFECTS,multicatalytic endopeptidase complex,Antigen Processing,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0210108,C1155008,NEG_AFFECTS,PDGF AA,b-cell proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0282554,C0042774,NEG_AFFECTS,chemokine,Virus Replication,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C0282641,C0599894,NEG_AFFECTS,Transgenes,cellular targeting,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0282682,C3156669,NEG_AFFECTS,"Antibodies, Blocking",interleukin-10 secretion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0291573,C0162638,NEG_AFFECTS,caspase-3,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0301846,C0003272,NEG_AFFECTS,Incomplete antibody,Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0305052,C0042774,NEG_AFFECTS,Gamma globulin serum,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0311727,C0042774,NEG_AFFECTS,"Luciferases, Firefly",Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0376515,C0162638,NEG_AFFECTS,BCL2 gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0376515,C1516334,NEG_AFFECTS,BCL2 gene,Cell Cycle Progression,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0377274,C0031308,NEG_AFFECTS,Collectins,Phagocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0380603,C1155008,NEG_AFFECTS,Fibroblast Growth Factor 2,b-cell proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0383779,C2610958,NEG_AFFECTS,benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone,necroptotic process,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0388176,C0007595,NEG_AFFECTS,Vascular Endothelial Growth Factor B,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0389918,C0010813,NEG_AFFECTS,"ADAMTS13 protein, human",Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0534519,C0162638,NEG_AFFECTS,Caspase-1,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0597094,C0302167,NEG_AFFECTS,nuclease,capping,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0597551,C0010813,NEG_AFFECTS,synthetic peptide,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0598467,C0007613,NEG_AFFECTS,chimeric gene,Cell physiology,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0599561,C0007586,NEG_AFFECTS,e protein,Cell Cycle,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0599561,C0042774,NEG_AFFECTS,e protein,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0599561,C1159772,NEG_AFFECTS,e protein,intracellular protein transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0667830,C0007587,NEG_AFFECTS,caspase-8,Cell Death,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0694888,C0007595,NEG_AFFECTS,PTEN gene,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0700271,C1159455,NEG_AFFECTS,"M Protein, multiple myeloma",syncytium formation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0751599,C0007620,NEG_AFFECTS,Recombinant Interferon Beta,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0872251,C1157569,NEG_AFFECTS,protein kinase R,viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0962189,C1155065,NEG_AFFECTS,interleukin-21 receptor,T-Cell Activation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C0995188,C0010813,NEG_AFFECTS,cetuximab,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1120843,C0037083,NEG_AFFECTS,mitogen-activated protein kinase p38,Signal Transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1136102,C0162638,NEG_AFFECTS,Capsid Proteins,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1141625,C1157569,NEG_AFFECTS,"ATF2 protein, human",viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1256801,C3825288,NEG_AFFECTS,"FPR1 protein, human",Cellular signal transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1258835,C0007586,NEG_AFFECTS,"N protein, Severe acute respiratory syndrome virus",Cell Cycle,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1309025,C0007620,NEG_AFFECTS,"SH2D3A protein, human",Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1309025,C1158716,NEG_AFFECTS,"SH2D3A protein, human",mRNA export from nucleus,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1309025,C1160700,NEG_AFFECTS,"SH2D3A protein, human",viral gene expression,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1309483,C0010813,NEG_AFFECTS,"DICER1 protein, human",Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1310463,C1622501,NEG_AFFECTS,"IFIH1 protein, human","Migration, Cell",aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1310468,C1622501,NEG_AFFECTS,"DDX58 protein, human","Migration, Cell",aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1313407,C0037083,NEG_AFFECTS,"HAVCR1 protein, human",Signal Transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1321919,C0007620,NEG_AFFECTS,"TLR4 protein, human",Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1332320,C0007587,NEG_AFFECTS,Apoptosis Inhibitor,Cell Death,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1332386,C0037083,NEG_AFFECTS,BCAR3 gene,Signal Transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1332386,C0042774,NEG_AFFECTS,BCAR3 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1332700,C1516375,NEG_AFFECTS,CCR5 gene,Cellular Tropism,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C1332816,C0042774,NEG_AFFECTS,CXCL11 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1332817,C0007595,NEG_AFFECTS,CXCL12 gene,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1332823,C1515126,NEG_AFFECTS,CXCR4 gene,T-Cell Development,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1333217,C0007595,NEG_AFFECTS,DHODH gene,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1333908,C0042774,NEG_AFFECTS,HMGB1 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1334043,C1156086,NEG_AFFECTS,Homologous Gene,pexophagy,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1334043,C1160466,NEG_AFFECTS,Homologous Gene,conjugation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1334081,C0042774,NEG_AFFECTS,IFNAR1 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1335818,C0037083,NEG_AFFECTS,SH2D3C gene,Signal Transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1335818,C0042774,NEG_AFFECTS,SH2D3C gene,Virus Replication,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C1335872,C0042774,NEG_AFFECTS,STAT1 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1336763,C2755608,NEG_AFFECTS,Toll-Like Receptor Family Gene,chemokine secretion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1367307,C0014139,NEG_AFFECTS,STAT3 gene,Endocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1367307,C1157569,NEG_AFFECTS,STAT3 gene,viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1367731,C0162638,NEG_AFFECTS,MAPK8 gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1412304,C1515432,NEG_AFFECTS,AIRE gene,T-Cell Differentiation in the Thymus,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1412785,C0004391,NEG_AFFECTS,BECN1 gene,Autophagy,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1412831,C0042774,NEG_AFFECTS,BST2 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1412940,C1326205,NEG_AFFECTS,FAM3B gene,Positive Regulation of Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1413064,C0007613,NEG_AFFECTS,CACNA1S gene,Cell physiology,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1413284,C0014139,NEG_AFFECTS,CDIPT gene,Endocytosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1413687,C0007613,NEG_AFFECTS,CPSF4 gene,Cell physiology,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1413774,C0596290,NEG_AFFECTS,CST5 gene,Cell Proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1414444,C2613145,NEG_AFFECTS,ERN1 gene,response to endoplasmic reticulum stress,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1414609,C0007620,NEG_AFFECTS,FGL2 gene,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1414639,C0600485,NEG_AFFECTS,FLOT2 gene,Acrosome Reaction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1414691,C3825288,NEG_AFFECTS,FPR2 gene,Cellular signal transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1414805,C0042774,NEG_AFFECTS,MTOR gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1414901,C0004391,NEG_AFFECTS,GABARAP gene,Autophagy,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415189,C1516375,NEG_AFFECTS,GP5 gene,Cellular Tropism,aapp,celf,4,NEG_AFFECTS_AAPPnafctCELF
+C1415351,C0010813,NEG_AFFECTS,GTPBP1 gene,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415545,C0010813,NEG_AFFECTS,HINT1 gene,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415634,C0042774,NEG_AFFECTS,HNRNPA1 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415634,C0872070,NEG_AFFECTS,HNRNPA1 gene,nucleocytoplasmic transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415764,C0007620,NEG_AFFECTS,HSPA8 gene,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415886,C0037083,NEG_AFFECTS,IFI16 gene,Signal Transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1415898,C0596290,NEG_AFFECTS,IFITM3 gene,Cell Proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1416478,C0872070,NEG_AFFECTS,ISG20 gene,nucleocytoplasmic transport,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C1416608,C3156758,NEG_AFFECTS,KCNN1 gene,T cell migration,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1416699,C0872070,NEG_AFFECTS,KPNA1 gene,nucleocytoplasmic transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1416700,C0872070,NEG_AFFECTS,KPNA2 gene,nucleocytoplasmic transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1416701,C0872070,NEG_AFFECTS,KPNA3 gene,nucleocytoplasmic transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1417005,C0004391,NEG_AFFECTS,MAP1LC3A gene,Autophagy,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C1417511,C1660642,NEG_AFFECTS,MX2 gene,cellular localization,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1419227,C1157569,NEG_AFFECTS,RAC1 gene,viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1419676,C0042774,NEG_AFFECTS,RPL4 gene,Virus Replication,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C1420702,C2755105,NEG_AFFECTS,TFF3 gene,stem cell proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1420876,C0042774,NEG_AFFECTS,TPP2 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1421391,C1327415,NEG_AFFECTS,USP14 gene,interleukin-1 secretion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1421527,C2613145,NEG_AFFECTS,XBP1 gene,response to endoplasmic reticulum stress,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1422014,C0599896,NEG_AFFECTS,UNC93B1 gene,trafficking,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1422064,C0042774,NEG_AFFECTS,ACE2 gene,Virus Replication,aapp,celf,4,NEG_AFFECTS_AAPPnafctCELF
+C1422073,C0007595,NEG_AFFECTS,BRD4 gene,cell growth,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1424319,C0042774,NEG_AFFECTS,ADAP2 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1425102,C0042774,NEG_AFFECTS,NT5C3A gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1425370,C1160700,NEG_AFFECTS,DDX56 gene,viral gene expression,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1426652,C1155874,NEG_AFFECTS,USP44 gene,Cell Cycle Checkpoints,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1427303,C1621892,NEG_AFFECTS,SEC63 gene,ER translocation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1427460,C0596290,NEG_AFFECTS,OARD1 gene,Cell Proliferation,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C1428200,C0042774,NEG_AFFECTS,TIPARP gene,Virus Replication,aapp,celf,3,NEG_AFFECTS_AAPPnafctCELF
+C1436698,C0042774,NEG_AFFECTS,"BAMBI protein, human",Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1442738,C0010813,NEG_AFFECTS,PABPC1 gene,Cytokinesis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1447020,C0007577,NEG_AFFECTS,"DPP4 protein, human",Cell Adhesion,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1449159,C0042774,NEG_AFFECTS,"CCL2 protein, human",Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1522559,C0042774,NEG_AFFECTS,Recombinant RANTES,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1522712,C0042774,NEG_AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1538071,C1155065,NEG_AFFECTS,VSIG4 gene,T-Cell Activation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1538071,C1159527,NEG_AFFECTS,VSIG4 gene,glucose uptake,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1539847,C0007620,NEG_AFFECTS,SRFBP1 gene,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1540210,C0162638,NEG_AFFECTS,ASZ1 gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1564139,C0872070,NEG_AFFECTS,Mutant Proteins,nucleocytoplasmic transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1624602,C0042774,NEG_AFFECTS,Anti-Antibodies,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1705504,C0001272,NEG_AFFECTS,HTATIP wt Allele,Action Potentials,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1708010,C0162585,NEG_AFFECTS,FES wt Allele,Ion Transport,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1823437,C0037083,NEG_AFFECTS,TMEM173 gene,Signal Transduction,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1825497,C0042774,NEG_AFFECTS,ATG5 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1825497,C0162638,NEG_AFFECTS,ATG5 gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1825497,C2611772,NEG_AFFECTS,ATG5 gene,autophagosome assembly,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1825497,C3549262,NEG_AFFECTS,ATG5 gene,multivesicular body assembly,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1825593,C1512589,NEG_AFFECTS,IL17RA gene,IL17 Signaling Pathway,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1825598,C1160700,NEG_AFFECTS,IMPACT gene,viral gene expression,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C1826560,C0162638,NEG_AFFECTS,PDPN gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1826560,C0596290,NEG_AFFECTS,PDPN gene,Cell Proliferation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1826724,C0042774,NEG_AFFECTS,PRRT2 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1835843,C0162638,NEG_AFFECTS,DRAM1 gene,Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1864770,C1622501,NEG_AFFECTS,MAVS gene,"Migration, Cell",aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1883559,C0042774,NEG_AFFECTS,Wild Type,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C1969646,C0042774,NEG_AFFECTS,CXCL17 gene,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C2361980,C0007587,NEG_AFFECTS,Annexin 1,Cell Death,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C2936529,C0042774,NEG_AFFECTS,Inflammasomes,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3146638,C1157569,NEG_AFFECTS,ATG13 gene,viral translation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3152112,C0004391,NEG_AFFECTS,TOR complex 2,Autophagy,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3536909,C3546359,NEG_AFFECTS,"Transcription Factor AP-1, human",pro-apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3538756,C0007620,NEG_AFFECTS,NLRP1 wt Allele,Cell Survival,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3710914,C0042774,NEG_AFFECTS,"EIF2AK2 protein, human",Virus Replication,aapp,celf,2,NEG_AFFECTS_AAPPnafctCELF
+C3849574,C0008018,NEG_AFFECTS,"EPHB2 protein, human",Chemotaxis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3849574,C1622858,NEG_AFFECTS,"EPHB2 protein, human",apoptosis signaling,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3887958,C0042774,NEG_AFFECTS,"Indoleamine 2,3-Dioxygenase, human",Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C3889422,C2613267,NEG_AFFECTS,OPTN wt Allele,sporulation,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C4277629,C0004391,NEG_AFFECTS,Autophagy-Related Protein 8 Family,Autophagy,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C4281805,C0007586,NEG_AFFECTS,"T-Cell-Specific Surface Glycoprotein CD28, human",Cell Cycle,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C4281807,C0162638,NEG_AFFECTS,"Vitronectin, human",Apoptosis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C4284285,C0042774,NEG_AFFECTS,SNAP25 wt Allele,Virus Replication,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C4308405,C0008018,NEG_AFFECTS,vasculotide,Chemotaxis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF
+C4317106,C1326229,NEG_AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",neutrophil homeostasis,aapp,celf,1,NEG_AFFECTS_AAPPnafctCELF

@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0003232,SAME_AS,Antibiotics,Antibiotics,antb,antb,1,SAME_AS_ANTBsameANTB
+C0007554,C0007561,SAME_AS,Cefotaxime,Ceftriaxone,antb,antb,1,SAME_AS_ANTBsameANTB
+C0030842,C0003232,SAME_AS,Penicillins,Antibiotics,antb,antb,1,SAME_AS_ANTBsameANTB
+C0030842,C3536856,SAME_AS,Penicillins,Cephalosporins,antb,antb,1,SAME_AS_ANTBsameANTB
+C0052796,C0013090,SAME_AS,Azithromycin,Doxycycline,antb,antb,1,SAME_AS_ANTBsameANTB
+C0052796,C0030842,SAME_AS,Azithromycin,Penicillins,antb,antb,1,SAME_AS_ANTBsameANTB
+C0753645,C0304320,SAME_AS,gatifloxacin,Third generation cephalosporin,antb,antb,1,SAME_AS_ANTBsameANTB

@@ -1,0 +1,205 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0033213,TREATS,Immunologic Adjuvants,Problem,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C0085393,TREATS,Immunologic Adjuvants,Immunocompromised Host,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C0150312,TREATS,Immunologic Adjuvants,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C0221198,TREATS,Immunologic Adjuvants,Lesion,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C0239126,TREATS,Immunologic Adjuvants,corticosteroid use,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C0278252,TREATS,Immunologic Adjuvants,Prognosis bad,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C0439662,TREATS,Immunologic Adjuvants,Immune,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0001551,C0439663,TREATS,Immunologic Adjuvants,Infected,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C1317600,TREATS,Immunologic Adjuvants,patient symptoms,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C1444783,TREATS,Immunologic Adjuvants,Instability,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0001551,C1519255,TREATS,Immunologic Adjuvants,Serious Adverse Event,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C1545588,TREATS,Immunologic Adjuvants,Protection,imft,fndg,5,TREATS_IMFTtrtsFNDG
+C0001551,C1836721,TREATS,Immunologic Adjuvants,"MALARIA, MILD, SUSCEPTIBILITY TO",imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0001551,C3272283,TREATS,Immunologic Adjuvants,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0003445,C0332149,TREATS,Antitoxins,Possible,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0004886,C0221198,TREATS,BCG Vaccine,Lesion,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0005525,C0436345,TREATS,Biological Response Modifiers,Symptom severe,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0005525,C0439662,TREATS,Biological Response Modifiers,Immune,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0005525,C1545588,TREATS,Biological Response Modifiers,Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0005525,C3272903,TREATS,Biological Response Modifiers,Overall Response,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0010594,C0150312,TREATS,Cyclosporins,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0016712,C0750479,TREATS,Freund's Adjuvant,blank,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0016712,C1836721,TREATS,Freund's Adjuvant,"MALARIA, MILD, SUSCEPTIBILITY TO",imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0019168,C0150312,TREATS,Hepatitis B Surface Antigens,Present,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0019168,C0332155,TREATS,Hepatitis B Surface Antigens,Did not receive therapy or drug for,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0019168,C0439663,TREATS,Hepatitis B Surface Antigens,Infected,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021081,C0333361,TREATS,Immunosuppressive Agents,Acute inflammation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021081,C0742985,TREATS,Immunosuppressive Agents,debilitation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021081,C3272283,TREATS,Immunosuppressive Agents,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021081,C3273245,TREATS,Immunosuppressive Agents,Acute Rejection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021081,C3811922,TREATS,Immunosuppressive Agents,Liver transplant recipient,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021081,C4086268,TREATS,Immunosuppressive Agents,Exacerbation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0085393,TREATS,Influenza virus vaccine,Immunocompromised Host,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0085639,TREATS,Influenza virus vaccine,Falls,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0150312,TREATS,Influenza virus vaccine,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0241863,TREATS,Influenza virus vaccine,diabetic,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0425946,TREATS,Influenza virus vaccine,Short menstrual periods,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0481840,TREATS,Influenza virus vaccine,medical insurance,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0600457,TREATS,Influenza virus vaccine,Gravidity,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C0686744,TREATS,Influenza virus vaccine,Well child,imft,fndg,5,TREATS_IMFTtrtsFNDG
+C0021403,C0686750,TREATS,Influenza virus vaccine,Well adult,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0021403,C1318963,TREATS,Influenza virus vaccine,Readiness,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0021403,C1545588,TREATS,Influenza virus vaccine,Protection,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0021403,C2945656,TREATS,Influenza virus vaccine,severe allergy,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0021403,C3272283,TREATS,Influenza virus vaccine,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,4,TREATS_IMFTtrtsFNDG
+C0021403,C4086268,TREATS,Influenza virus vaccine,Exacerbation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0025010,C0439663,TREATS,Measles Vaccine,Infected,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0025010,C2597943,TREATS,Measles Vaccine,Index case,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0034496,C1879646,TREATS,Rabies Vaccines,Affected Area,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0037355,C0439663,TREATS,Smallpox Vaccine,Infected,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0037355,C0455458,TREATS,Smallpox Vaccine,PMH - past medical history,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0039620,C0150312,TREATS,Tetanus Vaccine,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0041469,C0439663,TREATS,"Vaccines, Typhoid",Infected,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0015663,TREATS,Vaccines,Fasting,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0030544,TREATS,Vaccines,PARENTAL CONCERNS,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0033213,TREATS,Vaccines,Problem,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042210,C0038435,TREATS,Vaccines,Stress,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0043094,TREATS,Vaccines,Weight Gain,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0085393,TREATS,Vaccines,Immunocompromised Host,imft,fndg,16,TREATS_IMFTtrtsFNDG
+C0042210,C0085639,TREATS,Vaccines,Falls,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042210,C0150312,TREATS,Vaccines,Present,imft,fndg,20,TREATS_IMFTtrtsFNDG
+C0042210,C0184511,TREATS,Vaccines,Improved,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0221198,TREATS,Vaccines,Lesion,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0231224,TREATS,Vaccines,Crisis,imft,fndg,4,TREATS_IMFTtrtsFNDG
+C0042210,C0231337,TREATS,Vaccines,Senility,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042210,C0231519,TREATS,Vaccines,Gegenhalten,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0237154,TREATS,Vaccines,Homelessness,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0240602,TREATS,Vaccines,opioid use,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0262926,TREATS,Vaccines,Medical History,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042210,C0332149,TREATS,Vaccines,Possible,imft,fndg,7,TREATS_IMFTtrtsFNDG
+C0042210,C0332155,TREATS,Vaccines,Did not receive therapy or drug for,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0332461,TREATS,Vaccines,Plaque (lesion),imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0332575,TREATS,Vaccines,Redness,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0424576,TREATS,Vaccines,Fit and well,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0439663,TREATS,Vaccines,Infected,imft,fndg,6,TREATS_IMFTtrtsFNDG
+C0042210,C0442797,TREATS,Vaccines,Decreasing,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0476442,TREATS,Vaccines,High antibody titer,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0518609,TREATS,Vaccines,consideration,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0557722,TREATS,Vaccines,High risk environment,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0562577,TREATS,Vaccines,Mocking,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C0595998,TREATS,Vaccines,Household composition,imft,fndg,4,TREATS_IMFTtrtsFNDG
+C0042210,C0596013,TREATS,Vaccines,Does stand,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0600140,TREATS,Vaccines,Does run (finding),imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0600457,TREATS,Vaccines,Gravidity,imft,fndg,4,TREATS_IMFTtrtsFNDG
+C0042210,C0678034,TREATS,Vaccines,Negative Lymph Node,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0679246,TREATS,Vaccines,advanced disease,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0679250,TREATS,Vaccines,Disease Outcome,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0686744,TREATS,Vaccines,Well child,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0686750,TREATS,Vaccines,Well adult,imft,fndg,15,TREATS_IMFTtrtsFNDG
+C0042210,C0700292,TREATS,Vaccines,Hypoxemia,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0746319,TREATS,Vaccines,lymph node positive,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C0750558,TREATS,Vaccines,Unlikely,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C1116171,TREATS,Vaccines,Vaccinated at,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C1273390,TREATS,Vaccines,curative treatment,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C1275743,TREATS,Vaccines,Co-morbid conditions,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C1299586,TREATS,Vaccines,Has difficulty doing (qualifier value),imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C1318963,TREATS,Vaccines,Readiness,imft,fndg,10,TREATS_IMFTtrtsFNDG
+C0042210,C1533098,TREATS,Vaccines,Panleukopenia,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C1545588,TREATS,Vaccines,Protection,imft,fndg,44,TREATS_IMFTtrtsFNDG
+C0042210,C1859430,TREATS,Vaccines,Life-threatening infections,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C1879646,TREATS,Vaccines,Affected Area,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C2676468,TREATS,Vaccines,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C2945640,TREATS,Vaccines,compromise,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C2986560,TREATS,Vaccines,Best Overall Response,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3272283,TREATS,Vaccines,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042210,C3540840,TREATS,Vaccines,Sign or Symptom,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3714738,TREATS,Vaccines,Compliance,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3811621,TREATS,Vaccines,Age - 16,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3841750,TREATS,Vaccines,Mass gathering,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3843057,TREATS,Vaccines,Second half,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3843087,TREATS,Vaccines,One thing,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C3843647,TREATS,Vaccines,> 2 years,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C3844812,TREATS,Vaccines,Pre-Birth,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C3846017,TREATS,Vaccines,Life threatening illness,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C4055506,TREATS,Vaccines,Accumulation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042210,C4264314,TREATS,Vaccines,Childhood diseases,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042210,C4289767,TREATS,Vaccines,Colonization,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042211,C0085393,TREATS,"Vaccines, Attenuated",Immunocompromised Host,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042211,C0150312,TREATS,"Vaccines, Attenuated",Present,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042211,C0262926,TREATS,"Vaccines, Attenuated",Medical History,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042211,C0600457,TREATS,"Vaccines, Attenuated",Gravidity,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042211,C0686744,TREATS,"Vaccines, Attenuated",Well child,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042211,C0686750,TREATS,"Vaccines, Attenuated",Well adult,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042211,C2945640,TREATS,"Vaccines, Attenuated",compromise,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042211,C4055506,TREATS,"Vaccines, Attenuated",Accumulation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042212,C0085393,TREATS,"Vaccines, Inactivated",Immunocompromised Host,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042212,C0150312,TREATS,"Vaccines, Inactivated",Present,imft,fndg,9,TREATS_IMFTtrtsFNDG
+C0042212,C0332155,TREATS,"Vaccines, Inactivated",Did not receive therapy or drug for,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042212,C0562577,TREATS,"Vaccines, Inactivated",Mocking,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042212,C0600457,TREATS,"Vaccines, Inactivated",Gravidity,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042212,C0686744,TREATS,"Vaccines, Inactivated",Well child,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0042212,C0686750,TREATS,"Vaccines, Inactivated",Well adult,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042212,C1545588,TREATS,"Vaccines, Inactivated",Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042212,C2945640,TREATS,"Vaccines, Inactivated",compromise,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042212,C4284010,TREATS,"Vaccines, Inactivated",Blue tongue,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0042742,C0033213,TREATS,Viral Vaccines,Problem,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042742,C0221198,TREATS,Viral Vaccines,Lesion,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042742,C1545588,TREATS,Viral Vaccines,Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0042742,C4055506,TREATS,Viral Vaccines,Accumulation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0078048,C0683314,TREATS,Chickenpox Vaccine,personal health,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0086413,C0439662,TREATS,HIV Vaccine,Immune,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0170300,C2597943,TREATS,Hepatitis A Vaccines,Index case,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0206515,C1836348,TREATS,"Vaccines, Conjugate",Severe disorder,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0243020,C3242274,TREATS,Immunoconjugates,new therapy,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0358314,C3272283,TREATS,Pneumococcal vaccine,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0376613,C0150312,TREATS,"Vaccines, DNA",Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0376613,C0221198,TREATS,"Vaccines, DNA",Lesion,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0376613,C0231337,TREATS,"Vaccines, DNA",Senility,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0376613,C0240529,TREATS,"Vaccines, DNA","NORTH AMERICAN, EASTERN",imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0376613,C0686750,TREATS,"Vaccines, DNA",Well adult,imft,fndg,6,TREATS_IMFTtrtsFNDG
+C0376613,C1545588,TREATS,"Vaccines, DNA",Protection,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C0376613,C1832073,TREATS,"Vaccines, DNA",Handling,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0376613,C3842674,TREATS,"Vaccines, DNA",Day 5,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0597641,C0150312,TREATS,plasmid vaccine,Present,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C0597641,C0439663,TREATS,plasmid vaccine,Infected,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0599597,C0150312,TREATS,genetic vaccine,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0599934,C0221198,TREATS,"Vaccines, Peptide",Lesion,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0599934,C0750479,TREATS,"Vaccines, Peptide",blank,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0599934,C1545588,TREATS,"Vaccines, Peptide",Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0717551,C0150312,TREATS,Candida albicans extract,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0770694,C0686744,TREATS,trivalent influenza vaccine,Well child,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0770694,C3272283,TREATS,trivalent influenza vaccine,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0770694,C3841839,TREATS,trivalent influenza vaccine,Person 5,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887892,C0015663,TREATS,"Vaccines, Subunit",Fasting,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887892,C0150312,TREATS,"Vaccines, Subunit",Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887892,C1545588,TREATS,"Vaccines, Subunit",Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887892,C3272283,TREATS,"Vaccines, Subunit",American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887892,C3540840,TREATS,"Vaccines, Subunit",Sign or Symptom,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887894,C0150312,TREATS,Respiratory Syncytial Virus Vaccines,Present,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887894,C0686750,TREATS,Respiratory Syncytial Virus Vaccines,Well adult,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887894,C1262477,TREATS,Respiratory Syncytial Virus Vaccines,Weight decreased,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887908,C0184511,TREATS,"Vaccines, Marker",Improved,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0887908,C1545588,TREATS,"Vaccines, Marker",Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C0979582,C0419437,TREATS,Pneumococcal 7-valent conjugate vaccine,High risk infant,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1311943,C0683314,TREATS,FluMist,personal health,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1456404,C1545588,TREATS,Trivalent Live Attenuated Influenza Vaccine,Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1519887,C0422837,TREATS,Vaccine Antigen,Neurological observations,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1519887,C1545588,TREATS,Vaccine Antigen,Protection,imft,fndg,3,TREATS_IMFTtrtsFNDG
+C1519904,C1545588,TREATS,Vaccinia Vaccine,Protection,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1579319,C4289767,TREATS,Pneumococcal conjugate vaccine,Colonization,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1699926,C0439662,TREATS,fingolimod,Immune,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C1699926,C1836348,TREATS,fingolimod,Severe disorder,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1699926,C4015217,TREATS,fingolimod,Peripheral lymphopenia,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C1741817,C3898877,TREATS,Adecatumumab,Hormone-Resistant Prostate Cancer,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2756364,C2186379,TREATS,Prevnar 13,immunocompromised condition,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C0026751,TREATS,"Immunoglobulin A, Human",Multiparity,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C0033150,TREATS,"Immunoglobulin A, Human",Primiparity,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C0150312,TREATS,"Immunoglobulin A, Human",Present,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C2825347,C0205160,TREATS,"Immunoglobulin A, Human",Negative,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C0425040,TREATS,"Immunoglobulin A, Human",Skier,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C0425710,TREATS,"Immunoglobulin A, Human",Peripheral perfusion,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C0750484,TREATS,"Immunoglobulin A, Human",Confirmation,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C1116171,TREATS,"Immunoglobulin A, Human",Vaccinated at,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C1318233,TREATS,"Immunoglobulin A, Human",immunoglobulin G index,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C1545588,TREATS,"Immunoglobulin A, Human",Protection,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C2825347,C3843708,TREATS,"Immunoglobulin A, Human",29+,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C4036115,TREATS,"Immunoglobulin A, Human",Very mild,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C2825347,C4321237,TREATS,"Immunoglobulin A, Human",High Level,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C3161957,C0085393,TREATS,INFLUENZA strains,Immunocompromised Host,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C3161957,C0150312,TREATS,INFLUENZA strains,Present,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C3272757,C0686744,TREATS,Live Attenuated Influenza Vaccine,Well child,imft,fndg,2,TREATS_IMFTtrtsFNDG
+C3272757,C0686750,TREATS,Live Attenuated Influenza Vaccine,Well adult,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C3272757,C4289767,TREATS,Live Attenuated Influenza Vaccine,Colonization,imft,fndg,1,TREATS_IMFTtrtsFNDG
+C3273243,C0085393,TREATS,Polysaccharide Vaccine,Immunocompromised Host,imft,fndg,1,TREATS_IMFTtrtsFNDG

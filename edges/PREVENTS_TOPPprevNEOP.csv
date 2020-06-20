@@ -1,0 +1,68 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0206695,PREVENTS,"Administration, Oral","Carcinoma, Neuroendocrine",topp,neop,1,PREVENTS_TOPPprevNEOP
+C0002766,C0598934,PREVENTS,Pain management,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0009429,C0598934,PREVENTS,Combined Modality Therapy,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0010408,C0027627,PREVENTS,Cryosurgery,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0013216,C0017638,PREVENTS,Pharmacotherapy,Glioma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0013216,C0153452,PREVENTS,Pharmacotherapy,Malignant neoplasm of gallbladder,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0013216,C2939419,PREVENTS,Pharmacotherapy,Secondary Neoplasm,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0027651,PREVENTS,Immunization,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0153676,PREVENTS,Immunization,Secondary malignant neoplasm of lung,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0598934,PREVENTS,Immunization,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C2939419,PREVENTS,Immunization,Secondary Neoplasm,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0021083,C0024314,PREVENTS,Immunotherapy,Lymphoproliferative Disorders,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0021485,C0027651,PREVENTS,Injection of therapeutic agent,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0021493,C0598934,PREVENTS,"Injections, Intraperitoneal",tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0029936,C0024667,PREVENTS,Ovariectomy,Animal Mammary Neoplasms,topp,neop,2,PREVENTS_TOPPprevNEOP
+C0032740,C1514428,PREVENTS,Positive End-Expiratory Pressure,Primary peritoneal carcinoma,topp,neop,7,PREVENTS_TOPPprevNEOP
+C0034386,C0027627,PREVENTS,Quarantine,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0006826,PREVENTS,Vaccination,Malignant Neoplasms,topp,neop,3,PREVENTS_TOPPprevNEOP
+C0042196,C0007847,PREVENTS,Vaccination,Malignant tumor of cervix,topp,neop,2,PREVENTS_TOPPprevNEOP
+C0042196,C0027651,PREVENTS,Vaccination,Neoplasms,topp,neop,2,PREVENTS_TOPPprevNEOP
+C0042196,C0220630,PREVENTS,Vaccination,Adult Liver Carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0242379,PREVENTS,Vaccination,Malignant neoplasm of lung,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0376358,PREVENTS,Vaccination,Malignant neoplasm of prostate,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0598934,PREVENTS,Vaccination,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0920617,PREVENTS,Vaccination,neoplasm relapse,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0079612,C0920617,PREVENTS,"Immunotherapy, Active",neoplasm relapse,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0079613,C2239176,PREVENTS,Adoptive Immunotherapy,Liver carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0195499,C3669246,PREVENTS,Ovariohysterectomy,Mammary adenocarcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0199176,C0006826,PREVENTS,Prophylactic treatment,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0199176,C0007847,PREVENTS,Prophylactic treatment,Malignant tumor of cervix,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0199176,C0027651,PREVENTS,Prophylactic treatment,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0199176,C0242379,PREVENTS,Prophylactic treatment,Malignant neoplasm of lung,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0280274,C0432487,PREVENTS,Antiviral Therapy,Post-transplant lymphoproliferative disorder,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0281187,C0677898,PREVENTS,early detection of cervical cancer,invasive cancer,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0282515,C0008493,PREVENTS,Chemoprevention,"Hydatidiform Mole, Invasive",topp,neop,1,PREVENTS_TOPPprevNEOP
+C0282515,C1135868,PREVENTS,Chemoprevention,Gestational Trophoblastic Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0302189,C0178874,PREVENTS,Cell Therapy,Tumor Progression,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0376518,C0432487,PREVENTS,Adoptive Transfer,Post-transplant lymphoproliferative disorder,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0439775,C0205770,PREVENTS,Elevation procedure,Choroid Plexus Papilloma,topp,neop,2,PREVENTS_TOPPprevNEOP
+C0454530,C0007114,PREVENTS,Ultraviolet B therapy,Malignant neoplasm of skin,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0472699,C0006826,PREVENTS,Hemopoietic stem cell transplant,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0472699,C0432487,PREVENTS,Hemopoietic stem cell transplant,Post-transplant lymphoproliferative disorder,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0520484,C0598934,PREVENTS,Xenograft procedure,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0543467,C0006826,PREVENTS,Operative Surgical Procedures,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0547070,C0027651,PREVENTS,Ablation,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0600558,C0007113,PREVENTS,Neoadjuvant Therapy,Rectal Carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0677850,C2939419,PREVENTS,adjuvant therapy,Secondary Neoplasm,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0678812,C0027651,PREVENTS,systemic administration,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0683465,C0280100,PREVENTS,novel AODU treatment method,Solid Neoplasm,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0814357,C0432487,PREVENTS,universal prevention,Post-transplant lymphoproliferative disorder,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0814435,C0027627,PREVENTS,early identification,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0848112,C0006826,PREVENTS,on anti-coagulants,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0887947,C0006826,PREVENTS,"Antiretroviral Therapy, Highly Active",Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0887947,C0036220,PREVENTS,"Antiretroviral Therapy, Highly Active",Kaposi Sarcoma,topp,neop,3,PREVENTS_TOPPprevNEOP
+C0887947,C1332922,PREVENTS,"Antiretroviral Therapy, Highly Active",Cervical Squamous Intraepithelial Neoplasia,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0887947,C1334177,PREVENTS,"Antiretroviral Therapy, Highly Active",Infiltrating Cervical Carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1135809,C0032019,PREVENTS,Caloric Restriction,Pituitary Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1273412,C0006826,PREVENTS,Chinese herbal medicine,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1293130,C1516170,PREVENTS,Stabilization,Cancer Cell Growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1443861,C0027627,PREVENTS,Post-Exposure Prophylaxis,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1511790,C0006826,PREVENTS,Detection,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1627346,C0206695,PREVENTS,Feeding regime,"Carcinoma, Neuroendocrine",topp,neop,1,PREVENTS_TOPPprevNEOP
+C2919491,C0278493,PREVENTS,Boost radiation therapy,recurrent breast cancer,topp,neop,1,PREVENTS_TOPPprevNEOP
+C4289797,C0029925,PREVENTS,Chimeric Antigen Receptor T-Cell Therapy,Ovarian Carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C4289797,C0235974,PREVENTS,Chimeric Antigen Receptor T-Cell Therapy,Pancreatic carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C4289797,C0376358,PREVENTS,Chimeric Antigen Receptor T-Cell Therapy,Malignant neoplasm of prostate,topp,neop,1,PREVENTS_TOPPprevNEOP
+C4289797,C0376545,PREVENTS,Chimeric Antigen Receptor T-Cell Therapy,Hematologic Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP

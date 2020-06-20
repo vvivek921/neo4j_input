@@ -1,0 +1,247 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0035126,TREATS,"Administration, Intranasal",Reperfusion Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0001566,C0000925,TREATS,"Administration, Topical",Incised wound,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0001566,C0006434,TREATS,"Administration, Topical",Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0001566,C0043242,TREATS,"Administration, Topical",Superficial abrasion,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002688,C0006434,TREATS,Amputation,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002766,C0035522,TREATS,Pain management,Rib Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002766,C0039980,TREATS,Pain management,Thoracic Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002911,C0016658,TREATS,"Anesthesia, Conduction",Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002911,C0473977,TREATS,"Anesthesia, Conduction",Local anesthetic agent poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002915,C0000932,TREATS,General Anesthesia,Traffic accidents,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0002915,C0242488,TREATS,General Anesthesia,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0003281,C0043251,TREATS,Anticoagulation Therapy,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0003893,C0016658,TREATS,Arthroplasty,Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0004361,C0043251,TREATS,Autogenic Training,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0004704,C0600688,TREATS,Balloon Dilatation,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0004910,C0015802,TREATS,Bed rest,Femoral Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0004910,C0262640,TREATS,Bed rest,splenic trauma,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0005841,C0043251,TREATS,Blood Transfusion,Wounds and Injuries,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0005841,C0848377,TREATS,Blood Transfusion,trauma to the abdomen,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0005976,C0016658,TREATS,Bone Transplantation,Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0007975,C0004063,TREATS,Chelation Therapy,Assault,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0007975,C0023176,TREATS,Chelation Therapy,Lead Poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0008320,C3203359,TREATS,Cholecystectomy procedure,Rupture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0009429,C0029944,TREATS,Combined Modality Therapy,Drug Overdose,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0009429,C0080194,TREATS,Combined Modality Therapy,Muscle strain,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0009429,C0161479,TREATS,Combined Modality Therapy,Nerve injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0009429,C0599918,TREATS,Combined Modality Therapy,nephrotoxicity,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0010042,C0521711,TREATS,Keratoplasty,Corneal laceration,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0013216,C0273115,TREATS,Pharmacotherapy,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0013216,C0600688,TREATS,Pharmacotherapy,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0013806,C0043242,TREATS,Electroconvulsive Therapy,Superficial abrasion,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0013806,C1112363,TREATS,Electroconvulsive Therapy,Underdose (unintentional),topp,inpo,1,TREATS_TOPPtrtsINPO
+C0013969,C0561596,TREATS,Emergency treatment,Dog bite - wound,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0015357,C0085742,TREATS,Extracorporeal Membrane Oxygenation,"Injuries, Acute Brain",topp,inpo,1,TREATS_TOPPtrtsINPO
+C0015357,C0242488,TREATS,Extracorporeal Membrane Oxygenation,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0015357,C0332677,TREATS,Extracorporeal Membrane Oxygenation,Major injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0015357,C0600688,TREATS,Extracorporeal Membrane Oxygenation,Toxic effect,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0015357,C0876926,TREATS,Extracorporeal Membrane Oxygenation,Traumatic Brain Injury,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0015357,C2905612,TREATS,Extracorporeal Membrane Oxygenation,Storm NOS,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0016143,C0043250,TREATS,First Aid,Injury wounds,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0016419,C0005658,TREATS,"Medicine, Folk",bite injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0016419,C0332691,TREATS,"Medicine, Folk",Scalding injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0017196,C0018674,TREATS,Gastrostomy,Craniocerebral Trauma,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0017296,C0037367,TREATS,gene therapy,Smoke Inhalation Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0017296,C0242488,TREATS,gene therapy,Acute Lung Injury,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0017296,C0273115,TREATS,gene therapy,Lung Injury,topp,inpo,4,TREATS_TOPPtrtsINPO
+C0017501,C0043251,TREATS,Gestalt Therapy,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0018821,C0018805,TREATS,Cardiac Surgery procedures,Heart Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0018821,C0160420,TREATS,Cardiac Surgery procedures,Injury of kidney,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0019541,C0273115,TREATS,High-Frequency Ventilation,Lung Injury,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0020431,C0034530,TREATS,Hyperbaric oxygenation therapy,Radiation injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0020431,C0876926,TREATS,Hyperbaric oxygenation therapy,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0020674,C0876926,TREATS,"Hypothermia, Induced",Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0020944,C0159877,TREATS,Immobilization,Ankle Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0020971,C0521819,TREATS,Immunization,Vaccination failure,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0020972,C0274281,TREATS,Immunization Schedule,Injury due to exposure to external cause,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021083,C0600688,TREATS,Immunotherapy,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021107,C0043254,TREATS,Implantation procedure,"Wounds, Penetrating",topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021107,C0600688,TREATS,Implantation procedure,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021493,C0080194,TREATS,"Injections, Intraperitoneal",Muscle strain,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021493,C0273115,TREATS,"Injections, Intraperitoneal",Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021589,C0160390,TREATS,"Insemination, Artificial, Homologous",Injury of liver,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021885,C0016658,TREATS,Intramedullary Nailing,Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0021925,C0043251,TREATS,Intubation,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0021932,C0085094,TREATS,"Intubation, Intratracheal",Closed head injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0023038,C0043251,TREATS,Laparotomy,Wounds and Injuries,topp,inpo,12,TREATS_TOPPtrtsINPO
+C0023038,C0848377,TREATS,Laparotomy,trauma to the abdomen,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0023690,C0273115,TREATS,Ligation,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0023911,C0237963,TREATS,Transplantation of liver,Poisoning by acetaminophen,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0029216,C0043251,TREATS,Organ Transplantation,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0031139,C0032343,TREATS,Peritoneal Dialysis,Poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0032042,C0043251,TREATS,Placebos,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0032042,C0599918,TREATS,Placebos,nephrotoxicity,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0032042,C0600688,TREATS,Placebos,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0032113,C0242488,TREATS,Plasma Exchange,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0032740,C0273115,TREATS,Positive End-Expiratory Pressure,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0032740,C0876926,TREATS,Positive End-Expiratory Pressure,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0032740,C2350350,TREATS,Positive End-Expiratory Pressure,Ventilator-Induced Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0033968,C0282350,TREATS,Psychotherapy,Sexual abuse,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0035139,C0010957,TREATS,Surgical Replantation,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0035205,C0270611,TREATS,"Respiration, Artificial",Brain Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0035273,C0005700,TREATS,Resuscitation procedure,Blast Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0035273,C0006434,TREATS,Resuscitation procedure,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0035273,C0043251,TREATS,Resuscitation procedure,Wounds and Injuries,topp,inpo,6,TREATS_TOPPtrtsINPO
+C0035273,C0332677,TREATS,Resuscitation procedure,Major injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0037297,C0006434,TREATS,Skin Transplantation,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0037995,C0038000,TREATS,Splenectomy,Splenic Rupture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0038903,C0035126,TREATS,Pulmonary Surgical Procedures,Reperfusion Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0039991,C0043251,TREATS,Thoracotomy,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040590,C0273115,TREATS,Tracheostomy procedure,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040732,C0035126,TREATS,Transplantation,Reperfusion Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040732,C0043250,TREATS,Transplantation,Injury wounds,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040732,C0151736,TREATS,Transplantation,Accidental injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040732,C0273115,TREATS,Transplantation,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040736,C1510432,TREATS,"Transplantation, Autologous",Radiation Sickness,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040739,C0006434,TREATS,"Transplantation, Homologous",Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040739,C3203359,TREATS,"Transplantation, Homologous",Rupture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040808,C0016658,TREATS,Treatment Protocols,Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040808,C0332662,TREATS,Treatment Protocols,GENERAL INJURIES,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040808,C0600688,TREATS,Treatment Protocols,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0040861,C0006434,TREATS,Triage,Burn injury,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0040861,C0043251,TREATS,Triage,Wounds and Injuries,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0042196,C0600688,TREATS,Vaccination,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0042200,C2921946,TREATS,Influenza vaccination,multiple Strains,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0042903,C0521711,TREATS,Vitrectomy,Corneal laceration,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0079613,C0600688,TREATS,Adoptive Immunotherapy,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0079646,C0006434,TREATS,Islets of Langerhans Transplantation,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0086225,C0006434,TREATS,Enteral Feeding,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0086225,C0701836,TREATS,Enteral Feeding,Thermal burn,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0086252,C0876926,TREATS,Red Blood Cell Transfusion,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0086818,C0043251,TREATS,Platelet Transfusion,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0149783,C0273115,TREATS,Steroid therapy,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0150126,C0332677,TREATS,Airway Management,Major injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0150133,C1320736,TREATS,Animal Assisted Therapy,Critical incident,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0150157,C0043251,TREATS,Calming,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0152060,C0273115,TREATS,Transection (procedure),Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0152060,C0274281,TREATS,Transection (procedure),Injury due to exposure to external cause,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0162352,C0043251,TREATS,Allergen Immunotherapy,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0162563,C2905612,TREATS,Cardiac ablation,Storm NOS,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0185027,C0600688,TREATS,Imbrication (procedure),Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185027,C2921946,TREATS,Imbrication (procedure),multiple Strains,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185060,C0000925,TREATS,Crushing procedure,Incised wound,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185060,C0476171,TREATS,Crushing procedure,Comminuted Fracture type,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185115,C0010957,TREATS,Extraction,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185115,C0016542,TREATS,Extraction,Foreign Bodies,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185115,C0043242,TREATS,Extraction,Superficial abrasion,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185115,C0043250,TREATS,Extraction,Injury wounds,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0185115,C0600688,TREATS,Extraction,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0186193,C0015806,TREATS,Repair of hip,Femoral Neck Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0189381,C0273115,TREATS,Bronchial Lavage,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0189476,C0004760,TREATS,Insertion of pleural tube drain,Dysbarism,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0189476,C0340006,TREATS,Insertion of pleural tube drain,Traumatic hemothorax,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0192861,C0347646,TREATS,Right colectomy,Perforation of colon,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0193549,C0434037,TREATS,Cholecystoduodenostomy,Bile duct tear,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0194873,C0347653,TREATS,Unilateral orchidectomy,Injury of testis,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199176,C0010957,TREATS,Prophylactic treatment,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199176,C0016479,TREATS,Prophylactic treatment,Food Poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199176,C0043251,TREATS,Prophylactic treatment,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199176,C0085178,TREATS,Prophylactic treatment,Needlestick Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199467,C0043251,TREATS,Physiotherapy of chest,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199470,C0242488,TREATS,Mechanical ventilation,Acute Lung Injury,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0199470,C0273115,TREATS,Mechanical ventilation,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199470,C0876926,TREATS,Mechanical ventilation,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0199962,C0043251,TREATS,Transfusion of packed red blood cells,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0206058,C0043251,TREATS,Elective Surgical Procedures,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0206074,C0085742,TREATS,Renal Replacement Therapy,"Injuries, Acute Brain",topp,inpo,1,TREATS_TOPPtrtsINPO
+C0206074,C2905612,TREATS,Renal Replacement Therapy,Storm NOS,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0242390,C0006434,TREATS,Home Remedies,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0242739,C0876926,TREATS,Nutritional Support,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0262756,C0876926,TREATS,respiratory management,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0280274,C0028798,TREATS,Antiviral Therapy,Occupational Exposure,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0281176,C0040533,TREATS,antibody therapy,Toxic effect of venom,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0282046,C0016658,TREATS,"Surgery, Day",Fracture,topp,inpo,3,TREATS_TOPPtrtsINPO
+C0282638,C0332803,TREATS,Antibiotic Prophylaxis,Surgical wound,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0302189,C0273115,TREATS,Cell Therapy,Lung Injury,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0337280,C0043250,TREATS,Fenestration procedure,Injury wounds,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0338237,C0043250,TREATS,Antibiotic therapy,Injury wounds,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0344211,C0013221,TREATS,Supportive care,Drug toxicity,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0344211,C0035126,TREATS,Supportive care,Reperfusion Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0344211,C0270611,TREATS,Supportive care,Brain Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0344211,C0275440,TREATS,Supportive care,Castor bean poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0349707,C0027516,TREATS,Aspiration-action,Near Drowning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0349707,C0043251,TREATS,Aspiration-action,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0376518,C0242488,TREATS,Adoptive Transfer,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0396565,C0039980,TREATS,Lung excision,Thoracic Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0398395,C0544691,TREATS,Neck Dissection,Hanging,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0411282,C0043251,TREATS,Endovascular radiological intervention,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0419011,C0242488,TREATS,Controlled ventilation,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0419017,C2350350,TREATS,High frequency oscillatory ventilation,Ventilator-Induced Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0419019,C0242488,TREATS,Liquid Ventilation,Acute Lung Injury,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0441509,C0043251,TREATS,Coagulation procedure,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0442967,C0043251,TREATS,Salvage procedure,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0451615,C0006434,TREATS,Pain relief,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0452410,C0018843,TREATS,Balanced diet,Heat Stroke,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0456675,C0043251,TREATS,Massive blood transfusion,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0456675,C0043254,TREATS,Massive blood transfusion,"Wounds, Penetrating",topp,inpo,1,TREATS_TOPPtrtsINPO
+C0456675,C3263723,TREATS,Massive blood transfusion,Traumatic injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0459914,C0016658,TREATS,Conservative Treatment,Fracture,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0459914,C0242488,TREATS,Conservative Treatment,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0472699,C0273115,TREATS,Hemopoietic stem cell transplant,Lung Injury,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0472699,C0876926,TREATS,Hemopoietic stem cell transplant,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0521302,C0043254,TREATS,Fluid replacement,"Wounds, Penetrating",topp,inpo,1,TREATS_TOPPtrtsINPO
+C0524850,C0006434,TREATS,Neurosurgical Procedures,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0524850,C0876926,TREATS,Neurosurgical Procedures,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C0004063,TREATS,Operative Surgical Procedures,Assault,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0543467,C0010957,TREATS,Operative Surgical Procedures,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C0016658,TREATS,Operative Surgical Procedures,Fracture,topp,inpo,4,TREATS_TOPPtrtsINPO
+C0543467,C0019557,TREATS,Operative Surgical Procedures,Hip Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C0035126,TREATS,Operative Surgical Procedures,Reperfusion Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C0035522,TREATS,Operative Surgical Procedures,Rib Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C0043251,TREATS,Operative Surgical Procedures,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C0876926,TREATS,Operative Surgical Procedures,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C1265659,TREATS,Operative Surgical Procedures,Posterior dislocation,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0543467,C2609162,TREATS,Operative Surgical Procedures,Periprosthetic Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0547070,C0560617,TREATS,Ablation,knocked out,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0553741,C0043251,TREATS,Fluid Management,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0574032,C0600688,TREATS,Infusion procedures,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0580646,C0043250,TREATS,Integumentary system repair,Injury wounds,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0581602,C1264238,TREATS,Structural modification,Injury of central nervous system,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0596171,C0564444,TREATS,Tissue Engineering,Wound of skin,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0677850,C0242488,TREATS,adjuvant therapy,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0677850,C0273115,TREATS,adjuvant therapy,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0677850,C2905612,TREATS,adjuvant therapy,Storm NOS,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0678812,C0242488,TREATS,systemic administration,Acute Lung Injury,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0679637,C0043251,TREATS,major surgery,Wounds and Injuries,topp,inpo,2,TREATS_TOPPtrtsINPO
+C0683174,C0043242,TREATS,topical application,Superficial abrasion,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0683525,C0032343,TREATS,treatment options,Poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0683525,C0043251,TREATS,treatment options,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0683525,C0080194,TREATS,treatment options,Muscle strain,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0683525,C2905612,TREATS,treatment options,Storm NOS,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0684199,C0032343,TREATS,Homeopathy,Poisoning,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0744743,C0015806,TREATS,Hemiarthroplasty,Femoral Neck Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0752151,C0039980,TREATS,"Thoracic Surgery, Video-Assisted",Thoracic Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0752151,C1828252,TREATS,"Thoracic Surgery, Video-Assisted",Blunt injury of thorax,topp,inpo,4,TREATS_TOPPtrtsINPO
+C0872278,C0010957,TREATS,stem cell therapy,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0886052,C0332673,TREATS,wound care,Minor injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0920467,C0679360,TREATS,disorder control (procedure),Foodborne Disease,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0935576,C0274281,TREATS,treatment guideline,Injury due to exposure to external cause,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0947647,C0043251,TREATS,Manipulation procedure,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0947647,C0242488,TREATS,Manipulation procedure,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C0949766,C0585058,TREATS,Physical therapy,Undisplaced fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1096021,C0273115,TREATS,antiplatelet therapy,Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1096745,C0600688,TREATS,Calcium supplement therapy,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1112479,C0043251,TREATS,Wean from ventilator (procedure),Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1275713,C0043251,TREATS,Cannulation of trachea,Wounds and Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1280903,C0016658,TREATS,Exploration procedure,Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1293130,C0016658,TREATS,Stabilization,Fracture,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1298802,C0037379,TREATS,Emergency procedure,Snake Bites,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1299575,C2062978,TREATS,Treatment modification,non specific diagnosis,topp,inpo,2,TREATS_TOPPtrtsINPO
+C1320204,C0003044,TREATS,Rabies prophylaxis,Animal bite,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1443861,C0085178,TREATS,Post-Exposure Prophylaxis,Needlestick Injuries,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1511790,C0600688,TREATS,Detection,Toxic effect,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1511790,C0679360,TREATS,Detection,Foodborne Disease,topp,inpo,2,TREATS_TOPPtrtsINPO
+C1512814,C0206063,TREATS,"Radiotherapy, Intensity-Modulated",Radiation Pneumonitis,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1522449,C0206063,TREATS,Therapeutic radiology procedure,Radiation Pneumonitis,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1711362,C0040441,TREATS,Remineralization,Tooth Fractures,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1956080,C0006434,TREATS,Vacuum-Assisted Closure,Burn injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C1963724,C0010957,TREATS,Antiretroviral therapy,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C2004459,C0010957,TREATS,Abdominoperineal resection,Tissue damage,topp,inpo,1,TREATS_TOPPtrtsINPO
+C2169188,C0000925,TREATS,irradiation pattern,Incised wound,topp,inpo,1,TREATS_TOPPtrtsINPO
+C2827774,C0035126,TREATS,Current Therapy,Reperfusion Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C2945704,C0876926,TREATS,Conventional Treatment,Traumatic Brain Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C2945704,C2609414,TREATS,Conventional Treatment,Acute kidney injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C2973270,C0043246,TREATS,Health Checkup,Laceration,topp,inpo,1,TREATS_TOPPtrtsINPO
+C3661922,C0242488,TREATS,Surfactant replacement therapy,Acute Lung Injury,topp,inpo,1,TREATS_TOPPtrtsINPO
+C4520447,C0080194,TREATS,Decolonization,Muscle strain,topp,inpo,1,TREATS_TOPPtrtsINPO

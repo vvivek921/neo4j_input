@@ -1,0 +1,74 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C0035696,PRODUCES,Alternative Splicing,"RNA, Messenger",genf,bacs,1,PRODUCES_GENFprodBACS
+C0002345,C3178792,PRODUCES,Alternative Splicing,RNA Isoforms,genf,bacs,2,PRODUCES_GENFprodBACS
+C0017255,C0071005,PRODUCES,Gene Activation,phytoalexins,genf,bacs,1,PRODUCES_GENFprodBACS
+C0017256,C0028606,PRODUCES,Gene Amplification,Nucleic Acids,genf,bacs,1,PRODUCES_GENFprodBACS
+C0017262,C0035693,PRODUCES,Gene Expression,"RNA, Double-Stranded",genf,bacs,1,PRODUCES_GENFprodBACS
+C0017262,C0035696,PRODUCES,Gene Expression,"RNA, Messenger",genf,bacs,1,PRODUCES_GENFprodBACS
+C0020202,C0012854,PRODUCES,Crossbreeding,DNA,genf,bacs,4,PRODUCES_GENFprodBACS
+C0026882,C0012854,PRODUCES,Mutation,DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C0026882,C0035693,PRODUCES,Mutation,"RNA, Double-Stranded",genf,bacs,1,PRODUCES_GENFprodBACS
+C0026882,C0041917,PRODUCES,Mutation,Uracil,genf,bacs,1,PRODUCES_GENFprodBACS
+C0026882,C0056912,PRODUCES,Mutation,cytidylyl-3'-5'-guanosine,genf,bacs,1,PRODUCES_GENFprodBACS
+C0026882,C0080124,PRODUCES,Mutation,Antisense RNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C0026882,C1099354,PRODUCES,Mutation,"RNA, Small Interfering",genf,bacs,1,PRODUCES_GENFprodBACS
+C0034865,C0012854,PRODUCES,"Recombination, Genetic",DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C0034865,C0032136,PRODUCES,"Recombination, Genetic",Plasmids,genf,bacs,1,PRODUCES_GENFprodBACS
+C0034865,C1764827,PRODUCES,"Recombination, Genetic",Isolate - microorganism,genf,bacs,2,PRODUCES_GENFprodBACS
+C0035380,C0012854,PRODUCES,Reverse Transcription,DNA,genf,bacs,6,PRODUCES_GENFprodBACS
+C0035380,C0012925,PRODUCES,Reverse Transcription,"DNA, Circular",genf,bacs,1,PRODUCES_GENFprodBACS
+C0035687,C0026661,PRODUCES,RNA Splicing,mRNA Precursor,genf,bacs,2,PRODUCES_GENFprodBACS
+C0035687,C0035696,PRODUCES,RNA Splicing,"RNA, Messenger",genf,bacs,2,PRODUCES_GENFprodBACS
+C0040649,C0026661,PRODUCES,"Transcription, Genetic",mRNA Precursor,genf,bacs,1,PRODUCES_GENFprodBACS
+C0040649,C0035696,PRODUCES,"Transcription, Genetic","RNA, Messenger",genf,bacs,8,PRODUCES_GENFprodBACS
+C0040649,C0082774,PRODUCES,"Transcription, Genetic","RNA, Guide",genf,bacs,1,PRODUCES_GENFprodBACS
+C0040649,C0242493,PRODUCES,"Transcription, Genetic",RNA Precursor,genf,bacs,1,PRODUCES_GENFprodBACS
+C0079870,C0032136,PRODUCES,"Mutagenesis, Site-Directed",Plasmids,genf,bacs,6,PRODUCES_GENFprodBACS
+C0079870,C1099354,PRODUCES,"Mutagenesis, Site-Directed","RNA, Small Interfering",genf,bacs,2,PRODUCES_GENFprodBACS
+C0162493,C0162772,PRODUCES,Transcriptional Activation,Reactive Oxygen Species,genf,bacs,1,PRODUCES_GENFprodBACS
+C0598312,C0012854,PRODUCES,DNA Replication,DNA,genf,bacs,4,PRODUCES_GENFprodBACS
+C0683230,C0065530,PRODUCES,dna amplification,magnesium pyrophosphate,genf,bacs,1,PRODUCES_GENFprodBACS
+C0683230,C0684192,PRODUCES,dna amplification,DNA fragments,genf,bacs,1,PRODUCES_GENFprodBACS
+C0887912,C0763286,PRODUCES,"Gene Transfer, Horizontal",mycolactone,genf,bacs,1,PRODUCES_GENFprodBACS
+C1136031,C0032136,PRODUCES,RNA Interference,Plasmids,genf,bacs,1,PRODUCES_GENFprodBACS
+C1136031,C0035693,PRODUCES,RNA Interference,"RNA, Double-Stranded",genf,bacs,2,PRODUCES_GENFprodBACS
+C1136031,C1099354,PRODUCES,RNA Interference,"RNA, Small Interfering",genf,bacs,13,PRODUCES_GENFprodBACS
+C1136031,C1101610,PRODUCES,RNA Interference,MicroRNAs,genf,bacs,4,PRODUCES_GENFprodBACS
+C1148807,C0035696,PRODUCES,endonuclease activity,"RNA, Messenger",genf,bacs,1,PRODUCES_GENFprodBACS
+C1152412,C0035693,PRODUCES,RNA-directed RNA polymerase activity,"RNA, Double-Stranded",genf,bacs,4,PRODUCES_GENFprodBACS
+C1152412,C0035696,PRODUCES,RNA-directed RNA polymerase activity,"RNA, Messenger",genf,bacs,3,PRODUCES_GENFprodBACS
+C1152412,C0042010,PRODUCES,RNA-directed RNA polymerase activity,Uridine Triphosphate,genf,bacs,1,PRODUCES_GENFprodBACS
+C1152412,C0071504,PRODUCES,RNA-directed RNA polymerase activity,"mRNA, Polyadenylated",genf,bacs,1,PRODUCES_GENFprodBACS
+C1152412,C0082774,PRODUCES,RNA-directed RNA polymerase activity,"RNA, Guide",genf,bacs,1,PRODUCES_GENFprodBACS
+C1152412,C0242494,PRODUCES,RNA-directed RNA polymerase activity,Poly(A) Tail,genf,bacs,1,PRODUCES_GENFprodBACS
+C1152412,C1099354,PRODUCES,RNA-directed RNA polymerase activity,"RNA, Small Interfering",genf,bacs,3,PRODUCES_GENFprodBACS
+C1158517,C0012854,PRODUCES,strand displacement,DNA,genf,bacs,2,PRODUCES_GENFprodBACS
+C1158770,C0032136,PRODUCES,Transcriptional Regulation,Plasmids,genf,bacs,1,PRODUCES_GENFprodBACS
+C1158774,C0017725,PRODUCES,negative regulation of transcription by glucose,Glucose,genf,bacs,1,PRODUCES_GENFprodBACS
+C1158817,C0012854,PRODUCES,viral transcription,DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C1158817,C0035670,PRODUCES,viral transcription,RNA Caps,genf,bacs,1,PRODUCES_GENFprodBACS
+C1171362,C0032136,PRODUCES,protein expression,Plasmids,genf,bacs,1,PRODUCES_GENFprodBACS
+C1176301,C0035670,PRODUCES,RNA capping,RNA Caps,genf,bacs,1,PRODUCES_GENFprodBACS
+C1328949,C0035142,PRODUCES,RNA replication,Replicon,genf,bacs,1,PRODUCES_GENFprodBACS
+C1328949,C0035693,PRODUCES,RNA replication,"RNA, Double-Stranded",genf,bacs,4,PRODUCES_GENFprodBACS
+C1512167,C1519315,PRODUCES,Ectopic Gene Expression,Signaling Molecule,genf,bacs,1,PRODUCES_GENFprodBACS
+C1514664,C0034170,PRODUCES,RNA Folding,Putrescine,genf,bacs,1,PRODUCES_GENFprodBACS
+C1514665,C1101610,PRODUCES,RNA Interference Pathway,MicroRNAs,genf,bacs,1,PRODUCES_GENFprodBACS
+C1519592,C0035696,PRODUCES,Transcription Process,"RNA, Messenger",genf,bacs,2,PRODUCES_GENFprodBACS
+C1519613,C0018340,PRODUCES,Translation Initiation,Guanosine Diphosphate,genf,bacs,1,PRODUCES_GENFprodBACS
+C1519614,C0012854,PRODUCES,Genetic Translation Process,DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C1519619,C0040549,PRODUCES,Translational Repression,Toxin,genf,bacs,1,PRODUCES_GENFprodBACS
+C1523645,C1101610,PRODUCES,production of miRNAs involved in gene silencing by miRNA,MicroRNAs,genf,bacs,1,PRODUCES_GENFprodBACS
+C1523646,C1099354,PRODUCES,siRNA binding,"RNA, Small Interfering",genf,bacs,1,PRODUCES_GENFprodBACS
+C1622984,C0035696,PRODUCES,mRNA synthesis,"RNA, Messenger",genf,bacs,1,PRODUCES_GENFprodBACS
+C1956002,C0012854,PRODUCES,INDEL Mutation,DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C2247629,C0012854,PRODUCES,DNA polymerase activity,DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C2260811,C0012854,PRODUCES,5'-exonuclease activity,DNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C2610186,C0001461,PRODUCES,"nuclear mRNA cis splicing, via spliceosome",Adenosine Diphosphate Ribose,genf,bacs,2,PRODUCES_GENFprodBACS
+C2610186,C0032403,PRODUCES,"nuclear mRNA cis splicing, via spliceosome",Poly Adenosine Diphosphate Ribose,genf,bacs,1,PRODUCES_GENFprodBACS
+C2610186,C0035696,PRODUCES,"nuclear mRNA cis splicing, via spliceosome","RNA, Messenger",genf,bacs,3,PRODUCES_GENFprodBACS
+C2610186,C0035711,PRODUCES,"nuclear mRNA cis splicing, via spliceosome",Transfer RNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C2610186,C0162772,PRODUCES,"nuclear mRNA cis splicing, via spliceosome",Reactive Oxygen Species,genf,bacs,1,PRODUCES_GENFprodBACS
+C2613185,C1099354,PRODUCES,miRNA biogenesis,"RNA, Small Interfering",genf,bacs,1,PRODUCES_GENFprodBACS
+C2754013,C0528412,PRODUCES,trans-translation,tmRNA,genf,bacs,1,PRODUCES_GENFprodBACS
+C3548681,C1099354,PRODUCES,RNA-directed DNA methylation,"RNA, Small Interfering",genf,bacs,1,PRODUCES_GENFprodBACS

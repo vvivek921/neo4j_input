@@ -1,0 +1,953 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0018247,PRECEDES,Adenoidectomy,Grommet Insertion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001560,C0020971,PRECEDES,"Administration, Intranasal",Immunization,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0001560,C0021493,PRECEDES,"Administration, Intranasal","Injections, Intraperitoneal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001560,C0042196,PRECEDES,"Administration, Intranasal",Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001560,C0189621,PRECEDES,"Administration, Intranasal",Injection of cardiovascular system,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001560,C0841790,PRECEDES,"Administration, Intranasal",caudal injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0001560,PRECEDES,"Administration, Oral","Administration, Intranasal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0020971,PRECEDES,"Administration, Oral",Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0021493,PRECEDES,"Administration, Oral","Injections, Intraperitoneal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0042196,PRECEDES,"Administration, Oral",Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0204727,PRECEDES,"Administration, Oral",Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0393005,PRECEDES,"Administration, Oral",chlorodihydroxypyridine/potassium oxonate/tegafur,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001563,C0439775,PRECEDES,"Administration, Oral",Elevation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0001566,C0042196,PRECEDES,"Administration, Topical",Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002688,C0005841,PRECEDES,Amputation,Blood Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002903,C0010468,PRECEDES,Anesthesia procedures,Curettage procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002903,C0020971,PRECEDES,Anesthesia procedures,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002903,C0021925,PRECEDES,Anesthesia procedures,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002903,C0023038,PRECEDES,Anesthesia procedures,Laparotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002903,C0199470,PRECEDES,Anesthesia procedures,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002903,C0349707,PRECEDES,Anesthesia procedures,Aspiration-action,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002915,C0002928,PRECEDES,General Anesthesia,Spinal Anesthesia,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002915,C0035273,PRECEDES,General Anesthesia,Resuscitation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0002996,C0199176,PRECEDES,"Angioplasty, Balloon",Prophylactic treatment,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0003893,C0035110,PRECEDES,Arthroplasty,Repeat Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0003893,C0407433,PRECEDES,Arthroplasty,Rotational osteotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0003893,C0749736,PRECEDES,Arthroplasty,tumor removal,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005794,C0005841,PRECEDES,Blood Donation,Blood Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005841,C0920425,PRECEDES,Blood Transfusion,cancer therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0005841,PRECEDES,Bone Marrow Transplantation,Blood Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0013216,PRECEDES,Bone Marrow Transplantation,Pharmacotherapy,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0005961,C0021079,PRECEDES,Bone Marrow Transplantation,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0029216,PRECEDES,Bone Marrow Transplantation,Organ Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0040732,PRECEDES,Bone Marrow Transplantation,Transplantation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0005961,C0040808,PRECEDES,Bone Marrow Transplantation,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0199176,PRECEDES,Bone Marrow Transplantation,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0242602,PRECEDES,Bone Marrow Transplantation,Peripheral Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0281178,PRECEDES,Bone Marrow Transplantation,anti-cytokine therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0376450,PRECEDES,Bone Marrow Transplantation,Transplantation Conditioning,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C0472699,PRECEDES,Bone Marrow Transplantation,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C1511790,PRECEDES,Bone Marrow Transplantation,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C1708063,PRECEDES,Bone Marrow Transplantation,First line treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0005961,C1882454,PRECEDES,Bone Marrow Transplantation,Preparative Regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0006098,C0194810,PRECEDES,Brachytherapy,Radical prostatectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007202,C0086818,PRECEDES,Cardiopulmonary Bypass,Platelet Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007202,C0189338,PRECEDES,Cardiopulmonary Bypass,Operation on trachea,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007202,C2936643,PRECEDES,Cardiopulmonary Bypass,Standard of Care,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007344,C0002766,PRECEDES,Castration,Pain management,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007876,C0002903,PRECEDES,Cesarean section,Anesthesia procedures,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0007876,C0021925,PRECEDES,Cesarean section,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007876,C0035139,PRECEDES,Cesarean section,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007876,C0194825,PRECEDES,Cesarean section,Radical retropubic prostatectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0007876,C0451615,PRECEDES,Cesarean section,Pain relief,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0009244,C0242348,PRECEDES,Cognitive Therapy,Serotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0009274,C0013103,PRECEDES,Colectomy,Drainage procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0010042,C0185115,PRECEDES,Keratoplasty,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0010055,C0032740,PRECEDES,Coronary Artery Bypass Surgery,Positive End-Expiratory Pressure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0010055,C0199176,PRECEDES,Coronary Artery Bypass Surgery,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0010280,C0524850,PRECEDES,Craniotomy,Neurosurgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0010408,C0677850,PRECEDES,Cryosurgery,adjuvant therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0011121,C0012683,PRECEDES,Decontamination,Disinfection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0011121,C0012737,PRECEDES,Decontamination,Tissue Dissection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0011121,C0407295,PRECEDES,Decontamination,Fixation of fracture using plate,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0011209,C0011331,PRECEDES,Obstetric Delivery,Dental Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0011307,C0398480,PRECEDES,Denervation,Drainage of lymphatics,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0012683,C0011946,PRECEDES,Disinfection,Dialysis procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0012683,C1511790,PRECEDES,Disinfection,Detection,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0013216,C0005961,PRECEDES,Pharmacotherapy,Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0009429,PRECEDES,Pharmacotherapy,Combined Modality Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0021083,PRECEDES,Pharmacotherapy,Immunotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0035139,PRECEDES,Pharmacotherapy,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0040145,PRECEDES,Pharmacotherapy,Thyroidectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0040732,PRECEDES,Pharmacotherapy,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0042196,PRECEDES,Pharmacotherapy,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0242939,PRECEDES,Pharmacotherapy,"Radiotherapy, Adjuvant",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0436307,PRECEDES,Pharmacotherapy,Chemoradiotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0472699,PRECEDES,Pharmacotherapy,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0524832,PRECEDES,Pharmacotherapy,Thoracic Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0547070,PRECEDES,Pharmacotherapy,Ablation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0574032,PRECEDES,Pharmacotherapy,Infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0749736,PRECEDES,Pharmacotherapy,tumor removal,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C0947647,PRECEDES,Pharmacotherapy,Manipulation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C1511790,PRECEDES,Pharmacotherapy,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C1512034,PRECEDES,Pharmacotherapy,Donor Lymphocyte Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C1514496,PRECEDES,Pharmacotherapy,Prophylactic Cranial Irradiation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C1515985,PRECEDES,Pharmacotherapy,androgen suppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013216,C3179010,PRECEDES,Pharmacotherapy,Induction Chemotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013804,C0015252,PRECEDES,Electrocoagulation,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0013804,C2609147,PRECEDES,Electrocoagulation,Peritonectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0014392,C0282545,PRECEDES,Enucleation procedure,Phacoemulsification,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015250,C0010408,PRECEDES,Complete excision,Cryosurgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015250,C0011079,PRECEDES,Complete excision,Debridement,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015250,C0184908,PRECEDES,Complete excision,Partial excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015250,C0338237,PRECEDES,Complete excision,Antibiotic therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015250,C1706406,PRECEDES,Complete excision,Debulking Procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0005842,PRECEDES,removal technique,"Blood Transfusion, Autologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0007876,PRECEDES,removal technique,Cesarean section,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0013216,PRECEDES,removal technique,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0033144,PRECEDES,removal technique,Primary Prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0037297,PRECEDES,removal technique,Skin Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0042196,PRECEDES,removal technique,Vaccination,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0015252,C0085533,PRECEDES,removal technique,"Chemotherapy, Adjuvant",topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0015252,C0543467,PRECEDES,removal technique,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0677850,PRECEDES,removal technique,adjuvant therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C0678812,PRECEDES,removal technique,systemic administration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C1261563,PRECEDES,removal technique,Gastroduodenostomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C1504389,PRECEDES,removal technique,Stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C1511790,PRECEDES,removal technique,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015252,C1883256,PRECEDES,removal technique,Systemic Chemotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0015915,C0021107,PRECEDES,Fertilization in Vitro,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0016642,C0016641,PRECEDES,"Fracture Fixation, Internal",Fracture Fixation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0017118,C0192398,PRECEDES,Gastrectomy,Operation on stomach,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0017296,C0042196,PRECEDES,gene therapy,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0017296,C0068899,PRECEDES,gene therapy,NOAC protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0017296,C0152060,PRECEDES,gene therapy,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0017296,C0281318,PRECEDES,gene therapy,antiangiogenesis therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0017296,C0744266,PRECEDES,gene therapy,GANCICLOVIR Administration,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0018821,C0018791,PRECEDES,Cardiac Surgery procedures,"Heart Arrest, Induced",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0019004,PRECEDES,Cardiac Surgery procedures,Hemodialysis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0021925,PRECEDES,Cardiac Surgery procedures,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0021932,PRECEDES,Cardiac Surgery procedures,"Intubation, Intratracheal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0032740,PRECEDES,Cardiac Surgery procedures,Positive End-Expiratory Pressure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0018821,C0035110,PRECEDES,Cardiac Surgery procedures,Repeat Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0040732,PRECEDES,Cardiac Surgery procedures,Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0018821,C0199415,PRECEDES,Cardiac Surgery procedures,Medical procedure on respiratory tract,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0199470,PRECEDES,Cardiac Surgery procedures,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0206058,PRECEDES,Cardiac Surgery procedures,Elective Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0280604,PRECEDES,Cardiac Surgery procedures,altretamine/cisplatin/cyclophosphamide protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0524832,PRECEDES,Cardiac Surgery procedures,Thoracic Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0543467,PRECEDES,Cardiac Surgery procedures,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0679637,PRECEDES,Cardiac Surgery procedures,major surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C0860359,PRECEDES,Cardiac Surgery procedures,Reintubation Procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C1997883,PRECEDES,Cardiac Surgery procedures,Noninvasive Ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018821,C3508149,PRECEDES,Cardiac Surgery procedures,anesthesia Techniques,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018823,C0015357,PRECEDES,Heart Transplantation,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018823,C0021107,PRECEDES,Heart Transplantation,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018823,C0040732,PRECEDES,Heart Transplantation,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018823,C0597409,PRECEDES,Heart Transplantation,retransplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018823,C0814357,PRECEDES,Heart Transplantation,universal prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0018823,C3272255,PRECEDES,Heart Transplantation,Right Cardiac Ventricle Assist Device Procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0019004,C0011946,PRECEDES,Hemodialysis,Dialysis procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0019009,C0015236,PRECEDES,Hemodilution,"Exchange Transfusion, Whole Blood",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0019009,C0574032,PRECEDES,Hemodilution,Infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0019009,C0853212,PRECEDES,Hemodilution,Induction of anesthesia,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020699,C0002766,PRECEDES,Hysterectomy,Pain management,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020944,C0013103,PRECEDES,Immobilization,Drainage procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0020944,C0034991,PRECEDES,Immobilization,Rehabilitation therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020944,C1511790,PRECEDES,Immobilization,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0001560,PRECEDES,Immunization,"Administration, Intranasal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0001563,PRECEDES,Immunization,"Administration, Oral",topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0020971,C0002903,PRECEDES,Immunization,Anesthesia procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0013216,PRECEDES,Immunization,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0020975,PRECEDES,Immunization,Secondary Immunization,topp,topp,19,PRECEDES_TOPPprcdTOPP
+C0020971,C0021083,PRECEDES,Immunization,Immunotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0021485,PRECEDES,Immunization,Injection of therapeutic agent,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0020971,C0021493,PRECEDES,Immunization,"Injections, Intraperitoneal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0022100,PRECEDES,Immunization,Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0023038,PRECEDES,Immunization,Laparotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0035139,PRECEDES,Immunization,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0036589,PRECEDES,Immunization,Self Administration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0040808,PRECEDES,Immunization,Treatment Protocols,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0020971,C0042196,PRECEDES,Immunization,Vaccination,topp,topp,23,PRECEDES_TOPPprcdTOPP
+C0020971,C0042200,PRECEDES,Immunization,Influenza vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0052712,PRECEDES,Immunization,doxorubicin/mitomycin/vinblastine protocol,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0020971,C0056167,PRECEDES,Immunization,cyclophosphamide/methotrexate/prednisone/vincristine protocol,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0020971,C0057163,PRECEDES,Immunization,DAV regimen,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0020971,C0074125,PRECEDES,Immunization,bleomycin/doxorubicin/lomustine/streptozocin protocol,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0020971,C0079613,PRECEDES,Immunization,Adoptive Immunotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0152060,PRECEDES,Immunization,Transection (procedure),topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0020971,C0199176,PRECEDES,Immunization,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0199804,PRECEDES,Immunization,Vaccination against tuberculosis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0204727,PRECEDES,Immunization,Isolation procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0020971,C0279023,PRECEDES,Immunization,chemosensitization/potentiation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0280452,PRECEDES,Immunization,asparaginase/doxorubicin/vincristine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0282515,PRECEDES,Immunization,Chemoprevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0376518,PRECEDES,Immunization,Adoptive Transfer,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0393005,PRECEDES,Immunization,chlorodihydroxypyridine/potassium oxonate/tegafur,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C1328526,PRECEDES,Immunization,Primary Immunologic Sensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C1511790,PRECEDES,Immunization,Detection,topp,topp,10,PRECEDES_TOPPprcdTOPP
+C0020971,C1697762,PRECEDES,Immunization,Booster Immunization - ActSubstanceAdministrationCode,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C1879505,PRECEDES,Immunization,AD Regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C2348331,PRECEDES,Immunization,Dose Regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020972,C0042196,PRECEDES,Immunization Schedule,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C0001563,PRECEDES,Secondary Immunization,"Administration, Oral",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C0020971,PRECEDES,Secondary Immunization,Immunization,topp,topp,33,PRECEDES_TOPPprcdTOPP
+C0020975,C0021079,PRECEDES,Secondary Immunization,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C0032042,PRECEDES,Secondary Immunization,Placebos,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C0042196,PRECEDES,Secondary Immunization,Vaccination,topp,topp,21,PRECEDES_TOPPprcdTOPP
+C0020975,C0074125,PRECEDES,Secondary Immunization,bleomycin/doxorubicin/lomustine/streptozocin protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C0700589,PRECEDES,Secondary Immunization,Contraceptive methods,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C1328526,PRECEDES,Secondary Immunization,Primary Immunologic Sensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021022,C4047978,PRECEDES,Immunoglobulin Therapy,Rituximab therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021083,C3540512,PRECEDES,Immunotherapy,Circumferential Supracrestal Fiberotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0015252,PRECEDES,Implantation procedure,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0015357,PRECEDES,Implantation procedure,Extracorporeal Membrane Oxygenation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0021107,C0021493,PRECEDES,Implantation procedure,"Injections, Intraperitoneal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0022100,PRECEDES,Implantation procedure,Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0023911,PRECEDES,Implantation procedure,Transplantation of liver,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0040739,PRECEDES,Implantation procedure,"Transplantation, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0040771,PRECEDES,Implantation procedure,Transurethral Resection of Prostate,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0042196,PRECEDES,Implantation procedure,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0079159,PRECEDES,Implantation procedure,Conscious Sedation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0184898,PRECEDES,Implantation procedure,Surgical incisions,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0185033,PRECEDES,Implantation procedure,Diversion procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0185115,PRECEDES,Implantation procedure,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0543467,PRECEDES,Implantation procedure,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0553741,PRECEDES,Implantation procedure,Fluid Management,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021107,C0679698,PRECEDES,Implantation procedure,disease prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021440,C0042196,PRECEDES,Intravenous infusion procedures,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021485,C0005961,PRECEDES,Injection of therapeutic agent,Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021485,C0020971,PRECEDES,Injection of therapeutic agent,Immunization,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0021485,C0020975,PRECEDES,Injection of therapeutic agent,Secondary Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021485,C0074125,PRECEDES,Injection of therapeutic agent,bleomycin/doxorubicin/lomustine/streptozocin protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021489,C0279772,PRECEDES,intradermal injection,cisplatin/cyclophosphamide/doxorubicin/misonidazole,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021493,C0001563,PRECEDES,"Injections, Intraperitoneal","Administration, Oral",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021493,C0022100,PRECEDES,"Injections, Intraperitoneal",Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021493,C0042196,PRECEDES,"Injections, Intraperitoneal",Vaccination,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0021589,C1511790,PRECEDES,"Insemination, Artificial, Homologous",Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021778,C1455871,PRECEDES,Intermittent Positive-Pressure Ventilation,Non-invasive positive pressure (NIPPV),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0005698,PRECEDES,Intubation,Blade Implantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0015357,PRECEDES,Intubation,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0021932,PRECEDES,Intubation,"Intubation, Intratracheal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0038288,PRECEDES,Intubation,Sexual sterilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0038638,PRECEDES,Intubation,Suction drainage,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0021925,C0040590,PRECEDES,Intubation,Tracheostomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0040591,PRECEDES,Intubation,Tracheotomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0150126,PRECEDES,Intubation,Airway Management,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0021925,C0185115,PRECEDES,Intubation,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0199470,PRECEDES,Intubation,Mechanical ventilation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0021925,C0280274,PRECEDES,Intubation,Antiviral Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021925,C0412792,PRECEDES,Intubation,Preoxygenation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0021925,C0419000,PRECEDES,Intubation,"Respiratory assist, manual",topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0021925,C1997883,PRECEDES,Intubation,Noninvasive Ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021932,C0021925,PRECEDES,"Intubation, Intratracheal",Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021932,C0040590,PRECEDES,"Intubation, Intratracheal",Tracheostomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021932,C0199176,PRECEDES,"Intubation, Intratracheal",Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021932,C0199779,PRECEDES,"Intubation, Intratracheal",Administration of antibiotic,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021932,C0472699,PRECEDES,"Intubation, Intratracheal",Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0001563,PRECEDES,Kidney Transplantation,"Administration, Oral",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0011946,PRECEDES,Kidney Transplantation,Dialysis procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0021079,PRECEDES,Kidney Transplantation,Therapeutic immunosuppression,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0022671,C0024128,PRECEDES,Kidney Transplantation,Lung Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0029216,PRECEDES,Kidney Transplantation,Organ Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0040732,PRECEDES,Kidney Transplantation,Transplantation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0022671,C0040808,PRECEDES,Kidney Transplantation,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0149783,PRECEDES,Kidney Transplantation,Steroid therapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0022671,C0199176,PRECEDES,Kidney Transplantation,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C0730392,PRECEDES,Kidney Transplantation,Donor renal transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0022671,C1554893,PRECEDES,Kidney Transplantation,retrobulbar injection (treatment),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023038,C0015250,PRECEDES,Laparotomy,Complete excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023038,C0041281,PRECEDES,Laparotomy,Tube feeding of patient,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023038,C0042196,PRECEDES,Laparotomy,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023038,C0679637,PRECEDES,Laparotomy,major surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023416,C0013216,PRECEDES,Leukapheresis,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023690,C0040732,PRECEDES,Ligation,Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0023690,C0057163,PRECEDES,Ligation,DAV regimen,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0023690,C0185115,PRECEDES,Ligation,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023690,C0242739,PRECEDES,Ligation,Nutritional Support,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023911,C0040808,PRECEDES,Transplantation of liver,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0023911,C0948173,PRECEDES,Transplantation of liver,intestinal transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0013216,PRECEDES,Lung Transplantation,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0015357,PRECEDES,Lung Transplantation,Extracorporeal Membrane Oxygenation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0024128,C0021079,PRECEDES,Lung Transplantation,Therapeutic immunosuppression,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0024128,C0040732,PRECEDES,Lung Transplantation,Transplantation,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0024128,C0040739,PRECEDES,Lung Transplantation,"Transplantation, Homologous",topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0024128,C0152060,PRECEDES,Lung Transplantation,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0185027,PRECEDES,Lung Transplantation,Imbrication (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0192499,PRECEDES,Lung Transplantation,Esophagogastric fundoplasty,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0204700,PRECEDES,Lung Transplantation,Fluid restriction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0338237,PRECEDES,Lung Transplantation,Antibiotic therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0472699,PRECEDES,Lung Transplantation,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0597409,PRECEDES,Lung Transplantation,retransplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0024128,C0600558,PRECEDES,Lung Transplantation,Neoadjuvant Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C0917707,PRECEDES,Lung Transplantation,Cannulation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C1293116,PRECEDES,Lung Transplantation,Introduction procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0024128,C1511790,PRECEDES,Lung Transplantation,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C1964029,PRECEDES,Lung Transplantation,early/brief intervention/therapy (treatment),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C3887679,PRECEDES,Lung Transplantation,Nissen Operation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024128,C4040576,PRECEDES,Lung Transplantation,Maintenance hemodialysis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024203,C0012737,PRECEDES,Lymph node excision,Tissue Dissection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0024203,C0398480,PRECEDES,Lymph node excision,Drainage of lymphatics,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0025991,C0872104,PRECEDES,Microinjections,Assisted Reproductive Technologies,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0027484,C0192456,PRECEDES,Natural Childbirth assistance,Nasogastric feeding,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0027695,C0543467,PRECEDES,Nephrectomy,Operative Surgical Procedures,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0027909,C0196878,PRECEDES,Nerve sutured,Neurolysis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0029216,C0021079,PRECEDES,Organ Transplantation,Therapeutic immunosuppression,topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0029216,C0199176,PRECEDES,Organ Transplantation,Prophylactic treatment,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0029216,C0596197,PRECEDES,Organ Transplantation,blood treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0029216,C0683525,PRECEDES,Organ Transplantation,treatment options,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0029936,C0012169,PRECEDES,Ovariectomy,Low sodium diet,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0031740,C1511496,PRECEDES,Photochemotherapy,Continuous Chemotherapeutic Hyperthermic Peritoneal Perfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0032284,C0189919,PRECEDES,Pneumonectomy,Repair of heart,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0033045,C0199470,PRECEDES,Premedication,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0033573,C0185111,PRECEDES,Prostatectomy,Surgical Manipulation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0034771,C0040591,PRECEDES,Recanalization,Tracheotomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0034997,C0086904,PRECEDES,Rehydration,Oral rehydration procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0035016,C1504389,PRECEDES,Rejuvenation,Stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0035139,C0021107,PRECEDES,Surgical Replantation,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0035139,C0185115,PRECEDES,Surgical Replantation,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0035273,C0150238,PRECEDES,Resuscitation procedure,Fluid resuscitation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0035273,C0206074,PRECEDES,Resuscitation procedure,Renal Replacement Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0035273,C1095976,PRECEDES,Resuscitation procedure,Glyceryl Trinitrate therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0035467,C0150685,PRECEDES,rhinoplasty,nasal packing,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0037297,C0040739,PRECEDES,Skin Transplantation,"Transplantation, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0037297,C0080232,PRECEDES,Skin Transplantation,Tissue Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0037995,C0042196,PRECEDES,Splenectomy,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038638,C0013931,PRECEDES,Suction drainage,"Embolization, Therapeutic",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038638,C0021925,PRECEDES,Suction drainage,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038897,C0042196,PRECEDES,Cardiovascular Surgical Procedures,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038897,C1293116,PRECEDES,Cardiovascular Surgical Procedures,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038897,C1571809,PRECEDES,Cardiovascular Surgical Procedures,Visceral manipulation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038897,C3272255,PRECEDES,Cardiovascular Surgical Procedures,Right Cardiac Ventricle Assist Device Procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0038899,C0472473,PRECEDES,Otologic Surgical Procedures,Topical local anesthetic,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0039991,C0451615,PRECEDES,Thoracotomy,Pain relief,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0039991,C0752151,PRECEDES,Thoracotomy,"Thoracic Surgery, Video-Assisted",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040145,C0013216,PRECEDES,Thyroidectomy,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040423,C1511790,PRECEDES,Tonsillectomy,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040511,C0185115,PRECEDES,Total pancreatectomy,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040591,C0021107,PRECEDES,Tracheotomy procedure,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040674,C1511790,PRECEDES,Transposition procedure,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0002903,PRECEDES,Transplantation,Anesthesia procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0004933,PRECEDES,Transplantation,Behavior Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0005841,PRECEDES,Transplantation,Blood Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0005961,PRECEDES,Transplantation,Bone Marrow Transplantation,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0040732,C0009429,PRECEDES,Transplantation,Combined Modality Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0011946,PRECEDES,Transplantation,Dialysis procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0013216,PRECEDES,Transplantation,Pharmacotherapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0014327,PRECEDES,Transplantation,Enteral Nutrition,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0015357,PRECEDES,Transplantation,Extracorporeal Membrane Oxygenation,topp,topp,6,PRECEDES_TOPPprcdTOPP
+C0040732,C0018823,PRECEDES,Transplantation,Heart Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0019004,PRECEDES,Transplantation,Hemodialysis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0019014,PRECEDES,Transplantation,Hemofiltration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0020971,PRECEDES,Transplantation,Immunization,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0021079,PRECEDES,Transplantation,Therapeutic immunosuppression,topp,topp,15,PRECEDES_TOPPprcdTOPP
+C0040732,C0021589,PRECEDES,Transplantation,"Insemination, Artificial, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0022671,PRECEDES,Transplantation,Kidney Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0023038,PRECEDES,Transplantation,Laparotomy,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0023911,PRECEDES,Transplantation,Transplantation of liver,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0040732,C0024128,PRECEDES,Transplantation,Lung Transplantation,topp,topp,15,PRECEDES_TOPPprcdTOPP
+C0040732,C0029216,PRECEDES,Transplantation,Organ Transplantation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0032042,PRECEDES,Transplantation,Placebos,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0037297,PRECEDES,Transplantation,Skin Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0040739,PRECEDES,Transplantation,"Transplantation, Homologous",topp,topp,13,PRECEDES_TOPPprcdTOPP
+C0040732,C0040808,PRECEDES,Transplantation,Treatment Protocols,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0042196,PRECEDES,Transplantation,Vaccination,topp,topp,17,PRECEDES_TOPPprcdTOPP
+C0040732,C0042200,PRECEDES,Transplantation,Influenza vaccination,topp,topp,7,PRECEDES_TOPPprcdTOPP
+C0040732,C0079544,PRECEDES,Transplantation,"Parenteral Nutrition, Home Total",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0079646,PRECEDES,Transplantation,Islets of Langerhans Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0080232,PRECEDES,Transplantation,Tissue Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0083765,PRECEDES,Transplantation,fluorouracil/methotrexate/mitoxantrone protocol,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0149783,PRECEDES,Transplantation,Steroid therapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0152060,PRECEDES,Transplantation,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0185027,PRECEDES,Transplantation,Imbrication (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0189381,PRECEDES,Transplantation,Bronchial Lavage,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0192499,PRECEDES,Transplantation,Esophagogastric fundoplasty,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0193373,PRECEDES,Transplantation,Operation on liver,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0199176,PRECEDES,Transplantation,Prophylactic treatment,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0199470,PRECEDES,Transplantation,Mechanical ventilation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0204727,PRECEDES,Transplantation,Isolation procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0206074,PRECEDES,Transplantation,Renal Replacement Therapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0242602,PRECEDES,Transplantation,Peripheral Stem Cell Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0242739,PRECEDES,Transplantation,Nutritional Support,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0280274,PRECEDES,Transplantation,Antiviral Therapy,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C0281182,PRECEDES,Transplantation,Screening for malignant neoplasm of breast,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0282515,PRECEDES,Transplantation,Chemoprevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0376450,PRECEDES,Transplantation,Transplantation Conditioning,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0472699,PRECEDES,Transplantation,Hemopoietic stem cell transplant,topp,topp,20,PRECEDES_TOPPprcdTOPP
+C0040732,C0520484,PRECEDES,Transplantation,Xenograft procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0547070,PRECEDES,Transplantation,Ablation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0574032,PRECEDES,Transplantation,Infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0597409,PRECEDES,Transplantation,retransplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0599989,PRECEDES,Transplantation,Transplant immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0600558,PRECEDES,Transplantation,Neoadjuvant Therapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C0679698,PRECEDES,Transplantation,disease prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0728940,PRECEDES,Transplantation,Excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0730400,PRECEDES,Transplantation,Solid organ transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0808232,PRECEDES,Transplantation,Therapeutic Intervention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0814357,PRECEDES,Transplantation,universal prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0920467,PRECEDES,Transplantation,disorder control (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0920619,PRECEDES,Transplantation,neoplasm therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C0948173,PRECEDES,Transplantation,intestinal transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C1293116,PRECEDES,Transplantation,Introduction procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C1504389,PRECEDES,Transplantation,Stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C1511790,PRECEDES,Transplantation,Detection,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0040732,C1522449,PRECEDES,Transplantation,Therapeutic radiology procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C1656259,PRECEDES,Transplantation,preventive Drugs,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040732,C1998344,PRECEDES,Transplantation,Transplantation of hepatocytes,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C2242529,PRECEDES,Transplantation,Allogeneic Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C2713304,PRECEDES,Transplantation,Revaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C2985557,PRECEDES,Transplantation,Gamma Irradiation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C3897730,PRECEDES,Transplantation,Reduced-Intensity Transplant Conditioning Procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040732,C4289797,PRECEDES,Transplantation,Chimeric Antigen Receptor T-Cell Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040736,C0040739,PRECEDES,"Transplantation, Autologous","Transplantation, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040739,C0005961,PRECEDES,"Transplantation, Homologous",Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040739,C0037297,PRECEDES,"Transplantation, Homologous",Skin Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040739,C0040736,PRECEDES,"Transplantation, Homologous","Transplantation, Autologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C0001563,PRECEDES,Treatment Protocols,"Administration, Oral",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C0020971,PRECEDES,Treatment Protocols,Immunization,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0040808,C0052712,PRECEDES,Treatment Protocols,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C0472699,PRECEDES,Treatment Protocols,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C1328050,PRECEDES,Treatment Protocols,high-dose chemotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C1511790,PRECEDES,Treatment Protocols,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C1705576,PRECEDES,Treatment Protocols,Allogeneic Hematopoietic Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0040808,C2713304,PRECEDES,Treatment Protocols,Revaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0041281,C0012358,PRECEDES,Tube feeding of patient,Dilatation and Curettage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0001560,PRECEDES,Vaccination,"Administration, Intranasal",topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0042196,C0002903,PRECEDES,Vaccination,Anesthesia procedures,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0009429,PRECEDES,Vaccination,Combined Modality Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0013216,PRECEDES,Vaccination,Pharmacotherapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0015252,PRECEDES,Vaccination,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0017296,PRECEDES,Vaccination,gene therapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0020699,PRECEDES,Vaccination,Hysterectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0020944,PRECEDES,Vaccination,Immobilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0020971,PRECEDES,Vaccination,Immunization,topp,topp,23,PRECEDES_TOPPprcdTOPP
+C0042196,C0020972,PRECEDES,Vaccination,Immunization Schedule,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0020974,PRECEDES,Vaccination,passive immunization procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0042196,C0020975,PRECEDES,Vaccination,Secondary Immunization,topp,topp,12,PRECEDES_TOPPprcdTOPP
+C0042196,C0021079,PRECEDES,Vaccination,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0021485,PRECEDES,Vaccination,Injection of therapeutic agent,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0021493,PRECEDES,Vaccination,"Injections, Intraperitoneal",topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0042196,C0032042,PRECEDES,Vaccination,Placebos,topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0042196,C0035139,PRECEDES,Vaccination,Surgical Replantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0040732,PRECEDES,Vaccination,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0040739,PRECEDES,Vaccination,"Transplantation, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0040808,PRECEDES,Vaccination,Treatment Protocols,topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0042196,C0041281,PRECEDES,Vaccination,Tube feeding of patient,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0042200,PRECEDES,Vaccination,Influenza vaccination,topp,topp,6,PRECEDES_TOPPprcdTOPP
+C0042196,C0042203,PRECEDES,Vaccination,Pertussis vaccination,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0042205,PRECEDES,Vaccination,Rabies vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0052712,PRECEDES,Vaccination,doxorubicin/mitomycin/vinblastine protocol,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0057163,PRECEDES,Vaccination,DAV regimen,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0042196,C0074125,PRECEDES,Vaccination,bleomycin/doxorubicin/lomustine/streptozocin protocol,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0134006,PRECEDES,Vaccination,Oncovin-Prednisone-Procarbazine-Adriamycin Regimen (OPPA Regimen),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0150135,PRECEDES,Vaccination,Alleviating anxiety,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0152060,PRECEDES,Vaccination,Transection (procedure),topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0152277,PRECEDES,Vaccination,Incision and drainage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0185027,PRECEDES,Vaccination,Imbrication (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0185115,PRECEDES,Vaccination,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0189381,PRECEDES,Vaccination,Bronchial Lavage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0199176,PRECEDES,Vaccination,Prophylactic treatment,topp,topp,6,PRECEDES_TOPPprcdTOPP
+C0042196,C0199810,PRECEDES,Vaccination,Measles-mumps-rubella vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0204727,PRECEDES,Vaccination,Isolation procedure,topp,topp,8,PRECEDES_TOPPprcdTOPP
+C0042196,C0279939,PRECEDES,Vaccination,Doxorubicin/Melphalan/Teniposide regimen (MAV),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0282515,PRECEDES,Vaccination,Chemoprevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0376518,PRECEDES,Vaccination,Adoptive Transfer,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0393005,PRECEDES,Vaccination,chlorodihydroxypyridine/potassium oxonate/tegafur,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0439775,PRECEDES,Vaccination,Elevation procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0543467,PRECEDES,Vaccination,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0565867,PRECEDES,Vaccination,delivery method,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0581601,PRECEDES,Vaccination,Functional modification,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0597815,PRECEDES,Vaccination,crystal healing,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0599081,PRECEDES,Vaccination,passive sensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0683174,PRECEDES,Vaccination,topical application,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0841790,PRECEDES,Vaccination,caudal injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0857127,PRECEDES,Vaccination,Induction procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C0857208,PRECEDES,Vaccination,routine immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0920467,PRECEDES,Vaccination,disorder control (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0920619,PRECEDES,Vaccination,neoplasm therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C1261381,PRECEDES,Vaccination,Destructive procedure (surgical),topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C1280903,PRECEDES,Vaccination,Exploration procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C1293116,PRECEDES,Vaccination,Introduction procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0042196,C1328526,PRECEDES,Vaccination,Primary Immunologic Sensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C1511790,PRECEDES,Vaccination,Detection,topp,topp,25,PRECEDES_TOPPprcdTOPP
+C0042196,C1697762,PRECEDES,Vaccination,Booster Immunization - ActSubstanceAdministrationCode,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C2004459,PRECEDES,Vaccination,Abdominoperineal resection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C2987620,PRECEDES,Vaccination,Inoculation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0042196,C3540512,PRECEDES,Vaccination,Circumferential Supracrestal Fiberotomy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042196,C3687114,PRECEDES,Vaccination,Candle egg,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0042200,C0042196,PRECEDES,Influenza vaccination,Vaccination,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0042200,C0199779,PRECEDES,Influenza vaccination,Administration of antibiotic,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042200,C0683472,PRECEDES,Influenza vaccination,Self analysis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042200,C1532786,PRECEDES,Influenza vaccination,Rotavirus vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042201,C1532786,PRECEDES,Measles vaccination,Rotavirus vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042205,C0020975,PRECEDES,Rabies vaccination,Secondary Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042205,C0042196,PRECEDES,Rabies vaccination,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0043162,C0005961,PRECEDES,Whole-Body Irradiation,Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0043162,C0021440,PRECEDES,Whole-Body Irradiation,Intravenous infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0043162,C3177188,PRECEDES,Whole-Body Irradiation,Early Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0052712,C0020971,PRECEDES,doxorubicin/mitomycin/vinblastine protocol,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0056167,C1511790,PRECEDES,cyclophosphamide/methotrexate/prednisone/vincristine protocol,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0079646,C1293130,PRECEDES,Islets of Langerhans Transplantation,Stabilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0080232,C0520484,PRECEDES,Tissue Transplantation,Xenograft procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0085076,C1831786,PRECEDES,Mammaplasty,hypofractionated radiation therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0085162,C0019144,PRECEDES,Pancreaticoduodenectomy,Hepatectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0085198,C0040808,PRECEDES,Esophagectomy,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0085263,C0008320,PRECEDES,"Sphincterotomy, Endoscopic",Cholecystectomy procedure,topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0085263,C0162522,PRECEDES,"Sphincterotomy, Endoscopic","Cholecystectomy, Laparoscopic",topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0149615,C0013216,PRECEDES,Allogeneic bone marrow transplantation,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0149615,C1512034,PRECEDES,Allogeneic bone marrow transplantation,Donor Lymphocyte Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0149783,C1293130,PRECEDES,Steroid therapy,Stabilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0149783,C3540512,PRECEDES,Steroid therapy,Circumferential Supracrestal Fiberotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150141,C0034997,PRECEDES,Bathing,Rehydration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150141,C0199176,PRECEDES,Bathing,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150238,C0013216,PRECEDES,Fluid resuscitation,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150238,C0021932,PRECEDES,Fluid resuscitation,"Intubation, Intratracheal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150238,C0035273,PRECEDES,Fluid resuscitation,Resuscitation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150238,C0199470,PRECEDES,Fluid resuscitation,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150238,C0581528,PRECEDES,Fluid resuscitation,Close observation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0150238,C1293116,PRECEDES,Fluid resuscitation,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0021107,PRECEDES,Transection (procedure),Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0034997,PRECEDES,Transection (procedure),Rehydration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0035139,PRECEDES,Transection (procedure),Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0042196,PRECEDES,Transection (procedure),Vaccination,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0152060,C0184647,PRECEDES,Transection (procedure),Mental health treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0184933,PRECEDES,Transection (procedure),Scraping,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0185115,PRECEDES,Transection (procedure),Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C0522772,PRECEDES,Transection (procedure),Shaving - surgical procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C1282573,PRECEDES,Transection (procedure),Evacuation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C1293116,PRECEDES,Transection (procedure),Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0152060,C1511790,PRECEDES,Transection (procedure),Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0162577,C0017296,PRECEDES,Angioplasty,gene therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0162577,C0040732,PRECEDES,Angioplasty,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0162577,C0339897,PRECEDES,Angioplasty,Transjugular intrahepatic portosystemic shunt procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0162578,C0332857,PRECEDES,Thrombectomy,"Anastomosis, end to side",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0178583,C0035273,PRECEDES,Decerebration procedure,Resuscitation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0184898,C0185115,PRECEDES,Surgical incisions,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0184898,C0199470,PRECEDES,Surgical incisions,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0184907,C0052712,PRECEDES,Scarification,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0184907,C0279934,PRECEDES,Scarification,chlorambucil/etoposide/lomustine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0184967,C0040591,PRECEDES,Insertion of pack (procedure),Tracheotomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185003,C0204727,PRECEDES,Reparative closure,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185026,C1293130,PRECEDES,Plication,Stabilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185047,C1511790,PRECEDES,Stripping,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0008320,PRECEDES,Extraction,Cholecystectomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0011121,PRECEDES,Extraction,Decontamination,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0185115,C0012683,PRECEDES,Extraction,Disinfection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0013103,PRECEDES,Extraction,Drainage procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0015357,PRECEDES,Extraction,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0021925,PRECEDES,Extraction,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0023690,PRECEDES,Extraction,Ligation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0185115,C0035139,PRECEDES,Extraction,Surgical Replantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0185115,C0149783,PRECEDES,Extraction,Steroid therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0152060,PRECEDES,Extraction,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0178148,PRECEDES,Extraction,Removal of tracheostomy tube,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0184933,PRECEDES,Extraction,Scraping,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0199779,PRECEDES,Extraction,Administration of antibiotic,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0204727,PRECEDES,Extraction,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0206074,PRECEDES,Extraction,Renal Replacement Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0282515,PRECEDES,Extraction,Chemoprevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0338248,PRECEDES,Extraction,carmustine/cytarabine/etoposide/melphalan regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0398395,PRECEDES,Extraction,Neck Dissection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0524865,PRECEDES,Extraction,Reconstructive Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0543467,PRECEDES,Extraction,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0600406,PRECEDES,Extraction,venipuncture,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C1293116,PRECEDES,Extraction,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C1293130,PRECEDES,Extraction,Stabilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C1444012,PRECEDES,Extraction,Heart suturing,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C1511790,PRECEDES,Extraction,Detection,topp,topp,9,PRECEDES_TOPPprcdTOPP
+C0185115,C3540512,PRECEDES,Extraction,Circumferential Supracrestal Fiberotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185216,C0543467,PRECEDES,Sequestrectomy,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0186045,C0185115,PRECEDES,Lumbar spinal fusion,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0187763,C0016642,PRECEDES,Surgical procedure on lower extremity,"Fracture Fixation, Internal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0187826,C1511790,PRECEDES,Osteotomy of tibia,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0189745,C0015357,PRECEDES,Open heart surgery,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0189745,C1511790,PRECEDES,Open heart surgery,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0191848,C0398480,PRECEDES,breast: excisions,Drainage of lymphatics,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0192711,C0023985,PRECEDES,Anastomosis of intestine,Loop ileostomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0193373,C0015252,PRECEDES,Operation on liver,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0193705,C0041684,PRECEDES,Partial bilateral adrenalectomy,Unilateral adrenalectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0193959,C3241973,PRECEDES,Tonsillectomy and adenoidectomy,Pediatric Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0194035,C0018821,PRECEDES,Thymus transplantation,Cardiac Surgery procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0194035,C0035139,PRECEDES,Thymus transplantation,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0194035,C0040732,PRECEDES,Thymus transplantation,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0194396,C0194521,PRECEDES,Partial cystectomy,Augmentation of bladder,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0194790,C0021107,PRECEDES,Operation on prostate,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0194810,C0021107,PRECEDES,Radical prostatectomy,Implantation procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0198482,C0002766,PRECEDES,Operation on abdominal region,Pain management,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0198482,C0040808,PRECEDES,Operation on abdominal region,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0198482,C0199176,PRECEDES,Operation on abdominal region,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199176,C0001560,PRECEDES,Prophylactic treatment,"Administration, Intranasal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199176,C0040732,PRECEDES,Prophylactic treatment,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199176,C0042196,PRECEDES,Prophylactic treatment,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199176,C0063264,PRECEDES,Prophylactic treatment,Cisplatin/Doxorubicin/Ifosfamide protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199451,C0199470,PRECEDES,Continuous Positive Airway Pressure,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199470,C0013216,PRECEDES,Mechanical ventilation,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199470,C0032740,PRECEDES,Mechanical ventilation,Positive End-Expiratory Pressure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199470,C0040590,PRECEDES,Mechanical ventilation,Tracheostomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199470,C0262756,PRECEDES,Mechanical ventilation,respiratory management,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0199779,C0021079,PRECEDES,Administration of antibiotic,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199798,C0020975,PRECEDES,human vaccination,Secondary Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199804,C0020971,PRECEDES,Vaccination against tuberculosis,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199804,C0020975,PRECEDES,Vaccination against tuberculosis,Secondary Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0199962,C0013216,PRECEDES,Transfusion of packed red blood cells,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0203597,C0185115,PRECEDES,hyperthermia treatment,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0203993,C0021107,PRECEDES,Relaxation exercise,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0203993,C0262718,PRECEDES,Relaxation exercise,Pelvic floor exercises,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0012683,PRECEDES,Isolation procedure,Disinfection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0019004,PRECEDES,Isolation procedure,Hemodialysis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0034386,PRECEDES,Isolation procedure,Quarantine,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0204727,C0040861,PRECEDES,Isolation procedure,Triage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0042196,PRECEDES,Isolation procedure,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0057163,PRECEDES,Isolation procedure,DAV regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0152060,PRECEDES,Isolation procedure,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0185115,PRECEDES,Isolation procedure,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0280274,PRECEDES,Isolation procedure,Antiviral Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0376495,PRECEDES,Isolation procedure,Retreatments,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C0393005,PRECEDES,Isolation procedure,chlorodihydroxypyridine/potassium oxonate/tegafur,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0204727,C0407295,PRECEDES,Isolation procedure,Fixation of fracture using plate,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0204727,C1511790,PRECEDES,Isolation procedure,Detection,topp,topp,7,PRECEDES_TOPPprcdTOPP
+C0204727,C1531698,PRECEDES,Isolation procedure,Active monitoring,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0206156,C0007203,PRECEDES,Rewarming,Cardiopulmonary Resuscitation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0206156,C0543467,PRECEDES,Rewarming,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0242602,C0376450,PRECEDES,Peripheral Stem Cell Transplantation,Transplantation Conditioning,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0262718,C0021107,PRECEDES,Pelvic floor exercises,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0278611,C0005961,PRECEDES,busulfan/cyclophosphamide,Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0279023,C0683525,PRECEDES,chemosensitization/potentiation,treatment options,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0279391,C0597815,PRECEDES,mercaptopurine/methotrexate/vincristine,crystal healing,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0280274,C0042196,PRECEDES,Antiviral Therapy,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0280274,C1293116,PRECEDES,Antiviral Therapy,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0281163,C0185115,PRECEDES,educational intervention,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0338237,C0015250,PRECEDES,Antibiotic therapy,Complete excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0339891,C0543467,PRECEDES,Repair of double outlet right ventricle with anastomosis of left ventricle to aorta via ventricular septal defect and right ventricle to pulmonary trunk conduit,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0339897,C0023911,PRECEDES,Transjugular intrahepatic portosystemic shunt procedure,Transplantation of liver,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0344211,C0280274,PRECEDES,Supportive care,Antiviral Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0349707,C0022100,PRECEDES,Aspiration-action,Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0349707,C0036435,PRECEDES,Aspiration-action,Sclerotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0349707,C0872104,PRECEDES,Aspiration-action,Assisted Reproductive Technologies,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0349707,C1293359,PRECEDES,Aspiration-action,Lung injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376450,C0040732,PRECEDES,Transplantation Conditioning,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376450,C0149615,PRECEDES,Transplantation Conditioning,Allogeneic bone marrow transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376450,C1261381,PRECEDES,Transplantation Conditioning,Destructive procedure (surgical),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376450,C3179010,PRECEDES,Transplantation Conditioning,Induction Chemotherapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0376495,C0042196,PRECEDES,Retreatments,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376495,C1293116,PRECEDES,Retreatments,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376495,C1511790,PRECEDES,Retreatments,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376495,C1963578,PRECEDES,Retreatments,Release (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376518,C1261381,PRECEDES,Adoptive Transfer,Destructive procedure (surgical),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376518,C1522449,PRECEDES,Adoptive Transfer,Therapeutic radiology procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0376530,C0185364,PRECEDES,"Decompression, Surgical",Osteoplasty,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0391874,C0185115,PRECEDES,Manual extraction,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0392920,C0005961,PRECEDES,Chemotherapy Regimen,Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0396565,C1293116,PRECEDES,Lung excision,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0396599,C1456094,PRECEDES,Double lung transplant,allogeneic hematopoietic stem cell transplant with purging,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0396621,C0040590,PRECEDES,Orotracheal intubation,Tracheostomy procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0396625,C0040591,PRECEDES,Nasotracheal intubation,Tracheotomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0400447,C1443861,PRECEDES,Orthotopic liver transplant,Post-Exposure Prophylaxis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0404409,C0199779,PRECEDES,Uterine lavage,Administration of antibiotic,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0405956,C1096021,PRECEDES,Operation on pleural cavity,antiplatelet therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0407295,C0204727,PRECEDES,Fixation of fracture using plate,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0408578,C0032740,PRECEDES,Operation on lumbar spine,Positive End-Expiratory Pressure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0412792,C0021925,PRECEDES,Preoxygenation,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0418981,C0543467,PRECEDES,Medical therapy,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0419000,C0021925,PRECEDES,"Respiratory assist, manual",Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0419000,C0038638,PRECEDES,"Respiratory assist, manual",Suction drainage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0419174,C0349707,PRECEDES,Nasal tube feeding,Aspiration-action,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0419691,C0032042,PRECEDES,First typhoid vaccination,Placebos,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0419707,C0035139,PRECEDES,Pneumococcal vaccination,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0419997,C0338237,PRECEDES,Viral screening,Antibiotic therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0436307,C0015250,PRECEDES,Chemoradiotherapy,Complete excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0436307,C0015252,PRECEDES,Chemoradiotherapy,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0436307,C0085533,PRECEDES,Chemoradiotherapy,"Chemotherapy, Adjuvant",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0436307,C3179010,PRECEDES,Chemoradiotherapy,Induction Chemotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0439631,C0152277,PRECEDES,Primary operation,Incision and drainage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0439631,C0184908,PRECEDES,Primary operation,Partial excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0439631,C0199779,PRECEDES,Primary operation,Administration of antibiotic,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0439631,C0558347,PRECEDES,Primary operation,Surgical revision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0439631,C1456587,PRECEDES,Primary operation,Bariatric Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0441509,C0012683,PRECEDES,Coagulation procedure,Disinfection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0441544,C0007430,PRECEDES,Manual expression,Catheterization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0442944,C0021493,PRECEDES,Incision of neck,"Injections, Intraperitoneal",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0442968,C0022100,PRECEDES,Functional endoscopic sinus surgery,Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0452415,C0034386,PRECEDES,Healthy Diet,Quarantine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0456675,C0013931,PRECEDES,Massive blood transfusion,"Embolization, Therapeutic",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0456675,C0021485,PRECEDES,Massive blood transfusion,Injection of therapeutic agent,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0456675,C0035273,PRECEDES,Massive blood transfusion,Resuscitation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0456675,C0189745,PRECEDES,Massive blood transfusion,Open heart surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0013216,PRECEDES,Hemopoietic stem cell transplant,Pharmacotherapy,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0472699,C0021079,PRECEDES,Hemopoietic stem cell transplant,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0024128,PRECEDES,Hemopoietic stem cell transplant,Lung Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0472699,C0040732,PRECEDES,Hemopoietic stem cell transplant,Transplantation,topp,topp,11,PRECEDES_TOPPprcdTOPP
+C0472699,C0042196,PRECEDES,Hemopoietic stem cell transplant,Vaccination,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0472699,C0042200,PRECEDES,Hemopoietic stem cell transplant,Influenza vaccination,topp,topp,8,PRECEDES_TOPPprcdTOPP
+C0472699,C0079613,PRECEDES,Hemopoietic stem cell transplant,Adoptive Immunotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0086252,PRECEDES,Hemopoietic stem cell transplant,Red Blood Cell Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0149783,PRECEDES,Hemopoietic stem cell transplant,Steroid therapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0472699,C0185026,PRECEDES,Hemopoietic stem cell transplant,Plication,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0199176,PRECEDES,Hemopoietic stem cell transplant,Prophylactic treatment,topp,topp,5,PRECEDES_TOPPprcdTOPP
+C0472699,C0199470,PRECEDES,Hemopoietic stem cell transplant,Mechanical ventilation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0472699,C0204727,PRECEDES,Hemopoietic stem cell transplant,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0242348,PRECEDES,Hemopoietic stem cell transplant,Serotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0242602,PRECEDES,Hemopoietic stem cell transplant,Peripheral Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0376450,PRECEDES,Hemopoietic stem cell transplant,Transplantation Conditioning,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0472699,C0376518,PRECEDES,Hemopoietic stem cell transplant,Adoptive Transfer,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0547070,PRECEDES,Hemopoietic stem cell transplant,Ablation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0600558,PRECEDES,Hemopoietic stem cell transplant,Neoadjuvant Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0728940,PRECEDES,Hemopoietic stem cell transplant,Excision,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C0814357,PRECEDES,Hemopoietic stem cell transplant,universal prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C1116142,PRECEDES,Hemopoietic stem cell transplant,Transfusion of granulocytes,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C1141958,PRECEDES,Hemopoietic stem cell transplant,anti-infective therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C1293116,PRECEDES,Hemopoietic stem cell transplant,Introduction procedure,topp,topp,6,PRECEDES_TOPPprcdTOPP
+C0472699,C1328050,PRECEDES,Hemopoietic stem cell transplant,high-dose chemotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0472699,C1511790,PRECEDES,Hemopoietic stem cell transplant,Detection,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0472699,C1512034,PRECEDES,Hemopoietic stem cell transplant,Donor Lymphocyte Infusion,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0472699,C1705576,PRECEDES,Hemopoietic stem cell transplant,Allogeneic Hematopoietic Stem Cell Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0472699,C2242628,PRECEDES,Hemopoietic stem cell transplant,Fecal Microbiota Transplantation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0472699,C3179010,PRECEDES,Hemopoietic stem cell transplant,Induction Chemotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0475411,C0042196,PRECEDES,Standardized technique,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0519382,C0018823,PRECEDES,Mitral valve operation,Heart Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0519382,C0035110,PRECEDES,Mitral valve operation,Repeat Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0521213,C0282638,PRECEDES,Closure by clamp,Antibiotic Prophylaxis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0521974,C0002766,PRECEDES,"Diet, High-Fat",Pain management,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0521974,C0085430,PRECEDES,"Diet, High-Fat",Blood Component Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0524832,C0072634,PRECEDES,Thoracic Surgical Procedures,bleomycin/cisplatin/vinblastine protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0524832,C0184898,PRECEDES,Thoracic Surgical Procedures,Surgical incisions,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0524832,C0199470,PRECEDES,Thoracic Surgical Procedures,Mechanical ventilation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0524832,C0349707,PRECEDES,Thoracic Surgical Procedures,Aspiration-action,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0524832,C0553891,PRECEDES,Thoracic Surgical Procedures,Tracheal Extubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0524850,C0441535,PRECEDES,Neurosurgical Procedures,External drainage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0525027,C0282545,PRECEDES,Capsulorhexis,Phacoemulsification,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0542379,C0543467,PRECEDES,Awake intubation,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0002766,PRECEDES,Operative Surgical Procedures,Pain management,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0002913,PRECEDES,Operative Surgical Procedures,Epidural Anesthesia,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0002915,PRECEDES,Operative Surgical Procedures,General Anesthesia,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0006155,PRECEDES,Operative Surgical Procedures,Breathing Exercises,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0012683,PRECEDES,Operative Surgical Procedures,Disinfection,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0543467,C0013216,PRECEDES,Operative Surgical Procedures,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0035110,PRECEDES,Operative Surgical Procedures,Repeat Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0040145,PRECEDES,Operative Surgical Procedures,Thyroidectomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0083355,PRECEDES,Operative Surgical Procedures,amsacrine/azacitidine/etoposide,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0150141,PRECEDES,Operative Surgical Procedures,Bathing,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0152060,PRECEDES,Operative Surgical Procedures,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0180580,PRECEDES,Operative Surgical Procedures,Electrocardiographic monitoring,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0185115,PRECEDES,Operative Surgical Procedures,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0185908,PRECEDES,Operative Surgical Procedures,Operative procedure on spine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0206058,PRECEDES,Operative Surgical Procedures,Elective Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0449972,PRECEDES,Operative Surgical Procedures,Volume control,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C0683525,PRECEDES,Operative Surgical Procedures,treatment options,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0543467,C2985566,PRECEDES,Operative Surgical Procedures,Targeted Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C0013103,PRECEDES,Ablation,Drainage procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C0021107,PRECEDES,Ablation,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C0032134,PRECEDES,Ablation,Plasmapheresis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C0034386,PRECEDES,Ablation,Quarantine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C0152060,PRECEDES,Ablation,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C0162563,PRECEDES,Ablation,Cardiac ablation,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0547070,C0185115,PRECEDES,Ablation,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C1096021,PRECEDES,Ablation,antiplatelet therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C1708063,PRECEDES,Ablation,First line treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0547070,C4319935,PRECEDES,Ablation,Irreversible Electroporation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0553741,C0056633,PRECEDES,Fluid Management,cyclophosphamide/prednisone/vincristine protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0557061,C0204727,PRECEDES,Discussion (procedure),Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0558658,C0015357,PRECEDES,Support removal,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C0002928,PRECEDES,Infusion procedures,Spinal Anesthesia,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C0013778,PRECEDES,Infusion procedures,Electric Countershock,topp,topp,4,PRECEDES_TOPPprcdTOPP
+C0574032,C0021079,PRECEDES,Infusion procedures,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C0032042,PRECEDES,Infusion procedures,Placebos,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C0040732,PRECEDES,Infusion procedures,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C0576773,PRECEDES,Infusion procedures,Subcutaneous Infusions,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C0765584,PRECEDES,Infusion procedures,OPEN regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C1511790,PRECEDES,Infusion procedures,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0574032,C1512034,PRECEDES,Infusion procedures,Donor Lymphocyte Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0587279,C0009429,PRECEDES,Methylprednisolone pulse therapy,Combined Modality Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0597409,C0018823,PRECEDES,retransplantation,Heart Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0597409,C0023038,PRECEDES,retransplantation,Laparotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0597409,C0040732,PRECEDES,retransplantation,Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0599346,C1512034,PRECEDES,second transplant,Donor Lymphocyte Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0600080,C0021107,PRECEDES,Stretching exercises,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0600558,C0013216,PRECEDES,Neoadjuvant Therapy,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0600558,C0015252,PRECEDES,Neoadjuvant Therapy,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0600558,C0040739,PRECEDES,Neoadjuvant Therapy,"Transplantation, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0600558,C0194037,PRECEDES,Neoadjuvant Therapy,Autologous bone marrow transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0600558,C0872278,PRECEDES,Neoadjuvant Therapy,stem cell therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0677881,C0040808,PRECEDES,Cytotoxic Chemotherapy,Treatment Protocols,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0677881,C0281481,PRECEDES,Cytotoxic Chemotherapy,anti-tumor necrosis factor therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0677908,C0679699,PRECEDES,Maintenance therapy,Secondary Prevention,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0678812,C0281176,PRECEDES,systemic administration,antibody therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0678812,C1522449,PRECEDES,systemic administration,Therapeutic radiology procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0678812,C1883520,PRECEDES,systemic administration,VePesid-Ifosfamide-Platinol Regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0679637,C0035273,PRECEDES,major surgery,Resuscitation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0679637,C0199470,PRECEDES,major surgery,Mechanical ventilation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0679637,C0543467,PRECEDES,major surgery,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0679637,C0751429,PRECEDES,major surgery,"Surgical Procedures, Laparoscopic",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0679637,C1455871,PRECEDES,major surgery,Non-invasive positive pressure (NIPPV),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0679642,C0030547,PRECEDES,Operative procedure on large intestine,Parenteral Nutrition,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0679642,C0030548,PRECEDES,Operative procedure on large intestine,"Parenteral Nutrition, Total",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0683174,C0199176,PRECEDES,topical application,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0683174,C0454530,PRECEDES,topical application,Ultraviolet B therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0683525,C0032113,PRECEDES,treatment options,Plasma Exchange,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0695341,C0015252,PRECEDES,common procedures,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0695434,C0042196,PRECEDES,oscillations,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0728940,C0021485,PRECEDES,Excision,Injection of therapeutic agent,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0728940,C0022671,PRECEDES,Excision,Kidney Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0728940,C0338237,PRECEDES,Excision,Antibiotic therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0728940,C0399642,PRECEDES,Excision,Gastric pull-up,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0741847,C0035110,PRECEDES,Bypass,Repeat Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0741847,C0162577,PRECEDES,Bypass,Angioplasty,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0741847,C0343136,PRECEDES,Bypass,Forefoot amputation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0741847,C0589109,PRECEDES,Bypass,Postoperative monitoring,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0748725,C0844334,PRECEDES,sinus surgery,septoplasty,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0748895,C0008320,PRECEDES,Sphincterotomy,Cholecystectomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0752151,C0582026,PRECEDES,"Thoracic Surgery, Video-Assisted",Fusion of thoracic spine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0796679,C0034771,PRECEDES,Chemoembolization,Recanalization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0814435,C0204727,PRECEDES,early identification,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0852216,C0338248,PRECEDES,Breast Cancer Radiotherapy,carmustine/cytarabine/etoposide/melphalan regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0852216,C2169144,PRECEDES,Breast Cancer Radiotherapy,Radiation dose,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0877130,C0394871,PRECEDES,aortic surgery,Wound infiltration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0877130,C0451615,PRECEDES,aortic surgery,Pain relief,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0883301,C1293116,PRECEDES,catheter placement,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0906090,C0436307,PRECEDES,DEXA-BEAM,Chemoradiotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0920424,C0005841,PRECEDES,cancer surgery,Blood Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0920424,C0152060,PRECEDES,cancer surgery,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0920424,C0192259,PRECEDES,cancer surgery,Operation on esophagus (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0920424,C0376495,PRECEDES,cancer surgery,Retreatments,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0947647,C0040732,PRECEDES,Manipulation procedure,Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C0947647,C0185115,PRECEDES,Manipulation procedure,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1135929,C0042196,PRECEDES,Mass Vaccination,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1135929,C0042200,PRECEDES,Mass Vaccination,Influenza vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1141958,C0887947,PRECEDES,anti-infective therapy,"Antiretroviral Therapy, Highly Active",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1141958,C1299597,PRECEDES,anti-infective therapy,Empirical therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1261381,C0012683,PRECEDES,Destructive procedure (surgical),Disinfection,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C1261381,C0034386,PRECEDES,Destructive procedure (surgical),Quarantine,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1261381,C0042196,PRECEDES,Destructive procedure (surgical),Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1261381,C1511790,PRECEDES,Destructive procedure (surgical),Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1272624,C0008320,PRECEDES,Bile duct stone removal,Cholecystectomy procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1273428,C0193171,PRECEDES,Total mesorectal excision,Anastomosis of rectum,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1280903,C0085263,PRECEDES,Exploration procedure,"Sphincterotomy, Endoscopic",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1280903,C0162522,PRECEDES,Exploration procedure,"Cholecystectomy, Laparoscopic",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1282573,C0040808,PRECEDES,Evacuation procedure,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1282959,C0015357,PRECEDES,Median Sternotomy,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1285354,C0678812,PRECEDES,Mechanical stimulation,systemic administration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0020548,PRECEDES,Introduction procedure,Induced Hyperthermia,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0020972,PRECEDES,Introduction procedure,Immunization Schedule,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0021083,PRECEDES,Introduction procedure,Immunotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0021925,PRECEDES,Introduction procedure,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0035139,PRECEDES,Introduction procedure,Surgical Replantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1293116,C0041450,PRECEDES,Introduction procedure,Tympanostomy Tube Insertion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0042196,PRECEDES,Introduction procedure,Vaccination,topp,topp,7,PRECEDES_TOPPprcdTOPP
+C1293116,C0042200,PRECEDES,Introduction procedure,Influenza vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0152060,PRECEDES,Introduction procedure,Transection (procedure),topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1293116,C0199470,PRECEDES,Introduction procedure,Mechanical ventilation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C0204727,PRECEDES,Introduction procedure,Isolation procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C1293116,C0695434,PRECEDES,Introduction procedure,oscillations,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C1293132,PRECEDES,Introduction procedure,Anchoring procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C1456647,PRECEDES,Introduction procedure,Childhood Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293116,C1511790,PRECEDES,Introduction procedure,Detection,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1293116,C3540512,PRECEDES,Introduction procedure,Circumferential Supracrestal Fiberotomy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1293130,C0014327,PRECEDES,Stabilization,Enteral Nutrition,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293130,C0558380,PRECEDES,Stabilization,Emergency cesarean section,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1293130,C1282573,PRECEDES,Stabilization,Evacuation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1298805,C0204727,PRECEDES,Routine procedure,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1321916,C0204727,PRECEDES,cisplatin/etoposide/vindesine protocol,Isolation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1328050,C0242602,PRECEDES,high-dose chemotherapy,Peripheral Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1328050,C0472699,PRECEDES,high-dose chemotherapy,Hemopoietic stem cell transplant,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1328526,C0020971,PRECEDES,Primary Immunologic Sensitization,Immunization,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1328526,C0020975,PRECEDES,Primary Immunologic Sensitization,Secondary Immunization,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C1328526,C0042196,PRECEDES,Primary Immunologic Sensitization,Vaccination,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1328526,C0185115,PRECEDES,Primary Immunologic Sensitization,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1328526,C1443861,PRECEDES,Primary Immunologic Sensitization,Post-Exposure Prophylaxis,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1456094,C0040732,PRECEDES,allogeneic hematopoietic stem cell transplant with purging,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1456647,C1511790,PRECEDES,Childhood Immunization,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1504389,C0029216,PRECEDES,Stem cell transplant,Organ Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1504389,C0086818,PRECEDES,Stem cell transplant,Platelet Transfusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1504389,C0189381,PRECEDES,Stem cell transplant,Bronchial Lavage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1504389,C0279033,PRECEDES,Stem cell transplant,Replacement therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1504389,C0472699,PRECEDES,Stem cell transplant,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1504389,C0678026,PRECEDES,Stem cell transplant,Antifungal therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511237,C0021440,PRECEDES,bolus infusion,Intravenous infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511237,C0574032,PRECEDES,bolus infusion,Infusion procedures,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1511790,C0005841,PRECEDES,Detection,Blood Transfusion,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1511790,C0020971,PRECEDES,Detection,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0021587,PRECEDES,Detection,Artificial Insemination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0032113,PRECEDES,Detection,Plasma Exchange,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0034386,PRECEDES,Detection,Quarantine,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C1511790,C0040732,PRECEDES,Detection,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0042196,PRECEDES,Detection,Vaccination,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C1511790,C0199176,PRECEDES,Detection,Prophylactic treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0204523,PRECEDES,Detection,Psychiatric therapeutic procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0204727,PRECEDES,Detection,Isolation procedure,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C1511790,C0242739,PRECEDES,Detection,Nutritional Support,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1511790,C0280274,PRECEDES,Detection,Antiviral Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C0543467,PRECEDES,Detection,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1511790,C1704536,PRECEDES,Detection,Direct Method,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C0005961,PRECEDES,Therapeutic radiology procedure,Bone Marrow Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C0020944,PRECEDES,Therapeutic radiology procedure,Immobilization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C0040732,PRECEDES,Therapeutic radiology procedure,Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1522449,C0189381,PRECEDES,Therapeutic radiology procedure,Bronchial Lavage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C0286540,PRECEDES,Therapeutic radiology procedure,MAV protocol,topp,topp,5,PRECEDES_TOPPprcdTOPP
+C1522449,C0338248,PRECEDES,Therapeutic radiology procedure,carmustine/cytarabine/etoposide/melphalan regimen,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C0547070,PRECEDES,Therapeutic radiology procedure,Ablation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C0574032,PRECEDES,Therapeutic radiology procedure,Infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C1293116,PRECEDES,Therapeutic radiology procedure,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C1511790,PRECEDES,Therapeutic radiology procedure,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1522449,C1518010,PRECEDES,Therapeutic radiology procedure,Low Dose Radiation Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1533734,C0042196,PRECEDES,Administration procedure,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1533734,C0581601,PRECEDES,Administration procedure,Functional modification,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1541822,C0007876,PRECEDES,Vaginal delivery procedure,Cesarean section,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1541822,C0750122,PRECEDES,Vaginal delivery procedure,valsalva,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1659427,C0189381,PRECEDES,Nebulization,Bronchial Lavage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1659427,C1511497,PRECEDES,Nebulization,Continuous Intravenous Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1697762,C0020971,PRECEDES,Booster Immunization - ActSubstanceAdministrationCode,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1697762,C1328526,PRECEDES,Booster Immunization - ActSubstanceAdministrationCode,Primary Immunologic Sensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C0040732,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C0042196,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C0042200,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Influenza vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C0472699,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C0678812,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,systemic administration,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C1512034,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Donor Lymphocyte Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C1710038,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Second line treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1705576,C4520447,PRECEDES,Allogeneic Hematopoietic Stem Cell Transplantation,Decolonization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1706406,C0031740,PRECEDES,Debulking Procedure,Photochemotherapy,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C1708063,C0013216,PRECEDES,First line treatment,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C0030231,PRECEDES,First line treatment,Palliative Care,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C0035139,PRECEDES,First line treatment,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C0150238,PRECEDES,First line treatment,Fluid resuscitation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C0152060,PRECEDES,First line treatment,Transection (procedure),topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C0185115,PRECEDES,First line treatment,Extraction,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C0678026,PRECEDES,First line treatment,Antifungal therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1708063,C1531518,PRECEDES,First line treatment,Biological treatment,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1868801,C0192711,PRECEDES,Hyperthermic Intraperitoneal Chemotherapy,Anastomosis of intestine,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1883256,C0887947,PRECEDES,Systemic Chemotherapy,"Antiretroviral Therapy, Highly Active",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1960832,C0035110,PRECEDES,Partitioning of stomach using band,Repeat Surgery,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1960845,C0021925,PRECEDES,Bag valve mask ventilation,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1960845,C0412792,PRECEDES,Bag valve mask ventilation,Preoxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C1997883,C0013216,PRECEDES,Noninvasive Ventilation,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2037866,C0259961,PRECEDES,surgical drainage (treatment) (general),parenteral therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2242529,C0242602,PRECEDES,Allogeneic Stem Cell Transplantation,Peripheral Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2242529,C1293116,PRECEDES,Allogeneic Stem Cell Transplantation,Introduction procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2242529,C1512034,PRECEDES,Allogeneic Stem Cell Transplantation,Donor Lymphocyte Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2242628,C0014268,PRECEDES,Fecal Microbiota Transplantation,Administration of enema,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2242650,C0600403,PRECEDES,Norwood Procedures,Hemi-Fontan Procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2347900,C1511790,PRECEDES,Rechallenge,Detection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2350239,C0547070,PRECEDES,Ablation Techniques,Ablation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2368628,C0021083,PRECEDES,Vaccine Administration,Immunotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2368628,C0042196,PRECEDES,Vaccine Administration,Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2368628,C0052712,PRECEDES,Vaccine Administration,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2713304,C0020971,PRECEDES,Revaccination,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2713304,C1328526,PRECEDES,Revaccination,Primary Immunologic Sensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2718059,C0250336,PRECEDES,Precision Medicine,CARE protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2827774,C4255274,PRECEDES,Current Therapy,allogeneic hematopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2945704,C0001563,PRECEDES,Conventional Treatment,"Administration, Oral",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2945704,C1563738,PRECEDES,Conventional Treatment,Oncolytic Virotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2985341,C0020971,PRECEDES,Varicella Zoster Virus Immunization,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2985486,C0376518,PRECEDES,Stereotactic Injection,Adoptive Transfer,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C2986592,C0015252,PRECEDES,Definitive Treatment,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3160876,C0020971,PRECEDES,Allogenic Transfusions,Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3160876,C0021079,PRECEDES,Allogenic Transfusions,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3163695,C0015252,PRECEDES,Transarterial embolization,removal technique,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3163775,C0035139,PRECEDES,Acute normovolemic hemodilution,Surgical Replantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3179017,C0574032,PRECEDES,Consolidation Chemotherapy,Infusion procedures,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C3850079,C0149615,PRECEDES,Cytoreductive Surgery,Allogeneic bone marrow transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3871222,C0040732,PRECEDES,Radiation treatment,Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3897730,C0376450,PRECEDES,Reduced-Intensity Transplant Conditioning Procedure,Transplantation Conditioning,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C3897730,C0472699,PRECEDES,Reduced-Intensity Transplant Conditioning Procedure,Hemopoietic stem cell transplant,topp,topp,2,PRECEDES_TOPPprcdTOPP
+C4255274,C0189381,PRECEDES,allogeneic hematopoietic stem cell transplant,Bronchial Lavage,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4255274,C1705576,PRECEDES,allogeneic hematopoietic stem cell transplant,Allogeneic Hematopoietic Stem Cell Transplantation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4289797,C0472699,PRECEDES,Chimeric Antigen Receptor T-Cell Therapy,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4289797,C2985566,PRECEDES,Chimeric Antigen Receptor T-Cell Therapy,Targeted Therapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4302743,C0013216,PRECEDES,Administration of herpes zoster vaccine,Pharmacotherapy,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4319756,C0021440,PRECEDES,Myeloablative Conditioning,Intravenous infusion procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4319756,C0040739,PRECEDES,Myeloablative Conditioning,"Transplantation, Homologous",topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4319756,C0376450,PRECEDES,Myeloablative Conditioning,Transplantation Conditioning,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4319756,C0472699,PRECEDES,Myeloablative Conditioning,Hemopoietic stem cell transplant,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C4319756,C2242529,PRECEDES,Myeloablative Conditioning,Allogeneic Stem Cell Transplantation,topp,topp,2,PRECEDES_TOPPprcdTOPP

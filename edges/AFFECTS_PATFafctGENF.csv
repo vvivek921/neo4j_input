@@ -1,0 +1,55 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001349,C0040649,AFFECTS,Acute-Phase Reaction,"Transcription, Genetic",patf,genf,1,AFFECTS_PATFafctGENF
+C0001511,C0599283,AFFECTS,Tissue Adhesions,receptor density,patf,genf,1,AFFECTS_PATFafctGENF
+C0003130,C0017262,AFFECTS,Anoxia,Gene Expression,patf,genf,2,AFFECTS_PATFafctGENF
+C0003130,C0040649,AFFECTS,Anoxia,"Transcription, Genetic",patf,genf,2,AFFECTS_PATFafctGENF
+C0003130,C1148846,AFFECTS,Anoxia,RNA Binding,patf,genf,1,AFFECTS_PATFafctGENF
+C0011304,C0026882,AFFECTS,Demyelination,Mutation,patf,genf,1,AFFECTS_PATFafctGENF
+C0013687,C1257756,AFFECTS,effusion,RNA Degradation,patf,genf,1,AFFECTS_PATFafctGENF
+C0020507,C0017262,AFFECTS,Hyperplasia,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0020507,C0040649,AFFECTS,Hyperplasia,"Transcription, Genetic",patf,genf,1,AFFECTS_PATFafctGENF
+C0020517,C0026882,AFFECTS,Hypersensitivity,Mutation,patf,genf,3,AFFECTS_PATFafctGENF
+C0020517,C1136031,AFFECTS,Hypersensitivity,RNA Interference,patf,genf,1,AFFECTS_PATFafctGENF
+C0020517,C1148759,AFFECTS,Hypersensitivity,transcription factor activity,patf,genf,1,AFFECTS_PATFafctGENF
+C0020963,C1519614,AFFECTS,Immune Tolerance,Genetic Translation Process,patf,genf,1,AFFECTS_PATFafctGENF
+C0021368,C0017262,AFFECTS,Inflammation,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0021368,C0040649,AFFECTS,Inflammation,"Transcription, Genetic",patf,genf,1,AFFECTS_PATFafctGENF
+C0021368,C0598496,AFFECTS,Inflammation,Gene Silencing,patf,genf,1,AFFECTS_PATFafctGENF
+C0021368,C1148756,AFFECTS,Inflammation,telomerase activity,patf,genf,1,AFFECTS_PATFafctGENF
+C0021376,C1511695,AFFECTS,Chronic inflammation,DNA Sequence Rearrangement,patf,genf,1,AFFECTS_PATFafctGENF
+C0028778,C0017262,AFFECTS,Obstruction,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0028778,C1136031,AFFECTS,Obstruction,RNA Interference,patf,genf,1,AFFECTS_PATFafctGENF
+C0028778,C1148846,AFFECTS,Obstruction,RNA Binding,patf,genf,1,AFFECTS_PATFafctGENF
+C0028778,C1327242,AFFECTS,Obstruction,alternative nuclear mRNA splicing via spliceosome,patf,genf,1,AFFECTS_PATFafctGENF
+C0029445,C0032529,AFFECTS,Bone necrosis,Genetic Polymorphism,patf,genf,1,AFFECTS_PATFafctGENF
+C0030660,C0026882,AFFECTS,Pathologic Processes,Mutation,patf,genf,1,AFFECTS_PATFafctGENF
+C0030660,C0314627,AFFECTS,Pathologic Processes,Gene function,patf,genf,1,AFFECTS_PATFafctGENF
+C0030660,C1514248,AFFECTS,Pathologic Processes,Post-Transcriptional Regulation,patf,genf,1,AFFECTS_PATFafctGENF
+C0035228,C1136031,AFFECTS,Respiratory Hypersensitivity,RNA Interference,patf,genf,1,AFFECTS_PATFafctGENF
+C0036679,C0017262,AFFECTS,Diastasis,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0151654,C0597360,AFFECTS,Myocardial fibrosis,receptor expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0235063,C0032529,AFFECTS,Respiratory Depression,Genetic Polymorphism,patf,genf,1,AFFECTS_PATFafctGENF
+C0242656,C0032529,AFFECTS,Disease Progression,Genetic Polymorphism,patf,genf,2,AFFECTS_PATFafctGENF
+C0332448,C1512167,AFFECTS,Infiltration,Ectopic Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0333288,C0034865,AFFECTS,Dissecting hemorrhage,"Recombination, Genetic",patf,genf,1,AFFECTS_PATFafctGENF
+C0333951,C1515670,AFFECTS,Growth arrest,mRNA Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0340515,C0017262,AFFECTS,Myocardial dysfunction,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0342579,C0017262,AFFECTS,Electrolyte imbalance,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0392707,C0032529,AFFECTS,Atopy,Genetic Polymorphism,patf,genf,1,AFFECTS_PATFafctGENF
+C0392707,C1149367,AFFECTS,Atopy,transcription factor binding,patf,genf,1,AFFECTS_PATFafctGENF
+C0449430,C0017262,AFFECTS,Physiological Stress,Gene Expression,patf,genf,2,AFFECTS_PATFafctGENF
+C0449430,C1519614,AFFECTS,Physiological Stress,Genetic Translation Process,patf,genf,1,AFFECTS_PATFafctGENF
+C0543419,C0017262,AFFECTS,Sequela of disorder,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0745283,C0017262,AFFECTS,INFECTIOUS PROCESS,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C0745283,C1328949,AFFECTS,INFECTIOUS PROCESS,RNA replication,patf,genf,1,AFFECTS_PATFafctGENF
+C0920563,C1328949,AFFECTS,Insulin Sensitivity,RNA replication,patf,genf,1,AFFECTS_PATFafctGENF
+C1398094,C0040649,AFFECTS,induced; birth,"Transcription, Genetic",patf,genf,1,AFFECTS_PATFafctGENF
+C1520005,C1565556,AFFECTS,Viral Pathogenesis,Gene Flow,patf,genf,1,AFFECTS_PATFafctGENF
+C3658208,C0017262,AFFECTS,Dysbiosis,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C3658220,C0017262,AFFECTS,Atrial Remodeling,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C3714514,C0007622,AFFECTS,Infection,"Cell Transformation, Viral",patf,genf,1,AFFECTS_PATFafctGENF
+C3714514,C0017262,AFFECTS,Infection,Gene Expression,patf,genf,1,AFFECTS_PATFafctGENF
+C3714514,C0026882,AFFECTS,Infection,Mutation,patf,genf,1,AFFECTS_PATFafctGENF
+C3714514,C0040649,AFFECTS,Infection,"Transcription, Genetic",patf,genf,1,AFFECTS_PATFafctGENF
+C3714514,C0917892,AFFECTS,Infection,Genetic Drift,patf,genf,1,AFFECTS_PATFafctGENF
+C3714514,C1511695,AFFECTS,Infection,DNA Sequence Rearrangement,patf,genf,1,AFFECTS_PATFafctGENF

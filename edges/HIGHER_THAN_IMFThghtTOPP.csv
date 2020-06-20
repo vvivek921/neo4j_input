@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0020971,HIGHER_THAN,Immunologic Adjuvants,Immunization,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0001551,C0042196,HIGHER_THAN,Immunologic Adjuvants,Vaccination,imft,topp,2,HIGHER_THAN_IMFThghtTOPP
+C0002092,C0413381,HIGHER_THAN,Allergens,Subcutaneous immunotherapy,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0003320,C0020971,HIGHER_THAN,Antigens,Immunization,imft,topp,2,HIGHER_THAN_IMFThghtTOPP
+C0003320,C0042196,HIGHER_THAN,Antigens,Vaccination,imft,topp,2,HIGHER_THAN_IMFThghtTOPP
+C0003320,C0052712,HIGHER_THAN,Antigens,doxorubicin/mitomycin/vinblastine protocol,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0020971,HIGHER_THAN,Vaccines,Immunization,imft,topp,3,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0020975,HIGHER_THAN,Vaccines,Secondary Immunization,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0040732,HIGHER_THAN,Vaccines,Transplantation,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0040739,HIGHER_THAN,Vaccines,"Transplantation, Homologous",imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0042196,HIGHER_THAN,Vaccines,Vaccination,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0199798,HIGHER_THAN,Vaccines,human vaccination,imft,topp,2,HIGHER_THAN_IMFThghtTOPP
+C0042210,C0678823,HIGHER_THAN,Vaccines,parenteral administration,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042210,C1533734,HIGHER_THAN,Vaccines,Administration procedure,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0042212,C0042196,HIGHER_THAN,"Vaccines, Inactivated",Vaccination,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0062086,C1456647,HIGHER_THAN,Haemophilus influenzae type b polysaccharide vaccine,Childhood Immunization,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0163642,C0032042,HIGHER_THAN,OM-85 BV,Placebos,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C0310663,C0199798,HIGHER_THAN,Animal disease vaccine,human vaccination,imft,topp,2,HIGHER_THAN_IMFThghtTOPP
+C1446647,C0020971,HIGHER_THAN,Milk antigen,Immunization,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C2825347,C0042196,HIGHER_THAN,"Immunoglobulin A, Human",Vaccination,imft,topp,1,HIGHER_THAN_IMFThghtTOPP
+C3272757,C0042196,HIGHER_THAN,Live Attenuated Influenza Vaccine,Vaccination,imft,topp,1,HIGHER_THAN_IMFThghtTOPP

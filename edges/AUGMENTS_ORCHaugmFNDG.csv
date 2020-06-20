@@ -1,0 +1,261 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C1408258,AUGMENTS,Acetaminophen,Kidney damage,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0001962,C0038661,AUGMENTS,Ethanol,Suicide,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0001962,C0150312,AUGMENTS,Ethanol,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0001962,C3846017,AUGMENTS,Ethanol,Life threatening illness,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0001962,C4018909,AUGMENTS,Ethanol,Overdose,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002403,C0332149,AUGMENTS,Amantadine,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002403,C4050171,AUGMENTS,Amantadine,Sustained Virologic Response,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002403,C4053862,AUGMENTS,Amantadine,Virologic Response,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002598,C0151878,AUGMENTS,Amiodarone,Prolonged QT interval,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002598,C4018909,AUGMENTS,Amiodarone,Overdose,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002598,C4055506,AUGMENTS,Amiodarone,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002772,C0582148,AUGMENTS,"Analgesics, Opioid",Pain score,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0002772,C3842673,AUGMENTS,"Analgesics, Opioid",Day 6,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0003392,C1519255,AUGMENTS,Antineoplastic Agents,Serious Adverse Event,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0003392,C4289767,AUGMENTS,Antineoplastic Agents,Colonization,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0003968,C0038435,AUGMENTS,Ascorbic Acid,Stress,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0004320,C0439662,AUGMENTS,Auranofin,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0005064,C4018909,AUGMENTS,Benzodiazepines,Overdose,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0005802,C0456909,AUGMENTS,Blood Glucose,Blindness,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0006220,C0332219,AUGMENTS,Bromhexine,Easy,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0006644,C0439663,AUGMENTS,Caffeine,Infected,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0006931,C1518340,AUGMENTS,Capsaicin,No Evidence of Disease,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0007004,C0087130,AUGMENTS,Carbohydrates,Uncertainty,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0007004,C0150312,AUGMENTS,Carbohydrates,Present,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0007004,C0439662,AUGMENTS,Carbohydrates,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0007004,C1849265,AUGMENTS,Carbohydrates,Overgrowth,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0007004,C3844729,AUGMENTS,Carbohydrates,Very Important,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0007309,C0043094,AUGMENTS,carvacrol,Weight Gain,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0008269,C0439662,AUGMENTS,Chloroquine,Immune,orch,fndg,3,AUGMENTS_ORCHaugmFNDG
+C0008269,C0683521,AUGMENTS,Chloroquine,patient condition,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0010206,C3251812,AUGMENTS,coumarin,Bleeding risk,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0011777,C0558141,AUGMENTS,Dexamethasone,Transsexual (finding),orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0012383,C1320408,AUGMENTS,Dimercaprol,Urinary elimination status,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0012780,C0150312,AUGMENTS,Diterpenes,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0012963,C0428776,AUGMENTS,Dobutamine,Cardiac index,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0013618,C0332149,AUGMENTS,Edetic Acid,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0014582,C0743284,AUGMENTS,Epirubicin,drug exposure,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0014695,C1545588,AUGMENTS,Ergocalciferol,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015684,C0332149,AUGMENTS,Fatty Acids,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015684,C0424589,AUGMENTS,Fatty Acids,Vitality,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015684,C0556369,AUGMENTS,Fatty Acids,Tolerance to alcohol,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015684,C1545588,AUGMENTS,Fatty Acids,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015684,C2825972,AUGMENTS,Fatty Acids,Cant,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015684,C4321237,AUGMENTS,Fatty Acids,High Level,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015688,C0015663,AUGMENTS,Nonesterified Fatty Acids,Fasting,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0015846,C0582148,AUGMENTS,Fentanyl,Pain score,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0016365,C0424589,AUGMENTS,Fluoxetine,Vitality,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0016786,C1545588,AUGMENTS,Fucose,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0017977,C0424589,AUGMENTS,Glycosides,Vitality,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0019139,C0035648,AUGMENTS,"Heparin, Low-Molecular-Weight",risk factors,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0020336,C0003811,AUGMENTS,Hydroxychloroquine,Cardiac Arrhythmia,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0020336,C0151878,AUGMENTS,Hydroxychloroquine,Prolonged QT interval,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0020336,C0205160,AUGMENTS,Hydroxychloroquine,Negative,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0020336,C0439662,AUGMENTS,Hydroxychloroquine,Immune,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0020336,C0855333,AUGMENTS,Hydroxychloroquine,Corrected Prolonged QT Interval by ECG Finding,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0020336,C1545588,AUGMENTS,Hydroxychloroquine,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0020336,C4053862,AUGMENTS,Hydroxychloroquine,Virologic Response,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0022020,C4055506,AUGMENTS,Ionomycin,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0022237,C3714738,AUGMENTS,Isopropyl Alcohol,Compliance,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0022252,C0683521,AUGMENTS,Isosorbide Dinitrate,patient condition,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0022614,C4054143,AUGMENTS,Ketamine,Pulmonary Compliance,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023556,C0439662,AUGMENTS,Levamisole,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023660,C2746082,AUGMENTS,Lidocaine,depolarization; ventricular,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023779,C0439662,AUGMENTS,Lipids,Immune,orch,fndg,3,AUGMENTS_ORCHaugmFNDG
+C0023779,C3278535,AUGMENTS,Lipids,Lipid droplet accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023779,C4055506,AUGMENTS,Lipids,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C0003962,AUGMENTS,Lipopolysaccharides,Ascites,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C0332155,AUGMENTS,Lipopolysaccharides,Did not receive therapy or drug for,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C0333361,AUGMENTS,Lipopolysaccharides,Acute inflammation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C0439662,AUGMENTS,Lipopolysaccharides,Immune,orch,fndg,7,AUGMENTS_ORCHaugmFNDG
+C0023810,C0474704,AUGMENTS,Lipopolysaccharides,Anesthetic agent concentration,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C0542243,AUGMENTS,Lipopolysaccharides,toxic reaction (non-specific),orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0023810,C3687252,AUGMENTS,Lipopolysaccharides,Eosinophilic inflammation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C3854605,AUGMENTS,Lipopolysaccharides,Mean Pulmonary Arterial Pressure,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023810,C4321237,AUGMENTS,Lipopolysaccharides,High Level,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0023828,C4055506,AUGMENTS,Liposomes,Accumulation,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0024727,C0150312,AUGMENTS,Mannans,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0025617,C1832073,AUGMENTS,Methane,Handling,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0025641,C1318963,AUGMENTS,Metergoline,Readiness,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0025859,C0428776,AUGMENTS,Metoprolol,Cardiac index,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0025938,C4055506,AUGMENTS,Micelles,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0026549,C0582148,AUGMENTS,Morphine,Pain score,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0028005,C0683521,AUGMENTS,Nicardipine,patient condition,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0028017,C0743284,AUGMENTS,Niclosamide,drug exposure,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0028908,C0424589,AUGMENTS,Oils,Vitality,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0028908,C3844729,AUGMENTS,Oils,Very Important,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0028910,C0332149,AUGMENTS,"Oils, Volatile",Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0029984,C3245470,AUGMENTS,Oxadiazoles,GeneticObservationValue <HOMO>,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0031412,C0520967,AUGMENTS,Phenobarbital,Convulsion threshold,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0031469,C0546884,AUGMENTS,Phenylephrine,Hypovolemia,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0031701,C3842459,AUGMENTS,Phosphoric Acid Esters,Energetic,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0031923,C0038990,AUGMENTS,Pilocarpine,Sweating,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0032458,C0679250,AUGMENTS,"Polycyclic Hydrocarbons, Aromatic",Disease Outcome,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0032594,C0332149,AUGMENTS,Polysaccharides,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0032594,C0425152,AUGMENTS,Polysaccharides,Engaged to be married,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0032594,C0439662,AUGMENTS,Polysaccharides,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0032594,C1545588,AUGMENTS,Polysaccharides,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0033487,C0858603,AUGMENTS,Propofol,wave slowing,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0033487,C4055223,AUGMENTS,Propofol,Clinical Response,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0034140,C0439662,AUGMENTS,Purines,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0034266,C0221198,AUGMENTS,Pyridoxal Phosphate,Lesion,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0034284,C0439662,AUGMENTS,Pyrimidine,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0034424,C0439662,AUGMENTS,Quinolines,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0036075,C3251812,AUGMENTS,salicylate,Bleeding risk,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0038317,C0231337,AUGMENTS,Steroids,Senility,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0038317,C1849265,AUGMENTS,Steroids,Overgrowth,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039286,C0221198,AUGMENTS,Tamoxifen,Lesion,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039286,C4055506,AUGMENTS,Tamoxifen,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039315,C0332149,AUGMENTS,Tars,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039315,C0558141,AUGMENTS,Tars,Transsexual (finding),orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039771,C3842090,AUGMENTS,Theophylline,1 mm,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039925,C0020649,AUGMENTS,Thiopental,Hypotension,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0039946,C4055506,AUGMENTS,Thiosemicarbazones,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0040975,C0728725,AUGMENTS,Triethylenemelamine,Low pH,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0041113,C0150312,AUGMENTS,Triterpenes,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0041190,C0578862,AUGMENTS,Tropicamide,Intraocular pressure finding,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0041420,C3843309,AUGMENTS,Tweens,1 time,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0042839,C0150312,AUGMENTS,Vitamin A,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0042878,C0150312,AUGMENTS,Vitamin K,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0042878,C1550518,AUGMENTS,Vitamin K,incapable,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0045733,C3533236,AUGMENTS,2-(4-toluidino)-6-naphthalenesulfonic acid,Mean score,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0046018,C4321237,AUGMENTS,2-chloroethyl ethyl sulfide,High Level,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0052080,C0231833,AUGMENTS,antineoplaston A10,Respiratory rate normal,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0052080,C0429706,AUGMENTS,antineoplaston A10,Forced expiratory volume in 1 second finding,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0054201,C0150312,AUGMENTS,Budesonide,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0055295,C0439662,AUGMENTS,chenodeoxycholate sulfate conjugate,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0055754,C0033774,AUGMENTS,cinnamic aldehyde,Pruritus,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0056608,C0439662,AUGMENTS,curdlan,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0057642,C0150312,AUGMENTS,di-(4-aminophenyl)ether,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0058187,C0702266,AUGMENTS,dimazine,Basophilia,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0058231,C0150312,AUGMENTS,methylsulfonylmethane,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0059438,C0150312,AUGMENTS,epigallocatechin gallate,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0061275,C4055506,AUGMENTS,ginsenoside Rh2,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0061751,C0231337,AUGMENTS,Glycyrrhizic Acid,Senility,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0061751,C1836348,AUGMENTS,Glycyrrhizic Acid,Severe disorder,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0063034,C0038435,AUGMENTS,huperzine B,Stress,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0064030,C0038435,AUGMENTS,isopentenyl pyrophosphate,Stress,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0064280,C0332149,AUGMENTS,kaempferol,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0064679,C0020649,AUGMENTS,laudanosine,Hypotension,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0064698,C0332149,AUGMENTS,Lawsone,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0065264,C0150312,AUGMENTS,Luteolin,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0066776,C0439662,AUGMENTS,monophosphoryl lipid A,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0066776,C4321237,AUGMENTS,monophosphoryl lipid A,High Level,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0067067,C1262477,AUGMENTS,myricetin,Weight decreased,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0067764,C0150312,AUGMENTS,N-acetylneuraminoyllactose,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0070166,C0018800,AUGMENTS,clopidogrel,Cardiomegaly,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0070799,C4055506,AUGMENTS,phosphatidylinositol 4-phosphate,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0071629,C0232605,AUGMENTS,polyol,Regurgitates after swallowing,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0072422,C0150312,AUGMENTS,proteoliposomes,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0072434,C0150312,AUGMENTS,prothrombin complex concentrates,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0074992,C0426642,AUGMENTS,sphingosine 1-phosphate,Frequency of bowel action,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0074992,C3280470,AUGMENTS,sphingosine 1-phosphate,Benign condition,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0076836,C0151878,AUGMENTS,Toremifene,Prolonged QT interval,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0077172,C0150312,AUGMENTS,trimethylamine,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0077681,C4055506,AUGMENTS,7-hydroxystaurosporine,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0083271,C0150312,AUGMENTS,luteolin-7-glucoside,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0086140,C0429659,AUGMENTS,Dextran,Dwell time,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0086154,C1320408,AUGMENTS,Diethyldithiocarbamate,Urinary elimination status,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0100994,C0439662,AUGMENTS,acacetin,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0128513,C0428776,AUGMENTS,Milrinone,Cardiac index,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0137996,C0151613,AUGMENTS,potassium citrate,Electrolytes abnormal,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0144576,C0439662,AUGMENTS,Paclitaxel,Immune,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0145334,C0013144,AUGMENTS,tetraethylpyrazine,Drowsiness,orch,fndg,3,AUGMENTS_ORCHaugmFNDG
+C0162373,C0424589,AUGMENTS,Prozac,Vitality,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0162969,C4055506,AUGMENTS,Chitosan,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0172217,C1545588,AUGMENTS,arsenal,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0178487,C4055506,AUGMENTS,Ascorbate,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0206008,C0085639,AUGMENTS,2-Mercaptoethanesulfonic Acid,Falls,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0214192,C0332149,AUGMENTS,9-aminocamptothecin,Possible,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0225326,C1545588,AUGMENTS,Fiber,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0225326,C1879526,AUGMENTS,Fiber,Aberrant Crypt Foci,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0244977,C1545588,AUGMENTS,ginsenoside Re,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0252643,C0428776,AUGMENTS,bosentan,Cardiac index,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0304518,C0150312,AUGMENTS,Aglycone,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0304518,C4055506,AUGMENTS,Aglycone,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0309049,C1545588,AUGMENTS,favor,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0376637,C0332149,AUGMENTS,Indinavir,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0377336,C1517940,AUGMENTS,dan-shen root extract,Long Term Survivorship,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0525678,C0150312,AUGMENTS,rasagiline,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0525678,C0332149,AUGMENTS,rasagiline,Possible,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0525678,C0497247,AUGMENTS,rasagiline,Increase in blood pressure,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0525678,C4055506,AUGMENTS,rasagiline,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0529793,C0043084,AUGMENTS,sildenafil,Weaning,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0529793,C0429807,AUGMENTS,sildenafil,Bladder capacity,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0635415,C4068804,AUGMENTS,4-trimethylamino-1-butanol,Coherent,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0664589,C2825972,AUGMENTS,glabridin,Cant,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0718050,C0439662,AUGMENTS,sevelamer,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0718566,C0439662,AUGMENTS,Anti-Fungal,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0720810,C0728725,AUGMENTS,Halotestin,Low pH,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0721062,C0150312,AUGMENTS,InFed,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0722264,C0439662,AUGMENTS,Ontak,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0722425,C4296962,AUGMENTS,Pain Relieve brand of acetaminophen,Normal function,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0723179,C4321237,AUGMENTS,SSD,High Level,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0759032,C0156404,AUGMENTS,pleconaril,Irregular periods,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0874161,C0683521,AUGMENTS,Oseltamivir,patient condition,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0874161,C2748212,AUGMENTS,Oseltamivir,Viral titer Reduction,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0910999,C0439662,AUGMENTS,R 848,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0935987,C0332149,AUGMENTS,Gleevec,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0949665,C4266464,AUGMENTS,Fluoroquinolones,Gated,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0950301,C4055506,AUGMENTS,Baker's Antifol,Accumulation,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C0963074,C0332149,AUGMENTS,catechin gallate,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C0981805,C4289767,AUGMENTS,acetic,Colonization,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1136704,C0743284,AUGMENTS,amotosalen,drug exposure,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1142985,C0332149,AUGMENTS,ezetimibe,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1257954,C1320716,AUGMENTS,Cyclooxygenase 2 Inhibitors,Cardiovascular event,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1328819,C1545588,AUGMENTS,Small Molecule,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1328819,C4296962,AUGMENTS,Small Molecule,Normal function,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1510693,C1545588,AUGMENTS,AS02A,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1566074,C0231337,AUGMENTS,salubrinal,Senility,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1569513,C3842672,AUGMENTS,EPI-cell,Day 7,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C1956193,C1545588,AUGMENTS,Diammonium Glycyrrhizinate,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2001572,C4321495,AUGMENTS,vernakalant,Extravascular Extracellular Volume Fraction,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2356088,C0332149,AUGMENTS,Halls,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2717875,C4289767,AUGMENTS,Prebiotics,Colonization,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2728259,C0205161,AUGMENTS,Program,Abnormal,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2728259,C0332149,AUGMENTS,Program,Possible,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C2728259,C0750484,AUGMENTS,Program,Confirmation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2728259,C1318963,AUGMENTS,Program,Readiness,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2728259,C1545588,AUGMENTS,Program,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2825233,C0700292,AUGMENTS,"Steroid, Systemic",Hypoxemia,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0009488,AUGMENTS,Duration,Comorbidity,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0035648,AUGMENTS,Duration,risk factors,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0038435,AUGMENTS,Duration,Stress,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0038661,AUGMENTS,Duration,Suicide,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0043084,AUGMENTS,Duration,Weaning,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0085393,AUGMENTS,Duration,Immunocompromised Host,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0221198,AUGMENTS,Duration,Lesion,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0232567,AUGMENTS,Duration,Hypergastrinemia,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0240618,AUGMENTS,Duration,ozone exposure,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0332149,AUGMENTS,Duration,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0332509,AUGMENTS,Duration,Increased size (finding),orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0424589,AUGMENTS,Duration,Vitality,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0439662,AUGMENTS,Duration,Immune,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C2926735,C0518609,AUGMENTS,Duration,consideration,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C0683521,AUGMENTS,Duration,patient condition,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C2926735,C1320226,AUGMENTS,Duration,Incubation period,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C2926735,C1545588,AUGMENTS,Duration,Protection,orch,fndg,2,AUGMENTS_ORCHaugmFNDG
+C2926735,C1549114,AUGMENTS,Duration,Unreported,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C2697908,AUGMENTS,Duration,Left Ventricular Ejection Time,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C3842337,AUGMENTS,Duration,0 days,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C3843645,AUGMENTS,Duration,1-10,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C4055223,AUGMENTS,Duration,Clinical Response,orch,fndg,3,AUGMENTS_ORCHaugmFNDG
+C2926735,C4055506,AUGMENTS,Duration,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2926735,C4510188,AUGMENTS,Duration,Neutrophil recovery,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2930490,C0439662,AUGMENTS,vadimezan,Immune,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2937289,C1836348,AUGMENTS,Adapt (substance),Severe disorder,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C2937289,C3816499,AUGMENTS,Adapt (substance),Pathogenic,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3256127,C1545588,AUGMENTS,Bos taurus colostrum preparation,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3274495,C4055506,AUGMENTS,Mericitabine,Accumulation,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3486801,C0150312,AUGMENTS,Sus scrofa lung preparation,Present,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3486801,C0679250,AUGMENTS,Sus scrofa lung preparation,Disease Outcome,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3493461,C1545588,AUGMENTS,polygalasaponin F,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3642356,C3843640,AUGMENTS,R848,> 2/day,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3659838,C0332149,AUGMENTS,BX795,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3663648,C3840880,AUGMENTS,Exodus,Traffic,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3851350,C1148363,AUGMENTS,ledipasvir,Hepatitis C virus genotype (finding),orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C3887632,C1545588,AUGMENTS,Human Colostrum,Protection,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C4079582,C1148363,AUGMENTS,velpatasvir,Hepatitis C virus genotype (finding),orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C4317347,C3816499,AUGMENTS,Infecton,Pathogenic,orch,fndg,1,AUGMENTS_ORCHaugmFNDG
+C4482908,C0332149,AUGMENTS,Lefamulin,Possible,orch,fndg,1,AUGMENTS_ORCHaugmFNDG

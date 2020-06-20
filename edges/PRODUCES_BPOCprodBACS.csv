@@ -1,0 +1,94 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001625,C0007412,PRODUCES,Adrenal Glands,Catecholamines,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0001625,C0035696,PRODUCES,Adrenal Glands,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0001629,C0007412,PRODUCES,Adrenal Medulla,Catecholamines,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005682,C0035696,PRODUCES,Urinary Bladder,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005847,C0018338,PRODUCES,Blood Vessel,Cyclic GMP,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005847,C0035696,PRODUCES,Blood Vessel,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0006104,C0013030,PRODUCES,Brain,Dopamine,bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0006104,C0035696,PRODUCES,Brain,"RNA, Messenger",bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0006104,C0040549,PRODUCES,Brain,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0007272,C0018338,PRODUCES,Carotid Arteries,Cyclic GMP,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0007531,C0015691,PRODUCES,Cecum,"Fatty Acids, Volatile",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0010352,C0040549,PRODUCES,Avian crop,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0010352,C0459796,PRODUCES,Avian crop,Insect venom,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0016504,C0012854,PRODUCES,Foot,DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0017067,C0001041,PRODUCES,Ganglia,Acetylcholine,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0017421,C0064582,PRODUCES,Female genitalia,Lactic acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0018597,C0032712,PRODUCES,Harderian Gland,Porphyrins,bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0018787,C0035696,PRODUCES,Heart,"RNA, Messenger",bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0020885,C0040549,PRODUCES,ileum,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021851,C0040549,PRODUCES,Large Intestine,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021852,C0017725,PRODUCES,"Intestines, Small",Glucose,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021852,C0040549,PRODUCES,"Intestines, Small",Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021852,C0302583,PRODUCES,"Intestines, Small",Iron,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021853,C0012854,PRODUCES,Intestines,DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021853,C0017725,PRODUCES,Intestines,Glucose,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0021853,C0162772,PRODUCES,Intestines,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0022378,C0040549,PRODUCES,Jejunum,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0022646,C0017725,PRODUCES,Kidney,Glucose,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0022646,C0035696,PRODUCES,Kidney,"RNA, Messenger",bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0023884,C0005390,PRODUCES,Liver,Bile Acids,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0005437,PRODUCES,Liver,Bilirubin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0017725,PRODUCES,Liver,Glucose,bpoc,bacs,3,PRODUCES_BPOCprodBACS
+C0023884,C0027908,PRODUCES,Liver,Neurotransmitters,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0035696,PRODUCES,Liver,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0041980,PRODUCES,Liver,Uric Acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0007012,PRODUCES,Lung,Carbon Dioxide,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0008013,PRODUCES,Lung,Chemotactic Factors,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0023545,PRODUCES,Lung,Leukotrienes,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0030054,PRODUCES,Lung,Oxygen,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0034085,PRODUCES,Lung,Pulmonary Surfactants,bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0024109,C0035696,PRODUCES,Lung,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0162772,PRODUCES,Lung,Reactive Oxygen Species,bpoc,bacs,3,PRODUCES_BPOCprodBACS
+C0024109,C0599745,PRODUCES,Lung,lipid mediator,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C1136170,PRODUCES,Lung,Virulence Factors,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0025181,C0041004,PRODUCES,Structure of meibomian gland,Triglycerides,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0026639,C0034085,PRODUCES,Oral mucous membrane structure,Pulmonary Surfactants,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0027740,C0001041,PRODUCES,Nerve,Acetylcholine,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0027740,C0027908,PRODUCES,Nerve,Neurotransmitters,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0027740,C0035696,PRODUCES,Nerve,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0029939,C0035142,PRODUCES,Ovary,Replicon,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0030274,C0008387,PRODUCES,Pancreas,Cholesterol Esters,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0030274,C0035696,PRODUCES,Pancreas,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0030274,C0041004,PRODUCES,Pancreas,Triglycerides,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0035284,C0162772,PRODUCES,Reticular Formation,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0035298,C0064582,PRODUCES,Retina,Lactic acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037925,C0017725,PRODUCES,Spinal Cord,Glucose,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037949,C0012854,PRODUCES,Vertebral column,DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037949,C0040549,PRODUCES,Vertebral column,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037949,C1101610,PRODUCES,Vertebral column,MicroRNAs,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037993,C0035696,PRODUCES,Spleen,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0038925,C0023546,PRODUCES,Surgical Flaps,Leukotriene B4,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0039597,C0023546,PRODUCES,Testis,Leukotriene B4,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0041967,C0036751,PRODUCES,Urethra,Serotonin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0042449,C0369332,PRODUCES,Veins,Hepatitis B virus DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0178784,C0027908,PRODUCES,Organ,Neurotransmitters,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0221971,C0012854,PRODUCES,Hair follicle structure,DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0221971,C0025196,PRODUCES,Hair follicle structure,Melanins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0225695,C0034085,PRODUCES,Alveolar wall,Pulmonary Surfactants,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0230425,C0012854,PRODUCES,Structure of right thigh,DNA,bpoc,bacs,4,PRODUCES_BPOCprodBACS
+C0230425,C0065530,PRODUCES,Structure of right thigh,magnesium pyrophosphate,bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0262304,C0012854,PRODUCES,pars postrema of the ventral lateral nucleus,DNA,bpoc,bacs,2,PRODUCES_BPOCprodBACS
+C0262304,C0028128,PRODUCES,pars postrema of the ventral lateral nucleus,Nitric Oxide,bpoc,bacs,3,PRODUCES_BPOCprodBACS
+C0262304,C0032136,PRODUCES,pars postrema of the ventral lateral nucleus,Plasmids,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0376152,C0935936,PRODUCES,Marrow,Urate,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0458827,C0001443,PRODUCES,Airway structure,Adenosine,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0458827,C0162772,PRODUCES,Airway structure,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0459385,C1099354,PRODUCES,Brain tissue,"RNA, Small Interfering",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0489877,C0162772,PRODUCES,Vasculature of lung,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0507816,C0034085,PRODUCES,Pulmonary capillary,Pulmonary Surfactants,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0588054,C0314768,PRODUCES,Cervical lymph node group,Bacterial exotoxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0934502,C0969698,PRODUCES,anatomical layer,Reactive Nitrogen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1182707,C0018338,PRODUCES,hair root,Cyclic GMP,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1184743,C1101610,PRODUCES,bony process,MicroRNAs,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1186763,C0036965,PRODUCES,Stem of Organ,Shikimic Acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1285092,C0032712,PRODUCES,Gland,Porphyrins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1515933,C0034085,PRODUCES,Alveolus,Pulmonary Surfactants,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1515933,C0068527,PRODUCES,Alveolus,Neopterin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1552154,C0028128,PRODUCES,Js,Nitric Oxide,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1556138,C0028606,PRODUCES,Disc - Body Part,Nucleic Acids,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1556138,C0035693,PRODUCES,Disc - Body Part,"RNA, Double-Stranded",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1882598,C0028128,PRODUCES,Rat Brain,Nitric Oxide,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1882598,C0162772,PRODUCES,Rat Brain,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C2350570,C0023546,PRODUCES,Microvessels,Leukotriene B4,bpoc,bacs,1,PRODUCES_BPOCprodBACS

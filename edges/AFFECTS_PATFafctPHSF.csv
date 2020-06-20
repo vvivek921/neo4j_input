@@ -1,0 +1,89 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001122,C0026820,AFFECTS,Acidosis,Muscle Contraction,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0001511,C0232338,AFFECTS,Tissue Adhesions,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0002064,C0232338,AFFECTS,"Alkalosis, Respiratory",Blood flow,patf,phsf,2,AFFECTS_PATFafctPHSF
+C0003130,C0178665,AFFECTS,Anoxia,glucose tolerance,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0003130,C0232338,AFFECTS,Anoxia,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0004366,C0020964,AFFECTS,Autoimmune Response,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0010356,C0035203,AFFECTS,Cross Infection,Respiration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0012359,C0040480,AFFECTS,Pathological Dilatation,"Musculoskeletal torsion, function",patf,phsf,1,AFFECTS_PATFafctPHSF
+C0012359,C0231999,AFFECTS,Pathological Dilatation,Airflow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0013990,C0020964,AFFECTS,Pathological accumulation of air in tissues,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0013990,C1314973,AFFECTS,Pathological accumulation of air in tissues,Response to antigens,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0016059,C0035245,AFFECTS,Fibrosis,Respiratory physiology,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0016059,C0597170,AFFECTS,Fibrosis,paracrine,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020507,C0020964,AFFECTS,Hyperplasia,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020507,C1326960,AFFECTS,Hyperplasia,Cholesterol Homeostasis,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020517,C0020964,AFFECTS,Hypersensitivity,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020517,C0242732,AFFECTS,Hypersensitivity,Tropism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020517,C0243144,AFFECTS,Hypersensitivity,Uptake,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020517,C0678209,AFFECTS,Hypersensitivity,Adaptive Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020517,C1512179,AFFECTS,Hypersensitivity,Eicosanoid Production,patf,phsf,2,AFFECTS_PATFafctPHSF
+C0020517,C1514892,AFFECTS,Hypersensitivity,Resistance Process,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0020517,C2717801,AFFECTS,Hypersensitivity,Viral Tropism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021368,C0014272,AFFECTS,Inflammation,Energy Metabolism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021368,C0020964,AFFECTS,Inflammation,Immunity,patf,phsf,7,AFFECTS_PATFafctPHSF
+C0021368,C0035203,AFFECTS,Inflammation,Respiration,patf,phsf,2,AFFECTS_PATFafctPHSF
+C0021368,C0035245,AFFECTS,Inflammation,Respiratory physiology,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021368,C0149784,AFFECTS,Inflammation,biological adaptation to stress,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021368,C0231999,AFFECTS,Inflammation,Airflow,patf,phsf,3,AFFECTS_PATFafctPHSF
+C0021368,C0678209,AFFECTS,Inflammation,Adaptive Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021368,C0751982,AFFECTS,Inflammation,Neutrophil Infiltration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021368,C3714584,AFFECTS,Inflammation,"Transformation, function",patf,phsf,2,AFFECTS_PATFafctPHSF
+C0021655,C0035245,AFFECTS,Insulin Resistance,Respiratory physiology,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0021655,C0178665,AFFECTS,Insulin Resistance,glucose tolerance,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0022116,C0026820,AFFECTS,Ischemia,Muscle Contraction,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0022116,C0232338,AFFECTS,Ischemia,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0026766,C0005775,AFFECTS,Multiple Organ Failure,Blood Circulation,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0026846,C0035245,AFFECTS,Muscular Atrophy,Respiratory physiology,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0027686,C0870882,AFFECTS,Pathologic Neovascularization,metabolic rates,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0028778,C0231999,AFFECTS,Obstruction,Airflow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0028778,C1512827,AFFECTS,Obstruction,Interferon Signaling Process,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0030660,C0016017,AFFECTS,Pathologic Processes,Fibrinolysis,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0043241,C1514892,AFFECTS,Wound Infection,Resistance Process,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0079581,C0678745,AFFECTS,Hypochlorhydria,drug absorption,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0151686,C0243144,AFFECTS,Growth retardation,Uptake,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0151942,C0678209,AFFECTS,Arterial thrombosis,Adaptive Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0162633,C0020964,AFFECTS,Viral Shedding,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0162633,C1512827,AFFECTS,Viral Shedding,Interferon Signaling Process,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0220981,C0035203,AFFECTS,Metabolic acidosis,Respiration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0232910,C0035203,AFFECTS,Teratogenesis,Respiration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0242184,C0014272,AFFECTS,Hypoxia,Energy Metabolism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0242656,C0035245,AFFECTS,Disease Progression,Respiratory physiology,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0242781,C3714584,AFFECTS,disease transmission,"Transformation, function",patf,phsf,1,AFFECTS_PATFafctPHSF
+C0281169,C1514892,AFFECTS,pulmonary complications,Resistance Process,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0302148,C0232338,AFFECTS,Blood Clot,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0302158,C0232338,AFFECTS,Leucocytic infiltrate,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0332448,C0035203,AFFECTS,Infiltration,Respiration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0332448,C0243144,AFFECTS,Infiltration,Uptake,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0333138,C0005775,AFFECTS,Stasis,Blood Circulation,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0333138,C0020964,AFFECTS,Stasis,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0333288,C3714584,AFFECTS,Dissecting hemorrhage,"Transformation, function",patf,phsf,1,AFFECTS_PATFafctPHSF
+C0333355,C0035203,AFFECTS,Inflammatory disease of mucous membrane,Respiration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0342579,C0020964,AFFECTS,Electrolyte imbalance,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0428977,C1258192,AFFECTS,Bradycardia,Total Peripheral Resistance,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0546817,C0232338,AFFECTS,Fluid overload,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0597849,C0443158,AFFECTS,low renin hypertension,Brain activity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0679330,C0232338,AFFECTS,abnormal secretion,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0700148,C0040480,AFFECTS,Congestion,"Musculoskeletal torsion, function",patf,phsf,1,AFFECTS_PATFafctPHSF
+C0878751,C0020964,AFFECTS,late pregnancy,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0919661,C0026820,AFFECTS,alternation,Muscle Contraction,patf,phsf,1,AFFECTS_PATFafctPHSF
+C0920563,C0014272,AFFECTS,Insulin Sensitivity,Energy Metabolism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1155266,C0020964,AFFECTS,inflammatory response,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1155266,C0596761,AFFECTS,inflammatory response,Immunosenescence,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1155266,C0751982,AFFECTS,inflammatory response,Neutrophil Infiltration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1373218,C0020964,AFFECTS,Decreased Immunologic Activity [PE],Immunity,patf,phsf,2,AFFECTS_PATFafctPHSF
+C1383860,C0026820,AFFECTS,Cardiac Hypertrophy,Muscle Contraction,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1520005,C0020964,AFFECTS,Viral Pathogenesis,Immunity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1659441,C1328821,AFFECTS,entry into host cell,tissue tropism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1704493,C0242732,AFFECTS,Neutral Sidebent Rotated,Tropism,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1735903,C0743925,AFFECTS,Chronic acidosis,Fetal Growth,patf,phsf,1,AFFECTS_PATFafctPHSF
+C1817978,C0597170,AFFECTS,acute inflammatory response,paracrine,patf,phsf,1,AFFECTS_PATFafctPHSF
+C3658208,C0443158,AFFECTS,Dysbiosis,Brain activity,patf,phsf,1,AFFECTS_PATFafctPHSF
+C3714514,C0020964,AFFECTS,Infection,Immunity,patf,phsf,8,AFFECTS_PATFafctPHSF
+C3714514,C0035203,AFFECTS,Infection,Respiration,patf,phsf,1,AFFECTS_PATFafctPHSF
+C3714514,C0035245,AFFECTS,Infection,Respiratory physiology,patf,phsf,2,AFFECTS_PATFafctPHSF
+C3714514,C0232338,AFFECTS,Infection,Blood flow,patf,phsf,1,AFFECTS_PATFafctPHSF
+C3714514,C0243144,AFFECTS,Infection,Uptake,patf,phsf,2,AFFECTS_PATFafctPHSF
+C3714514,C0678209,AFFECTS,Infection,Adaptive Immunity,patf,phsf,2,AFFECTS_PATFafctPHSF
+C3714514,C1514892,AFFECTS,Infection,Resistance Process,patf,phsf,2,AFFECTS_PATFafctPHSF

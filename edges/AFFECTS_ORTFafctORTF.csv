@@ -1,0 +1,90 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000936,C0301872,AFFECTS,Visual Accommodation,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0005974,C0302600,AFFECTS,Bone Resorption,Angiogenic Process,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0006660,C0596204,AFFECTS,Physiologic calcification,bone metabolism,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0010067,C0232177,AFFECTS,Coronary Circulation,Cardiac flow,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0012797,C0019010,AFFECTS,Diuresis,Hemodynamics,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0013936,C0018951,AFFECTS,Embryonic Development,Hematopoiesis,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0018951,C0302600,AFFECTS,Hematopoiesis,Angiogenic Process,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0019116,C0018952,AFFECTS,Hemostatic function,Extramedullary Hematopoiesis Function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0019116,C0301872,AFFECTS,Hemostatic function,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0021055,C0301872,AFFECTS,Immunologic Memory,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0021055,C0683201,AFFECTS,Immunologic Memory,specific immunity,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0021516,C0301872,AFFECTS,nerve supply,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0024112,C0162336,AFFECTS,Lung Compliance,"Permeability, Microvascular",ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0025962,C0035070,AFFECTS,Microcirculation,Renal Circulation,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0025962,C1817756,AFFECTS,Microcirculation,Immune System Processes,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0027540,C0301872,AFFECTS,Necrosis,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0029433,C0302600,AFFECTS,Osteogenesis,Angiogenic Process,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0032173,C0019116,AFFECTS,Platelet Activation,Hemostatic function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0032173,C0162337,AFFECTS,Platelet Activation,Vascular Permeability,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0032173,C0301872,AFFECTS,Platelet Activation,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0034057,C0231940,AFFECTS,Pulmonary Circulation,Alveolar ventilation function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0035230,C0231940,AFFECTS,Respiratory Mechanics,Alveolar ventilation function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0036658,C0206162,AFFECTS,Esthesia,Baroreflex,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0036658,C0282558,AFFECTS,Esthesia,"Immunity, Mucosal",ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0036658,C0301872,AFFECTS,Esthesia,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0037290,C0037269,AFFECTS,Skin Pigmentation,Skin Absorption,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0042396,C0019010,AFFECTS,Vascular constriction (function),Hemodynamics,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0042396,C0042401,AFFECTS,Vascular constriction (function),Vasodilation,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0042401,C0678860,AFFECTS,Vasodilation,systemic blood circulation,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0080309,C0080310,AFFECTS,Ventricular Function,Left Ventricular Function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0080311,C0019010,AFFECTS,"Ventricular Function, Right",Hemodynamics,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0162337,C0042401,AFFECTS,Vascular Permeability,Vasodilation,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0162337,C0232804,AFFECTS,Vascular Permeability,Renal function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0206162,C0232108,AFFECTS,Baroreflex,Arterial pulse pressure,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0231830,C1817756,AFFECTS,Ciliary action,Immune System Processes,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0231940,C0024112,AFFECTS,Alveolar ventilation function,Lung Compliance,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0231940,C0035230,AFFECTS,Alveolar ventilation function,Respiratory Mechanics,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0231940,C0042495,AFFECTS,Alveolar ventilation function,Ventilation-Perfusion Ratio,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0231953,C0035230,AFFECTS,Lung volume,Respiratory Mechanics,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0232108,C0206162,AFFECTS,Arterial pulse pressure,Baroreflex,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0232804,C0232164,AFFECTS,Renal function,Cardiac function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0282557,C0301872,AFFECTS,"Immune Response, Mucosal",Immune response,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0282558,C0301872,AFFECTS,"Immunity, Mucosal",Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0282558,C0683201,AFFECTS,"Immunity, Mucosal",specific immunity,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C0018951,AFFECTS,Immune response,Hematopoiesis,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C0019010,AFFECTS,Immune response,Hemodynamics,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C0025962,AFFECTS,Immune response,Microcirculation,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0301872,C0036658,AFFECTS,Immune response,Esthesia,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C0302600,AFFECTS,Immune response,Angiogenic Process,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0301872,C0520990,AFFECTS,Immune response,Host defense,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C0678894,AFFECTS,Immune response,antigen recognition,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C1160389,AFFECTS,Immune response,lung development,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0301872,C1817756,AFFECTS,Immune response,Immune System Processes,ortf,ortf,4,AFFECTS_ORTFafctORTF
+C0302600,C0018129,AFFECTS,Angiogenic Process,Graft Rejection,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0302600,C0301872,AFFECTS,Angiogenic Process,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0302600,C1656975,AFFECTS,Angiogenic Process,gland development,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0302600,C3850148,AFFECTS,Angiogenic Process,Vascular Remodeling,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0311437,C0042401,AFFECTS,Exudation,Vasodilation,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0311437,C0079043,AFFECTS,Exudation,Bronchoconstriction,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0311437,C0162337,AFFECTS,Exudation,Vascular Permeability,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0311437,C0231940,AFFECTS,Exudation,Alveolar ventilation function,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0311437,C0237858,AFFECTS,Exudation,gland secretion,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0520990,C0026841,AFFECTS,Host defense,Muscle Tonus,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0520990,C0036658,AFFECTS,Host defense,Esthesia,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0520990,C0301872,AFFECTS,Host defense,Immune response,ortf,ortf,4,AFFECTS_ORTFafctORTF
+C0520990,C0596138,AFFECTS,Host defense,autocrine,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0520990,C0683201,AFFECTS,Host defense,specific immunity,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0520990,C1817756,AFFECTS,Host defense,Immune System Processes,ortf,ortf,3,AFFECTS_ORTFafctORTF
+C0598282,C1160365,AFFECTS,nervous system development,neuroblast proliferation,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0598959,C0026841,AFFECTS,neural control,Muscle Tonus,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0598959,C0237858,AFFECTS,neural control,gland secretion,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0598959,C0301872,AFFECTS,neural control,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0678894,C0301872,AFFECTS,antigen recognition,Immune response,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C0678908,C1749784,AFFECTS,brain function,axon growth,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0683201,C0301872,AFFECTS,specific immunity,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C0920516,C0301872,AFFECTS,fetus circulation,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1160340,C1749784,AFFECTS,brain development,axon growth,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1258017,C0232164,AFFECTS,Heart Contractility,Cardiac function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1516031,C0301872,AFFECTS,Antitumor Response,Immune response,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1622375,C3850148,AFFECTS,lymph vessel development,Vascular Remodeling,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1622383,C0302600,AFFECTS,blood vessel remodeling,Angiogenic Process,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1817304,C0162337,AFFECTS,sprouting angiogenesis,Vascular Permeability,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1817304,C0302600,AFFECTS,sprouting angiogenesis,Angiogenic Process,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1817756,C0301872,AFFECTS,Immune System Processes,Immune response,ortf,ortf,5,AFFECTS_ORTFafctORTF
+C1817756,C0520990,AFFECTS,Immune System Processes,Host defense,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C1820270,C0302600,AFFECTS,venous blood vessel morphogenesis,Angiogenic Process,ortf,ortf,2,AFFECTS_ORTFafctORTF
+C2753245,C0232164,AFFECTS,cardiac muscle tissue regeneration,Cardiac function,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C4279953,C0029433,AFFECTS,Osteoclastogenesis,Osteogenesis,ortf,ortf,1,AFFECTS_ORTFafctORTF
+C4279953,C0085268,AFFECTS,Osteoclastogenesis,Bone remodeling,ortf,ortf,2,AFFECTS_ORTFafctORTF

@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003233,C0005516,AFFECTS,"Antibiotics, Aminoglycoside",Biological Markers,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0003240,C0026687,AFFECTS,Macrolide Antibiotics,Mucociliary Clearance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0008947,C2926606,AFFECTS,Clindamycin,Procedure findings:Finding:Point in time:^Patient:Narrative,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0020933,C1456627,AFFECTS,Imipenem,Antimicrobial Resistance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0038425,C0005516,AFFECTS,Streptomycin,Biological Markers,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0038425,C1316572,AFFECTS,Streptomycin,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},antb,clna,1,AFFECTS_ANTBafctCLNA
+C0055003,C0683325,AFFECTS,cefepime,clinical aspects,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0063217,C2713234,AFFECTS,hyperforin,Mood:-:Point in time:^Patient:-,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0072980,C0032930,AFFECTS,Sirolimus,Precipitating Factors,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0073591,C0005516,AFFECTS,rosoxacin,Biological Markers,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0073591,C0946292,AFFECTS,rosoxacin,polarization,antb,clna,2,AFFECTS_ANTBafctCLNA
+C1451406,C0946292,AFFECTS,tulathromycin,polarization,antb,clna,2,AFFECTS_ANTBafctCLNA
+C2983838,C0018810,AFFECTS,omadacycline,heart rate,antb,clna,1,AFFECTS_ANTBafctCLNA
+C2983838,C0488414,AFFECTS,omadacycline,QT interval:Time:Point in time:Heart:Quantitative:EKG,antb,clna,1,AFFECTS_ANTBafctCLNA
+C3536856,C0801957,AFFECTS,Cephalosporins,Penicillin:Susc:Pt:Isolate:OrdQn,antb,clna,1,AFFECTS_ANTBafctCLNA
+C3536856,C1456627,AFFECTS,Cephalosporins,Antimicrobial Resistance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C3854019,C0005516,AFFECTS,Gentamicin,Biological Markers,antb,clna,1,AFFECTS_ANTBafctCLNA

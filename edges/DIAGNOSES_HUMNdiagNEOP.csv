@@ -1,0 +1,83 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0018724,C0006826,DIAGNOSES,Health Personnel,Malignant Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0018724,C0346208,DIAGNOSES,Health Personnel,Vaginal intraepithelial neoplasia,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0028661,C0027627,DIAGNOSES,Nurses,Neoplasm Metastasis,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0028661,C0027651,DIAGNOSES,Nurses,Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0031831,C0027651,DIAGNOSES,Physicians,Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0006826,DIAGNOSES,Research Personnel,Malignant Neoplasms,humn,neop,3,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0007847,DIAGNOSES,Research Personnel,Malignant tumor of cervix,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0025202,DIAGNOSES,Research Personnel,melanoma,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0027651,DIAGNOSES,Research Personnel,Neoplasms,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0206695,DIAGNOSES,Research Personnel,"Carcinoma, Neuroendocrine",humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0346208,DIAGNOSES,Research Personnel,Vaginal intraepithelial neoplasia,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0376358,DIAGNOSES,Research Personnel,Malignant neoplasm of prostate,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0376545,DIAGNOSES,Research Personnel,Hematologic Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0677930,DIAGNOSES,Research Personnel,primary tumor,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C0948627,DIAGNOSES,Research Personnel,lymph node cancer,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C1321878,DIAGNOSES,Research Personnel,Desmoplastic infantile ganglioglioma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0035173,C1458155,DIAGNOSES,Research Personnel,Mammary Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0221191,C0027627,DIAGNOSES,Judge,Neoplasm Metastasis,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0221460,C0206655,DIAGNOSES,Farmers,Alveolar rhabdomyosarcoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0237733,C0027627,DIAGNOSES,Ministers,Neoplasm Metastasis,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C0259990,C0006826,DIAGNOSES,Oncologists,Malignant Neoplasms,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C0259990,C0027651,DIAGNOSES,Oncologists,Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0260194,C0023434,DIAGNOSES,radiologist,Chronic Lymphocytic Leukemia,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0260194,C1334170,DIAGNOSES,radiologist,Indolent Non-Hodgkin Lymphoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0260314,C0346429,DIAGNOSES,Urologists,Multiple malignancy,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0334866,C0027651,DIAGNOSES,Medical pathologist,Neoplasms,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C0334896,C0027651,DIAGNOSES,Clinical immunologist,Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0334901,C0024299,DIAGNOSES,Clinical pathologist,Lymphoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0334975,C0242379,DIAGNOSES,Auditor,Malignant neoplasm of lung,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0335038,C0027651,DIAGNOSES,Reporter (occupation),Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0335076,C0006142,DIAGNOSES,Singer,Malignant neoplasm of breast,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0402043,C0006826,DIAGNOSES,Artist,Malignant Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0402112,C0006826,DIAGNOSES,Scientist,Malignant Neoplasms,humn,neop,3,DIAGNOSES_HUMNdiagNEOP
+C0402112,C0178874,DIAGNOSES,Scientist,Tumor Progression,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0582175,C0741884,DIAGNOSES,Surgeon,terminal cancer,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0586905,C0206695,DIAGNOSES,Pediatric surgeon,"Carcinoma, Neuroendocrine",humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0599518,C0027651,DIAGNOSES,college teachers,Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0851286,C0206743,DIAGNOSES,Staff,Rhabdoid Tumor,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0851286,C1514428,DIAGNOSES,Staff,Primary peritoneal carcinoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0871685,C0006826,DIAGNOSES,Clinician,Malignant Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0871685,C0153661,DIAGNOSES,Clinician,Malignant neoplasm of thorax,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C0871685,C0206655,DIAGNOSES,Clinician,Alveolar rhabdomyosarcoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1510818,C0006826,DIAGNOSES,Advanced Practice Nurse,Malignant Neoplasms,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C1510818,C0007621,DIAGNOSES,Advanced Practice Nurse,Neoplastic Cell Transformation,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1510818,C0023418,DIAGNOSES,Advanced Practice Nurse,leukemia,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1510818,C0023434,DIAGNOSES,Advanced Practice Nurse,Chronic Lymphocytic Leukemia,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1510818,C0027651,DIAGNOSES,Advanced Practice Nurse,Neoplasms,humn,neop,3,DIAGNOSES_HUMNdiagNEOP
+C1510818,C0178874,DIAGNOSES,Advanced Practice Nurse,Tumor Progression,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1510818,C1519670,DIAGNOSES,Advanced Practice Nurse,Tumor Angiogenesis,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1510818,C1658953,DIAGNOSES,Advanced Practice Nurse,tumor vasculature,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C1510818,C2939419,DIAGNOSES,Advanced Practice Nurse,Secondary Neoplasm,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C1516908,C0242379,DIAGNOSES,Epidemiologists,Malignant neoplasm of lung,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1518579,C1333394,DIAGNOSES,Clinical Nurse Specialist - oncology,Endometrial intraepithelial neoplasia,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1552089,C0206695,DIAGNOSES,Staff Member,"Carcinoma, Neuroendocrine",humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C1556020,C0206743,DIAGNOSES,Technician,Rhabdoid Tumor,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0006826,DIAGNOSES,Author,Malignant Neoplasms,humn,neop,4,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0007621,DIAGNOSES,Author,Neoplastic Cell Transformation,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0009402,DIAGNOSES,Author,Colorectal Carcinoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0022665,DIAGNOSES,Author,Kidney Neoplasm,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0025202,DIAGNOSES,Author,melanoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0027627,DIAGNOSES,Author,Neoplasm Metastasis,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0027651,DIAGNOSES,Author,Neoplasms,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0027819,DIAGNOSES,Author,Neuroblastoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0029925,DIAGNOSES,Author,Ovarian Carcinoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0079731,DIAGNOSES,Author,B-Cell Lymphomas,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0206628,DIAGNOSES,Author,Mesoblastic Nephroma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0242379,DIAGNOSES,Author,Malignant neoplasm of lung,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0278987,DIAGNOSES,Author,stage IV non-small cell lung cancer,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0280100,DIAGNOSES,Author,Solid Neoplasm,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0349533,DIAGNOSES,Author,Lymphoma of intestine,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0555198,DIAGNOSES,Author,Malignant Glioma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0598934,DIAGNOSES,Author,tumor growth,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0699790,DIAGNOSES,Author,Colon Carcinoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0858970,DIAGNOSES,Author,Carcinogenicity,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C0948380,DIAGNOSES,Author,metastatic colorectal cancer,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C1299302,DIAGNOSES,Author,Primary malignant neoplasm of soft tissues,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C3812881,C2239176,DIAGNOSES,Author,Liver carcinoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C4522252,C0006826,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Malignant Neoplasms,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C4522252,C0007621,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Neoplastic Cell Transformation,humn,neop,2,DIAGNOSES_HUMNdiagNEOP
+C4522252,C0009402,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Colorectal Carcinoma,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C4522252,C0027651,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Neoplasms,humn,neop,1,DIAGNOSES_HUMNdiagNEOP
+C4522252,C0238258,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Lymphangitis carcinomatosa,humn,neop,1,DIAGNOSES_HUMNdiagNEOP

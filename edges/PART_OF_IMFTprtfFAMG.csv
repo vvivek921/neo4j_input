@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0015576,PART_OF,Immunologic Adjuvants,Family,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003316,C0015576,PART_OF,Epitopes,Family,imft,famg,2,PART_OF_IMFTprtfFAMG
+C0003316,C0030551,PART_OF,Epitopes,parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003320,C0015576,PART_OF,Antigens,Family,imft,famg,3,PART_OF_IMFTprtfFAMG
+C0003320,C0030551,PART_OF,Antigens,parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003320,C4053457,PART_OF,Antigens,Surrogate,imft,famg,8,PART_OF_IMFTprtfFAMG
+C0003342,C4053457,PART_OF,"Antigens, Viral",Surrogate,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0004359,C4053457,PART_OF,Autoantigens,Surrogate,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0018909,C0011011,PART_OF,Hemagglutinin,Daughter,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0018909,C0015576,PART_OF,Hemagglutinin,Family,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0019168,C0026591,PART_OF,Hepatitis B Surface Antigens,Mother (person),imft,famg,2,PART_OF_IMFTprtfFAMG
+C0019168,C0242664,PART_OF,Hepatitis B Surface Antigens,husband,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042210,C0015576,PART_OF,Vaccines,Family,imft,famg,2,PART_OF_IMFTprtfFAMG
+C0042210,C0026591,PART_OF,Vaccines,Mother (person),imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042210,C0030551,PART_OF,Vaccines,parent,imft,famg,16,PART_OF_IMFTprtfFAMG
+C0042210,C0080103,PART_OF,Vaccines,Relative (related person),imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042210,C0680063,PART_OF,Vaccines,Offspring,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042211,C0030551,PART_OF,"Vaccines, Attenuated",parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042742,C0015576,PART_OF,Viral Vaccines,Family,imft,famg,1,PART_OF_IMFTprtfFAMG
+C1440515,C0680063,PART_OF,Coxsackievirus B4,Offspring,imft,famg,1,PART_OF_IMFTprtfFAMG
+C1528012,C0030551,PART_OF,Rotarix,parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C1883036,C0030551,PART_OF,Single-Chain Antibodies,parent,imft,famg,6,PART_OF_IMFTprtfFAMG
+C2825347,C0030551,PART_OF,"Immunoglobulin A, Human",parent,imft,famg,1,PART_OF_IMFTprtfFAMG

@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0349790,INHIBITS,Immunologic Adjuvants,Exacerbation of asthma,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0001551,C1545588,INHIBITS,Immunologic Adjuvants,Protection,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0004632,C0221198,INHIBITS,Bacterial Vaccines,Lesion,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0016712,C0558187,INHIBITS,Freund's Adjuvant,Lactation established (finding),imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0019168,C0184511,INHIBITS,Hepatitis B Surface Antigens,Improved,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0019168,C0439662,INHIBITS,Hepatitis B Surface Antigens,Immune,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0021081,C1844666,INHIBITS,Immunosuppressive Agents,Immune dysregulation,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0021081,C3273245,INHIBITS,Immunosuppressive Agents,Acute Rejection,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0032972,INHIBITS,Vaccines,Pregnancy Outcome,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0150312,INHIBITS,Vaccines,Present,imft,fndg,2,INHIBITS_IMFTinhbFNDG
+C0042210,C0205160,INHIBITS,Vaccines,Negative,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0221198,INHIBITS,Vaccines,Lesion,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0332149,INHIBITS,Vaccines,Possible,imft,fndg,3,INHIBITS_IMFTinhbFNDG
+C0042210,C0376705,INHIBITS,Vaccines,Viral Load result,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0439662,INHIBITS,Vaccines,Immune,imft,fndg,3,INHIBITS_IMFTinhbFNDG
+C0042210,C0556025,INHIBITS,Vaccines,Injecting drug user,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0595939,INHIBITS,Vaccines,Stillbirth,imft,fndg,3,INHIBITS_IMFTinhbFNDG
+C0042210,C0600457,INHIBITS,Vaccines,Gravidity,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C1254481,INHIBITS,Vaccines,Patient Problem,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C1262477,INHIBITS,Vaccines,Weight decreased,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C1545588,INHIBITS,Vaccines,Protection,imft,fndg,4,INHIBITS_IMFTinhbFNDG
+C0042210,C1707597,INHIBITS,Vaccines,Cyst Formation,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C3272281,INHIBITS,Vaccines,American College of Cardiology/American Heart Association Lesion Complexity Score A,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C3272283,INHIBITS,Vaccines,American College of Cardiology/American Heart Association Lesion Complexity Score C,imft,fndg,2,INHIBITS_IMFTinhbFNDG
+C0042210,C3540840,INHIBITS,Vaccines,Sign or Symptom,imft,fndg,8,INHIBITS_IMFTinhbFNDG
+C0042210,C3668831,INHIBITS,Vaccines,Lactation established in non-human animal,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C4264314,INHIBITS,Vaccines,Childhood diseases,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C4289767,INHIBITS,Vaccines,Colonization,imft,fndg,6,INHIBITS_IMFTinhbFNDG
+C0042742,C0033774,INHIBITS,Viral Vaccines,Pruritus,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042742,C3476546,INHIBITS,Viral Vaccines,Symptoms score,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0086413,C0087130,INHIBITS,HIV Vaccine,Uncertainty,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0163642,C0239998,INHIBITS,OM-85 BV,Recurrent infections,imft,fndg,2,INHIBITS_IMFTinhbFNDG
+C0206253,C0038435,INHIBITS,"Vaccines, Combined",Stress,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0358314,C0277608,INHIBITS,Pneumococcal vaccine,Death in hospital,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0376613,C0015663,INHIBITS,"Vaccines, DNA",Fasting,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0599597,C0033213,INHIBITS,genetic vaccine,Problem,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0887892,C0542243,INHIBITS,"Vaccines, Subunit",toxic reaction (non-specific),imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C1519887,C4289767,INHIBITS,Vaccine Antigen,Colonization,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C2825347,C0442797,INHIBITS,"Immunoglobulin A, Human",Decreasing,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C2825347,C3476546,INHIBITS,"Immunoglobulin A, Human",Symptoms score,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C2825347,C3540840,INHIBITS,"Immunoglobulin A, Human",Sign or Symptom,imft,fndg,2,INHIBITS_IMFTinhbFNDG
+C2825347,C3842676,INHIBITS,"Immunoglobulin A, Human",Day 2,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C2825347,C4289767,INHIBITS,"Immunoglobulin A, Human",Colonization,imft,fndg,2,INHIBITS_IMFTinhbFNDG
+C2982078,C3687252,INHIBITS,benralizumab,Eosinophilic inflammation,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C2982078,C4086268,INHIBITS,benralizumab,Exacerbation,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C3152625,C4289767,INHIBITS,Pneumococcal 13-valent conjugate vaccine,Colonization,imft,fndg,1,INHIBITS_IMFTinhbFNDG

@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001128,C0006435,CAUSES,Acids,Chemical Burns,chem,inpo,1,CAUSES_CHEMcausINPO
+C0001128,C0242488,CAUSES,Acids,Acute Lung Injury,chem,inpo,8,CAUSES_CHEMcausINPO
+C0001128,C0273115,CAUSES,Acids,Lung Injury,chem,inpo,11,CAUSES_CHEMcausINPO
+C0001128,C0600688,CAUSES,Acids,Toxic effect,chem,inpo,1,CAUSES_CHEMcausINPO
+C0023688,C0600688,CAUSES,Ligands,Toxic effect,chem,inpo,1,CAUSES_CHEMcausINPO
+C0220806,C0010957,CAUSES,Chemicals,Tissue damage,chem,inpo,1,CAUSES_CHEMcausINPO
+C0220806,C0032343,CAUSES,Chemicals,Poisoning,chem,inpo,2,CAUSES_CHEMcausINPO
+C0220806,C0235378,CAUSES,Chemicals,Hepatotoxicity,chem,inpo,1,CAUSES_CHEMcausINPO
+C0220806,C0273115,CAUSES,Chemicals,Lung Injury,chem,inpo,1,CAUSES_CHEMcausINPO
+C0220806,C0332695,CAUSES,Chemicals,Alkaline chemical burn,chem,inpo,1,CAUSES_CHEMcausINPO
+C0220806,C0600688,CAUSES,Chemicals,Toxic effect,chem,inpo,2,CAUSES_CHEMcausINPO
+C0220806,C0745334,CAUSES,Chemicals,Inhalation injury,chem,inpo,1,CAUSES_CHEMcausINPO

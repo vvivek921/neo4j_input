@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006556,C0012238,AFFECTS,"DNA, Complementary",Digestion,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0012476,C0025519,AFFECTS,Dinucleoside Phosphates,Metabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0012939,C0012238,AFFECTS,"DNA, Viral",Digestion,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0016360,C0018270,AFFECTS,Fluorouracil,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028621,C0043240,AFFECTS,Nucleosides,Wound Healing,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028630,C0000934,AFFECTS,Nucleotides,Acclimatization,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028630,C0005823,AFFECTS,Nucleotides,Blood Pressure,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028630,C0018270,AFFECTS,Nucleotides,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028630,C0025519,AFFECTS,Nucleotides,Metabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028630,C0043240,AFFECTS,Nucleotides,Wound Healing,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028630,C0597987,AFFECTS,Nucleotides,energy balance,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028953,C0005615,AFFECTS,Oligonucleotides,Birth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0028953,C0018270,AFFECTS,Oligonucleotides,Growth,nnon,orgf,2,AFFECTS_NNONafctORGF
+C0028953,C0699900,AFFECTS,Oligonucleotides,Catabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0032414,C0018270,AFFECTS,Poly I-C,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0032414,C1819459,AFFECTS,Poly I-C,interleukin-6 production,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0035525,C0011065,AFFECTS,Ribavirin,Cessation of life,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0035525,C0018270,AFFECTS,Ribavirin,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0035525,C0025519,AFFECTS,Ribavirin,Metabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0035525,C1155328,AFFECTS,Ribavirin,Antiviral Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0035525,C1327413,AFFECTS,Ribavirin,cytokine production,nnon,orgf,5,AFFECTS_NNONafctORGF
+C0035736,C0043240,AFFECTS,"RNA, Viral",Wound Healing,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0035736,C0699900,AFFECTS,"RNA, Viral",Catabolism,nnon,orgf,3,AFFECTS_NNONafctORGF
+C0035736,C1155328,AFFECTS,"RNA, Viral",Antiviral Response,nnon,orgf,2,AFFECTS_NNONafctORGF
+C0041984,C0699900,AFFECTS,Uridine,Catabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0046841,C0011065,AFFECTS,3'-O-(4-benzoyl)benzoyladenosine 5'-triphosphate,Cessation of life,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0047569,C0699900,AFFECTS,3-methyladenine,Catabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0050063,C0018270,AFFECTS,8-chloro-cyclic adenosine monophosphate,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0051764,C1155328,AFFECTS,Ampligen,Antiviral Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0073432,C1155328,AFFECTS,"RNA, circular",Antiviral Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0164815,C0005615,AFFECTS,penciclovir,Birth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0164815,C0005823,AFFECTS,penciclovir,Blood Pressure,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0283683,C0678723,AFFECTS,NAADP,Biologic Development,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0286079,C0026559,AFFECTS,Cidofovir,Morphogenesis,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0599013,C0005615,AFFECTS,aptamer,Birth,nnon,orgf,2,AFFECTS_NNONafctORGF
+C0599013,C0012238,AFFECTS,aptamer,Digestion,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0599566,C1160185,AFFECTS,expression vector,transduction,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0600680,C0014653,AFFECTS,Untranslated Regions,Equilibrium,nnon,orgf,2,AFFECTS_NNONafctORGF
+C0600680,C0018270,AFFECTS,Untranslated Regions,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0887909,C0699900,AFFECTS,"RNA, Untranslated",Catabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0887909,C1155328,AFFECTS,"RNA, Untranslated",Antiviral Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0887909,C1752426,AFFECTS,"RNA, Untranslated",developmental timing,nnon,orgf,2,AFFECTS_NNONafctORGF
+C0887909,C1752856,AFFECTS,"RNA, Untranslated",Host-Pathogen Interactions,nnon,orgf,1,AFFECTS_NNONafctORGF
+C0914671,C1819430,AFFECTS,CPG-ODN,type I interferon production,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1453933,C0014653,AFFECTS,telbivudine,Equilibrium,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1453933,C1327413,AFFECTS,telbivudine,cytokine production,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1510800,C0005615,AFFECTS,Adenoviral Vector,Birth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1510800,C1160185,AFFECTS,Adenoviral Vector,transduction,nnon,orgf,2,AFFECTS_NNONafctORGF
+C1514926,C0005615,AFFECTS,retroviral vector,Birth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1514926,C1160185,AFFECTS,retroviral vector,transduction,nnon,orgf,2,AFFECTS_NNONafctORGF
+C1519595,C0006147,AFFECTS,Transcript,Breast Feeding,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C0013470,AFFECTS,Transcript,Eating,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C0018270,AFFECTS,Transcript,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C0025519,AFFECTS,Transcript,Metabolism,nnon,orgf,3,AFFECTS_NNONafctORGF
+C1519595,C0032961,AFFECTS,Transcript,Pregnancy,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C0597375,AFFECTS,Transcript,reproductive development,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C0699900,AFFECTS,Transcript,Catabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C1155328,AFFECTS,Transcript,Antiviral Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C1519595,C1327441,AFFECTS,Transcript,negative regulation of inflammatory response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2331150,C0012238,AFFECTS,Chromosomal deoxyribonucleic acid,Digestion,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2717927,C0005615,AFFECTS,"Segmental Duplications, Genomic",Birth,nnon,orgf,3,AFFECTS_NNONafctORGF
+C2930586,C0699900,AFFECTS,Short Hairpin RNA,Catabolism,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2930586,C1160185,AFFECTS,Short Hairpin RNA,transduction,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2936494,C0018270,AFFECTS,"RNA, Small Untranslated",Growth,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2976303,C0025513,AFFECTS,sofosbuvir,"Activation, Metabolic",nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C0018270,AFFECTS,Long Intergenic Non-Protein Coding RNA,Growth,nnon,orgf,3,AFFECTS_NNONafctORGF
+C2982391,C0025519,AFFECTS,Long Intergenic Non-Protein Coding RNA,Metabolism,nnon,orgf,2,AFFECTS_NNONafctORGF
+C2982391,C0026559,AFFECTS,Long Intergenic Non-Protein Coding RNA,Morphogenesis,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C0026649,AFFECTS,Long Intergenic Non-Protein Coding RNA,Movement,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C0678723,AFFECTS,Long Intergenic Non-Protein Coding RNA,Biologic Development,nnon,orgf,2,AFFECTS_NNONafctORGF
+C2982391,C1154988,AFFECTS,Long Intergenic Non-Protein Coding RNA,defense response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C1155328,AFFECTS,Long Intergenic Non-Protein Coding RNA,Antiviral Response,nnon,orgf,7,AFFECTS_NNONafctORGF
+C2982391,C1327413,AFFECTS,Long Intergenic Non-Protein Coding RNA,cytokine production,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C1621922,AFFECTS,Long Intergenic Non-Protein Coding RNA,somatic embryogenesis,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C1749719,AFFECTS,Long Intergenic Non-Protein Coding RNA,Adaptive Immune Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C2982391,C1752856,AFFECTS,Long Intergenic Non-Protein Coding RNA,Host-Pathogen Interactions,nnon,orgf,2,AFFECTS_NNONafctORGF
+C3272452,C1155328,AFFECTS,Single-Stranded RNA,Antiviral Response,nnon,orgf,1,AFFECTS_NNONafctORGF
+C4277666,C0018270,AFFECTS,Antagomirs,Growth,nnon,orgf,1,AFFECTS_NNONafctORGF

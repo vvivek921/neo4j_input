@@ -1,0 +1,555 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001068,C1166825,AUGMENTS,Acetyltransferase,IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001271,C0026046,AUGMENTS,Actins,Microtubules,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0001271,C0042760,AUGMENTS,Actins,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001271,C0596901,AUGMENTS,Actins,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001271,C1167268,AUGMENTS,Actins,Ruffle,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001271,C1383501,AUGMENTS,Actins,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001271,C2248020,AUGMENTS,Actins,Podosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001473,C0175996,AUGMENTS,Adenosine Triphosphatases,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001479,C0175996,AUGMENTS,Na(+)-K(+)-Exchanging ATPase,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001479,C1167250,AUGMENTS,Na(+)-K(+)-Exchanging ATPase,lipid raft,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0001492,C0175996,AUGMENTS,Adenylate Cyclase,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0002059,C0042219,AUGMENTS,Alkaline Phosphatase,Vacuole,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0002570,C0039067,AUGMENTS,Aminopeptidase,Synaptosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003009,C1325635,AUGMENTS,angiotensin II,MHC class I peptide loading complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003018,C1325635,AUGMENTS,Angiotensins,MHC class I peptide loading complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003241,C0007603,AUGMENTS,Antibodies,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003241,C0042760,AUGMENTS,Antibodies,Virion,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0003241,C0175996,AUGMENTS,Antibodies,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003241,C1622204,AUGMENTS,Antibodies,envelope,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003241,C1749467,AUGMENTS,Antibodies,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003241,C2754943,AUGMENTS,Antibodies,IgG antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003250,C0042760,AUGMENTS,Monoclonal Antibodies,Virion,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0003250,C1325834,AUGMENTS,Monoclonal Antibodies,viral glycoprotein,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0003595,C0175996,AUGMENTS,Apolipoprotein E,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0004641,C0525009,AUGMENTS,bacteriocin,periplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0004641,C0596901,AUGMENTS,bacteriocin,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0007428,C0010834,AUGMENTS,Cathepsins,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0007428,C1166848,AUGMENTS,Cathepsins,late endosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0007428,C1325834,AUGMENTS,Cathepsins,viral glycoprotein,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0007428,C1383501,AUGMENTS,Cathepsins,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0008328,C0596119,AUGMENTS,Cholecystokinin,apical membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0008586,C0886515,AUGMENTS,Chromogranins,Secretory Vesicles,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0008905,C0034850,AUGMENTS,Clathrin,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0008905,C0175996,AUGMENTS,Clathrin,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0008905,C0596901,AUGMENTS,Clathrin,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0008905,C1167250,AUGMENTS,Clathrin,lipid raft,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0008905,C1511625,AUGMENTS,Clathrin,Cytoplasmic Domain,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0009498,C0007603,AUGMENTS,Complement System Proteins,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0010590,C2828355,AUGMENTS,Cycloserine,IgG2c,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0010654,C0175996,AUGMENTS,Cysteine,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0010656,C0026237,AUGMENTS,caspase,Mitochondria,aapp,celc,4,AUGMENTS_AAPPaugmCELC
+C0010749,C0026237,AUGMENTS,Cytochromes c,Mitochondria,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0011519,C0042760,AUGMENTS,Deoxyribonuclease I,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0012940,C1167313,AUGMENTS,DNA-Binding Proteins,ubiquitin ligase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0013352,C0024369,AUGMENTS,Dynein ATPase,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0013352,C0031310,AUGMENTS,Dynein ATPase,Phagosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0013729,C0035553,AUGMENTS,Eukaryotic Initiation Factor-2,Ribosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0013729,C1325596,AUGMENTS,Eukaryotic Initiation Factor-2,P-body,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0014372,C0175996,AUGMENTS,Enterotoxins,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0014894,C0038528,AUGMENTS,Esterases,Subcellular Fractions,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0016955,C0035553,AUGMENTS,Galactosidase,Ribosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017279,C0007603,AUGMENTS,"Gene Products, gag",Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017279,C0035553,AUGMENTS,"Gene Products, gag",Ribosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017429,C0085187,AUGMENTS,"Genome, Human",telomere,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017687,C0230681,AUGMENTS,Glucagon,Zymogen Granules,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017968,C0014239,AUGMENTS,Glycoproteins,Endoplasmic Reticulum,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017968,C0042760,AUGMENTS,Glycoproteins,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0017968,C0887869,AUGMENTS,Glycoproteins,Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0018284,C0026237,AUGMENTS,Growth Factor,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0018284,C2350332,AUGMENTS,Growth Factor,Exosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0018296,C0025979,AUGMENTS,Guanosine Triphosphate Phosphohydrolases,Microfilaments,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0018296,C1819995,AUGMENTS,Guanosine Triphosphate Phosphohydrolases,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0018437,C1167250,AUGMENTS,Proton-Translocating ATPases,lipid raft,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0019043,C0175996,AUGMENTS,Sickle Hemoglobin,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0019652,C2752243,AUGMENTS,Histones,transcriptionally silent chromatin,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0020857,C2754946,AUGMENTS,IgG2A,IgG2a antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0020960,C0007603,AUGMENTS,Immune Sera,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0020960,C0042760,AUGMENTS,Immune Sera,Virion,aapp,celc,4,AUGMENTS_AAPPaugmCELC
+C0021017,C2754946,AUGMENTS,Immunoglobulin Isotypes,IgG2a antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021665,C1318418,AUGMENTS,Insulin-Like Growth Factor I,Brush Border,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021699,C3887595,AUGMENTS,Integral Membrane Proteins,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021701,C0007603,AUGMENTS,Integrins,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021701,C0010834,AUGMENTS,Integrins,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021701,C0010853,AUGMENTS,Integrins,Cytoskeleton,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021740,C0175996,AUGMENTS,Recombinant Interferon-gamma,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021747,C1167110,AUGMENTS,Interferons,PML body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021747,C1167322,AUGMENTS,Interferons,integral to membrane,aapp,celc,9,AUGMENTS_AAPPaugmCELC
+C0021747,C1819995,AUGMENTS,Interferons,Host Cell,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0021755,C1166825,AUGMENTS,Interleukin-1,IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021755,C3156614,AUGMENTS,Interleukin-1,NLRP3 inflammasome complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021756,C0175996,AUGMENTS,Interleukin-2,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021758,C0699040,AUGMENTS,Interleukin-4,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0021760,C1166607,AUGMENTS,Interleukin-6,cellular_component,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0022009,C0175996,AUGMENTS,Ion Channel,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0022159,C1325744,AUGMENTS,Isocitrate Lyase,subapical complex location,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0022984,C0887869,AUGMENTS,Laminin,Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0023206,C0042760,AUGMENTS,Lectin,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0023206,C2350307,AUGMENTS,Lectin,Cell-Derived Microparticles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0023401,C0230779,AUGMENTS,Leucine,Rough endoplasmic reticulum,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0023689,C1166825,AUGMENTS,Ligase,IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0024545,C1325744,AUGMENTS,Malate Synthase,subapical complex location,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0025252,C0029219,AUGMENTS,Membrane Proteins,Organelles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0025543,C3821120,AUGMENTS,Metalloproteases,sperm plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0027203,C0024369,AUGMENTS,N-Acetylmuramoyl-L-alanine Amidase,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0027280,C0175996,AUGMENTS,NAD(P)H Dehydrogenase (Quinone),Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0027752,C0085103,AUGMENTS,Nerve Growth Factor,Neurites,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0027895,C0004461,AUGMENTS,Neuropeptides,Axon,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0028589,C0010834,AUGMENTS,Nuclear Proteins,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030940,C0042760,AUGMENTS,Peptide Hydrolases,Virion,aapp,celc,4,AUGMENTS_AAPPaugmCELC
+C0030940,C1166848,AUGMENTS,Peptide Hydrolases,late endosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030940,C1167519,AUGMENTS,Peptide Hydrolases,viral capsid,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030940,C2754973,AUGMENTS,Peptide Hydrolases,"IgE immunoglobulin complex, circulating",aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030940,C3271504,AUGMENTS,Peptide Hydrolases,endolysosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030946,C0042219,AUGMENTS,Endopeptidases,Vacuole,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030946,C0596901,AUGMENTS,Endopeptidases,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030946,C1325834,AUGMENTS,Endopeptidases,viral glycoprotein,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0030946,C1819995,AUGMENTS,Endopeptidases,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0031727,C0010853,AUGMENTS,Phosphotransferases,Cytoskeleton,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0031727,C0025979,AUGMENTS,Phosphotransferases,Microfilaments,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0031727,C0887869,AUGMENTS,Phosphotransferases,Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0032583,C0042760,AUGMENTS,Polyproteins,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0033634,C0175996,AUGMENTS,Protein Kinase C,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0033665,C0024369,AUGMENTS,Protein Precursors,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034805,C0007603,AUGMENTS,Fc Receptor,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034805,C0034850,AUGMENTS,Fc Receptor,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034805,C0042760,AUGMENTS,Fc Receptor,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034805,C0175996,AUGMENTS,Fc Receptor,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034809,C1383501,AUGMENTS,Glucocorticoid Receptor,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034821,C0007603,AUGMENTS,Low Density Lipoprotein Receptor,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0034861,C0042760,AUGMENTS,Recombinant Proteins,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0035679,C0010834,AUGMENTS,RNA Polymerase II,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0037492,C0175996,AUGMENTS,Sodium Channel,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0039938,C1749467,AUGMENTS,Thioredoxins,soluble,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0040018,C0010853,AUGMENTS,Thrombin,Cytoskeleton,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040018,C0887870,AUGMENTS,Thrombin,Focal Adhesions,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040018,C0887904,AUGMENTS,Thrombin,Stress Fibers,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040676,C0038528,AUGMENTS,Transferase,Subcellular Fractions,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040691,C0034850,AUGMENTS,Transforming Growth Factors,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040691,C0932050,AUGMENTS,Transforming Growth Factors,Intercellular matrix component,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040691,C1523873,AUGMENTS,Transforming Growth Factors,receptor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0040691,C2754343,AUGMENTS,Transforming Growth Factors,SMAD protein complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0041197,C1511498,AUGMENTS,Tropomyosin,Contractile System,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0041236,C0042760,AUGMENTS,TRYPSIN,Virion,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0041236,C0596901,AUGMENTS,TRYPSIN,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0041236,C1167519,AUGMENTS,TRYPSIN,viral capsid,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0041236,C1819995,AUGMENTS,TRYPSIN,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0041368,C0175996,AUGMENTS,Tumor Necrosis Factors,Protoplasm,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0041538,C1166825,AUGMENTS,Ubiquitin,IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0041538,C1819995,AUGMENTS,Ubiquitin,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042666,C0010851,AUGMENTS,Vimentin,Cytoskeletal Filaments,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042711,C0010834,AUGMENTS,Viral Envelope Proteins,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042711,C1167250,AUGMENTS,Viral Envelope Proteins,lipid raft,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042717,C0596901,AUGMENTS,Viral Fusion Proteins,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042720,C0035553,AUGMENTS,Viral Genome,Ribosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042736,C0007603,AUGMENTS,Viral Proteins,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042736,C0014239,AUGMENTS,Viral Proteins,Endoplasmic Reticulum,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042736,C0021868,AUGMENTS,Viral Proteins,Intracellular Membranes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042736,C0029219,AUGMENTS,Viral Proteins,Organelles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042736,C0596901,AUGMENTS,Viral Proteins,Membrane,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0042736,C1819995,AUGMENTS,Viral Proteins,Host Cell,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0042736,C3893737,AUGMENTS,Viral Proteins,Golgi subcompartment,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0042736,C4235140,AUGMENTS,Viral Proteins,inflammasome complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0043316,C0175996,AUGMENTS,Xanthine Dehydrogenase,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0044894,C0521119,AUGMENTS,15-Hydroxyprostaglandin dehydrogenase (NAD+),Extracellular,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0052051,C1819995,AUGMENTS,"V antigen, Yersinia pestis",Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0052190,C0175996,AUGMENTS,apolipoprotein C-II,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0053917,C0027747,AUGMENTS,Bombesin Receptor,Nerve Endings,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0054871,C0042760,AUGMENTS,Cathepsin L,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0055546,C1167250,AUGMENTS,cholesterol-binding protein,lipid raft,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0056889,C0699040,AUGMENTS,Cystic Fibrosis Transmembrane Conductance Regulator,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0057256,C1819995,AUGMENTS,Defensins,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0058980,C1325596,AUGMENTS,eIF-2 Kinase,P-body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0058988,C0042760,AUGMENTS,Eukaryotic Initiation Factor-4E,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0058990,C0042760,AUGMENTS,Eukaryotic Initiation Factor-4G,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0059252,C0026237,AUGMENTS,endonuclease G,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0061878,C0699040,AUGMENTS,granzyme B,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0062202,C1819995,AUGMENTS,hemagglutinin-protease,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0063695,C0699040,AUGMENTS,Intercellular adhesion molecule 1,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0069139,C0699040,AUGMENTS,nucleolin,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0070410,C1325742,AUGMENTS,perforin,Pore,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0072249,C0175996,AUGMENTS,Prorenin,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0074071,C0596901,AUGMENTS,sodium lauroyl sarcosinate,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0074512,C0596901,AUGMENTS,Signal Recognition Particle,Membrane,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0077361,C0035553,AUGMENTS,"tRNA, peptidyl-",Ribosomes,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0079189,C0026237,AUGMENTS,cytokine,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0079189,C0521119,AUGMENTS,cytokine,Extracellular,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0079189,C2350332,AUGMENTS,cytokine,Exosomes,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0079189,C2754943,AUGMENTS,cytokine,IgG antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0079189,C2754949,AUGMENTS,cytokine,IgG3 antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0079427,C0010834,AUGMENTS,Tumor Suppressor Genes,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0079459,C0010834,AUGMENTS,Granulocyte Colony-Stimulating Factor,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0080054,C1819961,AUGMENTS,CDC2 Protein Kinase,PCNA complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0080055,C1819995,AUGMENTS,Protein p53,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0080222,C0932050,AUGMENTS,"TGFB1 protein, human",Intercellular matrix component,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0084133,C0175996,AUGMENTS,Polyubiquitin,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0084304,C1325592,AUGMENTS,RecQ Helicases,replisome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0084692,C0042760,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0085249,C0230764,AUGMENTS,glycosyltransferase,Golgi membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0085295,C1325744,AUGMENTS,Interleukin-10,subapical complex location,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0085401,C0026046,AUGMENTS,tau Proteins,Microtubules,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0085828,C0596901,AUGMENTS,Transcription Factor AP-1,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0086376,C0175996,AUGMENTS,GTP-Binding Proteins,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0087044,C0026237,AUGMENTS,Synapsin I,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0090388,C0010834,AUGMENTS,14-3-3 Proteins,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0090388,C0596952,AUGMENTS,14-3-3 Proteins,Mitochondrial Membranes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0090388,C0805525,AUGMENTS,14-3-3 Proteins,Cell Fraction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0105042,C0175996,AUGMENTS,Anthrax toxin edema factor,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0108801,C0699040,AUGMENTS,"TFRC protein, human",Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0108801,C1276873,AUGMENTS,"TFRC protein, human",Dividing cell structure,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0110613,C0699040,AUGMENTS,Connexin 43,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0115305,C0699040,AUGMENTS,E-Selectin,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0120285,C0230770,AUGMENTS,Green Fluorescent Proteins,"Endoplasmic reticulum, membrane",aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0120285,C1167080,AUGMENTS,Green Fluorescent Proteins,granular component,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0123759,C0596901,AUGMENTS,Interleukin-12,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0142251,C0887869,AUGMENTS,Sialic Acid Binding Ig-like Lectin 1,Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0146495,C0230595,AUGMENTS,Probable Transcription Factor PML,Intranuclear body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0162768,C0042219,AUGMENTS,Fusion protein,Vacuole,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0162768,C1749467,AUGMENTS,Fusion protein,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0164786,C0010853,AUGMENTS,Proto-Oncogene Proteins c-akt,Cytoskeleton,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0166417,C0805525,AUGMENTS,PPAR gamma,Cell Fraction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0171484,C3821310,AUGMENTS,secretase,membrane region,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0172511,C1383501,AUGMENTS,interferon-alpha 8,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0178774,C0007637,AUGMENTS,Nucleocapsid,Inclusion Bodies,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0178774,C0026046,AUGMENTS,Nucleocapsid,Microtubules,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0178774,C0887869,AUGMENTS,Nucleocapsid,Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0178827,C0596901,AUGMENTS,replicase,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0216680,C2246364,AUGMENTS,"Receptor, TIE-2",myosin filament,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0243041,C0596901,AUGMENTS,Molecular Chaperones,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0243041,C1819995,AUGMENTS,Molecular Chaperones,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0243043,C0042760,AUGMENTS,Heat-Shock Proteins 70,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0243045,C0010834,AUGMENTS,Cyclin-Dependent Kinases,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0252902,C0230628,AUGMENTS,"PKN1 protein, human",Lamellipodia,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0252902,C1622372,AUGMENTS,"PKN1 protein, human",ruffle membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0256616,C1325834,AUGMENTS,Mannose-Binding Protein-Associated Serine Proteases,viral glycoprotein,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0259419,C0026237,AUGMENTS,caspase-2,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0282400,C0007603,AUGMENTS,Leukocyte Adhesion Molecules,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0282554,C0026237,AUGMENTS,chemokine,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0282554,C2350332,AUGMENTS,chemokine,Exosomes,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0282651,C1167322,AUGMENTS,Selectins,integral to membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0287990,C0887838,AUGMENTS,paired basic amino acid cleaving enzyme,trans-Golgi Network,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0287990,C1325834,AUGMENTS,paired basic amino acid cleaving enzyme,viral glycoprotein,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0289012,C1167160,AUGMENTS,TNF Receptor-Associated Death Domain Protein,signalosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0291573,C0175996,AUGMENTS,caspase-3,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0291573,C1383501,AUGMENTS,caspase-3,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0295022,C1166825,AUGMENTS,TNF receptor-associated factor 3,IkappaB kinase complex,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0296517,C1819995,AUGMENTS,bak protein,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0297981,C1166825,AUGMENTS,"RIPK1 protein, human",IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0298455,C3887595,AUGMENTS,papain-like proteinase 1,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0300824,C0175996,AUGMENTS,SNAP receptor,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0305052,C0042760,AUGMENTS,Gamma globulin serum,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0312586,C0042760,AUGMENTS,Polyclonal antibody,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0378910,C0699040,AUGMENTS,Lymphocyte antigen CD66A,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0378910,C1511625,AUGMENTS,Lymphocyte antigen CD66A,Cytoplasmic Domain,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0379214,C0026237,AUGMENTS,"pros protein, Drosophila",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0383779,C0026237,AUGMENTS,benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0387687,C0042760,AUGMENTS,Chemokine (C-C Motif) Receptor 5,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0391845,C0007637,AUGMENTS,Lysosomal enzyme,Inclusion Bodies,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0391845,C0596901,AUGMENTS,Lysosomal enzyme,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0440471,C1819995,AUGMENTS,Genetic Materials,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0443640,C2610566,AUGMENTS,Specific antibody,yolk,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0475463,C0042760,AUGMENTS,"Antibodies, Neutralizing",Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0475463,C0521119,AUGMENTS,"Antibodies, Neutralizing",Extracellular,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0530129,C1166825,AUGMENTS,TNF receptor-associated factor 6,IkappaB kinase complex,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0530129,C1167160,AUGMENTS,TNF receptor-associated factor 6,signalosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0530129,C3823671,AUGMENTS,TNF receptor-associated factor 6,protein kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0533668,C0887869,AUGMENTS,"ANGPT1 protein, human",Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0533668,C1167402,AUGMENTS,"ANGPT1 protein, human",intercellular bridge,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0533668,C1523873,AUGMENTS,"ANGPT1 protein, human",receptor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0533668,C2246364,AUGMENTS,"ANGPT1 protein, human",myosin filament,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0534519,C0596901,AUGMENTS,Caspase-1,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0534519,C4235140,AUGMENTS,Caspase-1,inflammasome complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0537408,C0026237,AUGMENTS,"ORF74 protein, Human herpesvirus 8",Mitochondria,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0537408,C1179936,AUGMENTS,"ORF74 protein, Human herpesvirus 8",Membrane of cilium,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0582263,C0007603,AUGMENTS,Structural protein,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0582263,C3887595,AUGMENTS,Structural protein,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597094,C0042760,AUGMENTS,nuclease,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597094,C1383501,AUGMENTS,nuclease,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597357,C0010834,AUGMENTS,receptor,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597357,C0026237,AUGMENTS,receptor,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597357,C0699040,AUGMENTS,receptor,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597357,C1167322,AUGMENTS,receptor,integral to membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597357,C1749467,AUGMENTS,receptor,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597357,C1819995,AUGMENTS,receptor,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0597603,C1325596,AUGMENTS,translation factor,P-body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0599561,C0333785,AUGMENTS,e protein,Virus-like particles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0599561,C0596901,AUGMENTS,e protein,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0599561,C1819995,AUGMENTS,e protein,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0599561,C4235140,AUGMENTS,e protein,inflammasome complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0599770,C0035553,AUGMENTS,genetic element,Ribosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0623362,C1325742,AUGMENTS,Matrix Metalloproteinases,Pore,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0646427,C1819995,AUGMENTS,DALES,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0667830,C0026237,AUGMENTS,caspase-8,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0670896,C0031310,AUGMENTS,Toll-like receptors,Phagosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0671062,C0175996,AUGMENTS,cathelicidin,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0675739,C0025979,AUGMENTS,"DENR protein, human",Microfilaments,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0682972,C1325635,AUGMENTS,G-Protein-Coupled Receptors,MHC class I peptide loading complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0700271,C2754943,AUGMENTS,"M Protein, multiple myeloma",IgG antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0751455,C0596901,AUGMENTS,"Gene Products, Protein",Membrane,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0751973,C1819995,AUGMENTS,Proteome,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0757929,C3156614,AUGMENTS,Procaspase-1,NLRP3 inflammasome complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0763396,C0026237,AUGMENTS,Apoptosis Inducing Factor,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0812198,C0026237,AUGMENTS,BAX gene,Mitochondria,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C0872147,C0042760,AUGMENTS,DNA Library,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0872147,C1167121,AUGMENTS,DNA Library,DNA replication factor A complex location,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0872251,C0333774,AUGMENTS,protein kinase R,Cytoplasmic bodies,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0872251,C1325596,AUGMENTS,protein kinase R,P-body,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C0887901,C0230653,AUGMENTS,Caveolins,Caveolae,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0910167,C0026237,AUGMENTS,caspase-9,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0910167,C0175996,AUGMENTS,caspase-9,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0913092,C0042760,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0913854,C0034850,AUGMENTS,"F11R protein, human",Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0914520,C1523873,AUGMENTS,epsin 1,receptor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0915260,C1956015,AUGMENTS,"SUI1 protein, human",Ribosome Subunits,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0919426,C0026029,AUGMENTS,CYP2E1 gene,Microsomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0960880,C1819995,AUGMENTS,angiotensin converting enzyme 2,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0960880,C2752522,AUGMENTS,angiotensin converting enzyme 2,host cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0961324,C0007603,AUGMENTS,penetratin,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0961804,C0025979,AUGMENTS,"ICOSLG protein, human",Microfilaments,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0962546,C0025979,AUGMENTS,Destrin,Microfilaments,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0971285,C0242608,AUGMENTS,Aurora Kinase A,Centrosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C0972232,C1749467,AUGMENTS,fibroblast growth factor 21,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1098658,C1516511,AUGMENTS,histone deacetylase 3,Chromatin Structure,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1100660,C0887838,AUGMENTS,Proprotein Convertases,trans-Golgi Network,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1120843,C1325635,AUGMENTS,mitogen-activated protein kinase p38,MHC class I peptide loading complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1143976,C0230625,AUGMENTS,"TREM2 protein, human",cell process structure,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1256770,C3894683,AUGMENTS,Vascular Endothelial Growth Factors,Extracellular Vesicles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1256801,C0026237,AUGMENTS,"FPR1 protein, human",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1258083,C0019397,AUGMENTS,DNA Repair Enzymes,Heterochromatin,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1305923,C0596901,AUGMENTS,Polypeptides,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1307407,C1819995,AUGMENTS,"FRAP1 protein, human",Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1307407,C3546436,AUGMENTS,"FRAP1 protein, human",AMPK complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1309025,C0600315,AUGMENTS,"SH2D3A protein, human",Filopodia,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1309025,C1166825,AUGMENTS,"SH2D3A protein, human",IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1310463,C0026237,AUGMENTS,"IFIH1 protein, human",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1310468,C0026237,AUGMENTS,"DDX58 protein, human",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1310468,C1166825,AUGMENTS,"DDX58 protein, human",IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1310468,C1167160,AUGMENTS,"DDX58 protein, human",signalosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1312720,C0887868,AUGMENTS,"PHEMX protein, human",Membrane Microdomains,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1332104,C0032592,AUGMENTS,APPBP2 gene,Polyribosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1332386,C0596901,AUGMENTS,BCAR3 gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1332431,C1523873,AUGMENTS,BMPR2 gene,receptor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1332656,C0887904,AUGMENTS,C3 gene,Stress Fibers,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1332838,C0444241,AUGMENTS,Candidate Disease Gene,Genetic sample,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1333210,C0596901,AUGMENTS,INTS6 gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1333682,C0042760,AUGMENTS,NOP53 gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1333723,C0596901,AUGMENTS,GTF2H1 gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334043,C0887885,AUGMENTS,Homologous Gene,Clathrin-Coated Vesicles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334043,C2754343,AUGMENTS,Homologous Gene,SMAD protein complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334083,C0699040,AUGMENTS,IFNGR1 gene,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334134,C3823671,AUGMENTS,IRAK1 gene,protein kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334137,C3823671,AUGMENTS,IRAK4 gene,protein kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334139,C1166825,AUGMENTS,IRF3 gene,IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334139,C1167128,AUGMENTS,IRF3 gene,transcription factor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1334477,C1166825,AUGMENTS,MAP3K7 gene,IkappaB kinase complex,aapp,celc,4,AUGMENTS_AAPPaugmCELC
+C1335376,C1171348,AUGMENTS,Peptide/MHC Complex,Immunological Synapses,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1335818,C0010834,AUGMENTS,SH2D3C gene,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1335818,C0596901,AUGMENTS,SH2D3C gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1335818,C1819995,AUGMENTS,SH2D3C gene,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1335818,C2265274,AUGMENTS,SH2D3C gene,cytoplasmic foci,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1335873,C1622615,AUGMENTS,STAT2 gene,cullin-RING ubiquitin ligase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336641,C0042760,AUGMENTS,TMPRSS2 gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336641,C0175996,AUGMENTS,TMPRSS2 gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336678,C0042760,AUGMENTS,TSG101 gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336690,C1749467,AUGMENTS,TXN gene,soluble,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1336763,C0024369,AUGMENTS,Toll-Like Receptor Family Gene,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336763,C0034850,AUGMENTS,Toll-Like Receptor Family Gene,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336763,C0175996,AUGMENTS,Toll-Like Receptor Family Gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336763,C0596901,AUGMENTS,Toll-Like Receptor Family Gene,Membrane,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1336763,C3269022,AUGMENTS,Toll-Like Receptor Family Gene,transforming growth factor beta activated kinase 1 complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1336776,C1167128,AUGMENTS,Transcription Coactivator,transcription factor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1366516,C0752063,AUGMENTS,IRF1 gene,peroxisome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1366763,C0024369,AUGMENTS,ELF3 gene,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1367710,C0887904,AUGMENTS,C5 gene,Stress Fibers,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412504,C0596901,AUGMENTS,ARF1 gene,Membrane,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1412511,C1167268,AUGMENTS,ARF6 gene,Ruffle,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412515,C0699040,AUGMENTS,ARG1 gene,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412617,C1325596,AUGMENTS,ATF4 gene,P-body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412622,C0230770,AUGMENTS,ATF6 gene,"Endoplasmic reticulum, membrane",aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412785,C3887595,AUGMENTS,BECN1 gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412831,C0024369,AUGMENTS,BST2 gene,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1412831,C1819995,AUGMENTS,BST2 gene,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1413357,C1166821,AUGMENTS,CFLAR gene,fatty acid synthase complex location,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1413460,C0034850,AUGMENTS,CLDN1 gene,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1413560,C1166825,AUGMENTS,CNTN2 gene,IkappaB kinase complex,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1413949,C1166840,AUGMENTS,DDOST gene,oligosaccharyltransferase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1414358,C1819995,AUGMENTS,EIF4G3 gene,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1414444,C1167179,AUGMENTS,ERN1 gene,viral replication complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1414444,C1511625,AUGMENTS,ERN1 gene,Cytoplasmic Domain,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1414444,C3887595,AUGMENTS,ERN1 gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1414557,C2754944,AUGMENTS,FCGRT gene,IgG1 antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1414605,C1749467,AUGMENTS,FGF23 gene,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415002,C0887882,AUGMENTS,GBF1 gene,Transport Vesicles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415205,C0175996,AUGMENTS,GPNMB gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415347,C0042760,AUGMENTS,GTF2I gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415351,C0175996,AUGMENTS,GTPBP1 gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415351,C0521119,AUGMENTS,GTPBP1 gene,Extracellular,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415615,C0596901,AUGMENTS,HMGCR gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415761,C1167519,AUGMENTS,HSPA5 gene,viral capsid,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415892,C1325635,AUGMENTS,IFIT1 gene,MHC class I peptide loading complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415898,C0007603,AUGMENTS,IFITM3 gene,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415898,C0034850,AUGMENTS,IFITM3 gene,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1415898,C0042760,AUGMENTS,IFITM3 gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416380,C1166825,AUGMENTS,IKBKG gene,IkappaB kinase complex,aapp,celc,4,AUGMENTS_AAPPaugmCELC
+C1416395,C0596901,AUGMENTS,IL1R1 gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416471,C0014239,AUGMENTS,IQGAP1 gene,Endoplasmic Reticulum,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416478,C0230595,AUGMENTS,ISG20 gene,Intranuclear body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416749,C1179907,AUGMENTS,KRT32 gene,Wall of endosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416788,C0024369,AUGMENTS,LAMP1 gene,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416788,C1166848,AUGMENTS,LAMP1 gene,late endosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416788,C1167322,AUGMENTS,LAMP1 gene,integral to membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416874,C1166748,AUGMENTS,LMAN1 gene,COPII vesicle,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1416886,C0042760,AUGMENTS,LMOD1 gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417005,C0175996,AUGMENTS,MAP1LC3A gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417005,C1383501,AUGMENTS,MAP1LC3A gene,Cytoplasmic matrix,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417005,C3887595,AUGMENTS,MAP1LC3A gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417228,C0085103,AUGMENTS,MOG gene,Neurites,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417228,C0599444,AUGMENTS,MOG gene,Cell body of neuron,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417530,C0010834,AUGMENTS,MYD88 gene,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417530,C1167160,AUGMENTS,MYD88 gene,signalosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417627,C1166825,AUGMENTS,NDUFA6 gene,IkappaB kinase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417708,C0042760,AUGMENTS,NFKB1 gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1417719,C0805525,AUGMENTS,NGF gene,Cell Fraction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1418574,C3887595,AUGMENTS,PIK3C3 gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1418597,C1749467,AUGMENTS,PITX3 gene,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1418600,C0886515,AUGMENTS,PKD2 gene,Secretory Vesicles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1418655,C3887595,AUGMENTS,PLP2 gene,Autophagosome,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1418779,C0026237,AUGMENTS,PPARGC1A gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1418880,C1523873,AUGMENTS,PRDX2 gene,receptor complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1418881,C0026237,AUGMENTS,PRDX3 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1419147,C0752063,AUGMENTS,PEX19 gene,peroxisome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1419227,C0230628,AUGMENTS,RAC1 gene,Lamellipodia,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1419227,C1622372,AUGMENTS,RAC1 gene,ruffle membrane,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1419240,C1819995,AUGMENTS,RAD51 gene,Host Cell,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1420002,C0175996,AUGMENTS,SFTPA1 gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1420016,C1511625,AUGMENTS,SGTA gene,Cytoplasmic Domain,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1420175,C0887885,AUGMENTS,SLC2A4 gene,Clathrin-Coated Vesicles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1420234,C0178523,AUGMENTS,SLC9A3 gene,brush border membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1420312,C0175996,AUGMENTS,SORL1 gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1420816,C1167322,AUGMENTS,TNFSF13B gene,integral to membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1421170,C1167267,AUGMENTS,TRPC3 gene,subrhabdomeral cisterna,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1421173,C1167267,AUGMENTS,TRPC6 gene,subrhabdomeral cisterna,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1421313,C0026237,AUGMENTS,UCP1 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1421392,C0026237,AUGMENTS,USP15 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1421916,C0521119,AUGMENTS,DUOX2 gene,Extracellular,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1421947,C0024369,AUGMENTS,MCOLN1 gene,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1422064,C0175996,AUGMENTS,ACE2 gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1422629,C0333774,AUGMENTS,DHX36 gene,Cytoplasmic bodies,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1422771,C0230839,AUGMENTS,PINK1 gene,"Mitochondrial Membrane, Outer",aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1423062,C0026237,AUGMENTS,SIRT1 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1423063,C0026237,AUGMENTS,SIRT3 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1423064,C0026237,AUGMENTS,SIRT4 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1423498,C0699040,AUGMENTS,GOLPH3 gene,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1423524,C1819995,AUGMENTS,NCKIPSD gene,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1423633,C0034850,AUGMENTS,TLR9 gene,Endosomes,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1424352,C0599444,AUGMENTS,RAB14 gene,Cell body of neuron,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1424611,C0026237,AUGMENTS,MFN2 gene,Mitochondria,aapp,celc,4,AUGMENTS_AAPPaugmCELC
+C1425357,C0699040,AUGMENTS,MPP6 gene,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1425622,C0230626,AUGMENTS,IFNLR1 gene,Stereocilia,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1425942,C3887595,AUGMENTS,SCARA3 gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1427590,C0026237,AUGMENTS,DIABLO gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1428927,C0230822,AUGMENTS,MIR7-3HG gene,Autolysosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1429678,C0042760,AUGMENTS,"TIA1 protein, human",Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1435283,C1622204,AUGMENTS,"MHC2TA protein, human",envelope,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1437170,C0175996,AUGMENTS,"partition protein parA, Bacteria",Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1438566,C0596901,AUGMENTS,"SNX9 protein, human",Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1442738,C0042760,AUGMENTS,PABPC1 gene,Virion,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1448177,C0031310,AUGMENTS,"TNF protein, human",Phagosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1448177,C2350332,AUGMENTS,"TNF protein, human",Exosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1522002,C2754943,AUGMENTS,RNA Recognition Motif,IgG antibody,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1522002,C2754944,AUGMENTS,RNA Recognition Motif,IgG1 antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1537046,C0034850,AUGMENTS,proton channel,Endosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1538604,C1325834,AUGMENTS,PCSK6 gene,viral glycoprotein,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1539233,C0026237,AUGMENTS,DDX58 gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1539560,C0007623,AUGMENTS,GFM1 gene,Cell Wall,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1539614,C0043519,AUGMENTS,GREM1 gene,Zona Pellucida,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1539703,C0007603,AUGMENTS,RSAD2 gene,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1539703,C0230770,AUGMENTS,RSAD2 gene,"Endoplasmic reticulum, membrane",aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1539847,C0007603,AUGMENTS,SRFBP1 gene,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1540056,C0175996,AUGMENTS,TRIM21 gene,Protoplasm,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1540210,C0596901,AUGMENTS,ASZ1 gene,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1540210,C1167110,AUGMENTS,ASZ1 gene,PML body,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1564139,C0699040,AUGMENTS,Mutant Proteins,Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1564904,C0010834,AUGMENTS,Catenins,Cytoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1565114,C1819995,AUGMENTS,Apoptosis Inhibiting Proteins,Host Cell,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1565115,C0026237,AUGMENTS,Apoptosis Inducing Proteins,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1565427,C0010853,AUGMENTS,"PTK2 protein, human",Cytoskeleton,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1624602,C0042760,AUGMENTS,Anti-Antibodies,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1624602,C2610566,AUGMENTS,Anti-Antibodies,yolk,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1698754,C0887869,AUGMENTS,"IL6 protein, human",Cell-Matrix Junction,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1700887,C0699040,AUGMENTS,"IL2RA protein, human",Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1705590,C0010853,AUGMENTS,PIK3CB wt Allele,Cytoskeleton,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1705590,C1325635,AUGMENTS,PIK3CB wt Allele,MHC class I peptide loading complex,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1706005,C2754983,AUGMENTS,CD40LG wt Allele,surface IgA,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1823138,C1166840,AUGMENTS,STT3A gene,oligosaccharyltransferase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1823139,C1166840,AUGMENTS,STT3B gene,oligosaccharyltransferase complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1823381,C0010837,AUGMENTS,TMEM121 gene,Cytoplasmic Granules,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1823437,C2828355,AUGMENTS,TMEM173 gene,IgG2c,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1823491,C1167160,AUGMENTS,TRIM69 gene,signalosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1824213,C0008778,AUGMENTS,ARL13B gene,Cilia,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1824492,C1819995,AUGMENTS,DNAAF3 gene,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1824728,C0599444,AUGMENTS,CFB gene,Cell body of neuron,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1824812,C0024369,AUGMENTS,CTSA gene,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1824952,C0599444,AUGMENTS,DNER gene,Cell body of neuron,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825325,C1167528,AUGMENTS,G3BP1 gene,RNA viral genome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825325,C1325596,AUGMENTS,G3BP1 gene,P-body,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1825325,C2265274,AUGMENTS,G3BP1 gene,cytoplasmic foci,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825493,C2247585,AUGMENTS,ATG3 gene,isolation membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825497,C2247585,AUGMENTS,ATG5 gene,isolation membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825497,C3821058,AUGMENTS,ATG5 gene,necrosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825497,C3887595,AUGMENTS,ATG5 gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825498,C0175996,AUGMENTS,ATG7 gene,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825498,C2247585,AUGMENTS,ATG7 gene,isolation membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825501,C2247585,AUGMENTS,ATG10 gene,isolation membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825502,C2247585,AUGMENTS,ATG16L1 gene,isolation membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825553,C0026237,AUGMENTS,HTRA2 gene,Mitochondria,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C1825598,C0029219,AUGMENTS,IMPACT gene,Organelles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825598,C0042760,AUGMENTS,IMPACT gene,Virion,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1825598,C3893737,AUGMENTS,IMPACT gene,Golgi subcompartment,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1826724,C1325635,AUGMENTS,PRRT2 gene,MHC class I peptide loading complex,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C1826755,C0014239,AUGMENTS,RAB2A gene,Endoplasmic Reticulum,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1826951,C3156847,AUGMENTS,RTP1 gene,haustorium,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1864770,C0026237,AUGMENTS,MAVS gene,Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1864770,C0230770,AUGMENTS,MAVS gene,"Endoplasmic reticulum, membrane",aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1865043,C2247585,AUGMENTS,ATG12 gene,isolation membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1865043,C3887595,AUGMENTS,ATG12 gene,Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1870006,C1167203,AUGMENTS,"PTPRC protein, human",T-cell receptor complex location,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C1883559,C2754943,AUGMENTS,Wild Type,IgG antibody,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2681866,C1819995,AUGMENTS,NEAT1 gene,Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2744579,C0026237,AUGMENTS,"ATP8A2 protein, human",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2744579,C1819995,AUGMENTS,"ATP8A2 protein, human",Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2826021,C2350307,AUGMENTS,MIR223 wt Allele,Cell-Derived Microparticles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2826044,C3546436,AUGMENTS,MIR451 wt Allele,AMPK complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2936473,C1749467,AUGMENTS,Maltose-Binding Proteins,soluble,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C2987130,C0019397,AUGMENTS,Core Histone Macro-H2A,Heterochromatin,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3273837,C2350307,AUGMENTS,S100B wt Allele,Cell-Derived Microparticles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3494363,C0024369,AUGMENTS,Tight Junction Proteins,Lysosomes,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3537219,C0886515,AUGMENTS,SERPINA1 wt Allele,Secretory Vesicles,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3538756,C0175996,AUGMENTS,NLRP1 wt Allele,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3539807,C3269022,AUGMENTS,RALBP1 wt Allele,transforming growth factor beta activated kinase 1 complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3540595,C0175996,AUGMENTS,CD8A wt Allele,Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3540822,C2753479,AUGMENTS,IRF9 wt Allele,ISGF3 complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3710914,C1325596,AUGMENTS,"EIF2AK2 protein, human",P-body,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C3812695,C0887870,AUGMENTS,LPAR3 wt Allele,Focal Adhesions,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3812695,C0887904,AUGMENTS,LPAR3 wt Allele,Stress Fibers,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3812695,C3271504,AUGMENTS,LPAR3 wt Allele,endolysosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3814450,C0019397,AUGMENTS,"Core Histone Macro-H2A.1, human",Heterochromatin,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3814450,C0043292,AUGMENTS,"Core Histone Macro-H2A.1, human",X Chromosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3815884,C0007603,AUGMENTS,Myosin-1,Plasma membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3849511,C0887904,AUGMENTS,"ANGPT2 protein, human",Stress Fibers,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3849511,C2246364,AUGMENTS,"ANGPT2 protein, human",myosin filament,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3849574,C3887595,AUGMENTS,"EPHB2 protein, human",Autophagosome,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3871184,C0061622,AUGMENTS,Dengue virus NS1,Glycocalyx,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3890397,C0026237,AUGMENTS,PRKAA1 wt Allele,Mitochondria,aapp,celc,2,AUGMENTS_AAPPaugmCELC
+C3890397,C0596901,AUGMENTS,PRKAA1 wt Allele,Membrane,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3890397,C3546436,AUGMENTS,PRKAA1 wt Allele,AMPK complex,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C3891304,C0175996,AUGMENTS,"Cathelicidin LL-37, human",Protoplasm,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4048280,C1167250,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",lipid raft,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4082587,C1750489,AUGMENTS,"HLA Class II Histocompatibility Antigen Gamma Chain, human",peroxisome vesicle,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4281807,C0699040,AUGMENTS,"Vitronectin, human",Cell surface,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4281807,C1819995,AUGMENTS,"Vitronectin, human",Host Cell,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4282114,C0026237,AUGMENTS,"Bcl-2-Like Protein 11, human",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4317106,C0596901,AUGMENTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Membrane,aapp,celc,3,AUGMENTS_AAPPaugmCELC
+C4318401,C0026237,AUGMENTS,"Cytochrome C, human",Mitochondria,aapp,celc,1,AUGMENTS_AAPPaugmCELC
+C4321251,C1622204,AUGMENTS,CYCS wt Allele,envelope,aapp,celc,1,AUGMENTS_AAPPaugmCELC

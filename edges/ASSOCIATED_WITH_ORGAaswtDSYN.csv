@@ -1,0 +1,472 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005612,C0006840,ASSOCIATED_WITH,Birth Weight,Candidiasis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005612,C0038826,ASSOCIATED_WITH,Birth Weight,Superinfection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005903,C0520459,ASSOCIATED_WITH,Body Temperature,Necrotizing Enterocolitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005903,C1175175,ASSOCIATED_WITH,Body Temperature,Severe Acute Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0003123,ASSOCIATED_WITH,Body Weight,Anorexia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0004096,ASSOCIATED_WITH,Body Weight,Asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0014457,ASSOCIATED_WITH,Body Weight,Eosinophilia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0018482,ASSOCIATED_WITH,Body Weight,Haemophilus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0023530,ASSOCIATED_WITH,Body Weight,Leukopenia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0028754,ASSOCIATED_WITH,Body Weight,Obesity,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C0035222,ASSOCIATED_WITH,Body Weight,"Respiratory Distress Syndrome, Adult",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C1096155,ASSOCIATED_WITH,Body Weight,Macrophage Activation Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C1175175,ASSOCIATED_WITH,Body Weight,Severe Acute Respiratory Syndrome,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C1859722,ASSOCIATED_WITH,Body Weight,Arthrogryposis renal dysfunction cholestasis syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0005910,C3151446,ASSOCIATED_WITH,Body Weight,NESTOR-GUILLERMO PROGERIA SYNDROME,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0008170,C0751651,ASSOCIATED_WITH,Chloramphenicol Resistance,Mitochondrial Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0017504,C0032285,ASSOCIATED_WITH,Gestational Age,Pneumonia,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0017504,C0035222,ASSOCIATED_WITH,Gestational Age,"Respiratory Distress Syndrome, Adult",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0017504,C0035235,ASSOCIATED_WITH,Gestational Age,Respiratory Syncytial Virus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0017504,C0151699,ASSOCIATED_WITH,Gestational Age,Intracranial Hemorrhages,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0017504,C0747845,ASSOCIATED_WITH,Gestational Age,early pregnancy,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0017504,C1112157,ASSOCIATED_WITH,Gestational Age,intrauterine infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019425,C0002895,ASSOCIATED_WITH,Heterozygote,"Anemia, Sickle Cell",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019425,C0272199,ASSOCIATED_WITH,Heterozygote,Familial Hemophagocytic Lymphocytosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019425,C0730328,ASSOCIATED_WITH,Heterozygote,Central Serous Chorioretinopathy,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019425,C1264039,ASSOCIATED_WITH,Heterozygote,"von Willebrand Disease, Type 1",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019425,C3280586,ASSOCIATED_WITH,Heterozygote,Mannose-Binding Protein Deficiency,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019425,C3899989,ASSOCIATED_WITH,Heterozygote,Autosomal Dominant Disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0002895,ASSOCIATED_WITH,Homozygote,"Anemia, Sickle Cell",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0017661,ASSOCIATED_WITH,Homozygote,IGA Glomerulonephritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0019196,ASSOCIATED_WITH,Homozygote,Hepatitis C,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0024141,ASSOCIATED_WITH,Homozygote,"Lupus Erythematosus, Systemic",orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0025303,ASSOCIATED_WITH,Homozygote,Meningococcal Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0035222,ASSOCIATED_WITH,Homozygote,"Respiratory Distress Syndrome, Adult",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0043124,ASSOCIATED_WITH,Homozygote,West Nile Fever,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0085110,ASSOCIATED_WITH,Homozygote,Severe Combined Immunodeficiency,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0276500,ASSOCIATED_WITH,Homozygote,Human immunodeficiency virus I infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0398650,ASSOCIATED_WITH,Homozygote,Immune thrombocytopenic purpura,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C0948008,ASSOCIATED_WITH,Homozygote,Ischemic stroke,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C1175175,ASSOCIATED_WITH,Homozygote,Severe Acute Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0019904,C3662483,ASSOCIATED_WITH,Homozygote,Allergic sensitization,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0001175,ASSOCIATED_WITH,"Immunity, Innate",Acquired Immunodeficiency Syndrome,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0003850,ASSOCIATED_WITH,"Immunity, Innate",Arteriosclerosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0004096,ASSOCIATED_WITH,"Immunity, Innate",Asthma,orga,dsyn,12,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0004364,ASSOCIATED_WITH,"Immunity, Innate",Autoimmune Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0006271,ASSOCIATED_WITH,"Immunity, Innate",Bronchiolitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0007222,ASSOCIATED_WITH,"Immunity, Innate",Cardiovascular Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0007570,ASSOCIATED_WITH,"Immunity, Innate",Celiac Disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0007684,ASSOCIATED_WITH,"Immunity, Innate",Central Nervous System Infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0016627,ASSOCIATED_WITH,"Immunity, Innate",Influenza in Birds,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0019159,ASSOCIATED_WITH,"Immunity, Innate",Hepatitis A,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0019243,ASSOCIATED_WITH,"Immunity, Innate","Angioedemas, Hereditary",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0021053,ASSOCIATED_WITH,"Immunity, Innate",Immune System Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0021400,ASSOCIATED_WITH,"Immunity, Innate",Influenza,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0022573,ASSOCIATED_WITH,"Immunity, Innate",Keratoconjunctivitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0024117,ASSOCIATED_WITH,"Immunity, Innate",Chronic Obstructive Airway Disease,orga,dsyn,5,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0024440,ASSOCIATED_WITH,"Immunity, Innate","Macular Edema, Cystoid",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0026946,ASSOCIATED_WITH,"Immunity, Innate",Mycoses,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0028326,ASSOCIATED_WITH,"Immunity, Innate",Noonan Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0029408,ASSOCIATED_WITH,"Immunity, Innate",Degenerative polyarthritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0032285,ASSOCIATED_WITH,"Immunity, Innate",Pneumonia,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0032310,ASSOCIATED_WITH,"Immunity, Innate","Pneumonia, Viral",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0035222,ASSOCIATED_WITH,"Immunity, Innate","Respiratory Distress Syndrome, Adult",orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0035235,ASSOCIATED_WITH,"Immunity, Innate",Respiratory Syncytial Virus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0035243,ASSOCIATED_WITH,"Immunity, Innate",Respiratory Tract Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0035690,ASSOCIATED_WITH,"Immunity, Innate",RNA Virus Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0036690,ASSOCIATED_WITH,"Immunity, Innate",Septicemia,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0036916,ASSOCIATED_WITH,"Immunity, Innate",Sexually Transmitted Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0042373,ASSOCIATED_WITH,"Immunity, Innate",Vascular Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0042721,ASSOCIATED_WITH,"Immunity, Innate",Viral hepatitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0042769,ASSOCIATED_WITH,"Immunity, Innate",Virus Diseases,orga,dsyn,13,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0085110,ASSOCIATED_WITH,"Immunity, Innate",Severe Combined Immunodeficiency,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0151317,ASSOCIATED_WITH,"Immunity, Innate",Chronic infectious disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0162429,ASSOCIATED_WITH,"Immunity, Innate",Malnutrition,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0206608,ASSOCIATED_WITH,"Immunity, Innate",Flavivirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0206746,ASSOCIATED_WITH,"Immunity, Innate",Hepadnaviridae Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0242994,ASSOCIATED_WITH,"Immunity, Innate",Hantavirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0264219,ASSOCIATED_WITH,"Immunity, Innate",Acute respiratory disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0272302,ASSOCIATED_WITH,"Immunity, Innate",Gray Platelet Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0276289,ASSOCIATED_WITH,"Immunity, Innate",Zika Virus Infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0276500,ASSOCIATED_WITH,"Immunity, Innate",Human immunodeficiency virus I infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0339968,ASSOCIATED_WITH,"Immunity, Innate",Neonatal pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0524910,ASSOCIATED_WITH,"Immunity, Innate","Hepatitis C, Chronic",orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0729531,ASSOCIATED_WITH,"Immunity, Innate",Viral respiratory infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0740304,ASSOCIATED_WITH,"Immunity, Innate",copd exacerbation,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0851901,ASSOCIATED_WITH,"Immunity, Innate",Rhinovirus infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0876973,ASSOCIATED_WITH,"Immunity, Innate",Infectious disease of lung,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C0947961,ASSOCIATED_WITH,"Immunity, Innate",Atopic condition,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C1175175,ASSOCIATED_WITH,"Immunity, Innate",Severe Acute Respiratory Syndrome,orga,dsyn,5,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C1264606,ASSOCIATED_WITH,"Immunity, Innate",Persistent infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C1290884,ASSOCIATED_WITH,"Immunity, Innate",Inflammatory disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C1384600,ASSOCIATED_WITH,"Immunity, Innate",Systemic onset juvenile chronic arthritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C1854469,ASSOCIATED_WITH,"Immunity, Innate",Noonan Syndrome 2,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C3662483,ASSOCIATED_WITH,"Immunity, Innate",Allergic sensitization,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C3669463,ASSOCIATED_WITH,"Immunity, Innate",Feline immunodeficiency virus infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C3694279,ASSOCIATED_WITH,"Immunity, Innate",Middle East Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C3899656,ASSOCIATED_WITH,"Immunity, Innate",Pediatric Infectious Disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C4288963,ASSOCIATED_WITH,"Immunity, Innate",Hepatitis C Virus Infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0020969,C4529962,ASSOCIATED_WITH,"Immunity, Innate",Fatty Liver Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0021575,C0024530,ASSOCIATED_WITH,Insecticide Resistance,Malaria,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0028719,C0162429,ASSOCIATED_WITH,Nutritional Requirements,Malnutrition,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0030834,C0038395,ASSOCIATED_WITH,Penicillin Resistance,Streptococcal Infections,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0030834,C3495919,ASSOCIATED_WITH,Penicillin Resistance,Enthesitis-Related Arthritis,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0031911,C0023895,ASSOCIATED_WITH,Pigmentation,Liver diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0031911,C0033770,ASSOCIATED_WITH,Pigmentation,Prune Belly Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0031911,C0038160,ASSOCIATED_WITH,Pigmentation,Staphylococcal Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0031911,C0876973,ASSOCIATED_WITH,Pigmentation,Infectious disease of lung,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0031911,C3899988,ASSOCIATED_WITH,Pigmentation,Autosomal Recessive Disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0007222,ASSOCIATED_WITH,Sex Characteristics,Cardiovascular Diseases,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0009450,ASSOCIATED_WITH,Sex Characteristics,Communicable Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0018081,ASSOCIATED_WITH,Sex Characteristics,Gonorrhea,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0020538,ASSOCIATED_WITH,Sex Characteristics,Hypertensive disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0026769,ASSOCIATED_WITH,Sex Characteristics,Multiple Sclerosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0032231,ASSOCIATED_WITH,Sex Characteristics,Pleurisy,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0038454,ASSOCIATED_WITH,Sex Characteristics,Cerebrovascular accident,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0275524,ASSOCIATED_WITH,Sex Characteristics,Coinfection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0872315,ASSOCIATED_WITH,Sex Characteristics,"Communicable Diseases, Emerging",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C0948343,ASSOCIATED_WITH,Sex Characteristics,Transfusion-Related Acute Lung Injury,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C1175175,ASSOCIATED_WITH,Sex Characteristics,Severe Acute Respiratory Syndrome,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0036866,C1290885,ASSOCIATED_WITH,Sex Characteristics,Acute inflammatory disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0004096,ASSOCIATED_WITH,Gender,Asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0009450,ASSOCIATED_WITH,Gender,Communicable Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0010823,ASSOCIATED_WITH,Gender,Cytomegalovirus Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0011847,ASSOCIATED_WITH,Gender,Diabetes,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0011849,ASSOCIATED_WITH,Gender,Diabetes Mellitus,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0016627,ASSOCIATED_WITH,Gender,Influenza in Birds,orga,dsyn,5,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0020538,ASSOCIATED_WITH,Gender,Hypertensive disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0021400,ASSOCIATED_WITH,Gender,Influenza,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0022658,ASSOCIATED_WITH,Gender,Kidney Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0028754,ASSOCIATED_WITH,Gender,Obesity,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0035243,ASSOCIATED_WITH,Gender,Respiratory Tract Infections,orga,dsyn,4,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0042769,ASSOCIATED_WITH,Gender,Virus Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0149725,ASSOCIATED_WITH,Gender,Lower respiratory tract infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0275524,ASSOCIATED_WITH,Gender,Coinfection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0948343,ASSOCIATED_WITH,Gender,Transfusion-Related Acute Lung Injury,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C0949690,ASSOCIATED_WITH,Gender,Spondylarthritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079399,C1290884,ASSOCIATED_WITH,Gender,Inflammatory disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079830,C0004610,ASSOCIATED_WITH,Methicillin Resistance,Bacteremia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0079830,C0205721,ASSOCIATED_WITH,Methicillin Resistance,"Infections, Hospital",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0001175,ASSOCIATED_WITH,Ability,Acquired Immunodeficiency Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0002395,ASSOCIATED_WITH,Ability,Alzheimer's Disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0002792,ASSOCIATED_WITH,Ability,anaphylaxis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0003950,ASSOCIATED_WITH,Ability,Ascariasis,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0004096,ASSOCIATED_WITH,Ability,Asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0004364,ASSOCIATED_WITH,Ability,Autoimmune Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0004626,ASSOCIATED_WITH,Ability,"Pneumonia, Bacterial",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0006267,ASSOCIATED_WITH,Ability,Bronchiectasis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0006271,ASSOCIATED_WITH,Ability,Bronchiolitis,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0009450,ASSOCIATED_WITH,Ability,Communicable Diseases,orga,dsyn,9,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0009663,ASSOCIATED_WITH,Ability,Condylomata Acuminata,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0010709,ASSOCIATED_WITH,Ability,Cyst,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0011303,ASSOCIATED_WITH,Ability,Demyelinating Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0011847,ASSOCIATED_WITH,Ability,Diabetes,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0014038,ASSOCIATED_WITH,Ability,Encephalitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0014175,ASSOCIATED_WITH,Ability,Endometriosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0014335,ASSOCIATED_WITH,Ability,Enteritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0014378,ASSOCIATED_WITH,Ability,Enterovirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0015469,ASSOCIATED_WITH,Ability,Facial paralysis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0019101,ASSOCIATED_WITH,Ability,Hemorrhagic Fever with Renal Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0019243,ASSOCIATED_WITH,Ability,"Angioedemas, Hereditary",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0019348,ASSOCIATED_WITH,Ability,Herpes Simplex Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0019693,ASSOCIATED_WITH,Ability,HIV Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0020179,ASSOCIATED_WITH,Ability,Huntington Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0021400,ASSOCIATED_WITH,Ability,Influenza,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0023355,ASSOCIATED_WITH,Ability,Leptomeningitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0024115,ASSOCIATED_WITH,Ability,Lung diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0024117,ASSOCIATED_WITH,Ability,Chronic Obstructive Airway Disease,orga,dsyn,4,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0024141,ASSOCIATED_WITH,Ability,"Lupus Erythematosus, Systemic",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0027059,ASSOCIATED_WITH,Ability,Myocarditis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0027765,ASSOCIATED_WITH,Ability,nervous system disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0028326,ASSOCIATED_WITH,Ability,Noonan Syndrome,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0029408,ASSOCIATED_WITH,Ability,Degenerative polyarthritis,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0029453,ASSOCIATED_WITH,Ability,Osteopenia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0029882,ASSOCIATED_WITH,Ability,Otitis Media,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0032002,ASSOCIATED_WITH,Ability,Pituitary Diseases,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0032269,ASSOCIATED_WITH,Ability,Pneumococcal Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0032285,ASSOCIATED_WITH,Ability,Pneumonia,orga,dsyn,4,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0032371,ASSOCIATED_WITH,Ability,Poliomyelitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0033036,ASSOCIATED_WITH,Ability,Atrial Premature Complexes,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0033860,ASSOCIATED_WITH,Ability,Psoriasis,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0034069,ASSOCIATED_WITH,Ability,Pulmonary Fibrosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0035222,ASSOCIATED_WITH,Ability,"Respiratory Distress Syndrome, Adult",orga,dsyn,7,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0035235,ASSOCIATED_WITH,Ability,Respiratory Syncytial Virus Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0035400,ASSOCIATED_WITH,Ability,Reye Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0036202,ASSOCIATED_WITH,Ability,Sarcoidosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0036690,ASSOCIATED_WITH,Ability,Septicemia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0038522,ASSOCIATED_WITH,Ability,Subacute Sclerosing Panencephalitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0041318,ASSOCIATED_WITH,Ability,"Tuberculosis, Meningeal",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0042769,ASSOCIATED_WITH,Ability,Virus Diseases,orga,dsyn,7,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0043124,ASSOCIATED_WITH,Ability,West Nile Fever,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0043528,ASSOCIATED_WITH,Ability,Zoonoses,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0149725,ASSOCIATED_WITH,Ability,Lower respiratory tract infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0151317,ASSOCIATED_WITH,Ability,Chronic infectious disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0162309,ASSOCIATED_WITH,Ability,Adrenoleukodystrophy,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0205671,ASSOCIATED_WITH,Ability,"Infections, Arenavirus",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0205721,ASSOCIATED_WITH,Ability,"Infections, Hospital",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0206750,ASSOCIATED_WITH,Ability,Coronavirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0238644,ASSOCIATED_WITH,Ability,"Anemia, severe",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0242723,ASSOCIATED_WITH,Ability,Parasitemia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0265514,ASSOCIATED_WITH,Ability,Dermatofibrosis lenticularis disseminata,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0268696,ASSOCIATED_WITH,Ability,Feline urological syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0270724,ASSOCIATED_WITH,Ability,Infantile Neuroaxonal Dystrophy,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0275518,ASSOCIATED_WITH,Ability,Acute infectious disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0276289,ASSOCIATED_WITH,Ability,Zika Virus Infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0276500,ASSOCIATED_WITH,Ability,Human immunodeficiency virus I infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0277548,ASSOCIATED_WITH,Ability,Epidemic disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0339916,ASSOCIATED_WITH,Ability,Viral upper respiratory tract infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0342895,ASSOCIATED_WITH,Ability,Fish-Eye Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0376356,ASSOCIATED_WITH,Ability,Premenstrual Tension,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0398623,ASSOCIATED_WITH,Ability,Thrombophilia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0442893,ASSOCIATED_WITH,Ability,Systemic disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0497169,ASSOCIATED_WITH,Ability,hiv-infection/aids,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0582415,ASSOCIATED_WITH,Ability,Acute asthma,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0600260,ASSOCIATED_WITH,Ability,"Lung Diseases, Obstructive",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0742468,ASSOCIATED_WITH,Ability,cns lesion,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0748168,ASSOCIATED_WITH,Ability,Pulmonary Pathology,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0849867,ASSOCIATED_WITH,Ability,Widespread Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0872315,ASSOCIATED_WITH,Ability,"Communicable Diseases, Emerging",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0876973,ASSOCIATED_WITH,Ability,Infectious disease of lung,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C0948368,ASSOCIATED_WITH,Ability,Kaufman-McKusick syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1175175,ASSOCIATED_WITH,Ability,Severe Acute Respiratory Syndrome,orga,dsyn,5,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1290807,ASSOCIATED_WITH,Ability,Diarrheal disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1290884,ASSOCIATED_WITH,Ability,Inflammatory disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1290886,ASSOCIATED_WITH,Ability,Chronic inflammatory disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1623038,ASSOCIATED_WITH,Ability,Cirrhosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1632842,ASSOCIATED_WITH,Ability,Complicated appendicitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C1833296,ASSOCIATED_WITH,Ability,"FRONTOTEMPORAL DEMENTIA, CHROMOSOME 3-LINKED",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C2931826,ASSOCIATED_WITH,Ability,Potassium aggravated myotonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C3495919,ASSOCIATED_WITH,Ability,Enthesitis-Related Arthritis,orga,dsyn,6,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C3662483,ASSOCIATED_WITH,Ability,Allergic sensitization,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C3694279,ASSOCIATED_WITH,Ability,Middle East Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C3825858,ASSOCIATED_WITH,Ability,Pediatric respiratory diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0085732,C3888198,ASSOCIATED_WITH,Ability,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0001175,ASSOCIATED_WITH,Females,Acquired Immunodeficiency Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0005424,ASSOCIATED_WITH,Females,Biliary Tract Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0014038,ASSOCIATED_WITH,Females,Encephalitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0018081,ASSOCIATED_WITH,Females,Gonorrhea,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0023530,ASSOCIATED_WITH,Females,Leukopenia,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0026780,ASSOCIATED_WITH,Females,Mumps,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0238067,ASSOCIATED_WITH,Females,"Colitis, Collagenous",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0239981,ASSOCIATED_WITH,Females,Hypoalbuminemia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0275524,ASSOCIATED_WITH,Females,Coinfection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C0339985,ASSOCIATED_WITH,Females,Idiopathic bronchiectasis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086287,C4288963,ASSOCIATED_WITH,Females,Hepatitis C Virus Infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0001486,ASSOCIATED_WITH,Males,Adenovirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0006267,ASSOCIATED_WITH,Males,Bronchiectasis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0006271,ASSOCIATED_WITH,Males,Bronchiolitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0008679,ASSOCIATED_WITH,Males,Chronic disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0009421,ASSOCIATED_WITH,Males,Comatose,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0010054,ASSOCIATED_WITH,Males,Coronary Arteriosclerosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0014059,ASSOCIATED_WITH,Males,"Encephalomyelitis, Acute Disseminated",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0014457,ASSOCIATED_WITH,Males,Eosinophilia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0018081,ASSOCIATED_WITH,Males,Gonorrhea,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0018801,ASSOCIATED_WITH,Males,Heart failure,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0019693,ASSOCIATED_WITH,Males,HIV Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0020538,ASSOCIATED_WITH,Males,Hypertensive disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0022660,ASSOCIATED_WITH,Males,"Kidney Failure, Acute",orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0023895,ASSOCIATED_WITH,Males,Liver diseases,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0024117,ASSOCIATED_WITH,Males,Chronic Obstructive Airway Disease,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0026936,ASSOCIATED_WITH,Males,Mycoplasma Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0032285,ASSOCIATED_WITH,Males,Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0032300,ASSOCIATED_WITH,Males,Lobar Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0032897,ASSOCIATED_WITH,Males,Prader-Willi Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0034063,ASSOCIATED_WITH,Males,Pulmonary Edema,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0034065,ASSOCIATED_WITH,Males,Pulmonary Embolism,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0152032,ASSOCIATED_WITH,Males,Urinary hesitation,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0152517,ASSOCIATED_WITH,Males,Enteritis due to specified virus,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0156290,ASSOCIATED_WITH,Males,Abscess of prostate,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0263214,ASSOCIATED_WITH,Males,Pyotraumatic dermatitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0856169,ASSOCIATED_WITH,Males,endothelial dysfunction,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0865791,ASSOCIATED_WITH,Males,obstructive bronchitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0948343,ASSOCIATED_WITH,Males,Transfusion-Related Acute Lung Injury,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C0949083,ASSOCIATED_WITH,Males,Hospital acquired pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C1175175,ASSOCIATED_WITH,Males,Severe Acute Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C1561643,ASSOCIATED_WITH,Males,Chronic Kidney Diseases,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C2750737,ASSOCIATED_WITH,Males,"DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C3669463,ASSOCIATED_WITH,Males,Feline immunodeficiency virus infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0086582,C3694279,ASSOCIATED_WITH,Males,Middle East Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150904,C0009763,ASSOCIATED_WITH,patient is male,Conjunctivitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150904,C0024117,ASSOCIATED_WITH,patient is male,Chronic Obstructive Airway Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150904,C0024291,ASSOCIATED_WITH,patient is male,"Lymphohistiocytosis, Hemophagocytic",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150904,C0041976,ASSOCIATED_WITH,patient is male,Urethritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150905,C0021167,ASSOCIATED_WITH,patient is female,Incontinence,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150905,C0029456,ASSOCIATED_WITH,patient is female,Osteoporosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0150905,C1175175,ASSOCIATED_WITH,patient is female,Severe Acute Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0162657,C0679225,ASSOCIATED_WITH,Cell Shape,multiple pathologies,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0001175,ASSOCIATED_WITH,Predisposition -- attribute,Acquired Immunodeficiency Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0003864,ASSOCIATED_WITH,Predisposition -- attribute,Arthritis,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0004096,ASSOCIATED_WITH,Predisposition -- attribute,Asthma,orga,dsyn,9,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0004364,ASSOCIATED_WITH,Predisposition -- attribute,Autoimmune Diseases,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0006277,ASSOCIATED_WITH,Predisposition -- attribute,Bronchitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0009319,ASSOCIATED_WITH,Predisposition -- attribute,Colitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0009450,ASSOCIATED_WITH,Predisposition -- attribute,Communicable Diseases,orga,dsyn,6,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0011615,ASSOCIATED_WITH,Predisposition -- attribute,"Dermatitis, Atopic",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0011847,ASSOCIATED_WITH,Predisposition -- attribute,Diabetes,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0014070,ASSOCIATED_WITH,Predisposition -- attribute,Encephalomyelitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0014378,ASSOCIATED_WITH,Predisposition -- attribute,Enterovirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0014534,ASSOCIATED_WITH,Predisposition -- attribute,Epididymitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0018081,ASSOCIATED_WITH,Predisposition -- attribute,Gonorrhea,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0019100,ASSOCIATED_WITH,Predisposition -- attribute,Severe Dengue,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0019196,ASSOCIATED_WITH,Predisposition -- attribute,Hepatitis C,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0019693,ASSOCIATED_WITH,Predisposition -- attribute,HIV Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0021051,ASSOCIATED_WITH,Predisposition -- attribute,Immunologic Deficiency Syndromes,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0021400,ASSOCIATED_WITH,Predisposition -- attribute,Influenza,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0021831,ASSOCIATED_WITH,Predisposition -- attribute,Intestinal Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0023290,ASSOCIATED_WITH,Predisposition -- attribute,"Leishmaniasis, Visceral",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0024117,ASSOCIATED_WITH,Predisposition -- attribute,Chronic Obstructive Airway Disease,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0024440,ASSOCIATED_WITH,Predisposition -- attribute,"Macular Edema, Cystoid",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0024530,ASSOCIATED_WITH,Predisposition -- attribute,Malaria,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0024894,ASSOCIATED_WITH,Predisposition -- attribute,Mastitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0026769,ASSOCIATED_WITH,Predisposition -- attribute,Multiple Sclerosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0026780,ASSOCIATED_WITH,Predisposition -- attribute,Mumps,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0028754,ASSOCIATED_WITH,Predisposition -- attribute,Obesity,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0032285,ASSOCIATED_WITH,Predisposition -- attribute,Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0032300,ASSOCIATED_WITH,Predisposition -- attribute,Lobar Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0032965,ASSOCIATED_WITH,Predisposition -- attribute,"Pregnancy Complications, Infectious",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0035222,ASSOCIATED_WITH,Predisposition -- attribute,"Respiratory Distress Syndrome, Adult",orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0035235,ASSOCIATED_WITH,Predisposition -- attribute,Respiratory Syncytial Virus Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0035243,ASSOCIATED_WITH,Predisposition -- attribute,Respiratory Tract Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0035309,ASSOCIATED_WITH,Predisposition -- attribute,Retinal Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0036690,ASSOCIATED_WITH,Predisposition -- attribute,Septicemia,orga,dsyn,4,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0039128,ASSOCIATED_WITH,Predisposition -- attribute,Syphilis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0041296,ASSOCIATED_WITH,Predisposition -- attribute,Tuberculosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0041912,ASSOCIATED_WITH,Predisposition -- attribute,Upper Respiratory Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0042749,ASSOCIATED_WITH,Predisposition -- attribute,Viremia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0042769,ASSOCIATED_WITH,Predisposition -- attribute,Virus Diseases,orga,dsyn,6,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0043124,ASSOCIATED_WITH,Predisposition -- attribute,West Nile Fever,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0085306,ASSOCIATED_WITH,Predisposition -- attribute,Feline infectious peritonitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0149678,ASSOCIATED_WITH,Predisposition -- attribute,Epstein-Barr Virus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0151317,ASSOCIATED_WITH,Predisposition -- attribute,Chronic infectious disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0155502,ASSOCIATED_WITH,Predisposition -- attribute,Benign Paroxysmal Positional Vertigo,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0155877,ASSOCIATED_WITH,Predisposition -- attribute,Allergic asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0162429,ASSOCIATED_WITH,Predisposition -- attribute,Malnutrition,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0175694,ASSOCIATED_WITH,Predisposition -- attribute,Smith-Lemli-Opitz Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0205721,ASSOCIATED_WITH,Predisposition -- attribute,"Infections, Hospital",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0206744,ASSOCIATED_WITH,Predisposition -- attribute,"T-Lymphocytopenia, Idiopathic CD4-Positive",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0206750,ASSOCIATED_WITH,Predisposition -- attribute,Coronavirus Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0239946,ASSOCIATED_WITH,Predisposition -- attribute,"Fibrosis, Liver",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0242966,ASSOCIATED_WITH,Predisposition -- attribute,Systemic Inflammatory Response Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0264220,ASSOCIATED_WITH,Predisposition -- attribute,Chronic disease of respiratory system,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0267797,ASSOCIATED_WITH,Predisposition -- attribute,Acute hepatitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0277565,ASSOCIATED_WITH,Predisposition -- attribute,Local disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0282687,ASSOCIATED_WITH,Predisposition -- attribute,"Hemorrhagic Fever, Ebola",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0343641,ASSOCIATED_WITH,Predisposition -- attribute,Human papilloma virus infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0398595,ASSOCIATED_WITH,Predisposition -- attribute,Myeloperoxidase Deficiency,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0398686,ASSOCIATED_WITH,Predisposition -- attribute,Primary immune deficiency disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C0600327,ASSOCIATED_WITH,Predisposition -- attribute,Toxic Shock Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C1175175,ASSOCIATED_WITH,Predisposition -- attribute,Severe Acute Respiratory Syndrome,orga,dsyn,4,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C1290886,ASSOCIATED_WITH,Predisposition -- attribute,Chronic inflammatory disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C1443953,ASSOCIATED_WITH,Predisposition -- attribute,Acute viral disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C1719672,ASSOCIATED_WITH,Predisposition -- attribute,Severe Sepsis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C2936328,ASSOCIATED_WITH,Predisposition -- attribute,Neglected Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0220898,C3280586,ASSOCIATED_WITH,Predisposition -- attribute,Mannose-Binding Protein Deficiency,orga,dsyn,6,ASSOCIATED_WITH_ORGAaswtDSYN
+C0231277,C0948268,ASSOCIATED_WITH,Poikilothermic,Hemodynamic instability,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0233426,C0277548,ASSOCIATED_WITH,Personal appearance,Epidemic disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242640,C0025289,ASSOCIATED_WITH,Multi-Drug Resistance,Meningitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242640,C0275524,ASSOCIATED_WITH,Multi-Drug Resistance,Coinfection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242640,C0858321,ASSOCIATED_WITH,Multi-Drug Resistance,Plasmodium vivax infection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242640,C3837051,ASSOCIATED_WITH,Multi-Drug Resistance,invasive Pneumococcal Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242960,C0008312,ASSOCIATED_WITH,Genetic Heterogeneity,Primary biliary cirrhosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242960,C0151317,ASSOCIATED_WITH,Genetic Heterogeneity,Chronic infectious disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0242960,C0162566,ASSOCIATED_WITH,Genetic Heterogeneity,Porphyria Cutanea Tarda,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0002726,ASSOCIATED_WITH,Genetic Predisposition to Disease,Amyloidosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0004096,ASSOCIATED_WITH,Genetic Predisposition to Disease,Asthma,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0006852,ASSOCIATED_WITH,Genetic Predisposition to Disease,Candidiasis of vagina,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0007222,ASSOCIATED_WITH,Genetic Predisposition to Disease,Cardiovascular Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0009443,ASSOCIATED_WITH,Genetic Predisposition to Disease,Common Cold,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0010278,ASSOCIATED_WITH,Genetic Predisposition to Disease,Craniosynostosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0024117,ASSOCIATED_WITH,Genetic Predisposition to Disease,Chronic Obstructive Airway Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0024895,ASSOCIATED_WITH,Genetic Predisposition to Disease,"Mastitis, Bovine",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0035204,ASSOCIATED_WITH,Genetic Predisposition to Disease,Respiration Disorders,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0035243,ASSOCIATED_WITH,Genetic Predisposition to Disease,Respiratory Tract Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0036690,ASSOCIATED_WITH,Genetic Predisposition to Disease,Septicemia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0042384,ASSOCIATED_WITH,Genetic Predisposition to Disease,Vasculitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0042769,ASSOCIATED_WITH,Genetic Predisposition to Disease,Virus Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0085306,ASSOCIATED_WITH,Genetic Predisposition to Disease,Feline infectious peritonitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0085580,ASSOCIATED_WITH,Genetic Predisposition to Disease,Essential Hypertension,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0155877,ASSOCIATED_WITH,Genetic Predisposition to Disease,Allergic asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C0524851,ASSOCIATED_WITH,Genetic Predisposition to Disease,Neurodegenerative Disorders,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C1175175,ASSOCIATED_WITH,Genetic Predisposition to Disease,Severe Acute Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0314657,C2350236,ASSOCIATED_WITH,Genetic Predisposition to Disease,Idiopathic Interstitial Pneumonias,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0483415,C0006267,ASSOCIATED_WITH,Oxygen saturation test result,Bronchiectasis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0489767,C0028734,ASSOCIATED_WITH,salt intake,Nocturia,orga,dsyn,7,ASSOCIATED_WITH_ORGAaswtDSYN
+C0489786,C0008354,ASSOCIATED_WITH,Height,Cholera,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0489786,C0019243,ASSOCIATED_WITH,Height,"Angioedemas, Hereditary",orga,dsyn,5,ASSOCIATED_WITH_ORGAaswtDSYN
+C0489786,C0024117,ASSOCIATED_WITH,Height,Chronic Obstructive Airway Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0489786,C1096155,ASSOCIATED_WITH,Height,Macrophage Activation Syndrome,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0557155,C0004096,ASSOCIATED_WITH,Life event observable,Asthma,orga,dsyn,3,ASSOCIATED_WITH_ORGAaswtDSYN
+C0557155,C0009443,ASSOCIATED_WITH,Life event observable,Common Cold,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0557155,C0679225,ASSOCIATED_WITH,Life event observable,multiple pathologies,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597140,C0003873,ASSOCIATED_WITH,oral tolerance,Rheumatoid Arthritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597140,C0004364,ASSOCIATED_WITH,oral tolerance,Autoimmune Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597650,C0004096,ASSOCIATED_WITH,virus characteristic,Asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597650,C0021400,ASSOCIATED_WITH,virus characteristic,Influenza,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597650,C0042769,ASSOCIATED_WITH,virus characteristic,Virus Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597653,C0007682,ASSOCIATED_WITH,virus infection mechanism,CNS disorder,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597653,C0016627,ASSOCIATED_WITH,virus infection mechanism,Influenza in Birds,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597653,C0022658,ASSOCIATED_WITH,virus infection mechanism,Kidney Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0597653,C0042769,ASSOCIATED_WITH,virus infection mechanism,Virus Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0678922,C0004364,ASSOCIATED_WITH,genetic trait,Autoimmune Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0678922,C0011633,ASSOCIATED_WITH,genetic trait,Dermatomyositis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0678922,C0085655,ASSOCIATED_WITH,genetic trait,Polymyositis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0686794,C0004364,ASSOCIATED_WITH,Abnormal host response,Autoimmune Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0686794,C0021390,ASSOCIATED_WITH,Abnormal host response,Inflammatory Bowel Diseases,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0686794,C0035439,ASSOCIATED_WITH,Abnormal host response,Rheumatic Heart Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0752078,C0004610,ASSOCIATED_WITH,Vancomycin Resistance,Bacteremia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0871976,C0376524,ASSOCIATED_WITH,facial features,Branchio-Oculo-Facial Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C0009450,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial",Communicable Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C0010278,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial",Craniosynostosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C0010340,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial",Critical Illness,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C0032285,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial",Pneumonia,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C0033817,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial",Pseudomonas Infections,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C0205721,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial","Infections, Hospital",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949285,C4085595,ASSOCIATED_WITH,"Antibiotic Resistance, Microbial",AL-RAQAD SYNDROME,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949668,C0206171,ASSOCIATED_WITH,"Drug Resistance, Bacterial",Community-Acquired Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949670,C0019348,ASSOCIATED_WITH,"Drug Resistance, Viral",Herpes Simplex Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949670,C0032285,ASSOCIATED_WITH,"Drug Resistance, Viral",Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949670,C0035222,ASSOCIATED_WITH,"Drug Resistance, Viral","Respiratory Distress Syndrome, Adult",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949670,C1264606,ASSOCIATED_WITH,"Drug Resistance, Viral",Persistent infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C0949686,C0740272,ASSOCIATED_WITH,"Drug Resistance, Fungal",Cryptococcus infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0004623,ASSOCIATED_WITH,Pathogenicity,Bacterial Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0007453,ASSOCIATED_WITH,Pathogenicity,Cattle Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0010340,ASSOCIATED_WITH,Pathogenicity,Critical Illness,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0013369,ASSOCIATED_WITH,Pathogenicity,Dysentery,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0014371,ASSOCIATED_WITH,Pathogenicity,Enterotoxemia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0016627,ASSOCIATED_WITH,Pathogenicity,Influenza in Birds,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0019061,ASSOCIATED_WITH,Pathogenicity,Hemolytic-Uremic Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0021400,ASSOCIATED_WITH,Pathogenicity,Influenza,orga,dsyn,4,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0023521,ASSOCIATED_WITH,Pathogenicity,Globoid cell leukodystrophy,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0027697,ASSOCIATED_WITH,Pathogenicity,Nephritis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0028326,ASSOCIATED_WITH,Pathogenicity,Noonan Syndrome,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0032285,ASSOCIATED_WITH,Pathogenicity,Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0035204,ASSOCIATED_WITH,Pathogenicity,Respiration Disorders,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0042769,ASSOCIATED_WITH,Pathogenicity,Virus Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0238421,ASSOCIATED_WITH,Pathogenicity,Selenium deficiency,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0242634,ASSOCIATED_WITH,Pathogenicity,Primate Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0243026,ASSOCIATED_WITH,Pathogenicity,Sepsis,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0275524,ASSOCIATED_WITH,Pathogenicity,Coinfection,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0276180,ASSOCIATED_WITH,Pathogenicity,Monkeypox,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0276472,ASSOCIATED_WITH,Pathogenicity,Avian infectious bronchitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0376550,ASSOCIATED_WITH,Pathogenicity,Astroviridae Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0442886,ASSOCIATED_WITH,Pathogenicity,Secondary Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0847092,ASSOCIATED_WITH,Pathogenicity,blood autoimmune disorders,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C0876973,ASSOCIATED_WITH,Pathogenicity,Infectious disease of lung,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C1175175,ASSOCIATED_WITH,Pathogenicity,Severe Acute Respiratory Syndrome,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C1535917,ASSOCIATED_WITH,Pathogenicity,Nipah Virus Infection,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C1854469,ASSOCIATED_WITH,Pathogenicity,Noonan Syndrome 2,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C2062441,ASSOCIATED_WITH,Pathogenicity,Influenza A,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C3687182,ASSOCIATED_WITH,Pathogenicity,Proventriculitis,orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136169,C3694279,ASSOCIATED_WITH,Pathogenicity,Middle East Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136181,C0041296,ASSOCIATED_WITH,"Resistance, Natural",Tuberculosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1136181,C0042769,ASSOCIATED_WITH,"Resistance, Natural",Virus Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C1510828,C0271429,ASSOCIATED_WITH,Age-Months,Acute otitis media,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C3661526,C3809991,ASSOCIATED_WITH,Genogroup,"IMMUNODEFICIENCY, COMMON VARIABLE, 10",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C3687582,C0007453,ASSOCIATED_WITH,Produces milk for human food,Cattle Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C3687582,C0035204,ASSOCIATED_WITH,Produces milk for human food,Respiration Disorders,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4042916,C0008312,ASSOCIATED_WITH,Genetic Background,Primary biliary cirrhosis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4042916,C0009450,ASSOCIATED_WITH,Genetic Background,Communicable Diseases,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4042916,C0024291,ASSOCIATED_WITH,Genetic Background,"Lymphohistiocytosis, Hemophagocytic",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4042916,C0024530,ASSOCIATED_WITH,Genetic Background,Malaria,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4042916,C0275522,ASSOCIATED_WITH,Genetic Background,Asymptomatic Infections,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4042916,C0393639,ASSOCIATED_WITH,Genetic Background,Hashimoto's encephalitis,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4086242,C0004096,ASSOCIATED_WITH,Disease Phenotype,Asthma,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4086242,C0023348,ASSOCIATED_WITH,Disease Phenotype,"Leprosy, Lepromatous",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4086242,C0024117,ASSOCIATED_WITH,Disease Phenotype,Chronic Obstructive Airway Disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4505323,C0032285,ASSOCIATED_WITH,Clinical Deterioration,Pneumonia,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4505323,C0032310,ASSOCIATED_WITH,Clinical Deterioration,"Pneumonia, Viral",orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4505323,C0035222,ASSOCIATED_WITH,Clinical Deterioration,"Respiratory Distress Syndrome, Adult",orga,dsyn,2,ASSOCIATED_WITH_ORGAaswtDSYN
+C4505323,C0151317,ASSOCIATED_WITH,Clinical Deterioration,Chronic infectious disease,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4505323,C1175175,ASSOCIATED_WITH,Clinical Deterioration,Severe Acute Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN
+C4505323,C3694279,ASSOCIATED_WITH,Clinical Deterioration,Middle East Respiratory Syndrome,orga,dsyn,1,ASSOCIATED_WITH_ORGAaswtDSYN

@@ -1,0 +1,156 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008952,C0010200,TREATS,Clinic Visits,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0010200,TREATS,Consultation,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0011991,TREATS,Consultation,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0015967,TREATS,Consultation,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0019079,TREATS,Consultation,Hemoptysis,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0231218,TREATS,Consultation,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0239375,TREATS,Consultation,Numbness of limbs,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0392171,TREATS,Consultation,Influenza-like symptoms,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0009818,C0749874,TREATS,Consultation,upper respiratory symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C3714552,TREATS,Consultation,Weakness,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0010210,C0015967,TREATS,Counseling,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0013961,C0043144,TREATS,Emergency medical service,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0013961,C0085631,TREATS,Emergency medical service,Agitation,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0015187,C0030193,TREATS,Euthanasia,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0018738,C0011991,TREATS,Health Promotion,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0018795,C0019079,TREATS,Cardiac Catheterization Procedures,Hemoptysis,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0019948,C0030193,TREATS,Hospital Administration,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019948,C0037090,TREATS,Hospital Administration,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019948,C0184567,TREATS,Hospital Administration,Acute onset pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0011991,TREATS,Hospitalization,Diarrhea,hlca,sosy,4,TREATS_HLCAtrtsSOSY
+C0019993,C0015967,TREATS,Hospitalization,Fever,hlca,sosy,7,TREATS_HLCAtrtsSOSY
+C0019993,C0037090,TREATS,Hospitalization,"Signs and Symptoms, Respiratory",hlca,sosy,6,TREATS_HLCAtrtsSOSY
+C0019993,C0043144,TREATS,Hospitalization,Wheezing,hlca,sosy,14,TREATS_HLCAtrtsSOSY
+C0019993,C0231218,TREATS,Hospitalization,Malaise,hlca,sosy,4,TREATS_HLCAtrtsSOSY
+C0019993,C0231875,TREATS,Hospitalization,Expiratory wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0235299,TREATS,Hospitalization,Right upper quadrant pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0392171,TREATS,Hospitalization,Influenza-like symptoms,hlca,sosy,5,TREATS_HLCAtrtsSOSY
+C0019993,C1443924,TREATS,Hospitalization,Severe diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0020043,C0392171,TREATS,Home visit (procedure),Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0023977,C0037090,TREATS,long-term care,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0023977,C0043144,TREATS,long-term care,Wheezing,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0024870,C0015967,TREATS,Mass Screening,Fever,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0025355,C0037088,TREATS,Mental Health Services,Signs and Symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0025355,C0233401,TREATS,Mental Health Services,Psychiatric symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0027462,C0231218,TREATS,"Health Services, National",Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0030685,C0036572,TREATS,Patient Discharge,Seizures,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0030685,C0037090,TREATS,Patient Discharge,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0030695,C0018681,TREATS,Patient Monitoring,Headache,hlca,sosy,6,TREATS_HLCAtrtsSOSY
+C0030695,C0023380,TREATS,Patient Monitoring,Lethargy,hlca,sosy,6,TREATS_HLCAtrtsSOSY
+C0030695,C0030193,TREATS,Patient Monitoring,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0030695,C0036572,TREATS,Patient Monitoring,Seizures,hlca,sosy,7,TREATS_HLCAtrtsSOSY
+C0031809,C0010200,TREATS,Physical Examination,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0011991,TREATS,Physical Examination,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0015967,TREATS,Physical Examination,Fever,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0031809,C0030193,TREATS,Physical Examination,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0043144,TREATS,Physical Examination,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0184567,TREATS,Physical Examination,Acute onset pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0231218,TREATS,Physical Examination,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0476273,TREATS,Physical Examination,Respiratory distress,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0031809,C0751378,TREATS,Physical Examination,Neurologic Signs,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0033080,C0015967,TREATS,Prescription procedure,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0033080,C0018681,TREATS,Prescription procedure,Headache,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0033137,C1333034,TREATS,Primary Health Care,Chronic Cancer Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0034927,C0011991,TREATS,Patient referral,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0034927,C0015967,TREATS,Patient referral,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0037943,C0015967,TREATS,Spinal Puncture,Fever,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0037943,C0023222,TREATS,Spinal Puncture,Pain in lower limb,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0037943,C0235031,TREATS,Spinal Puncture,Neurologic Symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0039422,C0026837,TREATS,Technology Assessment,Muscle Rigidity,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085093,C0011991,TREATS,"Medicine, African Traditional",Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085557,C0011991,TREATS,Infectious disease prevention / control,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085557,C0037090,TREATS,Infectious disease prevention / control,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085559,C0036572,TREATS,intensive care,Seizures,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085559,C0476273,TREATS,intensive care,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0086930,C0015967,TREATS,Risk Assessment,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0150270,C0036572,TREATS,Medication Management,Seizures,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0150270,C0043144,TREATS,Medication Management,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0150270,C0574785,TREATS,Medication Management,Lower Urinary Tract Symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0150600,C0015967,TREATS,Advice,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0010200,TREATS,Hospital admission,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0011991,TREATS,Hospital admission,Diarrhea,hlca,sosy,6,TREATS_HLCAtrtsSOSY
+C0184666,C0013404,TREATS,Hospital admission,Dyspnea,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0184666,C0015967,TREATS,Hospital admission,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0037090,TREATS,Hospital admission,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0043144,TREATS,Hospital admission,Wheezing,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0184666,C0231528,TREATS,Hospital admission,Myalgia,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0476273,TREATS,Hospital admission,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0189477,C0013404,TREATS,Thoracentesis,Dyspnea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0189477,C0037090,TREATS,Thoracentesis,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0189477,C0476273,TREATS,Thoracentesis,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0189477,C0521989,TREATS,Thoracentesis,Associated symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0204695,C0015967,TREATS,Feeding patient,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0204925,C0518214,TREATS,Allergy education,Perceived quality of life,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0206082,C0011991,TREATS,Immunization Programs,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0003578,TREATS,Evaluation,Apnea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0006625,TREATS,Evaluation,Cachexia,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0011991,TREATS,Evaluation,Diarrhea,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0220825,C0015967,TREATS,Evaluation,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0026837,TREATS,Evaluation,Muscle Rigidity,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0036572,TREATS,Evaluation,Seizures,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0220825,C0037088,TREATS,Evaluation,Signs and Symptoms,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0220825,C0037090,TREATS,Evaluation,"Signs and Symptoms, Respiratory",hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0220825,C0149746,TREATS,Evaluation,Orthostasis,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0231218,TREATS,Evaluation,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0264272,TREATS,Evaluation,Purulent rhinitis,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0349681,TREATS,Evaluation,Spontaneous nystagmus,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0476273,TREATS,Evaluation,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0574785,TREATS,Evaluation,Lower Urinary Tract Symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220825,C0600142,TREATS,Evaluation,Hot flushes,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220908,C0011991,TREATS,Screening procedure,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220908,C0015967,TREATS,Screening procedure,Fever,hlca,sosy,9,TREATS_HLCAtrtsSOSY
+C0220908,C0037090,TREATS,Screening procedure,"Signs and Symptoms, Respiratory",hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C0220908,C0231218,TREATS,Screening procedure,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220908,C3697716,TREATS,Screening procedure,Acute flaccid paralysis,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0242963,C0476273,TREATS,Perinatal Care,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0259945,C0231218,TREATS,hospital care,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0344351,C0011991,TREATS,Gluten-Free Diet,Diarrhea,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0436120,C0011991,TREATS,"Physical examination, complete",Diarrhea,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0545084,C0011991,TREATS,Outpatient visits,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0545084,C0392171,TREATS,Outpatient visits,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0558038,C1397014,TREATS,Participant observation,Imbalance,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0582103,C0015967,TREATS,Medical Examination,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0582103,C0476273,TREATS,Medical Examination,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0582103,C0741933,TREATS,Medical Examination,cardiac symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0587569,C0231218,TREATS,Physician service,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0589121,C3714552,TREATS,Follow-up visit,Weakness,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0600015,C0679309,TREATS,Emotional support,physical symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0683509,C0011991,TREATS,disease detection,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0700325,C0011991,TREATS,Patient observation,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0700325,C0015967,TREATS,Patient observation,Fever,hlca,sosy,4,TREATS_HLCAtrtsSOSY
+C0700325,C0037090,TREATS,Patient observation,"Signs and Symptoms, Respiratory",hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0700325,C0392171,TREATS,Patient observation,Influenza-like symptoms,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0805586,C0020175,TREATS,Challenge,Hunger,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0805586,C0037088,TREATS,Challenge,Signs and Symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0814500,C0231218,TREATS,elective care,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0850397,C0011992,TREATS,health information,Infantile Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0871311,C0015967,TREATS,screening tests,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0886414,C0015967,TREATS,Body temperature measurement,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0009193,TREATS,Evaluation procedure,Pain in the coccyx,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0010200,TREATS,Evaluation procedure,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0011991,TREATS,Evaluation procedure,Diarrhea,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C1261322,C0015967,TREATS,Evaluation procedure,Fever,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C1261322,C0026837,TREATS,Evaluation procedure,Muscle Rigidity,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0030193,TREATS,Evaluation procedure,Pain,hlca,sosy,3,TREATS_HLCAtrtsSOSY
+C1261322,C0038450,TREATS,Evaluation procedure,Stridor,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0231239,TREATS,Evaluation procedure,Fluctuation,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0392171,TREATS,Evaluation procedure,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0476273,TREATS,Evaluation procedure,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0600142,TREATS,Evaluation procedure,Hot flushes,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C1260880,TREATS,Evaluation procedure,Rhinorrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1272654,C0030193,TREATS,Wound care management,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1319069,C0231218,TREATS,Point-of-Care Testing,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1516879,C0015967,TREATS,Enrollment,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1516879,C0043144,TREATS,Enrollment,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1522577,C0030193,TREATS,follow-up,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1522577,C0043144,TREATS,follow-up,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C2239117,C0574785,TREATS,Prescription of drug (procedure),Lower Urinary Tract Symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C2350504,C0013604,TREATS,"Medicine, Korean Traditional",Edema,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C2718016,C0231218,TREATS,Compassionate Use,Malaise,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C3494437,C0015967,TREATS,Symptom Assessment,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C3889687,C0010201,TREATS,Clinical Observation,Chronic cough,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4036459,C0015967,TREATS,Contacts,Fever,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4036459,C0231218,TREATS,Contacts,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4042781,C0011991,TREATS,Black Box Warning,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4279933,C0392171,TREATS,Vaccination Campaign,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY

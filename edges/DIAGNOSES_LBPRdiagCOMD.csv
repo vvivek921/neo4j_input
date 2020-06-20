@@ -1,0 +1,76 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005863,C0008628,DIAGNOSES,Western Blotting,Chromosome Deletion,lbpr,comd,3,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0008625,DIAGNOSES,Cell Count,Chromosome Aberrations,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0010827,DIAGNOSES,Cell Count,"Cytopathogenic Effect, Viral",lbpr,comd,4,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0012860,DIAGNOSES,Cell Count,DNA Damage,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0025570,DIAGNOSES,Cell Count,Squamous metaplasia,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0242606,DIAGNOSES,Cell Count,Oxidative Stress,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0282632,DIAGNOSES,Cell Count,Antibody-Dependent Enhancement,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0333866,DIAGNOSES,Cell Count,Mild cytologic atypia,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0333909,DIAGNOSES,Cell Count,Binucleate cell,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0392769,DIAGNOSES,Cell Count,Patch formation,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0544910,DIAGNOSES,Cell Count,Nuclear accumulation,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0544951,DIAGNOSES,Cell Count,Cytoplasmic accumulation,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0596402,DIAGNOSES,Cell Count,cytotoxicity,lbpr,comd,13,DIAGNOSES_LBPRdiagCOMD
+C0007584,C0599732,DIAGNOSES,Cell Count,cell injury,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0007584,C1512032,DIAGNOSES,Cell Count,Dominant-Negative Mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0007584,C1515001,DIAGNOSES,Cell Count,Chromosomal structural abnormalities,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0009407,C1517604,DIAGNOSES,Colorimetry,Isodicentric Chromosome,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0013855,C0872150,DIAGNOSES,Electrophoresis,DNA Strand Break,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0014772,C0596402,DIAGNOSES,Red Blood Cell Count measurement,cytotoxicity,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0016263,C4476796,DIAGNOSES,Flow Cytometry,Increased reactive oxygen species production,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0020985,C0242606,DIAGNOSES,Immunoblotting,Oxidative Stress,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0021067,C0544951,DIAGNOSES,Immunoperoxidase Techniques,Cytoplasmic accumulation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0022885,C0010827,DIAGNOSES,Laboratory Procedures,"Cytopathogenic Effect, Viral",lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0022885,C0376628,DIAGNOSES,Laboratory Procedures,Chromosome Breakage,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0022885,C0596402,DIAGNOSES,Laboratory Procedures,cytotoxicity,lbpr,comd,3,DIAGNOSES_LBPRdiagCOMD
+C0022885,C0599732,DIAGNOSES,Laboratory Procedures,cell injury,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0023508,C3829471,DIAGNOSES,White Blood Cell Count procedure,JAK2 NP_004963.1:p.V617F,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0026018,C0596402,DIAGNOSES,Microscopy,cytotoxicity,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0026019,C0544972,DIAGNOSES,Electron Microscopy,Foot process fusion,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0032102,C0010827,DIAGNOSES,plaque assay,"Cytopathogenic Effect, Viral",lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0162801,C0162735,DIAGNOSES,Sequence Analysis,Point Mutation,lbpr,comd,3,DIAGNOSES_LBPRdiagCOMD
+C0162801,C0544885,DIAGNOSES,Sequence Analysis,Nonsense mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0162801,C1705285,DIAGNOSES,Sequence Analysis,Mutation Abnormality,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0162801,C1955829,DIAGNOSES,Sequence Analysis,Gene Insertion,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0200760,C0025568,DIAGNOSES,Morphometric analysis,Metaplasia,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0200760,C0333901,DIAGNOSES,Morphometric analysis,Dyskaryosis,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0200931,C0008628,DIAGNOSES,Polymerase chain reaction analysis,Chromosome Deletion,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0201622,C0596402,DIAGNOSES,Cytotoxicity assay,cytotoxicity,lbpr,comd,4,DIAGNOSES_LBPRdiagCOMD
+C0202113,C0599732,DIAGNOSES,Lactate dehydrogenase measurement,cell injury,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0337439,C0242606,DIAGNOSES,Iron measurement,Oxidative Stress,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0474643,C0010827,DIAGNOSES,Antibody titer measurement,"Cytopathogenic Effect, Viral",lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0599927,C0035268,DIAGNOSES,southern hybridization,Restriction fragment length polymorphism,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0678118,C0333901,DIAGNOSES,Transmission Electron Microscopy,Dyskaryosis,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0751970,C0162735,DIAGNOSES,"Sequence Analysis, Protein",Point Mutation,lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C0887905,C0162735,DIAGNOSES,Ligase Chain Reaction,Point Mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0919386,C0302113,DIAGNOSES,Pathology procedure,Fragility,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0947630,C0008628,DIAGNOSES,Scientific Study,Chromosome Deletion,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0947630,C0333708,DIAGNOSES,Scientific Study,Chromosome fragment,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0949466,C0596402,DIAGNOSES,Western Blot,cytotoxicity,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0949466,C1512032,DIAGNOSES,Western Blot,Dominant-Negative Mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C0949632,C0012860,DIAGNOSES,Electrophoretic Mobility Shift Assay,DNA Damage,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1096202,C0027746,DIAGNOSES,Lipoprotein (a) measurement,Nerve Degeneration,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1261150,C0010827,DIAGNOSES,Cytology examination,"Cytopathogenic Effect, Viral",lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1293950,C0085400,DIAGNOSES,Silver stain method,Neurofibrillary degeneration (morphologic abnormality),lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1294197,C0079380,DIAGNOSES,Nucleic acid sequencing,Frameshift Mutation function,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1441604,C0333873,DIAGNOSES,High sensitivity,Squamous intraepithelial lesion,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1441657,C0008625,DIAGNOSES,Mouse bioassay,Chromosome Aberrations,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1441657,C0598309,DIAGNOSES,Mouse bioassay,genotoxicity,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1449575,C1516516,DIAGNOSES,Microarray Analysis,Chromosomal Duplication,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1450269,C0596402,DIAGNOSES,Luminescent Measurements,cytotoxicity,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1510438,C0008625,DIAGNOSES,Assay,Chromosome Aberrations,lbpr,comd,3,DIAGNOSES_LBPRdiagCOMD
+C1510438,C0010827,DIAGNOSES,Assay,"Cytopathogenic Effect, Viral",lbpr,comd,2,DIAGNOSES_LBPRdiagCOMD
+C1510438,C0012860,DIAGNOSES,Assay,DNA Damage,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1510438,C0162735,DIAGNOSES,Assay,Point Mutation,lbpr,comd,4,DIAGNOSES_LBPRdiagCOMD
+C1510438,C0392769,DIAGNOSES,Assay,Patch formation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1510438,C0596402,DIAGNOSES,Assay,cytotoxicity,lbpr,comd,6,DIAGNOSES_LBPRdiagCOMD
+C1510438,C1512032,DIAGNOSES,Assay,Dominant-Negative Mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C1515951,C0008625,DIAGNOSES,Ames Assay,Chromosome Aberrations,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C2238079,C0085662,DIAGNOSES,Blood Smear,Macrocytosis,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C2347644,C0302113,DIAGNOSES,Positive Selection,Fragility,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C2700289,C0948447,DIAGNOSES,Yeast Cell Measurement,chromosomal mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C2986505,C1518576,DIAGNOSES,Genomic Profile,Oncogene Deregulation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C3146302,C0012860,DIAGNOSES,Mutagenesis Procedure,DNA Damage,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C3146302,C1515001,DIAGNOSES,Mutagenesis Procedure,Chromosomal structural abnormalities,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD
+C3811844,C1516197,DIAGNOSES,Estimated Glomerular Filtration Rate,Cancer Gene Mutation,lbpr,comd,1,DIAGNOSES_LBPRdiagCOMD

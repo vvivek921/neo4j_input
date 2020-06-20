@@ -1,0 +1,128 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007439,C0333355,CAUSES,Indwelling Catheter,Inflammatory disease of mucous membrane,medd,patf,1,CAUSES_MEDDcausPATF
+C0007439,C3714514,CAUSES,Indwelling Catheter,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0008034,C0021308,CAUSES,Chest Tubes,Infarction,medd,patf,1,CAUSES_MEDDcausPATF
+C0011377,C0020517,CAUSES,Dental Instruments,Hypersensitivity,medd,patf,1,CAUSES_MEDDcausPATF
+C0016266,C0028778,CAUSES,Flowmeters,Obstruction,medd,patf,1,CAUSES_MEDDcausPATF
+C0017108,C0015376,CAUSES,Gas Scavengers,Extravasation,medd,patf,1,CAUSES_MEDDcausPATF
+C0017108,C0021368,CAUSES,Gas Scavengers,Inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0018830,C1373218,CAUSES,Heart-Lung Machine,Decreased Immunologic Activity [PE],medd,patf,1,CAUSES_MEDDcausPATF
+C0021102,C0016059,CAUSES,Implants,Fibrosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0021102,C0040053,CAUSES,Implants,Thrombosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0021102,C0333186,CAUSES,Implants,Restenosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0021102,C3714514,CAUSES,Implants,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0024861,C0015376,CAUSES,Masks,Extravasation,medd,patf,1,CAUSES_MEDDcausPATF
+C0024861,C0333257,CAUSES,Masks,Air leakage,medd,patf,1,CAUSES_MEDDcausPATF
+C0024861,C3203358,CAUSES,Masks,Hypoventilation,medd,patf,1,CAUSES_MEDDcausPATF
+C0038928,C0038941,CAUSES,Surgical Instruments,Surgical Wound Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0038928,C0392618,CAUSES,Surgical Instruments,Postoperative infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0039142,C0038940,CAUSES,Syringes,Surgical Wound Dehiscence,medd,patf,1,CAUSES_MEDDcausPATF
+C0039142,C0392618,CAUSES,Syringes,Postoperative infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0039142,C3714514,CAUSES,Syringes,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0040661,C0036679,CAUSES,Transducers,Diastasis,medd,patf,2,CAUSES_MEDDcausPATF
+C0042325,C0281169,CAUSES,Vaporizers,pulmonary complications,medd,patf,1,CAUSES_MEDDcausPATF
+C0042497,C0242781,CAUSES,Mechanical Ventilator,disease transmission,medd,patf,1,CAUSES_MEDDcausPATF
+C0085590,C0040038,CAUSES,catheter device,Thromboembolism,medd,patf,1,CAUSES_MEDDcausPATF
+C0085590,C3714514,CAUSES,catheter device,Infection,medd,patf,4,CAUSES_MEDDcausPATF
+C0087153,C0020517,CAUSES,Ventilator - respiratory equipment,Hypersensitivity,medd,patf,1,CAUSES_MEDDcausPATF
+C0150683,C0021368,CAUSES,"Artificial Airways, Nasopharyngeal",Inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0175649,C3714514,CAUSES,Prosthesis,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0175723,C0036679,CAUSES,Bands,Diastasis,medd,patf,1,CAUSES_MEDDcausPATF
+C0175723,C0333288,CAUSES,Bands,Dissecting hemorrhage,medd,patf,1,CAUSES_MEDDcausPATF
+C0175723,C1261287,CAUSES,Bands,Stenosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0175727,C0036974,CAUSES,Stimulator,Shock,medd,patf,1,CAUSES_MEDDcausPATF
+C0175730,C0553697,CAUSES,biomedical tube device,Granulomatous inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0178987,C0003130,CAUSES,Artificial Airways,Anoxia,medd,patf,1,CAUSES_MEDDcausPATF
+C0178987,C0007642,CAUSES,Artificial Airways,Cellulitis,medd,patf,2,CAUSES_MEDDcausPATF
+C0178987,C0011071,CAUSES,Artificial Airways,Sudden death,medd,patf,1,CAUSES_MEDDcausPATF
+C0178987,C0021368,CAUSES,Artificial Airways,Inflammation,medd,patf,5,CAUSES_MEDDcausPATF
+C0178987,C0028778,CAUSES,Artificial Airways,Obstruction,medd,patf,7,CAUSES_MEDDcausPATF
+C0178987,C0034088,CAUSES,Artificial Airways,Pulmonary Valve Insufficiency,medd,patf,1,CAUSES_MEDDcausPATF
+C0178987,C1155266,CAUSES,Artificial Airways,inflammatory response,medd,patf,3,CAUSES_MEDDcausPATF
+C0178987,C1265823,CAUSES,Artificial Airways,Recurrent inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0178987,C1265824,CAUSES,Artificial Airways,Persistent inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0179407,C3714514,CAUSES,brackets,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0179740,C0040053,CAUSES,Peripherally inserted central catheter (physical object),Thrombosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0179768,C0031542,CAUSES,Peripheral intravenous catheter,Phlebitis,medd,patf,1,CAUSES_MEDDcausPATF
+C0179790,C0087086,CAUSES,"Swan-Ganz catheter, device",Thrombus,medd,patf,2,CAUSES_MEDDcausPATF
+C0179802,C0019080,CAUSES,Urinary catheter,Hemorrhage,medd,patf,1,CAUSES_MEDDcausPATF
+C0179802,C3714514,CAUSES,Urinary catheter,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0180694,C0018188,CAUSES,Bovie,Granuloma,medd,patf,1,CAUSES_MEDDcausPATF
+C0180799,C3714514,CAUSES,explorers,Infection,medd,patf,2,CAUSES_MEDDcausPATF
+C0181687,C0011304,CAUSES,loops,Demyelination,medd,patf,1,CAUSES_MEDDcausPATF
+C0181860,C0028778,CAUSES,Ultramicrotome,Obstruction,medd,patf,1,CAUSES_MEDDcausPATF
+C0182400,C0020517,CAUSES,Probes,Hypersensitivity,medd,patf,2,CAUSES_MEDDcausPATF
+C0182400,C0036679,CAUSES,Probes,Diastasis,medd,patf,4,CAUSES_MEDDcausPATF
+C0182537,C0020542,CAUSES,pump (device),Pulmonary Hypertension,medd,patf,1,CAUSES_MEDDcausPATF
+C0182537,C0087086,CAUSES,pump (device),Thrombus,medd,patf,1,CAUSES_MEDDcausPATF
+C0182537,C0151521,CAUSES,pump (device),Bacterial resistance,medd,patf,1,CAUSES_MEDDcausPATF
+C0182537,C0333957,CAUSES,pump (device),Growth acceleration,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C0016059,CAUSES,Regulators (device),Fibrosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C0020507,CAUSES,Regulators (device),Hyperplasia,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C3714514,CAUSES,Regulators (device),Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0183089,C0333288,CAUSES,saw (device),Dissecting hemorrhage,medd,patf,1,CAUSES_MEDDcausPATF
+C0183309,C0020517,CAUSES,Simulators,Hypersensitivity,medd,patf,1,CAUSES_MEDDcausPATF
+C0183336,C1261287,CAUSES,Sleeve,Stenosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0183479,C3714514,CAUSES,Spreader,Infection,medd,patf,2,CAUSES_MEDDcausPATF
+C0183521,C0016059,CAUSES,Vascular stent,Fibrosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0183521,C0040053,CAUSES,Vascular stent,Thrombosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0183521,C0333186,CAUSES,Vascular stent,Restenosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0184252,C0004144,CAUSES,Medical Valves,Atelectasis,medd,patf,1,CAUSES_MEDDcausPATF
+C0184252,C0015376,CAUSES,Medical Valves,Extravasation,medd,patf,1,CAUSES_MEDDcausPATF
+C0184252,C0232219,CAUSES,Medical Valves,Abnormal cardiac conduction,medd,patf,1,CAUSES_MEDDcausPATF
+C0336587,C4287874,CAUSES,"Surgical drill, device (physical object)",Droplet Transmission,medd,patf,1,CAUSES_MEDDcausPATF
+C0336630,C0021368,CAUSES,Endotracheal tube,Inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0348000,C0018188,CAUSES,Instrument - device,Granuloma,medd,patf,1,CAUSES_MEDDcausPATF
+C0348000,C3714514,CAUSES,Instrument - device,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0441107,C0021368,CAUSES,Cuffs device,Inflammation,medd,patf,2,CAUSES_MEDDcausPATF
+C0441107,C0021655,CAUSES,Cuffs device,Insulin Resistance,medd,patf,1,CAUSES_MEDDcausPATF
+C0441107,C2936381,CAUSES,Cuffs device,Neointima Formation,medd,patf,19,CAUSES_MEDDcausPATF
+C0491243,C0242781,CAUSES,Flexible endoscope,disease transmission,medd,patf,1,CAUSES_MEDDcausPATF
+C0491970,C0333467,CAUSES,Light microscope,Cytopathic effect,medd,patf,1,CAUSES_MEDDcausPATF
+C0493436,C3714514,CAUSES,CAMPYLOBACTER SPP.,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0493766,C3714514,CAUSES,CRYPTOSPORIDIUM SPP.,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0497652,C1261287,CAUSES,New equipment,Stenosis,medd,patf,1,CAUSES_MEDDcausPATF
+C0600551,C0021368,CAUSES,Absorbable Implants,Inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0727866,C0038941,CAUSES,skin barrier,Surgical Wound Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0745442,C0333355,CAUSES,Intravenous Catheters,Inflammatory disease of mucous membrane,medd,patf,1,CAUSES_MEDDcausPATF
+C0750164,C3714514,CAUSES,venous access,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0973726,C0011304,CAUSES,"NEEDLES,INJECTION",Demyelination,medd,patf,1,CAUSES_MEDDcausPATF
+C1139930,C0019080,CAUSES,Device Plate,Hemorrhage,medd,patf,1,CAUSES_MEDDcausPATF
+C1139930,C0024348,CAUSES,Device Plate,Lysis,medd,patf,1,CAUSES_MEDDcausPATF
+C1139930,C0520918,CAUSES,Device Plate,Decreased metabolic requirement,medd,patf,1,CAUSES_MEDDcausPATF
+C1140607,C0010356,CAUSES,Commodes,Cross Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C1140607,C3714514,CAUSES,Commodes,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C1145640,C0010356,CAUSES,"Central venous catheter, device",Cross Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C1145640,C3714514,CAUSES,"Central venous catheter, device",Infection,medd,patf,2,CAUSES_MEDDcausPATF
+C1145640,C3838785,CAUSES,"Central venous catheter, device",Catheter-associated urinary tract infection,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0003130,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Anoxia,medd,patf,2,CAUSES_MEDDcausPATF
+C1314650,C0015376,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Extravasation,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0019080,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Hemorrhage,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0020517,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Hypersensitivity,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0021655,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Insulin Resistance,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0022116,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Ischemia,medd,patf,5,CAUSES_MEDDcausPATF
+C1314650,C0027543,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Avascular necrosis of bone,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0036974,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Shock,medd,patf,2,CAUSES_MEDDcausPATF
+C1314650,C0332448,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Infiltration,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0442856,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Hypoperfusion,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0919691,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Anastomotic Leak,medd,patf,2,CAUSES_MEDDcausPATF
+C1553649,C0152254,CAUSES,Mandibular left third molar abutment,Fatty degeneration,medd,patf,1,CAUSES_MEDDcausPATF
+C1610583,C0019080,CAUSES,insulin syringes,Hemorrhage,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0003130,CAUSES,BARRIER,Anoxia,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0015376,CAUSES,BARRIER,Extravasation,medd,patf,12,CAUSES_MEDDcausPATF
+C1706912,C0020517,CAUSES,BARRIER,Hypersensitivity,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0021368,CAUSES,BARRIER,Inflammation,medd,patf,3,CAUSES_MEDDcausPATF
+C1706912,C0022116,CAUSES,BARRIER,Ischemia,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0034088,CAUSES,BARRIER,Pulmonary Valve Insufficiency,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0036679,CAUSES,BARRIER,Diastasis,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0036974,CAUSES,BARRIER,Shock,medd,patf,2,CAUSES_MEDDcausPATF
+C1706912,C0242656,CAUSES,BARRIER,Disease Progression,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0333355,CAUSES,BARRIER,Inflammatory disease of mucous membrane,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0544688,CAUSES,BARRIER,complication of disease,medd,patf,3,CAUSES_MEDDcausPATF
+C1706912,C1155266,CAUSES,BARRIER,inflammatory response,medd,patf,3,CAUSES_MEDDcausPATF
+C1706912,C3241936,CAUSES,BARRIER,Non-cardiogenic pulmonary edema,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C3714514,CAUSES,BARRIER,Infection,medd,patf,9,CAUSES_MEDDcausPATF
+C2959441,C0860239,CAUSES,Peripheral vascular catheter,Catheter related infection,medd,patf,1,CAUSES_MEDDcausPATF
+C3495388,C0015376,CAUSES,Vacuum Pumps,Extravasation,medd,patf,1,CAUSES_MEDDcausPATF
+C3495449,C0745283,CAUSES,Mobility aid,INFECTIOUS PROCESS,medd,patf,1,CAUSES_MEDDcausPATF
+C3495449,C3714514,CAUSES,Mobility aid,Infection,medd,patf,1,CAUSES_MEDDcausPATF

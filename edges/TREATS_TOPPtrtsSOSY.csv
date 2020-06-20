@@ -1,0 +1,418 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0518214,TREATS,Adenoidectomy,Perceived quality of life,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0001560,C0018681,TREATS,"Administration, Intranasal",Headache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0001563,C0011991,TREATS,"Administration, Oral",Diarrhea,topp,sosy,4,TREATS_TOPPtrtsSOSY
+C0001563,C0020429,TREATS,"Administration, Oral",Hyperalgesia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0001566,C0003126,TREATS,"Administration, Topical",Anosmia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0027796,TREATS,Pain management,Neuralgia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0030201,TREATS,Pain management,"Pain, Postoperative",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0150055,TREATS,Pain management,Chronic pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0002766,C0152169,TREATS,Pain management,Renal Colic,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0234230,TREATS,Pain management,"Pain, Burning",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0242429,TREATS,Pain management,Sore Throat,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0349410,TREATS,Pain management,Single organ dysfunction,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0002903,C0010200,TREATS,Anesthesia procedures,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002903,C0030193,TREATS,Anesthesia procedures,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002903,C0037090,TREATS,Anesthesia procedures,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002903,C0043144,TREATS,Anesthesia procedures,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002911,C0030193,TREATS,"Anesthesia, Conduction",Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002911,C2215257,TREATS,"Anesthesia, Conduction",Acute postoperative pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002921,C0596240,TREATS,Local anesthesia,Cancer Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0004704,C0030201,TREATS,Balloon Dilatation,"Pain, Postoperative",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0004933,C0032617,TREATS,Behavior Therapy,Polyuria,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0004933,C0085631,TREATS,Behavior Therapy,Agitation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0005527,C0015967,TREATS,Biological Response Modifier Therapy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0005841,C0013604,TREATS,Blood Transfusion,Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0007876,C0043144,TREATS,Cesarean section,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0009244,C0086132,TREATS,Cognitive Therapy,Depressive Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0009429,C0002962,TREATS,Combined Modality Therapy,Angina Pectoris,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0009429,C0015967,TREATS,Combined Modality Therapy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0009429,C0231218,TREATS,Combined Modality Therapy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0010280,C2242552,TREATS,Craniotomy,Phantosmia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0011079,C0476273,TREATS,Debridement,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0011946,C1709787,TREATS,Dialysis procedure,Pyrogenic Reaction,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0012683,C0011991,TREATS,Disinfection,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0012683,C0036572,TREATS,Disinfection,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013216,C0011991,TREATS,Pharmacotherapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013216,C0036572,TREATS,Pharmacotherapy,Seizures,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0013216,C0037088,TREATS,Pharmacotherapy,Signs and Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013216,C0043144,TREATS,Pharmacotherapy,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013216,C0231218,TREATS,Pharmacotherapy,Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0013216,C0600142,TREATS,Pharmacotherapy,Hot flushes,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013459,C0231218,TREATS,Early Mobilization,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013806,C0010200,TREATS,Electroconvulsive Therapy,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013806,C0030193,TREATS,Electroconvulsive Therapy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013806,C0235169,TREATS,Electroconvulsive Therapy,Excitability,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013931,C0019079,TREATS,"Embolization, Therapeutic",Hemoptysis,topp,sosy,5,TREATS_TOPPtrtsSOSY
+C0013969,C0037090,TREATS,Emergency treatment,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013969,C0231218,TREATS,Emergency treatment,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0015357,C0231218,TREATS,Extracorporeal Membrane Oxygenation,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0015357,C0476273,TREATS,Extracorporeal Membrane Oxygenation,Respiratory distress,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0016286,C0011991,TREATS,Fluid Therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016286,C0015967,TREATS,Fluid Therapy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016286,C0042963,TREATS,Fluid Therapy,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0010200,TREATS,"Medicine, Folk",Coughing,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0016419,C0011991,TREATS,"Medicine, Folk",Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0016419,C0012833,TREATS,"Medicine, Folk",Dizziness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0013604,TREATS,"Medicine, Folk",Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0015967,TREATS,"Medicine, Folk",Fever,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0016419,C0018681,TREATS,"Medicine, Folk",Headache,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0016419,C0022346,TREATS,"Medicine, Folk",Icterus,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0024031,TREATS,"Medicine, Folk",Low Back Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0027497,TREATS,"Medicine, Folk",Nausea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0040460,TREATS,"Medicine, Folk",Toothache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0242429,TREATS,"Medicine, Folk",Sore Throat,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0017118,C0349410,TREATS,Gastrectomy,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0019014,C0231218,TREATS,Hemofiltration,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0020587,C0030193,TREATS,Hypnotherapy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0020674,C0015967,TREATS,"Hypothermia, Induced",Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0020971,C0599766,TREATS,Immunization,Recovery of Function,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021083,C0036572,TREATS,Immunotherapy,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021107,C0599766,TREATS,Implantation procedure,Recovery of Function,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021485,C0030193,TREATS,Injection of therapeutic agent,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021485,C0152116,TREATS,Injection of therapeutic agent,Spasmodic torticollis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021485,C0231218,TREATS,Injection of therapeutic agent,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021778,C0015672,TREATS,Intermittent Positive-Pressure Ventilation,Fatigue,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021925,C0010200,TREATS,Intubation,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021925,C0015967,TREATS,Intubation,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0021925,C0042963,TREATS,Intubation,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021925,C0476273,TREATS,Intubation,Respiratory distress,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0022100,C0231218,TREATS,Irrigation,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0023038,C0740577,TREATS,Laparotomy,Acute abdominal pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0023690,C0030193,TREATS,Ligation,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0027741,C0150055,TREATS,Nerve Block,Chronic pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0028678,C0030193,TREATS,nursing therapy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0029168,C0011991,TREATS,Oral Rehydration Therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0029216,C0349410,TREATS,Organ Transplantation,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0030231,C0009806,TREATS,Palliative Care,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0030231,C0030193,TREATS,Palliative Care,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0030548,C0231218,TREATS,"Parenteral Nutrition, Total",Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0031139,C0476273,TREATS,Peritoneal Dialysis,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0009806,TREATS,Placebos,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0010200,TREATS,Placebos,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0011991,TREATS,Placebos,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0032042,C0015967,TREATS,Placebos,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0032042,C0019825,TREATS,Placebos,Hoarseness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0030193,TREATS,Placebos,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0032042,C0042963,TREATS,Placebos,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0043144,TREATS,Placebos,Wheezing,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0032042,C0231218,TREATS,Placebos,Malaise,topp,sosy,4,TREATS_TOPPtrtsSOSY
+C0032042,C0242429,TREATS,Placebos,Sore Throat,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0282666,TREATS,Placebos,Very Low Birth Weight,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0392171,TREATS,Placebos,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0401149,TREATS,Placebos,Chronic constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0522046,TREATS,Placebos,Cough suppression,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0574066,TREATS,Placebos,Increasing breathlessness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0746759,TREATS,Placebos,nasal drainage,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0749874,TREATS,Placebos,upper respiratory symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032042,C0919639,TREATS,Placebos,Reduced stool volume,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0032740,C0043144,TREATS,Positive End-Expiratory Pressure,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033968,C0020429,TREATS,Psychotherapy,Hyperalgesia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033972,C0015967,TREATS,"Psychotherapy, Multiple",Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033972,C0037090,TREATS,"Psychotherapy, Multiple","Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033972,C0231218,TREATS,"Psychotherapy, Multiple",Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0033972,C0231528,TREATS,"Psychotherapy, Multiple",Myalgia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033972,C0392171,TREATS,"Psychotherapy, Multiple",Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033972,C0740903,TREATS,"Psychotherapy, Multiple",allergic symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034386,C0231218,TREATS,Quarantine,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034991,C0518214,TREATS,Rehabilitation therapy,Perceived quality of life,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0034997,C0011991,TREATS,Rehydration,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0034997,C0015967,TREATS,Rehydration,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034997,C0030193,TREATS,Rehydration,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034997,C0152165,TREATS,Rehydration,Persistent vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034997,C1443924,TREATS,Rehydration,Severe diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0035139,C0011991,TREATS,Surgical Replantation,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0035139,C0013604,TREATS,Surgical Replantation,Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0035273,C0015967,TREATS,Resuscitation procedure,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0035273,C0085631,TREATS,Resuscitation procedure,Agitation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0037297,C0030193,TREATS,Skin Transplantation,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0037995,C1397014,TREATS,Splenectomy,Imbalance,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0038638,C0003578,TREATS,Suction drainage,Apnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040423,C0001416,TREATS,Tonsillectomy,Adenitis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040423,C0018520,TREATS,Tonsillectomy,Halitosis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040590,C0019825,TREATS,Tracheostomy procedure,Hoarseness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040590,C0231218,TREATS,Tracheostomy procedure,Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0040732,C0015672,TREATS,Transplantation,Fatigue,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040732,C0037088,TREATS,Transplantation,Signs and Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040732,C0349410,TREATS,Transplantation,Single organ dysfunction,topp,sosy,5,TREATS_TOPPtrtsSOSY
+C0040808,C0010201,TREATS,Treatment Protocols,Chronic cough,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040808,C0011991,TREATS,Treatment Protocols,Diarrhea,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0040808,C0015967,TREATS,Treatment Protocols,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040808,C0036572,TREATS,Treatment Protocols,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040808,C0740651,TREATS,Treatment Protocols,Abdominal symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040808,C1517205,TREATS,Treatment Protocols,Flare,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040861,C0015967,TREATS,Triage,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042196,C0010200,TREATS,Vaccination,Coughing,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0042196,C0011991,TREATS,Vaccination,Diarrhea,topp,sosy,7,TREATS_TOPPtrtsSOSY
+C0042196,C0015967,TREATS,Vaccination,Fever,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0042196,C0037090,TREATS,Vaccination,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042196,C0392171,TREATS,Vaccination,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042903,C0016242,TREATS,Vitrectomy,Vitreous floaters,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0056286,C0037088,TREATS,cyclophosphamide/prednisone/procarbazine/vincristine protocol,Signs and Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0078944,C0030193,TREATS,Patient-Controlled Analgesia,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0079613,C0010200,TREATS,Adoptive Immunotherapy,Coughing,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0085263,C0000737,TREATS,"Sphincterotomy, Endoscopic",Abdominal Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0085867,C0037317,TREATS,Balneotherapy,Sleep disturbances,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0086153,C0011991,TREATS,Dietary Modification,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0086225,C0282666,TREATS,Enteral Feeding,Very Low Birth Weight,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0086225,C0349410,TREATS,Enteral Feeding,Single organ dysfunction,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0086904,C0011991,TREATS,Oral rehydration procedure,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0086904,C3826452,TREATS,Oral rehydration procedure,Diarrhea in children,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0149783,C0015967,TREATS,Steroid therapy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0149783,C0037088,TREATS,Steroid therapy,Signs and Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0149783,C0231218,TREATS,Steroid therapy,Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0149783,C1517205,TREATS,Steroid therapy,Flare,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150126,C0036572,TREATS,Airway Management,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150141,C0027769,TREATS,Bathing,Nervousness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150169,C2364135,TREATS,Childbirth preparation,Actual Discomfort,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150234,C0010200,TREATS,Fever treatment,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150234,C0015967,TREATS,Fever treatment,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150238,C0015967,TREATS,Fluid resuscitation,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150468,C0013604,TREATS,Application of bandage (procedure),Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0152060,C0036572,TREATS,Transection (procedure),Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0152277,C0476273,TREATS,Incision and drainage,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0175763,C0036572,TREATS,Hemispherectomy,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0184633,C0476273,TREATS,Oxygen Therapy Care,Respiratory distress,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0185033,C0231218,TREATS,Diversion procedure,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0185115,C0019079,TREATS,Extraction,Hemoptysis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0185115,C0036572,TREATS,Extraction,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0185115,C0234251,TREATS,Extraction,Inflammatory pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0185115,C0241235,TREATS,Extraction,Purulent sputum,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0189054,C0476273,TREATS,Rhinoseptoplasty,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0189381,C0037090,TREATS,Bronchial Lavage,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0189476,C0013404,TREATS,Insertion of pleural tube drain,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0193959,C0231218,TREATS,Tonsillectomy and adenoidectomy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0194037,C0003862,TREATS,Autologous bone marrow transplant,Arthralgia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0195894,C0030193,TREATS,Thalamotomy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0198807,C0030193,TREATS,Peripheral block anesthesia,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C0003578,TREATS,Prophylactic treatment,Apnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C0011991,TREATS,Prophylactic treatment,Diarrhea,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0199176,C0013604,TREATS,Prophylactic treatment,Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C0030193,TREATS,Prophylactic treatment,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C0043144,TREATS,Prophylactic treatment,Wheezing,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0199176,C0231218,TREATS,Prophylactic treatment,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C0574785,TREATS,Prophylactic treatment,Lower Urinary Tract Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C1397014,TREATS,Prophylactic treatment,Imbalance,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199451,C0015672,TREATS,Continuous Positive Airway Pressure,Fatigue,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0199451,C0015967,TREATS,Continuous Positive Airway Pressure,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199451,C0333240,TREATS,Continuous Positive Airway Pressure,Acute edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199451,C0476273,TREATS,Continuous Positive Airway Pressure,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199470,C0010520,TREATS,Mechanical ventilation,Cyanosis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199470,C0476273,TREATS,Mechanical ventilation,Respiratory distress,topp,sosy,6,TREATS_TOPPtrtsSOSY
+C0199779,C0011991,TREATS,Administration of antibiotic,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199779,C0043144,TREATS,Administration of antibiotic,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199779,C0231218,TREATS,Administration of antibiotic,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199848,C0011991,TREATS,Coronavirus vaccination,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0200149,C0152457,TREATS,Ophthalmic examination and evaluation,Kayser-Fleischer ring,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204324,C0013604,TREATS,Dental surgical procedure,Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204650,C0036572,TREATS,General nursing care,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0011991,TREATS,Isolation procedure,Diarrhea,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0204727,C0015967,TREATS,Isolation procedure,Fever,topp,sosy,4,TREATS_TOPPtrtsSOSY
+C0204727,C0030193,TREATS,Isolation procedure,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0037088,TREATS,Isolation procedure,Signs and Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0037090,TREATS,Isolation procedure,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0042963,TREATS,Isolation procedure,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0231218,TREATS,Isolation procedure,Malaise,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0204727,C0235169,TREATS,Isolation procedure,Excitability,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0426576,TREATS,Isolation procedure,Gastrointestinal symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0206058,C0030193,TREATS,Elective Surgical Procedures,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0206058,C0037090,TREATS,Elective Surgical Procedures,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242297,C0011991,TREATS,Dietary Supplementation,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242297,C0015967,TREATS,Dietary Supplementation,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242348,C0015967,TREATS,Serotherapy,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0242389,C0010200,TREATS,Folk Remedies,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242389,C0012833,TREATS,Folk Remedies,Dizziness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242389,C0015967,TREATS,Folk Remedies,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242389,C0018681,TREATS,Folk Remedies,Headache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242390,C0010200,TREATS,Home Remedies,Coughing,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0242390,C0011991,TREATS,Home Remedies,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242390,C0013456,TREATS,Home Remedies,Earache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242390,C0231218,TREATS,Home Remedies,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242739,C0013404,TREATS,Nutritional Support,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242739,C0015967,TREATS,Nutritional Support,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242739,C0027497,TREATS,Nutritional Support,Nausea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242739,C0042963,TREATS,Nutritional Support,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0279030,C0086132,TREATS,interferon therapy,Depressive Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0280274,C0231218,TREATS,Antiviral Therapy,Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0280274,C0235031,TREATS,Antiviral Therapy,Neurologic Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0280274,C0349410,TREATS,Antiviral Therapy,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0282402,C0236075,TREATS,Hormone replacement therapy,Menopausal symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0282515,C0231218,TREATS,Chemoprevention,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0282638,C0011991,TREATS,Antibiotic Prophylaxis,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0010201,TREATS,Antibiotic therapy,Chronic cough,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0011991,TREATS,Antibiotic therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0015967,TREATS,Antibiotic therapy,Fever,topp,sosy,7,TREATS_TOPPtrtsSOSY
+C0338237,C0231218,TREATS,Antibiotic therapy,Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0338237,C0241235,TREATS,Antibiotic therapy,Purulent sputum,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0392171,TREATS,Antibiotic therapy,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0574066,TREATS,Antibiotic therapy,Increasing breathlessness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0344211,C0011991,TREATS,Supportive care,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0344211,C0013604,TREATS,Supportive care,Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0344211,C0015967,TREATS,Supportive care,Fever,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0344211,C0030193,TREATS,Supportive care,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0344211,C0036572,TREATS,Supportive care,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0344211,C0476273,TREATS,Supportive care,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0344211,C1260880,TREATS,Supportive care,Rhinorrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0349707,C0003578,TREATS,Aspiration-action,Apnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0349707,C0015967,TREATS,Aspiration-action,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0376495,C0242706,TREATS,Retreatments,Hyperoxia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0392920,C0036572,TREATS,Chemotherapy Regimen,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0418981,C0003126,TREATS,Medical therapy,Anosmia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0418981,C0011991,TREATS,Medical therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0418981,C0920703,TREATS,Medical therapy,gastrointestinal sign,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0425403,C0159075,TREATS,"Diet, High-Protein",Chyluria,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0439775,C0013604,TREATS,Elevation procedure,Edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0439775,C0015967,TREATS,Elevation procedure,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0439775,C0022346,TREATS,Elevation procedure,Icterus,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0439775,C0030193,TREATS,Elevation procedure,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0439775,C0235081,TREATS,Elevation procedure,"Tremor, Limb",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0439775,C0235886,TREATS,Elevation procedure,Leg edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0444735,C0043144,TREATS,Intermittent administration,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0444889,C0231218,TREATS,Continuous infusion,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0452380,C0011991,TREATS,Cow's milk-free diet,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0452410,C0015967,TREATS,Balanced diet,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0454505,C0741933,TREATS,Sputum induction technique,cardiac symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0455142,C0030193,TREATS,Intravenous therapy,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0459914,C0000737,TREATS,Conservative Treatment,Abdominal Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0459914,C0150045,TREATS,Conservative Treatment,Urge Incontinence,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0472473,C1619712,TREATS,Topical local anesthetic,"Pain, Procedural",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0472699,C0749874,TREATS,Hemopoietic stem cell transplant,upper respiratory symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0474166,C0392171,TREATS,Medical counseling,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0498305,C0038450,TREATS,Emergency tracheostomy,Stridor,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0520484,C0349410,TREATS,Xenograft procedure,Single organ dysfunction,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0524865,C0036572,TREATS,Reconstructive Surgical Procedures,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0524865,C1321587,TREATS,Reconstructive Surgical Procedures,Breathing abnormally deep,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0543467,C0010520,TREATS,Operative Surgical Procedures,Cyanosis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0543467,C0030193,TREATS,Operative Surgical Procedures,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0543467,C0231218,TREATS,Operative Surgical Procedures,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0543467,C0747556,TREATS,Operative Surgical Procedures,Recurrent pharyngitis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0547070,C0235169,TREATS,Ablation,Excitability,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0547070,C0596240,TREATS,Ablation,Cancer Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0554804,C0476273,TREATS,Assisted breathing,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0559681,C0015967,TREATS,Oral antibiotic therapy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0563322,C0030193,TREATS,Intravenous steroid injection,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0574032,C0009806,TREATS,Infusion procedures,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0574032,C0010200,TREATS,Infusion procedures,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0574032,C0011991,TREATS,Infusion procedures,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0574032,C0013395,TREATS,Infusion procedures,Dyspepsia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0574032,C0018681,TREATS,Infusion procedures,Headache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0574032,C0036572,TREATS,Infusion procedures,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0574032,C0242429,TREATS,Infusion procedures,Sore Throat,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0581528,C0235744,TREATS,Close observation,Breath Holding,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0677850,C0011991,TREATS,adjuvant therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0677850,C0231218,TREATS,adjuvant therapy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0677850,C0231918,TREATS,adjuvant therapy,Nose symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0677850,C0349410,TREATS,adjuvant therapy,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0677908,C0036572,TREATS,Maintenance therapy,Seizures,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0678026,C0010200,TREATS,Antifungal therapy,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0678026,C0015967,TREATS,Antifungal therapy,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0678812,C0011991,TREATS,systemic administration,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0678823,C0011991,TREATS,parenteral administration,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0679657,C0030193,TREATS,cognitive technique,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0679657,C0231218,TREATS,cognitive technique,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0683525,C0015967,TREATS,treatment options,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0683525,C0030193,TREATS,treatment options,Pain,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0683525,C0038450,TREATS,treatment options,Stridor,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0683525,C0333240,TREATS,treatment options,Acute edema,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0684199,C0221776,TREATS,Homeopathy,Oral pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0684199,C0232462,TREATS,Homeopathy,Decrease in appetite,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0695434,C0231239,TREATS,oscillations,Fluctuation,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0700589,C0236075,TREATS,Contraceptive methods,Menopausal symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0742344,C0013404,TREATS,chest tube placement,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0744425,C0476273,TREATS,glucocorticoid therapy,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0747568,C0036572,TREATS,phenobarbital treatment,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0748895,C0030193,TREATS,Sphincterotomy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0844334,C0037317,TREATS,septoplasty,Sleep disturbances,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0854632,C0011991,TREATS,electrolyte replacement,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0854632,C0239182,TREATS,electrolyte replacement,Watery diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0886052,C0241745,TREATS,wound care,Wound pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0887947,C0015967,TREATS,"Antiretroviral Therapy, Highly Active",Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0887947,C0019214,TREATS,"Antiretroviral Therapy, Highly Active",Hepatosplenomegaly,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0920467,C0015967,TREATS,disorder control (procedure),Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0949216,C0009806,TREATS,Alternative Therapies,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0949216,C0010200,TREATS,Alternative Therapies,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0949216,C0011991,TREATS,Alternative Therapies,Diarrhea,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C0949216,C0030193,TREATS,Alternative Therapies,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0949266,C0015967,TREATS,"Therapies, Investigational",Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1116142,C0015967,TREATS,Transfusion of granulocytes,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1258045,C0003578,TREATS,Nasal Continuous Positive Airway Pressure,Apnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1273412,C0009806,TREATS,Chinese herbal medicine,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1273412,C0022346,TREATS,Chinese herbal medicine,Icterus,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1273412,C0392171,TREATS,Chinese herbal medicine,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1280903,C0011991,TREATS,Exploration procedure,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1299597,C0011991,TREATS,Empirical therapy,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1303150,C0233401,TREATS,Disease management program (regime/therapy),Psychiatric symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1318464,C3714552,TREATS,Occupational therapy regime,Weakness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1443861,C0235031,TREATS,Post-Exposure Prophylaxis,Neurologic Symptoms,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1455871,C0013404,TREATS,Non-invasive positive pressure (NIPPV),Dyspnea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1455871,C0476273,TREATS,Non-invasive positive pressure (NIPPV),Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1504389,C0015967,TREATS,Stem cell transplant,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0003578,TREATS,Detection,Apnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0005874,TREATS,Detection,Blushing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0010200,TREATS,Detection,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0010201,TREATS,Detection,Chronic cough,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1511790,C0011991,TREATS,Detection,Diarrhea,topp,sosy,12,TREATS_TOPPtrtsSOSY
+C1511790,C0015967,TREATS,Detection,Fever,topp,sosy,5,TREATS_TOPPtrtsSOSY
+C1511790,C0037090,TREATS,Detection,"Signs and Symptoms, Respiratory",topp,sosy,3,TREATS_TOPPtrtsSOSY
+C1511790,C0042963,TREATS,Detection,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0043144,TREATS,Detection,Wheezing,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1511790,C0231218,TREATS,Detection,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0392171,TREATS,Detection,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0856281,TREATS,Detection,Pyrexia of unknown origin (excl puerperal),topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1515119,C0043144,TREATS,systemic therapy,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1515884,C0010200,TREATS,Acupuncture and Oriental Medicine,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1515884,C0015967,TREATS,Acupuncture and Oriental Medicine,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1515884,C0518214,TREATS,Acupuncture and Oriental Medicine,Perceived quality of life,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1515884,C3714552,TREATS,Acupuncture and Oriental Medicine,Weakness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1516003,C0030193,TREATS,Antibody-Directed Enzyme Prodrug Therapy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1527077,C0231617,TREATS,Peripheral Electronic Nerve Stimulation,Catch - Finding of sensory dimension of pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1611149,C0013404,TREATS,Biphasic Positive Airway Pressure,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1611149,C0476273,TREATS,Biphasic Positive Airway Pressure,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1627346,C0011991,TREATS,Feeding regime,Diarrhea,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C1659427,C0010200,TREATS,Nebulization,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1659427,C0043144,TREATS,Nebulization,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1659427,C0231218,TREATS,Nebulization,Malaise,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1659427,C0476273,TREATS,Nebulization,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1704532,C0476273,TREATS,Active Method,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1708063,C0015967,TREATS,First line treatment,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1708063,C0027796,TREATS,First line treatment,Neuralgia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1708063,C0032781,TREATS,First line treatment,Posterior rhinorrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1708063,C0231929,TREATS,First line treatment,Acute hypoventilation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1708063,C0349410,TREATS,First line treatment,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1868981,C0349410,TREATS,Invasive mechanical ventilation NOS,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1868981,C0476273,TREATS,Invasive mechanical ventilation NOS,Respiratory distress,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1883299,C0011991,TREATS,Therapeutic Nutritional Supplementation,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1883520,C0011991,TREATS,VePesid-Ifosfamide-Platinol Regimen,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1963724,C0856281,TREATS,Antiretroviral therapy,Pyrexia of unknown origin (excl puerperal),topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1964029,C0015967,TREATS,early/brief intervention/therapy (treatment),Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0013404,TREATS,Noninvasive Ventilation,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0015672,TREATS,Noninvasive Ventilation,Fatigue,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0037090,TREATS,Noninvasive Ventilation,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0231929,TREATS,Noninvasive Ventilation,Acute hypoventilation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0476273,TREATS,Noninvasive Ventilation,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2242628,C0009806,TREATS,Fecal Microbiota Transplantation,Constipation,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C2242628,C0011991,TREATS,Fecal Microbiota Transplantation,Diarrhea,topp,sosy,6,TREATS_TOPPtrtsSOSY
+C2242628,C0018520,TREATS,Fecal Microbiota Transplantation,Halitosis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2348331,C0231218,TREATS,Dose Regimen,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2349740,C0010200,TREATS,Non-invasive mechanical ventilation,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2349740,C0476273,TREATS,Non-invasive mechanical ventilation,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2827774,C0011991,TREATS,Current Therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2827774,C0232849,TREATS,Current Therapy,Bladder pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2827774,C0574785,TREATS,Current Therapy,Lower Urinary Tract Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2936643,C0027497,TREATS,Standard of Care,Nausea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2936643,C0042963,TREATS,Standard of Care,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2945704,C0015967,TREATS,Conventional Treatment,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C2945704,C0349410,TREATS,Conventional Treatment,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2985566,C0043144,TREATS,Targeted Therapy,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3163695,C0019079,TREATS,Transarterial embolization,Hemoptysis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3540512,C0015967,TREATS,Circumferential Supracrestal Fiberotomy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3540512,C0235031,TREATS,Circumferential Supracrestal Fiberotomy,Neurologic Symptoms,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C3649547,C1397014,TREATS,Continuous renal replacement therapy,Imbalance,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3650834,C0231218,TREATS,Electrolyte therapy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3665674,C0010200,TREATS,Warburg Therapy,Coughing,topp,sosy,3,TREATS_TOPPtrtsSOSY
+C3665674,C0013404,TREATS,Warburg Therapy,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3665674,C0242706,TREATS,Warburg Therapy,Hyperoxia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3686677,C0013395,TREATS,Introduction of normal fauna to digestive tract,Dyspepsia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3828439,C0010200,TREATS,Pulmonary Hygiene,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3843422,C0917801,TREATS,Abstinence,Sleeplessness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3850079,C0015230,TREATS,Cytoreductive Surgery,Exanthema,topp,sosy,1,TREATS_TOPPtrtsSOSY
