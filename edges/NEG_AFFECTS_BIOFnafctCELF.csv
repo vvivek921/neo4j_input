@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0042765,C0042774,NEG_AFFECTS,Virulence,Virus Replication,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF
+C0042767,C0007587,NEG_AFFECTS,Virus Activation,Cell Death,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF
+C0220781,C1160701,NEG_AFFECTS,Anabolism,viral genome replication,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF
+C1537068,C0007587,NEG_AFFECTS,Virus Internalization,Cell Death,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF
+C1537068,C1159455,NEG_AFFECTS,Virus Internalization,syncytium formation,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF
+C1537068,C3271951,NEG_AFFECTS,Virus Internalization,macropinocytosis,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF
+C3714634,C0031308,NEG_AFFECTS,Biological Processes,Phagocytosis,biof,celf,1,NEG_AFFECTS_BIOFnafctCELF

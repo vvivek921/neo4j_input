@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0080089,C0242611,NEG_PART_OF,Reading Frames (Nucleotide Sequence),"Codon, Terminator",nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0162326,C1883633,NEG_PART_OF,DNA Sequence,3' Region,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0242610,C0162326,NEG_PART_OF,"Codon, Initiator",DNA Sequence,nusq,nusq,2,NEG_PART_OF_NUSQnprtfNUSQ
+C0242610,C1882940,NEG_PART_OF,"Codon, Initiator",Restriction Site,nusq,nusq,2,NEG_PART_OF_NUSQnprtfNUSQ
+C0242611,C0080089,NEG_PART_OF,"Codon, Terminator",Reading Frames (Nucleotide Sequence),nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0242611,C0162326,NEG_PART_OF,"Codon, Terminator",DNA Sequence,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0242611,C0242612,NEG_PART_OF,"Codon, Terminator","Codon, Nonsense",nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0752046,C0162326,NEG_PART_OF,Single Nucleotide Polymorphism,DNA Sequence,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C1882940,C0162326,NEG_PART_OF,Restriction Site,DNA Sequence,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
