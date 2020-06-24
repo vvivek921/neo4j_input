@@ -2,6 +2,7 @@ cui,type,name
 C0000610,phsu,6-Aminonicotinamide
 C0000661,phsu,8-Bromo Cyclic Adenosine Monophosphate
 C0000782,phsu,Abortifacient Agents
+C0000956,phsu,Acenocoumarol
 C0001046,phsu,Acetylcholinesterase Inhibitors
 C0001637,phsu,Adrenergic Agents
 C0001640,phsu,Adrenergic alpha-Agonists
@@ -33,6 +34,7 @@ C0003277,phsu,Anticholesteremic Agents
 C0003280,phsu,Anticoagulants
 C0003286,phsu,Anticonvulsants
 C0003289,phsu,Antidepressive Agents
+C0003290,phsu,Tricyclic Antidepressive Agents
 C0003292,phsu,Antidiarrheals
 C0003295,phsu,Antidote
 C0003297,phsu,Antiemetics
@@ -52,6 +54,7 @@ C0003405,phsu,Antiparkinson Agents
 C0003416,phsu,Antiprotozoal Agents
 C0003417,phsu,Antipruritics
 C0003419,phsu,Antipyretics
+C0003420,phsu,Antipyrine
 C0003448,phsu,Antitubercular Agents
 C0003449,phsu,Antitussive Agents
 C0003451,phsu,Antiviral Agents
@@ -60,8 +63,10 @@ C0003674,phsu,Vidarabine Phosphate
 C0003825,phsu,Arsphenamine
 C0004110,phsu,Astringents
 C0004906,phsu,Beclomethasone Dipropionate
+C0005035,phsu,Benzbromarone
 C0005836,phsu,Blood Substitutes
 C0006280,phsu,Bronchodilator Agents
+C0006519,phsu,butylscopolamine bromide
 C0006657,phsu,Calcifediol
 C0006684,phsu,Calcium Channel Blockers
 C0006881,phsu,Canrenoate Potassium
@@ -74,6 +79,7 @@ C0007220,phsu,Cardiovascular Agents
 C0007422,phsu,Cathartics
 C0007680,phsu,Central Nervous System Agents
 C0007681,phsu,Central Nervous System Depressants
+C0008197,phsu,Chlorhexidine Acetate
 C0008362,phsu,Choleretics
 C0008428,phsu,Cholinesterase Reactivators
 C0009117,phsu,Coagulants
@@ -87,12 +93,14 @@ C0010406,phsu,Cryoprotective Agents
 C0010464,phsu,Neuromuscular Nondepolarizing Agents
 C0010586,phsu,Cycloplegics
 C0010858,phsu,Cytostatic Agents
+C0011279,phsu,Nordazepam
 C0011947,phsu,Dialysis Solutions
 C0012050,phsu,Dibucaine
 C0012054,phsu,Bucladesine
 C0012131,phsu,"2',3'-Dideoxyadenosine"
 C0012191,phsu,Diethylcarbamazine
 C0012341,phsu,Iodoquinol
+C0012528,phsu,Diphenylamine
 C0012798,phsu,Diuretics
 C0012800,phsu,"Diuretics, Osmotic"
 C0013036,phsu,Dopaminergic Agents
@@ -100,6 +108,7 @@ C0013162,phsu,Drug Combinations
 C0013230,phsu,Investigational New Drugs
 C0013231,phsu,"Drugs, Non-Prescription"
 C0013232,phsu,"Drugs, Orphan"
+C0013547,phsu,Econazole
 C0013973,phsu,Emetics
 C0013983,phsu,Emollients
 C0014432,phsu,Enzyme Inhibitors
@@ -110,6 +119,7 @@ C0014930,phsu,Estrogen Antagonists
 C0014940,phsu,"Estrogens, Non-Steroidal"
 C0014941,phsu,"Estrogens, Synthetic"
 C0015314,phsu,Expectorants
+C0015772,phsu,Felodipine
 C0015896,phsu,Fertility Agents
 C0016018,phsu,Fibrinolytic Agents
 C0016411,phsu,Folic Acid Antagonists
@@ -117,18 +127,22 @@ C0016778,phsu,Tegafur
 C0017173,phsu,Gastrointestinal Agents
 C0017302,phsu,General anesthetic drugs
 C0017711,phsu,Synthetic glucocorticoid
+C0018033,phsu,Aurothioglucose
 C0018100,phsu,Gout Suppressants
 C0018938,phsu,Hematologic Agents
 C0019120,phsu,Hemostatic Agents
+C0019469,phsu,Hexobarbital
 C0019590,phsu,Histamine Antagonists
 C0019592,phsu,Histamine H1 Antagonists
 C0019593,phsu,Histamine H2 Antagonists
 C0019654,phsu,Histoplasmin
+C0020316,phsu,Hydroxocobalamin
 C0020554,phsu,Hypertonic Solutions
 C0020591,phsu,Hypnotics
 C0020592,phsu,Hypnotics and Sedatives
 C0020616,phsu,Hypoglycemic Agents
 C0020677,phsu,Hypotonic Solutions
+C0021978,phsu,Clioquinol
 C0021988,phsu,Iodophors
 C0022022,phsu,Ionophores
 C0022260,phsu,Isotonic Solutions
@@ -137,6 +151,7 @@ C0022792,phsu,Krypton
 C0024056,phsu,Loxapine
 C0024911,phsu,Materia Medica
 C0025423,phsu,calomel
+C0025688,phsu,Methoxyflurane
 C0025830,phsu,Methylthiouracil
 C0026207,phsu,Miotics
 C0026249,phsu,Mitogens
@@ -149,6 +164,7 @@ C0027409,phsu,Narcotic Analgesics
 C0027410,phsu,Narcotic Antagonists
 C0027866,phsu,Neuromuscular Blocking Agents
 C0027867,phsu,Neuromuscular Depolarizing Agents
+C0028113,phsu,Niridazole
 C0028222,phsu,Nivaquine
 C0029274,phsu,Ornidazole
 C0029994,phsu,Oxamniquine
@@ -162,6 +178,7 @@ C0032139,phsu,Plasmin Inhibitor
 C0032177,phsu,Platelet Aggregation Inhibitors
 C0032188,phsu,Platelet Inhibitors
 C0032333,phsu,podophyllin
+C0032393,phsu,Poloxalene
 C0032479,phsu,polyethylene glycol 4000
 C0032495,phsu,Polyglactin 910
 C0032830,phsu,"Edetic Acid, Potassium Salt"
@@ -186,6 +203,9 @@ C0037122,phsu,Silubin
 C0037250,phsu,skeletal muscle relaxants
 C0037766,phsu,Antispasmodics
 C0037862,phsu,Spermatocidal Agents
+C0038670,phsu,Sulfacetamide
+C0038683,phsu,Sulfalene
+C0038795,phsu,Suloctidil
 C0039051,phsu,Sympatholytics
 C0039052,phsu,Sympathomimetics
 C0039677,phsu,Tetrahydrouridine

@@ -35,11 +35,11 @@ C0002598,C0003195,ISA,Amiodarone,Anti-Arrhythmia Agents,orch,phsu,11,ISA_ORCHisa
 C0002598,C0007220,ISA,Amiodarone,Cardiovascular Agents,orch,phsu,2,ISA_ORCHisaPHSU
 C0002598,C0360703,ISA,Amiodarone,Class III antiarrhythmic drug,orch,phsu,2,ISA_ORCHisaPHSU
 C0002600,C0003289,ISA,Amitriptyline,Antidepressive Agents,orch,phsu,3,ISA_ORCHisaPHSU
+C0002600,C0003290,ISA,Amitriptyline,Tricyclic Antidepressive Agents,orch,phsu,4,ISA_ORCHisaPHSU
 C0002641,C0003374,ISA,Amodiaquine,Antimalarials,orch,phsu,14,ISA_ORCHisaPHSU
 C0002686,C0009188,ISA,Amprolium,Coccidiostats,orch,phsu,2,ISA_ORCHisaPHSU
 C0002697,C0031638,ISA,Inamrinone,Phosphodiesterase Inhibitors,orch,phsu,1,ISA_ORCHisaPHSU
 C0002697,C2267032,ISA,Inamrinone,Phosphodiesterase 3 Inhibitors,orch,phsu,1,ISA_ORCHisaPHSU
-C0003290,C0003289,ISA,Tricyclic Antidepressive Agents,Antidepressive Agents,orch,phsu,1,ISA_ORCHisaPHSU
 C0003360,C0282555,ISA,Antihistamines,Anti-Allergic Agents,orch,phsu,1,ISA_ORCHisaPHSU
 C0003596,C0178601,ISA,Apomorphine,Dopamine Agonists,orch,phsu,1,ISA_ORCHisaPHSU
 C0003968,C0003402,ISA,Ascorbic Acid,Antioxidants,orch,phsu,42,ISA_ORCHisaPHSU
@@ -120,6 +120,7 @@ C0010976,C0037250,ISA,Dantrolene,skeletal muscle relaxants,orch,phsu,1,ISA_ORCHi
 C0010980,C1136254,ISA,Dapsone,Microbicides,orch,phsu,1,ISA_ORCHisaPHSU
 C0011122,C0009188,ISA,Decoquinate,Coccidiostats,orch,phsu,5,ISA_ORCHisaPHSU
 C0011685,C0003289,ISA,Desipramine,Antidepressive Agents,orch,phsu,3,ISA_ORCHisaPHSU
+C0011685,C0003290,ISA,Desipramine,Tricyclic Antidepressive Agents,orch,phsu,2,ISA_ORCHisaPHSU
 C0011777,C0003209,ISA,Dexamethasone,Anti-Inflammatory Agents,orch,phsu,3,ISA_ORCHisaPHSU
 C0011777,C0003297,ISA,Dexamethasone,Antiemetics,orch,phsu,1,ISA_ORCHisaPHSU
 C0011777,C0017711,ISA,Dexamethasone,Synthetic glucocorticoid,orch,phsu,5,ISA_ORCHisaPHSU
@@ -180,7 +181,6 @@ C0016365,C0003289,ISA,Fluoxetine,Antidepressive Agents,orch,phsu,3,ISA_ORCHisaPH
 C0016365,C0162758,ISA,Fluoxetine,Serotonin Uptake Inhibitors,orch,phsu,1,ISA_ORCHisaPHSU
 C0016365,C0360105,ISA,Fluoxetine,Selective Serotonin Reuptake Inhibitors,orch,phsu,1,ISA_ORCHisaPHSU
 C0016377,C0003211,ISA,Flurbiprofen,"Anti-Inflammatory Agents, Non-Steroidal",orch,phsu,2,ISA_ORCHisaPHSU
-C0016855,C1136254,ISA,Furazolidone,Microbicides,orch,phsu,1,ISA_ORCHisaPHSU
 C0016860,C0012798,ISA,Furosemide,Diuretics,orch,phsu,10,ISA_ORCHisaPHSU
 C0016860,C0354100,ISA,Furosemide,Loop Diuretics,orch,phsu,9,ISA_ORCHisaPHSU
 C0016967,C0001046,ISA,Galantamine,Acetylcholinesterase Inhibitors,orch,phsu,1,ISA_ORCHisaPHSU
@@ -208,6 +208,7 @@ C0020740,C0003211,ISA,Ibuprofen,"Anti-Inflammatory Agents, Non-Steroidal",orch,p
 C0020740,C0003419,ISA,Ibuprofen,Antipyretics,orch,phsu,6,ISA_ORCHisaPHSU
 C0020740,C0085387,ISA,Ibuprofen,Cyclooxygenase Inhibitors,orch,phsu,1,ISA_ORCHisaPHSU
 C0020934,C0003289,ISA,Imipramine,Antidepressive Agents,orch,phsu,2,ISA_ORCHisaPHSU
+C0020934,C0003290,ISA,Imipramine,Tricyclic Antidepressive Agents,orch,phsu,4,ISA_ORCHisaPHSU
 C0020934,C0033978,ISA,Imipramine,Psychotropic Drugs,orch,phsu,2,ISA_ORCHisaPHSU
 C0021186,C0012798,ISA,Indapamide,Diuretics,orch,phsu,1,ISA_ORCHisaPHSU
 C0021246,C0003209,ISA,Indomethacin,Anti-Inflammatory Agents,orch,phsu,3,ISA_ORCHisaPHSU
@@ -230,8 +231,6 @@ C0022616,C0036753,ISA,Ketanserin,Serotonin Antagonists,orch,phsu,1,ISA_ORCHisaPH
 C0022625,C0003308,ISA,Ketoconazole,Antifungal Agents,orch,phsu,6,ISA_ORCHisaPHSU
 C0022635,C0003211,ISA,Ketoprofen,"Anti-Inflammatory Agents, Non-Steroidal",orch,phsu,1,ISA_ORCHisaPHSU
 C0022957,C0007422,ISA,Lactulose,Cathartics,orch,phsu,1,ISA_ORCHisaPHSU
-C0023082,C0009188,ISA,Lasalocid,Coccidiostats,orch,phsu,2,ISA_ORCHisaPHSU
-C0023082,C0022022,ISA,Lasalocid,Ionophores,orch,phsu,2,ISA_ORCHisaPHSU
 C0023556,C0003158,ISA,Levamisole,Anthelmintics,orch,phsu,2,ISA_ORCHisaPHSU
 C0023556,C0003404,ISA,Levamisole,Antiparasitic Agents,orch,phsu,1,ISA_ORCHisaPHSU
 C0023660,C0002934,ISA,Lidocaine,Local Anesthetics,orch,phsu,2,ISA_ORCHisaPHSU
